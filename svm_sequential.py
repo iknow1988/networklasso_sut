@@ -1,19 +1,9 @@
 import numpy as np
 from cvxpy import *
-
 import matplotlib.pyplot as plt
 import time
 from sklearn import svm
-# from sklearn.decomposition import PCA
-# from sklearn.cluster import KMeans
-# from sklearn import mixture
-# from scipy import linalg
-# color_iter = itertools.cycle(['navy', 'c', 'cornflowerblue', 'gold',
-#                               'darkorange'])
-# import matplotlib as mpl
-# import itertools
 np.random.seed(2)
-
 
 def generateSyntheticData(example):
     if(example == 1):
@@ -131,56 +121,9 @@ def librarySVM(x_train, y_train, x_test, y_test):
     print "Training Accuracy = ", model.score(x_train, y_train)
     print "Testing Accuracy = ", model.score(x_test, y_test)
     print "finish"
-
-# def plot_results(X, Y_, means, covariances, index, title):
-#     splot = plt.subplot(2, 1, 1 + index)
-#     for i, (mean, covar, color) in enumerate(zip(
-#             means, covariances, color_iter)):
-#         v, w = linalg.eigh(covar)
-#         v = 2. * np.sqrt(2.) * np.sqrt(v)
-#         u = w[0] / linalg.norm(w[0])
-#         # as the DP will not use every component it has access to
-#         # unless it needs it, we shouldn't plot the redundant
-#         # components.
-#         if not np.any(Y_ == i):
-#             continue
-#         plt.scatter(X[Y_ == i, 0], X[Y_ == i, 1], .8, color=color)
-# 
-#         # Plot an ellipse to show the Gaussian component
-#         angle = np.arctan(u[1] / u[0])
-#         angle = 180. * angle / np.pi  # convert to degrees
-#         ell = mpl.patches.Ellipse(mean, v[0], v[1], 180. + angle, color=color)
-#         ell.set_clip_box(splot.bbox)
-#         ell.set_alpha(0.5)
-#         splot.add_artist(ell)
-# 
-#     plt.xlim(-9., 5.)
-#     plt.ylim(-3., 6.)
-#     plt.xticks(())
-#     plt.yticks(())
-#     plt.title(title)
-#     plt.show()
     
 def main():
     (x_train, y_train, x_test, y_test) = generateSyntheticData(1)
-    
-#     temp = np.concatenate((x_train, y_train), axis=1)
-#     gmm = mixture.GaussianMixture(n_components=20, covariance_type='full').fit(temp)
-#     prd = gmm.predict(temp)
-#     for i in range(temp.shape[0]):
-#          print i, prd[i]
-#     plot_results(temp, gmm.predict(temp), gmm.means_, gmm.covariances_, 0,
-#              'Gaussian Mixture')
-
-#     kmeans = KMeans(n_clusters=20, random_state=0).fit(temp)
-#     for i in range(temp.shape[0]):
-#         print i, kmeans.labels_[i]
-#     print kmeans.labels_
-#     pca = PCA(n_components=50, svd_solver='full')
-#     pca.fit(x_train)
-#     print(pca.explained_variance_ratio_) 
-#     print (np.sum(pca.explained_variance_ratio_))
-
 
     sizeOptVar = x_train.shape[1]
     trainDataSize = x_train.shape[0]
