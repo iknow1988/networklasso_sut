@@ -15,6 +15,7 @@ For hosting the source code of network lasso related machine learning research.
 * Summary of set up
 * Configuration
 * Dependencies
+	The required dependencies to build this project are Python 2.7, sklearn, NumPy >= 1.6.1, Scipy >= 0.9, CVXPY >= 0.3.9, Snap.py >= 1.2, and SnapVX.py >=0.5
 * Database configuration
 * How to run tests
 * Deployment instructions
