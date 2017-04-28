@@ -4,33 +4,22 @@ import numpy as np
 from numpy import linalg as LA
 import math
 import time
+import sys
+import multiprocessing
 from multiprocessing import Pool
-import matplotlib.pyplot as plt
-from sklearn import mixture
-
-# Input variables
 np.random.seed(2)
-rho = 0.0001 
-eabs = math.pow(10, -2)
-erel = math.pow(10, -3)
-maxIteration = 50
-lambdaThreshold = 50
-lamb = 0
-lambdaUpdateStepSize = 1.5
+
+# Synthetic Data input variables
 nodes = 1000
 partitions = 20
 sizePart = nodes / partitions
 samePartitionEdgeProbability = 0.5
 diffPartitionEdgeProbability = 0.01
-sizeOptimizationVariable = 51  # Includes 1 for constant offset!
-c = 0.75
-epsilon = 0.01
-trainSetSize = 25
-testSetSize = 10
-maxProcesses = 4
-plot1 = np.zeros(((int(lambdaThreshold / lambdaUpdateStepSize)), 1))
-plot2 = np.zeros(((int(lambdaThreshold / lambdaUpdateStepSize)), 1))
+sizeOptimizationVariable = 51
+trainSetSizePerNode = 25
+testSetSizePerNode = 10
 
+# Generates the Graph
 def generateGraph():
     G1 = nx.Graph()
     for i in range(nodes):
@@ -50,32 +39,34 @@ def generateGraph():
     
     return G1
 
+# Generates Synthetic data
 def generateSyntheticData(G1):
     nodes = G1.number_of_nodes()
     edges = G1.number_of_edges()
     a_true = np.random.randn(sizeOptimizationVariable, partitions)
-    v = np.random.randn(trainSetSize, nodes)
-    vtest = np.random.randn(testSetSize, nodes)
+    v = np.random.randn(trainSetSizePerNode, nodes)
+    vtest = np.random.randn(testSetSizePerNode, nodes)
 
-    trainingSet = np.random.randn(trainSetSize * (sizeOptimizationVariable + 1), nodes)  # First all the x_train, then all the y_train below it
-    for i in range(trainSetSize):
+    trainingSet = np.random.randn(trainSetSizePerNode * (sizeOptimizationVariable + 1), nodes)  # First all the x_train, then all the y_train below it
+    for i in range(trainSetSizePerNode):
         trainingSet[(i + 1) * sizeOptimizationVariable - 1, :] = 1  # Constant offset
     for i in range(nodes):
         a_part = a_true[:, i / sizePart]
-        for j in range(trainSetSize):
-            trainingSet[trainSetSize * sizeOptimizationVariable + j, i] = np.sign([np.dot(a_part.transpose(), trainingSet[j * sizeOptimizationVariable:(j + 1) * sizeOptimizationVariable, i]) + v[j, i]])
+        for j in range(trainSetSizePerNode):
+            trainingSet[trainSetSizePerNode * sizeOptimizationVariable + j, i] = np.sign([np.dot(a_part.transpose(), trainingSet[j * sizeOptimizationVariable:(j + 1) * sizeOptimizationVariable, i]) + v[j, i]])
 
-    (x_test, y_test) = (np.random.randn(testSetSize * sizeOptimizationVariable, nodes), np.zeros((testSetSize, nodes)))
-    for i in range(testSetSize):
+    (x_test, y_test) = (np.random.randn(testSetSizePerNode * sizeOptimizationVariable, nodes), np.zeros((testSetSizePerNode, nodes)))
+    for i in range(testSetSizePerNode):
         x_test[(i + 1) * sizeOptimizationVariable - 1, :] = 1  # Constant offset
     for i in range(nodes):
         a_part = a_true[:, i / sizePart]
-        for j in range(testSetSize):
+        for j in range(testSetSizePerNode):
             y_test[j, i] = np.sign([np.dot(a_part.transpose(), x_test[j * sizeOptimizationVariable:(j + 1) * sizeOptimizationVariable, i]) + vtest[j, i]])
     
     return trainingSet, x_test, y_test, a_true
 
-def getNeighbors(G1, maxdeg, u , z):
+# Gets the neighboring Models information of every nodes
+def getNeighborsModelParameters(G1, maxdeg, u , z):
     nodes = G1.number_of_nodes()
     edges = G1.number_of_edges()
 
@@ -105,13 +96,14 @@ def getNeighbors(G1, maxdeg, u , z):
     
     return neighbors
 
+# solves optimization problem
 def solveX(data):
     optimizationVariableSize = int(data[data.size - 1])
     lamb = data[data.size - 2]
     rho = data[data.size - 3]
     sizeData = int(data[data.size - 4])
     trainingSetSize = int(data[data.size - 5])
-    c = data[data.size - 6]
+    c = 0.75
     x = data[0:optimizationVariableSize]
     trainingData = data[optimizationVariableSize:(optimizationVariableSize + sizeData)]
     neighbors = data[(optimizationVariableSize + sizeData):data.size - 6]
@@ -143,12 +135,12 @@ def solveX(data):
     
     return a.value, g.value
 
+# Updates Z values
 def solveZ(data):
     optimizationVariableSize = int(data[data.size - 1])
     lamb = data[data.size - 2]
     rho = data[data.size - 3]
-    epsilon = data[data.size - 4]
-    weight = data[data.size - 5]
+    weight = data[data.size - 4]
     x1 = data[0:optimizationVariableSize]
     x2 = data[optimizationVariableSize:2 * optimizationVariableSize]
     u1 = data[2 * optimizationVariableSize:3 * optimizationVariableSize]
@@ -165,6 +157,7 @@ def solveZ(data):
     znew = znew.reshape(2 * optimizationVariableSize, 1)
     return znew
 
+# Updates dual variable
 def solveU(data):
     length = data.size
     u = data[0:length / 3]
@@ -173,6 +166,7 @@ def solveU(data):
     
     return u + (x - z)
 
+# Initializes ADMM algorithm
 def initializeADMM(G1):
     nodes = G1.number_of_nodes()
     edges = G1.number_of_edges()
@@ -188,7 +182,8 @@ def initializeADMM(G1):
     z = np.zeros((sizeOptimizationVariable, 2 * edges))
     return A, sqn, sqp, x, u, z
 
-def runADMM(G1, lamb, rho, x, u, z, a, A, sqn, sqp):
+# Runs ADMM on graph
+def runADMM(G1, lamb, rho, x, u, z, a, A, sqn, sqp, maxProcesses):
     nodes = G1.number_of_nodes()
     edges = G1.number_of_edges()
     maxdeg = max(G1.degree().values());
@@ -198,14 +193,17 @@ def runADMM(G1, lamb, rho, x, u, z, a, A, sqn, sqp):
     
     # Run ADMM
     iters = 0
+    eabs = math.pow(10, -2)
+    erel = math.pow(10, -3)
+    admmMaxIteration = 50
     pool = Pool(maxProcesses)
-    while(iters < maxIteration and (r > epri or s > edual or iters < 1)):
+    while(iters < admmMaxIteration and (r > epri or s > edual or iters < 1)):
         print "\t \t At Iteration = ", iters
         start_time = time.time()
         
         # x-update
-        neighbors = getNeighbors(G1, maxdeg, u , z)
-        params = np.tile([c, trainSetSize, sizeData, rho, lamb, sizeOptimizationVariable], (nodes, 1)).transpose()
+        neighbors = getNeighborsModelParameters(G1, maxdeg, u , z)
+        params = np.tile([trainSetSizePerNode, sizeData, rho, lamb, sizeOptimizationVariable], (nodes, 1)).transpose()
         temp = np.concatenate((x, a, neighbors, params), axis=0)
         values = pool.map(solveX, temp.transpose())
         newx = np.array(values)[:, 0].tolist()
@@ -223,7 +221,7 @@ def runADMM(G1, lamb, rho, x, u, z, a, A, sqn, sqp):
             weightsList[0, counter] = EI[2]['weight']
             counter = counter + 1
         xtemp = xtemp.reshape(2 * sizeOptimizationVariable, edges, order='F')
-        temp = np.concatenate((xtemp, utemp, ztemp, np.reshape(weightsList, (-1, edges)), np.tile([epsilon, rho, lamb, sizeOptimizationVariable], (edges, 1)).transpose()), axis=0)
+        temp = np.concatenate((xtemp, utemp, ztemp, np.reshape(weightsList, (-1, edges)), np.tile([rho, lamb, sizeOptimizationVariable], (edges, 1)).transpose()), axis=0)
         newz = pool.map(solveZ, temp.transpose())
         ztemp = np.array(newz).transpose()[0]
         ztemp = ztemp.reshape(sizeOptimizationVariable, 2 * edges, order='F')
@@ -266,17 +264,28 @@ def getAccuracy(modelParameters, dataSetSize, featureData, labelData):
     return right / float(total)
     
 def main():
+    maxProcesses = multiprocessing.cpu_count()
+    lamb = 0
+    lambdaMaxValue = 50
+    lambdaUpdateStepSize = 1.5
+    if(len(sys.argv) == 5):
+        maxProcesses = int(sys.argv[1])
+        lamb = float(sys.argv[2])
+        lambdaMaxValue = float(sys.argv[3])
+        lambdaUpdateStepSize = float(sys.argv[4])
+        print "\tValues are:\n \t\tmaxprocess =", maxProcesses, "\n\t\tlambda start value =", lamb, "\n\t\tlambda max value =", lambdaMaxValue, "\n\t\tlambda step size =", lambdaUpdateStepSize
+    else:
+        print "invalid arguments"
+        print "\tDefault values are:\n \t\tmaxprocess =", maxProcesses, "\n\t\tlambda start value =", lamb, "\n\t\tlambda max value =", lambdaMaxValue, "\n\t\tlambda step size =", lambdaUpdateStepSize
+        
+    rho = 0.0001
     start_time = time.time()
     G1 = generateGraph()
     print("----- Graph creation %s seconds -----" % (time.time() - start_time))
     (trainingSet, x_test, y_test, a_true) = generateSyntheticData(G1)
     
-    x_train = trainingSet[0:trainSetSize * sizeOptimizationVariable, :]
-#     dpgmm = mixture.BayesianGaussianMixture(n_components=25, weight_concentration_prior_type='dirichlet_process',init_params="random", max_iter=100)
-#     dpgmm.fit(x_train)
-#     clusters = dpgmm.predict(x_train)
-    y_train = trainingSet[trainSetSize * sizeOptimizationVariable: trainSetSize * (sizeOptimizationVariable + 1), :]
-    sizeData = trainingSet.shape[0]
+    x_train = trainingSet[0:trainSetSizePerNode * sizeOptimizationVariable, :]
+    y_train = trainingSet[trainSetSizePerNode * sizeOptimizationVariable: trainSetSizePerNode * (sizeOptimizationVariable + 1), :]
     nodes = G1.number_of_nodes()
     edges = G1.number_of_edges()
     print "\t Number of Nodes = ", nodes, " , Number of Edges = ", edges
@@ -284,42 +293,26 @@ def main():
     
     # Initialize ADMM variables
     (A, sqn, sqp, x, u, z) = initializeADMM(G1)
-    print "Run ADMM algorithm for", int(lambdaThreshold / lambdaUpdateStepSize), "lambda values and process size is", maxProcesses
+    print "Run ADMM algorithm for each lambda and total lambda is", int((lambdaMaxValue - lamb) / lambdaUpdateStepSize)
     count = 0
-    global lamb
-    while(lamb <= lambdaThreshold or lamb == 0):
+    while(lamb <= lambdaMaxValue or lamb == 0):
         # run ADMM
         print "\t For lambda = ", lamb
         start_time = time.time()
-        (x, u, z) = runADMM(G1, lamb, rho + math.sqrt(lamb), x, u , z, trainingSet, A, sqn, sqp)
+        (x, u, z) = runADMM(G1, lamb, rho + math.sqrt(lamb), x, u , z, trainingSet, A, sqn, sqp, maxProcesses)
         print("\t \t ADMM finished in %s seconds" % (time.time() - start_time))
-        
-#         print "True Variance"
-#         var1 = np.var(a_true)
-#         var2 = np.var(x)
-#         print var1
-#         print var2
-#         print var1-var2
-                
+                       
         # Get accuracy
         print "\t \t Result"
-        print "\t \t \t Train Data Accuracy = ", getAccuracy(x, trainSetSize, x_train, y_train)
-        testAccuracy = getAccuracy(x, testSetSize, x_test, y_test)
+        print "\t \t \t Train Data Accuracy = ", getAccuracy(x, trainSetSizePerNode, x_train, y_train)
+        testAccuracy = getAccuracy(x, testSetSizePerNode, x_test, y_test)
         print "\t \t \t Test Data Accuracy = ", testAccuracy
-        plot1[count] = lamb
-        plot2[count] = testAccuracy
+        
         if(lamb == 0):
-            lamb = 0.5
+            lamb = 0.1
         else:
             lamb = lamb * lambdaUpdateStepSize
         count = count + 1
-        
-    pl1 = np.array(plot1)
-    pl2 = np.array(plot2)
-    plt.plot(pl1, pl2)
-    plt.xscale('log')
-    plt.xlabel(r'$\lambda$')
-    plt.ylabel('Prediction Accuracy')
-    plt.show()
+               
 if __name__ == '__main__':
     main()
