@@ -1,0 +1,962 @@
+{
+  "authors": [
+    {
+      "authorId": "3280311", 
+      "name": "Xiao Ling", 
+      "url": "https://www.semanticscholar.org/author/3280311"
+    }, 
+    {
+      "authorId": "1780531", 
+      "name": "Daniel S. Weld", 
+      "url": "https://www.semanticscholar.org/author/1780531"
+    }
+  ], 
+  "citationVelocity": 31, 
+  "citations": [
+    {
+      "isInfluential": false, 
+      "paperId": "0e273a4913a493f63156db57a81507e78948fc9e", 
+      "title": "Automatically Annotated Turkish Corpus for Named Entity Recognition and Text Categorization using Large-Scale Gazetteers", 
+      "url": "https://www.semanticscholar.org/paper/0e273a4913a493f63156db57a81507e78948fc9e", 
+      "venue": "ArXiv", 
+      "year": 2017
+    }, 
+    {
+      "isInfluential": true, 
+      "paperId": "17ff6fb495872abe1b09d3330d5c4676bd190568", 
+      "title": "Heterogeneous Supervision for Relation Extraction: A Representation Learning Approach", 
+      "url": "https://www.semanticscholar.org/paper/17ff6fb495872abe1b09d3330d5c4676bd190568", 
+      "venue": "ArXiv", 
+      "year": 2017
+    }, 
+    {
+      "isInfluential": true, 
+      "paperId": "8855e81f0c4b66ad55277c5f94abb995e4d82cbf", 
+      "title": "Exploiting Parallel News Streams for Unsupervised Event Extraction", 
+      "url": "https://www.semanticscholar.org/paper/8855e81f0c4b66ad55277c5f94abb995e4d82cbf", 
+      "venue": "", 
+      "year": 2014
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "2679dbc4682b434ab5071f2c68b76a06954b96c0", 
+      "title": "Robust Named Entity Recognition in Idiosyncratic Domains", 
+      "url": "https://www.semanticscholar.org/paper/2679dbc4682b434ab5071f2c68b76a06954b96c0", 
+      "venue": "ArXiv", 
+      "year": 2016
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "635e386ddb49eee1a16af602faedcfd4703a7c6e", 
+      "title": "Relation Enhanced Neural Model for Type Classification of Entity Mentions with a Fine-Grained Taxonomy", 
+      "url": "https://www.semanticscholar.org/paper/635e386ddb49eee1a16af602faedcfd4703a7c6e", 
+      "venue": "Journal of Computer Science and Technology", 
+      "year": 2017
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "2d773c8a07c8815cc6887761869196af78ae9c45", 
+      "title": "JEDI: Joint Entity and Relation Detection using Type Inference", 
+      "url": "https://www.semanticscholar.org/paper/2d773c8a07c8815cc6887761869196af78ae9c45", 
+      "venue": "ACL", 
+      "year": 2016
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "955a78a8a5e4e31d10ffc827f365bd4c4f30d563", 
+      "title": "Overview of TAC-KBP2015 Tri-lingual Entity Discovery and Linking", 
+      "url": "https://www.semanticscholar.org/paper/955a78a8a5e4e31d10ffc827f365bd4c4f30d563", 
+      "venue": "", 
+      "year": 2015
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "b0807b52a08f8d254e8051e5ef4edfb32622df8f", 
+      "title": "Revisiting Selectional Preferences for Coreference Resolution", 
+      "url": "https://www.semanticscholar.org/paper/b0807b52a08f8d254e8051e5ef4edfb32622df8f", 
+      "venue": "ArXiv", 
+      "year": 2017
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "153b67ed0459d259a66206f42d443be14749bf0b", 
+      "title": "Using Entity Information from a Knowledge Base to Improve Relation Extraction", 
+      "url": "https://www.semanticscholar.org/paper/153b67ed0459d259a66206f42d443be14749bf0b", 
+      "venue": "", 
+      "year": 2015
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "70559e2ec58f4f2f9c9b30e41bd972584bfff68a", 
+      "title": "Entity Typing: A Critical Step for Mining Structures from Massive Unstructured Text", 
+      "url": "https://www.semanticscholar.org/paper/70559e2ec58f4f2f9c9b30e41bd972584bfff68a", 
+      "venue": "", 
+      "year": 2016
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "a931cc972da051f5c6c12634ae226a3cf3582cd3", 
+      "title": "AFET: Automatic Fine-Grained Entity Typing by Hierarchical Partial-Label Embedding", 
+      "url": "https://www.semanticscholar.org/paper/a931cc972da051f5c6c12634ae226a3cf3582cd3", 
+      "venue": "EMNLP", 
+      "year": 2016
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "55bf5dea3b97ef793a70dccd71a5277ae8f9bb9f", 
+      "title": "A Self-learning Template Approach for Recognizing Named Entities from Web Text", 
+      "url": "https://www.semanticscholar.org/paper/55bf5dea3b97ef793a70dccd71a5277ae8f9bb9f", 
+      "venue": "IJCNLP", 
+      "year": 2013
+    }, 
+    {
+      "isInfluential": true, 
+      "paperId": "0d12035f96d795fef0d6b4f70340934dd3dd98a1", 
+      "title": "Label Embedding for Zero-shot Fine-grained Named Entity Typing", 
+      "url": "https://www.semanticscholar.org/paper/0d12035f96d795fef0d6b4f70340934dd3dd98a1", 
+      "venue": "COLING", 
+      "year": 2016
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "002b0aeb41d364c58ad9a940a61302b827d3b54d", 
+      "title": "Entity Analysis with Weak Supervision: Typing, Linking, and Attribute Extraction", 
+      "url": "https://www.semanticscholar.org/paper/002b0aeb41d364c58ad9a940a61302b827d3b54d", 
+      "venue": "", 
+      "year": 2015
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "d9c0f7bf9e038c2f7b92fd8e6dc5190346166d0b", 
+      "title": "Fine-grained Dutch named entity recognition", 
+      "url": "https://www.semanticscholar.org/paper/d9c0f7bf9e038c2f7b92fd8e6dc5190346166d0b", 
+      "venue": "Language Resources and Evaluation", 
+      "year": 2014
+    }, 
+    {
+      "isInfluential": true, 
+      "paperId": "56c6084c65442f2341b454a6f746c317ff54b579", 
+      "title": "Corpus-level Fine-grained Entity Typing", 
+      "url": "https://www.semanticscholar.org/paper/56c6084c65442f2341b454a6f746c317ff54b579", 
+      "venue": "", 
+      "year": 2017
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "4823725dfd0b1b93397530a5726e834c6c1ece42", 
+      "title": "Universal schema for entity type prediction", 
+      "url": "https://www.semanticscholar.org/paper/4823725dfd0b1b93397530a5726e834c6c1ece42", 
+      "venue": "AKBC@CIKM", 
+      "year": 2013
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "0662f5b269f8d9ea96e44026011b86d552f65bd4", 
+      "title": "Feature-Rich Networks for Knowledge Base Completion", 
+      "url": "https://www.semanticscholar.org/paper/0662f5b269f8d9ea96e44026011b86d552f65bd4", 
+      "venue": "ACL", 
+      "year": 2017
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "81f8706abcecfc748f2e27d6f7a92628036d6846", 
+      "title": "Entity Linking with a Knowledge Base: Issues, Techniques, and Solutions", 
+      "url": "https://www.semanticscholar.org/paper/81f8706abcecfc748f2e27d6f7a92628036d6846", 
+      "venue": "IEEE Transactions on Knowledge and Data Engineering", 
+      "year": 2015
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "974196d76479851afbce86ee651cbf5700c320a2", 
+      "title": "Application-Driven Relation Extraction with Limited Distant Supervision", 
+      "url": "https://www.semanticscholar.org/paper/974196d76479851afbce86ee651cbf5700c320a2", 
+      "venue": "", 
+      "year": 2014
+    }, 
+    {
+      "isInfluential": true, 
+      "paperId": "6ebe74aadb5b940eba75a95ed8b666ebea9d1a9f", 
+      "title": "No Noun Phrase Left Behind: Detecting and Typing Unlinkable Entities", 
+      "url": "https://www.semanticscholar.org/paper/6ebe74aadb5b940eba75a95ed8b666ebea9d1a9f", 
+      "venue": "EMNLP-CoNLL", 
+      "year": 2012
+    }, 
+    {
+      "isInfluential": true, 
+      "paperId": "3afc8190029c83627e0f4dadca67d422261d2616", 
+      "title": "Methods for open information extraction and sense disambiguation on natural language text", 
+      "url": "https://www.semanticscholar.org/paper/3afc8190029c83627e0f4dadca67d422261d2616", 
+      "venue": "", 
+      "year": 2016
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "561e3e48c2b9e0df78aac7c8acf37a09aff6dee1", 
+      "title": "Learning Hierarchically Decomposable Concepts with Active Over-Labeling", 
+      "url": "https://www.semanticscholar.org/paper/561e3e48c2b9e0df78aac7c8acf37a09aff6dee1", 
+      "venue": "2016 IEEE 16th International Conference on Data Mining (ICDM)", 
+      "year": 2016
+    }, 
+    {
+      "isInfluential": true, 
+      "paperId": "2af04968f22a1828a526427e2427211799dcc5af", 
+      "title": "FINET: Context-Aware Fine-Grained Named Entity Typing", 
+      "url": "https://www.semanticscholar.org/paper/2af04968f22a1828a526427e2427211799dcc5af", 
+      "venue": "EMNLP", 
+      "year": 2015
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "0c7ec21736a7a0180915e619ebea806a3e35ef7a", 
+      "title": "A Hybrid Approach to Features Representation for Fine-grained Arabic Named Entity Recognition", 
+      "url": "https://www.semanticscholar.org/paper/0c7ec21736a7a0180915e619ebea806a3e35ef7a", 
+      "venue": "COLING", 
+      "year": 2014
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "1aa88d275eaa0746031dcd567e4c1a6777a13e37", 
+      "title": "ClusType: Effective Entity Recognition and Typing by Relation Phrase-Based Clustering", 
+      "url": "https://www.semanticscholar.org/paper/1aa88d275eaa0746031dcd567e4c1a6777a13e37", 
+      "venue": "KDD", 
+      "year": 2015
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "ad344edaaa9efc26a36392472a2ba3363b4a8b53", 
+      "title": "Constructing Structured Information Networks from Massive Text Corpora", 
+      "url": "https://www.semanticscholar.org/paper/ad344edaaa9efc26a36392472a2ba3363b4a8b53", 
+      "venue": "WWW", 
+      "year": 2017
+    }, 
+    {
+      "isInfluential": true, 
+      "paperId": "9321030e185334fab1496b3c11570effa171589a", 
+      "title": "Embedding Methods for Fine Grained Entity Type Classification", 
+      "url": "https://www.semanticscholar.org/paper/9321030e185334fab1496b3c11570effa171589a", 
+      "venue": "ACL", 
+      "year": 2015
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "c2908deec5b09ea4bdfce7ad5e827606ef425ee4", 
+      "title": "Towards Accurate Distant Supervision for Relational Facts Extraction", 
+      "url": "https://www.semanticscholar.org/paper/c2908deec5b09ea4bdfce7ad5e827606ef425ee4", 
+      "venue": "ACL", 
+      "year": 2013
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "78211d37b9043175fb654c7e888bf58af793f685", 
+      "title": "Neural Joint Learning for Classifying Wikipedia Articles into Fine-grained Named Entity Types", 
+      "url": "https://www.semanticscholar.org/paper/78211d37b9043175fb654c7e888bf58af793f685", 
+      "venue": "PACLIC", 
+      "year": 2016
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "8b468872cf915c98ff46a2bea4d2a34112b7b0b0", 
+      "title": "Learning Relational Features with Backward Random Walks", 
+      "url": "https://www.semanticscholar.org/paper/8b468872cf915c98ff46a2bea4d2a34112b7b0b0", 
+      "venue": "ACL", 
+      "year": 2015
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "79b3b568e3410a49377a23263dc326927d54e187", 
+      "title": "Extracting geographic locations from the literature for virus phylogeography using supervised and distant supervision methods", 
+      "url": "https://www.semanticscholar.org/paper/79b3b568e3410a49377a23263dc326927d54e187", 
+      "venue": "", 
+      "year": 2017
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "3854b10eda9be829fd1d53f17fd818b7ce371b9a", 
+      "title": "Taming Wild Big Data", 
+      "url": "https://www.semanticscholar.org/paper/3854b10eda9be829fd1d53f17fd818b7ce371b9a", 
+      "venue": "", 
+      "year": 2014
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "4ef9757c3dc854782d0952ca3315668e9603e41d", 
+      "title": "Type-Aware Distantly Supervised Relation Extraction with Linked Arguments", 
+      "url": "https://www.semanticscholar.org/paper/4ef9757c3dc854782d0952ca3315668e9603e41d", 
+      "venue": "EMNLP", 
+      "year": 2014
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "57362d02c1fec8ebf8104eac91aaa5cf421961c7", 
+      "title": "Unsupervised Induction of Cross-Lingual Semantic Relations", 
+      "url": "https://www.semanticscholar.org/paper/57362d02c1fec8ebf8104eac91aaa5cf421961c7", 
+      "venue": "EMNLP", 
+      "year": 2013
+    }, 
+    {
+      "isInfluential": true, 
+      "paperId": "b5f9efe8cce7da898a69d4e39eee18ced7b9b686", 
+      "title": "Exploring Fine-grained Entity Type Constraints for Distantly Supervised Relation Extraction", 
+      "url": "https://www.semanticscholar.org/paper/b5f9efe8cce7da898a69d4e39eee18ced7b9b686", 
+      "venue": "COLING", 
+      "year": 2014
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "12a45e195899f166c8b64abc76189e667b497509", 
+      "title": "MetaPAD: Meta Pattern Discovery from Massive Text Corpora", 
+      "url": "https://www.semanticscholar.org/paper/12a45e195899f166c8b64abc76189e667b497509", 
+      "venue": "KDD", 
+      "year": 2017
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "662a302c49356f3808cdc51a7fd01c60cb4c7650", 
+      "title": "Fine-Grained Entity Type Classification by Jointly Learning Representations and Label Embeddings", 
+      "url": "https://www.semanticscholar.org/paper/662a302c49356f3808cdc51a7fd01c60cb4c7650", 
+      "venue": "EACL", 
+      "year": 2017
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "f9c1f8cdc7e9b53e912465a87c4c406ef76710dc", 
+      "title": "Context Representation for Named Entity Linking", 
+      "url": "https://www.semanticscholar.org/paper/f9c1f8cdc7e9b53e912465a87c4c406ef76710dc", 
+      "venue": "", 
+      "year": 2014
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "0ef0581fc44bb47a953bb100db048d2a78fdfd82", 
+      "title": "A Pipeline Japanese Entity Linking System with Embedding Features", 
+      "url": "https://www.semanticscholar.org/paper/0ef0581fc44bb47a953bb100db048d2a78fdfd82", 
+      "venue": "PACLIC", 
+      "year": 2016
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "feb1bb0b41d0492ef42f8985b315bb0dd878173a", 
+      "title": "Building a Fine-Grained Entity Typing System Overnight for a New X (X = Language, Domain, Genre)", 
+      "url": "https://www.semanticscholar.org/paper/feb1bb0b41d0492ef42f8985b315bb0dd878173a", 
+      "venue": "ArXiv", 
+      "year": 2016
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "d1ee007372de8efc6f26a7371b96b95cc880e3ac", 
+      "title": "City Notifications as a Data Source for Traffic Management", 
+      "url": "https://www.semanticscholar.org/paper/d1ee007372de8efc6f26a7371b96b95cc880e3ac", 
+      "venue": "", 
+      "year": 2013
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "68b1486ef1845a0e4415c5482bec5c55af32ed66", 
+      "title": "Context-Dependent Fine-Grained Entity Type Tagging", 
+      "url": "https://www.semanticscholar.org/paper/68b1486ef1845a0e4415c5482bec5c55af32ed66", 
+      "venue": "ArXiv", 
+      "year": 2014
+    }, 
+    {
+      "isInfluential": true, 
+      "paperId": "927829269d0601a6cefa16e5558a57240730f273", 
+      "title": "Multi-level Representations for Fine-Grained Typing of Knowledge Base Entities", 
+      "url": "https://www.semanticscholar.org/paper/927829269d0601a6cefa16e5558a57240730f273", 
+      "venue": "EACL", 
+      "year": 2017
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "d373f39e0bcedc5221c3576067f829d8782afe9f", 
+      "title": "Towards A Virtual Assistant That Can Be Taught New Tasks In Any Domain By Its End-Users", 
+      "url": "https://www.semanticscholar.org/paper/d373f39e0bcedc5221c3576067f829d8782afe9f", 
+      "venue": "ArXiv", 
+      "year": 2016
+    }, 
+    {
+      "isInfluential": true, 
+      "paperId": "7615ed4f35f84cc086b9ae8e421891f3d33c68a6", 
+      "title": "End-to-End Trainable Attentive Decoder for Hierarchical Entity Classification", 
+      "url": "https://www.semanticscholar.org/paper/7615ed4f35f84cc086b9ae8e421891f3d33c68a6", 
+      "venue": "EACL", 
+      "year": 2017
+    }, 
+    {
+      "isInfluential": true, 
+      "paperId": "317f2c306eb616ec20e3c52773ac2ce94bb54806", 
+      "title": "A Hierarchical Entity-Based Approach to Structuralize User Generated Content in Social Media: A Case of Yahoo! Answers", 
+      "url": "https://www.semanticscholar.org/paper/317f2c306eb616ec20e3c52773ac2ce94bb54806", 
+      "venue": "", 
+      "year": 2013
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "961f0bda9581ac5a969477760ba3ef2ea9b1ed25", 
+      "title": "HYENA-live: Fine-Grained Online Entity Type Classification from Natural-language Text", 
+      "url": "https://www.semanticscholar.org/paper/961f0bda9581ac5a969477760ba3ef2ea9b1ed25", 
+      "venue": "ACL", 
+      "year": 2013
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "4ff1ac35743e90837fbd3acf8995cd2ef1fdbcfb", 
+      "title": "An Attentive Neural Architecture for Fine-grained Entity Type Classification", 
+      "url": "https://www.semanticscholar.org/paper/4ff1ac35743e90837fbd3acf8995cd2ef1fdbcfb", 
+      "venue": "AKBC@NAACL-HLT", 
+      "year": 2016
+    }, 
+    {
+      "isInfluential": true, 
+      "paperId": "0e8334103f592e67d10d54f9358b79ccc6454d97", 
+      "title": "Fine-Grained Entity Typing with High-Multiplicity Assignments", 
+      "url": "https://www.semanticscholar.org/paper/0e8334103f592e67d10d54f9358b79ccc6454d97", 
+      "venue": "ACL", 
+      "year": 2017
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "7ef8d23fd1da6006f1f4af67a8a4d3646cf30aea", 
+      "title": "A Hybrid Neural Model for Type Classification of Entity Mentions", 
+      "url": "https://www.semanticscholar.org/paper/7ef8d23fd1da6006f1f4af67a8a4d3646cf30aea", 
+      "venue": "IJCAI", 
+      "year": 2015
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "60dec3d28bd9ad7104608e5c22cb54e5f029fbd8", 
+      "title": "Automatic Entity Recognition and Typing in Massive Text Data", 
+      "url": "https://www.semanticscholar.org/paper/60dec3d28bd9ad7104608e5c22cb54e5f029fbd8", 
+      "venue": "SIGMOD Conference", 
+      "year": 2016
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "4609c4c62f7d96fba86d1057749254ec79e530af", 
+      "title": "Exploring Multiple Feature Spaces for Novel Entity Discovery", 
+      "url": "https://www.semanticscholar.org/paper/4609c4c62f7d96fba86d1057749254ec79e530af", 
+      "venue": "AAAI", 
+      "year": 2016
+    }, 
+    {
+      "isInfluential": true, 
+      "paperId": "2d2e53746269594ba3c6f677f6f2f19d6bf03dc5", 
+      "title": "Extracting Relations between Non-Standard Entities using Distant Supervision and Imitation Learning", 
+      "url": "https://www.semanticscholar.org/paper/2d2e53746269594ba3c6f677f6f2f19d6bf03dc5", 
+      "venue": "EMNLP", 
+      "year": 2015
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "f7a02ef779a42258557528d0eb72ec2995aa9563", 
+      "title": "Event Extraction using Structured Learning and Rich Domain Knowledge: Application across Domains and Data Sources", 
+      "url": "https://www.semanticscholar.org/paper/f7a02ef779a42258557528d0eb72ec2995aa9563", 
+      "venue": "ACM TIST", 
+      "year": 2015
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "94ec3cd67b0092ee0f406b595886ae7a19acbef0", 
+      "title": "Separating Brands from Types: an Investigation of Different Features for the Food Domain", 
+      "url": "https://www.semanticscholar.org/paper/94ec3cd67b0092ee0f406b595886ae7a19acbef0", 
+      "venue": "COLING", 
+      "year": 2014
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "0dd8cd6ddbfc96d41f5d31a8b3269d467486555f", 
+      "title": "Named Entity Recognition for Novel Types by Transfer Learning", 
+      "url": "https://www.semanticscholar.org/paper/0dd8cd6ddbfc96d41f5d31a8b3269d467486555f", 
+      "venue": "EMNLP", 
+      "year": 2016
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "6bf39cd308f0cbc45db0d8c81e7fc7ca6257a097", 
+      "title": "Mining Subjective Properties on the Web", 
+      "url": "https://www.semanticscholar.org/paper/6bf39cd308f0cbc45db0d8c81e7fc7ca6257a097", 
+      "venue": "SIGMOD Conference", 
+      "year": 2015
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "010e148ecb7d1f20abe56710cd2f2def1c99f996", 
+      "title": "Exploiting Parallel News Streams for Unsupervised Event Extraction", 
+      "url": "https://www.semanticscholar.org/paper/010e148ecb7d1f20abe56710cd2f2def1c99f996", 
+      "venue": "TACL", 
+      "year": 2015
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "40c3869fe8522aae6a6a23c6f3b59f1e3fb30651", 
+      "title": "Noise Mitigation for Neural Entity Typing and Relation Extraction", 
+      "url": "https://www.semanticscholar.org/paper/40c3869fe8522aae6a6a23c6f3b59f1e3fb30651", 
+      "venue": "EACL", 
+      "year": 2017
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "4b129c53e93753ec8855e5e4d7b4d1a4d586d3b1", 
+      "title": "CoType: Joint Extraction of Typed Entities and Relations with Knowledge Bases", 
+      "url": "https://www.semanticscholar.org/paper/4b129c53e93753ec8855e5e4d7b4d1a4d586d3b1", 
+      "venue": "WWW", 
+      "year": 2017
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "138ae0d2bad191ba45ac898db09ce88ffbc1ef80", 
+      "title": "Automatic Entity Recognition and Typing in Massive Text Corpora", 
+      "url": "https://www.semanticscholar.org/paper/138ae0d2bad191ba45ac898db09ce88ffbc1ef80", 
+      "venue": "WWW", 
+      "year": 2016
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "19f2da42538ab901ba3e554e235752edfe7f9ac9", 
+      "title": "A Lightweight Front-end Tool for Interactive Entity Population", 
+      "url": "https://www.semanticscholar.org/paper/19f2da42538ab901ba3e554e235752edfe7f9ac9", 
+      "venue": "", 
+      "year": 2017
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "4e278a0fe9fbfeceb29acde435706aa790aeda56", 
+      "title": "Inferring Missing Entity Type Instances for Knowledge Base Completion: New Dataset and Methods", 
+      "url": "https://www.semanticscholar.org/paper/4e278a0fe9fbfeceb29acde435706aa790aeda56", 
+      "venue": "HLT-NAACL", 
+      "year": 2015
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "aa2a7ac7bfa9a0201d4faddd4e7bb26299a5e0be", 
+      "title": "Design Challenges for Entity Linking", 
+      "url": "https://www.semanticscholar.org/paper/aa2a7ac7bfa9a0201d4faddd4e7bb26299a5e0be", 
+      "venue": "TACL", 
+      "year": 2015
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "18ce55a97ebb702182514ba4ff79ba8a2c80275c", 
+      "title": "Corpus-level Fine-grained Entity Typing Using Contextual Information", 
+      "url": "https://www.semanticscholar.org/paper/18ce55a97ebb702182514ba4ff79ba8a2c80275c", 
+      "venue": "EMNLP", 
+      "year": 2015
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "aa690c43486f571b34df275c134c63f55937a372", 
+      "title": "Multi-word Entity Classification in a Highly Multilingual Environment", 
+      "url": "https://www.semanticscholar.org/paper/aa690c43486f571b34df275c134c63f55937a372", 
+      "venue": "", 
+      "year": 2017
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "48f2e524f0aa3038ed4075f18a2a01f8000f6ab6", 
+      "title": "Effective Selectional Restrictions for Unsupervised Relation Extraction", 
+      "url": "https://www.semanticscholar.org/paper/48f2e524f0aa3038ed4075f18a2a01f8000f6ab6", 
+      "venue": "IJCNLP", 
+      "year": 2013
+    }, 
+    {
+      "isInfluential": true, 
+      "paperId": "095b979ac75fc70468f6894369dae0bcfc564c21", 
+      "title": "Multi-source named entity typing for social media", 
+      "url": "https://www.semanticscholar.org/paper/095b979ac75fc70468f6894369dae0bcfc564c21", 
+      "venue": "", 
+      "year": 2016
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "67959b3d3d4c28d94dadd74c3a1740f7b33fefd6", 
+      "title": "J-NERD: Joint Named Entity Recognition and Disambiguation with Rich Linguistic Features", 
+      "url": "https://www.semanticscholar.org/paper/67959b3d3d4c28d94dadd74c3a1740f7b33fefd6", 
+      "venue": "TACL", 
+      "year": 2016
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "7dd8b958632b07e41979337c71d847a3f39df456", 
+      "title": "Generalizing to Unseen Entities and Entity Pairs with Row-less Universal Schema", 
+      "url": "https://www.semanticscholar.org/paper/7dd8b958632b07e41979337c71d847a3f39df456", 
+      "venue": "EACL", 
+      "year": 2017
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "afc6909a909d3d30dc12a36a818c846dff392c43", 
+      "title": "Paraphrase for Open Question Answering: New Dataset and Methods", 
+      "url": "https://www.semanticscholar.org/paper/afc6909a909d3d30dc12a36a818c846dff392c43", 
+      "venue": "", 
+      "year": 2016
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "3994eccfada16936a73c60c09b96494098a038d9", 
+      "title": "Label Noise Reduction in Entity Typing by Heterogeneous Partial-Label Embedding", 
+      "url": "https://www.semanticscholar.org/paper/3994eccfada16936a73c60c09b96494098a038d9", 
+      "venue": "KDD", 
+      "year": 2016
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "616253f6b1e83ede361457de2f51b0bf70555b13", 
+      "title": "Cross-lingual Name Tagging and Linking for 282 Languages", 
+      "url": "https://www.semanticscholar.org/paper/616253f6b1e83ede361457de2f51b0bf70555b13", 
+      "venue": "ACL", 
+      "year": 2017
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "6c00b28d264e687d2201a12a85b16cab0a6712cc", 
+      "title": "Collecting Conceptualized Relations from Terabytes of Web Texts for Understanding Unknown Terms", 
+      "url": "https://www.semanticscholar.org/paper/6c00b28d264e687d2201a12a85b16cab0a6712cc", 
+      "venue": "2014 IEEE/WIC/ACM International Joint Conferences on Web Intelligence (WI) and Intelligent Agent Technologies (IAT)", 
+      "year": 2014
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "bcd94759272417180c581741ad6eb5e26cf33594", 
+      "title": "SOLinker: Constructing Semantic Links between Tags and URLs on StackOverflow", 
+      "url": "https://www.semanticscholar.org/paper/bcd94759272417180c581741ad6eb5e26cf33594", 
+      "venue": "2016 IEEE 40th Annual Computer Software and Applications Conference (COMPSAC)", 
+      "year": 2016
+    }, 
+    {
+      "isInfluential": true, 
+      "paperId": "4d4b2fa13bbf3b4a01336bc0cd848cd4db3c0611", 
+      "title": "HYENA: Hierarchical Type Classification for Entity Names", 
+      "url": "https://www.semanticscholar.org/paper/4d4b2fa13bbf3b4a01336bc0cd848cd4db3c0611", 
+      "venue": "COLING", 
+      "year": 2012
+    }, 
+    {
+      "isInfluential": true, 
+      "paperId": "3f235ebfd8bfd8eef4d7bca87d754e91655f5145", 
+      "title": "Neural Architectures for Fine-grained Entity Type Classification", 
+      "url": "https://www.semanticscholar.org/paper/3f235ebfd8bfd8eef4d7bca87d754e91655f5145", 
+      "venue": "EACL", 
+      "year": 2017
+    }
+  ], 
+  "doi": null, 
+  "influentialCitationCount": 17, 
+  "paperId": "559e47c03297bc423c4ee866d042790ea056365c", 
+  "references": [
+    {
+      "isInfluential": false, 
+      "paperId": "db550f7af299157c67d7f1874bf784dca10ce4a9", 
+      "title": "Modeling Relations and Their Mentions without Labeled Text", 
+      "url": "https://www.semanticscholar.org/paper/db550f7af299157c67d7f1874bf784dca10ce4a9", 
+      "venue": "ECML/PKDD", 
+      "year": 2010
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "f61b0c8b339586520c30e49530dbd5ceffaf335f", 
+      "title": "The Automatic Content Extraction (ACE) Program - Tasks, Data, and Evaluation", 
+      "url": "https://www.semanticscholar.org/paper/f61b0c8b339586520c30e49530dbd5ceffaf335f", 
+      "venue": "LREC", 
+      "year": 2004
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "0796f6cd7f0403a854d67d525e9b32af3b277331", 
+      "title": "Identifying Relations for Open Information Extraction", 
+      "url": "https://www.semanticscholar.org/paper/0796f6cd7f0403a854d67d525e9b32af3b277331", 
+      "venue": "EMNLP", 
+      "year": 2011
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "198b711915429fa55162e749a0b964755b36a62e", 
+      "title": "Fine Grained Classification of Named Entities", 
+      "url": "https://www.semanticscholar.org/paper/198b711915429fa55162e749a0b964755b36a62e", 
+      "venue": "COLING", 
+      "year": 2002
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "837b071d4c83e0f90d3e6b6edc1a2d4ca35711fb", 
+      "title": "TAGME: on-the-fly annotation of short text fragments (by wikipedia entities)", 
+      "url": "https://www.semanticscholar.org/paper/837b071d4c83e0f90d3e6b6edc1a2d4ca35711fb", 
+      "venue": "CIKM", 
+      "year": 2010
+    }, 
+    {
+      "isInfluential": true, 
+      "paperId": "128d2482c0968cbd7639ecbe7dca97c11cf51570", 
+      "title": "Local and Global Algorithms for Disambiguation to Wikipedia", 
+      "url": "https://www.semanticscholar.org/paper/128d2482c0968cbd7639ecbe7dca97c11cf51570", 
+      "venue": "ACL", 
+      "year": 2011
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "87f2101c46f191512a62f78c68a2560d35ce613b", 
+      "title": "Named Entity Recognition in Tweets: An Experimental Study", 
+      "url": "https://www.semanticscholar.org/paper/87f2101c46f191512a62f78c68a2560d35ce613b", 
+      "venue": "EMNLP", 
+      "year": 2011
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "d8a63c0729bcef4fd1d41dc0e723620e48fbdc7d", 
+      "title": "OntoNotes: The 90% Solution", 
+      "url": "https://www.semanticscholar.org/paper/d8a63c0729bcef4fd1d41dc0e723620e48fbdc7d", 
+      "venue": "HLT-NAACL", 
+      "year": 2006
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "2d03baec8ac1568e6813aa43d625d552524f977e", 
+      "title": "Toward an Architecture for Never-Ending Language Learning", 
+      "url": "https://www.semanticscholar.org/paper/2d03baec8ac1568e6813aa43d625d552524f977e", 
+      "venue": "AAAI", 
+      "year": 2010
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "1c2381e357c6829c551baee403650e6022ae6c40", 
+      "title": "Semi-Supervised Learning for Natural Language", 
+      "url": "https://www.semanticscholar.org/paper/1c2381e357c6829c551baee403650e6022ae6c40", 
+      "venue": "", 
+      "year": 2005
+    }, 
+    {
+      "isInfluential": true, 
+      "paperId": "4f410ab5c8b12b34b38421241366ee456bbebab9", 
+      "title": "Incorporating Non-local Information into Information Extraction Systems by Gibbs Sampling", 
+      "url": "https://www.semanticscholar.org/paper/4f410ab5c8b12b34b38421241366ee456bbebab9", 
+      "venue": "ACL", 
+      "year": 2005
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "aa480756d7ecee36e500ed05e13d0eb3bfe0aa2d", 
+      "title": "Instance-Based Ontology Population Exploiting Named-Entity Substitution", 
+      "url": "https://www.semanticscholar.org/paper/aa480756d7ecee36e500ed05e13d0eb3bfe0aa2d", 
+      "venue": "COLING", 
+      "year": 2008
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "2688969848b75336891b1e58a2b6ee433343867c", 
+      "title": "The perceptron: a probabilistic model for information storage and organization in the brain.", 
+      "url": "https://www.semanticscholar.org/paper/2688969848b75336891b1e58a2b6ee433343867c", 
+      "venue": "Psychological review", 
+      "year": 1958
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "1a0a415178d20754418987e312681f3fb0b40257", 
+      "title": "Unsupervised Models For Named Entity Classification", 
+      "url": "https://www.semanticscholar.org/paper/1a0a415178d20754418987e312681f3fb0b40257", 
+      "venue": "", 
+      "year": 1999
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "8f8139b63a2fc0b3ae8413acaef47acd35a356e0", 
+      "title": "Distant supervision for relation extraction without labeled data", 
+      "url": "https://www.semanticscholar.org/paper/8f8139b63a2fc0b3ae8413acaef47acd35a356e0", 
+      "venue": "ACL/IJCNLP", 
+      "year": 2009
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "783480acff435bfbc15ffcdb4f15eccddaa0c810", 
+      "title": "Class-Based n-gram Models of Natural Language", 
+      "url": "https://www.semanticscholar.org/paper/783480acff435bfbc15ffcdb4f15eccddaa0c810", 
+      "venue": "Computational Linguistics", 
+      "year": 1992
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "07abd02f02774d178f26ca99937e5f94001a9ec9", 
+      "title": "Learning to link with wikipedia", 
+      "url": "https://www.semanticscholar.org/paper/07abd02f02774d178f26ca99937e5f94001a9ec9", 
+      "venue": "CIKM", 
+      "year": 2008
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "1b94cbcce2642733a118cdba5ed4ec7417f75e2d", 
+      "title": "Structured Generative Models for Unsupervised Named-Entity Clustering", 
+      "url": "https://www.semanticscholar.org/paper/1b94cbcce2642733a118cdba5ed4ec7417f75e2d", 
+      "venue": "HLT-NAACL", 
+      "year": 2009
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "32a437ecdc20cc76c01e37c08920317ea18fde50", 
+      "title": "Generating Typed Dependency Parses from Phrase Structure Parses", 
+      "url": "https://www.semanticscholar.org/paper/32a437ecdc20cc76c01e37c08920317ea18fde50", 
+      "venue": "", 
+      "year": 2006
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "154c8868ba517e6f844428ac42a8ee3fa7e7847f", 
+      "title": "Learning 5000 Relational Extractors", 
+      "url": "https://www.semanticscholar.org/paper/154c8868ba517e6f844428ac42a8ee3fa7e7847f", 
+      "venue": "ACL", 
+      "year": 2010
+    }, 
+    {
+      "isInfluential": true, 
+      "paperId": "4015bce2713d4e5a6d78b05989d28763e763547d", 
+      "title": "Using Encyclopedic Knowledge for Named entity Disambiguation", 
+      "url": "https://www.semanticscholar.org/paper/4015bce2713d4e5a6d78b05989d28763e763547d", 
+      "venue": "EACL", 
+      "year": 2006
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "ad269ba941949a1d66b6649a71d752784c576dc3", 
+      "title": "Name Tagging with Word Clusters and Discriminative Training", 
+      "url": "https://www.semanticscholar.org/paper/ad269ba941949a1d66b6649a71d752784c576dc3", 
+      "venue": "HLT-NAACL", 
+      "year": 2004
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "498bb0efad6ec15dd09d941fb309aa18d6df9f5f", 
+      "title": "Open Information Extraction from the Web", 
+      "url": "https://www.semanticscholar.org/paper/498bb0efad6ec15dd09d941fb309aa18d6df9f5f", 
+      "venue": "IJCAI", 
+      "year": 2007
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "5744578cc243d92287f47448870bb426c66cc941", 
+      "title": "MUC-7 Named Entity Task Definition (Version 3.5)", 
+      "url": "https://www.semanticscholar.org/paper/5744578cc243d92287f47448870bb426c66cc941", 
+      "venue": "", 
+      "year": 1998
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "7d5579fe89c6e71d3f4da8f111b27237f19486b4", 
+      "title": "Assessing the Challenge of Fine-Grained Named Entity Recognition and Classification", 
+      "url": "https://www.semanticscholar.org/paper/7d5579fe89c6e71d3f4da8f111b27237f19486b4", 
+      "venue": "", 
+      "year": 2010
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "27496a2ee337db705e7c611dea1fd8e6f41437c2", 
+      "title": "Design Challenges and Misconceptions in Named Entity Recognition", 
+      "url": "https://www.semanticscholar.org/paper/27496a2ee337db705e7c611dea1fd8e6f41437c2", 
+      "venue": "CoNLL", 
+      "year": 2009
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "572b7f31aee095262057fe17b181ac262eb94995", 
+      "title": "ML-KNN: A lazy learning approach to multi-label learning", 
+      "url": "https://www.semanticscholar.org/paper/572b7f31aee095262057fe17b181ac262eb94995", 
+      "venue": "Pattern Recognition", 
+      "year": 2007
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "0c7f52c753a65ceaf3755e20b906ffd0c05c994a", 
+      "title": "Conditional Random Fields: Probabilistic Models for Segmenting and Labeling Sequence Data", 
+      "url": "https://www.semanticscholar.org/paper/0c7f52c753a65ceaf3755e20b906ffd0c05c994a", 
+      "venue": "ICML", 
+      "year": 2001
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "18b534c7207a1376fa92e87fe0d2cfb358d98c51", 
+      "title": "Accurate Unlexicalized Parsing", 
+      "url": "https://www.semanticscholar.org/paper/18b534c7207a1376fa92e87fe0d2cfb358d98c51", 
+      "venue": "ACL", 
+      "year": 2003
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "3576f224200a98fb43918546e3de7860da3889be", 
+      "title": "Fine-Grained Named Entity Recognition Using Conditional Random Fields for Question Answering", 
+      "url": "https://www.semanticscholar.org/paper/3576f224200a98fb43918546e3de7860da3889be", 
+      "venue": "AIRS", 
+      "year": 2006
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "3fa58a0dcbf7392e02f744a0f729ba8010b7334c", 
+      "title": "Feature-Rich Part-of-Speech Tagging with a Cyclic Dependency Network", 
+      "url": "https://www.semanticscholar.org/paper/3fa58a0dcbf7392e02f744a0f729ba8010b7334c", 
+      "venue": "HLT-NAACL", 
+      "year": 2003
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "2288f965bb3e35d40d52410f0c14443399882b0e", 
+      "title": "Constructing Biological Knowledge Bases by Extracting Information from Text Sources", 
+      "url": "https://www.semanticscholar.org/paper/2288f965bb3e35d40d52410f0c14443399882b0e", 
+      "venue": "ISMB", 
+      "year": 1999
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "d48edf9e81653f4c3da716b037b0b50d54c5b034", 
+      "title": "Knowledge-Based Weak Supervision for Information Extraction of Overlapping Relations", 
+      "url": "https://www.semanticscholar.org/paper/d48edf9e81653f4c3da716b037b0b50d54c5b034", 
+      "venue": "ACL", 
+      "year": 2011
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "2a68c39e3586f87da501bc2a5ae6138469f50613", 
+      "title": "Mining Multi-label Data", 
+      "url": "https://www.semanticscholar.org/paper/2a68c39e3586f87da501bc2a5ae6138469f50613", 
+      "venue": "Data Mining and Knowledge Discovery Handbook", 
+      "year": 2010
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "2725aadc984d5991a9a48280da7ba18eab8c483c", 
+      "title": "Wrap-Up: a Trainable Discourse Module for Information Extraction", 
+      "url": "https://www.semanticscholar.org/paper/2725aadc984d5991a9a48280da7ba18eab8c483c", 
+      "venue": "J. Artif. Intell. Res.", 
+      "year": 1994
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "24424f4050700dfa940851385d2e1ab7ba5d0cdc", 
+      "title": "Extended Named Entity Ontology with Attribute Information", 
+      "url": "https://www.semanticscholar.org/paper/24424f4050700dfa940851385d2e1ab7ba5d0cdc", 
+      "venue": "LREC", 
+      "year": 2008
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "155baea065396a150f0f8875e088355800fa9449", 
+      "title": "Head-Driven Statistical Models for Natural Language Parsing", 
+      "url": "https://www.semanticscholar.org/paper/155baea065396a150f0f8875e088355800fa9449", 
+      "venue": "Computational Linguistics", 
+      "year": 2003
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "fe424b6a322e9a405b1aa6c199c910f0a78b85af", 
+      "title": "Semi-Supervised Named Entity Recognition: Learning to Recognize 100 Entity Types with Little Supervision", 
+      "url": "https://www.semanticscholar.org/paper/fe424b6a322e9a405b1aa6c199c910f0a78b85af", 
+      "venue": "", 
+      "year": 2007
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "1c909ac1c331c0c246a88da047cbdcca9ec9b7e7", 
+      "title": "Large-Scale Named Entity Disambiguation Based on Wikipedia Data", 
+      "url": "https://www.semanticscholar.org/paper/1c909ac1c331c0c246a88da047cbdcca9ec9b7e7", 
+      "venue": "EMNLP-CoNLL", 
+      "year": 2007
+    }
+  ], 
+  "title": "Fine-Grained Entity Recognition", 
+  "url": "https://www.semanticscholar.org/paper/559e47c03297bc423c4ee866d042790ea056365c", 
+  "venue": "AAAI", 
+  "year": 2012
+}

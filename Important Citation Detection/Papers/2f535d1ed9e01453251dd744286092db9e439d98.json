@@ -1,0 +1,812 @@
+{
+  "authors": [
+    {
+      "authorId": "1702849", 
+      "name": "Nianwen Xue", 
+      "url": "https://www.semanticscholar.org/author/1702849"
+    }
+  ], 
+  "citationVelocity": 0, 
+  "citations": [
+    {
+      "isInfluential": false, 
+      "paperId": "74f9b68ad0680bd4d88e810137de23a3f2caf263", 
+      "title": "Bilingual Semantic Role Labeling Inference via Dual Decomposition", 
+      "url": "https://www.semanticscholar.org/paper/74f9b68ad0680bd4d88e810137de23a3f2caf263"
+    }, 
+    {
+      "isInfluential": true, 
+      "paperId": "bb91b1abf767dbc0487fbf5000c56236eba39c9d", 
+      "title": "Improving Chinese Semantic Role Labeling with Rich Syntactic Features", 
+      "url": "https://www.semanticscholar.org/paper/bb91b1abf767dbc0487fbf5000c56236eba39c9d"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "6ee991dda404dbd2d9d06a68d905fd0e24e80497", 
+      "title": "Learning Generalized Features for Semantic Role Labeling", 
+      "url": "https://www.semanticscholar.org/paper/6ee991dda404dbd2d9d06a68d905fd0e24e80497"
+    }, 
+    {
+      "isInfluential": true, 
+      "paperId": "3422b401de5c017b982343fdbebd6762bf023df9", 
+      "title": "Multi-Predicate Semantic Role Labeling", 
+      "url": "https://www.semanticscholar.org/paper/3422b401de5c017b982343fdbebd6762bf023df9"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "90b51a25e6777a95ce79e13751e7c374c11ad237", 
+      "title": "Semantic Cohesion Model for Phrase-Based SMT", 
+      "url": "https://www.semanticscholar.org/paper/90b51a25e6777a95ce79e13751e7c374c11ad237"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "93cde8e61d69544db3427dc8fb75bb6337364680", 
+      "title": "Analysis of Joint Inference Strategies for the Semantic Role Labeling of Spanish and Catalan DRAFT VERSION", 
+      "url": "https://www.semanticscholar.org/paper/93cde8e61d69544db3427dc8fb75bb6337364680"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "c2d8275b18cbd7ede14061b0a62781c4243b197c", 
+      "title": "Information Extraction Model based on Semantic Role and Conceptual Graph", 
+      "url": "https://www.semanticscholar.org/paper/c2d8275b18cbd7ede14061b0a62781c4243b197c"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "e4f363dfbca8e5dbc4fd92de64af9ff22c46a100", 
+      "title": "Semantic role labeling using Chinese dependency parsing tree", 
+      "url": "https://www.semanticscholar.org/paper/e4f363dfbca8e5dbc4fd92de64af9ff22c46a100"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "faf927954dade3ca56e0dcca9162f3f12d95e291", 
+      "title": "Can Selectional Preferences Help Automatic Semantic Role Labeling?", 
+      "url": "https://www.semanticscholar.org/paper/faf927954dade3ca56e0dcca9162f3f12d95e291"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "f5471d3471044ae3f159942642466bbf662ca70e", 
+      "title": "EusPropBank: Integrating Semantic Information in the Basque Dependency Treebank", 
+      "url": "https://www.semanticscholar.org/paper/f5471d3471044ae3f159942642466bbf662ca70e"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "5a40b53bbfbda2540b93357d5d09dbf4c1883667", 
+      "title": "Combining Constituent and Dependency Syntactic Views for Chinese Semantic Role Labeling", 
+      "url": "https://www.semanticscholar.org/paper/5a40b53bbfbda2540b93357d5d09dbf4c1883667"
+    }, 
+    {
+      "isInfluential": true, 
+      "paperId": "fcc00343f47e7ae0c0fa92d59797ed37e4f9cb30", 
+      "title": "A Minimum Error Weighting Combination Strategy for Chinese Semantic Role Labeling", 
+      "url": "https://www.semanticscholar.org/paper/fcc00343f47e7ae0c0fa92d59797ed37e4f9cb30"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "4fce6b68283f2c736bd71858cdd40f5a68246799", 
+      "title": "Transducing Logical Relations from Automatic and Manual GLARF", 
+      "url": "https://www.semanticscholar.org/paper/4fce6b68283f2c736bd71858cdd40f5a68246799"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "b2b49a4c32774d03ee1f7a49ea8b2fd5e7508bfe", 
+      "title": "Modeling the Translation of Predicate-Argument Structure for SMT", 
+      "url": "https://www.semanticscholar.org/paper/b2b49a4c32774d03ee1f7a49ea8b2fd5e7508bfe"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "5b61629ad28fb84b4d457879ad90fd93e1c8283d", 
+      "title": "Building a Chinese Lexical Taxonomy", 
+      "url": "https://www.semanticscholar.org/paper/5b61629ad28fb84b4d457879ad90fd93e1c8283d"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "ca556b7c086d0ffc0a3d79922d5ddcbbe2939904", 
+      "title": "Chinese Semantic Role Labeling with Bidirectional Recurrent Neural Networks", 
+      "url": "https://www.semanticscholar.org/paper/ca556b7c086d0ffc0a3d79922d5ddcbbe2939904"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "b06167d7425d84dbd0695ac87d367cdae15d4c6d", 
+      "title": "Learning the Scope of Negation via Shallow Semantic Parsing", 
+      "url": "https://www.semanticscholar.org/paper/b06167d7425d84dbd0695ac87d367cdae15d4c6d"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "5f50a3598eb0e5367c5625cd6b1d365a52f7be60", 
+      "title": "Parsing Syntactic and Semantic Dependencies for Multiple Languages with A Pipeline Approach", 
+      "url": "https://www.semanticscholar.org/paper/5f50a3598eb0e5367c5625cd6b1d365a52f7be60"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "b762248708f4519198dad6a2e2ce353523b8130e", 
+      "title": "Building the Basque PropBank", 
+      "url": "https://www.semanticscholar.org/paper/b762248708f4519198dad6a2e2ce353523b8130e"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "40fec320000645f2137e0f666d1423ff12c4ddaf", 
+      "title": "Chinese news event 5W1H semantic elements extraction for event ontology population", 
+      "url": "https://www.semanticscholar.org/paper/40fec320000645f2137e0f666d1423ff12c4ddaf"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "7155e574d600e3f191eca05e439f65ea8f3bb8f4", 
+      "title": "Joint Inference for Bilingual Semantic Role Labeling", 
+      "url": "https://www.semanticscholar.org/paper/7155e574d600e3f191eca05e439f65ea8f3bb8f4"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "5e6c93540af4d9e203e59858aeb343445f0fafd1", 
+      "title": "Semantics-Driven Shallow Parsing for Chinese Semantic Role Labeling", 
+      "url": "https://www.semanticscholar.org/paper/5e6c93540af4d9e203e59858aeb343445f0fafd1"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "e308df1d6cccd31544a1e20497a4fba3990af19c", 
+      "title": "Towards Semi-Automatic Generation of Proposition Banks for Low-Resource Languages", 
+      "url": "https://www.semanticscholar.org/paper/e308df1d6cccd31544a1e20497a4fba3990af19c"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "125915a227a4fabf3e71774b55e49750fb08f9fa", 
+      "title": "What's in a Message?", 
+      "url": "https://www.semanticscholar.org/paper/125915a227a4fabf3e71774b55e49750fb08f9fa"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "5658288020c83841a324dd7a4ff8ba23445d5d1e", 
+      "title": "Analysis of Joint Inference Strategies for the Semantic Role Labeling of Spanish and Catalan", 
+      "url": "https://www.semanticscholar.org/paper/5658288020c83841a324dd7a4ff8ba23445d5d1e"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "51f7e3b8533fd66ee81f2e8f2d7b433fc325cdb7", 
+      "title": "Feature engineering using shallow parsing in argument classification of Persian verbs", 
+      "url": "https://www.semanticscholar.org/paper/51f7e3b8533fd66ee81f2e8f2d7b433fc325cdb7"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "a94e4fe6f475e047be5dcc9077f445e496240852", 
+      "title": "Towards Robust Linguistic Analysis using OntoNotes", 
+      "url": "https://www.semanticscholar.org/paper/a94e4fe6f475e047be5dcc9077f445e496240852"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "202435b26b6c83e9781c7f151ce4b9b7c89fc707", 
+      "title": "NiuParser: A Chinese Syntactic and Semantic Parsing Toolkit", 
+      "url": "https://www.semanticscholar.org/paper/202435b26b6c83e9781c7f151ce4b9b7c89fc707"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "5a0326efc9c6b8b3c80f4ca6fb164406e009684b", 
+      "title": "Chinese News Event 5W1H Elements Extraction Using Semantic Role Labeling", 
+      "url": "https://www.semanticscholar.org/paper/5a0326efc9c6b8b3c80f4ca6fb164406e009684b"
+    }, 
+    {
+      "isInfluential": true, 
+      "paperId": "414efdce86f7f1cc49f4d371e1840da0745cbb3f", 
+      "title": "Chinese Semantic Role Labeling with Shallow Parsing", 
+      "url": "https://www.semanticscholar.org/paper/414efdce86f7f1cc49f4d371e1840da0745cbb3f"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "dedf0eec2ff746a7ea43d6d278a136f6391e2510", 
+      "title": "Comparing Argument Structure in Chinese Verb Taxonomy and Chinese Propbank", 
+      "url": "https://www.semanticscholar.org/paper/dedf0eec2ff746a7ea43d6d278a136f6391e2510"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "4ee3fafd0347b8c234dd35434b5496dba374fb77", 
+      "title": "Joint Models for Chinese Morphological Syntactic and Semantic Parsing", 
+      "url": "https://www.semanticscholar.org/paper/4ee3fafd0347b8c234dd35434b5496dba374fb77"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "fed6f6fc65f68f7bcabafc67e5c154218df4b525", 
+      "title": "Generating High Quality Proposition Banks for Multilingual Semantic Role Labeling", 
+      "url": "https://www.semanticscholar.org/paper/fed6f6fc65f68f7bcabafc67e5c154218df4b525"
+    }, 
+    {
+      "isInfluential": true, 
+      "paperId": "2a6cdc7ffdae4b75f11677f91d4b437cde069f43", 
+      "title": "Syntax Aware LSTM Model for Chinese Semantic Role Labeling", 
+      "url": "https://www.semanticscholar.org/paper/2a6cdc7ffdae4b75f11677f91d4b437cde069f43"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "85cba33b508acdf40556a323c51a2c14dfa3b525", 
+      "title": "Automatic Recognition of Logical Relations for English, Chinese and Japanese in the GLARF Framework", 
+      "url": "https://www.semanticscholar.org/paper/85cba33b508acdf40556a323c51a2c14dfa3b525"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "055e8f573d32ed3eca74015de4d0825abf86486e", 
+      "title": "Improving MT Word Alignment Using Aligned Multi-Stage Parses", 
+      "url": "https://www.semanticscholar.org/paper/055e8f573d32ed3eca74015de4d0825abf86486e"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "1c0dfdc5005f564fb53712f73c6bea84562f99c9", 
+      "title": "Chinese CCGbank: extracting CCG derivations from the Penn Chinese Treebank", 
+      "url": "https://www.semanticscholar.org/paper/1c0dfdc5005f564fb53712f73c6bea84562f99c9"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "0db67cf78b496a76a4894c971205f83debb85048", 
+      "title": "A lightweight Chinese semantic dependency parsing model based on sentence compression", 
+      "url": "https://www.semanticscholar.org/paper/0db67cf78b496a76a4894c971205f83debb85048"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "c7029c54be808198e5faae1cd55b44f869c6fc0a", 
+      "title": "Semantic Role Labeling of Chinese Nominal Predicates with Dependency-Driven Constituent Parse Tree Structure", 
+      "url": "https://www.semanticscholar.org/paper/c7029c54be808198e5faae1cd55b44f869c6fc0a"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "05ca2876579b1d5caa4edbb9a112ec686df865ff", 
+      "title": "Unsupervised Argument Identification for Semantic Role Labeling", 
+      "url": "https://www.semanticscholar.org/paper/05ca2876579b1d5caa4edbb9a112ec686df865ff"
+    }, 
+    {
+      "isInfluential": true, 
+      "paperId": "c08791a0be74e03dfd14eeab60c0ce637cab000b", 
+      "title": "A Global Generative Model for Chinese Semantic Role Labeling", 
+      "url": "https://www.semanticscholar.org/paper/c08791a0be74e03dfd14eeab60c0ce637cab000b"
+    }, 
+    {
+      "isInfluential": true, 
+      "paperId": "c0f1c4def90c2fc28a95b295e44168467ebcfd4b", 
+      "title": "Chinese Semantic Role Labeling with Hierarchical Semantic Knowledge", 
+      "url": "https://www.semanticscholar.org/paper/c0f1c4def90c2fc28a95b295e44168467ebcfd4b"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "7e5566c01eb81a582c5a9071a7b50c203be2cf66", 
+      "title": "A Quantitative Comparative Study of Prosodic and Discourse Units, the Case of French and Taiwan Mandarin", 
+      "url": "https://www.semanticscholar.org/paper/7e5566c01eb81a582c5a9071a7b50c203be2cf66"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "991d557c4d3f0f1161716fc291fd117a303abbec", 
+      "title": "What Information is Helpful for Dependency Based Semantic Role Labeling", 
+      "url": "https://www.semanticscholar.org/paper/991d557c4d3f0f1161716fc291fd117a303abbec"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "030704e3efa02f3bf913eb5b95d2d49d9c9ac592", 
+      "title": "Handling Ambiguities of Bilingual Predicate-Argument Structures for Statistical Machine Translation", 
+      "url": "https://www.semanticscholar.org/paper/030704e3efa02f3bf913eb5b95d2d49d9c9ac592"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "08ec59ce3692c046c9c23ef85b0073f6b8c5e397", 
+      "title": "Exploiting Zero Pronouns to Improve Chinese Coreference Resolution", 
+      "url": "https://www.semanticscholar.org/paper/08ec59ce3692c046c9c23ef85b0073f6b8c5e397"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "36e0a0fc0a20839af66566bf48810858cfdd3658", 
+      "title": "Empty Argument Insertion in the Hindi PropBank", 
+      "url": "https://www.semanticscholar.org/paper/36e0a0fc0a20839af66566bf48810858cfdd3658"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "aa72e57f4f26502f17f9e63b7352e77d9879f60a", 
+      "title": "Building a Chinese Dependency GraphBank", 
+      "url": "https://www.semanticscholar.org/paper/aa72e57f4f26502f17f9e63b7352e77d9879f60a"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "5d76f1f4d63b62b7007a1f0d1f9d772b9dae18df", 
+      "title": "Automatic Recognition of Logical Relations for English, Chinese and Japanese", 
+      "url": "https://www.semanticscholar.org/paper/5d76f1f4d63b62b7007a1f0d1f9d772b9dae18df"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "411a358282fbe9c7d97bdb9d9d008f2f03cafbc1", 
+      "title": "Opinion Target Extraction Using a Shallow Semantic Parsing Framework", 
+      "url": "https://www.semanticscholar.org/paper/411a358282fbe9c7d97bdb9d9d008f2f03cafbc1"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "5514813623017f76a2faa45ecaba17149355a3e8", 
+      "title": "Preliminary evaluation of EPEC-RolSem, a Basque corpus labelled at predicate level Evaluacio\u0301n preliminar de EPEC-RolSem, un corpus del euskera etiquetado a nivel de predicado", 
+      "url": "https://www.semanticscholar.org/paper/5514813623017f76a2faa45ecaba17149355a3e8"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "d51697c0441040949fad54356e960d97a8ee3914", 
+      "title": "A Proposition Bank of Urdu", 
+      "url": "https://www.semanticscholar.org/paper/d51697c0441040949fad54356e960d97a8ee3914"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "f43df137b10de288b5f4243d0bd97bc448d0d39d", 
+      "title": "Unified Semantic Role Labeling for Verbal and Nominal Predicates in the Chinese Language", 
+      "url": "https://www.semanticscholar.org/paper/f43df137b10de288b5f4243d0bd97bc448d0d39d"
+    }, 
+    {
+      "isInfluential": true, 
+      "paperId": "74cc22ca9eeee2997b0ecf2883b57d1a81842299", 
+      "title": "Improving Chinese Semantic Role Classification with Hierarchical Feature Selection Strategy", 
+      "url": "https://www.semanticscholar.org/paper/74cc22ca9eeee2997b0ecf2883b57d1a81842299"
+    }, 
+    {
+      "isInfluential": true, 
+      "paperId": "4b8541b27fe79822182a066a1cb1999bc0a27338", 
+      "title": "A methodology for the semiautomatic annotation of EPEC-RolSem, a Basque corpus labeled at predicate level following the PropBank-VerbNet model", 
+      "url": "https://www.semanticscholar.org/paper/4b8541b27fe79822182a066a1cb1999bc0a27338"
+    }, 
+    {
+      "isInfluential": true, 
+      "paperId": "40f29782d1c1a84f38f8fb612f5ca935120f08d1", 
+      "title": "Improving Chinese SRL with Heterogeneous Annotations", 
+      "url": "https://www.semanticscholar.org/paper/40f29782d1c1a84f38f8fb612f5ca935120f08d1"
+    }, 
+    {
+      "isInfluential": true, 
+      "paperId": "01da98598d00c2b3d743e5bec753562af874d74e", 
+      "title": "Joint Syntactic and Semantic Parsing of Chinese", 
+      "url": "https://www.semanticscholar.org/paper/01da98598d00c2b3d743e5bec753562af874d74e"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "f5aaf4f58e62024a0544bd28163eb29bdc85abb0", 
+      "title": "Verbal Valency Frame Detection and Selection in Czech and English", 
+      "url": "https://www.semanticscholar.org/paper/f5aaf4f58e62024a0544bd28163eb29bdc85abb0"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "6ef2d706f93467ef9eac4b095ecd1abef88b7856", 
+      "title": "Semantic Mapping Using Automatic Word Alignment and Semantic Role Labeling", 
+      "url": "https://www.semanticscholar.org/paper/6ef2d706f93467ef9eac4b095ecd1abef88b7856"
+    }, 
+    {
+      "isInfluential": true, 
+      "paperId": "15463471d7de5913bea6ea669a8c9d68f3911437", 
+      "title": "Improving Nominal SRL in Chinese Language with Verbal SRL Information and Automatic Predicate Recognition", 
+      "url": "https://www.semanticscholar.org/paper/15463471d7de5913bea6ea669a8c9d68f3911437"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "e727568bb47b74b4b2b96a0ef18529b776896911", 
+      "title": "An operation-oriented document natural language understanding method based on event model", 
+      "url": "https://www.semanticscholar.org/paper/e727568bb47b74b4b2b96a0ef18529b776896911"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "740f5ce1d72c6afa64c32ee160559c0be39536f0", 
+      "title": "A Unified Framework for Scope Learning via Simplified Shallow Semantic Parsing", 
+      "url": "https://www.semanticscholar.org/paper/740f5ce1d72c6afa64c32ee160559c0be39536f0"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "7a3f53e657c064233005e7dc777b55e7ff7210f9", 
+      "title": "Improving Syntactic Parsing of Chinese with Empty Element Recovery", 
+      "url": "https://www.semanticscholar.org/paper/7a3f53e657c064233005e7dc777b55e7ff7210f9"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "e62741e469cb78353e94155b7db568869a24aabc", 
+      "title": "Sequential Tagging of Semantic Roles on Chinese FrameNet", 
+      "url": "https://www.semanticscholar.org/paper/e62741e469cb78353e94155b7db568869a24aabc"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "a5d0004c7921c08c58ee898d6317ef5266e6873c", 
+      "title": "A Dual-Layer Semantic Role Labeling System", 
+      "url": "https://www.semanticscholar.org/paper/a5d0004c7921c08c58ee898d6317ef5266e6873c"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "2193bcc5d9fd2798865d2aa7c0207685404dd13d", 
+      "title": "CoNLL-2012 Shared Task: Modeling Multilingual Unrestricted Coreference in OntoNotes", 
+      "url": "https://www.semanticscholar.org/paper/2193bcc5d9fd2798865d2aa7c0207685404dd13d"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "9816380b6987edfd52f10167672d2a632c5a06cb", 
+      "title": "Machine Translation by Modeling Predicate-Argument Structure Transformation", 
+      "url": "https://www.semanticscholar.org/paper/9816380b6987edfd52f10167672d2a632c5a06cb"
+    }, 
+    {
+      "isInfluential": true, 
+      "paperId": "3f9507703d425162cb8343962ac74c1dc5f77681", 
+      "title": "Automatic Labeling of Semantic Role on Chinese FrameNet Using Conditional Random Fields", 
+      "url": "https://www.semanticscholar.org/paper/3f9507703d425162cb8343962ac74c1dc5f77681"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "b991625f3c25aaf5f82eebfa6405a017a16a1695", 
+      "title": "Capturing Argument Relationship for Chinese Semantic Role Labeling", 
+      "url": "https://www.semanticscholar.org/paper/b991625f3c25aaf5f82eebfa6405a017a16a1695"
+    }, 
+    {
+      "isInfluential": true, 
+      "paperId": "7d9cb0e22cbd2ea74569981ea6443baa88a7c8ce", 
+      "title": "Predicate Argument Structure Analysis Using Transformation Based Learning", 
+      "url": "https://www.semanticscholar.org/paper/7d9cb0e22cbd2ea74569981ea6443baa88a7c8ce"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "cdea4456b17130a8b04b4d11cb79380b9d2a265f", 
+      "title": "Unsupervised Chinese Semantic Dependency Analysis", 
+      "url": "https://www.semanticscholar.org/paper/cdea4456b17130a8b04b4d11cb79380b9d2a265f"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "2e48ea82151e887b075b1dd83be7ede294f5ed23", 
+      "title": "Influence of Treebank Design on Representation of Multiword Expressions", 
+      "url": "https://www.semanticscholar.org/paper/2e48ea82151e887b075b1dd83be7ede294f5ed23"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "d8de7ba62e71213f0ee4b862520e910704fcd9c7", 
+      "title": "Chinese semantic role labeling based on semantic knowledge", 
+      "url": "https://www.semanticscholar.org/paper/d8de7ba62e71213f0ee4b862520e910704fcd9c7"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "890e947c44e283140346f6bcd8dd8d8a1af91266", 
+      "title": "EPEC-RolSem: Ingelesezko PropBank-VerbNet eredura etiketatutako euskarazko corpusa. Erabakiak, egokitzapenak eta bereizgarriak", 
+      "url": "https://www.semanticscholar.org/paper/890e947c44e283140346f6bcd8dd8d8a1af91266"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "455221a8c3baf1a09d304b8db581d363b680870a", 
+      "title": "Introduction to the iDian", 
+      "url": "https://www.semanticscholar.org/paper/455221a8c3baf1a09d304b8db581d363b680870a"
+    }, 
+    {
+      "isInfluential": true, 
+      "paperId": "77b0727fa4d4954988f15163a281ffaa74d31d9c", 
+      "title": "Dependency-based Semantic Analysis of Natural-language Text", 
+      "url": "https://www.semanticscholar.org/paper/77b0727fa4d4954988f15163a281ffaa74d31d9c"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "20455099f14a08348bb8c07a094261beeee344cb", 
+      "title": "Lexicons Modelling Inherent Lexical Meaning . Lexicons Modelling Meaning Relations . Lexicons Modelling Predicate-argument Structure", 
+      "url": "https://www.semanticscholar.org/paper/20455099f14a08348bb8c07a094261beeee344cb"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "c2038f45ea4bce98997042113d104773823c24ba", 
+      "title": "Chinese semantic role labeling using CRFs and SVMs", 
+      "url": "https://www.semanticscholar.org/paper/c2038f45ea4bce98997042113d104773823c24ba"
+    }
+  ], 
+  "doi": "10.1162/coli.2008.34.2.225", 
+  "influentialCitationCount": 15, 
+  "paperId": "2f535d1ed9e01453251dd744286092db9e439d98", 
+  "references": [
+    {
+      "isInfluential": false, 
+      "paperId": "5aacd277e6d7a527e6f0e5c1929debe95cf162a6", 
+      "title": "Senseval-3 Task: Automatic Labeling Of Semantic Roles", 
+      "url": "https://www.semanticscholar.org/paper/5aacd277e6d7a527e6f0e5c1929debe95cf162a6"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "1c12f59bd5298b69c32f323b29cbc9f188e6f689", 
+      "title": "Description of SQUASH, the SFU Question Answering Summary Handler for the DUC-2005 Summarization Task", 
+      "url": "https://www.semanticscholar.org/paper/1c12f59bd5298b69c32f323b29cbc9f188e6f689"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "56a6af937507bf1e8a4d4089c01272c73698c8ea", 
+      "title": "Analyzing Models for Semantic Role Assignment using Confusability", 
+      "url": "https://www.semanticscholar.org/paper/56a6af937507bf1e8a4d4089c01272c73698c8ea"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "41ac86c2639ff1e6c90767ddbcdd8566ae24da10", 
+      "title": "Calibrating Features for Semantic Role Labeling", 
+      "url": "https://www.semanticscholar.org/paper/41ac86c2639ff1e6c90767ddbcdd8566ae24da10"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "03a52216777990f504d95e0d30cc53573055d07c", 
+      "title": "Joint Learning Improves Semantic Role Labeling", 
+      "url": "https://www.semanticscholar.org/paper/03a52216777990f504d95e0d30cc53573055d07c"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "560407f3982a4575c92d0a5bedabcb559ef63f6b", 
+      "title": "Annotating the Predicate-Argument Structure of Chinese Nominalizations", 
+      "url": "https://www.semanticscholar.org/paper/560407f3982a4575c92d0a5bedabcb559ef63f6b"
+    }, 
+    {
+      "isInfluential": true, 
+      "paperId": "21c0ad313566a64da00c6de7b8afe0c2dd3ee507", 
+      "title": "Semantic Parsing Based On FrameNet", 
+      "url": "https://www.semanticscholar.org/paper/21c0ad313566a64da00c6de7b8afe0c2dd3ee507"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "1ee55e541fca327d265cf0796dca13ca2cf2926e", 
+      "title": "Semantic Role Labelling with Tree Conditional Random Fields", 
+      "url": "https://www.semanticscholar.org/paper/1ee55e541fca327d265cf0796dca13ca2cf2926e"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "38fb10ef87b50a0d08453d8853710f497bed59cc", 
+      "title": "A Joint Model for Semantic Role Labeling", 
+      "url": "https://www.semanticscholar.org/paper/38fb10ef87b50a0d08453d8853710f497bed59cc"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "388138e7b30ee0e1814e4d3a9cc39e626fc38e5c", 
+      "title": "A Semantic Scattering Model for the Automatic Interpretation of Genitives", 
+      "url": "https://www.semanticscholar.org/paper/388138e7b30ee0e1814e4d3a9cc39e626fc38e5c"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "7bd0a04b0f0687896e765b48619a27ee545e86db", 
+      "title": "On the Parameter Space of Generative Lexicalized Statistical Parsing Models", 
+      "url": "https://www.semanticscholar.org/paper/7bd0a04b0f0687896e765b48619a27ee545e86db"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "00646a75a889c60d487813b39b1864d2842f5b75", 
+      "title": "Semantic role labeling of nominalized predicates in Chinese", 
+      "url": "https://www.semanticscholar.org/paper/00646a75a889c60d487813b39b1864d2842f5b75"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "24ff26b9cf71d9f9a8e7dedf0cfe56d105363cd3", 
+      "title": "The Berkeley FrameNet Project", 
+      "url": "https://www.semanticscholar.org/paper/24ff26b9cf71d9f9a8e7dedf0cfe56d105363cd3"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "1c1843bed20f34f3d9f4d1c46a49a6873852922d", 
+      "title": "Parsing Arguments Of Nominalizations In English And Chinese", 
+      "url": "https://www.semanticscholar.org/paper/1c1843bed20f34f3d9f4d1c46a49a6873852922d"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "c1572de9eaf0769c2b29bbb45d604dd8570482fe", 
+      "title": "Senseval Automatic Labeling Of Semantic Roles Using Maximum Entropy Models", 
+      "url": "https://www.semanticscholar.org/paper/c1572de9eaf0769c2b29bbb45d604dd8570482fe"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "28fafae05aba0e0812a42fcb37e6875a9264ec41", 
+      "title": "Question Answering Based on Semantic Structures", 
+      "url": "https://www.semanticscholar.org/paper/28fafae05aba0e0812a42fcb37e6875a9264ec41"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "710545602da51d7315c75006a179d4d00f5fbc7f", 
+      "title": "A Maximum Entropy Chinese Character-Based Parser", 
+      "url": "https://www.semanticscholar.org/paper/710545602da51d7315c75006a179d4d00f5fbc7f"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "cbd452c16b6c2e94c450a4c173d078a0296c97c7", 
+      "title": "A Corrigendum to Sun and Jurafsky (2004) \" Shallow Semantic Parsing of Chinese \" 1. Syntactic Parsing 1.1 an Svm-based Part-of-speech Tagger for Chinese", 
+      "url": "https://www.semanticscholar.org/paper/cbd452c16b6c2e94c450a4c173d078a0296c97c7"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "a29fb85803a5c0bceab96b624ad0af41974b573a", 
+      "title": "Support Vector Machines Applied To The Classification Of Semantic Relations In Nominalized Noun Phrases", 
+      "url": "https://www.semanticscholar.org/paper/a29fb85803a5c0bceab96b624ad0af41974b573a"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "31274eabb84407e3bc2c1d14b804cb7bcc068111", 
+      "title": "The Necessity of Syntactic Parsing for Semantic Role Labeling", 
+      "url": "https://www.semanticscholar.org/paper/31274eabb84407e3bc2c1d14b804cb7bcc068111"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "19a056cd8e7cf5556c785199aa7c8527624e2737", 
+      "title": "Annotating The Propositions In The Penn Chinese Treebank", 
+      "url": "https://www.semanticscholar.org/paper/19a056cd8e7cf5556c785199aa7c8527624e2737"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "1ae5c1646ea445a670fe6cc8bf72b589dd9f6e5c", 
+      "title": "Semantic Role Labeling Using Different Syntactic Views", 
+      "url": "https://www.semanticscholar.org/paper/1ae5c1646ea445a670fe6cc8bf72b589dd9f6e5c"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "d14a8113dc5f761bacee2d5a9374bc3faf0ae70b", 
+      "title": "The Disambiguation of Nominalizations", 
+      "url": "https://www.semanticscholar.org/paper/d14a8113dc5f761bacee2d5a9374bc3faf0ae70b"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "3aa133ccc7e21793cb31ad96da8defb3dd50dab4", 
+      "title": "The SALSA Corpus: a German corpus resource for lexical semantics", 
+      "url": "https://www.semanticscholar.org/paper/3aa133ccc7e21793cb31ad96da8defb3dd50dab4"
+    }, 
+    {
+      "isInfluential": true, 
+      "paperId": "255d6867cb5c57810c909d5e488c9ae86e0d6d3e", 
+      "title": "The NomBank Project: An Interim Report", 
+      "url": "https://www.semanticscholar.org/paper/255d6867cb5c57810c909d5e488c9ae86e0d6d3e"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "061a79bddf7393d3e7666bdf9c35e4359ddad688", 
+      "title": "Semantic Role Labeling of NomBank: A Maximum Entropy Approach", 
+      "url": "https://www.semanticscholar.org/paper/061a79bddf7393d3e7666bdf9c35e4359ddad688"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "90edb0f07d0c308e5d609b2ba378ae1bf06f104f", 
+      "title": "Shallow Semantic Parsing using Support Vector Machines", 
+      "url": "https://www.semanticscholar.org/paper/90edb0f07d0c308e5d609b2ba378ae1bf06f104f"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "94b6c2a70acdeee022cc657f8875d57a3aa0146c", 
+      "title": "Data Homogeneity And Semantic Role Tagging In Chinese", 
+      "url": "https://www.semanticscholar.org/paper/94b6c2a70acdeee022cc657f8875d57a3aa0146c"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "94e10e3913e15bb1459ad13964e415f372638290", 
+      "title": "Extending VerbNet with Novel Verb Classes", 
+      "url": "https://www.semanticscholar.org/paper/94e10e3913e15bb1459ad13964e415f372638290"
+    }, 
+    {
+      "isInfluential": true, 
+      "paperId": "0d97cbb7a79db7cee196df18e76e6916060917c1", 
+      "title": "Semantic Role Chunking Combining Complementary Syntactic Views", 
+      "url": "https://www.semanticscholar.org/paper/0d97cbb7a79db7cee196df18e76e6916060917c1"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "15fad23ab1f03b39aeeee0fed24803e98c47c28d", 
+      "title": "Generalized Inference with Multiple Semantic Role Labeling Systems", 
+      "url": "https://www.semanticscholar.org/paper/15fad23ab1f03b39aeeee0fed24803e98c47c28d"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "0c34ad045963acc63948e636e15b2c13080d8ece", 
+      "title": "Using Verbs to Characterize Noun-Noun Relations", 
+      "url": "https://www.semanticscholar.org/paper/0c34ad045963acc63948e636e15b2c13080d8ece"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "389dc2b7f5baa9f41048dd6329f3a428d5f4c11a", 
+      "title": "The Integration of Syntactic Parsing and Semantic Role Labeling", 
+      "url": "https://www.semanticscholar.org/paper/389dc2b7f5baa9f41048dd6329f3a428d5f4c11a"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "155baea065396a150f0f8875e088355800fa9449", 
+      "title": "Head-Driven Statistical Models for Natural Language Parsing", 
+      "url": "https://www.semanticscholar.org/paper/155baea065396a150f0f8875e088355800fa9449"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "d59dedf7697670c48fa7fc49827078370893b748", 
+      "title": "SVM Classification Of FrameNet Semantic Roles", 
+      "url": "https://www.semanticscholar.org/paper/d59dedf7697670c48fa7fc49827078370893b748"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "ee4c4fe7fd24125531a0e9eafb6d110cf3c27398", 
+      "title": "Automatic Semantic Role Labeling for Chinese Verbs", 
+      "url": "https://www.semanticscholar.org/paper/ee4c4fe7fd24125531a0e9eafb6d110cf3c27398"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "25e88ca57d3abf4c6eb88d6f9f8e1828218fd55c", 
+      "title": "Fully Parsing the Penn Treebank", 
+      "url": "https://www.semanticscholar.org/paper/25e88ca57d3abf4c6eb88d6f9f8e1828218fd55c"
+    }, 
+    {
+      "isInfluential": true, 
+      "paperId": "00db37e7e1696b07f4f5a992a8e6befa175aa56e", 
+      "title": "Semantic Role Labeling Via Integer Linear Programming Inference", 
+      "url": "https://www.semanticscholar.org/paper/00db37e7e1696b07f4f5a992a8e6befa175aa56e"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "18d04fa815cbc9e7a2eeab189a4d7388cb43b0cb", 
+      "title": "Using Predicate-Argument Structures for Information Extraction", 
+      "url": "https://www.semanticscholar.org/paper/18d04fa815cbc9e7a2eeab189a4d7388cb43b0cb"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "df87a18357f3c462fc21df0ce9f60160714fd1e3", 
+      "title": "Shallow Semantc Parsing of Chinese", 
+      "url": "https://www.semanticscholar.org/paper/df87a18357f3c462fc21df0ce9f60160714fd1e3"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "fa97b93a4162c393862cdf2fa8ba5dae63a88081", 
+      "title": "Bilingual FrameNet Dictionaries for Machine Translation", 
+      "url": "https://www.semanticscholar.org/paper/fa97b93a4162c393862cdf2fa8ba5dae63a88081"
+    }, 
+    {
+      "isInfluential": true, 
+      "paperId": "d156fcd29ea1287852d9df6b541e67ac6f6bda4a", 
+      "title": "The Penn Chinese TreeBank: Phrase structure annotation of a large corpus", 
+      "url": "https://www.semanticscholar.org/paper/d156fcd29ea1287852d9df6b541e67ac6f6bda4a"
+    }, 
+    {
+      "isInfluential": true, 
+      "paperId": "0b44fcbeea9415d400c5f5789d6b892b6f98daff", 
+      "title": "Building a Large Annotated Corpus of English: The Penn Treebank", 
+      "url": "https://www.semanticscholar.org/paper/0b44fcbeea9415d400c5f5789d6b892b6f98daff"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "80ff3068e4621feaa7725a2c6e4ef2445f56b0a7", 
+      "title": "Semantic Role Labeling System Using Maximum Entropy Classifier", 
+      "url": "https://www.semanticscholar.org/paper/80ff3068e4621feaa7725a2c6e4ef2445f56b0a7"
+    }, 
+    {
+      "isInfluential": true, 
+      "paperId": "4965f1589a3304bce4d6510d4d9cc814aa62e69f", 
+      "title": "Semantic Role Labeling With Boosting, SVMs, Maximum Entropy, SNOW, And Decision Lists", 
+      "url": "https://www.semanticscholar.org/paper/4965f1589a3304bce4d6510d4d9cc814aa62e69f"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "9e6885d50c556900cee6dd4ab7dccb20d9275586", 
+      "title": "Exploiting Full Parsing Information to Label Semantic Roles Using an Ensemble of ME and SVM via Integer Linear Programming", 
+      "url": "https://www.semanticscholar.org/paper/9e6885d50c556900cee6dd4ab7dccb20d9275586"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "13962a29059a84b4e4588a70826139b15d7c8bb8", 
+      "title": "Hierarchical Recognition of Propositional Arguments with Perceptrons", 
+      "url": "https://www.semanticscholar.org/paper/13962a29059a84b4e4588a70826139b15d7c8bb8"
+    }, 
+    {
+      "isInfluential": true, 
+      "paperId": "837c2bf28887fc1a00e1b1148e5df748809da242", 
+      "title": "The Proposition Bank: An Annotated Corpus of Semantic Roles", 
+      "url": "https://www.semanticscholar.org/paper/837c2bf28887fc1a00e1b1148e5df748809da242"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "531c793838c806b39cb63a9109382b27155672ab", 
+      "title": "Semantic Role Labeling by Tagging Syntactic Chunks", 
+      "url": "https://www.semanticscholar.org/paper/531c793838c806b39cb63a9109382b27155672ab"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "25ca4f4424cf868c2b258cc4e23c46ba329b01ed", 
+      "title": "Generative Models For Semantic Role Labeling", 
+      "url": "https://www.semanticscholar.org/paper/25ca4f4424cf868c2b258cc4e23c46ba329b01ed"
+    }, 
+    {
+      "isInfluential": true, 
+      "paperId": "99a49984e3a563750533aa030a4d0389e5f36d2b", 
+      "title": "NP-External Arguments: A Study Of Argument Sharing In English", 
+      "url": "https://www.semanticscholar.org/paper/99a49984e3a563750533aa030a4d0389e5f36d2b"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "96d54f57a7a20cdf08f068d727ab70bf012a8813", 
+      "title": "Deep Syntactic Annotation: Tectogrammatical Representation And Beyond", 
+      "url": "https://www.semanticscholar.org/paper/96d54f57a7a20cdf08f068d727ab70bf012a8813"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "3d1f6b2321f4e94441e4d962c01042a1d919f6a1", 
+      "title": "Can Semantic Roles Generalize Across Genres?", 
+      "url": "https://www.semanticscholar.org/paper/3d1f6b2321f4e94441e4d962c01042a1d919f6a1"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "2abfea0f73242aaee6df0db8981a4c7c2cd8d3ab", 
+      "title": "Chinese Passives in Comparative Perspective", 
+      "url": "https://www.semanticscholar.org/paper/2abfea0f73242aaee6df0db8981a4c7c2cd8d3ab"
+    }
+  ], 
+  "title": "Labeling Chinese Predicates with Semantic Roles", 
+  "url": "https://www.semanticscholar.org/paper/2f535d1ed9e01453251dd744286092db9e439d98", 
+  "venue": "Computational Linguistics"
+}

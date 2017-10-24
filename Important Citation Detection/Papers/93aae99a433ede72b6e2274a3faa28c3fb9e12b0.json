@@ -1,0 +1,719 @@
+{
+  "authors": [
+    {
+      "authorId": "1741295", 
+      "name": "Atsushi Fujii", 
+      "url": "https://www.semanticscholar.org/author/1741295"
+    }, 
+    {
+      "authorId": "3040648", 
+      "name": "Kentaro Inui", 
+      "url": "https://www.semanticscholar.org/author/3040648"
+    }, 
+    {
+      "authorId": "1719961", 
+      "name": "Takenobu Tokunaga", 
+      "url": "https://www.semanticscholar.org/author/1719961"
+    }, 
+    {
+      "authorId": "2911717", 
+      "name": "Hozumi Tanaka", 
+      "url": "https://www.semanticscholar.org/author/2911717"
+    }
+  ], 
+  "citationVelocity": 0, 
+  "citations": [
+    {
+      "isInfluential": false, 
+      "paperId": "56281287646e7ee72678b07f90cbc804b9d8b2e5", 
+      "title": "The Improving Techniques for Disambiguating Non-alphabet Sense Categories", 
+      "url": "https://www.semanticscholar.org/paper/56281287646e7ee72678b07f90cbc804b9d8b2e5"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "1a54d17330f25ec9b5f5d65ab08063c37876cb1b", 
+      "title": "Using Chi-Square Automatic Interaction Detector to Solve the Polysemy Problems in a Chinese to Taiwanese TTS System", 
+      "url": "https://www.semanticscholar.org/paper/1a54d17330f25ec9b5f5d65ab08063c37876cb1b"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "06da13b99bbbcb1623b5e17e7d577999e56fd2bb", 
+      "title": "Word Sense Disambiguation Using OntoNotes: An Empirical Study", 
+      "url": "https://www.semanticscholar.org/paper/06da13b99bbbcb1623b5e17e7d577999e56fd2bb"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "27c64270d2395c0858795bf6d8edd76d9298f638", 
+      "title": "The Effect of the Number of Features to Supervised Chinese Word Sense Disambiguation", 
+      "url": "https://www.semanticscholar.org/paper/27c64270d2395c0858795bf6d8edd76d9298f638"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "70f07feaf3b5aae843b42f2d4af0d4def9dfaf99", 
+      "title": "Research Paper: A Multi-aspect Comparison Study of Supervised Word Sense Disambiguation", 
+      "url": "https://www.semanticscholar.org/paper/70f07feaf3b5aae843b42f2d4af0d4def9dfaf99"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "5a3a287b36db546dbde40b23a852a03169b463bf", 
+      "title": "Learning User Preferences By Adaptive Pairwise Comparison", 
+      "url": "https://www.semanticscholar.org/paper/5a3a287b36db546dbde40b23a852a03169b463bf"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "8fe5557b400b370e4431098b434f23a6d9a8b552", 
+      "title": "Active Learning for User-Tailored Refined Music Mood Detection", 
+      "url": "https://www.semanticscholar.org/paper/8fe5557b400b370e4431098b434f23a6d9a8b552"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "aa0014623a5c9365d64b20344a59618720b23659", 
+      "title": "Study of active learning in the challenge", 
+      "url": "https://www.semanticscholar.org/paper/aa0014623a5c9365d64b20344a59618720b23659"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "e7894624ba5b48b6740ada559eb6c111efd2d341", 
+      "title": "Analysis of Algorithms in Learning Theory and Network Analysis of Knowledge Bases", 
+      "url": "https://www.semanticscholar.org/paper/e7894624ba5b48b6740ada559eb6c111efd2d341"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "842e11853435db34e81f77a180d8bb7ee18a1fb1", 
+      "title": "Naive Bayes and Exemplar-based Approaches to Word Sense Disambiguation Revisited", 
+      "url": "https://www.semanticscholar.org/paper/842e11853435db34e81f77a180d8bb7ee18a1fb1"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "2729c8e8f4ca28df55ef0678985997a95cca6ef5", 
+      "title": "Efficient discovery of responses of proteins to compounds using active learning", 
+      "url": "https://www.semanticscholar.org/paper/2729c8e8f4ca28df55ef0678985997a95cca6ef5"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "2816c2b340b6177bf9a363ebf54090d60b9dea8d", 
+      "title": "An Empirical Study of the Domain Dependence of Supervised Word Sense Disambiguation Systems", 
+      "url": "https://www.semanticscholar.org/paper/2816c2b340b6177bf9a363ebf54090d60b9dea8d"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "780adfffb9f25a07491da06f3bd5169ed9e018db", 
+      "title": "Liu Et Al \u2013 Heuristic Sample Selection Page 1 of 35 Heuristic Sample Selection to Minimize Reference Standard Training Set for a Part-of-speech Tagger", 
+      "url": "https://www.semanticscholar.org/paper/780adfffb9f25a07491da06f3bd5169ed9e018db"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "01fde83c2e144e54ae324edf606034cf121efe87", 
+      "title": "Potts Model on the Case Fillers for Word Sense Disambiguation", 
+      "url": "https://www.semanticscholar.org/paper/01fde83c2e144e54ae324edf606034cf121efe87"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "0d0617ec82711c3ccf9ce893587b7fc723db5dc3", 
+      "title": "Progress on Semi-supervised Machine Learning Techniques Contributing Authors Contents Wp7: State of the Art 1", 
+      "url": "https://www.semanticscholar.org/paper/0d0617ec82711c3ccf9ce893587b7fc723db5dc3"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "00a9895de006675d5c65e64ba756c1585757ab86", 
+      "title": "Active labeling: Application to wireless endoscopy analysis", 
+      "url": "https://www.semanticscholar.org/paper/00a9895de006675d5c65e64ba756c1585757ab86"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "16ed6037525fd81cd5be7f23fa72bd29f10ee92e", 
+      "title": "Word Sense Disambiguation with Information Retrieval Technique", 
+      "url": "https://www.semanticscholar.org/paper/16ed6037525fd81cd5be7f23fa72bd29f10ee92e"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "88ff9c52a505bfeee3fdc309f60b66af7d237710", 
+      "title": "A general framework for never-ending learning from time series streams", 
+      "url": "https://www.semanticscholar.org/paper/88ff9c52a505bfeee3fdc309f60b66af7d237710"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "beb5f88c8711b309ef8351f751c7d0a9a8e0d8aa", 
+      "title": "On the Portability and Tuning of Supervised Word Sense Disambiguation Systems", 
+      "url": "https://www.semanticscholar.org/paper/beb5f88c8711b309ef8351f751c7d0a9a8e0d8aa"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "0f366eb442fdc43e0c1db574aa8265ee0ac5e716", 
+      "title": "Alison Cawsey", 
+      "url": "https://www.semanticscholar.org/paper/0f366eb442fdc43e0c1db574aa8265ee0ac5e716"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "9705a3d9d5ce518769a5bfb6a30524242dd3cdfa", 
+      "title": "Exploring Label Dependency in Active Learning for Phenotype Mapping", 
+      "url": "https://www.semanticscholar.org/paper/9705a3d9d5ce518769a5bfb6a30524242dd3cdfa"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "c014aef4dd147dda7f4bb194ec8f251351ee44b1", 
+      "title": "Boosting Applied toe Word Sense Disambiguation", 
+      "url": "https://www.semanticscholar.org/paper/c014aef4dd147dda7f4bb194ec8f251351ee44b1"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "113c01acb0ba50b0ae19a6b8d97e4c277c6e8f10", 
+      "title": "Active Learning for Chinese Word Segmentation", 
+      "url": "https://www.semanticscholar.org/paper/113c01acb0ba50b0ae19a6b8d97e4c277c6e8f10"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "d5000e9bf2f16af00c829c7aebf4e022e3570cf8", 
+      "title": "French Gender Attribution on the Basis of Similarity: A Comparison Between AM and Connectionist Models", 
+      "url": "https://www.semanticscholar.org/paper/d5000e9bf2f16af00c829c7aebf4e022e3570cf8"
+    }, 
+    {
+      "isInfluential": true, 
+      "paperId": "344314f4b4c6d1a07e746e8e16a74753f5c1a9c5", 
+      "title": "Frame Assignment with Active Learning", 
+      "url": "https://www.semanticscholar.org/paper/344314f4b4c6d1a07e746e8e16a74753f5c1a9c5"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "6208ee83919ca4bbb1dba223b1d8102be0021a99", 
+      "title": "Extracting Sense-Disambiguated Example Sentences From Parallel Corpora", 
+      "url": "https://www.semanticscholar.org/paper/6208ee83919ca4bbb1dba223b1d8102be0021a99"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "bfa2f7052b6cb3e869d9327148c454e940c11fcd", 
+      "title": "A Paraphrase-Based Exploration Of Cohesiveness Criteria", 
+      "url": "https://www.semanticscholar.org/paper/bfa2f7052b6cb3e869d9327148c454e940c11fcd"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "818826f356444f3daa3447755bf63f171f39ec47", 
+      "title": "Active Learning Literature Survey", 
+      "url": "https://www.semanticscholar.org/paper/818826f356444f3daa3447755bf63f171f39ec47"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "621c34990b61f2785f8a2e5db64908737a5d6837", 
+      "title": "Selectively Inhibiting Learning Bias for Active Sampling", 
+      "url": "https://www.semanticscholar.org/paper/621c34990b61f2785f8a2e5db64908737a5d6837"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "9df1ac67c0982d3f89ad26a751be998e2ed085b1", 
+      "title": "Natural Language Engineering: The Study of Word Sense Disambiguation in Punjabi", 
+      "url": "https://www.semanticscholar.org/paper/9df1ac67c0982d3f89ad26a751be998e2ed085b1"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "8aeb962c73eb9a5ccff4f9e38f9a69cb8570de2c", 
+      "title": "Active Learning: A Survey", 
+      "url": "https://www.semanticscholar.org/paper/8aeb962c73eb9a5ccff4f9e38f9a69cb8570de2c"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "6ee884b298729b79e554ebfbde8fdbe596f97f4e", 
+      "title": "EGAL: Exploration Guided Active Learning for TCBR", 
+      "url": "https://www.semanticscholar.org/paper/6ee884b298729b79e554ebfbde8fdbe596f97f4e"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "3d97fc70da26756166f173d324109b1b77293f46", 
+      "title": "Boosting Applied to Word Sense Disambiguation", 
+      "url": "https://www.semanticscholar.org/paper/3d97fc70da26756166f173d324109b1b77293f46"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "556004d3db5b02e13d2887454e38c9d3477d7d0b", 
+      "title": "Word Sense Disambiguation: Facing Current Challenges", 
+      "url": "https://www.semanticscholar.org/paper/556004d3db5b02e13d2887454e38c9d3477d7d0b"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "0f051e46f16f1be8c0cddb66cf4c22442728d7f6", 
+      "title": "An Empirical Study of the Behavior of Active Learning for Word Sense Disambiguation", 
+      "url": "https://www.semanticscholar.org/paper/0f051e46f16f1be8c0cddb66cf4c22442728d7f6"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "b6c7d5c12f3a7b8b22ad0ea988ff727af8e1fd68", 
+      "title": "Active Learning in Recommender Systems", 
+      "url": "https://www.semanticscholar.org/paper/b6c7d5c12f3a7b8b22ad0ea988ff727af8e1fd68"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "90dd9a6e63320a18f8f50792996ba605cc874fe6", 
+      "title": "An Empirical Study Of The Domain Dependence Of Supervised Word Disambiguation Systems", 
+      "url": "https://www.semanticscholar.org/paper/90dd9a6e63320a18f8f50792996ba605cc874fe6"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "12f17c64eb20f051552295d2c928f036f5b8163b", 
+      "title": "On the Use of Automatically Acquired Examples for All-Nouns Word Sense Disambiguation", 
+      "url": "https://www.semanticscholar.org/paper/12f17c64eb20f051552295d2c928f036f5b8163b"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "48afc1be7c6300b75310963609ce9c546e664107", 
+      "title": "Convergence of Nearest Neighbor Pattern Classification with Selective Sampling", 
+      "url": "https://www.semanticscholar.org/paper/48afc1be7c6300b75310963609ce9c546e664107"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "02c275d06cf3009a95418aa5d01e506636995a70", 
+      "title": "Machine Learning and Natural Language Processing", 
+      "url": "https://www.semanticscholar.org/paper/02c275d06cf3009a95418aa5d01e506636995a70"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "ac8319d4a59dac579d9c3c4ac8c208a1dcd3ddd3", 
+      "title": "Hybrid disambiguation in natural language analysis", 
+      "url": "https://www.semanticscholar.org/paper/ac8319d4a59dac579d9c3c4ac8c208a1dcd3ddd3"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "1393dca559a6af376c8812700a23ad9e3248ad06", 
+      "title": "Active Learning for the Identification of Nonliteral Language", 
+      "url": "https://www.semanticscholar.org/paper/1393dca559a6af376c8812700a23ad9e3248ad06"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "b092abaeb7346ae37cf23af71b7bc817ab0142dc", 
+      "title": "Curious Machines: Active Learning with Structured Instances Table of Contents", 
+      "url": "https://www.semanticscholar.org/paper/b092abaeb7346ae37cf23af71b7bc817ab0142dc"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "c1e48526eddd68b5bf98739a578ab69a009f570d", 
+      "title": "Word sense disambiguation: A survey", 
+      "url": "https://www.semanticscholar.org/paper/c1e48526eddd68b5bf98739a578ab69a009f570d"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "9955cd3b62e4d610d55cbd8c41563f99ec50ff04", 
+      "title": "Active Learning: an Unbiased Approach", 
+      "url": "https://www.semanticscholar.org/paper/9955cd3b62e4d610d55cbd8c41563f99ec50ff04"
+    }, 
+    {
+      "isInfluential": true, 
+      "paperId": "bb6d56dcf82d91923c197afb8a29a22b6d9cbd51", 
+      "title": "Desambiguac\u0327a\u0303o Lexical Automa\u0301tica de Sentido: Um Panorama", 
+      "url": "https://www.semanticscholar.org/paper/bb6d56dcf82d91923c197afb8a29a22b6d9cbd51"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "aca7de696523a77c873c70d5bd595d7f0a3d3a46", 
+      "title": "\u61c9\u7528\u69cb\u8a5e\u6cd5\u5247\u8207\u985e\u795e\u7d93\u7db2\u8def\u65bc\u4e2d\u6587\u65b0\u8a5e\u8403\u53d6 (Applying Morphological Rules and Artificial Neural Network to Chinese Unknown Word Extraction) [In Chinese]", 
+      "url": "https://www.semanticscholar.org/paper/aca7de696523a77c873c70d5bd595d7f0a3d3a46"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "69d0321af25335ce4c87ec53090b905760d642ce", 
+      "title": "Active Learning for Drug Discovery", 
+      "url": "https://www.semanticscholar.org/paper/69d0321af25335ce4c87ec53090b905760d642ce"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "6bafd74029dec23134e4460b70245ff49ea1edc9", 
+      "title": "Active Learning Based on Locally Linear Reconstruction", 
+      "url": "https://www.semanticscholar.org/paper/6bafd74029dec23134e4460b70245ff49ea1edc9"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "c544638908fa58d1dda776aea7f86f23644f1cd6", 
+      "title": "Word Sense Disambiguation using Static and Dynamic Sense Vectors", 
+      "url": "https://www.semanticscholar.org/paper/c544638908fa58d1dda776aea7f86f23644f1cd6"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "0e9bc8671ed96c89712d7c366de6e901f5db3294", 
+      "title": "Sample Selection For Statistical Grammar Induction", 
+      "url": "https://www.semanticscholar.org/paper/0e9bc8671ed96c89712d7c366de6e901f5db3294"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "32b14ee7cce7ec046d7cfed0c04f27028da35231", 
+      "title": "On minimizing training corpus for parser acquisition", 
+      "url": "https://www.semanticscholar.org/paper/32b14ee7cce7ec046d7cfed0c04f27028da35231"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "d2c97a2ed5f540e68169b7a0969f6807699b9faf", 
+      "title": "A survey on instance selection for active learning", 
+      "url": "https://www.semanticscholar.org/paper/d2c97a2ed5f540e68169b7a0969f6807699b9faf"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "95e414128a27706d6a315200a49d7cf4a0c1f11f", 
+      "title": "Word Sense Selection in Texts An Integrated Model", 
+      "url": "https://www.semanticscholar.org/paper/95e414128a27706d6a315200a49d7cf4a0c1f11f"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "b88cc8a336372320311ff635ec2d7fa0185658dd", 
+      "title": "Machine Learning Techniques for Word Sense Disambiguation", 
+      "url": "https://www.semanticscholar.org/paper/b88cc8a336372320311ff635ec2d7fa0185658dd"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "2c3e171e534768a84e4622024a6e4db00be2dc81", 
+      "title": "A Comparison between Supervised Learning Algorithms for Word Sense Disambiguation", 
+      "url": "https://www.semanticscholar.org/paper/2c3e171e534768a84e4622024a6e4db00be2dc81"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "0dde5f9827c3d00bfe3d3b023cf19bc017864141", 
+      "title": "Domain Adaptation with Active Learning for Word Sense Disambiguation", 
+      "url": "https://www.semanticscholar.org/paper/0dde5f9827c3d00bfe3d3b023cf19bc017864141"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "3dd5f3174e1b0500211d106c8d549d3db84bfc77", 
+      "title": "Memory-Based Language Processing. Introduction to the . . .", 
+      "url": "https://www.semanticscholar.org/paper/3dd5f3174e1b0500211d106c8d549d3db84bfc77"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "81dac434667a988ada1435fab320d88e304ebdcf", 
+      "title": "Sample Selection for Statistical Parsing", 
+      "url": "https://www.semanticscholar.org/paper/81dac434667a988ada1435fab320d88e304ebdcf"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "0dc9fb9f1685072013220bae2f45b3fad5f72b46", 
+      "title": "Corpus-Based Word Sense Disambiguation", 
+      "url": "https://www.semanticscholar.org/paper/0dc9fb9f1685072013220bae2f45b3fad5f72b46"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "e9d2a970ff416e890bb424617be2c15930643ecc", 
+      "title": "90. Machine Learning of Natural Language", 
+      "url": "https://www.semanticscholar.org/paper/e9d2a970ff416e890bb424617be2c15930643ecc"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "0a64d0635d04684b98854ef1da3558fe57b51dcf", 
+      "title": "Analysis of Selective Strategies to Build a Dependency-Analyzed Corpus", 
+      "url": "https://www.semanticscholar.org/paper/0a64d0635d04684b98854ef1da3558fe57b51dcf"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "8af1b368d5339ae33a6e502659fb6ddbe144cb1d", 
+      "title": "On Definition Extraction", 
+      "url": "https://www.semanticscholar.org/paper/8af1b368d5339ae33a6e502659fb6ddbe144cb1d"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "11033a90655816be1195edccd2c67ee5698ad86b", 
+      "title": "Word-sense disambiguation in biomedical ontologies", 
+      "url": "https://www.semanticscholar.org/paper/11033a90655816be1195edccd2c67ee5698ad86b"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "0ef7052be215244351714b55a3a119c24ee344a5", 
+      "title": "How to select a good training-data subset for transcription: submodular active selection for sequences", 
+      "url": "https://www.semanticscholar.org/paper/0ef7052be215244351714b55a3a119c24ee344a5"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "c733555ce9d04c9ad4f8635446909976cb3eb6bd", 
+      "title": "Example-Based Metonymy Recognition for Proper Nouns", 
+      "url": "https://www.semanticscholar.org/paper/c733555ce9d04c9ad4f8635446909976cb3eb6bd"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "3dea26da0f515a3a3d60e0c6d5ccd13cd18ac5bd", 
+      "title": "Computational Approaches to Figurative Language Conference Program Lexical Influences on the Perception of Sarcasm", 
+      "url": "https://www.semanticscholar.org/paper/3dea26da0f515a3a3d60e0c6d5ccd13cd18ac5bd"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "929e986d78c77f7e613326c6924daeb87e236033", 
+      "title": "Methods Paper: Heuristic Sample Selection to Minimize Reference Standard Training Set for a Part-Of-Speech Tagger", 
+      "url": "https://www.semanticscholar.org/paper/929e986d78c77f7e613326c6924daeb87e236033"
+    }
+  ], 
+  "doi": null, 
+  "influentialCitationCount": 2, 
+  "paperId": "93aae99a433ede72b6e2274a3faa28c3fb9e12b0", 
+  "references": [
+    {
+      "isInfluential": false, 
+      "paperId": "f3f3dcfcaa960ec201e0381f4d026e57e64bea76", 
+      "title": "Noun Classification from Predicate-Argument Structures", 
+      "url": "https://www.semanticscholar.org/paper/f3f3dcfcaa960ec201e0381f4d026e57e64bea76"
+    }, 
+    {
+      "isInfluential": true, 
+      "paperId": "2c97f1df53a7c7978d9f72325555eaf5c47b00b3", 
+      "title": "A Sequential Algorithm for Training Text Classifiers", 
+      "url": "https://www.semanticscholar.org/paper/2c97f1df53a7c7978d9f72325555eaf5c47b00b3"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "1869f70464f7834eba14dda4ca5567c8e8851fee", 
+      "title": "Instance-Based Learning Algorithms", 
+      "url": "https://www.semanticscholar.org/paper/1869f70464f7834eba14dda4ca5567c8e8851fee"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "6888cfdce23c3a90110c027a7d5e5cf221964dd0", 
+      "title": "On Learning more Appropriate Selectional Restrictions", 
+      "url": "https://www.semanticscholar.org/paper/6888cfdce23c3a90110c027a7d5e5cf221964dd0"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "309ecf4458315557bb54d0702ab57903a1b1cb87", 
+      "title": "Sequential Model Selection for Word Sense Disambiguation", 
+      "url": "https://www.semanticscholar.org/paper/309ecf4458315557bb54d0702ab57903a1b1cb87"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "2ae40898406df0a3732acc54f147c1d377f54e2a", 
+      "title": "Query by Committee", 
+      "url": "https://www.semanticscholar.org/paper/2ae40898406df0a3732acc54f147c1d377f54e2a"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "5ba10f3cab313b8cfb633814a281972d89ba4f4d", 
+      "title": "Integrating Multiple Knowledge Sources to Disambiguate Word Sense: An Exemplar-Based Approach", 
+      "url": "https://www.semanticscholar.org/paper/5ba10f3cab313b8cfb633814a281972d89ba4f4d"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "80aa9c12d315734073d8db0b60a1b67fce98746b", 
+      "title": "Improving generalization with active learning", 
+      "url": "https://www.semanticscholar.org/paper/80aa9c12d315734073d8db0b60a1b67fce98746b"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "bf35ed0864ff6cf524a24f0a65aa6951f9d6f214", 
+      "title": "A method for disambiguating word senses in a large corpus", 
+      "url": "https://www.semanticscholar.org/paper/bf35ed0864ff6cf524a24f0a65aa6951f9d6f214"
+    }, 
+    {
+      "isInfluential": true, 
+      "paperId": "05906af0103c3057994830d869b74a3ff75e16f2", 
+      "title": "A Preferential Constraint Satisfaction Technique for Natural Language Analysis", 
+      "url": "https://www.semanticscholar.org/paper/05906af0103c3057994830d869b74a3ff75e16f2"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "2380f9fdcbbfaedebd7a623f85dccb5ddedc8c8b", 
+      "title": "Learning similarity-based word sense disambiguation from sparse data", 
+      "url": "https://www.semanticscholar.org/paper/2380f9fdcbbfaedebd7a623f85dccb5ddedc8c8b"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "2f524d92be29a2c969680977994090c0aee31e22", 
+      "title": "Exemplar-Based Word Sense Disambiguation: Some Recent Improvements", 
+      "url": "https://www.semanticscholar.org/paper/2f524d92be29a2c969680977994090c0aee31e22"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "d2a82e49e5a63c419cd1a8e410f6c885d0a4aca1", 
+      "title": "Lexicon Acquisition: Learning from Corpus by Capitalizing on Lexical Categories", 
+      "url": "https://www.semanticscholar.org/paper/d2a82e49e5a63c419cd1a8e410f6c885d0a4aca1"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "25734a6fc58faa76f7feaf254aa21cf30713e544", 
+      "title": "Thesaurus-based Efficient Example Retrieval by Generating Retrieval Queries from Similarities", 
+      "url": "https://www.semanticscholar.org/paper/25734a6fc58faa76f7feaf254aa21cf30713e544"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "3891d74b1eb6d62b48491bd6c23461006c106fe5", 
+      "title": "Remembering To Forget: A Competence-Preserving Case Deletion Policy for Case-Based Reasoning Systems", 
+      "url": "https://www.semanticscholar.org/paper/3891d74b1eb6d62b48491bd6c23461006c106fe5"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "1d922631a6bf8361d7602e12cafb9e15d421c827", 
+      "title": "Word-Sense Disambiguation Using Statistical Models of Roget's Categories Trained on Large Corpora", 
+      "url": "https://www.semanticscholar.org/paper/1d922631a6bf8361d7602e12cafb9e15d421c827"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "f8f17ad0913c44923b704ca226f665e9c53fcf60", 
+      "title": "Subject-Dependent Co-Occurence and Word Sense Disambiguation", 
+      "url": "https://www.semanticscholar.org/paper/f8f17ad0913c44923b704ca226f665e9c53fcf60"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "061be2aa84f46a86b8a1bea9af94a38dc49aa5dc", 
+      "title": "Dimensions of Meaning", 
+      "url": "https://www.semanticscholar.org/paper/061be2aa84f46a86b8a1bea9af94a38dc49aa5dc"
+    }, 
+    {
+      "isInfluential": true, 
+      "paperId": "74be9c4641aa1d83945151c3a1d472154d338625", 
+      "title": "A Best-Match Algorithm for Broad-Coverage Example-Based Disambiguation", 
+      "url": "https://www.semanticscholar.org/paper/74be9c4641aa1d83945151c3a1d472154d338625"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "67df61766618f54e3b136c18aa28694395b5fd6d", 
+      "title": "Word Sense Disambiguation Using a Second Language Monolingual Corpus", 
+      "url": "https://www.semanticscholar.org/paper/67df61766618f54e3b136c18aa28694395b5fd6d"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "67ef55826cc058d761dff10180ef8d3beb296657", 
+      "title": "Co-Occurrence Vectors From Corpora Vs. Distance Vectors From Dictionaries", 
+      "url": "https://www.semanticscholar.org/paper/67ef55826cc058d761dff10180ef8d3beb296657"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "e5b3ad6b4cdb4b032d0f5bd34ba4b452c3883f0a", 
+      "title": "Machine Translation by Case Generalization", 
+      "url": "https://www.semanticscholar.org/paper/e5b3ad6b4cdb4b032d0f5bd34ba4b452c3883f0a"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "585296a980e01de12c741360b38b73a63a336e52", 
+      "title": "Lexical Knowledge Representation and Natural Language Processing", 
+      "url": "https://www.semanticscholar.org/paper/585296a980e01de12c741360b38b73a63a336e52"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "44254390973b3d3e6a98f53f1da961addb4d352b", 
+      "title": "Learning Translation Templates From Bilingual Text", 
+      "url": "https://www.semanticscholar.org/paper/44254390973b3d3e6a98f53f1da961addb4d352b"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "5c46392ba988b6cb81f6179fd5bde98367e89a95", 
+      "title": "Automatic Thesaurus Construction based on Grammatical Relations", 
+      "url": "https://www.semanticscholar.org/paper/5c46392ba988b6cb81f6179fd5bde98367e89a95"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "d33efb66d9094e24f4256e34a6a595cbdfb76e30", 
+      "title": "A Portable & Quick Japanese Parser: QJP", 
+      "url": "https://www.semanticscholar.org/paper/d33efb66d9094e24f4256e34a6a595cbdfb76e30"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "59407446503d49a8cf5f5643b17502835b62f139", 
+      "title": "Using WordNet to Disambiguate Word Senses for Text Retrieval", 
+      "url": "https://www.semanticscholar.org/paper/59407446503d49a8cf5f5643b17502835b62f139"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "85b9eb556c211d954b31d9d58fed6891a07ab473", 
+      "title": "Word-Sense Disambiguation Using Statistical Methods", 
+      "url": "https://www.semanticscholar.org/paper/85b9eb556c211d954b31d9d58fed6891a07ab473"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "d531de9d42d79ec827ef352073eadc07b658ad86", 
+      "title": "To what extent does case contribute to verb sense disambiguation?", 
+      "url": "https://www.semanticscholar.org/paper/d531de9d42d79ec827ef352073eadc07b658ad86"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "00c7b37ad903430676bd6afb825f7ce1a8d4cecf", 
+      "title": "Dynamically Combining Syntax and Semantics in Natural Language Processing", 
+      "url": "https://www.semanticscholar.org/paper/00c7b37ad903430676bd6afb825f7ce1a8d4cecf"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "3bb73407096cbb0f5d884eb108d694b43580004b", 
+      "title": "Introduction to Modern Information Retrieval", 
+      "url": "https://www.semanticscholar.org/paper/3bb73407096cbb0f5d884eb108d694b43580004b"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "79d65f98aba58b7bd234d62f742ba34b07e072b5", 
+      "title": "Sense Classification of Verbal Polysemy based-on Bilingual Class/Class Association", 
+      "url": "https://www.semanticscholar.org/paper/79d65f98aba58b7bd234d62f742ba34b07e072b5"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "9ef2074868a9edba3ca5494d7e22f6bd3bf64812", 
+      "title": "Automatic Recognition of Verbal Polysemy", 
+      "url": "https://www.semanticscholar.org/paper/9ef2074868a9edba3ca5494d7e22f6bd3bf64812"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "5211c32fb5849a14855a91a7ab16cfb83483cc1d", 
+      "title": "Unsupervised Word Sense Disambiguation Rivaling Supervised Methods", 
+      "url": "https://www.semanticscholar.org/paper/5211c32fb5849a14855a91a7ab16cfb83483cc1d"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "553fa529ba615e4bddea81e9a231ae19d5a870a4", 
+      "title": "Estimating Upper and Lower Bounds on the Performance of Word-Sense Disambiguation Programs", 
+      "url": "https://www.semanticscholar.org/paper/553fa529ba615e4bddea81e9a231ae19d5a870a4"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "1ce36d3f5963fcafee8892b727457bacd5673eaf", 
+      "title": "Word-Sense Disambiguation Using Decomposable Models", 
+      "url": "https://www.semanticscholar.org/paper/1ce36d3f5963fcafee8892b727457bacd5673eaf"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "9d1a61f0821a7c9556ed41c6185552b84bb366f7", 
+      "title": "A WordNet-based Algorithm for Word Sense Disambiguation", 
+      "url": "https://www.semanticscholar.org/paper/9d1a61f0821a7c9556ed41c6185552b84bb366f7"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "1bcb0d197554534702640626e57b085051747fce", 
+      "title": "Noun Homograph Disambiguation Using Local Context in Large Text Corpora", 
+      "url": "https://www.semanticscholar.org/paper/1bcb0d197554534702640626e57b085051747fce"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "35d82bc17690d98c2678b1de2576ffff602de539", 
+      "title": "Comparative Experiments on Disambiguating Word Senses: An Illustration of the Role of Bias in Machine Learning", 
+      "url": "https://www.semanticscholar.org/paper/35d82bc17690d98c2678b1de2576ffff602de539"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "b53b6b7ffd1435c2c6a1b6684f9975b73648d131", 
+      "title": "Corpus-Based Statistical Sense Resolution", 
+      "url": "https://www.semanticscholar.org/paper/b53b6b7ffd1435c2c6a1b6684f9975b73648d131"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "14f03bb1c9dde03c9d62c47f3ed5ee5db9781b22", 
+      "title": "Semantic interpretation and the resolution of ambiguity", 
+      "url": "https://www.semanticscholar.org/paper/14f03bb1c9dde03c9d62c47f3ed5ee5db9781b22"
+    }, 
+    {
+      "isInfluential": true, 
+      "paperId": "bf41c89b043d3249951c8dade96120c9d38cbac0", 
+      "title": "Information Retrieval: Data Structures and Algorithms. Edited", 
+      "url": "https://www.semanticscholar.org/paper/bf41c89b043d3249951c8dade96120c9d38cbac0"
+    }, 
+    {
+      "isInfluential": true, 
+      "paperId": "9b3b9247f2c4311dbd06967032069ba8c9fba091", 
+      "title": "Minimizing Manual Annotation Cost in Supervised Training from Corpora", 
+      "url": "https://www.semanticscholar.org/paper/9b3b9247f2c4311dbd06967032069ba8c9fba091"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "6f3fce7cecdd9d83421ecb87788393474aaac7dc", 
+      "title": "Lexical Ambiguity and Information Retrieval", 
+      "url": "https://www.semanticscholar.org/paper/6f3fce7cecdd9d83421ecb87788393474aaac7dc"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "b84276fe751ca4f1389549281383b151a746107b", 
+      "title": "Statistical language learning", 
+      "url": "https://www.semanticscholar.org/paper/b84276fe751ca4f1389549281383b151a746107b"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "0b7465bfe2cd7a3fd154e85d1b34ed79ff47306d", 
+      "title": "Selection and Information: A Class-Based Approach to Lexical Relationships", 
+      "url": "https://www.semanticscholar.org/paper/0b7465bfe2cd7a3fd154e85d1b34ed79ff47306d"
+    }
+  ], 
+  "title": "Selective Sampling for Example-based Word Sense Disambiguation", 
+  "url": "https://www.semanticscholar.org/paper/93aae99a433ede72b6e2274a3faa28c3fb9e12b0", 
+  "venue": "Computational Linguistics"
+}

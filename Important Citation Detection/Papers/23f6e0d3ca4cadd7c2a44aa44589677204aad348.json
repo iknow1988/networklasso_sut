@@ -1,0 +1,647 @@
+{
+  "authors": [
+    {
+      "authorId": "1689132", 
+      "name": "Wei Lu", 
+      "url": "https://www.semanticscholar.org/author/1689132"
+    }, 
+    {
+      "authorId": "13053032", 
+      "name": "Hwee Tou Ng", 
+      "url": "https://www.semanticscholar.org/author/13053032"
+    }, 
+    {
+      "authorId": "1740222", 
+      "name": "Wee Sun Lee", 
+      "url": "https://www.semanticscholar.org/author/1740222"
+    }, 
+    {
+      "authorId": "1982950", 
+      "name": "Luke S. Zettlemoyer", 
+      "url": "https://www.semanticscholar.org/author/1982950"
+    }
+  ], 
+  "citationVelocity": 0, 
+  "citations": [
+    {
+      "isInfluential": false, 
+      "paperId": "29e20072fe0ed51e26acf5bf59a375d731034f25", 
+      "title": "Lexical Generalization in CCG Grammar Induction for Semantic Parsing", 
+      "url": "https://www.semanticscholar.org/paper/29e20072fe0ed51e26acf5bf59a375d731034f25"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "17b109bb35936845c74e9af31718e2fa2406beba", 
+      "title": "Reading to Learn: Constructing Features from Semantic Abstracts", 
+      "url": "https://www.semanticscholar.org/paper/17b109bb35936845c74e9af31718e2fa2406beba"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "fe1e8a7681a68abfd5ed959e4c98f8d98d0d7d75", 
+      "title": "Learning to Recover Meaning from Unannotated Conversational Interactions", 
+      "url": "https://www.semanticscholar.org/paper/fe1e8a7681a68abfd5ed959e4c98f8d98d0d7d75"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "f0b66a868126ee88cc1e3eb7fbff52d4c75367d3", 
+      "title": "Automatically generating reading lists", 
+      "url": "https://www.semanticscholar.org/paper/f0b66a868126ee88cc1e3eb7fbff52d4c75367d3"
+    }, 
+    {
+      "isInfluential": true, 
+      "paperId": "abbc7b9d52b5ccb4c89341e9ccd191ec7648282d", 
+      "title": "Generative Models of Grounded Language Learning with Ambiguous Supervision", 
+      "url": "https://www.semanticscholar.org/paper/abbc7b9d52b5ccb4c89341e9ccd191ec7648282d"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "e053a4c501b5992a9506321638fbd87fcacb3066", 
+      "title": "Toward Semantic Machine Translation", 
+      "url": "https://www.semanticscholar.org/paper/e053a4c501b5992a9506321638fbd87fcacb3066"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "d37f8293251857e471bc7f363f3b000eac80c85c", 
+      "title": "Semantics and Pragmatics of Spatial Reference", 
+      "url": "https://www.semanticscholar.org/paper/d37f8293251857e471bc7f363f3b000eac80c85c"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "63c469ae1655cd6954e9efacbdc7253a7bdb6da7", 
+      "title": "Bringing machine learning and compositional semantics together", 
+      "url": "https://www.semanticscholar.org/paper/63c469ae1655cd6954e9efacbdc7253a7bdb6da7"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "84a39bb6b51e219ab0f5a91fd742170090283526", 
+      "title": "Natural Language Generation with Tree Conditional Random Fields", 
+      "url": "https://www.semanticscholar.org/paper/84a39bb6b51e219ab0f5a91fd742170090283526"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "82cbc1aefe4ce19387933e7d76335e449bedd29f", 
+      "title": "Natural Language Access to Enterprise Data", 
+      "url": "https://www.semanticscholar.org/paper/82cbc1aefe4ce19387933e7d76335e449bedd29f"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "534296fc0d2c3affcf61bdeedb051eec35b9fef4", 
+      "title": "Unsupervised PCFG Induction for Grounded Language Learning with Highly Ambiguous Supervision", 
+      "url": "https://www.semanticscholar.org/paper/534296fc0d2c3affcf61bdeedb051eec35b9fef4"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "fe1c231e98978403c5159bb43ffdd48a6f932779", 
+      "title": "A Normalized-Cut Alignment Model for Mapping Hierarchical Semantic Structures onto Spoken Documents", 
+      "url": "https://www.semanticscholar.org/paper/fe1c231e98978403c5159bb43ffdd48a6f932779"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "2ea713b7fdc5d9aafe275be0f8448206cd363888", 
+      "title": "Empirically-motivated Generalizations of CCG Semantic Parsing Learning Algorithms", 
+      "url": "https://www.semanticscholar.org/paper/2ea713b7fdc5d9aafe275be0f8448206cd363888"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "27577f379d33ebe6e9ffc2d84912779e08c7c86e", 
+      "title": "Connected keywords", 
+      "url": "https://www.semanticscholar.org/paper/27577f379d33ebe6e9ffc2d84912779e08c7c86e"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "d177abb1dc2238ba9d283137440181541cf53b85", 
+      "title": "Improving Semantic Parsing with Enriched Synchronous Context-Free Grammars in Statistical Machine Translation", 
+      "url": "https://www.semanticscholar.org/paper/d177abb1dc2238ba9d283137440181541cf53b85"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "6c51e87de5e1d0e1acf089f385ec3778ca279b99", 
+      "title": "Contextual Semantic Parsing using Crowdsourced Spatial Descriptions", 
+      "url": "https://www.semanticscholar.org/paper/6c51e87de5e1d0e1acf089f385ec3778ca279b99"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "546cdac504fa252759a89f2c0a43abe1987de162", 
+      "title": "Logical Parsing from Natural Language Based on a Neural Translation Model", 
+      "url": "https://www.semanticscholar.org/paper/546cdac504fa252759a89f2c0a43abe1987de162"
+    }, 
+    {
+      "isInfluential": true, 
+      "paperId": "9ada3dd906fe5051c80e618a53e39993b457d2b2", 
+      "title": "UWM: Applying an Existing Trainable Semantic Parser to Parse Robotic Spatial Commands", 
+      "url": "https://www.semanticscholar.org/paper/9ada3dd906fe5051c80e618a53e39993b457d2b2"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "94ccf5d894206a4875c3eedba2352a2130781508", 
+      "title": "Adapting Discriminative Reranking to Grounded Language Learning", 
+      "url": "https://www.semanticscholar.org/paper/94ccf5d894206a4875c3eedba2352a2130781508"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "9be14dcc3ee40c4dc8bf868cb5dacaee8560dbd4", 
+      "title": "Comparative Study on Question Answering Systems and Techniques", 
+      "url": "https://www.semanticscholar.org/paper/9be14dcc3ee40c4dc8bf868cb5dacaee8560dbd4"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "8e0c9935598269cee228ab72d4cd61e0f8b50966", 
+      "title": "Computational Grammar Acquisition from CHILDES data using a Probabilistic Parsing Model", 
+      "url": "https://www.semanticscholar.org/paper/8e0c9935598269cee228ab72d4cd61e0f8b50966"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "e3856b57f5fd3e90a362bc05e39fe510479b0dfc", 
+      "title": "Hybrid Grammars for Discontinuous Parsing", 
+      "url": "https://www.semanticscholar.org/paper/e3856b57f5fd3e90a362bc05e39fe510479b0dfc"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "e467269bcc54b47ced6af2891c319d6c2f7ad427", 
+      "title": "Towards portable natural language interfaces based on case-based reasoning", 
+      "url": "https://www.semanticscholar.org/paper/e467269bcc54b47ced6af2891c319d6c2f7ad427"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "508e5b724c8b841aecfae864e5d6dcd02eb28772", 
+      "title": "Bootstrapping Semantic Parsers from Conversations", 
+      "url": "https://www.semanticscholar.org/paper/508e5b724c8b841aecfae864e5d6dcd02eb28772"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "5fee97883ca0d4636a4c2effdebd4fee998c2ebf", 
+      "title": "Translating natural language constraints to OCL", 
+      "url": "https://www.semanticscholar.org/paper/5fee97883ca0d4636a4c2effdebd4fee998c2ebf"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "d2d321a9f2f3e8f636fc3457f76d2cf4a640bbc6", 
+      "title": "Simultaneously Acquiring the Syntax and Semantics of Spatial Referring Expressions", 
+      "url": "https://www.semanticscholar.org/paper/d2d321a9f2f3e8f636fc3457f76d2cf4a640bbc6"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "1cd59678309fea8018e7ff8230359af24ce4a4ae", 
+      "title": "Inducing Probabilistic CCG Grammars from Logical Form with Higher-Order Unification", 
+      "url": "https://www.semanticscholar.org/paper/1cd59678309fea8018e7ff8230359af24ce4a4ae"
+    }, 
+    {
+      "isInfluential": true, 
+      "paperId": "34c6ac22117f6084055aa8f14fce431f2369357b", 
+      "title": "Formalizing Semantic Parsing with Tree Transducers", 
+      "url": "https://www.semanticscholar.org/paper/34c6ac22117f6084055aa8f14fce431f2369357b"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "406d75392ba7a0261aeee61c747bad8c41855243", 
+      "title": "A Semi-supervised Clustering Approach for Semantic Slot Labelling", 
+      "url": "https://www.semanticscholar.org/paper/406d75392ba7a0261aeee61c747bad8c41855243"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "2597166e343485df41afb88dfb7c3defd2f3bfbc", 
+      "title": "Language to Logical Form with Neural Attention", 
+      "url": "https://www.semanticscholar.org/paper/2597166e343485df41afb88dfb7c3defd2f3bfbc"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "1dbcbeb40e83a864423347b445fb9b18f943002d", 
+      "title": "Constrained Semantic Forests for Improved Discriminative Semantic Parsing", 
+      "url": "https://www.semanticscholar.org/paper/1dbcbeb40e83a864423347b445fb9b18f943002d"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "c8c7b595782531eb448d936fbd8e0527371304f7", 
+      "title": "Natural Language Generation in the Context of Providing Indoor Route Instructions", 
+      "url": "https://www.semanticscholar.org/paper/c8c7b595782531eb448d936fbd8e0527371304f7"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "81d45a85f7086b738f09301f12880a1b79cffd38", 
+      "title": "Efficient Latent Structural Perceptron with Hybrid Trees for Semantic Parsing", 
+      "url": "https://www.semanticscholar.org/paper/81d45a85f7086b738f09301f12880a1b79cffd38"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "b950fe3a4a5b19bc297894828c031898501f88c0", 
+      "title": "Cross-lingual Semantic Parsing with Categorial Grammars", 
+      "url": "https://www.semanticscholar.org/paper/b950fe3a4a5b19bc297894828c031898501f88c0"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "513d892c4e8b27332868716d27a9e0cf404aa817", 
+      "title": "An Extended GHKM Algorithm for Inducing \u03bb-SCFG", 
+      "url": "https://www.semanticscholar.org/paper/513d892c4e8b27332868716d27a9e0cf404aa817"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "a437b257f023c115f259bfe633d765dc1dd458d9", 
+      "title": "Text-to-diagram Conversion: a Method for Formal Representation of Natural Language Geometry Problems", 
+      "url": "https://www.semanticscholar.org/paper/a437b257f023c115f259bfe633d765dc1dd458d9"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "0ed04a626d9da0f13b987fe61f34f3e84bc1423d", 
+      "title": "What to talk about and how? Selective Generation using LSTMs with Coarse-to-Fine Alignment", 
+      "url": "https://www.semanticscholar.org/paper/0ed04a626d9da0f13b987fe61f34f3e84bc1423d"
+    }, 
+    {
+      "isInfluential": true, 
+      "paperId": "50c651e9f94f9d4927a726af0ef44818179d87da", 
+      "title": "Semantic Parsing as Machine Translation", 
+      "url": "https://www.semanticscholar.org/paper/50c651e9f94f9d4927a726af0ef44818179d87da"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "55e18e0dde592258882134d2dceeb86122b366ab", 
+      "title": "Training a Multilingual Sportscaster: Using Perceptual Context to Learn Language", 
+      "url": "https://www.semanticscholar.org/paper/55e18e0dde592258882134d2dceeb86122b366ab"
+    }, 
+    {
+      "isInfluential": true, 
+      "paperId": "16c666dbead12ea96b1efd34ea5151b5a010d1cd", 
+      "title": "Generative Alignment and Semantic Parsing for Learning from Ambiguous Supervision", 
+      "url": "https://www.semanticscholar.org/paper/16c666dbead12ea96b1efd34ea5151b5a010d1cd"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "3eacd4b29d480243492ba035b07cbe72dbb12fba", 
+      "title": "Structural Mapping between Natural Language Questions and SQL Queries", 
+      "url": "https://www.semanticscholar.org/paper/3eacd4b29d480243492ba035b07cbe72dbb12fba"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "55f5e98bd4a32fcb5e597052f15efbea78b02fb0", 
+      "title": "Learning to Map Sentences to Logical Form Learning to Map Sentences to Logical Form", 
+      "url": "https://www.semanticscholar.org/paper/55f5e98bd4a32fcb5e597052f15efbea78b02fb0"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "a5340b4f68e2641d32f337488aa8753b835f2f86", 
+      "title": "Learning to Map Chinese Sentences to Logical Forms", 
+      "url": "https://www.semanticscholar.org/paper/a5340b4f68e2641d32f337488aa8753b835f2f86"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "158a9d1f6e655d35d45c960c480ea30117f7af4f", 
+      "title": "Semantic Parsing Freebase: Towards Open-domain Semantic Parsing", 
+      "url": "https://www.semanticscholar.org/paper/158a9d1f6e655d35d45c960c480ea30117f7af4f"
+    }, 
+    {
+      "isInfluential": true, 
+      "paperId": "b4c791deeba93549df8968d32c2f40224b771897", 
+      "title": "Using Inverse lambda and Generalization to Translate English to Formal Languages", 
+      "url": "https://www.semanticscholar.org/paper/b4c791deeba93549df8968d32c2f40224b771897"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "575abfb4a033989644f8188f519e07f47d8c58d8", 
+      "title": "A Probabilistic Model of Syntactic and Semantic Acquisition from Child-Directed Utterances and their Meanings", 
+      "url": "https://www.semanticscholar.org/paper/575abfb4a033989644f8188f519e07f47d8c58d8"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "3422b401de5c017b982343fdbebd6762bf023df9", 
+      "title": "Multi-Predicate Semantic Role Labeling", 
+      "url": "https://www.semanticscholar.org/paper/3422b401de5c017b982343fdbebd6762bf023df9"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "eea70d18ff7a4f7e7788d48bf07ec9d40460868f", 
+      "title": "Semantics for Semantic Parsing", 
+      "url": "https://www.semanticscholar.org/paper/eea70d18ff7a4f7e7788d48bf07ec9d40460868f"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "e95f85fb0856f5de2c246596b9b0ddfd4137c41d", 
+      "title": "Treebanking in the Language of Thought", 
+      "url": "https://www.semanticscholar.org/paper/e95f85fb0856f5de2c246596b9b0ddfd4137c41d"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "dba28429a400f0e32277b309bf7e66e1722d34ea", 
+      "title": "Multilingual Semantic Parsing : Parsing Multiple Languages into Semantic Representations", 
+      "url": "https://www.semanticscholar.org/paper/dba28429a400f0e32277b309bf7e66e1722d34ea"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "a09b5dcd63c8a07a4a2a5f79140d7752bf0e81e0", 
+      "title": "Semantic Parsing with Relaxed Hybrid Trees", 
+      "url": "https://www.semanticscholar.org/paper/a09b5dcd63c8a07a4a2a5f79140d7752bf0e81e0"
+    }, 
+    {
+      "isInfluential": true, 
+      "paperId": "02893be76231bca691051f72ac70eb98c3e90139", 
+      "title": "Using Inverse \u03bb and Generalization to Translate English to Formal Languages", 
+      "url": "https://www.semanticscholar.org/paper/02893be76231bca691051f72ac70eb98c3e90139"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "1b667d1234611336d99cb2bca0d6369fe10ba521", 
+      "title": "Learning to Interpret Natural Language Navigation Instructions from Observation", 
+      "url": "https://www.semanticscholar.org/paper/1b667d1234611336d99cb2bca0d6369fe10ba521"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "c8cc5439967bf1a1941bc33782360cd23bc5b593", 
+      "title": "Question Answering over Knowledge Bases", 
+      "url": "https://www.semanticscholar.org/paper/c8cc5439967bf1a1941bc33782360cd23bc5b593"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "28f311b16e4fe4cc0ff6560aae3bbd0cb6782966", 
+      "title": "Learning Language from Perceptual Context", 
+      "url": "https://www.semanticscholar.org/paper/28f311b16e4fe4cc0ff6560aae3bbd0cb6782966"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "565a5e46cd42fe4978f0081663619bca8b8f3c4a", 
+      "title": "USI Answers: Natural Language Question Answering Over (Semi-) Structured Industry Data", 
+      "url": "https://www.semanticscholar.org/paper/565a5e46cd42fe4978f0081663619bca8b8f3c4a"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "f391bbb1ce4d846497cb71c1ece09b15987ac756", 
+      "title": "Learning Dependency-based Compositional Semantics Learning Dependency-based Compositional Semantics", 
+      "url": "https://www.semanticscholar.org/paper/f391bbb1ce4d846497cb71c1ece09b15987ac756"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "0faccce84266d2a8f0c4fa08c33b357b42cf17f2", 
+      "title": "Latent Predictor Networks for Code Generation", 
+      "url": "https://www.semanticscholar.org/paper/0faccce84266d2a8f0c4fa08c33b357b42cf17f2"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "0251127dc9d82f5e4ff7c25f85b184ac28e862fe", 
+      "title": "Learning to Interpret Natural Language Navigation Instructions from Observations", 
+      "url": "https://www.semanticscholar.org/paper/0251127dc9d82f5e4ff7c25f85b184ac28e862fe"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "9a996c829b124889fa80fec9136f2df79f85226e", 
+      "title": "Learning to map sentences to logical form", 
+      "url": "https://www.semanticscholar.org/paper/9a996c829b124889fa80fec9136f2df79f85226e"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "6f59702aa1c114f45372b9dd6110812c23ac2d8d", 
+      "title": "Learning to Interpret Natural Language Instructions", 
+      "url": "https://www.semanticscholar.org/paper/6f59702aa1c114f45372b9dd6110812c23ac2d8d"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "4d920bde096e2a9d9a6c689a9fbbaddaba1aa452", 
+      "title": "Learning a Compositional Semantic Parser using an Existing Syntactic Parser", 
+      "url": "https://www.semanticscholar.org/paper/4d920bde096e2a9d9a6c689a9fbbaddaba1aa452"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "36779ee461e71f6993cee381ae0cc5a6a2f9d71c", 
+      "title": "Semantic Parsing via $l_{0}$-norm-based Alignment", 
+      "url": "https://www.semanticscholar.org/paper/36779ee461e71f6993cee381ae0cc5a6a2f9d71c"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "00ff3c9d8bbcc09448b768aa80666eb775445c00", 
+      "title": "Weakly Supervised Training of Semantic Parsers", 
+      "url": "https://www.semanticscholar.org/paper/00ff3c9d8bbcc09448b768aa80666eb775445c00"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "1461bb16796033b6d5c7ef64c435710c40074062", 
+      "title": "Parsing entire discourses as very long strings: Capturing topic continuity in grounded language learning", 
+      "url": "https://www.semanticscholar.org/paper/1461bb16796033b6d5c7ef64c435710c40074062"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "9a77903bad734af5583b0976be37cc5f104d4d53", 
+      "title": "Improving Semantic Parsing with Enriched Synchronous Context-Free Grammar", 
+      "url": "https://www.semanticscholar.org/paper/9a77903bad734af5583b0976be37cc5f104d4d53"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "1f776422cc664a99d41bb8907c92948eefad2611", 
+      "title": "Semantic Parsing with Bayesian Tree Transducers", 
+      "url": "https://www.semanticscholar.org/paper/1f776422cc664a99d41bb8907c92948eefad2611"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "5a707128ff5b2ddff95cca562ed29aef6309e402", 
+      "title": "Contextual LSTM (CLSTM) models for Large scale NLP tasks", 
+      "url": "https://www.semanticscholar.org/paper/5a707128ff5b2ddff95cca562ed29aef6309e402"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "4adca62f888226d3a16654ca499bf2a7d3d11b71", 
+      "title": "Models of Semantic Representation with Visual Attributes", 
+      "url": "https://www.semanticscholar.org/paper/4adca62f888226d3a16654ca499bf2a7d3d11b71"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "95cd682f531f7d9ab4d9d016dcef6677e8b4a5e8", 
+      "title": "Reducing Grounded Learning Tasks To Grammatical Inference", 
+      "url": "https://www.semanticscholar.org/paper/95cd682f531f7d9ab4d9d016dcef6677e8b4a5e8"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "37ca75f5f6664fc9ed835a53b48258ec92eb73cd", 
+      "title": "Learning Dependency-Based Compositional Semantics", 
+      "url": "https://www.semanticscholar.org/paper/37ca75f5f6664fc9ed835a53b48258ec92eb73cd"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "625276e074de21eb0a9cdc77897739fc30e925f9", 
+      "title": "Joint Syntactic and Semantic Parsing with Combinatory Categorial Grammar", 
+      "url": "https://www.semanticscholar.org/paper/625276e074de21eb0a9cdc77897739fc30e925f9"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "3f35652ee128fdd89b51c4cdc65efcc45a2925a1", 
+      "title": "A Graph-Partitioning Framework for Aligning Hierarchical Topic Structures to Presentations", 
+      "url": "https://www.semanticscholar.org/paper/3f35652ee128fdd89b51c4cdc65efcc45a2925a1"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "842fb6bcbc404d713d182472364ce0e8e559132c", 
+      "title": "Sentence Rewriting for Semantic Parsing", 
+      "url": "https://www.semanticscholar.org/paper/842fb6bcbc404d713d182472364ce0e8e559132c"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "f152db85455116eb674d65f63407497564901512", 
+      "title": "A Probabilistic Forest-to-String Model for Language Generation from Typed Lambda Calculus Expressions", 
+      "url": "https://www.semanticscholar.org/paper/f152db85455116eb674d65f63407497564901512"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "7ba1379bb524a2f997d6cd479b8a53d491db56f3", 
+      "title": "Semantics-Based Machine Translation with Hyperedge Replacement Grammars", 
+      "url": "https://www.semanticscholar.org/paper/7ba1379bb524a2f997d6cd479b8a53d491db56f3"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "d99a50af0aabe135d4a9bb64c9073b2c067d481f", 
+      "title": "A Supervised Semantic Parsing with Lexicon Extension and Syntactic Constraint", 
+      "url": "https://www.semanticscholar.org/paper/d99a50af0aabe135d4a9bb64c9073b2c067d481f"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "cbec487f1a8febc070138768921157c8ece54cdb", 
+      "title": "Semi-Supervised Learning of Statistical Models for Natural Language Understanding", 
+      "url": "https://www.semanticscholar.org/paper/cbec487f1a8febc070138768921157c8ece54cdb"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "68945e04c1580f4c2d177cc0a317b697f0715f75", 
+      "title": "Language understanding as a step towards human level intelligence - automatizing the construction of the initial dictionary from example sentences", 
+      "url": "https://www.semanticscholar.org/paper/68945e04c1580f4c2d177cc0a317b697f0715f75"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "bdf6b428187940c034c4b8ed57cf9c8ce526d832", 
+      "title": "A Natural Language Interface Concordant with a Knowledge Base", 
+      "url": "https://www.semanticscholar.org/paper/bdf6b428187940c034c4b8ed57cf9c8ce526d832"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "6e73703654b645c7dab15a977434e9ee43d92e77", 
+      "title": "Learning Semantic Correspondences with Less Supervision", 
+      "url": "https://www.semanticscholar.org/paper/6e73703654b645c7dab15a977434e9ee43d92e77"
+    }, 
+    {
+      "isInfluential": true, 
+      "paperId": "4e4b7445b1c38b1b413a921a18534d640b802acd", 
+      "title": "Translating Questions to SQL Queries with Generative Parsers Discriminatively Reranked", 
+      "url": "https://www.semanticscholar.org/paper/4e4b7445b1c38b1b413a921a18534d640b802acd"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "64403eececa39909dd4d9d1b37367e540a3cbf4d", 
+      "title": "A Hybrid Tree Framework for Semantic Parsing and Natural Language Generation", 
+      "url": "https://www.semanticscholar.org/paper/64403eececa39909dd4d9d1b37367e540a3cbf4d"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "08a5e08029694568a67f5093f597b30161c86947", 
+      "title": "Using Sparse Parameter Estimation for Semantic Parsing", 
+      "url": "https://www.semanticscholar.org/paper/08a5e08029694568a67f5093f597b30161c86947"
+    }
+  ], 
+  "doi": null, 
+  "influentialCitationCount": 8, 
+  "paperId": "23f6e0d3ca4cadd7c2a44aa44589677204aad348", 
+  "references": [
+    {
+      "isInfluential": false, 
+      "paperId": "f60d8dd8ca3a7dfa7d0a14988af73084ad93619d", 
+      "title": "Using Multiple Clause Constructors in Inductive Logic Programming for Semantic Parsing", 
+      "url": "https://www.semanticscholar.org/paper/f60d8dd8ca3a7dfa7d0a14988af73084ad93619d"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "9703efad5e36e1ef3ab2292144c1a796515e5f6a", 
+      "title": "The Mathematics of Statistical Machine Translation: Parameter Estimation", 
+      "url": "https://www.semanticscholar.org/paper/9703efad5e36e1ef3ab2292144c1a796515e5f6a"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "c2ecc66c0e5f976b0e0d95c64ed2d1e283a2625d", 
+      "title": "Learning Synchronous Grammars for Semantic Parsing with Lambda Calculus", 
+      "url": "https://www.semanticscholar.org/paper/c2ecc66c0e5f976b0e0d95c64ed2d1e283a2625d"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "4736635da3d32f8ff18ddc62552e180e303f47b6", 
+      "title": "Discriminative Reranking for Semantic Parsing", 
+      "url": "https://www.semanticscholar.org/paper/4736635da3d32f8ff18ddc62552e180e303f47b6"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "155baea065396a150f0f8875e088355800fa9449", 
+      "title": "Head-Driven Statistical Models for Natural Language Parsing", 
+      "url": "https://www.semanticscholar.org/paper/155baea065396a150f0f8875e088355800fa9449"
+    }, 
+    {
+      "isInfluential": true, 
+      "paperId": "3a15a71e7b0d48351e4220be0f0b51f43dcb9722", 
+      "title": "Learning for Semantic Parsing and Natural Language Generation Using Statistical Machine Translation Techniques", 
+      "url": "https://www.semanticscholar.org/paper/3a15a71e7b0d48351e4220be0f0b51f43dcb9722"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "346bcbebafd193aba689269da2de51bfaf163df2", 
+      "title": "Discriminative Reranking for Natural Language Parsing", 
+      "url": "https://www.semanticscholar.org/paper/346bcbebafd193aba689269da2de51bfaf163df2"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "3b8e7c8220d3883d54960d896a73045f3c70ac17", 
+      "title": "Discriminative Training Methods For Hidden Markov Models: Theory And Experiments With Perceptron Algorithms", 
+      "url": "https://www.semanticscholar.org/paper/3b8e7c8220d3883d54960d896a73045f3c70ac17"
+    }, 
+    {
+      "isInfluential": true, 
+      "paperId": "37eb9fbb3de98cb2b5cc8b83da12228cbd0103a0", 
+      "title": "Using String-Kernels for Learning Semantic Parsers", 
+      "url": "https://www.semanticscholar.org/paper/37eb9fbb3de98cb2b5cc8b83da12228cbd0103a0"
+    }, 
+    {
+      "isInfluential": true, 
+      "paperId": "8dd9fd6a45afd266d48255c398429e01ea4fd6db", 
+      "title": "Learning to Transform Natural to Formal Languages", 
+      "url": "https://www.semanticscholar.org/paper/8dd9fd6a45afd266d48255c398429e01ea4fd6db"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "1969a39db6f322a8e3f204fdc8c781bec5cf26d6", 
+      "title": "Learning to Map Sentences to Logical Form: Structured Classification with Probabilistic Categorial Grammars", 
+      "url": "https://www.semanticscholar.org/paper/1969a39db6f322a8e3f204fdc8c781bec5cf26d6"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "969a9ec5f24dabcfb9c70c7ee04625075a6c0a98", 
+      "title": "Estimation of probabilities from sparse data for the language model component of a speech recognizer", 
+      "url": "https://www.semanticscholar.org/paper/969a9ec5f24dabcfb9c70c7ee04625075a6c0a98"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "674ec285ce3a2d0a28d5dbf555f9885764bb6b45", 
+      "title": "Online Learning of Relaxed CCG Grammars for Parsing to Logical Form", 
+      "url": "https://www.semanticscholar.org/paper/674ec285ce3a2d0a28d5dbf555f9885764bb6b45"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "39fb0b6873c58ec182357721eaed75801505a9df", 
+      "title": "Ranking Algorithms for Named Entity Extraction: Boosting and the Voted Perceptron", 
+      "url": "https://www.semanticscholar.org/paper/39fb0b6873c58ec182357721eaed75801505a9df"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "26e8f3cc46b710a013358bf0289df4de033446ba", 
+      "title": "Maximum Likelihood from Incomplete Data via the EM Algorithm", 
+      "url": "https://www.semanticscholar.org/paper/26e8f3cc46b710a013358bf0289df4de033446ba"
+    }, 
+    {
+      "isInfluential": true, 
+      "paperId": "18f747cfca874808f26ab75c65066657a0f0a229", 
+      "title": "Learning for Semantic Parsing with Statistical Machine Translation", 
+      "url": "https://www.semanticscholar.org/paper/18f747cfca874808f26ab75c65066657a0f0a229"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "11cd7fbc0ea8605ea498ecfc82b3ff6a44c027e9", 
+      "title": "A Syntax-based Statistical Translation Model", 
+      "url": "https://www.semanticscholar.org/paper/11cd7fbc0ea8605ea498ecfc82b3ff6a44c027e9"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "7ae207cfaf01dc2b6799da67f454190b34994870", 
+      "title": "A Statistical Semantic Parser that Integrates Syntax and Semantics", 
+      "url": "https://www.semanticscholar.org/paper/7ae207cfaf01dc2b6799da67f454190b34994870"
+    }
+  ], 
+  "title": "A Generative Model for Parsing Natural Language to Meaning Representations", 
+  "url": "https://www.semanticscholar.org/paper/23f6e0d3ca4cadd7c2a44aa44589677204aad348", 
+  "venue": "EMNLP"
+}

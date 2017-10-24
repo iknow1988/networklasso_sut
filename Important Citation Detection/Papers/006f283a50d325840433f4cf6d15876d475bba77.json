@@ -1,0 +1,866 @@
+{
+  "authors": [
+    {
+      "authorId": "1716126", 
+      "name": "Lu Zhang", 
+      "url": "https://www.semanticscholar.org/author/1716126"
+    }, 
+    {
+      "authorId": "1803520", 
+      "name": "Laurens van der Maaten", 
+      "url": "https://www.semanticscholar.org/author/1803520"
+    }
+  ], 
+  "citationVelocity": 0, 
+  "citations": [
+    {
+      "isInfluential": false, 
+      "paperId": "8909da7c7f8022501c8ba660616589bdb7192576", 
+      "title": "SOWP: Spatially Ordered and Weighted Patch Descriptor for Visual Tracking", 
+      "url": "https://www.semanticscholar.org/paper/8909da7c7f8022501c8ba660616589bdb7192576", 
+      "venue": "2015 IEEE International Conference on Computer Vision (ICCV)", 
+      "year": 2015
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "9c8c70ed2d5238394227e480ef4ce49be3464d0b", 
+      "title": "Robust Model-Free Multi-Object Tracking with Online Kernelized Structural Learning", 
+      "url": "https://www.semanticscholar.org/paper/9c8c70ed2d5238394227e480ef4ce49be3464d0b", 
+      "venue": "IEEE Signal Processing Letters", 
+      "year": 2015
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "678471afcfe4aa38642fe5b796889fe88e9e4aad", 
+      "title": "Online Discriminative Tracking With Active Example Selection", 
+      "url": "https://www.semanticscholar.org/paper/678471afcfe4aa38642fe5b796889fe88e9e4aad", 
+      "venue": "IEEE Trans. Circuits Syst. Video Techn.", 
+      "year": 2016
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "b4976c2ffdbaf89108182c7b91ae22c9063dc93c", 
+      "title": "Learning to Diffuse: A New Perspective to Design PDEs for Visual Analysis", 
+      "url": "https://www.semanticscholar.org/paper/b4976c2ffdbaf89108182c7b91ae22c9063dc93c", 
+      "venue": "IEEE Transactions on Pattern Analysis and Machine Intelligence", 
+      "year": 2016
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "018e552ad6c6726e889f758b230a9994eaab101b", 
+      "title": "Object tracking with part-based discriminative context models", 
+      "url": "https://www.semanticscholar.org/paper/018e552ad6c6726e889f758b230a9994eaab101b", 
+      "venue": "2014 IEEE International Conference on Image Processing (ICIP)", 
+      "year": 2014
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "71c99d2c651641b92ba8cbae62c796c4825d440b", 
+      "title": "Robust Discriminative Tracking via Landmark-Based Label Propagation", 
+      "url": "https://www.semanticscholar.org/paper/71c99d2c651641b92ba8cbae62c796c4825d440b", 
+      "venue": "IEEE Transactions on Image Processing", 
+      "year": 2015
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "08030f9d34cc96384f672d9f9f296914d594335b", 
+      "title": "Multiple Object Tracking: A Review", 
+      "url": "https://www.semanticscholar.org/paper/08030f9d34cc96384f672d9f9f296914d594335b", 
+      "venue": "ArXiv", 
+      "year": 2014
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "19b62eed0480a90d136c016f02c60aac01a2b5c4", 
+      "title": "In defense of color-based model-free tracking", 
+      "url": "https://www.semanticscholar.org/paper/19b62eed0480a90d136c016f02c60aac01a2b5c4", 
+      "venue": "2015 IEEE Conference on Computer Vision and Pattern Recognition (CVPR)", 
+      "year": 2015
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "78d0d00ac6e9976286223a61fc2e8d13d174e83f", 
+      "title": "Toward situation awareness: a survey on adaptive learning for model-free tracking", 
+      "url": "https://www.semanticscholar.org/paper/78d0d00ac6e9976286223a61fc2e8d13d174e83f", 
+      "venue": "Multimedia Tools and Applications", 
+      "year": 2016
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "cea7c0381100d0aad780e31386c304ff76b0b9ed", 
+      "title": "Exploiting a depth context model in visual tracking with correlation filter", 
+      "url": "https://www.semanticscholar.org/paper/cea7c0381100d0aad780e31386c304ff76b0b9ed", 
+      "venue": "Frontiers of Information Technology & Electronic Engineering", 
+      "year": 2017
+    }, 
+    {
+      "isInfluential": true, 
+      "paperId": "366e898f47272eba68a60ca29dc9455fb48414a3", 
+      "title": "Offline Deformable Face Tracking in Arbitrary Videos", 
+      "url": "https://www.semanticscholar.org/paper/366e898f47272eba68a60ca29dc9455fb48414a3", 
+      "venue": "2015 IEEE International Conference on Computer Vision Workshop (ICCVW)", 
+      "year": 2015
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "7cf83dcbb87da64437ee5a69afcdf8bdcb72cf3e", 
+      "title": "Clustering Ensemble Tracking", 
+      "url": "https://www.semanticscholar.org/paper/7cf83dcbb87da64437ee5a69afcdf8bdcb72cf3e", 
+      "venue": "ACCV", 
+      "year": 2014
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "d17bf14994a7620d8b14856501b809a85beb6407", 
+      "title": "Occlusion-Robust Pedestrian Tracking in Crowded Scenes", 
+      "url": "https://www.semanticscholar.org/paper/d17bf14994a7620d8b14856501b809a85beb6407", 
+      "venue": "2015 IEEE 18th International Conference on Intelligent Transportation Systems", 
+      "year": 2015
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "8a48417f93d27340ba14895d8d0f7b0b002fb72d", 
+      "title": "Locator-Checker-Scaler Object Tracking Using Spatially Ordered and Weighted Patch Descriptor", 
+      "url": "https://www.semanticscholar.org/paper/8a48417f93d27340ba14895d8d0f7b0b002fb72d", 
+      "venue": "IEEE Transactions on Image Processing", 
+      "year": 2017
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "d2467c182e498efe1a429c4a7f7b8680a2a52236", 
+      "title": "Attributed Graphs for Tracking Multiple Objects in Structured Sports Videos", 
+      "url": "https://www.semanticscholar.org/paper/d2467c182e498efe1a429c4a7f7b8680a2a52236", 
+      "venue": "2015 IEEE International Conference on Computer Vision Workshop (ICCVW)", 
+      "year": 2015
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "7df04efa4e8dd8fa5aa55d0f6d43b2065445a4cc", 
+      "title": "Collaborative Correlation Tracking", 
+      "url": "https://www.semanticscholar.org/paper/7df04efa4e8dd8fa5aa55d0f6d43b2065445a4cc", 
+      "venue": "BMVC", 
+      "year": 2015
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "f08de0c1d04f8f4ff5a986ef0c7d4b708d20cd51", 
+      "title": "Real-Time Visual Tracking through Fusion Features", 
+      "url": "https://www.semanticscholar.org/paper/f08de0c1d04f8f4ff5a986ef0c7d4b708d20cd51", 
+      "venue": "Sensors", 
+      "year": 2016
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "921b751b1dd360d96e925b99044dd306ed6a5dc7", 
+      "title": "Underwater Fish Tracking for Moving Cameras based on Deformable Multiple Kernels", 
+      "url": "https://www.semanticscholar.org/paper/921b751b1dd360d96e925b99044dd306ed6a5dc7", 
+      "venue": "ArXiv", 
+      "year": 2015
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "2e3d081c8f0e10f138314c4d2c11064a981c1327", 
+      "title": "A Comprehensive Performance Evaluation of Deformable Face Tracking \u201cIn-the-Wild\u201d", 
+      "url": "https://www.semanticscholar.org/paper/2e3d081c8f0e10f138314c4d2c11064a981c1327", 
+      "venue": "International Journal of Computer Vision", 
+      "year": 2017
+    }, 
+    {
+      "isInfluential": true, 
+      "paperId": "09255414dac54b5168977d2bc871b85cb88eee50", 
+      "title": "Weighted Part Context Learning for Visual Tracking", 
+      "url": "https://www.semanticscholar.org/paper/09255414dac54b5168977d2bc871b85cb88eee50", 
+      "venue": "IEEE Transactions on Image Processing", 
+      "year": 2015
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "2e713b922c760b7cc8d3e7d12088e9806f2e9a8d", 
+      "title": "Exploring Structure for Long-Term Tracking of Multiple Objects in Sports Videos", 
+      "url": "https://www.semanticscholar.org/paper/2e713b922c760b7cc8d3e7d12088e9806f2e9a8d", 
+      "venue": "Computer Vision and Image Understanding", 
+      "year": 2017
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "1167136efcb52cf49e89b90949149312bab19cc3", 
+      "title": "Multi-camera Pedestrian Tracking using Group Structure", 
+      "url": "https://www.semanticscholar.org/paper/1167136efcb52cf49e89b90949149312bab19cc3", 
+      "venue": "ICDSC", 
+      "year": 2014
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "6b17cd48efe0cc0965b4201f5ea56616533e83f9", 
+      "title": "On Fast Trackers that are Robust to Partial Occlusions", 
+      "url": "https://www.semanticscholar.org/paper/6b17cd48efe0cc0965b4201f5ea56616533e83f9", 
+      "venue": "2014 IEEE Conference on Computer Vision and Pattern Recognition Workshops", 
+      "year": 2014
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "1c642523023d3b712cb728d705998815153fed56", 
+      "title": "Part Context Learning for Visual Tracking", 
+      "url": "https://www.semanticscholar.org/paper/1c642523023d3b712cb728d705998815153fed56", 
+      "venue": "BMVC", 
+      "year": 2014
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "76728ed7cf9be94bb2768a4ef1a2a62b44b70df2", 
+      "title": "Visual Tracking Based on the Adaptive Color Attention Tuned Sparse Generative Object Model", 
+      "url": "https://www.semanticscholar.org/paper/76728ed7cf9be94bb2768a4ef1a2a62b44b70df2", 
+      "venue": "IEEE Transactions on Image Processing", 
+      "year": 2015
+    }, 
+    {
+      "isInfluential": true, 
+      "paperId": "435dca93a536cfdfa0983fc16c47dc395e505b9c", 
+      "title": "Automatic analysis of complex athlete techniques in broadcast taekwondo video", 
+      "url": "https://www.semanticscholar.org/paper/435dca93a536cfdfa0983fc16c47dc395e505b9c", 
+      "venue": "Multimedia Tools and Applications", 
+      "year": 2017
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "58443e9368ee8e15b5ba1ebec5db155cf3c5b032", 
+      "title": "Structural superpixel descriptor for visual tracking", 
+      "url": "https://www.semanticscholar.org/paper/58443e9368ee8e15b5ba1ebec5db155cf3c5b032", 
+      "venue": "2017 International Joint Conference on Neural Networks (IJCNN)", 
+      "year": 2017
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "fddc33fa7d44edba61ff9b470120f06b8eb56804", 
+      "title": "Landmark-Based Inductive Model for Robust Discriminative Tracking", 
+      "url": "https://www.semanticscholar.org/paper/fddc33fa7d44edba61ff9b470120f06b8eb56804", 
+      "venue": "ACCV", 
+      "year": 2014
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "b789c995a72d1a4a3e0ef4308928ff1daced785a", 
+      "title": "Robust motion tracking in liver from 2D ultrasound images using supporters", 
+      "url": "https://www.semanticscholar.org/paper/b789c995a72d1a4a3e0ef4308928ff1daced785a", 
+      "venue": "International Journal of Computer Assisted Radiology and Surgery", 
+      "year": 2017
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "07ed099e7d9c88d8e272d7191a4c7c5a68e3a6bd", 
+      "title": "Exploring Local Context for Multi-target Tracking in Wide Area Aerial Surveillance", 
+      "url": "https://www.semanticscholar.org/paper/07ed099e7d9c88d8e272d7191a4c7c5a68e3a6bd", 
+      "venue": "2017 IEEE Winter Conference on Applications of Computer Vision (WACV)", 
+      "year": 2017
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "25e21ef1f7d24dd0bb8b0a4cc94f1c2bc3332a2c", 
+      "title": "Reliable Patch Trackers: Robust visual tracking by exploiting reliable patches", 
+      "url": "https://www.semanticscholar.org/paper/25e21ef1f7d24dd0bb8b0a4cc94f1c2bc3332a2c", 
+      "venue": "2015 IEEE Conference on Computer Vision and Pattern Recognition (CVPR)", 
+      "year": 2015
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "41f8a63b677b1ff275297fad3629858a89f2a896", 
+      "title": "Convolutional Deep Belief Networks for Single-Cell/Object Tracking in Computational Biology and Computer Vision", 
+      "url": "https://www.semanticscholar.org/paper/41f8a63b677b1ff275297fad3629858a89f2a896", 
+      "venue": "BioMed research international", 
+      "year": 2016
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "37bbda1a141cf997887e0b4914ca8ab6657ab3e0", 
+      "title": "Online Domain Adaptation for Multi-Object Tracking", 
+      "url": "https://www.semanticscholar.org/paper/37bbda1a141cf997887e0b4914ca8ab6657ab3e0", 
+      "venue": "BMVC", 
+      "year": 2015
+    }
+  ], 
+  "doi": "10.1109/TPAMI.2013.221", 
+  "influentialCitationCount": 3, 
+  "paperId": "006f283a50d325840433f4cf6d15876d475bba77", 
+  "references": [
+    {
+      "isInfluential": false, 
+      "paperId": "15cd7d675e499d6e53014916d7cf4a1714341f6a", 
+      "title": "Robust Fragments-based Tracking using the Integral Histogram", 
+      "url": "https://www.semanticscholar.org/paper/15cd7d675e499d6e53014916d7cf4a1714341f6a", 
+      "venue": "2006 IEEE Computer Society Conference on Computer Vision and Pattern Recognition (CVPR'06)", 
+      "year": 2006
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "12a376e621d690f3e94bce14cd03c2798a626a38", 
+      "title": "Rapid Object Detection using a Boosted Cascade of Simple Features", 
+      "url": "https://www.semanticscholar.org/paper/12a376e621d690f3e94bce14cd03c2798a626a38", 
+      "venue": "CVPR", 
+      "year": 2001
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "2dd3dff173686d66af70e7180fabd8755dd1307d", 
+      "title": "Coupling detection and data association for multiple object tracking", 
+      "url": "https://www.semanticscholar.org/paper/2dd3dff173686d66af70e7180fabd8755dd1307d", 
+      "venue": "2012 IEEE Conference on Computer Vision and Pattern Recognition", 
+      "year": 2012
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "480757e6a1004f7294eff50b6a1c78a0e3339009", 
+      "title": "Large Margin Methods for Structured and Interdependent Output Variables", 
+      "url": "https://www.semanticscholar.org/paper/480757e6a1004f7294eff50b6a1c78a0e3339009", 
+      "venue": "Journal of Machine Learning Research", 
+      "year": 2005
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "4c4111b085a41de038cd7aba968dcd02f0b44399", 
+      "title": "Interpreting Face Images Using Active Appearance Models", 
+      "url": "https://www.semanticscholar.org/paper/4c4111b085a41de038cd7aba968dcd02f0b44399", 
+      "venue": "FG", 
+      "year": 1998
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "eebc4a70509aca8491c2302c8a4241fd82c9007f", 
+      "title": "Face-TLD: Tracking-Learning-Detection applied to faces", 
+      "url": "https://www.semanticscholar.org/paper/eebc4a70509aca8491c2302c8a4241fd82c9007f", 
+      "venue": "2010 IEEE International Conference on Image Processing", 
+      "year": 2010
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "336e8adbd867b3b253f6cb87855351e7268605aa", 
+      "title": "Particle Video: Long-Range Motion Estimation Using Point Trajectories", 
+      "url": "https://www.semanticscholar.org/paper/336e8adbd867b3b253f6cb87855351e7268605aa", 
+      "venue": "International Journal of Computer Vision", 
+      "year": 2006
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "701109793f3c39288e38987f15e9f061304b483f", 
+      "title": "The Representation and Matching of Pictorial Structures", 
+      "url": "https://www.semanticscholar.org/paper/701109793f3c39288e38987f15e9f061304b483f", 
+      "venue": "IEEE Trans. Computers", 
+      "year": 1973
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "51fea461cf3724123c888cb9184474e176c12e61", 
+      "title": "An Iterative Image Registration Technique with an Application to Stereo Vision", 
+      "url": "https://www.semanticscholar.org/paper/51fea461cf3724123c888cb9184474e176c12e61", 
+      "venue": "IJCAI", 
+      "year": 1981
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "1427fc2aace877b91e43aefd1fe0b2a19b01d78b", 
+      "title": "Semi-supervised On-Line Boosting for Robust Tracking", 
+      "url": "https://www.semanticscholar.org/paper/1427fc2aace877b91e43aefd1fe0b2a19b01d78b", 
+      "venue": "ECCV", 
+      "year": 2008
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "3b8e7c8220d3883d54960d896a73045f3c70ac17", 
+      "title": "Discriminative Training Methods For Hidden Markov Models: Theory And Experiments With Perceptron Algorithms", 
+      "url": "https://www.semanticscholar.org/paper/3b8e7c8220d3883d54960d896a73045f3c70ac17", 
+      "venue": "", 
+      "year": 2002
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "73d67d20f112b2b4beb0e1b6edc2530d8ba78471", 
+      "title": "Automatic feature localisation with constrained local models", 
+      "url": "https://www.semanticscholar.org/paper/73d67d20f112b2b4beb0e1b6edc2530d8ba78471", 
+      "venue": "Pattern Recognition", 
+      "year": 2008
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "08f5fc66822111e97ff19a7015a87627aeded57c", 
+      "title": "Ensemble Tracking", 
+      "url": "https://www.semanticscholar.org/paper/08f5fc66822111e97ff19a7015a87627aeded57c", 
+      "venue": "IEEE Transactions on Pattern Analysis and Machine Intelligence", 
+      "year": 2005
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "b3b3c0366b885d729feb166584c7713c88efe9be", 
+      "title": "Decentralized multiple target tracking using netted collaborative autonomous trackers", 
+      "url": "https://www.semanticscholar.org/paper/b3b3c0366b885d729feb166584c7713c88efe9be", 
+      "venue": "2005 IEEE Computer Society Conference on Computer Vision and Pattern Recognition (CVPR'05)", 
+      "year": 2005
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "610791c1e29c92bec40d20a3b324d82333470627", 
+      "title": "Context-Aware Visual Tracking", 
+      "url": "https://www.semanticscholar.org/paper/610791c1e29c92bec40d20a3b324d82333470627", 
+      "venue": "IEEE Transactions on Pattern Analysis and Machine Intelligence", 
+      "year": 2009
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "18200e8db6fc63f16d5ed098b5abc17bf0939333", 
+      "title": "The Fastest Pedestrian Detector in the West", 
+      "url": "https://www.semanticscholar.org/paper/18200e8db6fc63f16d5ed098b5abc17bf0939333", 
+      "venue": "BMVC", 
+      "year": 2010
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "61847a342471d9482129bc2d6e0c79089f331040", 
+      "title": "Pose search: Retrieving people using their pose", 
+      "url": "https://www.semanticscholar.org/paper/61847a342471d9482129bc2d6e0c79089f331040", 
+      "venue": "2009 IEEE Conference on Computer Vision and Pattern Recognition", 
+      "year": 2009
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "ad5d2146a629b786712eb21d4dbfa31394ca07b4", 
+      "title": "Sputnik Tracker: Having a Companion Improves Robustness of the Tracker", 
+      "url": "https://www.semanticscholar.org/paper/ad5d2146a629b786712eb21d4dbfa31394ca07b4", 
+      "venue": "SCIA", 
+      "year": 2009
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "17f414f6776de690592c82ee17e892939143f747", 
+      "title": "Online Learning and Stochastic Approximations", 
+      "url": "https://www.semanticscholar.org/paper/17f414f6776de690592c82ee17e892939143f747", 
+      "venue": "", 
+      "year": 1998
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "d0e684f9614ab97a8f4ec47775124242ce493f26", 
+      "title": "Group Tracking: Exploring Mutual Relations for Multiple Object Tracking", 
+      "url": "https://www.semanticscholar.org/paper/d0e684f9614ab97a8f4ec47775124242ce493f26", 
+      "venue": "ECCV", 
+      "year": 2012
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "7af09246bae1d2d9abada79f441ba25858c69ef9", 
+      "title": "Confidence-weighted linear classification", 
+      "url": "https://www.semanticscholar.org/paper/7af09246bae1d2d9abada79f441ba25858c69ef9", 
+      "venue": "ICML", 
+      "year": 2008
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "0c7f52c753a65ceaf3755e20b906ffd0c05c994a", 
+      "title": "Conditional Random Fields: Probabilistic Models for Segmenting and Labeling Sequence Data", 
+      "url": "https://www.semanticscholar.org/paper/0c7f52c753a65ceaf3755e20b906ffd0c05c994a", 
+      "venue": "ICML", 
+      "year": 2001
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "49f0101596fcc53277eeac29e8e091568e22c36d", 
+      "title": "Struck: Structured Output Tracking with Kernels", 
+      "url": "https://www.semanticscholar.org/paper/49f0101596fcc53277eeac29e8e091568e22c36d", 
+      "venue": "IEEE Transactions on Pattern Analysis and Machine Intelligence", 
+      "year": 2011
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "03af78f067ed1f6ea0108a4d2ab7120e7ef852ac", 
+      "title": "Strong supervision from weak annotation: Interactive training of deformable part models", 
+      "url": "https://www.semanticscholar.org/paper/03af78f067ed1f6ea0108a4d2ab7120e7ef852ac", 
+      "venue": "2011 International Conference on Computer Vision", 
+      "year": 2011
+    }, 
+    {
+      "isInfluential": true, 
+      "paperId": "2d6af4b5ef5eab25ddcc317c28be31ec9c2e3d7c", 
+      "title": "Object Detection with Discriminatively Trained Part-Based Models", 
+      "url": "https://www.semanticscholar.org/paper/2d6af4b5ef5eab25ddcc317c28be31ec9c2e3d7c", 
+      "venue": "IEEE Transactions on Pattern Analysis and Machine Intelligence", 
+      "year": 2010
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "0317c9c937a3ca379f60b517761074c5575f9deb", 
+      "title": "Key Object Driven Multi-category Object Recognition, Localization and Tracking Using Spatio-temporal Context", 
+      "url": "https://www.semanticscholar.org/paper/0317c9c937a3ca379f60b517761074c5575f9deb", 
+      "venue": "ECCV", 
+      "year": 2008
+    }, 
+    {
+      "isInfluential": true, 
+      "paperId": "0b055f916437e3249a78df78a88dbfe4538e6866", 
+      "title": "P-N learning: Bootstrapping binary classifiers by structural constraints", 
+      "url": "https://www.semanticscholar.org/paper/0b055f916437e3249a78df78a88dbfe4538e6866", 
+      "venue": "2010 IEEE Computer Society Conference on Computer Vision and Pattern Recognition", 
+      "year": 2010
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "08743d09f3ec33ab1f188d4c5f8f5550c312ace0", 
+      "title": "Online Passive-Aggressive Algorithms", 
+      "url": "https://www.semanticscholar.org/paper/08743d09f3ec33ab1f188d4c5f8f5550c312ace0", 
+      "venue": "NIPS", 
+      "year": 2003
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "1956996dfdcd4aefa3f004d4351865fa58e93ec6", 
+      "title": "Collaborative tracking of multiple targets", 
+      "url": "https://www.semanticscholar.org/paper/1956996dfdcd4aefa3f004d4351865fa58e93ec6", 
+      "venue": "Proceedings of the 2004 IEEE Computer Society Conference on Computer Vision and Pattern Recognition, 2004. CVPR 2004.", 
+      "year": 2004
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "25dbf9b12475454585d5050c5cf446e1c4f6dd27", 
+      "title": "Online Multiperson Tracking-by-Detection from a Single, Uncalibrated Camera", 
+      "url": "https://www.semanticscholar.org/paper/25dbf9b12475454585d5050c5cf446e1c4f6dd27", 
+      "venue": "IEEE Transactions on Pattern Analysis and Machine Intelligence", 
+      "year": 2011
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "573c11e7e00389a033787984223ced536e15c904", 
+      "title": "Pictorial structures revisited: People detection and articulated pose estimation", 
+      "url": "https://www.semanticscholar.org/paper/573c11e7e00389a033787984223ced536e15c904", 
+      "venue": "2009 IEEE Conference on Computer Vision and Pattern Recognition", 
+      "year": 2009
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "5291304833a3565f8a2b6c13c1f12e6841925a87", 
+      "title": "Detecting Actions, Poses, and Objects with Relational Phraselets", 
+      "url": "https://www.semanticscholar.org/paper/5291304833a3565f8a2b6c13c1f12e6841925a87", 
+      "venue": "ECCV", 
+      "year": 2012
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "03ae968c3ecb5ba30a6df7b00518db6ec785d8c3", 
+      "title": "Real-Time Tracking via On-line Boosting", 
+      "url": "https://www.semanticscholar.org/paper/03ae968c3ecb5ba30a6df7b00518db6ec785d8c3", 
+      "venue": "BMVC", 
+      "year": 2006
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "0711feb1c35201b4a72e99787bcf5c9c19005817", 
+      "title": "Pegasos: primal estimated sub-gradient solver for SVM", 
+      "url": "https://www.semanticscholar.org/paper/0711feb1c35201b4a72e99787bcf5c9c19005817", 
+      "venue": "Math. Program.", 
+      "year": 2007
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "bbfb9e72058d2797b5e77d26bec257aaa7e7e0c5", 
+      "title": "Tracking the invisible: Learning where the object might be", 
+      "url": "https://www.semanticscholar.org/paper/bbfb9e72058d2797b5e77d26bec257aaa7e7e0c5", 
+      "venue": "2010 IEEE Computer Society Conference on Computer Vision and Pattern Recognition", 
+      "year": 2010
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "0a202f1dfc6991a6a204eaa5e6b46d6223a4d98a", 
+      "title": "Good features to track", 
+      "url": "https://www.semanticscholar.org/paper/0a202f1dfc6991a6a204eaa5e6b46d6223a4d98a", 
+      "venue": "CVPR", 
+      "year": 1994
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "30568c7206d484b81241bb373e6b0e98b07e7522", 
+      "title": "Cascaded Confidence Filtering for Improved Tracking-by-Detection", 
+      "url": "https://www.semanticscholar.org/paper/30568c7206d484b81241bb373e6b0e98b07e7522", 
+      "venue": "ECCV", 
+      "year": 2010
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "60d55d393d684933daa750102341035fc5907f9a", 
+      "title": "Adaptive Discriminative Generative Model and Its Applications", 
+      "url": "https://www.semanticscholar.org/paper/60d55d393d684933daa750102341035fc5907f9a", 
+      "venue": "NIPS", 
+      "year": 2004
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "0886b3146ed32118a2c3899cfe39d4a68c5555c5", 
+      "title": "Classifier grids for robust adaptive object detection", 
+      "url": "https://www.semanticscholar.org/paper/0886b3146ed32118a2c3899cfe39d4a68c5555c5", 
+      "venue": "2009 IEEE Conference on Computer Vision and Pattern Recognition", 
+      "year": 2009
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "a1edc13e5c2517b57d432f4a6c6b693152e8c4bb", 
+      "title": "Context tracker: Exploring supporters and distracters in unconstrained environments", 
+      "url": "https://www.semanticscholar.org/paper/a1edc13e5c2517b57d432f4a6c6b693152e8c4bb", 
+      "venue": "CVPR", 
+      "year": 2011
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "77a53d4141a8081657ce08b13dc3328ac4a4e689", 
+      "title": "You'll never walk alone: Modeling social behavior for multi-target tracking", 
+      "url": "https://www.semanticscholar.org/paper/77a53d4141a8081657ce08b13dc3328ac4a4e689", 
+      "venue": "2009 IEEE 12th International Conference on Computer Vision", 
+      "year": 2009
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "30950db8a2cae3630057efe731b85f7b567848b8", 
+      "title": "CONDENSATION\u2014Conditional Density Propagation for Visual Tracking", 
+      "url": "https://www.semanticscholar.org/paper/30950db8a2cae3630057efe731b85f7b567848b8", 
+      "venue": "International Journal of Computer Vision", 
+      "year": 1998
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "0e986f51fe45b00633de9fd0c94d082d2be51406", 
+      "title": "Face detection, pose estimation, and landmark localization in the wild", 
+      "url": "https://www.semanticscholar.org/paper/0e986f51fe45b00633de9fd0c94d082d2be51406", 
+      "venue": "2012 IEEE Conference on Computer Vision and Pattern Recognition", 
+      "year": 2012
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "1233f38bddaebafe9f4ae676bb2f8671f6c4821a", 
+      "title": "Distance Transforms of Sampled Functions", 
+      "url": "https://www.semanticscholar.org/paper/1233f38bddaebafe9f4ae676bb2f8671f6c4821a", 
+      "venue": "Theory of Computing", 
+      "year": 2012
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "ad2e06220758e492bd3a7cb90bb76908ed3a709d", 
+      "title": "Real-time tracking of multiple occluding objects using level sets", 
+      "url": "https://www.semanticscholar.org/paper/ad2e06220758e492bd3a7cb90bb76908ed3a709d", 
+      "venue": "2010 IEEE Computer Society Conference on Computer Vision and Pattern Recognition", 
+      "year": 2010
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "d83b32817820974e7b898c8be57319c0e298d78c", 
+      "title": "Recent advances and trends in visual tracking: A review", 
+      "url": "https://www.semanticscholar.org/paper/d83b32817820974e7b898c8be57319c0e298d78c", 
+      "venue": "Neurocomputing", 
+      "year": 2011
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "1af794673d64112edf60f071ca24066e6a227d2b", 
+      "title": "Online Object Tracking: A Benchmark", 
+      "url": "https://www.semanticscholar.org/paper/1af794673d64112edf60f071ca24066e6a227d2b", 
+      "venue": "2013 IEEE Conference on Computer Vision and Pattern Recognition", 
+      "year": 2013
+    }, 
+    {
+      "isInfluential": true, 
+      "paperId": "0b104e517e0440e3bdace01b5f6706c5fa944149", 
+      "title": "Robust Object Tracking with Online Multiple Instance Learning", 
+      "url": "https://www.semanticscholar.org/paper/0b104e517e0440e3bdace01b5f6706c5fa944149", 
+      "venue": "IEEE Transactions on Pattern Analysis and Machine Intelligence", 
+      "year": 2011
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "5361b603b854f154aa4be0be5ed92afff1436ec8", 
+      "title": "A Boosted Particle Filter: Multitarget Detection and Tracking", 
+      "url": "https://www.semanticscholar.org/paper/5361b603b854f154aa4be0be5ed92afff1436ec8", 
+      "venue": "ECCV", 
+      "year": 2004
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "3d99cf9ab3b7aeea322c3c6b10fab3fa3ffa0489", 
+      "title": "Recognizing proxemics in personal photos", 
+      "url": "https://www.semanticscholar.org/paper/3d99cf9ab3b7aeea322c3c6b10fab3fa3ffa0489", 
+      "venue": "2012 IEEE Conference on Computer Vision and Pattern Recognition", 
+      "year": 2012
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "aaded7d1d68ff6b60992790fd498eb381b5a6526", 
+      "title": "Pedestrian Detection: An Evaluation of the State of the Art", 
+      "url": "https://www.semanticscholar.org/paper/aaded7d1d68ff6b60992790fd498eb381b5a6526", 
+      "venue": "IEEE Transactions on Pattern Analysis and Machine Intelligence", 
+      "year": 2012
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "049f8382b8cf80540f2f8fa4d4de613e1c6a9bb8", 
+      "title": "Keypoint recognition using randomized trees", 
+      "url": "https://www.semanticscholar.org/paper/049f8382b8cf80540f2f8fa4d4de613e1c6a9bb8", 
+      "venue": "IEEE Transactions on Pattern Analysis and Machine Intelligence", 
+      "year": 2006
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "f07f9dfe18d1af54409924746523677a5b3359e3", 
+      "title": "Approximating discrete probability distributions with dependence trees", 
+      "url": "https://www.semanticscholar.org/paper/f07f9dfe18d1af54409924746523677a5b3359e3", 
+      "venue": "IEEE Trans. Information Theory", 
+      "year": 1968
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "188d823521b7d00abd6876f87509938dddfa64cf", 
+      "title": "Articulated pose estimation with flexible mixtures-of-parts", 
+      "url": "https://www.semanticscholar.org/paper/188d823521b7d00abd6876f87509938dddfa64cf", 
+      "venue": "CVPR", 
+      "year": 2011
+    }, 
+    {
+      "isInfluential": true, 
+      "paperId": "10d6b12fa07c7c8d6c8c3f42c7f1c061c131d4c5", 
+      "title": "Histograms of oriented gradients for human detection", 
+      "url": "https://www.semanticscholar.org/paper/10d6b12fa07c7c8d6c8c3f42c7f1c061c131d4c5", 
+      "venue": "2005 IEEE Computer Society Conference on Computer Vision and Pattern Recognition (CVPR'05)", 
+      "year": 2005
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "6d90a0ac9d015b911469663d505b2e3d8f75520f", 
+      "title": "A system for real-time detection and tracking of vehicles from a single car-mounted camera", 
+      "url": "https://www.semanticscholar.org/paper/6d90a0ac9d015b911469663d505b2e3d8f75520f", 
+      "venue": "2012 15th International IEEE Conference on Intelligent Transportation Systems", 
+      "year": 2012
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "04b652ee9f2af3942863f405aaf36d76812e0f44", 
+      "title": "Incremental Learning for Robust Visual Tracking", 
+      "url": "https://www.semanticscholar.org/paper/04b652ee9f2af3942863f405aaf36d76812e0f44", 
+      "venue": "International Journal of Computer Vision", 
+      "year": 2007
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "11f2e65a0cd4e27505f1306d39b5717b5c5c92a5", 
+      "title": "Gradient Feature Selection for Online Boosting", 
+      "url": "https://www.semanticscholar.org/paper/11f2e65a0cd4e27505f1306d39b5717b5c5c92a5", 
+      "venue": "2007 IEEE 11th International Conference on Computer Vision", 
+      "year": 2007
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "0d0b880e2b531c45ee8227166a489bf35a528cb9", 
+      "title": "Structure Preserving Object Tracking", 
+      "url": "https://www.semanticscholar.org/paper/0d0b880e2b531c45ee8227166a489bf35a528cb9", 
+      "venue": "2013 IEEE Conference on Computer Vision and Pattern Recognition", 
+      "year": 2013
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "29e1e20323f7cb6c15c6acf5cc6573a2f84e6478", 
+      "title": "Visual tracking decomposition", 
+      "url": "https://www.semanticscholar.org/paper/29e1e20323f7cb6c15c6acf5cc6573a2f84e6478", 
+      "venue": "2010 IEEE Computer Society Conference on Computer Vision and Pattern Recognition", 
+      "year": 2010
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "4f3d1c12aeb188cf74e323f16404035d336fa658", 
+      "title": "Elliptical Head Tracking Using Intensity Gradients and Color Histograms", 
+      "url": "https://www.semanticscholar.org/paper/4f3d1c12aeb188cf74e323f16404035d336fa658", 
+      "venue": "CVPR", 
+      "year": 1998
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "113f7b0879b8eca251572847a7b402a61f73e406", 
+      "title": "An Adaptive Appearance Model Approach for Model-based Articulated Object Tracking", 
+      "url": "https://www.semanticscholar.org/paper/113f7b0879b8eca251572847a7b402a61f73e406", 
+      "venue": "2006 IEEE Computer Society Conference on Computer Vision and Pattern Recognition (CVPR'06)", 
+      "year": 2006
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "19dfea55ce8c6999415cb6216de0e5bd108a4f79", 
+      "title": "A mobile vision system for robust multi-person tracking", 
+      "url": "https://www.semanticscholar.org/paper/19dfea55ce8c6999415cb6216de0e5bd108a4f79", 
+      "venue": "2008 IEEE Conference on Computer Vision and Pattern Recognition", 
+      "year": 2008
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "4a06ae9d41b384d6b1954b42a63385310b5d43fc", 
+      "title": "Facial Feature Detection and Tracking with Automatic Template Selection", 
+      "url": "https://www.semanticscholar.org/paper/4a06ae9d41b384d6b1954b42a63385310b5d43fc", 
+      "venue": "FG", 
+      "year": 2006
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "351dc239ba9f94fb344773bc7fb8697212e7e9ba", 
+      "title": "Support vector tracking", 
+      "url": "https://www.semanticscholar.org/paper/351dc239ba9f94fb344773bc7fb8697212e7e9ba", 
+      "venue": "IEEE Transactions on Pattern Analysis and Machine Intelligence", 
+      "year": 2001
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "1183db5f409e8498d1a0f542703f908275a6dc34", 
+      "title": "Robust Visual Tracking and Vehicle Classification via Sparse Representation", 
+      "url": "https://www.semanticscholar.org/paper/1183db5f409e8498d1a0f542703f908275a6dc34", 
+      "venue": "IEEE Transactions on Pattern Analysis and Machine Intelligence", 
+      "year": 2011
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "123de02c97d508c2c0b1f52d3ab755acd14e6336", 
+      "title": "EigenTracking: Robust Matching and Tracking of Articulated Objects Using a View-Based Representation", 
+      "url": "https://www.semanticscholar.org/paper/123de02c97d508c2c0b1f52d3ab755acd14e6336", 
+      "venue": "International Journal of Computer Vision", 
+      "year": 1996
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "1bb64a5d285d2e825612ba524f249ba5cb44ca03", 
+      "title": "Hidden-Unit Conditional Random Fields", 
+      "url": "https://www.semanticscholar.org/paper/1bb64a5d285d2e825612ba524f249ba5cb44ca03", 
+      "venue": "AISTATS", 
+      "year": 2011
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "74a198f0ebadc3af793c5e7cd7fce61a5de2be18", 
+      "title": "Learning to Localize Objects with Structured Output Regression", 
+      "url": "https://www.semanticscholar.org/paper/74a198f0ebadc3af793c5e7cd7fce61a5de2be18", 
+      "venue": "ECCV", 
+      "year": 2008
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "50ef9cffa34d580eda31983281babe91e2a79e96", 
+      "title": "BraMBLe: A Bayesian Multiple-Blob Tracker", 
+      "url": "https://www.semanticscholar.org/paper/50ef9cffa34d580eda31983281babe91e2a79e96", 
+      "venue": "ICCV", 
+      "year": 2001
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "cade16378ca4815ea006be13e2d4a2fbd7baa3c5", 
+      "title": "Shared parts for deformable part-based models", 
+      "url": "https://www.semanticscholar.org/paper/cade16378ca4815ea006be13e2d4a2fbd7baa3c5", 
+      "venue": "CVPR", 
+      "year": 2011
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "caa0fd34e50bb417fae3ee32f667e78fe5b198bc", 
+      "title": "Object tracking: A survey", 
+      "url": "https://www.semanticscholar.org/paper/caa0fd34e50bb417fae3ee32f667e78fe5b198bc", 
+      "venue": "ACM Comput. Surv.", 
+      "year": 2006
+    }
+  ], 
+  "title": "Preserving Structure in Model-Free Tracking", 
+  "url": "https://www.semanticscholar.org/paper/006f283a50d325840433f4cf6d15876d475bba77", 
+  "venue": "IEEE Transactions on Pattern Analysis and Machine Intelligence", 
+  "year": 2014
+}

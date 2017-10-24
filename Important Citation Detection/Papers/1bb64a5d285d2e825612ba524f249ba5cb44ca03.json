@@ -1,0 +1,591 @@
+{
+  "authors": [
+    {
+      "authorId": "1803520", 
+      "name": "Laurens van der Maaten", 
+      "url": "https://www.semanticscholar.org/author/1803520"
+    }, 
+    {
+      "authorId": "1678311", 
+      "name": "Max Welling", 
+      "url": "https://www.semanticscholar.org/author/1678311"
+    }, 
+    {
+      "authorId": "1796044", 
+      "name": "Lawrence K. Saul", 
+      "url": "https://www.semanticscholar.org/author/1796044"
+    }
+  ], 
+  "citationVelocity": 0, 
+  "citations": [
+    {
+      "isInfluential": false, 
+      "paperId": "25aa640aa877a77d820cefef33a2602765b47c61", 
+      "title": "Sum-Product Networks for Structured Prediction: Context-Specific Deep Conditional Random Fields", 
+      "url": "https://www.semanticscholar.org/paper/25aa640aa877a77d820cefef33a2602765b47c61", 
+      "venue": "", 
+      "year": 2014
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "0431b1ba9c4e61619404682cb929588b7efc44be", 
+      "title": "Protein Secondary Structure Prediction with Long Short Term Memory Networks", 
+      "url": "https://www.semanticscholar.org/paper/0431b1ba9c4e61619404682cb929588b7efc44be", 
+      "venue": "ArXiv", 
+      "year": 2014
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "0fb9dacf0254fbc0dae210179e6879cb74cfb6fc", 
+      "title": "Modeling Customer Engagement from Partial Observations", 
+      "url": "https://www.semanticscholar.org/paper/0fb9dacf0254fbc0dae210179e6879cb74cfb6fc", 
+      "venue": "CIKM", 
+      "year": 2016
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "4abfa6709bd32a1d2462fca11273dcbf8926cbc2", 
+      "title": "Deep Supervised and Convolutional Generative Stochastic Network for Protein Secondary Structure Prediction", 
+      "url": "https://www.semanticscholar.org/paper/4abfa6709bd32a1d2462fca11273dcbf8926cbc2", 
+      "venue": "ICML", 
+      "year": 2014
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "04556d5f283d7f90e24d43371d3f51faff8c0423", 
+      "title": "Temporal Attention-Gated Model for Robust Sequence Classification", 
+      "url": "https://www.semanticscholar.org/paper/04556d5f283d7f90e24d43371d3f51faff8c0423", 
+      "venue": "ArXiv", 
+      "year": 2016
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "c335f50ba3cfe1831dae0189a2e585d17604c150", 
+      "title": "Model Selection by Linear Programming", 
+      "url": "https://www.semanticscholar.org/paper/c335f50ba3cfe1831dae0189a2e585d17604c150", 
+      "venue": "ECCV", 
+      "year": 2014
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "34a2b9bda97fd660eb4d574667c0a1510e30e0f1", 
+      "title": "Protein Secondary Structure Prediction Using Deep Convolutional Neural Fields", 
+      "url": "https://www.semanticscholar.org/paper/34a2b9bda97fd660eb4d574667c0a1510e30e0f1", 
+      "venue": "Scientific reports", 
+      "year": 2016
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "02c549d5728c66964f66e90cd609563b5563b867", 
+      "title": "Audio-visual emotion challenge 2012: a simple approach", 
+      "url": "https://www.semanticscholar.org/paper/02c549d5728c66964f66e90cd609563b5563b867", 
+      "venue": "ICMI", 
+      "year": 2012
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "77ca5114495d90cfebfadf857703eb4b8171e71e", 
+      "title": "Hallym: Named Entity Recognition on Twitter with Induced Word Representation", 
+      "url": "https://www.semanticscholar.org/paper/77ca5114495d90cfebfadf857703eb4b8171e71e", 
+      "venue": "", 
+      "year": 2015
+    }, 
+    {
+      "isInfluential": true, 
+      "paperId": "5e772eab6490de6557548b1e7f5ccd52d599f29d", 
+      "title": "Weakly Supervised Slot Tagging with Partially Labeled Sequences from Web Search Click Logs", 
+      "url": "https://www.semanticscholar.org/paper/5e772eab6490de6557548b1e7f5ccd52d599f29d", 
+      "venue": "HLT-NAACL", 
+      "year": 2015
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "2bb1338b21457077fa6527357b1f5cd6f0d1cb2c", 
+      "title": "Affect analysis in natural human interaction using Joint Hidden Conditional Random Fields", 
+      "url": "https://www.semanticscholar.org/paper/2bb1338b21457077fa6527357b1f5cd6f0d1cb2c", 
+      "venue": "ICME", 
+      "year": 2013
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "40474c631d49783aef8b44c24513795a0c34b7c0", 
+      "title": "Indoor Place Classification for Intelligent Mobile Systems", 
+      "url": "https://www.semanticscholar.org/paper/40474c631d49783aef8b44c24513795a0c34b7c0", 
+      "venue": "", 
+      "year": 2014
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "31a40cf6c95ee48cbb96689206f3868783bea263", 
+      "title": "Pre-training of Hidden-Unit CRFs", 
+      "url": "https://www.semanticscholar.org/paper/31a40cf6c95ee48cbb96689206f3868783bea263", 
+      "venue": "ACL", 
+      "year": 2015
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "006f283a50d325840433f4cf6d15876d475bba77", 
+      "title": "Preserving Structure in Model-Free Tracking", 
+      "url": "https://www.semanticscholar.org/paper/006f283a50d325840433f4cf6d15876d475bba77", 
+      "venue": "IEEE Transactions on Pattern Analysis and Machine Intelligence", 
+      "year": 2014
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "04167ba106e0a22ff9f56c0ac30cce671d754448", 
+      "title": "Paired-Dual Learning for Fast Training of Latent Variable Hinge-Loss MRFs", 
+      "url": "https://www.semanticscholar.org/paper/04167ba106e0a22ff9f56c0ac30cce671d754448", 
+      "venue": "ICML", 
+      "year": 2015
+    }, 
+    {
+      "isInfluential": true, 
+      "paperId": "d53779a40ae0aa7e503f70b337b4019a9405a702", 
+      "title": "Mixtures of Conditional Random Fields for Improved Structured Output Prediction", 
+      "url": "https://www.semanticscholar.org/paper/d53779a40ae0aa7e503f70b337b4019a9405a702", 
+      "venue": "IEEE Transactions on Neural Networks and Learning Systems", 
+      "year": 2017
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "1671a665c636bec7d2eaff137d74e9b7f074892f", 
+      "title": "Learning Algorithms for the Classification Restricted Boltzmann Machine", 
+      "url": "https://www.semanticscholar.org/paper/1671a665c636bec7d2eaff137d74e9b7f074892f", 
+      "venue": "Journal of Machine Learning Research", 
+      "year": 2012
+    }, 
+    {
+      "isInfluential": true, 
+      "paperId": "027ff70c2d3c0016862333a732d37b62f73991e1", 
+      "title": "New Transfer Learning Techniques for Disparate Label Sets", 
+      "url": "https://www.semanticscholar.org/paper/027ff70c2d3c0016862333a732d37b62f73991e1", 
+      "venue": "ACL", 
+      "year": 2015
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "7f14345ba3b3a490a44420706dd593154b879f71", 
+      "title": "Exploiting shared information for multi-intent natural language sentence classification", 
+      "url": "https://www.semanticscholar.org/paper/7f14345ba3b3a490a44420706dd593154b879f71", 
+      "venue": "INTERSPEECH", 
+      "year": 2013
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "48c5d624b3a3d7362b43dd93733a74f49650b00e", 
+      "title": "Cocktail Party Processing via Structured Prediction", 
+      "url": "https://www.semanticscholar.org/paper/48c5d624b3a3d7362b43dd93733a74f49650b00e", 
+      "venue": "NIPS", 
+      "year": 2012
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "0d20b286c639355d9322b98674a1a61d83abd589", 
+      "title": "Learning latent structure for activity recognition", 
+      "url": "https://www.semanticscholar.org/paper/0d20b286c639355d9322b98674a1a61d83abd589", 
+      "venue": "2014 IEEE International Conference on Robotics and Automation (ICRA)", 
+      "year": 2014
+    }, 
+    {
+      "isInfluential": true, 
+      "paperId": "b1a4063596181ec4f31c80d9bf9d0e95eae43093", 
+      "title": "Sequential Labeling with online Deep Learning", 
+      "url": "https://www.semanticscholar.org/paper/b1a4063596181ec4f31c80d9bf9d0e95eae43093", 
+      "venue": "ArXiv", 
+      "year": 2014
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "c551e2f9bc059442a71b8dceaaed369b2d8169b2", 
+      "title": "Sequential emotion recognition using Latent-Dynamic Conditional Neural Fields", 
+      "url": "https://www.semanticscholar.org/paper/c551e2f9bc059442a71b8dceaaed369b2d8169b2", 
+      "venue": "FG", 
+      "year": 2013
+    }, 
+    {
+      "isInfluential": true, 
+      "paperId": "6653962614099f3908b0245b0bc9b7157b1c0e92", 
+      "title": "Dropout training for Hidden Unit CRFs", 
+      "url": "https://www.semanticscholar.org/paper/6653962614099f3908b0245b0bc9b7157b1c0e92", 
+      "venue": "", 
+      "year": 2015
+    }, 
+    {
+      "isInfluential": true, 
+      "paperId": "3213ee78a6215d5c2f715fa411c591fc01320926", 
+      "title": "Latent Hierarchical Model for Activity Recognition", 
+      "url": "https://www.semanticscholar.org/paper/3213ee78a6215d5c2f715fa411c591fc01320926", 
+      "venue": "IEEE Transactions on Robotics", 
+      "year": 2015
+    }, 
+    {
+      "isInfluential": true, 
+      "paperId": "99ff3c7708676ebc1a767dc0fb8f9bd257014613", 
+      "title": "Learning to Smooth with Bidirectional Predictive State Inference Machines", 
+      "url": "https://www.semanticscholar.org/paper/99ff3c7708676ebc1a767dc0fb8f9bd257014613", 
+      "venue": "UAI", 
+      "year": 2016
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "456a67a8a3c9822f8285b8c0d0470e73e5e04052", 
+      "title": "Multimodal fusion using dynamic hybrid models", 
+      "url": "https://www.semanticscholar.org/paper/456a67a8a3c9822f8285b8c0d0470e73e5e04052", 
+      "venue": "IEEE Winter Conference on Applications of Computer Vision", 
+      "year": 2014
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "9280dba3ec034c791bf7778ecf752b099684efe1", 
+      "title": "Multinomial Latent Logistic Regression for Image Understanding", 
+      "url": "https://www.semanticscholar.org/paper/9280dba3ec034c791bf7778ecf752b099684efe1", 
+      "venue": "IEEE Transactions on Image Processing", 
+      "year": 2016
+    }
+  ], 
+  "doi": null, 
+  "influentialCitationCount": 7, 
+  "paperId": "1bb64a5d285d2e825612ba524f249ba5cb44ca03", 
+  "references": [
+    {
+      "isInfluential": false, 
+      "paperId": "0172cec7fef1815e460678d12eb51fa0d051a677", 
+      "title": "Unsupervised feature learning for audio classification using convolutional deep belief networks", 
+      "url": "https://www.semanticscholar.org/paper/0172cec7fef1815e460678d12eb51fa0d051a677", 
+      "venue": "NIPS", 
+      "year": 2009
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "df0c32c4165aecfdc9bb05f61dd43b6c2bad8545", 
+      "title": "On Herding and the Perceptron Cycling Theorem", 
+      "url": "https://www.semanticscholar.org/paper/df0c32c4165aecfdc9bb05f61dd43b6c2bad8545", 
+      "venue": "NIPS", 
+      "year": 2010
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "363b56f85e12389017ba8894056a1b309e46a5f7", 
+      "title": "Multiscale conditional random fields for image labeling", 
+      "url": "https://www.semanticscholar.org/paper/363b56f85e12389017ba8894056a1b309e46a5f7", 
+      "venue": "Proceedings of the 2004 IEEE Computer Society Conference on Computer Vision and Pattern Recognition, 2004. CVPR 2004.", 
+      "year": 2004
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "f5653389328cdd9a7562cedf4a4f41b209038c6a", 
+      "title": "1 An Introduction to Conditional Random Fields for Relational Learning", 
+      "url": "https://www.semanticscholar.org/paper/f5653389328cdd9a7562cedf4a4f41b209038c6a", 
+      "venue": "", 
+      "year": 2006
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "0e785b4d666158c58fdd1885b8af4908b8e23eed", 
+      "title": "Kernel conditional random fields: representation and clique selection", 
+      "url": "https://www.semanticscholar.org/paper/0e785b4d666158c58fdd1885b8af4908b8e23eed", 
+      "venue": "ICML", 
+      "year": 2004
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "a8946a1a1b666edb4fc1b1b4d69a59b2c80015c5", 
+      "title": "Evaluation and improvement of multiple sequence methods for protein secondary structure prediction.", 
+      "url": "https://www.semanticscholar.org/paper/a8946a1a1b666edb4fc1b1b4d69a59b2c80015c5", 
+      "venue": "Proteins", 
+      "year": 1999
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "24770585a6aa3dead91b5ad42bb151b1ae70b316", 
+      "title": "Maximum Entropy Markov Models for Information Extraction and Segmentation", 
+      "url": "https://www.semanticscholar.org/paper/24770585a6aa3dead91b5ad42bb151b1ae70b316", 
+      "venue": "ICML", 
+      "year": 2000
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "16f555ce0839358116264b406b5a3c9e85d67866", 
+      "title": "Protein secondary structure prediction based on an improved support vector machines approach.", 
+      "url": "https://www.semanticscholar.org/paper/16f555ce0839358116264b406b5a3c9e85d67866", 
+      "venue": "Protein engineering", 
+      "year": 2003
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "3787980e3f4c2e0e20a08027ec1eff18b4fd0c0a", 
+      "title": "TnT -- A Statistical Part-of-Speech Tagger", 
+      "url": "https://www.semanticscholar.org/paper/3787980e3f4c2e0e20a08027ec1eff18b4fd0c0a", 
+      "venue": "ANLP", 
+      "year": 2000
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "9cb3def8283837cd223ce4cdd7293fc57f365542", 
+      "title": "Deep Belief Networks for phone recognition", 
+      "url": "https://www.semanticscholar.org/paper/9cb3def8283837cd223ce4cdd7293fc57f365542", 
+      "venue": "", 
+      "year": 2009
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "08751772c88872b742a11e9c64c20286befefe28", 
+      "title": "Representational Power of Restricted Boltzmann Machines and Deep Belief Networks", 
+      "url": "https://www.semanticscholar.org/paper/08751772c88872b742a11e9c64c20286befefe28", 
+      "venue": "Neural Computation", 
+      "year": 2008
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "015293bf7c4cf7ce50a01ce1ceb11f584d123d25", 
+      "title": "Discriminative Fields for Modeling Spatial Dependencies in Natural Images", 
+      "url": "https://www.semanticscholar.org/paper/015293bf7c4cf7ce50a01ce1ceb11f584d123d25", 
+      "venue": "NIPS", 
+      "year": 2003
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "e5903c482d81df7f2be306006ef9ecfbe7fc7a39", 
+      "title": "Approximation by superpositions of a sigmoidal function", 
+      "url": "https://www.semanticscholar.org/paper/e5903c482d81df7f2be306006ef9ecfbe7fc7a39", 
+      "venue": "MCSS", 
+      "year": 1989
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "5489594dec968bd492245bf66b5e2c498dd78e2b", 
+      "title": "Large Margin Training of Continuous Density Hidden Markov Models", 
+      "url": "https://www.semanticscholar.org/paper/5489594dec968bd492245bf66b5e2c498dd78e2b", 
+      "venue": "", 
+      "year": 2007
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "4f6e61d2ab1e2f468cc4bc8fdd8d6f13efaba468", 
+      "title": "Restricted Boltzmann machines for collaborative filtering", 
+      "url": "https://www.semanticscholar.org/paper/4f6e61d2ab1e2f468cc4bc8fdd8d6f13efaba468", 
+      "venue": "ICML", 
+      "year": 2007
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "9e49e7825ce6cb8ef2867be8510f1e4f35fa7a8f", 
+      "title": "Conditional Graphical Models", 
+      "url": "https://www.semanticscholar.org/paper/9e49e7825ce6cb8ef2867be8510f1e4f35fa7a8f", 
+      "venue": "", 
+      "year": 2007
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "24beb987b722d4a25d3157a43000e685aa8f8874", 
+      "title": "A Maximum Entropy Model For Part-Of-Speech Tagging", 
+      "url": "https://www.semanticscholar.org/paper/24beb987b722d4a25d3157a43000e685aa8f8874", 
+      "venue": "", 
+      "year": 1996
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "0c4867f11c9758014d591381d8b397a1d38b04a7", 
+      "title": "Pattern Recognition and Machine Learning", 
+      "url": "https://www.semanticscholar.org/paper/0c4867f11c9758014d591381d8b397a1d38b04a7", 
+      "venue": "J. Electronic Imaging", 
+      "year": 2007
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "162d958ff885f1462aeda91cd72582323fd6a1f4", 
+      "title": "Gradient-based Learning Applied to Document Recognition", 
+      "url": "https://www.semanticscholar.org/paper/162d958ff885f1462aeda91cd72582323fd6a1f4", 
+      "venue": "", 
+      "year": 1998
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "155baea065396a150f0f8875e088355800fa9449", 
+      "title": "Head-Driven Statistical Models for Natural Language Parsing", 
+      "url": "https://www.semanticscholar.org/paper/155baea065396a150f0f8875e088355800fa9449", 
+      "venue": "Computational Linguistics", 
+      "year": 2003
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "203c3ec9e844f4539b077a604d45e7a611a9662c", 
+      "title": "Backpropagation training for multilayer conditional random field based phone recognition", 
+      "url": "https://www.semanticscholar.org/paper/203c3ec9e844f4539b077a604d45e7a611a9662c", 
+      "venue": "2010 IEEE International Conference on Acoustics, Speech and Signal Processing", 
+      "year": 2010
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "0c7f52c753a65ceaf3755e20b906ffd0c05c994a", 
+      "title": "Conditional Random Fields: Probabilistic Models for Segmenting and Labeling Sequence Data", 
+      "url": "https://www.semanticscholar.org/paper/0c7f52c753a65ceaf3755e20b906ffd0c05c994a", 
+      "venue": "ICML", 
+      "year": 2001
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "1ca4f8711e0c5ac77a7dfd8e5916d9d4e4268719", 
+      "title": "Gated Softmax Classification", 
+      "url": "https://www.semanticscholar.org/paper/1ca4f8711e0c5ac77a7dfd8e5916d9d4e4268719", 
+      "venue": "NIPS", 
+      "year": 2010
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "c29f33e3d13a6447ea0ece36cf5add5f5e32fab2", 
+      "title": "Hidden Conditional Random Fields", 
+      "url": "https://www.semanticscholar.org/paper/c29f33e3d13a6447ea0ece36cf5add5f5e32fab2", 
+      "venue": "IEEE Transactions on Pattern Analysis and Machine Intelligence", 
+      "year": 2007
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "3362aa263d0a3296cb05101a4ebe576957e6c364", 
+      "title": "Training Products of Experts by Minimizing Contrastive Divergence", 
+      "url": "https://www.semanticscholar.org/paper/3362aa263d0a3296cb05101a4ebe576957e6c364", 
+      "venue": "Neural Computation", 
+      "year": 2002
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "0b44fcbeea9415d400c5f5789d6b892b6f98daff", 
+      "title": "Building a Large Annotated Corpus of English: The Penn Treebank", 
+      "url": "https://www.semanticscholar.org/paper/0b44fcbeea9415d400c5f5789d6b892b6f98daff", 
+      "venue": "Computational Linguistics", 
+      "year": 1993
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "4a027905cfc5195a8dff3141a5a3141e92873889", 
+      "title": "YASSPP: better kernels and coding schemes lead to improvements in protein secondary structure prediction.", 
+      "url": "https://www.semanticscholar.org/paper/4a027905cfc5195a8dff3141a5a3141e92873889", 
+      "venue": "Proteins", 
+      "year": 2006
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "11a9fdb727bf27b3aa8b3e816474be7a9dab67e9", 
+      "title": "Achieving 80% ten-fold cross-validated accuracy for secondary structure prediction by large-scale training.", 
+      "url": "https://www.semanticscholar.org/paper/11a9fdb727bf27b3aa8b3e816474be7a9dab67e9", 
+      "venue": "Proteins", 
+      "year": 2007
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "c3227702dd212965157a615332f3dd78b0f11b5e", 
+      "title": "Neural conditional random fields", 
+      "url": "https://www.semanticscholar.org/paper/c3227702dd212965157a615332f3dd78b0f11b5e", 
+      "venue": "AISTATS", 
+      "year": 2010
+    }, 
+    {
+      "isInfluential": true, 
+      "paperId": "6e7dadd63455c194e3472bb181aaf509f89b9166", 
+      "title": "Classification using discriminative restricted Boltzmann machines", 
+      "url": "https://www.semanticscholar.org/paper/6e7dadd63455c194e3472bb181aaf509f89b9166", 
+      "venue": "ICML", 
+      "year": 2008
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "6c0f105bd664bd41ed8e0c4a9784a98b6953026a", 
+      "title": "Protein secondary structure prediction based on position-specific scoring matrices.", 
+      "url": "https://www.semanticscholar.org/paper/6c0f105bd664bd41ed8e0c4a9784a98b6953026a", 
+      "venue": "Journal of molecular biology", 
+      "year": 1999
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "19908640236767427ebf0524dc3a4bb09d65145e", 
+      "title": "Loopy Belief Propagation for Approximate Inference: An Empirical Study", 
+      "url": "https://www.semanticscholar.org/paper/19908640236767427ebf0524dc3a4bb09d65145e", 
+      "venue": "UAI", 
+      "year": 1999
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "9355d84fe16e6e3718d4b5a29017d2793e71d7b9", 
+      "title": "Learning a two-stage SVM/CRF sequence classifier", 
+      "url": "https://www.semanticscholar.org/paper/9355d84fe16e6e3718d4b5a29017d2793e71d7b9", 
+      "venue": "CIKM", 
+      "year": 2008
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "3b5c2d9fed54f0c67e156c3f37e6174e5369f0fa", 
+      "title": "Segmentation Conditional Random Fields (SCRFs): A New Approach for Protein Fold Recognition", 
+      "url": "https://www.semanticscholar.org/paper/3b5c2d9fed54f0c67e156c3f37e6174e5369f0fa", 
+      "venue": "RECOMB", 
+      "year": 2005
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "135ace829b6ad2ec9db040d8e5fd137034e83665", 
+      "title": "Semi-Markov Conditional Random Fields for Information Extraction", 
+      "url": "https://www.semanticscholar.org/paper/135ace829b6ad2ec9db040d8e5fd137034e83665", 
+      "venue": "NIPS", 
+      "year": 2004
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "5b31e43f8b0490779d8013e0705ae4df8f0488c9", 
+      "title": "Shallow Parsing with Conditional Random Fields", 
+      "url": "https://www.semanticscholar.org/paper/5b31e43f8b0490779d8013e0705ae4df8f0488c9", 
+      "venue": "HLT-NAACL", 
+      "year": 2003
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "0104063400e6d69294edc95fb14c7e8fac347f6a", 
+      "title": "Max-Margin Markov Networks", 
+      "url": "https://www.semanticscholar.org/paper/0104063400e6d69294edc95fb14c7e8fac347f6a", 
+      "venue": "NIPS", 
+      "year": 2003
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "3b8e7c8220d3883d54960d896a73045f3c70ac17", 
+      "title": "Discriminative Training Methods For Hidden Markov Models: Theory And Experiments With Perceptron Algorithms", 
+      "url": "https://www.semanticscholar.org/paper/3b8e7c8220d3883d54960d896a73045f3c70ac17", 
+      "venue": "", 
+      "year": 2002
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "2fcda810f3f43cd1aaeea04782ae4234cb61a3f8", 
+      "title": "Dictionary of protein secondary structure: pattern recognition of hydrogen-bonded and geometrical features.", 
+      "url": "https://www.semanticscholar.org/paper/2fcda810f3f43cd1aaeea04782ae4234cb61a3f8", 
+      "venue": "Biopolymers", 
+      "year": 1983
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "0033a0c1a842acbf89e5fa9b3b6b84d7e3545c6d", 
+      "title": "Gapped BLAST and PSI-BLAST: a new generation of protein database search programs.", 
+      "url": "https://www.semanticscholar.org/paper/0033a0c1a842acbf89e5fa9b3b6b84d7e3545c6d", 
+      "venue": "Nucleic acids research", 
+      "year": 1997
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "1084f22a7a3aebbec6dfea1b1d95e915be9a4a5e", 
+      "title": "Matrix updates for perceptron training of continuous density hidden Markov models", 
+      "url": "https://www.semanticscholar.org/paper/1084f22a7a3aebbec6dfea1b1d95e915be9a4a5e", 
+      "venue": "ICML", 
+      "year": 2009
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "49cf4a62ca9ff674803b879b08b264987479ac47", 
+      "title": "Conditional Neural Fields", 
+      "url": "https://www.semanticscholar.org/paper/49cf4a62ca9ff674803b879b08b264987479ac47", 
+      "venue": "NIPS", 
+      "year": 2009
+    }
+  ], 
+  "title": "Hidden-Unit Conditional Random Fields", 
+  "url": "https://www.semanticscholar.org/paper/1bb64a5d285d2e825612ba524f249ba5cb44ca03", 
+  "venue": "AISTATS", 
+  "year": 2011
+}

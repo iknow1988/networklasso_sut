@@ -1,0 +1,965 @@
+{
+  "authors": [
+    {
+      "authorId": "2717320", 
+      "name": "Yangqing Jia", 
+      "url": "https://www.semanticscholar.org/author/2717320"
+    }
+  ], 
+  "citationVelocity": 0, 
+  "citations": [
+    {
+      "isInfluential": false, 
+      "paperId": "c89ad3defd663f9c2f0fd28af95014652a30153a", 
+      "title": "Improving Execution Concurrency of Large-Scale Matrix Multiplication on Distributed Data-Parallel Platforms", 
+      "url": "https://www.semanticscholar.org/paper/c89ad3defd663f9c2f0fd28af95014652a30153a", 
+      "venue": "IEEE Transactions on Parallel and Distributed Systems", 
+      "year": 2017
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "51d49e4bf3c5a8acb81f648c2a811744a0f1f52b", 
+      "title": "MEC: Memory-efficient Convolution for Deep Neural Network", 
+      "url": "https://www.semanticscholar.org/paper/51d49e4bf3c5a8acb81f648c2a811744a0f1f52b", 
+      "venue": "ICML", 
+      "year": 2017
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "6b024d376d80b8674f23ec8a7b1fb8b53fd26865", 
+      "title": "BMXNet: An Open-Source Binary Neural Network Implementation Based on MXNet", 
+      "url": "https://www.semanticscholar.org/paper/6b024d376d80b8674f23ec8a7b1fb8b53fd26865", 
+      "venue": "ArXiv", 
+      "year": 2017
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "44673987ad2c5214fecd31bb05c9f0242c16a4c8", 
+      "title": "Factorized Bilinear Models for Image Recognition", 
+      "url": "https://www.semanticscholar.org/paper/44673987ad2c5214fecd31bb05c9f0242c16a4c8", 
+      "venue": "ArXiv", 
+      "year": 2016
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "0b8759d61e93b809df16d9fe9010d2a2d7241c74", 
+      "title": "Fast and Accurate Deep Network Learning by Exponential Linear Units (ELUs)", 
+      "url": "https://www.semanticscholar.org/paper/0b8759d61e93b809df16d9fe9010d2a2d7241c74", 
+      "venue": "ArXiv", 
+      "year": 2015
+    }
+  ], 
+  "doi": null, 
+  "influentialCitationCount": 0, 
+  "paperId": "8a382f000f98cdab7f7b79e543c75c6b8f93b6f9", 
+  "references": [
+    {
+      "isInfluential": false, 
+      "paperId": "b1c23451334b0f9294a6a8de5be59d361547a946", 
+      "title": "Are sparse representations really relevant for image classification?", 
+      "url": "https://www.semanticscholar.org/paper/b1c23451334b0f9294a6a8de5be59d361547a946", 
+      "venue": "CVPR", 
+      "year": 2011
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "2221ef8e7fa3f6805cb493543e983c76d233cc69", 
+      "title": "Learning mid-level features for recognition", 
+      "url": "https://www.semanticscholar.org/paper/2221ef8e7fa3f6805cb493543e983c76d233cc69", 
+      "venue": "2010 IEEE Computer Society Conference on Computer Vision and Pattern Recognition", 
+      "year": 2010
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "6891fc343ed8b7e530b041eace4c21d227901e90", 
+      "title": "Learning to share visual appearance for multiclass object detection", 
+      "url": "https://www.semanticscholar.org/paper/6891fc343ed8b7e530b041eace4c21d227901e90", 
+      "venue": "CVPR", 
+      "year": 2011
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "702f1b1b0a62a31c2f1008eedb7ed28782b19bc7", 
+      "title": "Constructing a hypothesis space from the Web for large-scale Bayesian word learning", 
+      "url": "https://www.semanticscholar.org/paper/702f1b1b0a62a31c2f1008eedb7ed28782b19bc7", 
+      "venue": "CogSci", 
+      "year": 2012
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "eefcc7bcc05436dac9881acb4ff4e4a0b730e175", 
+      "title": "High-dimensional signature compression for large-scale image classification", 
+      "url": "https://www.semanticscholar.org/paper/eefcc7bcc05436dac9881acb4ff4e4a0b730e175", 
+      "venue": "CVPR", 
+      "year": 2011
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "4b7c8063892ca57131bd71b9c839d970ee8b0226", 
+      "title": "Frustratingly Easy Domain Adaptation", 
+      "url": "https://www.semanticscholar.org/paper/4b7c8063892ca57131bd71b9c839d970ee8b0226", 
+      "venue": "ACL", 
+      "year": 2007
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "63ff365776638261811d78060ea9bce6ea5131a0", 
+      "title": "Sparse Coding with an Overcomplete Basis Set: a Strategy Employed by V1?", 
+      "url": "https://www.semanticscholar.org/paper/63ff365776638261811d78060ea9bce6ea5131a0", 
+      "venue": "", 
+      "year": 1997
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "166d8f840c502c5095c8651540dd393743d63ce9", 
+      "title": "Kernel Descriptors for Visual Recognition", 
+      "url": "https://www.semanticscholar.org/paper/166d8f840c502c5095c8651540dd393743d63ce9", 
+      "venue": "NIPS", 
+      "year": 2010
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "162d958ff885f1462aeda91cd72582323fd6a1f4", 
+      "title": "Gradient-based Learning Applied to Document Recognition", 
+      "url": "https://www.semanticscholar.org/paper/162d958ff885f1462aeda91cd72582323fd6a1f4", 
+      "venue": "", 
+      "year": 1998
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "490020c0d4fa1eb85fe353add5713e49f08c628d", 
+      "title": "SURF: Speeded Up Robust Features", 
+      "url": "https://www.semanticscholar.org/paper/490020c0d4fa1eb85fe353add5713e49f08c628d", 
+      "venue": "ECCV", 
+      "year": 2006
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "0668b33d7ef04d88fc9b0d6221ba8b2d2b74b508", 
+      "title": "Bayesian Modeling of Human Concept Learning", 
+      "url": "https://www.semanticscholar.org/paper/0668b33d7ef04d88fc9b0d6221ba8b2d2b74b508", 
+      "venue": "NIPS", 
+      "year": 1998
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "ef32fea5e7deefe21f7ccc9a83d831d6babbeb01", 
+      "title": "Theory-based Bayesian models of inductive learning and reasoning.", 
+      "url": "https://www.semanticscholar.org/paper/ef32fea5e7deefe21f7ccc9a83d831d6babbeb01", 
+      "venue": "Trends in cognitive sciences", 
+      "year": 2006
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "2e384f057211426ac5922f1b33d2aa8df5d51f57", 
+      "title": "Describing objects by their attributes", 
+      "url": "https://www.semanticscholar.org/paper/2e384f057211426ac5922f1b33d2aa8df5d51f57", 
+      "venue": "2009 IEEE Conference on Computer Vision and Pattern Recognition", 
+      "year": 2009
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "266bf8847801ff302c6f91f899f36269807317ee", 
+      "title": "Online Learning for Matrix Factorization and Sparse Coding", 
+      "url": "https://www.semanticscholar.org/paper/266bf8847801ff302c6f91f899f36269807317ee", 
+      "venue": "Journal of Machine Learning Research", 
+      "year": 2010
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "06f7dc6851e0614dfeaec2705c68ab5bd709001a", 
+      "title": "Towards Scalable Representations of Object Categories: Learning a Hierarchy of Parts", 
+      "url": "https://www.semanticscholar.org/paper/06f7dc6851e0614dfeaec2705c68ab5bd709001a", 
+      "venue": "2007 IEEE Conference on Computer Vision and Pattern Recognition", 
+      "year": 2007
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "0ea38a5ba0c8739d1196da5d20efb13406bb6550", 
+      "title": "Relative attributes", 
+      "url": "https://www.semanticscholar.org/paper/0ea38a5ba0c8739d1196da5d20efb13406bb6550", 
+      "venue": "2011 International Conference on Computer Vision", 
+      "year": 2011
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "069c40a8ca5305c9a0734c1f6134eb19a678f4ab", 
+      "title": "LabelMe: A Database and Web-Based Tool for Image Annotation", 
+      "url": "https://www.semanticscholar.org/paper/069c40a8ca5305c9a0734c1f6134eb19a678f4ab", 
+      "venue": "International Journal of Computer Vision", 
+      "year": 2007
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "2af955ef35cf2977ce41a4a109ce3f72ce80f215", 
+      "title": "A probabilistic model for recursive factorized image features", 
+      "url": "https://www.semanticscholar.org/paper/2af955ef35cf2977ce41a4a109ce3f72ce80f215", 
+      "venue": "CVPR", 
+      "year": 2011
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "713483f6f51eda93306c06f28a3da96b008eed98", 
+      "title": "Structure learning in random fields for heart motion abnormality detection", 
+      "url": "https://www.semanticscholar.org/paper/713483f6f51eda93306c06f28a3da96b008eed98", 
+      "venue": "2008 IEEE Conference on Computer Vision and Pattern Recognition", 
+      "year": 2008
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "12692fbe915e6bb1c80733519371bbb90ae07539", 
+      "title": "Object Bank: A High-Level Image Representation for Scene Classification & Semantic Feature Sparsification", 
+      "url": "https://www.semanticscholar.org/paper/12692fbe915e6bb1c80733519371bbb90ae07539", 
+      "venue": "NIPS", 
+      "year": 2010
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "0baee7f68c08f1a6b5190755adebc57145d18ccf", 
+      "title": "Unsupervised Discovery of Mid-Level Discriminative Patches", 
+      "url": "https://www.semanticscholar.org/paper/0baee7f68c08f1a6b5190755adebc57145d18ccf", 
+      "venue": "ECCV", 
+      "year": 2012
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "7da1c2d2ea8f51011b1a3006eabc03b342f792d4", 
+      "title": "DLID: Deep Learning for Domain Adaptation by Interpolating between Domains", 
+      "url": "https://www.semanticscholar.org/paper/7da1c2d2ea8f51011b1a3006eabc03b342f792d4", 
+      "venue": "", 
+      "year": 2013
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "09f2af091f6bf5dfe25700c5a8c82f220fac5631", 
+      "title": "Beyond Bags of Features: Spatial Pyramid Matching for Recognizing Natural Scene Categories", 
+      "url": "https://www.semanticscholar.org/paper/09f2af091f6bf5dfe25700c5a8c82f220fac5631", 
+      "venue": "2006 IEEE Computer Society Conference on Computer Vision and Pattern Recognition (CVPR'06)", 
+      "year": 2006
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "c1ba0d38d855af0f4a2c2cf0f4fa48e4477fc4ec", 
+      "title": "Efficient Highly Over-Complete Sparse Coding Using a Mixture Model", 
+      "url": "https://www.semanticscholar.org/paper/c1ba0d38d855af0f4a2c2cf0f4fa48e4477fc4ec", 
+      "venue": "ECCV", 
+      "year": 2010
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "a8e8f3c8d4418c8d62e306538c9c1292635e9d27", 
+      "title": "Backpropagation Applied to Handwritten Zip Code Recognition", 
+      "url": "https://www.semanticscholar.org/paper/a8e8f3c8d4418c8d62e306538c9c1292635e9d27", 
+      "venue": "Neural Computation", 
+      "year": 1989
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "4eb17520bbe2a58c6bb3cf95a2601fa0bc26e10f", 
+      "title": "Transfer learning for image classification with sparse prototype representations", 
+      "url": "https://www.semanticscholar.org/paper/4eb17520bbe2a58c6bb3cf95a2601fa0bc26e10f", 
+      "venue": "2008 IEEE Conference on Computer Vision and Pattern Recognition", 
+      "year": 2008
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "54d48a42a34f368240b79e7c98c7d9283f79b350", 
+      "title": "Large-scale image classification: Fast feature extraction and SVM training", 
+      "url": "https://www.semanticscholar.org/paper/54d48a42a34f368240b79e7c98c7d9283f79b350", 
+      "venue": "CVPR", 
+      "year": 2011
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "009fba8df6bbca155d9e070a9bd8d0959bc693c2", 
+      "title": "Rich Feature Hierarchies for Accurate Object Detection and Semantic Segmentation", 
+      "url": "https://www.semanticscholar.org/paper/009fba8df6bbca155d9e070a9bd8d0959bc693c2", 
+      "venue": "2014 IEEE Conference on Computer Vision and Pattern Recognition", 
+      "year": 2014
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "e84c1f93cf99de23426d4d7d9dc55ada674e816a", 
+      "title": "What you saw is not what you get: Domain adaptation using asymmetric kernel transforms", 
+      "url": "https://www.semanticscholar.org/paper/e84c1f93cf99de23426d4d7d9dc55ada674e816a", 
+      "venue": "CVPR", 
+      "year": 2011
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "161ffb54a3fdf0715b198bb57bd22f910242eb49", 
+      "title": "Multitask Learning", 
+      "url": "https://www.semanticscholar.org/paper/161ffb54a3fdf0715b198bb57bd22f910242eb49", 
+      "venue": "Machine Learning", 
+      "year": 1997
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "0d1dc431e57a3f420f96ed3197798e694e113c22", 
+      "title": "Recklessly Approximate Sparse Coding", 
+      "url": "https://www.semanticscholar.org/paper/0d1dc431e57a3f420f96ed3197798e694e113c22", 
+      "venue": "ArXiv", 
+      "year": 2012
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "a2c1d14f22c79dd656cbd3b99953aa301c6bbd74", 
+      "title": "Adaptive deconvolutional networks for mid and high level feature learning", 
+      "url": "https://www.semanticscholar.org/paper/a2c1d14f22c79dd656cbd3b99953aa301c6bbd74", 
+      "venue": "2011 International Conference on Computer Vision", 
+      "year": 2011
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "2b7ef95822a4d577021df16607bf7b4a4514eb4b", 
+      "title": "Emergence of Object-Selective Features in Unsupervised Feature Learning", 
+      "url": "https://www.semanticscholar.org/paper/2b7ef95822a4d577021df16607bf7b4a4514eb4b", 
+      "venue": "NIPS", 
+      "year": 2012
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "586d7b215d1174f01a1dc2f6abf6b2eb0f740ab6", 
+      "title": "Unsupervised Learning of Invariant Feature Hierarchies with Applications to Object Recognition", 
+      "url": "https://www.semanticscholar.org/paper/586d7b215d1174f01a1dc2f6abf6b2eb0f740ab6", 
+      "venue": "2007 IEEE Conference on Computer Vision and Pattern Recognition", 
+      "year": 2007
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "1b65af0b2847cf6edb1461eda659f08be27bc76d", 
+      "title": "Regression Shrinkage and Selection via the Lasso", 
+      "url": "https://www.semanticscholar.org/paper/1b65af0b2847cf6edb1461eda659f08be27bc76d", 
+      "venue": "", 
+      "year": 1994
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "1d93f7de9f6d2daa77d844dd928aaa1e699ed312", 
+      "title": "Visual Concept Learning: Combining Machine Vision and Bayesian Generalization on Concept Hierarchies", 
+      "url": "https://www.semanticscholar.org/paper/1d93f7de9f6d2daa77d844dd928aaa1e699ed312", 
+      "venue": "NIPS", 
+      "year": 2013
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "bea5780d621e669e8069f05d0f2fc0db9df4b50f", 
+      "title": "Convolutional Deep Belief Networks on CIFAR-10", 
+      "url": "https://www.semanticscholar.org/paper/bea5780d621e669e8069f05d0f2fc0db9df4b50f", 
+      "venue": "", 
+      "year": 2010
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "0ee1916a0cb2dc7d3add086b5f1092c3d4beb38a", 
+      "title": "The Pascal Visual Object Classes (VOC) Challenge", 
+      "url": "https://www.semanticscholar.org/paper/0ee1916a0cb2dc7d3add086b5f1092c3d4beb38a", 
+      "venue": "International Journal of Computer Vision", 
+      "year": 2009
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "2bb6ac76875b7eac130a296fa97d07d97e3e0077", 
+      "title": "Speech Language Processing Interface for Object-Oriented Application Design using a Rule-based Framework", 
+      "url": "https://www.semanticscholar.org/paper/2bb6ac76875b7eac130a296fa97d07d97e3e0077", 
+      "venue": "", 
+      "year": 2006
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "6ee2bf4f9647e110fa7788c932a9592cf8eaeee0", 
+      "title": "Group-sensitive multiple kernel learning for object categorization", 
+      "url": "https://www.semanticscholar.org/paper/6ee2bf4f9647e110fa7788c932a9592cf8eaeee0", 
+      "venue": "2009 IEEE 12th International Conference on Computer Vision", 
+      "year": 2009
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "2c5135a0531bc5ad7dd890f018e67a40529f5bcb", 
+      "title": "A Framework for Learning Predictive Structures from Multiple Tasks and Unlabeled Data", 
+      "url": "https://www.semanticscholar.org/paper/2c5135a0531bc5ad7dd890f018e67a40529f5bcb", 
+      "venue": "Journal of Machine Learning Research", 
+      "year": 2005
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "0a59337568cbf74e7371fb543f7ca34bbc2153ac", 
+      "title": "Geodesic flow kernel for unsupervised domain adaptation", 
+      "url": "https://www.semanticscholar.org/paper/0a59337568cbf74e7371fb543f7ca34bbc2153ac", 
+      "venue": "2012 IEEE Conference on Computer Vision and Pattern Recognition", 
+      "year": 2012
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "061fe2ffc3c5abc63d5f22306a6944b3a8bf8d7d", 
+      "title": "In defense of Nearest-Neighbor based image classification", 
+      "url": "https://www.semanticscholar.org/paper/061fe2ffc3c5abc63d5f22306a6944b3a8bf8d7d", 
+      "venue": "2008 IEEE Conference on Computer Vision and Pattern Recognition", 
+      "year": 2008
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "6f3b511729fe87658da0d22065688c42bdcd1f4c", 
+      "title": "A Theoretical Analysis of Feature Pooling in Visual Recognition", 
+      "url": "https://www.semanticscholar.org/paper/6f3b511729fe87658da0d22065688c42bdcd1f4c", 
+      "venue": "ICML", 
+      "year": 2010
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "56a4f2df5c7680e44dd76aa08f65383cf8c910f1", 
+      "title": "Improved Nystr\u00f6m low-rank approximation and error analysis", 
+      "url": "https://www.semanticscholar.org/paper/56a4f2df5c7680e44dd76aa08f65383cf8c910f1", 
+      "venue": "ICML", 
+      "year": 2008
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "364c79d2d98819b27641c651cf6553142ef747bf", 
+      "title": "Hedging your bets: Optimizing accuracy-specificity trade-offs in large scale visual recognition", 
+      "url": "https://www.semanticscholar.org/paper/364c79d2d98819b27641c651cf6553142ef747bf", 
+      "venue": "2012 IEEE Conference on Computer Vision and Pattern Recognition", 
+      "year": 2012
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "627a3b416f3c49f29f2846b8b5a5a82e0858fd0a", 
+      "title": "Large-scale image classification with trace-norm regularization", 
+      "url": "https://www.semanticscholar.org/paper/627a3b416f3c49f29f2846b8b5a5a82e0858fd0a", 
+      "venue": "2012 IEEE Conference on Computer Vision and Pattern Recognition", 
+      "year": 2012
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "ad350c851ff0248e3fa222ddb0cc1bf7c3ff3b8b", 
+      "title": "On Compact Codes for Spatially Pooled Features", 
+      "url": "https://www.semanticscholar.org/paper/ad350c851ff0248e3fa222ddb0cc1bf7c3ff3b8b", 
+      "venue": "ICML", 
+      "year": 2013
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "1e51cb0c63567226cff662ba841cf214ad9d1e93", 
+      "title": "Histograms of Sparse Codes for Object Detection", 
+      "url": "https://www.semanticscholar.org/paper/1e51cb0c63567226cff662ba841cf214ad9d1e93", 
+      "venue": "2013 IEEE Conference on Computer Vision and Pattern Recognition", 
+      "year": 2013
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "344018e1838ae5b79dc8388d83101ae5ad1fc0c6", 
+      "title": "Contextual Priming for Object Detection", 
+      "url": "https://www.semanticscholar.org/paper/344018e1838ae5b79dc8388d83101ae5ad1fc0c6", 
+      "venue": "International Journal of Computer Vision", 
+      "year": 2003
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "182015c5edff1956cbafbcb3e7bbe294aa54f9fc", 
+      "title": "Selecting Receptive Fields in Deep Networks", 
+      "url": "https://www.semanticscholar.org/paper/182015c5edff1956cbafbcb3e7bbe294aa54f9fc", 
+      "venue": "NIPS", 
+      "year": 2011
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "08ae74a8967f7439a3df8733e268caa6294b7e5b", 
+      "title": "Self-taught learning: transfer learning from unlabeled data", 
+      "url": "https://www.semanticscholar.org/paper/08ae74a8967f7439a3df8733e268caa6294b7e5b", 
+      "venue": "ICML", 
+      "year": 2007
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "04ffdf2e15e7d8189e7516aaedc484ed6a03f0a3", 
+      "title": "Simple Method for High-Performance Digit Recognition Based on Sparse Coding", 
+      "url": "https://www.semanticscholar.org/paper/04ffdf2e15e7d8189e7516aaedc484ed6a03f0a3", 
+      "venue": "IEEE Transactions on Neural Networks", 
+      "year": 2008
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "25c3c7baf770d9706745f0a2d26f20653c979504", 
+      "title": "Learning a Distance Metric from Relative Comparisons", 
+      "url": "https://www.semanticscholar.org/paper/25c3c7baf770d9706745f0a2d26f20653c979504", 
+      "venue": "NIPS", 
+      "year": 2003
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "33ff17cf904ae10c5b845eb553995f7b7f5a453f", 
+      "title": "Matrix Coherence and the Nystrom Method", 
+      "url": "https://www.semanticscholar.org/paper/33ff17cf904ae10c5b845eb553995f7b7f5a453f", 
+      "venue": "UAI", 
+      "year": 2010
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "38211dc39e41273c0007889202c69f841e02248a", 
+      "title": "ImageNet: A large-scale hierarchical image database", 
+      "url": "https://www.semanticscholar.org/paper/38211dc39e41273c0007889202c69f841e02248a", 
+      "venue": "2009 IEEE Conference on Computer Vision and Pattern Recognition", 
+      "year": 2009
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "098abe1eee6208b693daafe7183f017f9e71e409", 
+      "title": "Towards total scene understanding: Classification, annotation and segmentation in an automatic framework", 
+      "url": "https://www.semanticscholar.org/paper/098abe1eee6208b693daafe7183f017f9e71e409", 
+      "venue": "2009 IEEE Conference on Computer Vision and Pattern Recognition", 
+      "year": 2009
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "7808937b46acad36e43c30ae4e9f3fd57462853d", 
+      "title": "Describing people: A poselet-based approach to attribute classification", 
+      "url": "https://www.semanticscholar.org/paper/7808937b46acad36e43c30ae4e9f3fd57462853d", 
+      "venue": "2011 International Conference on Computer Vision", 
+      "year": 2011
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "9952d4d5717afd4a27157ed8b98b0ee3dcb70d6c", 
+      "title": "ImageNet Classification with Deep Convolutional Neural Networks", 
+      "url": "https://www.semanticscholar.org/paper/9952d4d5717afd4a27157ed8b98b0ee3dcb70d6c", 
+      "venue": "", 
+      "year": 2013
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "46217f372a75dddc2254fdbc6b9418ba3554e453", 
+      "title": "Regularization and variable selection via the elastic net", 
+      "url": "https://www.semanticscholar.org/paper/46217f372a75dddc2254fdbc6b9418ba3554e453", 
+      "venue": "", 
+      "year": 2004
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "371c9dc680e916f79d9c78fcf6c894a2dd299095", 
+      "title": "Is Learning The n-th Thing Any Easier Than Learning The First?", 
+      "url": "https://www.semanticscholar.org/paper/371c9dc680e916f79d9c78fcf6c894a2dd299095", 
+      "venue": "NIPS", 
+      "year": 1995
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "0fb238dfbe14943c1b6672c20d417c85381f1ae2", 
+      "title": "A trainable feature extractor for handwritten digit recognition", 
+      "url": "https://www.semanticscholar.org/paper/0fb238dfbe14943c1b6672c20d417c85381f1ae2", 
+      "venue": "Pattern Recognition", 
+      "year": 2007
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "0d538084f664b4b7c0e11899d08da31aead87c32", 
+      "title": "Deformable Part Descriptors for Fine-Grained Recognition and Attribute Prediction", 
+      "url": "https://www.semanticscholar.org/paper/0d538084f664b4b7c0e11899d08da31aead87c32", 
+      "venue": "2013 IEEE International Conference on Computer Vision", 
+      "year": 2013
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "6e4fb4aae7c9ffed14af68834a478ad2cc6e9000", 
+      "title": "Word learning as Bayesian inference.", 
+      "url": "https://www.semanticscholar.org/paper/6e4fb4aae7c9ffed14af68834a478ad2cc6e9000", 
+      "venue": "Psychological review", 
+      "year": 2007
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "509dafe05209aed4daef8b5b1de683fbae487fb5", 
+      "title": "High-Performance Neural Networks for Visual Object Classification", 
+      "url": "https://www.semanticscholar.org/paper/509dafe05209aed4daef8b5b1de683fbae487fb5", 
+      "venue": "ArXiv", 
+      "year": 2011
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "944a5c99260e96926c3ebe363114e080e81bf8a0", 
+      "title": "Learning hierarchical invariant spatio-temporal features for action recognition with independent subspace analysis", 
+      "url": "https://www.semanticscholar.org/paper/944a5c99260e96926c3ebe363114e080e81bf8a0", 
+      "venue": "CVPR", 
+      "year": 2011
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "235fa2b1983eff9f13b27c620cda389359126bf4", 
+      "title": "Building high-level features using large scale unsupervised learning", 
+      "url": "https://www.semanticscholar.org/paper/235fa2b1983eff9f13b27c620cda389359126bf4", 
+      "venue": "2013 IEEE International Conference on Acoustics, Speech and Signal Processing", 
+      "year": 2012
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "b5e3beb791cc17cdaf131d5cca6ceb796226d832", 
+      "title": "Novel Dataset for Fine-Grained Image Categorization: Stanford Dogs", 
+      "url": "https://www.semanticscholar.org/paper/b5e3beb791cc17cdaf131d5cca6ceb796226d832", 
+      "venue": "", 
+      "year": 2012
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "a48a56b0727d09f599676524fe190308d9e88bf1", 
+      "title": "Caltech-ucsd Birds 200", 
+      "url": "https://www.semanticscholar.org/paper/a48a56b0727d09f599676524fe190308d9e88bf1", 
+      "venue": "", 
+      "year": 2010
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "12ad2dffb25859531ea3f8307954e2ef4ca93884", 
+      "title": "Structured Sparse Principal Component Analysis", 
+      "url": "https://www.semanticscholar.org/paper/12ad2dffb25859531ea3f8307954e2ef4ca93884", 
+      "venue": "AISTATS", 
+      "year": 2010
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "0740014dc7aa6dd46cd2ee64360eef49b8d6210b", 
+      "title": "Multi-Task Feature Learning", 
+      "url": "https://www.semanticscholar.org/paper/0740014dc7aa6dd46cd2ee64360eef49b8d6210b", 
+      "venue": "NIPS", 
+      "year": 2006
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "21a9acd956f1b33a2c79df75f8b4c24d71b3b695", 
+      "title": "On Random Weights and Unsupervised Feature Learning", 
+      "url": "https://www.semanticscholar.org/paper/21a9acd956f1b33a2c79df75f8b4c24d71b3b695", 
+      "venue": "ICML", 
+      "year": 2011
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "05aba481e8a221df5d8775a3bb749001e7f2525e", 
+      "title": "Adaptive Subgradient Methods for Online Learning and Stochastic Optimization", 
+      "url": "https://www.semanticscholar.org/paper/05aba481e8a221df5d8775a3bb749001e7f2525e", 
+      "venue": "COLT", 
+      "year": 2010
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "e0f8b400bbe482a4d8b8e28a35048ae236b172e5", 
+      "title": "Discriminative learning of relaxed hierarchy for large-scale visual recognition", 
+      "url": "https://www.semanticscholar.org/paper/e0f8b400bbe482a4d8b8e28a35048ae236b172e5", 
+      "venue": "2011 International Conference on Computer Vision", 
+      "year": 2011
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "260aed27abfe751b3d90aad9c0805d35c359ebd5", 
+      "title": "Efficient Learning of Domain-invariant Image Representations", 
+      "url": "https://www.semanticscholar.org/paper/260aed27abfe751b3d90aad9c0805d35c359ebd5", 
+      "venue": "ArXiv", 
+      "year": 2013
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "313c782f18bb01933668dce56003553b49d1fc44", 
+      "title": "SUN database: Large-scale scene recognition from abbey to zoo", 
+      "url": "https://www.semanticscholar.org/paper/313c782f18bb01933668dce56003553b49d1fc44", 
+      "venue": "2010 IEEE Computer Society Conference on Computer Vision and Pattern Recognition", 
+      "year": 2010
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "10d80f99c729fc4d12b23138a7a4d0ee2a1cbf10", 
+      "title": "Latent Task Adaptation with Large-Scale Hierarchies", 
+      "url": "https://www.semanticscholar.org/paper/10d80f99c729fc4d12b23138a7a4d0ee2a1cbf10", 
+      "venue": "2013 IEEE International Conference on Computer Vision", 
+      "year": 2013
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "7c59908c946a4157abc030cdbe2b63d08ba97db3", 
+      "title": "Reducing the dimensionality of data with neural networks.", 
+      "url": "https://www.semanticscholar.org/paper/7c59908c946a4157abc030cdbe2b63d08ba97db3", 
+      "venue": "Science", 
+      "year": 2006
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "0c9633aedafe4ee8cf238fa06c40b84f47e17362", 
+      "title": "Linear spatial pyramid matching using sparse coding for image classification", 
+      "url": "https://www.semanticscholar.org/paper/0c9633aedafe4ee8cf238fa06c40b84f47e17362", 
+      "venue": "2009 IEEE Conference on Computer Vision and Pattern Recognition", 
+      "year": 2009
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "50353738eb935a0546aeb2e81882e2f334e32ab8", 
+      "title": "Sampling Methods for the Nystr\u00f6m Method", 
+      "url": "https://www.semanticscholar.org/paper/50353738eb935a0546aeb2e81882e2f334e32ab8", 
+      "venue": "Journal of Machine Learning Research", 
+      "year": 2012
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "db7da80e5893735eca5f70ab06477bcb0d923918", 
+      "title": "Learning Local Image Descriptors", 
+      "url": "https://www.semanticscholar.org/paper/db7da80e5893735eca5f70ab06477bcb0d923918", 
+      "venue": "2007 IEEE Conference on Computer Vision and Pattern Recognition", 
+      "year": 2007
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "07f9592a78ff4f8301dafc93699a32e855da3275", 
+      "title": "Computational modelling of visual attention.", 
+      "url": "https://www.semanticscholar.org/paper/07f9592a78ff4f8301dafc93699a32e855da3275", 
+      "venue": "Nature reviews. Neuroscience", 
+      "year": 2001
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "5d9a3036181676e187c9c0ff995d8bed1db3557d", 
+      "title": "Adapting Visual Category Models to New Domains", 
+      "url": "https://www.semanticscholar.org/paper/5d9a3036181676e187c9c0ff995d8bed1db3557d", 
+      "venue": "ECCV", 
+      "year": 2010
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "5a8eb0f417c7c9aa50e0f5aa94accc8a3941e66c", 
+      "title": "Ask the locals: Multi-way local pooling for image recognition", 
+      "url": "https://www.semanticscholar.org/paper/5a8eb0f417c7c9aa50e0f5aa94accc8a3941e66c", 
+      "venue": "2011 International Conference on Computer Vision", 
+      "year": 2011
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "a5ee556c355392db1750df92ae2dc8867073e771", 
+      "title": "Improved Local Coordinate Coding using Local Tangents", 
+      "url": "https://www.semanticscholar.org/paper/a5ee556c355392db1750df92ae2dc8867073e771", 
+      "venue": "ICML", 
+      "year": 2010
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "4ab5790326a3570825c23a217614922f8f2ac786", 
+      "title": "Beyond spatial pyramids: Receptive field learning for pooled image features", 
+      "url": "https://www.semanticscholar.org/paper/4ab5790326a3570825c23a217614922f8f2ac786", 
+      "venue": "2012 IEEE Conference on Computer Vision and Pattern Recognition", 
+      "year": 2012
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "debe2623e987ab5b7224b1f3a4d72d7af5ed8911", 
+      "title": "Receptive fields, binocular interaction and functional architecture in the cat's visual cortex.", 
+      "url": "https://www.semanticscholar.org/paper/debe2623e987ab5b7224b1f3a4d72d7af5ed8911", 
+      "venue": "The Journal of physiology", 
+      "year": 1962
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "ada53a115e1551f3fbad3dc5930c1187473a78a4", 
+      "title": "Efficient Object Category Recognition Using Classemes", 
+      "url": "https://www.semanticscholar.org/paper/ada53a115e1551f3fbad3dc5930c1187473a78a4", 
+      "venue": "ECCV", 
+      "year": 2010
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "55af4d4e3d79863d8d744f4506fa82a30f291958", 
+      "title": "Grafting: Fast, Incremental Feature Selection by Gradient Descent in Function Space", 
+      "url": "https://www.semanticscholar.org/paper/55af4d4e3d79863d8d744f4506fa82a30f291958", 
+      "venue": "Journal of Machine Learning Research", 
+      "year": 2003
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "1d654461bcdebe895c9bed4bd951b40865637d87", 
+      "title": "Generalization, similarity, and Bayesian inference.", 
+      "url": "https://www.semanticscholar.org/paper/1d654461bcdebe895c9bed4bd951b40865637d87", 
+      "venue": "The Behavioral and brain sciences", 
+      "year": 2001
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "0b7c1bcd0289058b5dfc0d3ff114972712bc7f1a", 
+      "title": "Locality-constrained Linear Coding for image classification", 
+      "url": "https://www.semanticscholar.org/paper/0b7c1bcd0289058b5dfc0d3ff114972712bc7f1a", 
+      "venue": "2010 IEEE Computer Society Conference on Computer Vision and Pattern Recognition", 
+      "year": 2010
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "6f568d757d2c1ab42f2006faa25690b74c3d2d44", 
+      "title": "The Importance of Encoding Versus Training with Sparse Coding and Vector Quantization", 
+      "url": "https://www.semanticscholar.org/paper/6f568d757d2c1ab42f2006faa25690b74c3d2d44", 
+      "venue": "ICML", 
+      "year": 2011
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "2d6af4b5ef5eab25ddcc317c28be31ec9c2e3d7c", 
+      "title": "Object Detection with Discriminatively Trained Part-Based Models", 
+      "url": "https://www.semanticscholar.org/paper/2d6af4b5ef5eab25ddcc317c28be31ec9c2e3d7c", 
+      "venue": "IEEE Transactions on Pattern Analysis and Machine Intelligence", 
+      "year": 2010
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "1e511a36cd6c793189c544a6f935958a2d98a737", 
+      "title": "Unbiased look at dataset bias", 
+      "url": "https://www.semanticscholar.org/paper/1e511a36cd6c793189c544a6f935958a2d98a737", 
+      "venue": "CVPR", 
+      "year": 2011
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "15fa2bd90b93c7c2e882c0227bae3cfe50c4d0a1", 
+      "title": "Learning Generative Visual Models from Few Training Examples: An Incremental Bayesian Approach Tested on 101 Object Categories", 
+      "url": "https://www.semanticscholar.org/paper/15fa2bd90b93c7c2e882c0227bae3cfe50c4d0a1", 
+      "venue": "2004 Conference on Computer Vision and Pattern Recognition Workshop", 
+      "year": 2004
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "869171b2f56cfeaa9b81b2626cb4956fea590a57", 
+      "title": "Modeling the Shape of the Scene: A Holistic Representation of the Spatial Envelope", 
+      "url": "https://www.semanticscholar.org/paper/869171b2f56cfeaa9b81b2626cb4956fea590a57", 
+      "venue": "International Journal of Computer Vision", 
+      "year": 2001
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "6ccf50496e73a69535f50262bd3dba7548677fff", 
+      "title": "Clustering by passing messages between data points.", 
+      "url": "https://www.semanticscholar.org/paper/6ccf50496e73a69535f50262bd3dba7548677fff", 
+      "venue": "Science", 
+      "year": 2007
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "5c0fe8ba39bda83d6ca3b9705a780809d52a67b4", 
+      "title": "Unsupervised and Transfer Learning Challenge: a Deep Learning Approach", 
+      "url": "https://www.semanticscholar.org/paper/5c0fe8ba39bda83d6ca3b9705a780809d52a67b4", 
+      "venue": "ICML Unsupervised and Transfer Learning", 
+      "year": 2012
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "0122e063ca5f0f9fb9d144d44d41421503252010", 
+      "title": "Large Scale Distributed Deep Networks", 
+      "url": "https://www.semanticscholar.org/paper/0122e063ca5f0f9fb9d144d44d41421503252010", 
+      "venue": "NIPS", 
+      "year": 2012
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "60f22ad725f041fff81d6371242485bbe5c3ebb6", 
+      "title": "Deep learning with COTS HPC systems", 
+      "url": "https://www.semanticscholar.org/paper/60f22ad725f041fff81d6371242485bbe5c3ebb6", 
+      "venue": "ICML", 
+      "year": 2013
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "10d6b12fa07c7c8d6c8c3f42c7f1c061c131d4c5", 
+      "title": "Histograms of oriented gradients for human detection", 
+      "url": "https://www.semanticscholar.org/paper/10d6b12fa07c7c8d6c8c3f42c7f1c061c131d4c5", 
+      "venue": "2005 IEEE Computer Society Conference on Computer Vision and Pattern Recognition (CVPR'05)", 
+      "year": 2005
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "3b2697d76f035304bfeb57f6a682224c87645065", 
+      "title": "ImageNet Large Scale Visual Recognition Challenge", 
+      "url": "https://www.semanticscholar.org/paper/3b2697d76f035304bfeb57f6a682224c87645065", 
+      "venue": "International Journal of Computer Vision", 
+      "year": 2015
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "1896babd55ec63a1d374f2f8be52b9606838f548", 
+      "title": "Unsupervised Learning of a Probabilistic Grammar for Object Detection and Parsing", 
+      "url": "https://www.semanticscholar.org/paper/1896babd55ec63a1d374f2f8be52b9606838f548", 
+      "venue": "NIPS", 
+      "year": 2006
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "33da83b54410af11d0cd18fd07c74e1a99f67e84", 
+      "title": "DeCAF: A Deep Convolutional Activation Feature for Generic Visual Recognition", 
+      "url": "https://www.semanticscholar.org/paper/33da83b54410af11d0cd18fd07c74e1a99f67e84", 
+      "venue": "ICML", 
+      "year": 2014
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "2116b2eaaece4af9c28c32af2728f3d49b792cf9", 
+      "title": "Improving neural networks by preventing co-adaptation of feature detectors", 
+      "url": "https://www.semanticscholar.org/paper/2116b2eaaece4af9c28c32af2728f3d49b792cf9", 
+      "venue": "ArXiv", 
+      "year": 2012
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "0e650b5e54a3624792952899a0f79b91a1d68e79", 
+      "title": "One-shot learning of object categories", 
+      "url": "https://www.semanticscholar.org/paper/0e650b5e54a3624792952899a0f79b91a1d68e79", 
+      "venue": "IEEE Transactions on Pattern Analysis and Machine Intelligence", 
+      "year": 2006
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "27aadf6e7441bf40675874df1cf4bb7e2dffdd9e", 
+      "title": "Birdlets: Subordinate categorization using volumetric primitives and pose-normalized appearance", 
+      "url": "https://www.semanticscholar.org/paper/27aadf6e7441bf40675874df1cf4bb7e2dffdd9e", 
+      "venue": "2011 International Conference on Computer Vision", 
+      "year": 2011
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "217de4ff802d4904d3f90d2e24a29371307942fe", 
+      "title": "POOF: Part-Based One-vs.-One Features for Fine-Grained Categorization, Face Verification, and Attribute Estimation", 
+      "url": "https://www.semanticscholar.org/paper/217de4ff802d4904d3f90d2e24a29371307942fe", 
+      "venue": "2013 IEEE Conference on Computer Vision and Pattern Recognition", 
+      "year": 2013
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "268cd46a06e8e3052bbd64e96fac73d600430281", 
+      "title": "Distinctive Image Features from Scale-Invariant Keypoints", 
+      "url": "https://www.semanticscholar.org/paper/268cd46a06e8e3052bbd64e96fac73d600430281", 
+      "venue": "", 
+      "year": 2011
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "6309c102827985e2574ba42016b82a817172a6cc", 
+      "title": "Toward a universal law of generalization for psychological science.", 
+      "url": "https://www.semanticscholar.org/paper/6309c102827985e2574ba42016b82a817172a6cc", 
+      "venue": "Science", 
+      "year": 1987
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "a035cccf0f57b505229f0e5db1a1dfedde062d43", 
+      "title": "On the Impact of Kernel Approximation on Learning Accuracy", 
+      "url": "https://www.semanticscholar.org/paper/a035cccf0f57b505229f0e5db1a1dfedde062d43", 
+      "venue": "AISTATS", 
+      "year": 2010
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "05c8590b8ed480852891a12fb6259c914b0b2ca4", 
+      "title": "Linear unlearning for cross-validation", 
+      "url": "https://www.semanticscholar.org/paper/05c8590b8ed480852891a12fb6259c914b0b2ca4", 
+      "venue": "Adv. Comput. Math.", 
+      "year": 1996
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "10eb7bfa7687f498268bdf74b2f60020a151bdc6", 
+      "title": "Visualizing Data using t-SNE", 
+      "url": "https://www.semanticscholar.org/paper/10eb7bfa7687f498268bdf74b2f60020a151bdc6", 
+      "venue": "", 
+      "year": 2008
+    }
+  ], 
+  "title": "Learning Semantic Image Representations at a Large Scale", 
+  "url": "https://www.semanticscholar.org/paper/8a382f000f98cdab7f7b79e543c75c6b8f93b6f9", 
+  "venue": "", 
+  "year": 2014
+}

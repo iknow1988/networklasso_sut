@@ -1,0 +1,764 @@
+{
+  "authors": [
+    {
+      "authorId": "1716301", 
+      "name": "Robert E. Schapire", 
+      "url": "https://www.semanticscholar.org/author/1716301"
+    }, 
+    {
+      "authorId": "1818832", 
+      "name": "Marie Rochery", 
+      "url": "https://www.semanticscholar.org/author/1818832"
+    }, 
+    {
+      "authorId": "1781583", 
+      "name": "Mazin G. Rahim", 
+      "url": "https://www.semanticscholar.org/author/1781583"
+    }, 
+    {
+      "authorId": "2569245", 
+      "name": "Narendra K. Gupta", 
+      "url": "https://www.semanticscholar.org/author/2569245"
+    }
+  ], 
+  "citationVelocity": 0, 
+  "citations": [
+    {
+      "isInfluential": false, 
+      "paperId": "d760e387fdd5eb8ed9f0f27860f1b506c3bf2c76", 
+      "title": "Perception-based approach in recognition of structured patterns", 
+      "url": "https://www.semanticscholar.org/paper/d760e387fdd5eb8ed9f0f27860f1b506c3bf2c76", 
+      "venue": "2010 Second World Congress on Nature and Biologically Inspired Computing (NaBIC)", 
+      "year": 2010
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "377ba65f0fd061e97fe380595431c3ce839e9b5b", 
+      "title": "Generalized Expectation Criteria for Semi-Supervised Learning of Conditional Random Fields", 
+      "url": "https://www.semanticscholar.org/paper/377ba65f0fd061e97fe380595431c3ce839e9b5b", 
+      "venue": "ACL", 
+      "year": 2008
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "4871bfdb9298c46cd98ffb9171eea92101964c0d", 
+      "title": "Building ubiquitous and robust speech and natural language interfaces", 
+      "url": "https://www.semanticscholar.org/paper/4871bfdb9298c46cd98ffb9171eea92101964c0d", 
+      "venue": "IUI", 
+      "year": 2007
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "5906d07d7d46dcc2bfd71d2b3a34ed44fe8df7dc", 
+      "title": "Beyond ASR 1-best: Using word confusion networks in spoken language understanding", 
+      "url": "https://www.semanticscholar.org/paper/5906d07d7d46dcc2bfd71d2b3a34ed44fe8df7dc", 
+      "venue": "Computer Speech & Language", 
+      "year": 2006
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "89e1de88f3f25a2581b4a0caaeb995c5a5b13005", 
+      "title": "Learning to Rank with Labeled Features", 
+      "url": "https://www.semanticscholar.org/paper/89e1de88f3f25a2581b4a0caaeb995c5a5b13005", 
+      "venue": "ICTIR", 
+      "year": 2016
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "5a01f853e382c00d7728ae4fb29ecef0e5c82066", 
+      "title": "Named Entity Recognition for Vietnamese Documents Using Semi-supervised Learning Method of CRFs with Generalized Expectation Criteria", 
+      "url": "https://www.semanticscholar.org/paper/5a01f853e382c00d7728ae4fb29ecef0e5c82066", 
+      "venue": "2012 International Conference on Asian Language Processing", 
+      "year": 2012
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "c254e8e1a3bba5f4dfa869fdec2dd37a92a04feb", 
+      "title": "L1 vs. L2 Regularization in Text Classification when Learning from Labeled Features", 
+      "url": "https://www.semanticscholar.org/paper/c254e8e1a3bba5f4dfa869fdec2dd37a92a04feb", 
+      "venue": "2011 10th International Conference on Machine Learning and Applications and Workshops", 
+      "year": 2011
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "ac481ceb085d769e5b4d28fbe77f6e58e380a918", 
+      "title": "Active Learning without Knowing Individual Instance Labels: A Pairwise Label Homogeneity Query Approach", 
+      "url": "https://www.semanticscholar.org/paper/ac481ceb085d769e5b4d28fbe77f6e58e380a918", 
+      "venue": "IEEE Transactions on Knowledge and Data Engineering", 
+      "year": 2014
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "1c4b3171e8fd51e0b31b7c5ed6c6b13ab6a9f982", 
+      "title": "Active Dual Supervision: Reducing the Cost of Annotating Examples and Features", 
+      "url": "https://www.semanticscholar.org/paper/1c4b3171e8fd51e0b31b7c5ed6c6b13ab6a9f982", 
+      "venue": "", 
+      "year": 2009
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "4c3c47ac37cd1c50ea1ee9e09bb2ab7e046cf698", 
+      "title": "Robustly Leveraging Prior Knowledge in Text Classification", 
+      "url": "https://www.semanticscholar.org/paper/4c3c47ac37cd1c50ea1ee9e09bb2ab7e046cf698", 
+      "venue": "ArXiv", 
+      "year": 2015
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "dbd69402b3cde122b8c9fa37152f79b613b78fd2", 
+      "title": "Lattice kernels for spoken-dialog classification", 
+      "url": "https://www.semanticscholar.org/paper/dbd69402b3cde122b8c9fa37152f79b613b78fd2", 
+      "venue": "ICASSP", 
+      "year": 2003
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "5c392177a567ec68f96a33ecfa17f636493204df", 
+      "title": "Self-training from labeled features for sentiment analysis", 
+      "url": "https://www.semanticscholar.org/paper/5c392177a567ec68f96a33ecfa17f636493204df", 
+      "venue": "Inf. Process. Manage.", 
+      "year": 2011
+    }, 
+    {
+      "isInfluential": true, 
+      "paperId": "656937bf547f7bb299fe00c104b2643c2ad192bc", 
+      "title": "Incorporating prior knowledge into a transductive ranking algorithm for multi-document summarization", 
+      "url": "https://www.semanticscholar.org/paper/656937bf547f7bb299fe00c104b2643c2ad192bc", 
+      "venue": "SIGIR", 
+      "year": 2009
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "114c00cd0134a39b9510f62f66e0a1b468920176", 
+      "title": "Document-Word Co-regularization for Semi-supervised Sentiment Analysis", 
+      "url": "https://www.semanticscholar.org/paper/114c00cd0134a39b9510f62f66e0a1b468920176", 
+      "venue": "2008 Eighth IEEE International Conference on Data Mining", 
+      "year": 2008
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "69008c2a04af9d5d7894ff64ae1b67352b4e2c10", 
+      "title": "Learning to Adapt Across Multimedia Domains", 
+      "url": "https://www.semanticscholar.org/paper/69008c2a04af9d5d7894ff64ae1b67352b4e2c10", 
+      "venue": "", 
+      "year": 2007
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "7437aae9bf347ab4ba4057f28df5f2eaf64d8fdc", 
+      "title": "Class Imbalance and Active Learning", 
+      "url": "https://www.semanticscholar.org/paper/7437aae9bf347ab4ba4057f28df5f2eaf64d8fdc", 
+      "venue": "", 
+      "year": 2011
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "9b136e425624c6f0fb9f5c7d16d228200ac7083e", 
+      "title": "Incorporating Background Knowledge into Text Categorization for Improved Sentiment Analysis", 
+      "url": "https://www.semanticscholar.org/paper/9b136e425624c6f0fb9f5c7d16d228200ac7083e", 
+      "venue": "", 
+      "year": 2008
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "32b8b44431b242ecfc23520784a7c26365baa1d5", 
+      "title": "Model Adaptation For Spoken Language Understanding", 
+      "url": "https://www.semanticscholar.org/paper/32b8b44431b242ecfc23520784a7c26365baa1d5", 
+      "venue": "ICASSP", 
+      "year": 2005
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "f52a0965bb9d874217910126d583e7f5d3b6e6ec", 
+      "title": "Domain Adaptation for Text Categorization by Feature Labeling", 
+      "url": "https://www.semanticscholar.org/paper/f52a0965bb9d874217910126d583e7f5d3b6e6ec", 
+      "venue": "ECIR", 
+      "year": 2011
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "68ff793c31dad287b52e389da1c5b0122bf0b244", 
+      "title": "Constructing informative prior distributions from domain knowledge in text classification", 
+      "url": "https://www.semanticscholar.org/paper/68ff793c31dad287b52e389da1c5b0122bf0b244", 
+      "venue": "SIGIR", 
+      "year": 2006
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "ab44e1264e22f559b3fd87fb23cc3ec7a53e3fa3", 
+      "title": "Semi-supervised boosting using visual similarity learning", 
+      "url": "https://www.semanticscholar.org/paper/ab44e1264e22f559b3fd87fb23cc3ec7a53e3fa3", 
+      "venue": "2008 IEEE Conference on Computer Vision and Pattern Recognition", 
+      "year": 2008
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "67f999c79164e7fc3ef730f6ef8e69ff618f486e", 
+      "title": "Comparing Knowledge-Based Sampling to Boosting", 
+      "url": "https://www.semanticscholar.org/paper/67f999c79164e7fc3ef730f6ef8e69ff618f486e", 
+      "venue": "", 
+      "year": 2005
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "68e5cbfd35447f9727a9b55006644f4087e74d17", 
+      "title": "Articles: Robust Understanding in Multimodal Interfaces", 
+      "url": "https://www.semanticscholar.org/paper/68e5cbfd35447f9727a9b55006644f4087e74d17", 
+      "venue": "", 
+      "year": 2009
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "28bd795c580ca24f40dc82cd01d9d277749d2661", 
+      "title": "Site-adaptation methods for face recognition", 
+      "url": "https://www.semanticscholar.org/paper/28bd795c580ca24f40dc82cd01d9d277749d2661", 
+      "venue": "", 
+      "year": 2010
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "6e6735e290216cc5f294fe76e9211e5263e7a7fd", 
+      "title": "Deep Feature Learning Using Target Priors with Applications in ECoG Signal Decoding for BCI", 
+      "url": "https://www.semanticscholar.org/paper/6e6735e290216cc5f294fe76e9211e5263e7a7fd", 
+      "venue": "IJCAI", 
+      "year": 2013
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "921de768086f34be41bebbbc19867ae918993bc2", 
+      "title": "Intelligent virtual agents for contact center automation", 
+      "url": "https://www.semanticscholar.org/paper/921de768086f34be41bebbbc19867ae918993bc2", 
+      "venue": "IEEE Signal Processing Magazine", 
+      "year": 2005
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "c95a0e0821cf0b8e06e7c98d3cf8ec1c7db2c6f9", 
+      "title": "Incorporating Sentiment Prior Knowledge for Weakly Supervised Sentiment Analysis", 
+      "url": "https://www.semanticscholar.org/paper/c95a0e0821cf0b8e06e7c98d3cf8ec1c7db2c6f9", 
+      "venue": "ACM Trans. Asian Lang. Inf. Process.", 
+      "year": 2012
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "0af105cb73bf43c15be19238f6b61d73c1953597", 
+      "title": "Multiclass Learning by Probabilistic Embeddings", 
+      "url": "https://www.semanticscholar.org/paper/0af105cb73bf43c15be19238f6b61d73c1953597", 
+      "venue": "NIPS", 
+      "year": 2002
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "1ef6f103f3e176d1f77d63d513faf37a845e9302", 
+      "title": "Eksairesis: A Domain-Adaptable System for Ontology Building from Unstructured Text", 
+      "url": "https://www.semanticscholar.org/paper/1ef6f103f3e176d1f77d63d513faf37a845e9302", 
+      "venue": "LREC", 
+      "year": 2008
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "9b66e1532cc2c3493f0f9ad74e74574f392587e6", 
+      "title": "Categorisation of web documents using extraction ontologies", 
+      "url": "https://www.semanticscholar.org/paper/9b66e1532cc2c3493f0f9ad74e74574f392587e6", 
+      "venue": "IJMSO", 
+      "year": 2008
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "d781a60f7090222631c555b87da02ced570caabe", 
+      "title": "Site-adaptive face recognition", 
+      "url": "https://www.semanticscholar.org/paper/d781a60f7090222631c555b87da02ced570caabe", 
+      "venue": "2010 Fourth IEEE International Conference on Biometrics: Theory, Applications and Systems (BTAS)", 
+      "year": 2010
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "15ba2a5f25d447540d5b341bfa9f25629a59eda4", 
+      "title": "A Unified Approach to Active Dual Supervision for Labeling Features and Examples", 
+      "url": "https://www.semanticscholar.org/paper/15ba2a5f25d447540d5b341bfa9f25629a59eda4", 
+      "venue": "ECML/PKDD", 
+      "year": 2010
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "11e7e2c0b4351adc429a77e998e12d10c5357b4f", 
+      "title": "Construction of Deterministic, Consistent, and Stable Explanations from Numerical Data and Prior Domain Knowledge", 
+      "url": "https://www.semanticscholar.org/paper/11e7e2c0b4351adc429a77e998e12d10c5357b4f", 
+      "venue": "", 
+      "year": 2007
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "75d28cc9879449b9044ccdac3c8d27378c00ebe0", 
+      "title": "Managing Domain Knowledge and Multiple Models with Boosting", 
+      "url": "https://www.semanticscholar.org/paper/75d28cc9879449b9044ccdac3c8d27378c00ebe0", 
+      "venue": "IJCAI", 
+      "year": 2007
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "82a40a158366e32ffff0473dcb7d49d9f59c5294", 
+      "title": "Extracting Researcher Metadata with Labeled Features", 
+      "url": "https://www.semanticscholar.org/paper/82a40a158366e32ffff0473dcb7d49d9f59c5294", 
+      "venue": "SDM", 
+      "year": 2014
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "d4af71f0a2b74e504d1cc2eb118b371fdfdc4d25", 
+      "title": "An interactive algorithm for asking and incorporating feature feedback into support vector machines", 
+      "url": "https://www.semanticscholar.org/paper/d4af71f0a2b74e504d1cc2eb118b371fdfdc4d25", 
+      "venue": "SIGIR", 
+      "year": 2007
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "5bb8a88854a8f1d363feb23bf324aaefa97c0075", 
+      "title": "Bootstrapping spoken dialogue systems by exploiting reusable libraries", 
+      "url": "https://www.semanticscholar.org/paper/5bb8a88854a8f1d363feb23bf324aaefa97c0075", 
+      "venue": "Natural Language Engineering", 
+      "year": 2008
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "a937c7cbb38d26dbc1d2769780cde6e0c7cc5d90", 
+      "title": "Offline Generation of High Quality Background Subtraction Data", 
+      "url": "https://www.semanticscholar.org/paper/a937c7cbb38d26dbc1d2769780cde6e0c7cc5d90", 
+      "venue": "BMVC", 
+      "year": 2005
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "ce2a1a2e9457f0b61bc416c4247d415e96e9e9fe", 
+      "title": "Ensemble Learning of Economic Taxonomy Relations from Modern Greek Corpora", 
+      "url": "https://www.semanticscholar.org/paper/ce2a1a2e9457f0b61bc416c4247d415e96e9e9fe", 
+      "venue": "MTSR", 
+      "year": 2007
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "845d45eebab986f94d32b8f763992f7a7f2ea630", 
+      "title": "Combining active and semi-supervised learning for spoken language understanding", 
+      "url": "https://www.semanticscholar.org/paper/845d45eebab986f94d32b8f763992f7a7f2ea630", 
+      "venue": "Speech Communication", 
+      "year": 2005
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "f14e9b4ab911b80e2c6cb8e46c128501ee49200f", 
+      "title": "Weighted Automata Kernels \u2013 General F", 
+      "url": "https://www.semanticscholar.org/paper/f14e9b4ab911b80e2c6cb8e46c128501ee49200f", 
+      "venue": "", 
+      "year": 2003
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "2b8cd43636d5964763109c4dff05d024a36628c6", 
+      "title": "Offline Generation of High Quality Background Subtraction Data", 
+      "url": "https://www.semanticscholar.org/paper/2b8cd43636d5964763109c4dff05d024a36628c6", 
+      "venue": "", 
+      "year": null
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "a13efe823096f60ad73a7cb4d6866a74760622a1", 
+      "title": "Practical use of non-local features for statistical spoken language understanding", 
+      "url": "https://www.semanticscholar.org/paper/a13efe823096f60ad73a7cb4d6866a74760622a1", 
+      "venue": "Computer Speech & Language", 
+      "year": 2008
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "4cd2ffebffd60708fb958c82b5fc72813fb9a1dd", 
+      "title": "Incorporating prior knowledge with weighted margin support vector machines", 
+      "url": "https://www.semanticscholar.org/paper/4cd2ffebffd60708fb958c82b5fc72813fb9a1dd", 
+      "venue": "KDD", 
+      "year": 2004
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "0aa7fdb4aaeab91be7e7c2f89c4fc8d5c4195773", 
+      "title": "Automatically Generating Annotator Rationales to Improve Sentiment Classification", 
+      "url": "https://www.semanticscholar.org/paper/0aa7fdb4aaeab91be7e7c2f89c4fc8d5c4195773", 
+      "venue": "ACL", 
+      "year": 2010
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "3f8fd770440593846124d61293fe4268c7bf0c89", 
+      "title": "Bootstrapping Spoken Dialog Systems with Data Reuse", 
+      "url": "https://www.semanticscholar.org/paper/3f8fd770440593846124d61293fe4268c7bf0c89", 
+      "venue": "SIGDIAL Workshop", 
+      "year": 2004
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "5221e620f79d14573c36dafa96169d897c9d1ed9", 
+      "title": "SERBoost: Semi-supervised Boosting with Expectation Regularization", 
+      "url": "https://www.semanticscholar.org/paper/5221e620f79d14573c36dafa96169d897c9d1ed9", 
+      "venue": "ECCV", 
+      "year": 2008
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "33c7f812cb7fdd8564ba2dc14474f8130deaf21a", 
+      "title": "Simple, robust, scalable semi-supervised learning via expectation regularization", 
+      "url": "https://www.semanticscholar.org/paper/33c7f812cb7fdd8564ba2dc14474f8130deaf21a", 
+      "venue": "ICML", 
+      "year": 2007
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "131524710adc4d1e7473c453aeb41b97daa64883", 
+      "title": "Inferring latent attributes of Twitter users with label regularization", 
+      "url": "https://www.semanticscholar.org/paper/131524710adc4d1e7473c453aeb41b97daa64883", 
+      "venue": "HLT-NAACL", 
+      "year": 2015
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "1dd090a2de6f730d8993fe2de208fddd5554d64b", 
+      "title": "Weighted automata kernels - general framework and algorithms", 
+      "url": "https://www.semanticscholar.org/paper/1dd090a2de6f730d8993fe2de208fddd5554d64b", 
+      "venue": "INTERSPEECH", 
+      "year": 2003
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "0c637a43493d30bd32783a8fbbb11d41dbce42dc", 
+      "title": "Reducing Annotation Effort using Generalized Expectation Criteria", 
+      "url": "https://www.semanticscholar.org/paper/0c637a43493d30bd32783a8fbbb11d41dbce42dc", 
+      "venue": "", 
+      "year": 2007
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "10fd14429b03fadb81dede3ddb01efb6dbdd7868", 
+      "title": "When will Feature Feedback help? Quantifying the Complexity of Classification Problems", 
+      "url": "https://www.semanticscholar.org/paper/10fd14429b03fadb81dede3ddb01efb6dbdd7868", 
+      "venue": "", 
+      "year": 2007
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "f04a8ead7f4427861fcf57734b87d0c6d6155f02", 
+      "title": "PRE-PRINT (Do Not Redistribute) Simple, Robust, Scalable Semi-supervised Learning via Expectation Regularization", 
+      "url": "https://www.semanticscholar.org/paper/f04a8ead7f4427861fcf57734b87d0c6d6155f02", 
+      "venue": "", 
+      "year": 2007
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "c4b45b8f16002f5e92db2f163867807f17e05920", 
+      "title": "Knowledge-Supervised Learning by Co-clustering Based Approach", 
+      "url": "https://www.semanticscholar.org/paper/c4b45b8f16002f5e92db2f163867807f17e05920", 
+      "venue": "2008 Seventh International Conference on Machine Learning and Applications", 
+      "year": 2008
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "510bd55446eb3d3d596b5262d18f45886dae3a9b", 
+      "title": "Sentiment analysis of blogs by combining lexical knowledge with text classification", 
+      "url": "https://www.semanticscholar.org/paper/510bd55446eb3d3d596b5262d18f45886dae3a9b", 
+      "venue": "KDD", 
+      "year": 2009
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "42c812d8f2631b3a56f69d898db3ea4c85709b0a", 
+      "title": "Study of Fast Video Discrimination System of Vehicles under Complicated Road Environment", 
+      "url": "https://www.semanticscholar.org/paper/42c812d8f2631b3a56f69d898db3ea4c85709b0a", 
+      "venue": "2009 2nd International Congress on Image and Signal Processing", 
+      "year": 2009
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "11b1a4e2daf8e39de0757ba369c53c319a1efe3f", 
+      "title": "PhD Thesis Semi-Supervised Ensemble Methods for Computer Vision", 
+      "url": "https://www.semanticscholar.org/paper/11b1a4e2daf8e39de0757ba369c53c319a1efe3f", 
+      "venue": "", 
+      "year": 2010
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "1112f183f285ed59abd62937ae237c717cf0e213", 
+      "title": "Optimizing SVMs for complex call classification", 
+      "url": "https://www.semanticscholar.org/paper/1112f183f285ed59abd62937ae237c717cf0e213", 
+      "venue": "ICASSP", 
+      "year": 2003
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "1436d72a51feefda3278068a164d263f6d845236", 
+      "title": "Interactive Learning a Person Detector: Fewer Clicks \u2013 Less Frustration1", 
+      "url": "https://www.semanticscholar.org/paper/1436d72a51feefda3278068a164d263f6d845236", 
+      "venue": "", 
+      "year": 2008
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "73375c39a957f24aaee71f53f4587d8a847b3f3b", 
+      "title": "Latent Sentiment Model for Weakly-Supervised Cross-Lingual Sentiment Classification", 
+      "url": "https://www.semanticscholar.org/paper/73375c39a957f24aaee71f53f4587d8a847b3f3b", 
+      "venue": "ECIR", 
+      "year": 2011
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "32443ae107062b4e7b7a0d89ec773efe83b1b76e", 
+      "title": "Towards a Universal Text Classifier: Transfer Learning Using Encyclopedic Knowledge", 
+      "url": "https://www.semanticscholar.org/paper/32443ae107062b4e7b7a0d89ec773efe83b1b76e", 
+      "venue": "2009 IEEE International Conference on Data Mining Workshops", 
+      "year": 2009
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "5961f919062323a4f8091b93d5aa9c7911fce4fe", 
+      "title": "Sampling-based sequential subgroup mining", 
+      "url": "https://www.semanticscholar.org/paper/5961f919062323a4f8091b93d5aa9c7911fce4fe", 
+      "venue": "KDD", 
+      "year": 2005
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "b8e261b0f83ee173770e02742dec3966b9cf65e7", 
+      "title": "Exploring Representations from Unlabeled Data with Co-training for Chinese Word Segmentation", 
+      "url": "https://www.semanticscholar.org/paper/b8e261b0f83ee173770e02742dec3966b9cf65e7", 
+      "venue": "EMNLP", 
+      "year": 2013
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "29cf0f90efde06de482c9bae6f2fcf19c7180a6c", 
+      "title": "A Non-negative Matrix Tri-factorization Approach to Sentiment Classification with Lexical Prior Knowledge", 
+      "url": "https://www.semanticscholar.org/paper/29cf0f90efde06de482c9bae6f2fcf19c7180a6c", 
+      "venue": "ACL/IJCNLP", 
+      "year": 2009
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "81ffb6e2ee3c7b10e3e26154775b3f393da7c4e2", 
+      "title": "InterActive Feature Selection", 
+      "url": "https://www.semanticscholar.org/paper/81ffb6e2ee3c7b10e3e26154775b3f393da7c4e2", 
+      "venue": "IJCAI", 
+      "year": 2005
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "51c2d398d8499074f4098a381d15e6ce124520dd", 
+      "title": "Semi-Supervised Sequence Labeling with Self-Learned Features", 
+      "url": "https://www.semanticscholar.org/paper/51c2d398d8499074f4098a381d15e6ce124520dd", 
+      "venue": "2009 Ninth IEEE International Conference on Data Mining", 
+      "year": 2009
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "2aa8ab10f5b681b2db2b44baef1b336a4dc5d0f1", 
+      "title": "A probabilistic prior knowledge integration method: Application to generative and discriminative models", 
+      "url": "https://www.semanticscholar.org/paper/2aa8ab10f5b681b2db2b44baef1b336a4dc5d0f1", 
+      "venue": "2016 International Joint Conference on Neural Networks (IJCNN)", 
+      "year": 2016
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "932fa4707d6a552b21b27e544c315ebab281060e", 
+      "title": "Improving text classification for oral history archives with temporal domain knowledge", 
+      "url": "https://www.semanticscholar.org/paper/932fa4707d6a552b21b27e544c315ebab281060e", 
+      "venue": "SIGIR", 
+      "year": 2007
+    }, 
+    {
+      "isInfluential": true, 
+      "paperId": "b62c81269e1d13bcae9c15db335887db990e5860", 
+      "title": "Generalized Expectation Criteria for Semi-Supervised Learning with Weakly Labeled Data", 
+      "url": "https://www.semanticscholar.org/paper/b62c81269e1d13bcae9c15db335887db990e5860", 
+      "venue": "Journal of Machine Learning Research", 
+      "year": 2010
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "226e2d55766a2093162ecf2ef52118106ab06128", 
+      "title": "Combining labeled and unlabeled data with word-class distribution learning", 
+      "url": "https://www.semanticscholar.org/paper/226e2d55766a2093162ecf2ef52118106ab06128", 
+      "venue": "CIKM", 
+      "year": 2009
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "94fee5717e393e6d745974b62c225bd477ce3d72", 
+      "title": "Teaching with Examples in A Real Environment", 
+      "url": "https://www.semanticscholar.org/paper/94fee5717e393e6d745974b62c225bd477ce3d72", 
+      "venue": "", 
+      "year": 2013
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "151bb53770499f3cb7dc45b0bde6153352c93199", 
+      "title": "Robust visual tracking via online semi-supervised co-boosting", 
+      "url": "https://www.semanticscholar.org/paper/151bb53770499f3cb7dc45b0bde6153352c93199", 
+      "venue": "Multimedia Systems", 
+      "year": 2015
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "c76ee0755144d5ef3a8d5d6a11a7592467accf1a", 
+      "title": "Mutually beneficial learning with application to on-line news classification", 
+      "url": "https://www.semanticscholar.org/paper/c76ee0755144d5ef3a8d5d6a11a7592467accf1a", 
+      "venue": "PIKM", 
+      "year": 2007
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "35de12d0b56582afddb44f9c2bdde87048e0c43e", 
+      "title": "Active Learning with Feedback on Both Features and Instances", 
+      "url": "https://www.semanticscholar.org/paper/35de12d0b56582afddb44f9c2bdde87048e0c43e", 
+      "venue": "", 
+      "year": 2006
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "efe4a7d95b837ed5aba6d93ab27e71e39f7a4d96", 
+      "title": "Advances in Boosting (Invited Talk)", 
+      "url": "https://www.semanticscholar.org/paper/efe4a7d95b837ed5aba6d93ab27e71e39f7a4d96", 
+      "venue": "ArXiv", 
+      "year": 2011
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "e6af4a8431694fcf4fc6fa67f07fba0602726149", 
+      "title": "Leveraging Existing Resources using Generalized Expectation Criteria", 
+      "url": "https://www.semanticscholar.org/paper/e6af4a8431694fcf4fc6fa67f07fba0602726149", 
+      "venue": "", 
+      "year": 2007
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "4c29940ef7665ed5a6d9be72260eba488473461d", 
+      "title": "Selective Data Acquisition for Machine Learning", 
+      "url": "https://www.semanticscholar.org/paper/4c29940ef7665ed5a6d9be72260eba488473461d", 
+      "venue": "", 
+      "year": 2010
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "aa055e645b38b95b22584c5a0366f4c81a7d1952", 
+      "title": "Incorporating Prior Knowledge into Boosting for Multi-Label Classification XiaoWang", 
+      "url": "https://www.semanticscholar.org/paper/aa055e645b38b95b22584c5a0366f4c81a7d1952", 
+      "venue": "", 
+      "year": 2011
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "06751bb04020288ef1831e0e1ab6ecb0aec88aaa", 
+      "title": "On the Empirical Complexity of Text Classification Problems", 
+      "url": "https://www.semanticscholar.org/paper/06751bb04020288ef1831e0e1ab6ecb0aec88aaa", 
+      "venue": "", 
+      "year": 2009
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "2a27d4c259331ccbb909cddeb9f9a9149dbb3912", 
+      "title": "Learning from labeled features using generalized expectation criteria", 
+      "url": "https://www.semanticscholar.org/paper/2a27d4c259331ccbb909cddeb9f9a9149dbb3912", 
+      "venue": "SIGIR", 
+      "year": 2008
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "841bb18ddf10ed75fb226fc274e2079a46aad424", 
+      "title": "A Data Mining Approach for Retailing Bank Customer Attrition Analysis", 
+      "url": "https://www.semanticscholar.org/paper/841bb18ddf10ed75fb226fc274e2079a46aad424", 
+      "venue": "Applied Intelligence", 
+      "year": 2004
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "27a93ed699df0257e1ab806dd2e6a63473a16a09", 
+      "title": "Exploiting Unlabeled Utterances for Sp", 
+      "url": "https://www.semanticscholar.org/paper/27a93ed699df0257e1ab806dd2e6a63473a16a09", 
+      "venue": "", 
+      "year": 2003
+    }
+  ], 
+  "doi": null, 
+  "influentialCitationCount": 2, 
+  "paperId": "b23ff7a5c0e614926151157e7596b2b23c6676a1", 
+  "references": [
+    {
+      "isInfluential": false, 
+      "paperId": "bff8252c3d7a2557e8a4bbbc94079d23c7c8d9fd", 
+      "title": "NewsWeeder: Learning to Filter Netnews", 
+      "url": "https://www.semanticscholar.org/paper/bff8252c3d7a2557e8a4bbbc94079d23c7c8d9fd", 
+      "venue": "ICML", 
+      "year": 1995
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "52e5a4ea046a056d265326ee345acb48de99bc3c", 
+      "title": "A decision-theoretic generalization of on-line learning and an application to boosting", 
+      "url": "https://www.semanticscholar.org/paper/52e5a4ea046a056d265326ee345acb48de99bc3c", 
+      "venue": "EuroCOLT", 
+      "year": 1995
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "1a0a415178d20754418987e312681f3fb0b40257", 
+      "title": "Unsupervised Models For Named Entity Classification", 
+      "url": "https://www.semanticscholar.org/paper/1a0a415178d20754418987e312681f3fb0b40257", 
+      "venue": "", 
+      "year": 1999
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "5a1fc4283d9317d7573b7c308b8155d67d82d330", 
+      "title": "How may I help you?", 
+      "url": "https://www.semanticscholar.org/paper/5a1fc4283d9317d7573b7c308b8155d67d82d330", 
+      "venue": "Speech Communication", 
+      "year": 1997
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "2e9d7c03aadb30c8619bd3be76ae6bb51cef521f", 
+      "title": "Combining prior knowledge and boosting for call classification in spoken language dialogue", 
+      "url": "https://www.semanticscholar.org/paper/2e9d7c03aadb30c8619bd3be76ae6bb51cef521f", 
+      "venue": "2002 IEEE International Conference on Acoustics, Speech, and Signal Processing", 
+      "year": 2002
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "0a08e9f40f035d41ff95f962df0206fbf9dfd397", 
+      "title": "Logistic Regression, AdaBoost and Bregman Distances", 
+      "url": "https://www.semanticscholar.org/paper/0a08e9f40f035d41ff95f962df0206fbf9dfd397", 
+      "venue": "Machine Learning", 
+      "year": 2000
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "673a851db00c835d17788b8a6cb7b470de493fb8", 
+      "title": "Heterogeneous Uncertainty Sampling for Supervised Learning", 
+      "url": "https://www.semanticscholar.org/paper/673a851db00c835d17788b8a6cb7b470de493fb8", 
+      "venue": "", 
+      "year": 1994
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "c6c492ce8227c38c6d24183a2d5c37d89bfd05dc", 
+      "title": "Improved Boosting Algorithms Using Confidence-rated Predictions", 
+      "url": "https://www.semanticscholar.org/paper/c6c492ce8227c38c6d24183a2d5c37d89bfd05dc", 
+      "venue": "", 
+      "year": 1999
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "15a3ed7dfc005aa6f84f1e1fb81ef6d54ce3d8aa", 
+      "title": "Combining Labeled and Unlabeled Data with Co-Training", 
+      "url": "https://www.semanticscholar.org/paper/15a3ed7dfc005aa6f84f1e1fb81ef6d54ce3d8aa", 
+      "venue": "", 
+      "year": 1998
+    }
+  ], 
+  "title": "Incorporating Prior Knowledge into Boosting", 
+  "url": "https://www.semanticscholar.org/paper/b23ff7a5c0e614926151157e7596b2b23c6676a1", 
+  "venue": "ICML", 
+  "year": 2002
+}

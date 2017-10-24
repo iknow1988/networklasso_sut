@@ -1,0 +1,572 @@
+{
+  "authors": [
+    {
+      "authorId": "1731979", 
+      "name": "Minghui Li", 
+      "url": "https://www.semanticscholar.org/author/1731979"
+    }, 
+    {
+      "authorId": "1703009", 
+      "name": "Lei Lin", 
+      "url": "https://www.semanticscholar.org/author/1703009"
+    }, 
+    {
+      "authorId": "1709719", 
+      "name": "Xiaolong Wang", 
+      "url": "https://www.semanticscholar.org/author/1709719"
+    }, 
+    {
+      "authorId": "1720321", 
+      "name": "Tao Liu", 
+      "url": "https://www.semanticscholar.org/author/1720321"
+    }
+  ], 
+  "citationVelocity": 0, 
+  "citations": [
+    {
+      "isInfluential": false, 
+      "paperId": "0445ef3a4b90def8821ff231fc0a959b6a55050c", 
+      "title": "Identifying Protein-Protein Interaction Sites Using Covering Algorithm", 
+      "url": "https://www.semanticscholar.org/paper/0445ef3a4b90def8821ff231fc0a959b6a55050c", 
+      "venue": "International journal of molecular sciences", 
+      "year": 2009
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "361d74e920443da73289ba1ae4749d69e4fdc768", 
+      "title": "A primal sub-gradient method for structured classification with the averaged sum loss", 
+      "url": "https://www.semanticscholar.org/paper/361d74e920443da73289ba1ae4749d69e4fdc768", 
+      "venue": "Applied Mathematics and Computer Science", 
+      "year": 2014
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "d8df8eface4a6c6902dc15209f9b9d4a2cd98db2", 
+      "title": "Conditional Random Fields for Classification of Protein Families: An Alternative to Hidden Markov Models", 
+      "url": "https://www.semanticscholar.org/paper/d8df8eface4a6c6902dc15209f9b9d4a2cd98db2", 
+      "venue": "", 
+      "year": 2007
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "3c4f276273ccdb4cc3d3f6352b455ffda879f6a2", 
+      "title": "Computational Biology and Chemistry", 
+      "url": "https://www.semanticscholar.org/paper/3c4f276273ccdb4cc3d3f6352b455ffda879f6a2", 
+      "venue": "", 
+      "year": 2009
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "1a5d9e39728a2e15aecb8f91449eb6e51703ec84", 
+      "title": "Protein Binding Site Prediction by Combining Hidden Markov Support Vector Machine and Profile-Based Propensities", 
+      "url": "https://www.semanticscholar.org/paper/1a5d9e39728a2e15aecb8f91449eb6e51703ec84", 
+      "venue": "TheScientificWorldJournal", 
+      "year": 2014
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "7a7959d39ce0835b460ec3efcf74f2001dd91ff5", 
+      "title": "Binding Site Prediction for Protein-Protein Interactions and Novel Motif Discovery using Re-occurring Polypeptide Sequences", 
+      "url": "https://www.semanticscholar.org/paper/7a7959d39ce0835b460ec3efcf74f2001dd91ff5", 
+      "venue": "BMC Bioinformatics", 
+      "year": 2011
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "7013479be7dda124750aa22fb6231eea2671f630", 
+      "title": "Survey of Natural Language Processing Techniques in Bioinformatics", 
+      "url": "https://www.semanticscholar.org/paper/7013479be7dda124750aa22fb6231eea2671f630", 
+      "venue": "Comp. Math. Methods in Medicine", 
+      "year": 2015
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "59ec7e5e7feaf73bd512fcdd1a1aff13acacb0b7", 
+      "title": "CRF-based models of protein surfaces improve protein-protein interaction site predictions", 
+      "url": "https://www.semanticscholar.org/paper/59ec7e5e7feaf73bd512fcdd1a1aff13acacb0b7", 
+      "venue": "BMC Bioinformatics", 
+      "year": 2013
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "413e455a90ab31940f461ac5c2434008cc6523d8", 
+      "title": "Prediction of protein\u2013protein interaction sites by means of ensemble learning and weighted feature descriptor", 
+      "url": "https://www.semanticscholar.org/paper/413e455a90ab31940f461ac5c2434008cc6523d8", 
+      "venue": "Journal of Biological Research-Thessaloniki", 
+      "year": 2016
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "9d4addaefe3f91e7b4931e35c8894ba82f5cea48", 
+      "title": "A Novel Feature Extraction Scheme with Ensemble Coding for Protein\u2013Protein Interaction Prediction", 
+      "url": "https://www.semanticscholar.org/paper/9d4addaefe3f91e7b4931e35c8894ba82f5cea48", 
+      "venue": "International journal of molecular sciences", 
+      "year": 2014
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "da63e7d8eba2dddb6f45ac13c6c770a80f3f7ca6", 
+      "title": "Proteome-scale Protein-protein Interaction Site Prediction and Novel Motif Discovery Using Re-occurring Polypeptide Sequences", 
+      "url": "https://www.semanticscholar.org/paper/da63e7d8eba2dddb6f45ac13c6c770a80f3f7ca6", 
+      "venue": "", 
+      "year": 2010
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "ac0f379c07953f12122e73a541c59f3bff8b8e02", 
+      "title": "Grammatical-Restrained Hidden Conditional Random Fields for Bioinformatics applications", 
+      "url": "https://www.semanticscholar.org/paper/ac0f379c07953f12122e73a541c59f3bff8b8e02", 
+      "venue": "Algorithms for Molecular Biology", 
+      "year": 2009
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "4c9ec261cf5c5a682c7a2baa24dbf1015f4fba0b", 
+      "title": "Prediction of Protein-Protein Interaction Sites by Random Forest Algorithm with mRMR and IFS", 
+      "url": "https://www.semanticscholar.org/paper/4c9ec261cf5c5a682c7a2baa24dbf1015f4fba0b", 
+      "venue": "PloS one", 
+      "year": 2012
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "1a2265e05db691ddcceb3308539af601ecc120e0", 
+      "title": "Protein docking prediction using predicted protein-protein interface", 
+      "url": "https://www.semanticscholar.org/paper/1a2265e05db691ddcceb3308539af601ecc120e0", 
+      "venue": "BMC Bioinformatics", 
+      "year": 2011
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "fd560bddf05aa7183f2e8f98996e812cc15eed01", 
+      "title": "Progress and challenges in predicting protein-protein interaction sites", 
+      "url": "https://www.semanticscholar.org/paper/fd560bddf05aa7183f2e8f98996e812cc15eed01", 
+      "venue": "Briefings in Bioinformatics", 
+      "year": 2009
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "33d40307bae2faa334378f702271f28297a899ff", 
+      "title": "Structural deformation upon protein-protein interaction: A structural alphabet approach", 
+      "url": "https://www.semanticscholar.org/paper/33d40307bae2faa334378f702271f28297a899ff", 
+      "venue": "BMC Structural Biology", 
+      "year": 2007
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "4536ebfd524c21f86bbe510211daa5e8c22f48e6", 
+      "title": "Progress and challenges in predicting protein interfaces", 
+      "url": "https://www.semanticscholar.org/paper/4536ebfd524c21f86bbe510211daa5e8c22f48e6", 
+      "venue": "Briefings in Bioinformatics", 
+      "year": 2016
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "00c3b7b328d7735af5af9284bc58d24d0dae7030", 
+      "title": "Structure-based prediction of protein-protein interaction sites", 
+      "url": "https://www.semanticscholar.org/paper/00c3b7b328d7735af5af9284bc58d24d0dae7030", 
+      "venue": "", 
+      "year": 2015
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "228f1d53e6b064bfe84c1000d21797db51de6145", 
+      "title": "Algorithmic approaches to protein-protein interaction site prediction", 
+      "url": "https://www.semanticscholar.org/paper/228f1d53e6b064bfe84c1000d21797db51de6145", 
+      "venue": "Algorithms for Molecular Biology", 
+      "year": 2015
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "93ce2bde1d89b1cd2e391a167db1a24319751957", 
+      "title": "Identifying protein\u2013protein interaction sites in transient complexes with temperature factor, sequence profile and accessible surface area", 
+      "url": "https://www.semanticscholar.org/paper/93ce2bde1d89b1cd2e391a167db1a24319751957", 
+      "venue": "Amino Acids", 
+      "year": 2009
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "123e037c6bdf41c0dbe0658b4066355a23770e9c", 
+      "title": "Ligand-binding Residue Prediction", 
+      "url": "https://www.semanticscholar.org/paper/123e037c6bdf41c0dbe0658b4066355a23770e9c", 
+      "venue": "", 
+      "year": 2010
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "454c0a4eb77a66fd3cd6050a94f422b1c546354e", 
+      "title": "Protein-protein interaction prediction via Collective Matrix Factorization", 
+      "url": "https://www.semanticscholar.org/paper/454c0a4eb77a66fd3cd6050a94f422b1c546354e", 
+      "venue": "BIBM", 
+      "year": 2010
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "bb7e8df1ba21bdb019c070fed2d59bc0779ec34d", 
+      "title": "Interaction-site prediction for protein complexes: a critical assessment", 
+      "url": "https://www.semanticscholar.org/paper/bb7e8df1ba21bdb019c070fed2d59bc0779ec34d", 
+      "venue": "Bioinformatics", 
+      "year": 2007
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "f20fe36e4e31fa4d60996713fa73bc90c7ef3b88", 
+      "title": "Time Evolving Undirected Graphical Model for Protein-Protein Interaction Networks", 
+      "url": "https://www.semanticscholar.org/paper/f20fe36e4e31fa4d60996713fa73bc90c7ef3b88", 
+      "venue": "", 
+      "year": 2017
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "3461e52c9a8acc68d7c8d0ef39329338f9428f31", 
+      "title": "Improving homology models for protein-ligand binding sites.", 
+      "url": "https://www.semanticscholar.org/paper/3461e52c9a8acc68d7c8d0ef39329338f9428f31", 
+      "venue": "Computational systems bioinformatics. Computational Systems Bioinformatics Conference", 
+      "year": 2008
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "a8c07456291b6c6226a99196b56207b229ff9afb", 
+      "title": "A Protein Secondary Structure Prediction Tool Using Two-Level Strategy to Improve the Prediction Accuracy of Secondary Structures and Structure Boundaries", 
+      "url": "https://www.semanticscholar.org/paper/a8c07456291b6c6226a99196b56207b229ff9afb", 
+      "venue": "2009 International Conference on Information Engineering and Computer Science", 
+      "year": 2009
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "5d04e5d18c117f22336bdb118da645fde84eb5b8", 
+      "title": "Protein-Protein Interface Prediction based on a Novel SVM Speedup", 
+      "url": "https://www.semanticscholar.org/paper/5d04e5d18c117f22336bdb118da645fde84eb5b8", 
+      "venue": "", 
+      "year": 2010
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "c99aa3837ea3851ca375295f25e1cb25e5524288", 
+      "title": "Transient protein-protein interface prediction: datasets, features, algorithms, and the RAD-T predictor", 
+      "url": "https://www.semanticscholar.org/paper/c99aa3837ea3851ca375295f25e1cb25e5524288", 
+      "venue": "BMC Bioinformatics", 
+      "year": 2013
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "443d8417eb4653951478e222f7b89b0b666656d5", 
+      "title": "Prediction of protein binding sites in protein structures using hidden Markov support vector machine", 
+      "url": "https://www.semanticscholar.org/paper/443d8417eb4653951478e222f7b89b0b666656d5", 
+      "venue": "BMC Bioinformatics", 
+      "year": 2009
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "d282e3f6b53692f683aefef3ae6360833e37f0a4", 
+      "title": "Prediction of Protein-Protein Interaction Sites Based on Naive Bayes Classifier", 
+      "url": "https://www.semanticscholar.org/paper/d282e3f6b53692f683aefef3ae6360833e37f0a4", 
+      "venue": "Biochemistry research international", 
+      "year": 2015
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "8ae15103714a31344394c2a3e6cabb95f91ae64a", 
+      "title": "Prediction of protein-protein interaction sites using an ensemble method", 
+      "url": "https://www.semanticscholar.org/paper/8ae15103714a31344394c2a3e6cabb95f91ae64a", 
+      "venue": "BMC Bioinformatics", 
+      "year": 2009
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "a3d4ce2890a259258a4c67da61ecd3cc7c0a0ae8", 
+      "title": "Exploiting residue-level and profile-level interface propensities for usage in binding sites prediction of proteins", 
+      "url": "https://www.semanticscholar.org/paper/a3d4ce2890a259258a4c67da61ecd3cc7c0a0ae8", 
+      "venue": "BMC Bioinformatics", 
+      "year": 2007
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "0abcbba1fff483cba53dcf771a3696691c3f4cd6", 
+      "title": "Protein-Protein Interaction Site Predictions with Three-Dimensional Probability Distributions of Interacting Atoms on Protein Surfaces", 
+      "url": "https://www.semanticscholar.org/paper/0abcbba1fff483cba53dcf771a3696691c3f4cd6", 
+      "venue": "PloS one", 
+      "year": 2012
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "8a11f25e044358f6205c00b3b858bbfe6366c466", 
+      "title": "Marginal Structured SVM with Hidden Variables", 
+      "url": "https://www.semanticscholar.org/paper/8a11f25e044358f6205c00b3b858bbfe6366c466", 
+      "venue": "ICML", 
+      "year": 2014
+    }
+  ], 
+  "doi": "10.1093/bioinformatics/btl660", 
+  "influentialCitationCount": 0, 
+  "paperId": "a1878bbd6a66b2b8d784244ff1cd221fc30d6140", 
+  "references": [
+    {
+      "isInfluential": false, 
+      "paperId": "24beb987b722d4a25d3157a43000e685aa8f8874", 
+      "title": "A Maximum Entropy Model For Part-Of-Speech Tagging", 
+      "url": "https://www.semanticscholar.org/paper/24beb987b722d4a25d3157a43000e685aa8f8874", 
+      "venue": "", 
+      "year": 1996
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "09f23fbe1b131e89397a5d0ff86e60293085c3eb", 
+      "title": "Improving the understanding of human genetic diseases through predictions of protein structures and protein-protein interaction sites.", 
+      "url": "https://www.semanticscholar.org/paper/09f23fbe1b131e89397a5d0ff86e60293085c3eb", 
+      "venue": "Current medicinal chemistry", 
+      "year": 2004
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "24770585a6aa3dead91b5ad42bb151b1ae70b316", 
+      "title": "Maximum Entropy Markov Models for Information Extraction and Segmentation", 
+      "url": "https://www.semanticscholar.org/paper/24770585a6aa3dead91b5ad42bb151b1ae70b316", 
+      "venue": "ICML", 
+      "year": 2000
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "16f555ce0839358116264b406b5a3c9e85d67866", 
+      "title": "Protein secondary structure prediction based on an improved support vector machines approach.", 
+      "url": "https://www.semanticscholar.org/paper/16f555ce0839358116264b406b5a3c9e85d67866", 
+      "venue": "Protein engineering", 
+      "year": 2003
+    }, 
+    {
+      "isInfluential": true, 
+      "paperId": "132aa333744286909f540b77c56cf2dd62ab9e5c", 
+      "title": "Exploiting sequence and structure homologs to identify protein-protein binding sites.", 
+      "url": "https://www.semanticscholar.org/paper/132aa333744286909f540b77c56cf2dd62ab9e5c", 
+      "venue": "Proteins", 
+      "year": 2006
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "3b5c2d9fed54f0c67e156c3f37e6174e5369f0fa", 
+      "title": "Segmentation Conditional Random Fields (SCRFs): A New Approach for Protein Fold Recognition", 
+      "url": "https://www.semanticscholar.org/paper/3b5c2d9fed54f0c67e156c3f37e6174e5369f0fa", 
+      "venue": "RECOMB", 
+      "year": 2005
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "01f1085a5d480db6920f2920ec3eed11aa7e4272", 
+      "title": "Protein binding site prediction using an empirical scoring function", 
+      "url": "https://www.semanticscholar.org/paper/01f1085a5d480db6920f2920ec3eed11aa7e4272", 
+      "venue": "Nucleic acids research", 
+      "year": 2006
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "213446a0fe40436a8761f7e07e6dc94b173dd9be", 
+      "title": "Functional insights from the structure of the 30S ribosomal subunit and its interactions with antibiotics.", 
+      "url": "https://www.semanticscholar.org/paper/213446a0fe40436a8761f7e07e6dc94b173dd9be", 
+      "venue": "Nature", 
+      "year": 2000
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "f460dd6683d708b64bb46af7ff105b6743f0d077", 
+      "title": "The ConSurf-HSSP database: the mapping of evolutionary conservation among homologs onto PDB structures.", 
+      "url": "https://www.semanticscholar.org/paper/f460dd6683d708b64bb46af7ff105b6743f0d077", 
+      "venue": "Proteins", 
+      "year": 2005
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "2fa45efab4cf58dbbdf2e13a9ed4a3903f7bb16a", 
+      "title": "Whole-proteome prediction of protein function via graph-theoretic analysis of interaction maps", 
+      "url": "https://www.semanticscholar.org/paper/2fa45efab4cf58dbbdf2e13a9ed4a3903f7bb16a", 
+      "venue": "ISMB", 
+      "year": 2005
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "5744578cc243d92287f47448870bb426c66cc941", 
+      "title": "MUC-7 Named Entity Task Definition (Version 3.5)", 
+      "url": "https://www.semanticscholar.org/paper/5744578cc243d92287f47448870bb426c66cc941", 
+      "venue": "", 
+      "year": 1998
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "6873a4db9703c9bf38ddabf9abed17ac5b673b59", 
+      "title": "A Tutorial on Hidden Markov Models and Selected Applications in Speech Recognition", 
+      "url": "https://www.semanticscholar.org/paper/6873a4db9703c9bf38ddabf9abed17ac5b673b59", 
+      "venue": "", 
+      "year": 1989
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "0033a0c1a842acbf89e5fa9b3b6b84d7e3545c6d", 
+      "title": "Gapped BLAST and PSI-BLAST: a new generation of protein database search programs.", 
+      "url": "https://www.semanticscholar.org/paper/0033a0c1a842acbf89e5fa9b3b6b84d7e3545c6d", 
+      "venue": "Nucleic acids research", 
+      "year": 1997
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "846b0edecdbd8b4808b54bafef3b21f4913862d3", 
+      "title": "Structures of two streptococcal superantigens bound to TCR beta chains reveal diversity in the architecture of T cell signaling complexes.", 
+      "url": "https://www.semanticscholar.org/paper/846b0edecdbd8b4808b54bafef3b21f4913862d3", 
+      "venue": "Structure", 
+      "year": 2002
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "0c7f52c753a65ceaf3755e20b906ffd0c05c994a", 
+      "title": "Conditional Random Fields: Probabilistic Models for Segmenting and Labeling Sequence Data", 
+      "url": "https://www.semanticscholar.org/paper/0c7f52c753a65ceaf3755e20b906ffd0c05c994a", 
+      "venue": "ICML", 
+      "year": 2001
+    }, 
+    {
+      "isInfluential": true, 
+      "paperId": "dbdbd37f746bef589721eefab430a5afad99057e", 
+      "title": "Prediction of protein interaction sites from sequence profile and residue neighbor list.", 
+      "url": "https://www.semanticscholar.org/paper/dbdbd37f746bef589721eefab430a5afad99057e", 
+      "venue": "Proteins", 
+      "year": 2001
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "0b58b4b1ec57a80303a9842bc0d7d7d776d308ab", 
+      "title": "An evolution based classifier for prediction of protein interfaces without using protein structures", 
+      "url": "https://www.semanticscholar.org/paper/0b58b4b1ec57a80303a9842bc0d7d7d776d308ab", 
+      "venue": "Bioinformatics", 
+      "year": 2005
+    }, 
+    {
+      "isInfluential": true, 
+      "paperId": "99ebe86ebc9364a0006e231ece73bdd6ff5f65c7", 
+      "title": "BLAST: at the core of a powerful and diverse set of sequence analysis tools", 
+      "url": "https://www.semanticscholar.org/paper/99ebe86ebc9364a0006e231ece73bdd6ff5f65c7", 
+      "venue": "Nucleic Acids Research", 
+      "year": 2004
+    }, 
+    {
+      "isInfluential": true, 
+      "paperId": "0e6ef2809bad0965b3df599b05be1e6d859d5543", 
+      "title": "The Protein Data Bank", 
+      "url": "https://www.semanticscholar.org/paper/0e6ef2809bad0965b3df599b05be1e6d859d5543", 
+      "venue": "Nucleic Acids Research", 
+      "year": 2000
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "ab1ae42083cbae4968cffed0b9e13967144681f6", 
+      "title": "Conservation and prediction of solvent accessibility in protein families.", 
+      "url": "https://www.semanticscholar.org/paper/ab1ae42083cbae4968cffed0b9e13967144681f6", 
+      "venue": "Proteins", 
+      "year": 1994
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "460847f967c0d949b36cc5135ae8e072cc3a4a98", 
+      "title": "Improved prediction of protein-Cprotein binding sites using a support vector machines approach", 
+      "url": "https://www.semanticscholar.org/paper/460847f967c0d949b36cc5135ae8e072cc3a4a98", 
+      "venue": "Bioinformatics", 
+      "year": 2005
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "76182c9a21dda0ba4c434d45c6b1d1ae3809efbc", 
+      "title": "A Maximum Entropy Approach to Adaptive Statistical Language Modeling", 
+      "url": "https://www.semanticscholar.org/paper/76182c9a21dda0ba4c434d45c6b1d1ae3809efbc", 
+      "venue": "", 
+      "year": 1996
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "2a5cf68f1cacfedbab691b96e4a98e31fb51aa18", 
+      "title": "HADDOCK: a protein-protein docking approach based on biochemical or biophysical information.", 
+      "url": "https://www.semanticscholar.org/paper/2a5cf68f1cacfedbab691b96e4a98e31fb51aa18", 
+      "venue": "Journal of the American Chemical Society", 
+      "year": 2003
+    }, 
+    {
+      "isInfluential": true, 
+      "paperId": "2be575c1dd28e97c9b458c4374af035fa5d6ca40", 
+      "title": "Prediction of Protein Interaction Sites and Protein-Protein Interaction Pairs Using Support Vector Machines", 
+      "url": "https://www.semanticscholar.org/paper/2be575c1dd28e97c9b458c4374af035fa5d6ca40", 
+      "venue": "", 
+      "year": 2003
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "02c8a0bc8bab9920e6615cfacf1df2ab3f2b1f68", 
+      "title": "Information Extraction with HMM Structures Learned by Stochastic Optimization", 
+      "url": "https://www.semanticscholar.org/paper/02c8a0bc8bab9920e6615cfacf1df2ab3f2b1f68", 
+      "venue": "AAAI/IAAI", 
+      "year": 2000
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "0193dddadc147209d1ef1b05527b3ebab1bab0a8", 
+      "title": "Evolutionary traces of functional surfaces along G protein signaling pathway.", 
+      "url": "https://www.semanticscholar.org/paper/0193dddadc147209d1ef1b05527b3ebab1bab0a8", 
+      "venue": "Methods in enzymology", 
+      "year": 2002
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "351eb4349b706761ccabd621c5155c80d703c783", 
+      "title": "Predicting protein function from protein/protein interaction data: a probabilistic approach", 
+      "url": "https://www.semanticscholar.org/paper/351eb4349b706761ccabd621c5155c80d703c783", 
+      "venue": "ISMB", 
+      "year": 2003
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "61ae640609d310abf9b6cb3baa0cd5aed4025fa0", 
+      "title": "Predicted protein-protein interaction sites from local sequence information.", 
+      "url": "https://www.semanticscholar.org/paper/61ae640609d310abf9b6cb3baa0cd5aed4025fa0", 
+      "venue": "FEBS letters", 
+      "year": 2003
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "aec7fa0ec61a37e1cd274c17b326aa15c2b7ed08", 
+      "title": "Structure and stability of cohesin's Smc1-kleisin interaction.", 
+      "url": "https://www.semanticscholar.org/paper/aec7fa0ec61a37e1cd274c17b326aa15c2b7ed08", 
+      "venue": "Molecular cell", 
+      "year": 2004
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "71831f96bf26aa23b1872f294440c59c610ea1a4", 
+      "title": "Prediction and confirmation of a site critical for effector regulation of RGS domain activity.", 
+      "url": "https://www.semanticscholar.org/paper/71831f96bf26aa23b1872f294440c59c610ea1a4", 
+      "venue": "Nature structural biology", 
+      "year": 2001
+    }, 
+    {
+      "isInfluential": true, 
+      "paperId": "b358a62d650e3e90a1b4e86dc57ca3c19707916a", 
+      "title": "Prediction of interface residues in protein-protein complexes by a consensus neural network method: test against NMR data.", 
+      "url": "https://www.semanticscholar.org/paper/b358a62d650e3e90a1b4e86dc57ca3c19707916a", 
+      "venue": "Proteins", 
+      "year": 2005
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "2fcda810f3f43cd1aaeea04782ae4234cb61a3f8", 
+      "title": "Dictionary of protein secondary structure: pattern recognition of hydrogen-bonded and geometrical features.", 
+      "url": "https://www.semanticscholar.org/paper/2fcda810f3f43cd1aaeea04782ae4234cb61a3f8", 
+      "venue": "Biopolymers", 
+      "year": 1983
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "fc0fb35a747ce67b0216432300c7828839cd4cde", 
+      "title": "Predicting protein interaction sites from residue spatial sequence profile and evolution rate.", 
+      "url": "https://www.semanticscholar.org/paper/fc0fb35a747ce67b0216432300c7828839cd4cde", 
+      "venue": "FEBS letters", 
+      "year": 2006
+    }
+  ], 
+  "title": "Protein-protein interaction site prediction based on conditional random fields", 
+  "url": "https://www.semanticscholar.org/paper/a1878bbd6a66b2b8d784244ff1cd221fc30d6140", 
+  "venue": "Bioinformatics", 
+  "year": 2007
+}

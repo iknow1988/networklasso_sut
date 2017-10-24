@@ -1,0 +1,871 @@
+{
+  "authors": [
+    {
+      "authorId": "1735299", 
+      "name": "Xin Geng", 
+      "url": "https://www.semanticscholar.org/author/1735299"
+    }, 
+    {
+      "authorId": "1907144", 
+      "name": "Chao Yin", 
+      "url": "https://www.semanticscholar.org/author/1907144"
+    }, 
+    {
+      "authorId": "1692625", 
+      "name": "Zhi-Hua Zhou", 
+      "url": "https://www.semanticscholar.org/author/1692625"
+    }
+  ], 
+  "citationVelocity": 37, 
+  "citations": [
+    {
+      "isInfluential": false, 
+      "paperId": "bbb30d97724bec85007a991d9cacd60dd718348d", 
+      "title": "Partial Label Learning via Feature-Aware Disambiguation", 
+      "url": "https://www.semanticscholar.org/paper/bbb30d97724bec85007a991d9cacd60dd718348d", 
+      "venue": "KDD", 
+      "year": 2016
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "bcc5cbbb540ee66dc8b9a3453b506e895d8395de", 
+      "title": "Joint Estimation of Pose and Face Landmark", 
+      "url": "https://www.semanticscholar.org/paper/bcc5cbbb540ee66dc8b9a3453b506e895d8395de", 
+      "venue": "ACCV", 
+      "year": 2014
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "7c139ca5f7dc4770d3b21224e09c3a5495155aef", 
+      "title": "Pre-release Prediction of Crowd Opinion on Movies by Label Distribution Learning", 
+      "url": "https://www.semanticscholar.org/paper/7c139ca5f7dc4770d3b21224e09c3a5495155aef", 
+      "venue": "IJCAI", 
+      "year": 2015
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "01a6bdb550e8084791be536fffe6a37b5614eb3a", 
+      "title": "Soft-Margin Mixture of Regressions", 
+      "url": "https://www.semanticscholar.org/paper/01a6bdb550e8084791be536fffe6a37b5614eb3a", 
+      "venue": "", 
+      "year": null
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "21a23085c0e0b8ffe927f405f7ee8c0b369810d3", 
+      "title": "Multilabel Ranking with Inconsistent Rankers", 
+      "url": "https://www.semanticscholar.org/paper/21a23085c0e0b8ffe927f405f7ee8c0b369810d3", 
+      "venue": "2014 IEEE Conference on Computer Vision and Pattern Recognition", 
+      "year": 2014
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "5abcd9bf9c017ce39eee318db9350383948d3650", 
+      "title": "Deep Label Distribution Learning for Apparent Age Estimation", 
+      "url": "https://www.semanticscholar.org/paper/5abcd9bf9c017ce39eee318db9350383948d3650", 
+      "venue": "2015 IEEE International Conference on Computer Vision Workshop (ICCVW)", 
+      "year": 2015
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "7220090ec024ed61d2d8cfc022a5bc670b8e27ac", 
+      "title": "Age Estimation Based on Complexity-Aware Features", 
+      "url": "https://www.semanticscholar.org/paper/7220090ec024ed61d2d8cfc022a5bc670b8e27ac", 
+      "venue": "ACCV", 
+      "year": 2014
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "d333565805aaa3b2f1d6a18b388052e1231e7363", 
+      "title": "Estimating Age Value from Super-Resolution Reconstruction Facial Images", 
+      "url": "https://www.semanticscholar.org/paper/d333565805aaa3b2f1d6a18b388052e1231e7363", 
+      "venue": "JCP", 
+      "year": 2014
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "807bad00615c5570e1c0f347f4c5030277cb42ca", 
+      "title": "Multi-Label Manifold Learning", 
+      "url": "https://www.semanticscholar.org/paper/807bad00615c5570e1c0f347f4c5030277cb42ca", 
+      "venue": "AAAI", 
+      "year": 2016
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "a01f9461bc8cf8fe40c26d223ab1abea5d8e2812", 
+      "title": "Facial Age Estimation Through the Fusion of Texture and Local Appearance Descriptors", 
+      "url": "https://www.semanticscholar.org/paper/a01f9461bc8cf8fe40c26d223ab1abea5d8e2812", 
+      "venue": "ECCV Workshops", 
+      "year": 2014
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "3568d5136c166557d8983bf2df9f210972a37b2a", 
+      "title": "Age estimation with dynamic age range", 
+      "url": "https://www.semanticscholar.org/paper/3568d5136c166557d8983bf2df9f210972a37b2a", 
+      "venue": "Multimedia Tools and Applications", 
+      "year": 2015
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "d80159bbe1d576d147ca9adbc9339a05fe3bab28", 
+      "title": "Demographic Analysis from Biometric Data: Achievements, Challenges, and New Frontiers.", 
+      "url": "https://www.semanticscholar.org/paper/d80159bbe1d576d147ca9adbc9339a05fe3bab28", 
+      "venue": "IEEE transactions on pattern analysis and machine intelligence", 
+      "year": 2017
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "66238e0a3767164dc4c8026b4c03b305573bb22a", 
+      "title": "Directional Age-Primitive Pattern (DAPP) for Human Age Group Recognition and Age Estimation", 
+      "url": "https://www.semanticscholar.org/paper/66238e0a3767164dc4c8026b4c03b305573bb22a", 
+      "venue": "IEEE Transactions on Information Forensics and Security", 
+      "year": 2017
+    }, 
+    {
+      "isInfluential": true, 
+      "paperId": "1114fe5870779e638dd3c2410b2bb47ca8593b5a", 
+      "title": "Partial Least Squares Regression Based Facial Age Estimation", 
+      "url": "https://www.semanticscholar.org/paper/1114fe5870779e638dd3c2410b2bb47ca8593b5a", 
+      "venue": "22017 IEEE International Conference on Computational Science and Engineering (CSE) and IEEE International Conference on Embedded and Ubiquitous Computing (EUC)", 
+      "year": 2017
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "d79530e1745b33f3b771d0b38d090b40afc04191", 
+      "title": "A new method to estimate ages of facial image for large database", 
+      "url": "https://www.semanticscholar.org/paper/d79530e1745b33f3b771d0b38d090b40afc04191", 
+      "venue": "Multimedia Tools and Applications", 
+      "year": 2015
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "f4a9647a9ffc7723a51448003f70cff356c7d2c6", 
+      "title": "Beyond Bilinear: Generalized Multi-modal Factorized High-order Pooling for Visual Question Answering", 
+      "url": "https://www.semanticscholar.org/paper/f4a9647a9ffc7723a51448003f70cff356c7d2c6", 
+      "venue": "", 
+      "year": 2017
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "500fbe18afd44312738cab91b4689c12b4e0eeee", 
+      "title": "ChaLearn looking at people 2015 new competitions: Age estimation and cultural event recognition", 
+      "url": "https://www.semanticscholar.org/paper/500fbe18afd44312738cab91b4689c12b4e0eeee", 
+      "venue": "2015 International Joint Conference on Neural Networks (IJCNN)", 
+      "year": 2015
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "5058a7ec68c32984c33f357ebaee96c59e269425", 
+      "title": "A Comparative Evaluation of Regression Learning Algorithms for Facial Age Estimation", 
+      "url": "https://www.semanticscholar.org/paper/5058a7ec68c32984c33f357ebaee96c59e269425", 
+      "venue": "FFER@ICPR", 
+      "year": 2014
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "2c9c068f42db3ae0009fb724a0e4c9021894f607", 
+      "title": "Kernel ELM and CNN Based Facial Age Estimation", 
+      "url": "https://www.semanticscholar.org/paper/2c9c068f42db3ae0009fb724a0e4c9021894f607", 
+      "venue": "2016 IEEE Conference on Computer Vision and Pattern Recognition Workshops (CVPRW)", 
+      "year": 2016
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "711fc2872ad7d536ae87653efd1115e295955321", 
+      "title": "A Procedural Texture Generation Framework Based on Semantic Descriptions", 
+      "url": "https://www.semanticscholar.org/paper/711fc2872ad7d536ae87653efd1115e295955321", 
+      "venue": "ArXiv", 
+      "year": 2017
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "162dfd0d2c9f3621d600e8a3790745395ab25ebc", 
+      "title": "Head Pose Estimation Based on Multivariate Label Distribution", 
+      "url": "https://www.semanticscholar.org/paper/162dfd0d2c9f3621d600e8a3790745395ab25ebc", 
+      "venue": "2014 IEEE Conference on Computer Vision and Pattern Recognition", 
+      "year": 2014
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "935a7793cbb8f102924fa34fce1049727de865c2", 
+      "title": "Age estimation under changes in image quality: An experimental study", 
+      "url": "https://www.semanticscholar.org/paper/935a7793cbb8f102924fa34fce1049727de865c2", 
+      "venue": "2015 IEEE International Conference on Image Processing (ICIP)", 
+      "year": 2015
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "33554ff9d1d3b32f67020598320d3d761d7ec81f", 
+      "title": "Label Distribution Learning Forests", 
+      "url": "https://www.semanticscholar.org/paper/33554ff9d1d3b32f67020598320d3d761d7ec81f", 
+      "venue": "ArXiv", 
+      "year": 2017
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "d252e10024a22c8274ae67dbf37aa854d75a85f2", 
+      "title": "Joint Gender Classification and Age Estimation by Nearly Orthogonalizing Their Semantic Spaces", 
+      "url": "https://www.semanticscholar.org/paper/d252e10024a22c8274ae67dbf37aa854d75a85f2", 
+      "venue": "ArXiv", 
+      "year": 2016
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "f19527b2ceabf50831e78ac04161107c936efb2b", 
+      "title": "Discriminative Sparse Neighbor Approximation for Imbalanced Learning", 
+      "url": "https://www.semanticscholar.org/paper/f19527b2ceabf50831e78ac04161107c936efb2b", 
+      "venue": "IEEE transactions on neural networks and learning systems", 
+      "year": 2017
+    }, 
+    {
+      "isInfluential": true, 
+      "paperId": "a53d13b9110cddb2a5f38b9d7ed69d328e3c6db9", 
+      "title": "Cost-Sensitive Local Binary Feature Learning for Facial Age Estimation", 
+      "url": "https://www.semanticscholar.org/paper/a53d13b9110cddb2a5f38b9d7ed69d328e3c6db9", 
+      "venue": "IEEE Transactions on Image Processing", 
+      "year": 2015
+    }, 
+    {
+      "isInfluential": true, 
+      "paperId": "a9e59ce0a198fc80544eed05fc32f579cda29c38", 
+      "title": "Facial age estimation by using stacked feature composition and selection", 
+      "url": "https://www.semanticscholar.org/paper/a9e59ce0a198fc80544eed05fc32f579cda29c38", 
+      "venue": "The Visual Computer", 
+      "year": 2015
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "a05b1254630257fe27ee195ef05cc50ce6e41f22", 
+      "title": "Facial age estimation using hybrid Haar wavelet and color features with Support Vector Regression", 
+      "url": "https://www.semanticscholar.org/paper/a05b1254630257fe27ee195ef05cc50ce6e41f22", 
+      "venue": "2017 Artificial Intelligence and Robotics (IRANOPEN)", 
+      "year": 2017
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "f25af91c87eb2b855ef996db328a20d1260010a5", 
+      "title": "Hybrid constraint SVR for facial age estimation", 
+      "url": "https://www.semanticscholar.org/paper/f25af91c87eb2b855ef996db328a20d1260010a5", 
+      "venue": "Signal Processing", 
+      "year": 2014
+    }, 
+    {
+      "isInfluential": true, 
+      "paperId": "cb7a743b9811d20682c13c4ee7b791ff01c62155", 
+      "title": "VRank: Voting system on Ranking model for human age estimation", 
+      "url": "https://www.semanticscholar.org/paper/cb7a743b9811d20682c13c4ee7b791ff01c62155", 
+      "venue": "2015 IEEE 17th International Workshop on Multimedia Signal Processing (MMSP)", 
+      "year": 2015
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "ee65cee5151928c63d3ef36fcbb582fabb2b6d2c", 
+      "title": "Structure-Aware Slow Feature Analysis for Age Estimation", 
+      "url": "https://www.semanticscholar.org/paper/ee65cee5151928c63d3ef36fcbb582fabb2b6d2c", 
+      "venue": "IEEE Signal Processing Letters", 
+      "year": 2016
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "d28e21498aada1a1a66d431d12f035fb108885d6", 
+      "title": "A Unified Gender-Aware Age Estimation", 
+      "url": "https://www.semanticscholar.org/paper/d28e21498aada1a1a66d431d12f035fb108885d6", 
+      "venue": "ArXiv", 
+      "year": 2016
+    }, 
+    {
+      "isInfluential": true, 
+      "paperId": "f8d7584011c0679891564bf216f1fbfc93147354", 
+      "title": "Facial Age Estimation Using Robust Label Distribution", 
+      "url": "https://www.semanticscholar.org/paper/f8d7584011c0679891564bf216f1fbfc93147354", 
+      "venue": "ACM Multimedia", 
+      "year": 2016
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "0c3b8aaf306f9b61ae51559bcb9dec4fc7bac434", 
+      "title": "Fusing shape and texture information for facial age estimation", 
+      "url": "https://www.semanticscholar.org/paper/0c3b8aaf306f9b61ae51559bcb9dec4fc7bac434", 
+      "venue": "2011 IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP)", 
+      "year": 2011
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "1f41a96589c5b5cee4a55fc7c2ce33e1854b09d6", 
+      "title": "Demographic Estimation from Face Images: Human vs. Machine Performance", 
+      "url": "https://www.semanticscholar.org/paper/1f41a96589c5b5cee4a55fc7c2ce33e1854b09d6", 
+      "venue": "IEEE Transactions on Pattern Analysis and Machine Intelligence", 
+      "year": 2015
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "15b9cd2d3f17a544882c265c27ae496232ab376a", 
+      "title": "Joint Multilabel Classification With Community-Aware Label Graph Learning", 
+      "url": "https://www.semanticscholar.org/paper/15b9cd2d3f17a544882c265c27ae496232ab376a", 
+      "venue": "IEEE Transactions on Image Processing", 
+      "year": 2016
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "65babb10e727382b31ca5479b452ee725917c739", 
+      "title": "Label Distribution Learning", 
+      "url": "https://www.semanticscholar.org/paper/65babb10e727382b31ca5479b452ee725917c739", 
+      "venue": "IEEE Transactions on Knowledge and Data Engineering", 
+      "year": 2013
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "cfa40560fa74b2fb5c26bdd6ea7c610ba5130e2f", 
+      "title": "Subspace Learning for Facial Age Estimation Via Pairwise Age Ranking", 
+      "url": "https://www.semanticscholar.org/paper/cfa40560fa74b2fb5c26bdd6ea7c610ba5130e2f", 
+      "venue": "IEEE Transactions on Information Forensics and Security", 
+      "year": 2013
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "3cb488a3b71f221a8616716a1fc2b951dd0de549", 
+      "title": "Facial Age Estimation by Adaptive Label Distribution Learning", 
+      "url": "https://www.semanticscholar.org/paper/3cb488a3b71f221a8616716a1fc2b951dd0de549", 
+      "venue": "ICPR", 
+      "year": 2014
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "03c48d534f99106aa784da719f248b5e60b914c7", 
+      "title": "Crowd Abnormal Behavior Detection Based on Label Distribution Learning", 
+      "url": "https://www.semanticscholar.org/paper/03c48d534f99106aa784da719f248b5e60b914c7", 
+      "venue": "2015 8th International Conference on Intelligent Computation Technology and Automation (ICICTA)", 
+      "year": 2015
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "3d94f81cf4c3a7307e1a976dc6cb7bf38068a381", 
+      "title": "Data-Dependent Label Distribution Learning for Age Estimation", 
+      "url": "https://www.semanticscholar.org/paper/3d94f81cf4c3a7307e1a976dc6cb7bf38068a381", 
+      "venue": "IEEE Transactions on Image Processing", 
+      "year": 2017
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "02567fd428a675ca91a0c6786f47f3e35881bcbd", 
+      "title": "Deep Label Distribution Learning With Label Ambiguity", 
+      "url": "https://www.semanticscholar.org/paper/02567fd428a675ca91a0c6786f47f3e35881bcbd", 
+      "venue": "IEEE Transactions on Image Processing", 
+      "year": 2017
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "ab29f97e7180b284be7003fbc6725566ea0cd459", 
+      "title": "Age Estimation by Multi-scale Convolutional Network", 
+      "url": "https://www.semanticscholar.org/paper/ab29f97e7180b284be7003fbc6725566ea0cd459", 
+      "venue": "ACCV", 
+      "year": 2014
+    }, 
+    {
+      "isInfluential": true, 
+      "paperId": "694bdadb720d4237b701a5c8c10417843ed89c6f", 
+      "title": "Facial age estimation under the terms of local latency using weighted local binary pattern and multi-layer perceptron", 
+      "url": "https://www.semanticscholar.org/paper/694bdadb720d4237b701a5c8c10417843ed89c6f", 
+      "venue": "2016 4th International Conference on Control, Instrumentation, and Automation (ICCIA)", 
+      "year": 2016
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "a591639bfcabc4091ff556364074c58521159ff9", 
+      "title": "General structured sparse learning for human facial age estimation", 
+      "url": "https://www.semanticscholar.org/paper/a591639bfcabc4091ff556364074c58521159ff9", 
+      "venue": "Multimedia Systems", 
+      "year": 2017
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "9d4bab013717b9a53bb51477e29fda08a55b39d9", 
+      "title": "Strategic Decision-Making Learning from Label Distributions: An Approach for Facial Age Estimation", 
+      "url": "https://www.semanticscholar.org/paper/9d4bab013717b9a53bb51477e29fda08a55b39d9", 
+      "venue": "Sensors", 
+      "year": 2016
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "31f1e711fcf82c855f27396f181bf5e565a2f58d", 
+      "title": "Unconstrained Age Estimation with Deep Convolutional Neural Networks", 
+      "url": "https://www.semanticscholar.org/paper/31f1e711fcf82c855f27396f181bf5e565a2f58d", 
+      "venue": "2015 IEEE International Conference on Computer Vision Workshop (ICCVW)", 
+      "year": 2015
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "32945a9f9e87c4f57ff6188907c25c97a629d1d4", 
+      "title": "Deep Boosting: Joint feature selection and analysis dictionary learning in hierarchy", 
+      "url": "https://www.semanticscholar.org/paper/32945a9f9e87c4f57ff6188907c25c97a629d1d4", 
+      "venue": "Neurocomputing", 
+      "year": 2016
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "70db3a0d2ca8a797153cc68506b8650908cb0ada", 
+      "title": "An Overview of Research Activities in Facial Age Estimation Using the FG-NET Aging Database", 
+      "url": "https://www.semanticscholar.org/paper/70db3a0d2ca8a797153cc68506b8650908cb0ada", 
+      "venue": "ECCV Workshops", 
+      "year": 2014
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "841c99e887eb262e397fdf5b0490a2ae6c82d6b5", 
+      "title": "Feature extraction for facial age estimation: A survey", 
+      "url": "https://www.semanticscholar.org/paper/841c99e887eb262e397fdf5b0490a2ae6c82d6b5", 
+      "venue": "2016 International Conference on Wireless Communications, Signal Processing and Networking (WiSPNET)", 
+      "year": 2016
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "29156e4fe317b61cdcc87b0226e6f09e416909e0", 
+      "title": "Heterogeneous Face Attribute Estimation: A Deep Multi-Task Learning Approach", 
+      "url": "https://www.semanticscholar.org/paper/29156e4fe317b61cdcc87b0226e6f09e416909e0", 
+      "venue": "IEEE transactions on pattern analysis and machine intelligence", 
+      "year": 2017
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "70569810e46f476515fce80a602a210f8d9a2b95", 
+      "title": "Apparent Age Estimation from Face Images Combining General and Children-Specialized Deep Learning Models", 
+      "url": "https://www.semanticscholar.org/paper/70569810e46f476515fce80a602a210f8d9a2b95", 
+      "venue": "2016 IEEE Conference on Computer Vision and Pattern Recognition Workshops (CVPRW)", 
+      "year": 2016
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "f28a02e7a36ce5f95af0708ba04fc9f69aa24173", 
+      "title": "Human Age Estimation by Considering both the Ordinality and Similarity of Ages", 
+      "url": "https://www.semanticscholar.org/paper/f28a02e7a36ce5f95af0708ba04fc9f69aa24173", 
+      "venue": "Neural Processing Letters", 
+      "year": 2015
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "7bbf4a61cff3d9518c951297ba3962f302ec7efc", 
+      "title": "Using artificial neural network for human age estimation based on facial images", 
+      "url": "https://www.semanticscholar.org/paper/7bbf4a61cff3d9518c951297ba3962f302ec7efc", 
+      "venue": "2012 International Conference on Innovations in Information Technology (IIT)", 
+      "year": 2012
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "78e05bdfdd4a65fe6e354cb084747ce3463e893b", 
+      "title": "ChaLearn Looking at People and Faces of the World: Face AnalysisWorkshop and Challenge 2016", 
+      "url": "https://www.semanticscholar.org/paper/78e05bdfdd4a65fe6e354cb084747ce3463e893b", 
+      "venue": "2016 IEEE Conference on Computer Vision and Pattern Recognition Workshops (CVPRW)", 
+      "year": 2016
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "ef36ca8abf0a23e661f3b1603057963a70e16704", 
+      "title": "An effective approach of facial age estimation with extreme learning machine", 
+      "url": "https://www.semanticscholar.org/paper/ef36ca8abf0a23e661f3b1603057963a70e16704", 
+      "venue": "2017 32nd Youth Academic Annual Conference of Chinese Association of Automation (YAC)", 
+      "year": 2017
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "76e6b7a98de3f86500aef2e1150a40c4d5eeb414", 
+      "title": "Deep Age Distribution Learning for Apparent Age Estimation", 
+      "url": "https://www.semanticscholar.org/paper/76e6b7a98de3f86500aef2e1150a40c4d5eeb414", 
+      "venue": "2016 IEEE Conference on Computer Vision and Pattern Recognition Workshops (CVPRW)", 
+      "year": 2016
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "0e86f4c6593ed5b76663b63cd2bd6b46c079953d", 
+      "title": "Logistic Boosting Regression for Label Distribution Learning", 
+      "url": "https://www.semanticscholar.org/paper/0e86f4c6593ed5b76663b63cd2bd6b46c079953d", 
+      "venue": "2016 IEEE Conference on Computer Vision and Pattern Recognition (CVPR)", 
+      "year": 2016
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "0178929595f505ef7655272cc2c339d7ed0b9507", 
+      "title": "Label distribution based facial attractiveness computation by deep residual learning", 
+      "url": "https://www.semanticscholar.org/paper/0178929595f505ef7655272cc2c339d7ed0b9507", 
+      "venue": "ArXiv", 
+      "year": 2016
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "472541ccd941b9b4c52e1f088cc1152de9b3430f", 
+      "title": "Learning in an Uncertain World: Representing Ambiguity Through Multiple Hypotheses", 
+      "url": "https://www.semanticscholar.org/paper/472541ccd941b9b4c52e1f088cc1152de9b3430f", 
+      "venue": "ArXiv", 
+      "year": 2016
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "fb4780cd3f5cf969c7047534a16a16a9be9049b9", 
+      "title": "A study on tongue image color description based on label distribution learning", 
+      "url": "https://www.semanticscholar.org/paper/fb4780cd3f5cf969c7047534a16a16a9be9049b9", 
+      "venue": "2015 8th International Conference on Biomedical Engineering and Informatics (BMEI)", 
+      "year": 2015
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "0b9dd54c7c5b45da72ba45a10aa29cbc770a0fb6", 
+      "title": "Leveraging Implicit Relative Labeling-Importance Information for Effective Multi-label Learning", 
+      "url": "https://www.semanticscholar.org/paper/0b9dd54c7c5b45da72ba45a10aa29cbc770a0fb6", 
+      "venue": "2015 IEEE International Conference on Data Mining", 
+      "year": 2015
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "d00e9a6339e34c613053d3b2c132fccbde547b56", 
+      "title": "A cascaded convolutional neural network for age estimation of unconstrained faces", 
+      "url": "https://www.semanticscholar.org/paper/d00e9a6339e34c613053d3b2c132fccbde547b56", 
+      "venue": "2016 IEEE 8th International Conference on Biometrics Theory, Applications and Systems (BTAS)", 
+      "year": 2016
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "0821028073981f9bd2dba2ad2557b25403fe7d7d", 
+      "title": "Facial Age Estimation Based on Structured Low-rank Representation", 
+      "url": "https://www.semanticscholar.org/paper/0821028073981f9bd2dba2ad2557b25403fe7d7d", 
+      "venue": "ACM Multimedia", 
+      "year": 2015
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "e795f83e42168618dc17f5ece51322b90ca7f738", 
+      "title": "Real-Time Age Estimation from Face Imagery Using Fisher Vectors", 
+      "url": "https://www.semanticscholar.org/paper/e795f83e42168618dc17f5ece51322b90ca7f738", 
+      "venue": "ICIAP", 
+      "year": 2015
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "37eb666b7eb225ffdafc6f318639bea7f0ba9a24", 
+      "title": "Age, Gender and Race Estimation from Unconstrained Face Images", 
+      "url": "https://www.semanticscholar.org/paper/37eb666b7eb225ffdafc6f318639bea7f0ba9a24", 
+      "venue": "", 
+      "year": 2014
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "72e10a2a7a65db7ecdc7d9bd3b95a4160fab4114", 
+      "title": "Face alignment using cascade Gaussian process regression trees", 
+      "url": "https://www.semanticscholar.org/paper/72e10a2a7a65db7ecdc7d9bd3b95a4160fab4114", 
+      "venue": "2015 IEEE Conference on Computer Vision and Pattern Recognition (CVPR)", 
+      "year": 2015
+    }, 
+    {
+      "isInfluential": true, 
+      "paperId": "22bebedc1a5f3556cb4f577bdbe032299a2865e8", 
+      "title": "Effective Training of Convolutional Neural Networks for Face-Based Gender and Age Prediction", 
+      "url": "https://www.semanticscholar.org/paper/22bebedc1a5f3556cb4f577bdbe032299a2865e8", 
+      "venue": "", 
+      "year": 2017
+    }
+  ], 
+  "doi": "10.1109/TPAMI.2013.51", 
+  "influentialCitationCount": 7, 
+  "paperId": "0c741fa0966ba3ee4fc326e919bf2f9456d0cd74", 
+  "references": [
+    {
+      "isInfluential": false, 
+      "paperId": "0f9b608cd19afeb083e0244df4cd0db1a00e029b", 
+      "title": "Inducing Features of Random Fields", 
+      "url": "https://www.semanticscholar.org/paper/0f9b608cd19afeb083e0244df4cd0db1a00e029b", 
+      "venue": "IEEE Trans. Pattern Anal. Mach. Intell.", 
+      "year": 1997
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "66edc1de8b1cc9a968270b9fb87de75ee710de57", 
+      "title": "Learning from facial aging patterns for automatic age estimation", 
+      "url": "https://www.semanticscholar.org/paper/66edc1de8b1cc9a968270b9fb87de75ee710de57", 
+      "venue": "ACM Multimedia", 
+      "year": 2006
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "281e1000e0f9873f217a1d5895036ee72a54bf7a", 
+      "title": "Image-Based Human Age Estimation by Manifold Learning and Locally Adjusted Robust Regression", 
+      "url": "https://www.semanticscholar.org/paper/281e1000e0f9873f217a1d5895036ee72a54bf7a", 
+      "venue": "IEEE Transactions on Image Processing", 
+      "year": 2008
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "242d4758bcc4b1be9181dbb9456237351c9a46d6", 
+      "title": "MORPH: A Longitudinal Image Database of Normal Adult Age-Progression", 
+      "url": "https://www.semanticscholar.org/paper/242d4758bcc4b1be9181dbb9456237351c9a46d6", 
+      "venue": "FG", 
+      "year": 2006
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "e2cd3033c86adb4aa5452ce3a9b0fe68c7afda70", 
+      "title": "Estimating Human Age by Manifold Analysis of Face Pictures and Regression on Aging Features", 
+      "url": "https://www.semanticscholar.org/paper/e2cd3033c86adb4aa5452ce3a9b0fe68c7afda70", 
+      "venue": "ICME", 
+      "year": 2007
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "97d1d561362a8b6beb0fdbee28f3862fb48f1380", 
+      "title": "Age Synthesis and Estimation via Faces: A Survey", 
+      "url": "https://www.semanticscholar.org/paper/97d1d561362a8b6beb0fdbee28f3862fb48f1380", 
+      "venue": "IEEE Transactions on Pattern Analysis and Machine Intelligence", 
+      "year": 2010
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "2406bd3a43f9c6c36b1370ef6cef1cc15c579642", 
+      "title": "Conditional probability density function estimation with sigmoidal neural networks", 
+      "url": "https://www.semanticscholar.org/paper/2406bd3a43f9c6c36b1370ef6cef1cc15c579642", 
+      "venue": "IEEE Trans. Neural Networks", 
+      "year": 1999
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "008639035d561c7e738f6a1504ae65dc37c67b34", 
+      "title": "Cluster analysis and display of genome-wide expression patterns.", 
+      "url": "https://www.semanticscholar.org/paper/008639035d561c7e738f6a1504ae65dc37c67b34", 
+      "venue": "Proceedings of the National Academy of Sciences of the United States of America", 
+      "year": 1998
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "197eaa59a003a4c7cc77c1abe0f99d942f716942", 
+      "title": "Web image mining towards universal age estimator", 
+      "url": "https://www.semanticscholar.org/paper/197eaa59a003a4c7cc77c1abe0f99d942f716942", 
+      "venue": "ACM Multimedia", 
+      "year": 2009
+    }, 
+    {
+      "isInfluential": true, 
+      "paperId": "2050df041e11f22cda2597e6a92e000bc1e16803", 
+      "title": "Toward Automatic Simulation of Aging Effects on Face Images", 
+      "url": "https://www.semanticscholar.org/paper/2050df041e11f22cda2597e6a92e000bc1e16803", 
+      "venue": "IEEE Trans. Pattern Anal. Mach. Intell.", 
+      "year": 2002
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "0f5bf8eb4f4e34ef83fdb2867455d8650acac158", 
+      "title": "Learning Auto-Structured Regressor from Uncertain Nonnegative Labels", 
+      "url": "https://www.semanticscholar.org/paper/0f5bf8eb4f4e34ef83fdb2867455d8650acac158", 
+      "venue": "2007 IEEE 11th International Conference on Computer Vision", 
+      "year": 2007
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "c5e004549651e4f7be7670bfb6a13871d4c933fd", 
+      "title": "Human Age Estimation With Regression on Discriminative Aging Manifold", 
+      "url": "https://www.semanticscholar.org/paper/c5e004549651e4f7be7670bfb6a13871d4c933fd", 
+      "venue": "IEEE Trans. Multimedia", 
+      "year": 2008
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "916ceefae4b11dadc3ee754ce590381c568c90de", 
+      "title": "A Direct Adaptive Method for Faster Backpropagation Learning: The RPROP Algorithm", 
+      "url": "https://www.semanticscholar.org/paper/916ceefae4b11dadc3ee754ce590381c568c90de", 
+      "venue": "", 
+      "year": 2004
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "17cf6cf3c51b7cbc6b9ff5a0d1624e3c9928a951", 
+      "title": "ANFIS: adaptive-network-based fuzzy inference system", 
+      "url": "https://www.semanticscholar.org/paper/17cf6cf3c51b7cbc6b9ff5a0d1624e3c9928a951", 
+      "venue": "IEEE Trans. Systems, Man, and Cybernetics", 
+      "year": 1993
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "86d2add9aa90014a6330e3eb59277562adaeeda4", 
+      "title": "Learning From Crowds", 
+      "url": "https://www.semanticscholar.org/paper/86d2add9aa90014a6330e3eb59277562adaeeda4", 
+      "venue": "Journal of Machine Learning Research", 
+      "year": 2010
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "179d782ee4742fc8d097083af9c7d50ad7d99ec9", 
+      "title": "Facial Age Estimation by Conditional Probability Neural Network", 
+      "url": "https://www.semanticscholar.org/paper/179d782ee4742fc8d097083af9c7d50ad7d99ec9", 
+      "venue": "CCPR", 
+      "year": 2012
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "2a0b386327c57e89b182292361ce2eaf6f87ad3b", 
+      "title": "A Generative Probabilistic Model for Multi-label Classification", 
+      "url": "https://www.semanticscholar.org/paper/2a0b386327c57e89b182292361ce2eaf6f87ad3b", 
+      "venue": "2008 Eighth IEEE International Conference on Data Mining", 
+      "year": 2008
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "430bd5adb548c14d2fce1d3cf66dd0b170b8cb14", 
+      "title": "An 'other-race' effect in age estimation from faces.", 
+      "url": "https://www.semanticscholar.org/paper/430bd5adb548c14d2fce1d3cf66dd0b170b8cb14", 
+      "venue": "Perception", 
+      "year": 2001
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "212c1b0b063c3e4ca6eb17e751f7f03c3bd67e43", 
+      "title": "A learning law for density estimation", 
+      "url": "https://www.semanticscholar.org/paper/212c1b0b063c3e4ca6eb17e751f7f03c3bd67e43", 
+      "venue": "IEEE Trans. Neural Networks", 
+      "year": 1994
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "4991a0444d589b000ac8114fd91e19bc6d658256", 
+      "title": "Correlated Label Propagation with Application to Multi-label Learning", 
+      "url": "https://www.semanticscholar.org/paper/4991a0444d589b000ac8114fd91e19bc6d658256", 
+      "venue": "2006 IEEE Computer Society Conference on Computer Vision and Pattern Recognition (CVPR'06)", 
+      "year": 2006
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "3edb0fa2d6b0f1984e8e2c523c558cb026b2a983", 
+      "title": "Automatic Age Estimation Based on Facial Aging Patterns", 
+      "url": "https://www.semanticscholar.org/paper/3edb0fa2d6b0f1984e8e2c523c558cb026b2a983", 
+      "venue": "IEEE Transactions on Pattern Analysis and Machine Intelligence", 
+      "year": 2007
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "dbf9df724b532bd2721a332dc9edb2af16c61111", 
+      "title": "Handling possibilistic labels in pattern classification using evidential reasoning", 
+      "url": "https://www.semanticscholar.org/paper/dbf9df724b532bd2721a332dc9edb2af16c61111", 
+      "venue": "Fuzzy Sets and Systems", 
+      "year": 2001
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "dcde6dd8ca7f57630818b8ea1b750919d32e6b00", 
+      "title": "Ranking with Uncertain Labels", 
+      "url": "https://www.semanticscholar.org/paper/dcde6dd8ca7f57630818b8ea1b750919d32e6b00", 
+      "venue": "ICME", 
+      "year": 2007
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "cd63759842a56bd2ede3999f6e11a74ccbec318b", 
+      "title": "Simultaneous dimensionality reduction and human age estimation via kernel partial least squares regression", 
+      "url": "https://www.semanticscholar.org/paper/cd63759842a56bd2ede3999f6e11a74ccbec318b", 
+      "venue": "CVPR", 
+      "year": 2011
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "4642916ee5c2697356d02afdb3cd13b30b8051ba", 
+      "title": "Multi-Label Learning with Weak Label", 
+      "url": "https://www.semanticscholar.org/paper/4642916ee5c2697356d02afdb3cd13b30b8051ba", 
+      "venue": "AAAI", 
+      "year": 2010
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "0fe66f19ceb1e0712dcc69eaad090ec97012ad78", 
+      "title": "Regression from patch-kernel", 
+      "url": "https://www.semanticscholar.org/paper/0fe66f19ceb1e0712dcc69eaad090ec97012ad78", 
+      "venue": "2008 IEEE Conference on Computer Vision and Pattern Recognition", 
+      "year": 2008
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "213a5c30bb0589f45a352c14ac23823cc4ce8c07", 
+      "title": "Proteomic applications for the early detection of cancer.", 
+      "url": "https://www.semanticscholar.org/paper/213a5c30bb0589f45a352c14ac23823cc4ce8c07", 
+      "venue": "Nature reviews. Cancer", 
+      "year": 2003
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "4af182338ee63754d4569c26cb6a5c3bbdd8cf2a", 
+      "title": "A Maximum Entropy Approach to Natural Language Processing", 
+      "url": "https://www.semanticscholar.org/paper/4af182338ee63754d4569c26cb6a5c3bbdd8cf2a", 
+      "venue": "Computational Linguistics", 
+      "year": 1996
+    }, 
+    {
+      "isInfluential": true, 
+      "paperId": "67db50715cf08e06d6fe7588c205c85d5656714f", 
+      "title": "Human age estimation using bio-inspired features", 
+      "url": "https://www.semanticscholar.org/paper/67db50715cf08e06d6fe7588c205c85d5656714f", 
+      "venue": "2009 IEEE Conference on Computer Vision and Pattern Recognition", 
+      "year": 2009
+    }, 
+    {
+      "isInfluential": true, 
+      "paperId": "32093be6d9bf5038adb5b5b8b8e8a9b62001643c", 
+      "title": "Multi-Label Classification: An Overview", 
+      "url": "https://www.semanticscholar.org/paper/32093be6d9bf5038adb5b5b8b8e8a9b62001643c", 
+      "venue": "IJDWM", 
+      "year": 2007
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "11b36ee13207db1b08733968e270b30c6f625ed1", 
+      "title": "Face age estimation using patch-based hidden Markov model supervectors", 
+      "url": "https://www.semanticscholar.org/paper/11b36ee13207db1b08733968e270b30c6f625ed1", 
+      "venue": "ICPR", 
+      "year": 2008
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "6ab33fa51467595f18a7a22f1d356323876f8262", 
+      "title": "Ordinal hyperplanes ranker with cost sensitivities for age estimation", 
+      "url": "https://www.semanticscholar.org/paper/6ab33fa51467595f18a7a22f1d356323876f8262", 
+      "venue": "CVPR", 
+      "year": 2011
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "a23d57548a60416f729f4f19e2b182d5e77095c8", 
+      "title": "Web Image and Video Mining Towards Universal and Robust Age Estimator", 
+      "url": "https://www.semanticscholar.org/paper/a23d57548a60416f729f4f19e2b182d5e77095c8", 
+      "venue": "IEEE Trans. Multimedia", 
+      "year": 2011
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "839104964d04c505a827ae854e1251271968c7f7", 
+      "title": "Graph Embedding and Extensions: A General Framework for Dimensionality Reduction", 
+      "url": "https://www.semanticscholar.org/paper/839104964d04c505a827ae854e1251271968c7f7", 
+      "venue": "IEEE Transactions on Pattern Analysis and Machine Intelligence", 
+      "year": 2007
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "9770445e4d384714355873ac33314fc734d8d09c", 
+      "title": "Comparing different classifiers for automatic age estimation.", 
+      "url": "https://www.semanticscholar.org/paper/9770445e4d384714355873ac33314fc734d8d09c", 
+      "venue": "IEEE transactions on systems, man, and cybernetics. Part B, Cybernetics : a publication of the IEEE Systems, Man, and Cybernetics Society", 
+      "year": 2004
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "eec3137117c82ea50079538e640b842bdd1864ca", 
+      "title": "Learning from data with uncertain labels by boosting credal classifiers", 
+      "url": "https://www.semanticscholar.org/paper/eec3137117c82ea50079538e640b842bdd1864ca", 
+      "venue": "KDD Workshop on Knowledge Discovery from Uncertain Data", 
+      "year": 2009
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "8000c4f278e9af4d087c0d0895fff7012c5e3d78", 
+      "title": "Multi-task warped Gaussian process for personalized age estimation", 
+      "url": "https://www.semanticscholar.org/paper/8000c4f278e9af4d087c0d0895fff7012c5e3d78", 
+      "venue": "2010 IEEE Computer Society Conference on Computer Vision and Pattern Recognition", 
+      "year": 2010
+    }
+  ], 
+  "title": "Facial Age Estimation by Learning from Label Distributions", 
+  "url": "https://www.semanticscholar.org/paper/0c741fa0966ba3ee4fc326e919bf2f9456d0cd74", 
+  "venue": "IEEE Transactions on Pattern Analysis and Machine Intelligence", 
+  "year": 2010
+}

@@ -1,0 +1,1743 @@
+{
+  "authors": [
+    {
+      "authorId": "1782853", 
+      "name": "Mark Dredze", 
+      "url": "https://www.semanticscholar.org/author/1782853"
+    }, 
+    {
+      "authorId": "1693407", 
+      "name": "Koby Crammer", 
+      "url": "https://www.semanticscholar.org/author/1693407"
+    }, 
+    {
+      "authorId": "1685287", 
+      "name": "Fernando Pereira", 
+      "url": "https://www.semanticscholar.org/author/1685287"
+    }
+  ], 
+  "citationVelocity": 34, 
+  "citations": [
+    {
+      "isInfluential": false, 
+      "paperId": "935059a4072977775b94240383ed9ea40eacd56c", 
+      "title": "Double Updating Online Learning", 
+      "url": "https://www.semanticscholar.org/paper/935059a4072977775b94240383ed9ea40eacd56c", 
+      "venue": "Journal of Machine Learning Research", 
+      "year": 2011
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "2ff4b9dcf3faed8530730bcda179c0a53b9a6a63", 
+      "title": "High-Dimensional Data Stream Classification via Sparse Online Learning", 
+      "url": "https://www.semanticscholar.org/paper/2ff4b9dcf3faed8530730bcda179c0a53b9a6a63", 
+      "venue": "2014 IEEE International Conference on Data Mining", 
+      "year": 2014
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "b5344d78b2d9eb05ad2d9c80b1a3f477414b923b", 
+      "title": "Risk Minimization in the Presence of Label Noise", 
+      "url": "https://www.semanticscholar.org/paper/b5344d78b2d9eb05ad2d9c80b1a3f477414b923b", 
+      "venue": "AAAI", 
+      "year": 2016
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "b89e7ca60ec561f0aa502e675472e83cd2c8e94b", 
+      "title": "Streamed Learning: One-Pass SVMs", 
+      "url": "https://www.semanticscholar.org/paper/b89e7ca60ec561f0aa502e675472e83cd2c8e94b", 
+      "venue": "IJCAI", 
+      "year": 2009
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "76d17c34fb38d22634d908ab573254e867340417", 
+      "title": "Second-order non-stationary online learning for regression", 
+      "url": "https://www.semanticscholar.org/paper/76d17c34fb38d22634d908ab573254e867340417", 
+      "venue": "Journal of Machine Learning Research", 
+      "year": 2015
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "1f5aa122f18ff7122d625fbb93369c58d8324b9e", 
+      "title": "Comparison of Grapheme\u2013to\u2013Phoneme Conversion Methods on a Myanmar Pronunciation Dictionary", 
+      "url": "https://www.semanticscholar.org/paper/1f5aa122f18ff7122d625fbb93369c58d8324b9e", 
+      "venue": "", 
+      "year": 2016
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "2ed286f017516eafedbd4e695bbfc23e96d482ae", 
+      "title": "Smoothing clickthrough data for web search ranking", 
+      "url": "https://www.semanticscholar.org/paper/2ed286f017516eafedbd4e695bbfc23e96d482ae", 
+      "venue": "SIGIR", 
+      "year": 2009
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "155affd397a82e4e67071797741b6d22cdc5450b", 
+      "title": "Structured Prediction with Relative Margin", 
+      "url": "https://www.semanticscholar.org/paper/155affd397a82e4e67071797741b6d22cdc5450b", 
+      "venue": "2009 International Conference on Machine Learning and Applications", 
+      "year": 2009
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "e1e995512ed37cbc39ae4bfd9bd6903e9bad6f5f", 
+      "title": "An online learning network for biometric scores fusion", 
+      "url": "https://www.semanticscholar.org/paper/e1e995512ed37cbc39ae4bfd9bd6903e9bad6f5f", 
+      "venue": "Neurocomputing", 
+      "year": 2013
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "5276e1722f16145d78bd4d8abfa2bbd77a299294", 
+      "title": "Exact Convex Confidence-Weighted Learning", 
+      "url": "https://www.semanticscholar.org/paper/5276e1722f16145d78bd4d8abfa2bbd77a299294", 
+      "venue": "NIPS", 
+      "year": 2008
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "2b014e038dd1e7267c7f7cb7a56b39d21b4f2468", 
+      "title": "Confidence in Structured-Prediction Using Confidence-Weighted Models", 
+      "url": "https://www.semanticscholar.org/paper/2b014e038dd1e7267c7f7cb7a56b39d21b4f2468", 
+      "venue": "EMNLP", 
+      "year": 2010
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "f21c3358fcc758595d704b2f919b7005688f69a5", 
+      "title": "Augmenting the novice-expert overlay model in an intelligent tutoring system: Using confidence-weighted linear classifiers", 
+      "url": "https://www.semanticscholar.org/paper/f21c3358fcc758595d704b2f919b7005688f69a5", 
+      "venue": "2014 IEEE International Conference on Computational Intelligence and Computing Research", 
+      "year": 2014
+    }, 
+    {
+      "isInfluential": true, 
+      "paperId": "11bf82bc4192cc7db4a2776737816e51fcd43c44", 
+      "title": "Cross-domain polarity classification using a knowledge-enhanced meta-classifier", 
+      "url": "https://www.semanticscholar.org/paper/11bf82bc4192cc7db4a2776737816e51fcd43c44", 
+      "venue": "Knowl.-Based Syst.", 
+      "year": 2015
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "0bb4401b9a1b064c513bda3001f43f8f2f3e28de", 
+      "title": "Learning with Noisy Labels", 
+      "url": "https://www.semanticscholar.org/paper/0bb4401b9a1b064c513bda3001f43f8f2f3e28de", 
+      "venue": "NIPS", 
+      "year": 2013
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "5a16ca973bd2969ef1768664d26a6cd910445d96", 
+      "title": "Building Watson: An Overview of the DeepQA Project", 
+      "url": "https://www.semanticscholar.org/paper/5a16ca973bd2969ef1768664d26a6cd910445d96", 
+      "venue": "AI Magazine", 
+      "year": 2010
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "e5a8839eb3ff96d1ee999845879f5d536b925734", 
+      "title": "Multi\u2013Domain Learning: Analysis, and Methods for Multi\u2013Attribute Domains", 
+      "url": "https://www.semanticscholar.org/paper/e5a8839eb3ff96d1ee999845879f5d536b925734", 
+      "venue": "", 
+      "year": 2013
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "1ac3958ee012cea0264cb8fcd3ff25d65ddb5c9b", 
+      "title": "Identifying Narrative Clause Types in Personal Stories", 
+      "url": "https://www.semanticscholar.org/paper/1ac3958ee012cea0264cb8fcd3ff25d65ddb5c9b", 
+      "venue": "SIGDIAL Conference", 
+      "year": 2014
+    }, 
+    {
+      "isInfluential": true, 
+      "paperId": "08b5f3eab3c532bac40f4b998d454991c5e04d72", 
+      "title": "Modeling User Leniency and Product Popularity for Sentiment Classification", 
+      "url": "https://www.semanticscholar.org/paper/08b5f3eab3c532bac40f4b998d454991c5e04d72", 
+      "venue": "IJCNLP", 
+      "year": 2013
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "e33f036549c0aed1dc3a4485effa8a0a5b4428c6", 
+      "title": "Confidence-Weighted Linear Classification for Text Categorization", 
+      "url": "https://www.semanticscholar.org/paper/e33f036549c0aed1dc3a4485effa8a0a5b4428c6", 
+      "venue": "Journal of Machine Learning Research", 
+      "year": 2012
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "272de8b46bc60674188e399f81c2aa36ffa67ea9", 
+      "title": "SampleRank: Learning Preferences from Atomic Gradients", 
+      "url": "https://www.semanticscholar.org/paper/272de8b46bc60674188e399f81c2aa36ffa67ea9", 
+      "venue": "", 
+      "year": 2009
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "10ede8d9b526e4e6b857a496ae9404e0ddfe8a5c", 
+      "title": "Online Multiple Kernel Classification", 
+      "url": "https://www.semanticscholar.org/paper/10ede8d9b526e4e6b857a496ae9404e0ddfe8a5c", 
+      "venue": "Machine Learning", 
+      "year": 2012
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "71b038958df0b7855fc7b8b8e7dcde8537a7c1ad", 
+      "title": "Kernel Methods for Unsupervised Domain Adaptation", 
+      "url": "https://www.semanticscholar.org/paper/71b038958df0b7855fc7b8b8e7dcde8537a7c1ad", 
+      "venue": "", 
+      "year": 2015
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "2062636e10a204aa347fc42bf798f96c339b4bfb", 
+      "title": "IRWIN AND JOAN JACOBS CENTER FOR COMMUNICATION AND INFORMATION TECHNOLOGIES Confidence Estimation in Structured Prediction", 
+      "url": "https://www.semanticscholar.org/paper/2062636e10a204aa347fc42bf798f96c339b4bfb", 
+      "venue": "", 
+      "year": 2011
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "9dc4c20744bf5f94f8eb36309cf28ffa2afa1004", 
+      "title": "Approximation Vector Machines for Large-scale Online Learning", 
+      "url": "https://www.semanticscholar.org/paper/9dc4c20744bf5f94f8eb36309cf28ffa2afa1004", 
+      "venue": "ArXiv", 
+      "year": 2016
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "40de599b11b1553649354991cdf849048cb05f00", 
+      "title": "Cost-Sensitive Online Classification", 
+      "url": "https://www.semanticscholar.org/paper/40de599b11b1553649354991cdf849048cb05f00", 
+      "venue": "2012 IEEE 12th International Conference on Data Mining", 
+      "year": 2012
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "36e6f890f1a2d5fef96b0426de2b6f164ace23b4", 
+      "title": "Structured soft margin confidence weighted learning for grapheme-to-phoneme conversion", 
+      "url": "https://www.semanticscholar.org/paper/36e6f890f1a2d5fef96b0426de2b6f164ace23b4", 
+      "venue": "INTERSPEECH", 
+      "year": 2014
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "18a0dd0a11fffc0654e7385dc9b10d4374c899ad", 
+      "title": "Identifying Personal Stories in Millions of Weblog Entries", 
+      "url": "https://www.semanticscholar.org/paper/18a0dd0a11fffc0654e7385dc9b10d4374c899ad", 
+      "venue": "", 
+      "year": 2009
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "049689e693378a519d8f8ca83dc057a5c095bbda", 
+      "title": "Graph-Based Transduction with Confidence", 
+      "url": "https://www.semanticscholar.org/paper/049689e693378a519d8f8ca83dc057a5c095bbda", 
+      "venue": "ECML/PKDD", 
+      "year": 2012
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "43eeaab6587b2c0b2577ae6bc4bd2f99f8e02a90", 
+      "title": "Healing Truncation Bias: Self-Weighted Truncation Framework for Dual Averaging", 
+      "url": "https://www.semanticscholar.org/paper/43eeaab6587b2c0b2577ae6bc4bd2f99f8e02a90", 
+      "venue": "2012 IEEE 12th International Conference on Data Mining", 
+      "year": 2012
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "43216287965da7bfbe56b2e50a552cf0ac3144f0", 
+      "title": "LIBOL: a library for online learning algorithms", 
+      "url": "https://www.semanticscholar.org/paper/43216287965da7bfbe56b2e50a552cf0ac3144f0", 
+      "venue": "Journal of Machine Learning Research", 
+      "year": 2014
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "48f3da8ebb64e079dc2a2dc980b31a4773f0412d", 
+      "title": "A Novel Online Bayes Classifier", 
+      "url": "https://www.semanticscholar.org/paper/48f3da8ebb64e079dc2a2dc980b31a4773f0412d", 
+      "venue": "2016 International Conference on Digital Image Computing: Techniques and Applications (DICTA)", 
+      "year": 2016
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "14a1332bf69d829b3c45f1c609e7de77a43a499a", 
+      "title": "Interpreting individual classifications of hierarchical networks", 
+      "url": "https://www.semanticscholar.org/paper/14a1332bf69d829b3c45f1c609e7de77a43a499a", 
+      "venue": "2013 IEEE Symposium on Computational Intelligence and Data Mining (CIDM)", 
+      "year": 2013
+    }, 
+    {
+      "isInfluential": true, 
+      "paperId": "3b0d2ab0a7ce9fa97cb7470b904055f3b81fc73a", 
+      "title": "Transition-Based Parsing with Confidence-Weighted Classification", 
+      "url": "https://www.semanticscholar.org/paper/3b0d2ab0a7ce9fa97cb7470b904055f3b81fc73a", 
+      "venue": "ACL", 
+      "year": 2010
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "67114e20bb177893f33bc1d7537b6518b3a80839", 
+      "title": "Dynamic feature scaling for online learning of binary classifiers", 
+      "url": "https://www.semanticscholar.org/paper/67114e20bb177893f33bc1d7537b6518b3a80839", 
+      "venue": "Knowl.-Based Syst.", 
+      "year": 2017
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "55003a00a5d2e16fbcd7d4ab68edbef6e1107b62", 
+      "title": "Bio-molecular Event Extraction with Markov Logic", 
+      "url": "https://www.semanticscholar.org/paper/55003a00a5d2e16fbcd7d4ab68edbef6e1107b62", 
+      "venue": "Computational Intelligence", 
+      "year": 2011
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "43b3ffe92a9517febbf5a4c0ffc50f6054f71d38", 
+      "title": "Investigating confidence displays for top-N recommendations", 
+      "url": "https://www.semanticscholar.org/paper/43b3ffe92a9517febbf5a4c0ffc50f6054f71d38", 
+      "venue": "JASIST", 
+      "year": 2013
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "77d28bf57cdf842b5f2ab2cf0e4b55a0ec2345d3", 
+      "title": "Lexical feature based phishing URL detection using online learning", 
+      "url": "https://www.semanticscholar.org/paper/77d28bf57cdf842b5f2ab2cf0e4b55a0ec2345d3", 
+      "venue": "AISec", 
+      "year": 2010
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "4e917d8551f13f85d0fe20b7ee4c02c4d8a102a9", 
+      "title": "Online Multi-Modal Distance Metric Learning with Application to Image Retrieval", 
+      "url": "https://www.semanticscholar.org/paper/4e917d8551f13f85d0fe20b7ee4c02c4d8a102a9", 
+      "venue": "IEEE Transactions on Knowledge and Data Engineering", 
+      "year": 2016
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "35b76e9610ffdbafffacc5992f97e4efe046cd31", 
+      "title": "Dual Space Gradient Descent for Online Learning", 
+      "url": "https://www.semanticscholar.org/paper/35b76e9610ffdbafffacc5992f97e4efe046cd31", 
+      "venue": "NIPS", 
+      "year": 2016
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "ec605db37ffc7d14b4f4d02e7954f659340c2a4a", 
+      "title": "Soft Confidence-Weighted Learning", 
+      "url": "https://www.semanticscholar.org/paper/ec605db37ffc7d14b4f4d02e7954f659340c2a4a", 
+      "venue": "ACM TIST", 
+      "year": 2016
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "6b5061fbbe1727c0dabbbed48012cbfac7e255c9", 
+      "title": "Exploiting Feature Covariance in High-Dimensional Online Learning", 
+      "url": "https://www.semanticscholar.org/paper/6b5061fbbe1727c0dabbbed48012cbfac7e255c9", 
+      "venue": "AISTATS", 
+      "year": 2010
+    }, 
+    {
+      "isInfluential": true, 
+      "paperId": "93c1e59f280cf2cc50fc4fda8dea9e92c9f17020", 
+      "title": "Words are not Equal: Graded Weighting Model for building Composite Document Vectors", 
+      "url": "https://www.semanticscholar.org/paper/93c1e59f280cf2cc50fc4fda8dea9e92c9f17020", 
+      "venue": "ArXiv", 
+      "year": 2015
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "1bd43bc8ec308a1ef3e9496868d8c6baa02e4f5d", 
+      "title": "Adaptive regularization of weight vectors", 
+      "url": "https://www.semanticscholar.org/paper/1bd43bc8ec308a1ef3e9496868d8c6baa02e4f5d", 
+      "venue": "Machine Learning", 
+      "year": 2009
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "4194ef8c3cd505daf644607896e80c432c8a7584", 
+      "title": "Online portfolio selection: A survey", 
+      "url": "https://www.semanticscholar.org/paper/4194ef8c3cd505daf644607896e80c432c8a7584", 
+      "venue": "ACM Comput. Surv.", 
+      "year": 2014
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "93364dc03e67674d7d6b2e03a3d81a18a2a978e2", 
+      "title": "Survey of Novel Method for Online Classification in Data Mining", 
+      "url": "https://www.semanticscholar.org/paper/93364dc03e67674d7d6b2e03a3d81a18a2a978e2", 
+      "venue": "", 
+      "year": 2014
+    }, 
+    {
+      "isInfluential": true, 
+      "paperId": "44acefce63fd7ff00edda381447ae5220c0bd741", 
+      "title": "Large-Scale Multiclass Support Vector Machine Training via Euclidean Projection onto the Simplex", 
+      "url": "https://www.semanticscholar.org/paper/44acefce63fd7ff00edda381447ae5220c0bd741", 
+      "venue": "ICPR", 
+      "year": 2014
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "60fc713e4eb0206db72bed9b00bf1cd27e14c2a0", 
+      "title": "Online Feature Selection and Its Applications", 
+      "url": "https://www.semanticscholar.org/paper/60fc713e4eb0206db72bed9b00bf1cd27e14c2a0", 
+      "venue": "IEEE Transactions on Knowledge and Data Engineering", 
+      "year": 2014
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "3ae5983007bed7cf7c9a17514d712ed8cffbe67e", 
+      "title": "Online Asymmetric Active Learning with Imbalanced Data", 
+      "url": "https://www.semanticscholar.org/paper/3ae5983007bed7cf7c9a17514d712ed8cffbe67e", 
+      "venue": "KDD", 
+      "year": 2016
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "25287595444b22a5f03076bfa7349a75d6f875e7", 
+      "title": "Automatic Domain Partitioning for Multi-Domain Learning", 
+      "url": "https://www.semanticscholar.org/paper/25287595444b22a5f03076bfa7349a75d6f875e7", 
+      "venue": "EMNLP", 
+      "year": 2013
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "9b3a68b6526e49702568fec7e145941f2a8ce9dd", 
+      "title": "An Improved Method for Combination Feature Selection in Web Click-Through Data Mining", 
+      "url": "https://www.semanticscholar.org/paper/9b3a68b6526e49702568fec7e145941f2a8ce9dd", 
+      "venue": "2012 Fourth International Symposium on Information Science and Engineering", 
+      "year": 2012
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "a9687f002798c08bb8371c0c40d38a8bd3d17b9c", 
+      "title": "Learning Simple Wikipedia: A Cogitation in Ascertaining Abecedarian Language", 
+      "url": "https://www.semanticscholar.org/paper/a9687f002798c08bb8371c0c40d38a8bd3d17b9c", 
+      "venue": "", 
+      "year": 2010
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "1d8235194ead55c2745bd596c95f1acaf5f9ebf7", 
+      "title": "Improved Natural Language Learning via Variance-Regularization Support Vector Machines", 
+      "url": "https://www.semanticscholar.org/paper/1d8235194ead55c2745bd596c95f1acaf5f9ebf7", 
+      "venue": "CoNLL", 
+      "year": 2010
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "e676368db3e6e992a4c647382075729288928eaf", 
+      "title": "Structured Adaptive Regularization of Weight Vectors for a Robust Grapheme-to-Phoneme Conversion Model", 
+      "url": "https://www.semanticscholar.org/paper/e676368db3e6e992a4c647382075729288928eaf", 
+      "venue": "IEICE Transactions", 
+      "year": 2014
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "379db361d272ac3ac0d878351f0fdaa1a561b7c0", 
+      "title": "A kernel fused perceptron for the online classification of large-scale data", 
+      "url": "https://www.semanticscholar.org/paper/379db361d272ac3ac0d878351f0fdaa1a561b7c0", 
+      "venue": "BigMine", 
+      "year": 2012
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "207bc9a2ac37e4abbf45354e90707078be13c7bb", 
+      "title": "Maximum Relative Margin and Data-Dependent Regularization", 
+      "url": "https://www.semanticscholar.org/paper/207bc9a2ac37e4abbf45354e90707078be13c7bb", 
+      "venue": "Journal of Machine Learning Research", 
+      "year": 2010
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "b2e3065a38fb355cd76c9afba3fe47bb88b12895", 
+      "title": "More Is Better: Large Scale Partially-supervised Sentiment Classication", 
+      "url": "https://www.semanticscholar.org/paper/b2e3065a38fb355cd76c9afba3fe47bb88b12895", 
+      "venue": "ACML", 
+      "year": 2012
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "801f28c547075d4f56e981ba73c3680065788ed5", 
+      "title": "Confidence-Weighted Learning of Factored Discriminative Language Models", 
+      "url": "https://www.semanticscholar.org/paper/801f28c547075d4f56e981ba73c3680065788ed5", 
+      "venue": "ACL", 
+      "year": 2011
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "fd2fe0639465bdf2eb1225c91907cc0d58460d20", 
+      "title": "Collaborative Online Multitask Learning", 
+      "url": "https://www.semanticscholar.org/paper/fd2fe0639465bdf2eb1225c91907cc0d58460d20", 
+      "venue": "IEEE Transactions on Knowledge and Data Engineering", 
+      "year": 2014
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "4a8d97172382144b9906e2cec69d3decb4188fb7", 
+      "title": "Taming Evasions in Machine Learning Based Detection Pipelines", 
+      "url": "https://www.semanticscholar.org/paper/4a8d97172382144b9906e2cec69d3decb4188fb7", 
+      "venue": "", 
+      "year": 2016
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "8c057dfec76d1f1995d2baababd9e632045bf4ae", 
+      "title": "Learning Relative Similarity by Stochastic Dual Coordinate Ascent", 
+      "url": "https://www.semanticscholar.org/paper/8c057dfec76d1f1995d2baababd9e632045bf4ae", 
+      "venue": "AAAI", 
+      "year": 2014
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "dfbdb3aa384a0e706dc4e1cee4d51909f3e418db", 
+      "title": "Towards Shockingly Easy Structured Classification: A Search-based Probabilistic Online Learning Framework", 
+      "url": "https://www.semanticscholar.org/paper/dfbdb3aa384a0e706dc4e1cee4d51909f3e418db", 
+      "venue": "ArXiv", 
+      "year": 2015
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "94032737b7e622c80fbb1af23269401f7735b5ae", 
+      "title": "Personalized reading support for second-language web documents by collective intelligence", 
+      "url": "https://www.semanticscholar.org/paper/94032737b7e622c80fbb1af23269401f7735b5ae", 
+      "venue": "IUI", 
+      "year": 2010
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "3e1cd26bc5982e6d168891205f87108234130e39", 
+      "title": "Confidence Estimation in Structured Prediction", 
+      "url": "https://www.semanticscholar.org/paper/3e1cd26bc5982e6d168891205f87108234130e39", 
+      "venue": "ArXiv", 
+      "year": 2011
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "80726de531a129fbf1ea6a886c1b4149b82996ca", 
+      "title": "Case Study of Model Adaptation: Transfer Learning and Online Learning", 
+      "url": "https://www.semanticscholar.org/paper/80726de531a129fbf1ea6a886c1b4149b82996ca", 
+      "venue": "IJCNLP", 
+      "year": 2013
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "043bd37f9feb4c14aa1d81acfe1b8d459a00312e", 
+      "title": "Online Methods for Multi-Domain Learning and Adaptation", 
+      "url": "https://www.semanticscholar.org/paper/043bd37f9feb4c14aa1d81acfe1b8d459a00312e", 
+      "venue": "EMNLP", 
+      "year": 2008
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "04bad8cfdde678573c4c96d65cb298dda1159dcf", 
+      "title": "Improving Automated Email Tagging with Implicit Feedback", 
+      "url": "https://www.semanticscholar.org/paper/04bad8cfdde678573c4c96d65cb298dda1159dcf", 
+      "venue": "UIST", 
+      "year": 2015
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "dbc22e1f20b61931f04c38005e2dcb56e5be5266", 
+      "title": "A Data-Driven Case-Based Reasoning Approach to Interactive Storytelling", 
+      "url": "https://www.semanticscholar.org/paper/dbc22e1f20b61931f04c38005e2dcb56e5be5266", 
+      "venue": "ICIDS", 
+      "year": 2010
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "2c3dc85fc97d6aabe6b02f1d07bb0f30188ffea9", 
+      "title": "Cost-Sensitive Double Updating Online Learning and Its Application to Online Anomaly Detection", 
+      "url": "https://www.semanticscholar.org/paper/2c3dc85fc97d6aabe6b02f1d07bb0f30188ffea9", 
+      "venue": "SDM", 
+      "year": 2013
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "369b0df93810c1f89f4f1705a7b7f9c96352c643", 
+      "title": "Mining Low-Risk Rules for Altering Query Terms from Large-Scale Logs of Query Reformulations", 
+      "url": "https://www.semanticscholar.org/paper/369b0df93810c1f89f4f1705a7b7f9c96352c643", 
+      "venue": "", 
+      "year": 2011
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "0849b97c06040f142822f2416df4b001e02e03c5", 
+      "title": "Adaptive Bound Optimization for Online Convex Optimization", 
+      "url": "https://www.semanticscholar.org/paper/0849b97c06040f142822f2416df4b001e02e03c5", 
+      "venue": "COLT", 
+      "year": 2010
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "8f5b2c4794ab5caba0f3903f0adf376cfe931c46", 
+      "title": "Single and Cross-domain Polarity Classification using String Kernels", 
+      "url": "https://www.semanticscholar.org/paper/8f5b2c4794ab5caba0f3903f0adf376cfe931c46", 
+      "venue": "EACL", 
+      "year": 2017
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "ae888b3fb9e7c58fcc0e5da28a641998ee0d9412", 
+      "title": "Spikes as regularizers", 
+      "url": "https://www.semanticscholar.org/paper/ae888b3fb9e7c58fcc0e5da28a641998ee0d9412", 
+      "venue": "ArXiv", 
+      "year": 2016
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "01113cd5d7a16e5af4b88559d142f3d7b45372be", 
+      "title": "FORECAST: skimming off the malware cream", 
+      "url": "https://www.semanticscholar.org/paper/01113cd5d7a16e5af4b88559d142f3d7b45372be", 
+      "venue": "ACSAC", 
+      "year": 2011
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "ef583fd79e57ab0b42bf1db466d782ad64aca09e", 
+      "title": "Big Data Reduction Methods: A Survey", 
+      "url": "https://www.semanticscholar.org/paper/ef583fd79e57ab0b42bf1db466d782ad64aca09e", 
+      "venue": "Data Science and Engineering", 
+      "year": 2016
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "21418b7752eaedda54bbca60d9a5ba70e0ac5b3e", 
+      "title": "Confidence-Weighted Bipartite Ranking", 
+      "url": "https://www.semanticscholar.org/paper/21418b7752eaedda54bbca60d9a5ba70e0ac5b3e", 
+      "venue": "ADMA", 
+      "year": 2016
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "ecac8611bb9953d6818a5b88f07fc4930d5fa194", 
+      "title": "Machine Learning Methods for High Level Cyber Situation Awareness", 
+      "url": "https://www.semanticscholar.org/paper/ecac8611bb9953d6818a5b88f07fc4930d5fa194", 
+      "venue": "Cyber Situational Awareness", 
+      "year": 2010
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "e876c9b27f6083b1a1fa38255e815be79ba1e1dd", 
+      "title": "A Rich Feature Vector for Protein-Protein Interaction Extraction from Multiple Corpora", 
+      "url": "https://www.semanticscholar.org/paper/e876c9b27f6083b1a1fa38255e815be79ba1e1dd", 
+      "venue": "EMNLP", 
+      "year": 2009
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "083a07c1d68e755c2f7bf738ba4ed1b893e45e55", 
+      "title": "Feature-aware regularization for sparse online learning", 
+      "url": "https://www.semanticscholar.org/paper/083a07c1d68e755c2f7bf738ba4ed1b893e45e55", 
+      "venue": "Science China Information Sciences", 
+      "year": 2014
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "3f2c992936cfe64540af1c25be20f5a5da8546e1", 
+      "title": "Adapting deep RankNet for personalized search", 
+      "url": "https://www.semanticscholar.org/paper/3f2c992936cfe64540af1c25be20f5a5da8546e1", 
+      "venue": "WSDM", 
+      "year": 2014
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "965d4f77f068b2101d887abcced6b4850dfee597", 
+      "title": "Nonparametric Budgeted Stochastic Gradient Descent", 
+      "url": "https://www.semanticscholar.org/paper/965d4f77f068b2101d887abcced6b4850dfee597", 
+      "venue": "AISTATS", 
+      "year": 2016
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "13344e6896b9e70929bd0653a7ada99c46cdb0b1", 
+      "title": "SOLAR: Scalable Online Learning Algorithms for Ranking", 
+      "url": "https://www.semanticscholar.org/paper/13344e6896b9e70929bd0653a7ada99c46cdb0b1", 
+      "venue": "ACL", 
+      "year": 2015
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "15b08a65ed01dd60cf96286211c4becbc9956999", 
+      "title": "Maximum Entropy Discrimination Markov Networks", 
+      "url": "https://www.semanticscholar.org/paper/15b08a65ed01dd60cf96286211c4becbc9956999", 
+      "venue": "Journal of Machine Learning Research", 
+      "year": 2009
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "1e63c9f982a5c3b3588a9987c8fca8bd5cb6b655", 
+      "title": "Domain adaptation and sample bias correction theory and algorithm for regression", 
+      "url": "https://www.semanticscholar.org/paper/1e63c9f982a5c3b3588a9987c8fca8bd5cb6b655", 
+      "venue": "Theor. Comput. Sci.", 
+      "year": 2014
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "fe9c992f7a1b14a2b358088c918a2f4ed7053d25", 
+      "title": "Survey on Link Prediction and Page Ranking In Blogs", 
+      "url": "https://www.semanticscholar.org/paper/fe9c992f7a1b14a2b358088c918a2f4ed7053d25", 
+      "venue": "", 
+      "year": 2012
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "2f6ed57289b3f63f85488e975595b02bf7a84b59", 
+      "title": "Domain Adaptation for Relation Extraction", 
+      "url": "https://www.semanticscholar.org/paper/2f6ed57289b3f63f85488e975595b02bf7a84b59", 
+      "venue": "", 
+      "year": 2010
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "23da6d8901e64137a711d540e5bd1960b6558c26", 
+      "title": "Collective Classification of Congressional Floor-Debate Transcripts", 
+      "url": "https://www.semanticscholar.org/paper/23da6d8901e64137a711d540e5bd1960b6558c26", 
+      "venue": "ACL", 
+      "year": 2011
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "9b513df93e59cc824e2c1a7b0f4773c727d1e743", 
+      "title": "MEET: a generalized framework for reciprocal recommender systems", 
+      "url": "https://www.semanticscholar.org/paper/9b513df93e59cc824e2c1a7b0f4773c727d1e743", 
+      "venue": "CIKM", 
+      "year": 2012
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "b8b186a02f66b775656100cde9a4ad1ac1334241", 
+      "title": "Distribution-Aware Online Classifiers", 
+      "url": "https://www.semanticscholar.org/paper/b8b186a02f66b775656100cde9a4ad1ac1334241", 
+      "venue": "IJCAI", 
+      "year": 2011
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "1bee62e1faacc87a97b49a9b241cf81eed5d0b73", 
+      "title": "Context-Aware, Adaptive, and Scalable Android Malware Detection Through Online Learning", 
+      "url": "https://www.semanticscholar.org/paper/1bee62e1faacc87a97b49a9b241cf81eed5d0b73", 
+      "venue": "IEEE Transactions on Emerging Topics in Computational Intelligence", 
+      "year": 2017
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "a357d303bf813aecf4c69b7c668cfea5f9fabc04", 
+      "title": "SOAL: Second-Order Online Active Learning", 
+      "url": "https://www.semanticscholar.org/paper/a357d303bf813aecf4c69b7c668cfea5f9fabc04", 
+      "venue": "2016 IEEE 16th International Conference on Data Mining (ICDM)", 
+      "year": 2016
+    }, 
+    {
+      "isInfluential": true, 
+      "paperId": "38480ac0147061ecdce8ae4fa1607b8427dccd80", 
+      "title": "Feature-Frequency-Adaptive On-line Training for Fast and Accurate Natural Language Processing", 
+      "url": "https://www.semanticscholar.org/paper/38480ac0147061ecdce8ae4fa1607b8427dccd80", 
+      "venue": "Computational Linguistics", 
+      "year": 2014
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "2ac761a179b895aa2aa6fa6f6cf8f27fbb5eb840", 
+      "title": "Comparing Extant Story Classifiers: Results & New Directions", 
+      "url": "https://www.semanticscholar.org/paper/2ac761a179b895aa2aa6fa6f6cf8f27fbb5eb840", 
+      "venue": "CMN", 
+      "year": 2016
+    }, 
+    {
+      "isInfluential": true, 
+      "paperId": "c2e471ce704df1008ff7bce25a9f310cf6867fdb", 
+      "title": "Cost-Sensitive Online Classification with Adaptive Regularization and Its Applications", 
+      "url": "https://www.semanticscholar.org/paper/c2e471ce704df1008ff7bce25a9f310cf6867fdb", 
+      "venue": "2015 IEEE International Conference on Data Mining", 
+      "year": 2015
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "3f2c53ce715e00d0874535429feac715f2cfcdc7", 
+      "title": "Online multimodal deep similarity learning with application to image retrieval", 
+      "url": "https://www.semanticscholar.org/paper/3f2c53ce715e00d0874535429feac715f2cfcdc7", 
+      "venue": "ACM Multimedia", 
+      "year": 2013
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "5e031050b24850c1f3266808ea7e83e2069c1129", 
+      "title": "Keeping Things that Matter: An Exploration on Delayed Feedback Online Learning", 
+      "url": "https://www.semanticscholar.org/paper/5e031050b24850c1f3266808ea7e83e2069c1129", 
+      "venue": "", 
+      "year": 2014
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "25131b1b74802e19f9be23d06033f5b6c6343d09", 
+      "title": "Confidence Weighted Mean Reversion Strategy for On-Line Portfolio Selection", 
+      "url": "https://www.semanticscholar.org/paper/25131b1b74802e19f9be23d06033f5b6c6343d09", 
+      "venue": "AISTATS", 
+      "year": 2011
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "897006494c5b6b30e9d1e3da0ebdda343d1627b4", 
+      "title": "Experimental study on the multiple use of training patterns in confidence-weighted on-line learning for fuzzy classifiers", 
+      "url": "https://www.semanticscholar.org/paper/897006494c5b6b30e9d1e3da0ebdda343d1627b4", 
+      "venue": "2014 IEEE International Conference on Granular Computing (GrC)", 
+      "year": 2014
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "7b30d89a67b49e72bf9af6d25790cad8bf6fde6c", 
+      "title": "Part-of-speech tagging with antagonistic adversaries", 
+      "url": "https://www.semanticscholar.org/paper/7b30d89a67b49e72bf9af6d25790cad8bf6fde6c", 
+      "venue": "ACL", 
+      "year": 2013
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "b0902ebfcea7f5103b8099b29cb976263a52aa9b", 
+      "title": "\u0412\u0432\u0435\u0434\u0435\u043d\u0438\u0435 \u0432 \u0430\u043d\u0430\u043b\u0438\u0437 \u043c\u0435\u0442\u043e\u0434\u043e\u0432 \u0438 \u0441\u0440\u0435\u0434\u0441\u0442\u0432 \u043f\u043e\u0434\u0434\u0435\u0440\u0436\u043a\u0438 \u043d\u0430\u0443\u0447\u043d\u044b\u0445 \u044d\u043a\u0441\u043f\u0435\u0440\u0438\u043c\u0435\u043d\u0442\u043e\u0432, \u0434\u0432\u0438\u0436\u0438\u043c\u044b\u0445 \u0433\u0438\u043f\u043e\u0442\u0435\u0437\u0430\u043c\u0438 (Introduction into Analysis of Methods and Tools for Hypothesis-Driven Scientific Experiment Support)", 
+      "url": "https://www.semanticscholar.org/paper/b0902ebfcea7f5103b8099b29cb976263a52aa9b", 
+      "venue": "RCDL", 
+      "year": 2014
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "84b83cba12da88d3620d29424180399611ec191d", 
+      "title": "Exact Passive-Aggressive Algorithm for Multiclass Classification Using Support Class", 
+      "url": "https://www.semanticscholar.org/paper/84b83cba12da88d3620d29424180399611ec191d", 
+      "venue": "SDM", 
+      "year": 2010
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "b8e64c9eefbab2e53948b241bebd0eb9ca2825f6", 
+      "title": "Task-Driven Linguistic Analysis based on an Underspecified Features Representation", 
+      "url": "https://www.semanticscholar.org/paper/b8e64c9eefbab2e53948b241bebd0eb9ca2825f6", 
+      "venue": "LREC", 
+      "year": 2012
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "89612ba5b9fc38bcbbe057a2f77ce8cbb1dd2f4a", 
+      "title": "Learning Using Privileged Information: SVM+ and Weighted SVM", 
+      "url": "https://www.semanticscholar.org/paper/89612ba5b9fc38bcbbe057a2f77ce8cbb1dd2f4a", 
+      "venue": "Neural Networks", 
+      "year": 2014
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "aeb7f55f90ddc7a123c7d0caccabd04dd372c75e", 
+      "title": "Robust Cost-Sensitive Confidence-Weighted Classification", 
+      "url": "https://www.semanticscholar.org/paper/aeb7f55f90ddc7a123c7d0caccabd04dd372c75e", 
+      "venue": "2013 IEEE 13th International Conference on Data Mining Workshops", 
+      "year": 2013
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "767f4e4cca1882e2b6b5ff1e54e3a27366f7c3ea", 
+      "title": "Collaborating between Local and Global Learning for Distributed Online Multiple Tasks", 
+      "url": "https://www.semanticscholar.org/paper/767f4e4cca1882e2b6b5ff1e54e3a27366f7c3ea", 
+      "venue": "CIKM", 
+      "year": 2015
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "f87ec652f5e794e92649252b1ef064dd9ce9f248", 
+      "title": "Online Transfer Learning with Multiple Homogeneous or Heterogeneous Sources", 
+      "url": "https://www.semanticscholar.org/paper/f87ec652f5e794e92649252b1ef064dd9ce9f248", 
+      "venue": "IEEE Transactions on Knowledge and Data Engineering", 
+      "year": 2017
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "6ad810ecc588eef4fa33aa0940e3907d1b6beb8d", 
+      "title": "Multi-Class Confidence Weighted Algorithms", 
+      "url": "https://www.semanticscholar.org/paper/6ad810ecc588eef4fa33aa0940e3907d1b6beb8d", 
+      "venue": "EMNLP", 
+      "year": 2009
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "c11a2501204e9e7c4a53d8a3c87055b2b11c73df", 
+      "title": "Adaptive Learning Algorithms for Transferable Visual Recognition", 
+      "url": "https://www.semanticscholar.org/paper/c11a2501204e9e7c4a53d8a3c87055b2b11c73df", 
+      "venue": "", 
+      "year": 2016
+    }, 
+    {
+      "isInfluential": true, 
+      "paperId": "032b24a2b225cc16914dcb5b16596f5fef4263e8", 
+      "title": "Selective block minimization for faster convergence of limited memory large-scale linear models", 
+      "url": "https://www.semanticscholar.org/paper/032b24a2b225cc16914dcb5b16596f5fef4263e8", 
+      "venue": "KDD", 
+      "year": 2011
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "8873c9af90925befd42988e4117cb24bd8530797", 
+      "title": "Exchange rate prediction with non-numerical information", 
+      "url": "https://www.semanticscholar.org/paper/8873c9af90925befd42988e4117cb24bd8530797", 
+      "venue": "Neural Computing and Applications", 
+      "year": 2010
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "82ca4254f4bce9112c82091fd7922d059f2d4d28", 
+      "title": "A Study and Analysis on Cellular Automata based Classifier in Data Mining", 
+      "url": "https://www.semanticscholar.org/paper/82ca4254f4bce9112c82091fd7922d059f2d4d28", 
+      "venue": "", 
+      "year": 2012
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "107d31ebd315585d615111029c6fc3a45ccd147d", 
+      "title": "Domain Knowledge Uncertainty and Probabilistic Parameter Constraints", 
+      "url": "https://www.semanticscholar.org/paper/107d31ebd315585d615111029c6fc3a45ccd147d", 
+      "venue": "UAI", 
+      "year": 2009
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "48ad0b5bbf3f9e102b6faa1d28dd37511fdb41ca", 
+      "title": "A Construction Method of Fuzzy Classifiers Using Confidence-weighted Learning", 
+      "url": "https://www.semanticscholar.org/paper/48ad0b5bbf3f9e102b6faa1d28dd37511fdb41ca", 
+      "venue": "KES", 
+      "year": 2013
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "283b4c4e165181a71028328c4cedbfa1a74b238c", 
+      "title": "Hope and Fear for Discriminative Training of Statistical Translation Models", 
+      "url": "https://www.semanticscholar.org/paper/283b4c4e165181a71028328c4cedbfa1a74b238c", 
+      "venue": "Journal of Machine Learning Research", 
+      "year": 2012
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "4dee287d2771b6017fbd381586359b29a422cb3d", 
+      "title": "Temporal sentiment detection for user generated video product reviews", 
+      "url": "https://www.semanticscholar.org/paper/4dee287d2771b6017fbd381586359b29a422cb3d", 
+      "venue": "2013 13th International Symposium on Communications and Information Technologies (ISCIT)", 
+      "year": 2013
+    }, 
+    {
+      "isInfluential": true, 
+      "paperId": "5373350b3a43e8fb8c7b6eec79ebac5aba006ad8", 
+      "title": "Advances in Learning and Inference for Partition-wise Models of Coreference Resolution", 
+      "url": "https://www.semanticscholar.org/paper/5373350b3a43e8fb8c7b6eec79ebac5aba006ad8", 
+      "venue": "", 
+      "year": 2009
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "eed4f560097c9447da582a6ed84557d0d6306ea3", 
+      "title": "A Framework of Sparse Online Learning and Its Applications", 
+      "url": "https://www.semanticscholar.org/paper/eed4f560097c9447da582a6ed84557d0d6306ea3", 
+      "venue": "ArXiv", 
+      "year": 2015
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "54936542e492318db8f0b726090ceace02448df2", 
+      "title": "NLP on Spoken Documents Without ASR", 
+      "url": "https://www.semanticscholar.org/paper/54936542e492318db8f0b726090ceace02448df2", 
+      "venue": "EMNLP", 
+      "year": 2010
+    }, 
+    {
+      "isInfluential": true, 
+      "paperId": "b1fb867273719b108e184de5a6519d5d2a5ad41f", 
+      "title": "Large-Scale Online Feature Selection for Ultra-High Dimensional Sparse Data", 
+      "url": "https://www.semanticscholar.org/paper/b1fb867273719b108e184de5a6519d5d2a5ad41f", 
+      "venue": "TKDD", 
+      "year": 2017
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "bc8f4aaf28e9205d9d5928d3aa738f682ad878ed", 
+      "title": "Less Regret via Online Conditioning", 
+      "url": "https://www.semanticscholar.org/paper/bc8f4aaf28e9205d9d5928d3aa738f682ad878ed", 
+      "venue": "ArXiv", 
+      "year": 2010
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "043f5ce256d202fcd68c288bdf9eba8be2a55f8d", 
+      "title": "Block coordinate descent algorithms for large-scale sparse multiclass classification", 
+      "url": "https://www.semanticscholar.org/paper/043f5ce256d202fcd68c288bdf9eba8be2a55f8d", 
+      "venue": "Machine Learning", 
+      "year": 2013
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "83e77cf3f3609241434cebfaa20d954abd457fd4", 
+      "title": "Domain Adaptation for Dependency Parsing via Self-training", 
+      "url": "https://www.semanticscholar.org/paper/83e77cf3f3609241434cebfaa20d954abd457fd4", 
+      "venue": "", 
+      "year": 2015
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "c9703aca1871ad618235e966b0ce348730d22831", 
+      "title": "Two effective methods to detect mobile malware", 
+      "url": "https://www.semanticscholar.org/paper/c9703aca1871ad618235e966b0ce348730d22831", 
+      "venue": "2015 4th International Conference on Computer Science and Network Technology (ICCSNT)", 
+      "year": 2015
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "f026f714dc85d4f73eaeb9903701acf5b8f5bfc5", 
+      "title": "Efficient Interactive Multiclass Learning from Binary Feedback", 
+      "url": "https://www.semanticscholar.org/paper/f026f714dc85d4f73eaeb9903701acf5b8f5bfc5", 
+      "venue": "TiiS", 
+      "year": 2014
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "c9ff08120adaa4e76ab96c0d8f80ad029b09d055", 
+      "title": "SOL: A Library for Scalable Online Learning Algorithms", 
+      "url": "https://www.semanticscholar.org/paper/c9ff08120adaa4e76ab96c0d8f80ad029b09d055", 
+      "venue": "Neurocomputing", 
+      "year": 2017
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "9998ade720e69d6124eba43e29287a53537a00b1", 
+      "title": "Grapheme-to-phoneme conversion based on adaptive regularization of weight vectors", 
+      "url": "https://www.semanticscholar.org/paper/9998ade720e69d6124eba43e29287a53537a00b1", 
+      "venue": "INTERSPEECH", 
+      "year": 2013
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "6d3752433e8e4ce335bc301350e2b2eb6f4c7951", 
+      "title": "Classifying Phishing Emails Using Confidence-Weighted Linear Classifiers", 
+      "url": "https://www.semanticscholar.org/paper/6d3752433e8e4ce335bc301350e2b2eb6f4c7951", 
+      "venue": "", 
+      "year": null
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "a5404caefcf1ffc111e57f1313d95fd46a05caa0", 
+      "title": "Online AUC Maximization", 
+      "url": "https://www.semanticscholar.org/paper/a5404caefcf1ffc111e57f1313d95fd46a05caa0", 
+      "venue": "ICML", 
+      "year": 2011
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "50a3d60ec4b6dd30779407a68f63566bb1023501", 
+      "title": "Online transfer learning by leveraging multiple source domains", 
+      "url": "https://www.semanticscholar.org/paper/50a3d60ec4b6dd30779407a68f63566bb1023501", 
+      "venue": "Knowledge and Information Systems", 
+      "year": 2016
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "51006f395255a3c5bed1f418a1b838b2f24b7b38", 
+      "title": "Malicious URL Detection using Machine Learning: A Survey", 
+      "url": "https://www.semanticscholar.org/paper/51006f395255a3c5bed1f418a1b838b2f24b7b38", 
+      "venue": "ArXiv", 
+      "year": 2017
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "3a378c96cbc034335749f4d00a02db070f115854", 
+      "title": "Re-adapting the Regularization of Weights for Non-stationary Regression", 
+      "url": "https://www.semanticscholar.org/paper/3a378c96cbc034335749f4d00a02db070f115854", 
+      "venue": "ALT", 
+      "year": 2011
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "baa18e29e4897087d8f0b64ba2e4464f4b66dd24", 
+      "title": "Learning to Detect Phishing Webpages", 
+      "url": "https://www.semanticscholar.org/paper/baa18e29e4897087d8f0b64ba2e4464f4b66dd24", 
+      "venue": "J. Internet Serv. Inf. Secur.", 
+      "year": 2014
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "416917b07f70a9b69be556bc0ca3ac20fe127353", 
+      "title": "Second Order Online Collaborative Filtering", 
+      "url": "https://www.semanticscholar.org/paper/416917b07f70a9b69be556bc0ca3ac20fe127353", 
+      "venue": "ACML", 
+      "year": 2013
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "ed511086b5099f889313aa027249be7ae3dd0e0f", 
+      "title": "Graph-Based Query Strategies for Active Learning", 
+      "url": "https://www.semanticscholar.org/paper/ed511086b5099f889313aa027249be7ae3dd0e0f", 
+      "venue": "IEEE Transactions on Audio, Speech, and Language Processing", 
+      "year": 2013
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "3864e796107d1ed2046eccb999c4b406414deee6", 
+      "title": "Large Scale Online Kernel Classification", 
+      "url": "https://www.semanticscholar.org/paper/3864e796107d1ed2046eccb999c4b406414deee6", 
+      "venue": "IJCAI", 
+      "year": 2013
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "1bea7404284ce9085c20a50be570a6162e1da390", 
+      "title": "Online feature selection for mining big data", 
+      "url": "https://www.semanticscholar.org/paper/1bea7404284ce9085c20a50be570a6162e1da390", 
+      "venue": "BigMine", 
+      "year": 2012
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "8f173ea38aca0198ae261d37796c8b6c179617d1", 
+      "title": "Distributed confidence-weighted classification on MapReduce", 
+      "url": "https://www.semanticscholar.org/paper/8f173ea38aca0198ae261d37796c8b6c179617d1", 
+      "venue": "2013 IEEE International Conference on Big Data", 
+      "year": 2013
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "5d9fe38b750f59b4ef0a2b58fde0f60d4317c7ad", 
+      "title": "What's in a Domain? Multi-Domain Learning for Multi-Attribute Data", 
+      "url": "https://www.semanticscholar.org/paper/5d9fe38b750f59b4ef0a2b58fde0f60d4317c7ad", 
+      "venue": "HLT-NAACL", 
+      "year": 2013
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "765fcc05cae8b07ac7b906d5fb7a3c829b7f78c8", 
+      "title": "Training of error-corrective model for ASR without using audio data", 
+      "url": "https://www.semanticscholar.org/paper/765fcc05cae8b07ac7b906d5fb7a3c829b7f78c8", 
+      "venue": "2011 IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP)", 
+      "year": 2011
+    }, 
+    {
+      "isInfluential": true, 
+      "paperId": "338d984a4e93c11c396c30b6ac0472ee963a0c4a", 
+      "title": "Mining Commonsense Knowledge From Personal Stories in Internet Weblogs", 
+      "url": "https://www.semanticscholar.org/paper/338d984a4e93c11c396c30b6ac0472ee963a0c4a", 
+      "venue": "", 
+      "year": 2010
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "3ce564df737a19800a0044537f985903c3c34255", 
+      "title": "PhishDef: URL names say it all", 
+      "url": "https://www.semanticscholar.org/paper/3ce564df737a19800a0044537f985903c3c34255", 
+      "venue": "INFOCOM", 
+      "year": 2011
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "7de9e052e084704cdaf19cefd26a340dc548f5fa", 
+      "title": "An Adaptive Gradient Method for Online AUC Maximization", 
+      "url": "https://www.semanticscholar.org/paper/7de9e052e084704cdaf19cefd26a340dc548f5fa", 
+      "venue": "AAAI", 
+      "year": 2015
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "7f261af565e21d0c5c93224f44a5e48f9e658f8c", 
+      "title": "Exploring Confidence-based Self-training for Multilingual Dependency Parsing in an Under-Resourced Language Scenario", 
+      "url": "https://www.semanticscholar.org/paper/7f261af565e21d0c5c93224f44a5e48f9e658f8c", 
+      "venue": "DepLing", 
+      "year": 2015
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "f6c7103f7861668615ae0bede2748112a9f11ca9", 
+      "title": "Adaptive Regularization for Similarity Measures", 
+      "url": "https://www.semanticscholar.org/paper/f6c7103f7861668615ae0bede2748112a9f11ca9", 
+      "venue": "ICML", 
+      "year": 2012
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "bada14c6e82be927f1b34e2846033082cd4c5426", 
+      "title": "Online feature extraction for the incremental learning of gestures in human-swarm interaction", 
+      "url": "https://www.semanticscholar.org/paper/bada14c6e82be927f1b34e2846033082cd4c5426", 
+      "venue": "2014 IEEE International Conference on Robotics and Automation (ICRA)", 
+      "year": 2014
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "645d076e2abb64e5f671223d549a87d327541b26", 
+      "title": "Advances in Ranking", 
+      "url": "https://www.semanticscholar.org/paper/645d076e2abb64e5f671223d549a87d327541b26", 
+      "venue": "", 
+      "year": 2009
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "a3149f943092eadf96310425db594aa60aab8650", 
+      "title": "Feature Weighting for Improved Classifier Robustness", 
+      "url": "https://www.semanticscholar.org/paper/a3149f943092eadf96310425db594aa60aab8650", 
+      "venue": "", 
+      "year": 2009
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "a4e4f3af9d7ed855134086658dba522e06e47758", 
+      "title": "We're Not in Kansas Anymore: Detecting Domain Changes in Streams", 
+      "url": "https://www.semanticscholar.org/paper/a4e4f3af9d7ed855134086658dba522e06e47758", 
+      "venue": "EMNLP", 
+      "year": 2010
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "85f5e1f1604eb0c89731cba120265bd3b493dc16", 
+      "title": "Wisdom of the swarm for cooperative decision-making in human-swarm interaction", 
+      "url": "https://www.semanticscholar.org/paper/85f5e1f1604eb0c89731cba120265bd3b493dc16", 
+      "venue": "2015 IEEE International Conference on Robotics and Automation (ICRA)", 
+      "year": 2015
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "0aef31b1adcbb7e47304a190cbb85e2377ec2174", 
+      "title": "A math-aware search engine for math question answering system", 
+      "url": "https://www.semanticscholar.org/paper/0aef31b1adcbb7e47304a190cbb85e2377ec2174", 
+      "venue": "CIKM", 
+      "year": 2012
+    }, 
+    {
+      "isInfluential": true, 
+      "paperId": "50bf39d46bd273bb023e041537607f4ee8f7d587", 
+      "title": "Evaluation of Diagonal Confidence-Weighted Learning on the KDD Cup 1999 Dataset for Network Intrusion Detection Systems", 
+      "url": "https://www.semanticscholar.org/paper/50bf39d46bd273bb023e041537607f4ee8f7d587", 
+      "venue": "", 
+      "year": 2010
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "883c0cf1ee71b017faa149fe33e597de8f24e9db", 
+      "title": "Say Anything: Using Textual Case-Based Reasoning to Enable Open-Domain Interactive Storytelling", 
+      "url": "https://www.semanticscholar.org/paper/883c0cf1ee71b017faa149fe33e597de8f24e9db", 
+      "venue": "TiiS", 
+      "year": 2012
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "bdc626bcbcb792df53debe26db9a5b09f6a0e90f", 
+      "title": "Combating the Small Sample Class Imbalance Problem Using Feature Selection", 
+      "url": "https://www.semanticscholar.org/paper/bdc626bcbcb792df53debe26db9a5b09f6a0e90f", 
+      "venue": "IEEE Transactions on Knowledge and Data Engineering", 
+      "year": 2010
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "9785f1ac788c734bbaceb07b9ebd66097a33a09a", 
+      "title": "Harnessing the strengths of anytime algorithms for constant data streams", 
+      "url": "https://www.semanticscholar.org/paper/9785f1ac788c734bbaceb07b9ebd66097a33a09a", 
+      "venue": "Data Mining and Knowledge Discovery", 
+      "year": 2009
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "52f029244eee6d386052c2245608bc9f86643eaf", 
+      "title": "Nonnegative Matrix Factorization for Semi-supervised Dimensionality Reduction", 
+      "url": "https://www.semanticscholar.org/paper/52f029244eee6d386052c2245608bc9f86643eaf", 
+      "venue": "ArXiv", 
+      "year": 2011
+    }, 
+    {
+      "isInfluential": true, 
+      "paperId": "d8214e68bc7af0e24558fd9e79b2d777e46f2edc", 
+      "title": "Making Fisher Discriminant Analysis Scalable", 
+      "url": "https://www.semanticscholar.org/paper/d8214e68bc7af0e24558fd9e79b2d777e46f2edc", 
+      "venue": "ICML", 
+      "year": 2014
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "636611068825cb4b7bdab6ad16ef415adf4fb96c", 
+      "title": "Multi-Domain Learning: When Do Domains Matter?", 
+      "url": "https://www.semanticscholar.org/paper/636611068825cb4b7bdab6ad16ef415adf4fb96c", 
+      "venue": "EMNLP-CoNLL", 
+      "year": 2012
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "65859a6fd816415de9ce215b208523524acfcd34", 
+      "title": "Runtime-behavior based malware classification using online machine learning", 
+      "url": "https://www.semanticscholar.org/paper/65859a6fd816415de9ce215b208523524acfcd34", 
+      "venue": "2015 World Congress on Internet Security (WorldCIS)", 
+      "year": 2015
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "cb4b4cc392e09f269234a21c77ff539df06645b9", 
+      "title": "Active Online Classification via Information Maximization", 
+      "url": "https://www.semanticscholar.org/paper/cb4b4cc392e09f269234a21c77ff539df06645b9", 
+      "venue": "IJCAI", 
+      "year": 2011
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "71f36c8e17a5c080fab31fce1ffea9551fc49e47", 
+      "title": "Predicting Failures of Vision Systems", 
+      "url": "https://www.semanticscholar.org/paper/71f36c8e17a5c080fab31fce1ffea9551fc49e47", 
+      "venue": "2014 IEEE Conference on Computer Vision and Pattern Recognition", 
+      "year": 2014
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "6a4b296ed7102cde2da400fac7ce6f5f78d6d2de", 
+      "title": "Learning Sparser Perceptron Models", 
+      "url": "https://www.semanticscholar.org/paper/6a4b296ed7102cde2da400fac7ce6f5f78d6d2de", 
+      "venue": "", 
+      "year": 2011
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "c46092506e36d8d5e4bea3c7bf507b2bb3c079d1", 
+      "title": "Malicious URL filtering &#x2014; A big data application", 
+      "url": "https://www.semanticscholar.org/paper/c46092506e36d8d5e4bea3c7bf507b2bb3c079d1", 
+      "venue": "2013 IEEE International Conference on Big Data", 
+      "year": 2013
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "adf2f75ea90006059b72b99aad67ee4fc2c7d479", 
+      "title": "Beyond Globally Optimal: Focused Learning for Improved Recommendations", 
+      "url": "https://www.semanticscholar.org/paper/adf2f75ea90006059b72b99aad67ee4fc2c7d479", 
+      "venue": "WWW", 
+      "year": 2017
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "90713384f57fe8d3457158ee56b545699726c0e9", 
+      "title": "Multi-domain learning by confidence-weighted parameter combination", 
+      "url": "https://www.semanticscholar.org/paper/90713384f57fe8d3457158ee56b545699726c0e9", 
+      "venue": "Machine Learning", 
+      "year": 2009
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "c9ddd1b442d61c1dc66f0eeb1d019f3970707cf5", 
+      "title": "Adaptive Two-View Online Learning for Math Topic Classification", 
+      "url": "https://www.semanticscholar.org/paper/c9ddd1b442d61c1dc66f0eeb1d019f3970707cf5", 
+      "venue": "ECML/PKDD", 
+      "year": 2012
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "55e8de68e328c81f45111e2fb6ef9a4dd025aea8", 
+      "title": "Collective Document Classification with Implicit Inter-document Semantic Relationships", 
+      "url": "https://www.semanticscholar.org/paper/55e8de68e328c81f45111e2fb6ef9a4dd025aea8", 
+      "venue": "*SEM@NAACL-HLT", 
+      "year": 2015
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "047eb665389b5fbf49a83b3f7e39ff28f536a284", 
+      "title": "Online Learning for Group Lasso", 
+      "url": "https://www.semanticscholar.org/paper/047eb665389b5fbf49a83b3f7e39ff28f536a284", 
+      "venue": "ICML", 
+      "year": 2010
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "7cac276a31ffb6a66b3acfed7de8026b835890af", 
+      "title": "Active Learning with Confidence", 
+      "url": "https://www.semanticscholar.org/paper/7cac276a31ffb6a66b3acfed7de8026b835890af", 
+      "venue": "ACL", 
+      "year": 2008
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "045f0847007876ba13fc5a1fcf4263869fd8ecdd", 
+      "title": "Kernel Completion for Learning Consensus Support Vector Machines in Bandwidth-limited Sensor Networks", 
+      "url": "https://www.semanticscholar.org/paper/045f0847007876ba13fc5a1fcf4263869fd8ecdd", 
+      "venue": "ICPRAM", 
+      "year": 2014
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "2ae394f03f18da4f037db9cc70444bb55bc6ecc3", 
+      "title": "Adaptive Transferred-profile Likelihood Learning", 
+      "url": "https://www.semanticscholar.org/paper/2ae394f03f18da4f037db9cc70444bb55bc6ecc3", 
+      "venue": "2016 International Joint Conference on Neural Networks (IJCNN)", 
+      "year": 2016
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "b6658f5c2b580979494cae455d1a9d4dbeae89f6", 
+      "title": "Efficient Online Sequence Prediction with Side Information", 
+      "url": "https://www.semanticscholar.org/paper/b6658f5c2b580979494cae455d1a9d4dbeae89f6", 
+      "venue": "2013 IEEE 13th International Conference on Data Mining", 
+      "year": 2013
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "278960f4ecc9ad997d13272ff4daf189e962b74b", 
+      "title": "Massive-scale Online Feature Selection for Sparse Ultra-high Dimensional Data", 
+      "url": "https://www.semanticscholar.org/paper/278960f4ecc9ad997d13272ff4daf189e962b74b", 
+      "venue": "ArXiv", 
+      "year": 2014
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "0f9d5a127b348454b653a3b2acb7577045d77aa8", 
+      "title": "Classifying with confidence from incomplete information", 
+      "url": "https://www.semanticscholar.org/paper/0f9d5a127b348454b653a3b2acb7577045d77aa8", 
+      "venue": "Journal of Machine Learning Research", 
+      "year": 2013
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "4aca53686779f210486de49f846da92d3e61b89e", 
+      "title": "Collective Sentiment Classification Based on User Leniency and Product Popularity", 
+      "url": "https://www.semanticscholar.org/paper/4aca53686779f210486de49f846da92d3e61b89e", 
+      "venue": "PACLIC", 
+      "year": 2013
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "47957e65f429299a0dd7c7fb7245221e2f4a2b53", 
+      "title": "Rectified Factor Networks", 
+      "url": "https://www.semanticscholar.org/paper/47957e65f429299a0dd7c7fb7245221e2f4a2b53", 
+      "venue": "NIPS", 
+      "year": 2015
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "587fe06a1171de0191086f8b68fda5b11121fec6", 
+      "title": "Malicious URL detection by dynamically mining patterns without pre-defined elements", 
+      "url": "https://www.semanticscholar.org/paper/587fe06a1171de0191086f8b68fda5b11121fec6", 
+      "venue": "World Wide Web", 
+      "year": 2013
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "860edf087c38e8d168dc213164d7acddba1590f7", 
+      "title": "Online incremental supervised growing neural gas", 
+      "url": "https://www.semanticscholar.org/paper/860edf087c38e8d168dc213164d7acddba1590f7", 
+      "venue": "2017 International Joint Conference on Neural Networks (IJCNN)", 
+      "year": 2017
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "75fc1b71633452e67052ecf0bb23c9a9f755deee", 
+      "title": "Suspicious URL Filtering Based on Logistic Regression with Multi-view Analysis", 
+      "url": "https://www.semanticscholar.org/paper/75fc1b71633452e67052ecf0bb23c9a9f755deee", 
+      "venue": "2013 Eighth Asia Joint Conference on Information Security", 
+      "year": 2013
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "4639d255c55dbcd6a13c31473df42f9a398332b5", 
+      "title": "Active Learning with Expert Advice", 
+      "url": "https://www.semanticscholar.org/paper/4639d255c55dbcd6a13c31473df42f9a398332b5", 
+      "venue": "UAI", 
+      "year": 2013
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "f6ea11e596cbd648170db6641ce3ec1cb72f864f", 
+      "title": "Tweet classification by data compression", 
+      "url": "https://www.semanticscholar.org/paper/f6ea11e596cbd648170db6641ce3ec1cb72f864f", 
+      "venue": "DETECT '11", 
+      "year": 2011
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "e429c37a15cfc4b8cf4e98c919c36087b460bfe7", 
+      "title": "Large Scale Online Kernel Learning", 
+      "url": "https://www.semanticscholar.org/paper/e429c37a15cfc4b8cf4e98c919c36087b460bfe7", 
+      "venue": "Journal of Machine Learning Research", 
+      "year": 2016
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "6a61666c520d19eb6c9bdf485d062b31f6076ffc", 
+      "title": "What's in a URL: Fast Feature Extraction and Malicious URL Detection", 
+      "url": "https://www.semanticscholar.org/paper/6a61666c520d19eb6c9bdf485d062b31f6076ffc", 
+      "venue": "IWSPA@CODASPY", 
+      "year": 2017
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "81cf13ff90da22136a6a0430a9fde07ab327ec5d", 
+      "title": "Large Relative Margin and Applications", 
+      "url": "https://www.semanticscholar.org/paper/81cf13ff90da22136a6a0430a9fde07ab327ec5d", 
+      "venue": "", 
+      "year": 2010
+    }, 
+    {
+      "isInfluential": true, 
+      "paperId": "6b7f0768ab021cf3738f5854807bf7bb484bcf19", 
+      "title": "Three Guidelines of Online Learning for Large-Scale Visual Recognition", 
+      "url": "https://www.semanticscholar.org/paper/6b7f0768ab021cf3738f5854807bf7bb484bcf19", 
+      "venue": "2014 IEEE Conference on Computer Vision and Pattern Recognition", 
+      "year": 2014
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "666aa291c6edef61e16efa829f51e7371125c95b", 
+      "title": "Volume Regularization for Binary Classification", 
+      "url": "https://www.semanticscholar.org/paper/666aa291c6edef61e16efa829f51e7371125c95b", 
+      "venue": "NIPS", 
+      "year": 2012
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "121d9c737a887f7f6a03ffbc5be87b26bdad17f8", 
+      "title": "Identifying suspicious URLs: an application of large-scale online learning", 
+      "url": "https://www.semanticscholar.org/paper/121d9c737a887f7f6a03ffbc5be87b26bdad17f8", 
+      "venue": "ICML", 
+      "year": 2009
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "8ebf95c48d32d8b55aa7fd8b95a055eed2619f7b", 
+      "title": "Complex-valued online classifier", 
+      "url": "https://www.semanticscholar.org/paper/8ebf95c48d32d8b55aa7fd8b95a055eed2619f7b", 
+      "venue": "2016 International Joint Conference on Neural Networks (IJCNN)", 
+      "year": 2016
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "b5556dff83d916598f626cff6691242de69be409", 
+      "title": "ANOFS: Automated negotiation based online feature selection method", 
+      "url": "https://www.semanticscholar.org/paper/b5556dff83d916598f626cff6691242de69be409", 
+      "venue": "2015 15th International Conference on Intelligent Systems Design and Applications (ISDA)", 
+      "year": 2015
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "409321238b1ce18c4d92256373837cca67c1d0f5", 
+      "title": "Online Learning for URL classification", 
+      "url": "https://www.semanticscholar.org/paper/409321238b1ce18c4d92256373837cca67c1d0f5", 
+      "venue": "", 
+      "year": 2009
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "8ace94d16f3da3f205f5be6f29f20716741f4ce1", 
+      "title": "Stable On-Line Learning with Optimized Local Learning, But Minimal Change of the Global Output", 
+      "url": "https://www.semanticscholar.org/paper/8ace94d16f3da3f205f5be6f29f20716741f4ce1", 
+      "venue": "2013 12th International Conference on Machine Learning and Applications", 
+      "year": 2013
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "5f0d4fa844dc344c87d6368c2ebfa45932131702", 
+      "title": "Learning via Gaussian Herding", 
+      "url": "https://www.semanticscholar.org/paper/5f0d4fa844dc344c87d6368c2ebfa45932131702", 
+      "venue": "NIPS", 
+      "year": 2010
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "006f283a50d325840433f4cf6d15876d475bba77", 
+      "title": "Preserving Structure in Model-Free Tracking", 
+      "url": "https://www.semanticscholar.org/paper/006f283a50d325840433f4cf6d15876d475bba77", 
+      "venue": "IEEE Transactions on Pattern Analysis and Machine Intelligence", 
+      "year": 2014
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "8294dcb4d48583ae8a37a103633df82ef10ed95d", 
+      "title": "A New Smooth Approximation to the Zero One Loss with a Probabilistic Interpretation", 
+      "url": "https://www.semanticscholar.org/paper/8294dcb4d48583ae8a37a103633df82ef10ed95d", 
+      "venue": "ArXiv", 
+      "year": 2015
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "01ea76102abea02170108925747281b1f60308b6", 
+      "title": "Latent Coincidence Analysis: A Hidden Variable Model for Distance Metric Learning", 
+      "url": "https://www.semanticscholar.org/paper/01ea76102abea02170108925747281b1f60308b6", 
+      "venue": "NIPS", 
+      "year": 2012
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "66fbc215a1e4d7a9854b962188125f80c22b1c96", 
+      "title": "Learning to detect malicious URLs", 
+      "url": "https://www.semanticscholar.org/paper/66fbc215a1e4d7a9854b962188125f80c22b1c96", 
+      "venue": "ACM TIST", 
+      "year": 2010
+    }, 
+    {
+      "isInfluential": true, 
+      "paperId": "f030231d238ac247f80ab9b2da1d30782b761a80", 
+      "title": "Exact Soft Confidence-Weighted Learning", 
+      "url": "https://www.semanticscholar.org/paper/f030231d238ac247f80ab9b2da1d30782b761a80", 
+      "venue": "ICML", 
+      "year": 2012
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "4c8e5fc0877d066516bb63e6c31eb1b8b5f967eb", 
+      "title": "MODI, KOVASHKA: CONFIDENCE AND DIVERSITY FOR ACTIVE SELECTION 1 Confidence and Diversity for Active Selection of Feedback in Image Retrieval", 
+      "url": "https://www.semanticscholar.org/paper/4c8e5fc0877d066516bb63e6c31eb1b8b5f967eb", 
+      "venue": "", 
+      "year": 2017
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "b305fd526405a0cf3d8f88c6afccac9a2c125dd0", 
+      "title": "Sentiment Classification Considering Negation and Contrast Transition", 
+      "url": "https://www.semanticscholar.org/paper/b305fd526405a0cf3d8f88c6afccac9a2c125dd0", 
+      "venue": "PACLIC", 
+      "year": 2009
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "25c62d745f40d0190318a53241ec824401042003", 
+      "title": "Adaptive Subgradient Methods for Online AUC Maximization", 
+      "url": "https://www.semanticscholar.org/paper/25c62d745f40d0190318a53241ec824401042003", 
+      "venue": "ArXiv", 
+      "year": 2016
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "bea5c68d672e9a0ac9b9dc6a313ab50cb3d763ab", 
+      "title": "Robust Learning in Random Subspaces: Equipping NLP for OOV Effects", 
+      "url": "https://www.semanticscholar.org/paper/bea5c68d672e9a0ac9b9dc6a313ab50cb3d763ab", 
+      "venue": "COLING", 
+      "year": 2012
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "8d605aeace6eccf67d751f3185da5e184da5bd9f", 
+      "title": "Malicious web page detection based on on-line learning algorithm", 
+      "url": "https://www.semanticscholar.org/paper/8d605aeace6eccf67d751f3185da5e184da5bd9f", 
+      "venue": "ICMLC", 
+      "year": 2011
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "3bd11ce87f31b33a1ccb77031cde98c3501bcc58", 
+      "title": "Reliable localized on-line learning in non-stationary environments", 
+      "url": "https://www.semanticscholar.org/paper/3bd11ce87f31b33a1ccb77031cde98c3501bcc58", 
+      "venue": "2014 IEEE Conference on Evolving and Adaptive Intelligent Systems (EAIS)", 
+      "year": 2014
+    }
+  ], 
+  "doi": "10.1145/1390156.1390190", 
+  "influentialCitationCount": 15, 
+  "paperId": "7af09246bae1d2d9abada79f441ba25858c69ef9", 
+  "references": [
+    {
+      "isInfluential": false, 
+      "paperId": "2a65a1a126f843f0e3600ba80da50bc6d4c32855", 
+      "title": "The Matrix Cookbook", 
+      "url": "https://www.semanticscholar.org/paper/2a65a1a126f843f0e3600ba80da50bc6d4c32855", 
+      "venue": "", 
+      "year": 2004
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "2688969848b75336891b1e58a2b6ee433343867c", 
+      "title": "The perceptron: a probabilistic model for information storage and organization in the brain.", 
+      "url": "https://www.semanticscholar.org/paper/2688969848b75336891b1e58a2b6ee433343867c", 
+      "venue": "Psychological review", 
+      "year": 1958
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "44fce80520e3f0212d78d2543106076d8cf5b05f", 
+      "title": "The Huller: A Simple and Efficient Online SVM", 
+      "url": "https://www.semanticscholar.org/paper/44fce80520e3f0212d78d2543106076d8cf5b05f", 
+      "venue": "ECML", 
+      "year": 2005
+    }, 
+    {
+      "isInfluential": true, 
+      "paperId": "1592fe924114866c1ac559bae33ea789930daa98", 
+      "title": "Gaussian Processes for Machine Learning", 
+      "url": "https://www.semanticscholar.org/paper/1592fe924114866c1ac559bae33ea789930daa98", 
+      "venue": "Adaptive computation and machine learning", 
+      "year": 2009
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "5e24aa9fdf5466e96d314dfcde973fccec02995d", 
+      "title": "Single-pass online learning: performance, voting schemes and online feature selection", 
+      "url": "https://www.semanticscholar.org/paper/5e24aa9fdf5466e96d314dfcde973fccec02995d", 
+      "venue": "KDD", 
+      "year": 2006
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "94db635f54d25bdb95edb42185aca93ba53b051b", 
+      "title": "Biographies, Bollywood, Boom-boxes and Blenders: Domain Adaptation for Sentiment Classification", 
+      "url": "https://www.semanticscholar.org/paper/94db635f54d25bdb95edb42185aca93ba53b051b", 
+      "venue": "ACL", 
+      "year": 2007
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "8aaba49539c6605cf14a3535c749bf60f3b92547", 
+      "title": "Ellipsoidal Kernel Machines", 
+      "url": "https://www.semanticscholar.org/paper/8aaba49539c6605cf14a3535c749bf60f3b92547", 
+      "venue": "", 
+      "year": 2007
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "a1829e8cf34f1f60de1a34ab49d8fb74d79e43c4", 
+      "title": "Adapting Bias by Gradient Descent: An Incremental Version of Delta-Bar-Delta", 
+      "url": "https://www.semanticscholar.org/paper/a1829e8cf34f1f60de1a34ab49d8fb74d79e43c4", 
+      "venue": "AAAI", 
+      "year": 1992
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "2abe6b9ea1b13653b7384e9c8ef14b0d87e20cfc", 
+      "title": "RCV1: A New Benchmark Collection for Text Categorization Research", 
+      "url": "https://www.semanticscholar.org/paper/2abe6b9ea1b13653b7384e9c8ef14b0d87e20cfc", 
+      "venue": "Journal of Machine Learning Research", 
+      "year": 2004
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "6497fde499a1f56b24c468329e057b4ce577edbb", 
+      "title": "Bayes Point Machines", 
+      "url": "https://www.semanticscholar.org/paper/6497fde499a1f56b24c468329e057b4ce577edbb", 
+      "venue": "Journal of Machine Learning Research", 
+      "year": 2001
+    }, 
+    {
+      "isInfluential": true, 
+      "paperId": "9c71a79eb4b8d60f116470ca4103c48ba709d83f", 
+      "title": "A Second-Order Perceptron Algorithm", 
+      "url": "https://www.semanticscholar.org/paper/9c71a79eb4b8d60f116470ca4103c48ba709d83f", 
+      "venue": "COLT", 
+      "year": 2002
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "62f66d43797b73e1e002d52af052c84a8b0c4b30", 
+      "title": "Online Bayes Point Machines", 
+      "url": "https://www.semanticscholar.org/paper/62f66d43797b73e1e002d52af052c84a8b0c4b30", 
+      "venue": "PAKDD", 
+      "year": 2003
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "08743d09f3ec33ab1f188d4c5f8f5550c312ace0", 
+      "title": "Online Passive-Aggressive Algorithms", 
+      "url": "https://www.semanticscholar.org/paper/08743d09f3ec33ab1f188d4c5f8f5550c312ace0", 
+      "venue": "NIPS", 
+      "year": 2003
+    }
+  ], 
+  "title": "Confidence-weighted linear classification", 
+  "url": "https://www.semanticscholar.org/paper/7af09246bae1d2d9abada79f441ba25858c69ef9", 
+  "venue": "ICML", 
+  "year": 2008
+}

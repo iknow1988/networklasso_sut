@@ -1,0 +1,911 @@
+{
+  "authors": [
+    {
+      "authorId": "2490508", 
+      "name": "Scott Miller", 
+      "url": "https://www.semanticscholar.org/author/2490508"
+    }, 
+    {
+      "authorId": "2556308", 
+      "name": "Heidi Fox", 
+      "url": "https://www.semanticscholar.org/author/2556308"
+    }, 
+    {
+      "authorId": "1744313", 
+      "name": "Lance A. Ramshaw", 
+      "url": "https://www.semanticscholar.org/author/1744313"
+    }, 
+    {
+      "authorId": "1732071", 
+      "name": "Ralph M. Weischedel", 
+      "url": "https://www.semanticscholar.org/author/1732071"
+    }
+  ], 
+  "citationVelocity": 0, 
+  "citations": [
+    {
+      "isInfluential": false, 
+      "paperId": "45dccc9d6cae4a5b0a6a7d0c68f1139dee766f68", 
+      "title": "What have you done for me lately? The fickle alignment of NLP and CALL", 
+      "url": "https://www.semanticscholar.org/paper/45dccc9d6cae4a5b0a6a7d0c68f1139dee766f68"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "d05eb7f781a5deae3e93a10eed4b297dd2eb41ab", 
+      "title": "Learning compound noun semantics", 
+      "url": "https://www.semanticscholar.org/paper/d05eb7f781a5deae3e93a10eed4b297dd2eb41ab"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "155baea065396a150f0f8875e088355800fa9449", 
+      "title": "Head-Driven Statistical Models for Natural Language Parsing", 
+      "url": "https://www.semanticscholar.org/paper/155baea065396a150f0f8875e088355800fa9449"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "357e4b72243447302b1d6b265d6e85864f4c22b2", 
+      "title": "Expressing Implicit Semantic Relations without Supervision", 
+      "url": "https://www.semanticscholar.org/paper/357e4b72243447302b1d6b265d6e85864f4c22b2"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "a1435f9443794a882be226393dabaa2c6de0e6d3", 
+      "title": "Convolution Kernels on Constituent, Dependency and Sequential Structures for Relation Extraction", 
+      "url": "https://www.semanticscholar.org/paper/a1435f9443794a882be226393dabaa2c6de0e6d3"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "6e135a450e10c83c7ee20f086b1c25f1335354e1", 
+      "title": "Discriminatively Modeling Commonality of Term Types for Extracting Relation from Small Corpora", 
+      "url": "https://www.semanticscholar.org/paper/6e135a450e10c83c7ee20f086b1c25f1335354e1"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "feabe3a669c73eebf5a175f1e6d7f4dab4b6af88", 
+      "title": "Answer Selection and Confidence Estimation", 
+      "url": "https://www.semanticscholar.org/paper/feabe3a669c73eebf5a175f1e6d7f4dab4b6af88"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "d32c67a2e4bbeaf589b2f14ac39431c6e0b3684c", 
+      "title": "Relational Path Mining in Structured Knowledge", 
+      "url": "https://www.semanticscholar.org/paper/d32c67a2e4bbeaf589b2f14ac39431c6e0b3684c"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "4b9eef78c80afcb759771357681c7a5322df2e89", 
+      "title": "Supervised semantic relation mining from linguistically noisy text documents", 
+      "url": "https://www.semanticscholar.org/paper/4b9eef78c80afcb759771357681c7a5322df2e89"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "1f2f3772b0f72215292ff77d17df32eefcb03d41", 
+      "title": "Exploring syntactic structured features over parse trees for relation extraction using kernel methods", 
+      "url": "https://www.semanticscholar.org/paper/1f2f3772b0f72215292ff77d17df32eefcb03d41"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "480f58c3c9d29d351a4a75b906fecc9a259f9354", 
+      "title": "Semantic Role Labeling Using Lexicalized Tree Adjoining Grammars", 
+      "url": "https://www.semanticscholar.org/paper/480f58c3c9d29d351a4a75b906fecc9a259f9354"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "1a6c5a1d99ddd1de0ff0681e13fd73f9771cd2fc", 
+      "title": "Semi-supervised Relation Extraction with Large-scale Word Clustering", 
+      "url": "https://www.semanticscholar.org/paper/1a6c5a1d99ddd1de0ff0681e13fd73f9771cd2fc"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "1d60bd8f2aad3fca69d7df78722a7c4fe96c2660", 
+      "title": "Triangular-Chain Conditional Random Fields", 
+      "url": "https://www.semanticscholar.org/paper/1d60bd8f2aad3fca69d7df78722a7c4fe96c2660"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "8e226ef8f7aca26f23221fe2834290ffb32dff85", 
+      "title": "Extracting descriptive noun phrases from conversational speech", 
+      "url": "https://www.semanticscholar.org/paper/8e226ef8f7aca26f23221fe2834290ffb32dff85"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "a59bb903dba60107375ba3c85c19ca1632cc2b1f", 
+      "title": "A Survey on Region Extractors from Web Documents", 
+      "url": "https://www.semanticscholar.org/paper/a59bb903dba60107375ba3c85c19ca1632cc2b1f"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "59d70013abf56d7cc28cac16e322048d440aca4a", 
+      "title": "Semantic Parsing for High-Precision Semantic Role Labelling", 
+      "url": "https://www.semanticscholar.org/paper/59d70013abf56d7cc28cac16e322048d440aca4a"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "043d65d1b0d0696ea6143a14117d770cd30326d1", 
+      "title": "Multi-candidate reduction: Sentence compression as a tool for document summarization tasks", 
+      "url": "https://www.semanticscholar.org/paper/043d65d1b0d0696ea6143a14117d770cd30326d1"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "37c5f8fa5f9b53fefaafcd7e524c9798b9deaf1f", 
+      "title": "Relation Extraction from Chinese News Web Documents Based on Weakly Supervised Learning", 
+      "url": "https://www.semanticscholar.org/paper/37c5f8fa5f9b53fefaafcd7e524c9798b9deaf1f"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "0cbb2a91ade22fb9c9ebc0a0a1ed43492bbc6a39", 
+      "title": "Joint Parsing and Semantic Role Labeling", 
+      "url": "https://www.semanticscholar.org/paper/0cbb2a91ade22fb9c9ebc0a0a1ed43492bbc6a39"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "68cd1c7c0651b116a83abab8a7a46a29975d3b5f", 
+      "title": "Exploring Various Knowledge in Relation Extraction", 
+      "url": "https://www.semanticscholar.org/paper/68cd1c7c0651b116a83abab8a7a46a29975d3b5f"
+    }, 
+    {
+      "isInfluential": true, 
+      "paperId": "ea967ec51f64734e2f943b99e762654b4f6e5952", 
+      "title": "Hierarchical learning strategy in semantic relation extraction", 
+      "url": "https://www.semanticscholar.org/paper/ea967ec51f64734e2f943b99e762654b4f6e5952"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "ac247547160d9d5d7ded67ac4a9ec36509c6075d", 
+      "title": "Beyond common features: the role of roles in determining similarity.", 
+      "url": "https://www.semanticscholar.org/paper/ac247547160d9d5d7ded67ac4a9ec36509c6075d"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "c5e952c5d99379c6739e3119c41627a5057df9f7", 
+      "title": "Relation Extraction with Weak Supervision and Distributional Semantics", 
+      "url": "https://www.semanticscholar.org/paper/c5e952c5d99379c6739e3119c41627a5057df9f7"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "ec433cb7bc06fc8430c8184b2b9965626397c518", 
+      "title": "Use of Montague and Montague-like Compositional Semantics in Natural Language Database Query Processing", 
+      "url": "https://www.semanticscholar.org/paper/ec433cb7bc06fc8430c8184b2b9965626397c518"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "aed7de7ae04e6a84dd1a13955551d6fd4aea836f", 
+      "title": "Distant Supervision for Relation Extraction with Ranking-Based Methods", 
+      "url": "https://www.semanticscholar.org/paper/aed7de7ae04e6a84dd1a13955551d6fd4aea836f"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "9ecf548f29928295d63ca16f42d417f512fb26be", 
+      "title": "On the Complexity of Non-Projective Data-Driven Dependency Parsing", 
+      "url": "https://www.semanticscholar.org/paper/9ecf548f29928295d63ca16f42d417f512fb26be"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "5b181bbfe141c275027795c009b5b75b8b6737da", 
+      "title": "Relation Extraction from Web Contents with Linguistic and Web Features", 
+      "url": "https://www.semanticscholar.org/paper/5b181bbfe141c275027795c009b5b75b8b6737da"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "db073b550a4d3354a72468903eba2d3c88620b8f", 
+      "title": "A Composite Kernel to Extract Relations between Entities with Both Flat and Structured Features", 
+      "url": "https://www.semanticscholar.org/paper/db073b550a4d3354a72468903eba2d3c88620b8f"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "332de1927fe0ee681aec54f83a9711e37e08404d", 
+      "title": "A Joint Segmenting and Labeling Approach for Chinese Lexical Analysis", 
+      "url": "https://www.semanticscholar.org/paper/332de1927fe0ee681aec54f83a9711e37e08404d"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "3abf5cf3f15aaa44b331c3da3c3601590b2095b0", 
+      "title": "Distant Supervision for Relation Extraction with an Incomplete Knowledge Base", 
+      "url": "https://www.semanticscholar.org/paper/3abf5cf3f15aaa44b331c3da3c3601590b2095b0"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "47617b9486c7de59ee0694b43ba693efc8ac8635", 
+      "title": "Person attributes extraction in profiles based on SVM and pattern", 
+      "url": "https://www.semanticscholar.org/paper/47617b9486c7de59ee0694b43ba693efc8ac8635"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "307e36662defe8e8903008afd8492fcede8ccb90", 
+      "title": "Combining Lexical, Syntactic, And Semantic Features With Maximum Entropy Models For Information Extraction", 
+      "url": "https://www.semanticscholar.org/paper/307e36662defe8e8903008afd8492fcede8ccb90"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "c9189e828c41fbcb7155548016f6fc0e5c58e0e3", 
+      "title": "Exploring Syntactic Features for Relation Extraction using a Convolution Tree Kernel", 
+      "url": "https://www.semanticscholar.org/paper/c9189e828c41fbcb7155548016f6fc0e5c58e0e3"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "7ae207cfaf01dc2b6799da67f454190b34994870", 
+      "title": "A Statistical Semantic Parser that Integrates Syntax and Semantics", 
+      "url": "https://www.semanticscholar.org/paper/7ae207cfaf01dc2b6799da67f454190b34994870"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "7816bdb7b7f07a087a2e0015ae803b84f61e434b", 
+      "title": "Doctoral Dissertation Research on Chinese Idiomatic Expression Reading Support System for Japanese CSL Learners", 
+      "url": "https://www.semanticscholar.org/paper/7816bdb7b7f07a087a2e0015ae803b84f61e434b"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "a76f35b1c081ed4fceb895136751db0e4e195142", 
+      "title": "Knowledge base population using semantic label propagation", 
+      "url": "https://www.semanticscholar.org/paper/a76f35b1c081ed4fceb895136751db0e4e195142"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "f482c7ea4f786192e63c8767323add95e1906e92", 
+      "title": "Semi-Supervised Learning for Semantic Relation Classification using Stratified Sampling Strategy", 
+      "url": "https://www.semanticscholar.org/paper/f482c7ea4f786192e63c8767323add95e1906e92"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "72e90c09bf6e45dfaecb5bafd50f4542b0465f23", 
+      "title": "Hierarchical Joint Learning: Improving Joint Parsing and Named Entity Recognition with Non-Jointly Labeled Data", 
+      "url": "https://www.semanticscholar.org/paper/72e90c09bf6e45dfaecb5bafd50f4542b0465f23"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "9737f425c85297ccb16a1027f6af844539ca362a", 
+      "title": "Acad\u00e9mie D'aix-marseille", 
+      "url": "https://www.semanticscholar.org/paper/9737f425c85297ccb16a1027f6af844539ca362a"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "a9dcc06b9a8deba432a1b697ba5959068ef0b655", 
+      "title": "Lecture 1: COMS E6998-3, Spring 2011 Log-Linear Models", 
+      "url": "https://www.semanticscholar.org/paper/a9dcc06b9a8deba432a1b697ba5959068ef0b655"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "35680cbb2e4b8997efc9480dad1b077a7d9d261a", 
+      "title": "Exploiting Rich Syntactic Information for Relation Extraction from Biomedical Articles\u2217", 
+      "url": "https://www.semanticscholar.org/paper/35680cbb2e4b8997efc9480dad1b077a7d9d261a"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "3ce18d2c2cc81e1e05410d8e1c4611850384a2f8", 
+      "title": "Compensating for Annotation Errors in Training a Relation Extractor", 
+      "url": "https://www.semanticscholar.org/paper/3ce18d2c2cc81e1e05410d8e1c4611850384a2f8"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "82be7dfbd3e5d742217296e33045786db570505d", 
+      "title": "Relation Extraction Using Label Propagation Based Semi-Supervised Learning", 
+      "url": "https://www.semanticscholar.org/paper/82be7dfbd3e5d742217296e33045786db570505d"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "f34767171abc7e0b2534a4821339c23fb50e8728", 
+      "title": "Supervised Ontology to Document Interlinking", 
+      "url": "https://www.semanticscholar.org/paper/f34767171abc7e0b2534a4821339c23fb50e8728"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "589c1d0148cd5f8303a373c4777f6b94f50ede7e", 
+      "title": "Simultaneous Identification of Biomedical Named-Entity and Functional Relations Using Statistical Parsing Techniques", 
+      "url": "https://www.semanticscholar.org/paper/589c1d0148cd5f8303a373c4777f6b94f50ede7e"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "41e6b6579e6692dbb21cc481c98e05f466960e53", 
+      "title": "An Overview and Classification of Adaptive Approaches to Information Extraction", 
+      "url": "https://www.semanticscholar.org/paper/41e6b6579e6692dbb21cc481c98e05f466960e53"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "41c75527e2ecb5493307f9758ddc8df6bf8b22fe", 
+      "title": "A domain-independent approach to finding related entities", 
+      "url": "https://www.semanticscholar.org/paper/41c75527e2ecb5493307f9758ddc8df6bf8b22fe"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "2d23ac758b4be7e642e877368d53a43cd78bd932", 
+      "title": "Semantically Informed Machine Translation Final Report of the 2009 Summer Camp for Advanced Language Exploration (scale) Semantically Informed Machine Translation (simt)", 
+      "url": "https://www.semanticscholar.org/paper/2d23ac758b4be7e642e877368d53a43cd78bd932"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "4e7dd05b75add873d618bc2c7ea5003829e449b6", 
+      "title": "Extracting Relations with Integrated Information Using Kernel Methods", 
+      "url": "https://www.semanticscholar.org/paper/4e7dd05b75add873d618bc2c7ea5003829e449b6"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "b6c0bce0f9bd7b2483d0aa055743786823acc4f4", 
+      "title": "Fun with Reading Comprehension", 
+      "url": "https://www.semanticscholar.org/paper/b6c0bce0f9bd7b2483d0aa055743786823acc4f4"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "b38da201d0135ff5dbfb47a6b1fb52e076d5b055", 
+      "title": "Barrier Features for Classification of Semantic Relations", 
+      "url": "https://www.semanticscholar.org/paper/b38da201d0135ff5dbfb47a6b1fb52e076d5b055"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "682eaa15e3a36db9e9d67598596a701c6118cbea", 
+      "title": "Portierung eines Relationsextraktionssystems auf eine neue Doma\u0308ne", 
+      "url": "https://www.semanticscholar.org/paper/682eaa15e3a36db9e9d67598596a701c6118cbea"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "1416318fed97126ae77c1a35576f155afce5d4cf", 
+      "title": "Learning Field Compatibilities to Extract Database Records from Unstructured Text", 
+      "url": "https://www.semanticscholar.org/paper/1416318fed97126ae77c1a35576f155afce5d4cf"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "37e301185aceec20897b5353360556c9d7a9c844", 
+      "title": "Medical Relation Extraction with Manifold Models", 
+      "url": "https://www.semanticscholar.org/paper/37e301185aceec20897b5353360556c9d7a9c844"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "75cb16b19eccc0a9d3909e7c9f94dd9d6d805342", 
+      "title": "Clustering-Based Stratified Seed Sampling for Semi-Supervised Relation Classification", 
+      "url": "https://www.semanticscholar.org/paper/75cb16b19eccc0a9d3909e7c9f94dd9d6d805342"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "b0851fe4773db9c5a0ec1b75624586c506fc65fa", 
+      "title": "Regular Approximation of Link Grammar", 
+      "url": "https://www.semanticscholar.org/paper/b0851fe4773db9c5a0ec1b75624586c506fc65fa"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "acf789209a24741af40dc3fd63ade53a46dbf115", 
+      "title": "Extracting Information from Fiction", 
+      "url": "https://www.semanticscholar.org/paper/acf789209a24741af40dc3fd63ade53a46dbf115"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "3235007afef3f3df811e1283b1120d9b39b954c3", 
+      "title": "Statistical Methods in Natural Language Processing", 
+      "url": "https://www.semanticscholar.org/paper/3235007afef3f3df811e1283b1120d9b39b954c3"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "a148ae5cffc39d4b80facb3405bfa22dd32eec47", 
+      "title": "SRA: Description of the IE2 system used for MUC. In Proceedings of the Seventh Message Understanding Conference (MUC-7). 1998. URL", 
+      "url": "https://www.semanticscholar.org/paper/a148ae5cffc39d4b80facb3405bfa22dd32eec47"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "00ac63a6b18f1586c77d4b0792ccbe51b527213b", 
+      "title": "Knowledge integration across multiple texts", 
+      "url": "https://www.semanticscholar.org/paper/00ac63a6b18f1586c77d4b0792ccbe51b527213b"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "d17daddda93d3aba46cd6dd6dc046f70a2f5883e", 
+      "title": "Construction of association networks from communication in teams working on complex projects", 
+      "url": "https://www.semanticscholar.org/paper/d17daddda93d3aba46cd6dd6dc046f70a2f5883e"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "29899547c993f30a9afcc3514ef55358d45d6b97", 
+      "title": "Speed and Accuracy in Shallow and Deep Stochastic Parsing", 
+      "url": "https://www.semanticscholar.org/paper/29899547c993f30a9afcc3514ef55358d45d6b97"
+    }, 
+    {
+      "isInfluential": true, 
+      "paperId": "923079a34da495bfebc42e39273e24bb65affe70", 
+      "title": "Information Extraction Using the Structured Language Model", 
+      "url": "https://www.semanticscholar.org/paper/923079a34da495bfebc42e39273e24bb65affe70"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "d2a57dab7587e7267ad4949de1af58a60a6b3b2f", 
+      "title": "Semantic Relation Extraction Using Penalty Tree Similarity", 
+      "url": "https://www.semanticscholar.org/paper/d2a57dab7587e7267ad4949de1af58a60a6b3b2f"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "00cf902b27676cdc376e26567e70298b96c672a1", 
+      "title": "Joint Parsing and Named Entity Recognition", 
+      "url": "https://www.semanticscholar.org/paper/00cf902b27676cdc376e26567e70298b96c672a1"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "07b606bb4ee6db3f36e0185f5e898717b18499ca", 
+      "title": "An Integrated Probabilistic and Logic Approach to Encyclopedia Relation Extraction with Multiple Features", 
+      "url": "https://www.semanticscholar.org/paper/07b606bb4ee6db3f36e0185f5e898717b18499ca"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "5697d67019bbeaf6271cf0a2b50a95154633b343", 
+      "title": "Syntax and Parsing", 
+      "url": "https://www.semanticscholar.org/paper/5697d67019bbeaf6271cf0a2b50a95154633b343"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "64183252fe6dea3c29c0a3d91d4db14d51b104ae", 
+      "title": "Knowledge integration for Learning-by-Reading", 
+      "url": "https://www.semanticscholar.org/paper/64183252fe6dea3c29c0a3d91d4db14d51b104ae"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "71fe1ecb6073ed959f06acad75fd87c2a40a32e4", 
+      "title": "IRISA participation to BioNLP-ST13: lazy-learning and information retrieval for information extraction tasks", 
+      "url": "https://www.semanticscholar.org/paper/71fe1ecb6073ed959f06acad75fd87c2a40a32e4"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "dea301ddc616ed7da7568b91a6627699fcbd07cd", 
+      "title": "Structured Models for Fine-to-Coarse Sentiment Analysis", 
+      "url": "https://www.semanticscholar.org/paper/dea301ddc616ed7da7568b91a6627699fcbd07cd"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "69dec697bbda636851f02e328c59eb11da4afe01", 
+      "title": "Integrating Probabilistic Extraction Models and Data Mining to Discover Relations and Patterns in Text", 
+      "url": "https://www.semanticscholar.org/paper/69dec697bbda636851f02e328c59eb11da4afe01"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "50061de29dda21608176f3977fa270e072a6a90a", 
+      "title": "Simultaneous Identification of Biomedical Named-Entity and Functional Relation Using Statistical Parsing Techniques", 
+      "url": "https://www.semanticscholar.org/paper/50061de29dda21608176f3977fa270e072a6a90a"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "08b8daed36e77d8f655c6e707a95fac850310df2", 
+      "title": "Hedge Trimmer: A Parse-And-Trim Approach To Headline Generation", 
+      "url": "https://www.semanticscholar.org/paper/08b8daed36e77d8f655c6e707a95fac850310df2"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "596a027a0f3ba55aa58c25eb98b5101b050848fb", 
+      "title": "Extending a set-theoretic implementation of Montague Semantics to accommodate n-ary transitive verbs", 
+      "url": "https://www.semanticscholar.org/paper/596a027a0f3ba55aa58c25eb98b5101b050848fb"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "a41c511be9876b6cb939138af40036898643c155", 
+      "title": "SREC: Discourse-level semantic relation extraction from text", 
+      "url": "https://www.semanticscholar.org/paper/a41c511be9876b6cb939138af40036898643c155"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "769deaa0cb995e140d0320611281cb30f7e68e2f", 
+      "title": "Unsupervised Relation Disambiguation Using Spectral Clustering", 
+      "url": "https://www.semanticscholar.org/paper/769deaa0cb995e140d0320611281cb30f7e68e2f"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "98054eb328f933e55f9fac7494acd5edc5f49a15", 
+      "title": "Mining Official Chronology from Historical Documents: By Example of Veritable Records of the Qing Kangsi", 
+      "url": "https://www.semanticscholar.org/paper/98054eb328f933e55f9fac7494acd5edc5f49a15"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "adccd6d4e308db8790538a9a7f43e6aa13f26397", 
+      "title": "Multilingual Joint Parsing of Syntactic and Semantic Dependencies with a Latent Variable Model", 
+      "url": "https://www.semanticscholar.org/paper/adccd6d4e308db8790538a9a7f43e6aa13f26397"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "1a8f346161b172154174e18be7d3bb9b3df9e07a", 
+      "title": "Probabilistic enrichment of knowledge graph entities for relation detection in conversational understanding", 
+      "url": "https://www.semanticscholar.org/paper/1a8f346161b172154174e18be7d3bb9b3df9e07a"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "fe69e41a8e3a01ae8d1ab9fcfd712dae1790f48a", 
+      "title": "Extracting Relations from Unstructured Text", 
+      "url": "https://www.semanticscholar.org/paper/fe69e41a8e3a01ae8d1ab9fcfd712dae1790f48a"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "c75d78c8579c93227a6233398355950e58986f4e", 
+      "title": "A Dual-layer CRFs Based Joint Decoding Method for Cascaded Segmentation and Labeling Tasks", 
+      "url": "https://www.semanticscholar.org/paper/c75d78c8579c93227a6233398355950e58986f4e"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "065988f06b30b6da4a119083ecff9010ff479679", 
+      "title": "Semantically-Informed Syntactic Machine Translation: A Tree-Grafting Approach", 
+      "url": "https://www.semanticscholar.org/paper/065988f06b30b6da4a119083ecff9010ff479679"
+    }, 
+    {
+      "isInfluential": true, 
+      "paperId": "29edf70df1d3cac0484a8b11f3c1858b3672a2ec", 
+      "title": "Adaptive information extraction", 
+      "url": "https://www.semanticscholar.org/paper/29edf70df1d3cac0484a8b11f3c1858b3672a2ec"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "546c2bc7aa1df9d1ee30c4117634798aa20df807", 
+      "title": "Statistical Language Understanding Using Frame Semantics Statistical Language Understanding Using Frame Semantics Abstract Statistical Language Understanding Using Frame Semantics", 
+      "url": "https://www.semanticscholar.org/paper/546c2bc7aa1df9d1ee30c4117634798aa20df807"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "1a293bd5d0b38125bc2281f13f9c78910a4355cc", 
+      "title": "A Look at Parsing and Its Applications", 
+      "url": "https://www.semanticscholar.org/paper/1a293bd5d0b38125bc2281f13f9c78910a4355cc"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "4a694a2420b7fa424d270c034d1901b0087934ae", 
+      "title": "Constituent Parsing By Classification", 
+      "url": "https://www.semanticscholar.org/paper/4a694a2420b7fa424d270c034d1901b0087934ae"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "658d0974c7bb5470a062c12502249d2622ee6231", 
+      "title": "A General Approach to Extracting Full Names and Abbreviations for Chinese Entities from the Web", 
+      "url": "https://www.semanticscholar.org/paper/658d0974c7bb5470a062c12502249d2622ee6231"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "8fc8b0409b5d4aac1277087a6c73abce7c64924b", 
+      "title": "Extraktion relationaler Daten aus Texten", 
+      "url": "https://www.semanticscholar.org/paper/8fc8b0409b5d4aac1277087a6c73abce7c64924b"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "16519e1290ae7bc73f55272115965d0497408160", 
+      "title": "Bi-directional Joint Inference for Entity Resolution and Segmentation Using Imperatively-Defined Factor Graphs", 
+      "url": "https://www.semanticscholar.org/paper/16519e1290ae7bc73f55272115965d0497408160"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "c92e3b622fc0650aa71320ea7128835eda40b54d", 
+      "title": "TCAR at TAC-KBP 2009", 
+      "url": "https://www.semanticscholar.org/paper/c92e3b622fc0650aa71320ea7128835eda40b54d"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "0ea7195448443a60edb7e75ceed4ae7352f973fc", 
+      "title": "Joint Entity and Relation Extraction Using Card-Pyramid Parsing", 
+      "url": "https://www.semanticscholar.org/paper/0ea7195448443a60edb7e75ceed4ae7352f973fc"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "3a1781a85e8cfca2bb4df0f30cabc04da545cf46", 
+      "title": "6.864 (fall 2006): Lecture 6 Log-linear Models the Language Modeling Problem", 
+      "url": "https://www.semanticscholar.org/paper/3a1781a85e8cfca2bb4df0f30cabc04da545cf46"
+    }, 
+    {
+      "isInfluential": true, 
+      "paperId": "29b4a2b9665f97528efddb046dde87698b762244", 
+      "title": "Learning Semantic Parsers Using Statistical Syntactic Parsing Techniques", 
+      "url": "https://www.semanticscholar.org/paper/29b4a2b9665f97528efddb046dde87698b762244"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "ec3fbccf574b57c2406a50a951c57409b65b688c", 
+      "title": "Relation Extraction for Semantic Intranet Annotations", 
+      "url": "https://www.semanticscholar.org/paper/ec3fbccf574b57c2406a50a951c57409b65b688c"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "c1ddc1875ffe55cf8a8f23c70f98cd3ba02a1680", 
+      "title": "A Methodology for Extrinsically Evaluating Information Extraction Performance", 
+      "url": "https://www.semanticscholar.org/paper/c1ddc1875ffe55cf8a8f23c70f98cd3ba02a1680"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "505234f56be43637a82761b2a7c3bd7c46f1e06c", 
+      "title": "Semi-Supervised Learning for Relation Extraction", 
+      "url": "https://www.semanticscholar.org/paper/505234f56be43637a82761b2a7c3bd7c46f1e06c"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "a6c6b951cfbc5cc73b854935ef2f35cd95f57a18", 
+      "title": "Machine Learning Methods in Natural Language Processing", 
+      "url": "https://www.semanticscholar.org/paper/a6c6b951cfbc5cc73b854935ef2f35cd95f57a18"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "014b6f4da1c819074e4f0baf6144a4a601ce68b4", 
+      "title": "Was the Patient Cured? Understanding Semantic Categories and Their Relationships in Patient Records", 
+      "url": "https://www.semanticscholar.org/paper/014b6f4da1c819074e4f0baf6144a4a601ce68b4"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "419783f40e19a61c37e20b7663440bf8411cdaf2", 
+      "title": "Semantically Informed Machine Translation (SIMT)", 
+      "url": "https://www.semanticscholar.org/paper/419783f40e19a61c37e20b7663440bf8411cdaf2"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "04a8d271bc4384dbfbb417bfb625feb01cb44666", 
+      "title": "Automatic Labeling of Semantic Roles", 
+      "url": "https://www.semanticscholar.org/paper/04a8d271bc4384dbfbb417bfb625feb01cb44666"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "849f87e38406ce7b5bf68a5254e353c9f0e7c6bb", 
+      "title": "Enriching A Formal Ontology With A Thesaurus: An Application In The Cultural Heritage Domain", 
+      "url": "https://www.semanticscholar.org/paper/849f87e38406ce7b5bf68a5254e353c9f0e7c6bb"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "467a15159f94ddddf8a6ded18fb1abc40fd5e0f3", 
+      "title": "Reconstruction of People Information based on an Event Ontology", 
+      "url": "https://www.semanticscholar.org/paper/467a15159f94ddddf8a6ded18fb1abc40fd5e0f3"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "7306fee2357c29a3cadd5a7d847b27ddb5a38e3e", 
+      "title": "A Note on the Unification of Information Extraction and Data Mining using Conditional-Probability, Relational Models", 
+      "url": "https://www.semanticscholar.org/paper/7306fee2357c29a3cadd5a7d847b27ddb5a38e3e"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "2538e3eb24d26f31482c479d95d2e26c0e79b990", 
+      "title": "Natural Language Processing (almost) from Scratch", 
+      "url": "https://www.semanticscholar.org/paper/2538e3eb24d26f31482c479d95d2e26c0e79b990"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "35a792b66da844ea39862943099f9e2b055d1ce2", 
+      "title": "Modality and Negation in SIMT Use of Modality and Negation in Semantically-Informed Syntactic MT", 
+      "url": "https://www.semanticscholar.org/paper/35a792b66da844ea39862943099f9e2b055d1ce2"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "1d30184ed3bd3e42fa40f6db3f31962b95af3632", 
+      "title": "Parallel Entity And Treebank Annotation", 
+      "url": "https://www.semanticscholar.org/paper/1d30184ed3bd3e42fa40f6db3f31962b95af3632"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "4c9eb11ff86b78cddf7992b6891cce7c5eaccedf", 
+      "title": "Use of Modality and Negation in Semantically-Informed Syntactic MT", 
+      "url": "https://www.semanticscholar.org/paper/4c9eb11ff86b78cddf7992b6891cce7c5eaccedf"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "279ed4e25178288a6f7d44e79ebbceb773dbda6f", 
+      "title": "A Combination of Topic Models with Max-margin Learning for Relation Detection", 
+      "url": "https://www.semanticscholar.org/paper/279ed4e25178288a6f7d44e79ebbceb773dbda6f"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "daae20b63c0c1af90f387cf4605744a6f7169528", 
+      "title": "Extraction of semantic relations from bioscience text", 
+      "url": "https://www.semanticscholar.org/paper/daae20b63c0c1af90f387cf4605744a6f7169528"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "a1840f7878f08e63e00b3c2e738d324713b0a4f4", 
+      "title": "Rapid Training of Information Extraction with Local and Global Data Views", 
+      "url": "https://www.semanticscholar.org/paper/a1840f7878f08e63e00b3c2e738d324713b0a4f4"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "38cec4217173111f30e82e81dbf813a45123b204", 
+      "title": "A Hybrid Approach to General Information Extraction", 
+      "url": "https://www.semanticscholar.org/paper/38cec4217173111f30e82e81dbf813a45123b204"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "80d742c5293db96f0b7b7eb6e7f4b76ce966f52c", 
+      "title": "Modeling Commonality among Related Classes in Relation Extraction", 
+      "url": "https://www.semanticscholar.org/paper/80d742c5293db96f0b7b7eb6e7f4b76ce966f52c"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "133c6a4b1e2bc21edb9666599ced5053cc196752", 
+      "title": "Composition of Conditional Random Fields for Transfer Learning", 
+      "url": "https://www.semanticscholar.org/paper/133c6a4b1e2bc21edb9666599ced5053cc196752"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "15792093c6570892aac920c395ea936371ec0384", 
+      "title": "Unsupervised Relation Disambiguation with Order Identification Capabilities", 
+      "url": "https://www.semanticscholar.org/paper/15792093c6570892aac920c395ea936371ec0384"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "3b4770275d5bd4431007a609583b84488bd55a6c", 
+      "title": "A Systematic Exploration of the Feature Space for Relation Extraction", 
+      "url": "https://www.semanticscholar.org/paper/3b4770275d5bd4431007a609583b84488bd55a6c"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "228f2a3ac8934a9c8b2cab8f066e2d42d66cae2d", 
+      "title": "Simple Algorithms for Complex Relation Extraction with Applications to Biomedical IE", 
+      "url": "https://www.semanticscholar.org/paper/228f2a3ac8934a9c8b2cab8f066e2d42d66cae2d"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "e15fce370f08e18361405437dec329810d45d2ab", 
+      "title": "Introduction to Syntactic Parsing", 
+      "url": "https://www.semanticscholar.org/paper/e15fce370f08e18361405437dec329810d45d2ab"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "1992fb3645db784ca7f2e711062ca9c9bc1a544a", 
+      "title": "Information Extraction from Websites using Extraction Ontologies", 
+      "url": "https://www.semanticscholar.org/paper/1992fb3645db784ca7f2e711062ca9c9bc1a544a"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "7716bb42a7a32e1471ea6997502f826cbee5da6b", 
+      "title": "SVM based extraction of spatial relations in text", 
+      "url": "https://www.semanticscholar.org/paper/7716bb42a7a32e1471ea6997502f826cbee5da6b"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "d274c58a11be515a3bdd4b2423e4f6347aacbde1", 
+      "title": "Research on Social Relation Extraction of Web Persons", 
+      "url": "https://www.semanticscholar.org/paper/d274c58a11be515a3bdd4b2423e4f6347aacbde1"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "44521b6cb4ff6b9b6ea7dfe99624ca5bacf8749a", 
+      "title": "Semantic Rule Filtering for Web-Scale Relation Extraction", 
+      "url": "https://www.semanticscholar.org/paper/44521b6cb4ff6b9b6ea7dfe99624ca5bacf8749a"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "8fbb214c1236b4144e463ce62f9d5cb455a05e00", 
+      "title": "TCAR at TAC-KBP-2010", 
+      "url": "https://www.semanticscholar.org/paper/8fbb214c1236b4144e463ce62f9d5cb455a05e00"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "66a9896d2eaceeb6e648d3582ca4b2a1df600f9a", 
+      "title": "Dependency Tree Kernels for Relation Extraction", 
+      "url": "https://www.semanticscholar.org/paper/66a9896d2eaceeb6e648d3582ca4b2a1df600f9a"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "9e404ca0b77c2e6bab7aa555f70f455c3ffc5791", 
+      "title": "Dialogue and Conversational Agents", 
+      "url": "https://www.semanticscholar.org/paper/9e404ca0b77c2e6bab7aa555f70f455c3ffc5791"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "9e84350d7f83cf168f8d7803cb77140755cf5577", 
+      "title": "Extracting Relations from Chinese Web Documents Using Kernel Methods", 
+      "url": "https://www.semanticscholar.org/paper/9e84350d7f83cf168f8d7803cb77140755cf5577"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "01da98598d00c2b3d743e5bec753562af874d74e", 
+      "title": "Joint Syntactic and Semantic Parsing of Chinese", 
+      "url": "https://www.semanticscholar.org/paper/01da98598d00c2b3d743e5bec753562af874d74e"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "7fd28d559b5859e9b5dd3a83f94c42b8145a734b", 
+      "title": "Information Extraction from Multiple Syntactic Sources", 
+      "url": "https://www.semanticscholar.org/paper/7fd28d559b5859e9b5dd3a83f94c42b8145a734b"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "65b1c78d52ffcd3d6a7af2e83fe26e8b7c5b7895", 
+      "title": "Cross-language headline generation for Hindi", 
+      "url": "https://www.semanticscholar.org/paper/65b1c78d52ffcd3d6a7af2e83fe26e8b7c5b7895"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "f99ab5b057618db57cb5161b36635a5a0e959258", 
+      "title": "The Use of Syntactic Structure in Relationship Extraction", 
+      "url": "https://www.semanticscholar.org/paper/f99ab5b057618db57cb5161b36635a5a0e959258"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "f243bb4a321abcca6b1dcff0f3165723e55c2980", 
+      "title": "Discovering Relations Between Named Entities from a Large Raw Corpus Using Tree Similarity-Based Clustering", 
+      "url": "https://www.semanticscholar.org/paper/f243bb4a321abcca6b1dcff0f3165723e55c2980"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "0b6e2e317408e66c6cc744cb413546219ba78cd5", 
+      "title": "Ontonotes Release 1.0 6 Database, Views, Supplementary Data, and Data Access Guide ........................... 24 Ontonotes Release 1.0 3", 
+      "url": "https://www.semanticscholar.org/paper/0b6e2e317408e66c6cc744cb413546219ba78cd5"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "23c54e4c7755ee150053eb870c0ea697368a3767", 
+      "title": "Developing Position Structure-Based Framework for Chinese Entity Relation Extraction", 
+      "url": "https://www.semanticscholar.org/paper/23c54e4c7755ee150053eb870c0ea697368a3767"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "4f45b4dfebc5f3c82a819a61fe4a981152d5940e", 
+      "title": "Exploiting Rich Syntactic Information for Relationship Extraction from Biomedical Articles", 
+      "url": "https://www.semanticscholar.org/paper/4f45b4dfebc5f3c82a819a61fe4a981152d5940e"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "405094f51616e459a2176bd256cc59d1e31047ce", 
+      "title": "Log-Linear Models", 
+      "url": "https://www.semanticscholar.org/paper/405094f51616e459a2176bd256cc59d1e31047ce"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "0b4414c011bb73bc0a9036df2564dbe143bea6c6", 
+      "title": "A Hybrid Approach For Extracting Semantic Relations From Texts", 
+      "url": "https://www.semanticscholar.org/paper/0b4414c011bb73bc0a9036df2564dbe143bea6c6"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "b57f82922058e5417af4fc02f8137490e6d68895", 
+      "title": "ERD-MedLDA: Entity relation detection using supervised topic models with maximum margin learning", 
+      "url": "https://www.semanticscholar.org/paper/b57f82922058e5417af4fc02f8137490e6d68895"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "5ace55fa74f85850d99ef6d9d72d5fcac8030687", 
+      "title": "Relation Extraction with Relation Topics", 
+      "url": "https://www.semanticscholar.org/paper/5ace55fa74f85850d99ef6d9d72d5fcac8030687"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "af39c180eeb1bd5666c15658d081e633573981b7", 
+      "title": "Extracting Hyponymy Relation between Chinese Terms", 
+      "url": "https://www.semanticscholar.org/paper/af39c180eeb1bd5666c15658d081e633573981b7"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "7ce4bc7ce9f4dac5f0e651c79617897d6e6fd19c", 
+      "title": "Semi-supervised Relation Extraction with Label Propagation", 
+      "url": "https://www.semanticscholar.org/paper/7ce4bc7ce9f4dac5f0e651c79617897d6e6fd19c"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "1a07186bc10592f0330655519ad91652125cd907", 
+      "title": "A unified architecture for natural language processing: deep neural networks with multitask learning", 
+      "url": "https://www.semanticscholar.org/paper/1a07186bc10592f0330655519ad91652125cd907"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "7c7583286aea79959f2823b4ab9d2ae00515abe6", 
+      "title": "A hybrid approach for relation extraction aimed to semantic annotations", 
+      "url": "https://www.semanticscholar.org/paper/7c7583286aea79959f2823b4ab9d2ae00515abe6"
+    }
+  ], 
+  "doi": null, 
+  "influentialCitationCount": 4, 
+  "paperId": "4a9f2ac73266b5fef610ccfc4be612a45cddca71", 
+  "references": [
+    {
+      "isInfluential": false, 
+      "paperId": "3764baa7465201f054083d02b58fa75f883c4461", 
+      "title": "A New Statistical Parser Based on Bigram Lexical Dependencies", 
+      "url": "https://www.semanticscholar.org/paper/3764baa7465201f054083d02b58fa75f883c4461"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "0b44fcbeea9415d400c5f5789d6b892b6f98daff", 
+      "title": "Building a Large Annotated Corpus of English: The Penn Treebank", 
+      "url": "https://www.semanticscholar.org/paper/0b44fcbeea9415d400c5f5789d6b892b6f98daff"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "578c30ae033f2c2ba41ebbd58e59d575ab9d0409", 
+      "title": "Global Thresholding and Multiple Pass Parsing", 
+      "url": "https://www.semanticscholar.org/paper/578c30ae033f2c2ba41ebbd58e59d575ab9d0409"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "3e0240b0db8395495d250927945cee3ac4ad03eb", 
+      "title": "Nymble: a High-Performance Learning Name-finder", 
+      "url": "https://www.semanticscholar.org/paper/3e0240b0db8395495d250927945cee3ac4ad03eb"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "10007391361e17f41aa92f3430c00830dff3be6a", 
+      "title": "Three Generative, Lexicalised Models for Statistical Parsing", 
+      "url": "https://www.semanticscholar.org/paper/10007391361e17f41aa92f3430c00830dff3be6a"
+    }
+  ], 
+  "title": "A Novel Use of Statistical Parsing to Extract Information from Text", 
+  "url": "https://www.semanticscholar.org/paper/4a9f2ac73266b5fef610ccfc4be612a45cddca71", 
+  "venue": "ANLP"
+}

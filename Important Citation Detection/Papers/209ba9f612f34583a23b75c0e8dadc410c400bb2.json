@@ -1,0 +1,2387 @@
+{
+  "authors": [
+    {
+      "authorId": "2970946", 
+      "name": "Richard Socher", 
+      "url": "https://www.semanticscholar.org/author/2970946"
+    }, 
+    {
+      "authorId": "7208845", 
+      "name": "John Bauer", 
+      "url": "https://www.semanticscholar.org/author/7208845"
+    }, 
+    {
+      "authorId": "1812612", 
+      "name": "Christopher D. Manning", 
+      "url": "https://www.semanticscholar.org/author/1812612"
+    }, 
+    {
+      "authorId": "1701538", 
+      "name": "Andrew Y. Ng", 
+      "url": "https://www.semanticscholar.org/author/1701538"
+    }
+  ], 
+  "citationVelocity": 135, 
+  "citations": [
+    {
+      "isInfluential": false, 
+      "paperId": "fdf60b5bf918b71e19e63d2476d410d0f98b4748", 
+      "title": "L3S at the NTCIR-12 Temporal Information Access (Temporalia-2) Task", 
+      "url": "https://www.semanticscholar.org/paper/fdf60b5bf918b71e19e63d2476d410d0f98b4748"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "0f6a8e9139cdd15fd0a8a292204aed21a8b51c5a", 
+      "title": "ReferItGame: Referring to Objects in Photographs of Natural Scenes", 
+      "url": "https://www.semanticscholar.org/paper/0f6a8e9139cdd15fd0a8a292204aed21a8b51c5a"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "22b0c69566430e8222dbd44d6345d76d1586034c", 
+      "title": "Encoding Prior Knowledge with Eigenword Embeddings", 
+      "url": "https://www.semanticscholar.org/paper/22b0c69566430e8222dbd44d6345d76d1586034c"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "e763d5d10a2ad5d57fcc9c252060dd59181e3bd0", 
+      "title": "Incorporating Background Knowledge into Text Classification", 
+      "url": "https://www.semanticscholar.org/paper/e763d5d10a2ad5d57fcc9c252060dd59181e3bd0"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "2b1ccf191fdf95e3a83ba4ceb90fd0e67b693a30", 
+      "title": "Against the Argument\u2013Adjunct Distinction in Functional Generative Description", 
+      "url": "https://www.semanticscholar.org/paper/2b1ccf191fdf95e3a83ba4ceb90fd0e67b693a30"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "9553d929e4a24cdb424ab66d920bfa458186b987", 
+      "title": "Optimal Shift-Reduce Constituent Parsing with Structured Perceptron", 
+      "url": "https://www.semanticscholar.org/paper/9553d929e4a24cdb424ab66d920bfa458186b987"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "df28e6bf3f1624ac8d5477e724e1d06ffc0bf646", 
+      "title": "Improving reading comprehension step by step using Online-Boost text readability classification system", 
+      "url": "https://www.semanticscholar.org/paper/df28e6bf3f1624ac8d5477e724e1d06ffc0bf646"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "3f7eddf9bb5d3eec1167e88ec45bca5a46fbaaf9", 
+      "title": "Regularized Online Learning", 
+      "url": "https://www.semanticscholar.org/paper/3f7eddf9bb5d3eec1167e88ec45bca5a46fbaaf9"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "1dde770f6fc8438810a7c3aff58f1f0ad5987d3c", 
+      "title": "Weakly-supervised Visual Grounding of Phrases with Linguistic Structures", 
+      "url": "https://www.semanticscholar.org/paper/1dde770f6fc8438810a7c3aff58f1f0ad5987d3c"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "6566e6ca562cfed3d2b4d963a8cd960339b0e7c9", 
+      "title": "Formal Concept Analysis and Pattern Structures for mining Structured Data. (Analyse formelle de concepts et structures de patrons pour la fouille de donn\u00e9es structur\u00e9es)", 
+      "url": "https://www.semanticscholar.org/paper/6566e6ca562cfed3d2b4d963a8cd960339b0e7c9"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "42a53707a10e8b8b866c4a94ad087d3e6de626aa", 
+      "title": "Composing Distributed Representations of Relational Patterns", 
+      "url": "https://www.semanticscholar.org/paper/42a53707a10e8b8b866c4a94ad087d3e6de626aa"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "a0c3b9083917b6c2368ebf09483a594821c5018a", 
+      "title": "Combination of Convolutional and Recurrent Neural Network for Sentiment Analysis of Short Texts", 
+      "url": "https://www.semanticscholar.org/paper/a0c3b9083917b6c2368ebf09483a594821c5018a"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "1afc1bdb96e90ab3cb9feb821ae5f4ec62623839", 
+      "title": "Incremental Recurrent Neural Network Dependency Parser with Search-based Discriminative Training", 
+      "url": "https://www.semanticscholar.org/paper/1afc1bdb96e90ab3cb9feb821ae5f4ec62623839"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "f70391f9a6aeec75bc52b9fe38588b9d0b4d40c6", 
+      "title": "Learning Character-level Representations for Part-of-Speech Tagging", 
+      "url": "https://www.semanticscholar.org/paper/f70391f9a6aeec75bc52b9fe38588b9d0b4d40c6"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "087f4285d504513f4b06319153fa43132c34fc60", 
+      "title": "LSTM Shift-Reduce CCG Parsing", 
+      "url": "https://www.semanticscholar.org/paper/087f4285d504513f4b06319153fa43132c34fc60"
+    }, 
+    {
+      "isInfluential": true, 
+      "paperId": "4d06b6d3bf332316446d35817cb4b481a716bf90", 
+      "title": "Adaptive Multi-Compositionality for Recursive Neural Models with Applications to Sentiment Analysis", 
+      "url": "https://www.semanticscholar.org/paper/4d06b6d3bf332316446d35817cb4b481a716bf90"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "6b969e69186066e37645c110c1c01d98869be4d2", 
+      "title": "Latent-Variable PCFGs: Background and Applications", 
+      "url": "https://www.semanticscholar.org/paper/6b969e69186066e37645c110c1c01d98869be4d2"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "0f3812bbe1467dc941faab0532531fb6fc629bce", 
+      "title": "Parsing as Reduction", 
+      "url": "https://www.semanticscholar.org/paper/0f3812bbe1467dc941faab0532531fb6fc629bce"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "49d386f7cecc91f7e1e317b3c0c31e096b80cdd3", 
+      "title": "Enhancing the LexVec Distributed Word Representation Model Using Positional Contexts and External Memory", 
+      "url": "https://www.semanticscholar.org/paper/49d386f7cecc91f7e1e317b3c0c31e096b80cdd3"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "b99e837eefe5b59537cc58a8af078e9794e64f15", 
+      "title": "Natural Language Generation with Vocabulary Constraints", 
+      "url": "https://www.semanticscholar.org/paper/b99e837eefe5b59537cc58a8af078e9794e64f15"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "0157dcd6122c20b5afc359a799b2043453471f7f", 
+      "title": "Exploiting Similarities among Languages for Machine Translation", 
+      "url": "https://www.semanticscholar.org/paper/0157dcd6122c20b5afc359a799b2043453471f7f"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "40027f5361fecd68ef0af3c7adbb4a88067ad6d3", 
+      "title": "Mining unstructured content for recommender systems: an ensemble approach", 
+      "url": "https://www.semanticscholar.org/paper/40027f5361fecd68ef0af3c7adbb4a88067ad6d3"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "03af3188946d88f44c1bb2b9a99530fececf23f0", 
+      "title": "Parsing Paraphrases with Joint Inference (extended Version)", 
+      "url": "https://www.semanticscholar.org/paper/03af3188946d88f44c1bb2b9a99530fececf23f0"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "ae58d3f00792ea3b9a8a0d3ae32ec71f712c999d", 
+      "title": "Gaussian Mixture Embeddings for Multiple Word Prototypes", 
+      "url": "https://www.semanticscholar.org/paper/ae58d3f00792ea3b9a8a0d3ae32ec71f712c999d"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "1c7b95ea767f1dc41f061a4dae6758551a4001d3", 
+      "title": "Semantic Compositionality in Tree Kernels", 
+      "url": "https://www.semanticscholar.org/paper/1c7b95ea767f1dc41f061a4dae6758551a4001d3"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "c224a5d12f267951ef70e52da2bd1cc092e8bc31", 
+      "title": "A Review and Future Perspectives of Arabic Question Answering Systems", 
+      "url": "https://www.semanticscholar.org/paper/c224a5d12f267951ef70e52da2bd1cc092e8bc31"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "6dd8691d487c3132971612bc00ba018dd04f5ecc", 
+      "title": "A Parallel-Hierarchical Model for Machine Comprehension on Sparse Data", 
+      "url": "https://www.semanticscholar.org/paper/6dd8691d487c3132971612bc00ba018dd04f5ecc"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "b616c6a2c50100d49184a8c5676965f8fd9dc4eb", 
+      "title": "Domain Specific Named Entity Recognition Referring to the Real World by Deep Neural Networks", 
+      "url": "https://www.semanticscholar.org/paper/b616c6a2c50100d49184a8c5676965f8fd9dc4eb"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "22f34b36de569e612e0e2b69ae14042d57d08309", 
+      "title": "Translating Legal Sentence by Segmentation and Rule Selection", 
+      "url": "https://www.semanticscholar.org/paper/22f34b36de569e612e0e2b69ae14042d57d08309"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "642379f705f785484cf488238ece9bac8a1da8ad", 
+      "title": "CODRA: A Novel Discriminative Framework for Rhetorical Analysis", 
+      "url": "https://www.semanticscholar.org/paper/642379f705f785484cf488238ece9bac8a1da8ad"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "12a97799334e3a455e278f2a995a93a6e0c034bf", 
+      "title": "Accurate Linear-Time Chinese Word Segmentation via Embedding Matching", 
+      "url": "https://www.semanticscholar.org/paper/12a97799334e3a455e278f2a995a93a6e0c034bf"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "e51bcd646cdb2d64bdd9d80cc43a1b77de9658f6", 
+      "title": "Towards Assessing Students' Prior Knowledge from Tutorial Dialogues", 
+      "url": "https://www.semanticscholar.org/paper/e51bcd646cdb2d64bdd9d80cc43a1b77de9658f6"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "371856d7cadbb142f46b7fee3bd0e1969bc6c992", 
+      "title": "Recursive Neural Networks for Coding Therapist and Patient Behavior in Motivational Interviewing", 
+      "url": "https://www.semanticscholar.org/paper/371856d7cadbb142f46b7fee3bd0e1969bc6c992"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "36ac81f560386008fbda544fe1265fb70cb2e3ac", 
+      "title": "ClearView: Data cleaning for online review mining", 
+      "url": "https://www.semanticscholar.org/paper/36ac81f560386008fbda544fe1265fb70cb2e3ac"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "38fb451dba4797aec8ee54d3e90ca1b316182576", 
+      "title": "Exploring Multidimensional Continuous Feature Space to Extract Relevant Words", 
+      "url": "https://www.semanticscholar.org/paper/38fb451dba4797aec8ee54d3e90ca1b316182576"
+    }, 
+    {
+      "isInfluential": true, 
+      "paperId": "9e975e86fff32a9f901b2035688970fcd0fca2a0", 
+      "title": "Sentence Modeling with Gated Recursive Neural Network", 
+      "url": "https://www.semanticscholar.org/paper/9e975e86fff32a9f901b2035688970fcd0fca2a0"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "23f7add29ec88dc8e7eb15a0e96aa37d9f139062", 
+      "title": "Logical Inference on Dependency-based Compositional Semantics", 
+      "url": "https://www.semanticscholar.org/paper/23f7add29ec88dc8e7eb15a0e96aa37d9f139062"
+    }, 
+    {
+      "isInfluential": true, 
+      "paperId": "7c0216188ffcc4352ea3275a31bedb54a42f87a3", 
+      "title": "An Empirical Comparison of Parsing Methods for Stanford Dependencies", 
+      "url": "https://www.semanticscholar.org/paper/7c0216188ffcc4352ea3275a31bedb54a42f87a3"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "ee41563bddad51bcd0085207d6976a7f959ba242", 
+      "title": "Modeling Context-sensitive Selectional Preference with Distributed Representations", 
+      "url": "https://www.semanticscholar.org/paper/ee41563bddad51bcd0085207d6976a7f959ba242"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "53c05bc02c8c487cba988c3d5d8a13e3a7fe2ff2", 
+      "title": "WLSI-OIAF4HLT 2016 Third International Workshop on Worldwide Language Service Infrastructure and Second Workshop on Open Infrastructures and Analysis Frameworks for Human Language Technologies", 
+      "url": "https://www.semanticscholar.org/paper/53c05bc02c8c487cba988c3d5d8a13e3a7fe2ff2"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "9adce2271698602cb86c4694c680a84a36c1caa0", 
+      "title": "Iterativno pridobivanje semantic\u030cnih podatkov iz nestrukturiranih besedilnih virov", 
+      "url": "https://www.semanticscholar.org/paper/9adce2271698602cb86c4694c680a84a36c1caa0"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "2b97acbd4d5cd2638428f27092293d20cc530f62", 
+      "title": "Parallel Distributed Processing at 25: Further Explorations in the Microstructure of Cognition", 
+      "url": "https://www.semanticscholar.org/paper/2b97acbd4d5cd2638428f27092293d20cc530f62"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "27b70cd1e5322d0c60b7d68803fcdaf132114f39", 
+      "title": "Multi-Relational Latent Semantic Analysis", 
+      "url": "https://www.semanticscholar.org/paper/27b70cd1e5322d0c60b7d68803fcdaf132114f39"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "69af98a197b1e9c93af74a84e8f8645143c30a0f", 
+      "title": "Probabilistic Graph-based Dependency Parsing with Convolutional Neural Network", 
+      "url": "https://www.semanticscholar.org/paper/69af98a197b1e9c93af74a84e8f8645143c30a0f"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "5f4cb8ccc67d95331dd5587f4ecb12c3ae28de9d", 
+      "title": "On the Role of Text Preprocessing in Neural Network Architectures: An Evaluation Study on Text Categorization and Sentiment Analysis", 
+      "url": "https://www.semanticscholar.org/paper/5f4cb8ccc67d95331dd5587f4ecb12c3ae28de9d"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "7d01c479cfac65513f00a40ea5d76a4e6549c035", 
+      "title": "Deep Learning for Textual Entailment Recognition", 
+      "url": "https://www.semanticscholar.org/paper/7d01c479cfac65513f00a40ea5d76a4e6549c035"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "d6ae7ae2779f91b9fd5ea227cb03abc5a12c88a1", 
+      "title": "Learning Distributed Representations for Multilingual Text Sequences", 
+      "url": "https://www.semanticscholar.org/paper/d6ae7ae2779f91b9fd5ea227cb03abc5a12c88a1"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "d26456b0df6f7677873791077b68f92d504c6d02", 
+      "title": "Pairwise Neural Machine Translation Evaluation", 
+      "url": "https://www.semanticscholar.org/paper/d26456b0df6f7677873791077b68f92d504c6d02"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "08caf0d048cfbe528f8d9db7005d040f76b55c24", 
+      "title": "Can recursive neural tensor networks learn logical reasoning?", 
+      "url": "https://www.semanticscholar.org/paper/08caf0d048cfbe528f8d9db7005d040f76b55c24"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "d164fa34520bd0d95090300cd555993dae8d609f", 
+      "title": "Indonesian natural voice command for robotic applications", 
+      "url": "https://www.semanticscholar.org/paper/d164fa34520bd0d95090300cd555993dae8d609f"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "1f656b9c686c1e5db2a4d41f1ce7e270965def3e", 
+      "title": "Improving Topic Models with Latent Feature Word Representations", 
+      "url": "https://www.semanticscholar.org/paper/1f656b9c686c1e5db2a4d41f1ce7e270965def3e"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "182af76ea812ce8dce28b3f5f43f66a3edd542b2", 
+      "title": "Issue-Focused Documentaries versus Other Films: Rating and Type Prediction based on User-Authored Reviews", 
+      "url": "https://www.semanticscholar.org/paper/182af76ea812ce8dce28b3f5f43f66a3edd542b2"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "48f6e7297356eef19856848118590ab03cb39717", 
+      "title": "The SP Theory of Intelligence: Distinctive Features and Advantages", 
+      "url": "https://www.semanticscholar.org/paper/48f6e7297356eef19856848118590ab03cb39717"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "8ca6e485ad4c9b9abbf9796ead2853e96d101f21", 
+      "title": "Aligning Opinions: Cross-Lingual Opinion Mining with Dependencies", 
+      "url": "https://www.semanticscholar.org/paper/8ca6e485ad4c9b9abbf9796ead2853e96d101f21"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "27eec345d293ba2075bcbcef2a24e4868bf3fc9c", 
+      "title": "Deep Learning for Natural Language Processing", 
+      "url": "https://www.semanticscholar.org/paper/27eec345d293ba2075bcbcef2a24e4868bf3fc9c"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "a6a1fc0ba21e2cc0117c3e824efea3b506f7af88", 
+      "title": "Empirical Dependency-Based Head Finalization for Statistical Chinese-, English-, and French-to-Myanmar (Burmese) Machine Translation", 
+      "url": "https://www.semanticscholar.org/paper/a6a1fc0ba21e2cc0117c3e824efea3b506f7af88"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "c99afd693ea386779c70e9e2563315191a87e2a1", 
+      "title": "Text and Spatial-temporal Data Visualization", 
+      "url": "https://www.semanticscholar.org/paper/c99afd693ea386779c70e9e2563315191a87e2a1"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "abc6ed6d51441fdd742773e54af273d6ac430f7f", 
+      "title": "On the Linear Algebraic Structure of Distributed Word Representations", 
+      "url": "https://www.semanticscholar.org/paper/abc6ed6d51441fdd742773e54af273d6ac430f7f"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "4558e70ed04ebf6ca394461304f5712abf7faa77", 
+      "title": "Feature Embedding for Dependency Parsing", 
+      "url": "https://www.semanticscholar.org/paper/4558e70ed04ebf6ca394461304f5712abf7faa77"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "81419ee439990f00ad995d3c8850b00ae9f06232", 
+      "title": "Training word embeddings for deep learning in biomedical text mining tasks", 
+      "url": "https://www.semanticscholar.org/paper/81419ee439990f00ad995d3c8850b00ae9f06232"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "43287ef5346ad1bb5d56183f8b9e986be3a548c7", 
+      "title": "Improved CCG Parsing with Semi-supervised Supertagging", 
+      "url": "https://www.semanticscholar.org/paper/43287ef5346ad1bb5d56183f8b9e986be3a548c7"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "337ddb1d8ec3ef652573f29f787b1f75202e7264", 
+      "title": "Finding Names in Trove: Named Entity Recognition for Australian Historical Newspapers", 
+      "url": "https://www.semanticscholar.org/paper/337ddb1d8ec3ef652573f29f787b1f75202e7264"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "5f4b3c1dd1c71ab255315e1fc0b98c3c623c9171", 
+      "title": "DBIQS &#x2014; An intelligent system for querying and mining databases using NLP", 
+      "url": "https://www.semanticscholar.org/paper/5f4b3c1dd1c71ab255315e1fc0b98c3c623c9171"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "2af04968f22a1828a526427e2427211799dcc5af", 
+      "title": "FINET: Context-Aware Fine-Grained Named Entity Typing", 
+      "url": "https://www.semanticscholar.org/paper/2af04968f22a1828a526427e2427211799dcc5af"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "0484edee55ee8c456e13b15b9f25f97f40351691", 
+      "title": "Adding High-Precision Links to Wikipedia", 
+      "url": "https://www.semanticscholar.org/paper/0484edee55ee8c456e13b15b9f25f97f40351691"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "7ee1577ea8218c634d12d39e545eb5ccd434a3a5", 
+      "title": "New Techniques in Deep Representation Learning", 
+      "url": "https://www.semanticscholar.org/paper/7ee1577ea8218c634d12d39e545eb5ccd434a3a5"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "2869d62eb3904dafff3f9796ad63bff26a3bf042", 
+      "title": "CoNLL 2014 Shared Task: Grammatical Error Correction with a Syntactic N-gram Language Model from a Big Corpora", 
+      "url": "https://www.semanticscholar.org/paper/2869d62eb3904dafff3f9796ad63bff26a3bf042"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "400abca3aac8663b60b3901aefac45cde9b466aa", 
+      "title": "Integrating Semantic Knowledge into Lexical Embeddings Based on Information Content Measurement", 
+      "url": "https://www.semanticscholar.org/paper/400abca3aac8663b60b3901aefac45cde9b466aa"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "53e60fe815598334ebf9add6b2bb601a7a5e390d", 
+      "title": "QTLMiner: QTL database curation by mining tables in literature", 
+      "url": "https://www.semanticscholar.org/paper/53e60fe815598334ebf9add6b2bb601a7a5e390d"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "f6fd84f9eb41bb8a4e4d2ae4fe1339258e271bc0", 
+      "title": "Investigating the Contribution of Distributional Semantic Information for Dialogue Act Classification", 
+      "url": "https://www.semanticscholar.org/paper/f6fd84f9eb41bb8a4e4d2ae4fe1339258e271bc0"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "a6a1aae1823d151a28b4295199108c0f900aa66f", 
+      "title": "Gated Recursive Neural Network for Chinese Word Segmentation", 
+      "url": "https://www.semanticscholar.org/paper/a6a1aae1823d151a28b4295199108c0f900aa66f"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "396b7932beac62a72288eaea047981cc9a21379a", 
+      "title": "Transition-Based Dependency Parsing with Stack Long Short-Term Memory", 
+      "url": "https://www.semanticscholar.org/paper/396b7932beac62a72288eaea047981cc9a21379a"
+    }, 
+    {
+      "isInfluential": true, 
+      "paperId": "25d0cd147e48cf277011c652192d737a55f994ea", 
+      "title": "Improved Relation Extraction with Feature-Rich Compositional Embedding Models", 
+      "url": "https://www.semanticscholar.org/paper/25d0cd147e48cf277011c652192d737a55f994ea"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "d26c87668fd25ffb2778ef97b481601c40a661c2", 
+      "title": "Token- and Constituent-based Linear-chain CRF with SVM for Named Entity Recognition", 
+      "url": "https://www.semanticscholar.org/paper/d26c87668fd25ffb2778ef97b481601c40a661c2"
+    }, 
+    {
+      "isInfluential": true, 
+      "paperId": "285410e4511ac11ba5f6b0c953961d83391863aa", 
+      "title": "Political Ideology Detection Using Recursive Neural Networks", 
+      "url": "https://www.semanticscholar.org/paper/285410e4511ac11ba5f6b0c953961d83391863aa"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "3ebb850c596a4d2d3fa78b3506501bb39f190920", 
+      "title": "Deriving time lines from texts", 
+      "url": "https://www.semanticscholar.org/paper/3ebb850c596a4d2d3fa78b3506501bb39f190920"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "3ebe6114afb2c9f345cb2e6e5702a32b4f49ebcc", 
+      "title": "Recurrent Neural Network with Word Embedding for Complaint Classification", 
+      "url": "https://www.semanticscholar.org/paper/3ebe6114afb2c9f345cb2e6e5702a32b4f49ebcc"
+    }, 
+    {
+      "isInfluential": true, 
+      "paperId": "595f7827bed01851fbd6eca7d246f1e644f172ac", 
+      "title": "Adaptive Multi-Compositionality for Recursive Neural Network Models", 
+      "url": "https://www.semanticscholar.org/paper/595f7827bed01851fbd6eca7d246f1e644f172ac"
+    }, 
+    {
+      "isInfluential": true, 
+      "paperId": "162387512135be6ef84bb54c7ea8fd700983da68", 
+      "title": "Joint Opinion Relation Detection Using One-Class Deep Neural Network", 
+      "url": "https://www.semanticscholar.org/paper/162387512135be6ef84bb54c7ea8fd700983da68"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "9346ca48220229d21809e48d7e45a4f54a9b85ee", 
+      "title": "A semantic-affective compositional approach for the affective labelling of adjective-noun and noun-noun pairs", 
+      "url": "https://www.semanticscholar.org/paper/9346ca48220229d21809e48d7e45a4f54a9b85ee"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "11c43fd34955762be0753da5abb7cc3f9ec5ae64", 
+      "title": "Graph-Based Lexicon Regularization for PCFG With Latent Annotations", 
+      "url": "https://www.semanticscholar.org/paper/11c43fd34955762be0753da5abb7cc3f9ec5ae64"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "0b67bb6ced7ed33036675239476cb3c807026171", 
+      "title": "Translation Quality Estimation using Recurrent Neural Network", 
+      "url": "https://www.semanticscholar.org/paper/0b67bb6ced7ed33036675239476cb3c807026171"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "16d7a01e93e27fc08231b1a5632d98a26f3dc50d", 
+      "title": "ReVal: A Simple and Effective Machine Translation Evaluation Metric Based on Recurrent Neural Networks", 
+      "url": "https://www.semanticscholar.org/paper/16d7a01e93e27fc08231b1a5632d98a26f3dc50d"
+    }, 
+    {
+      "isInfluential": true, 
+      "paperId": "2288985b24b95be22eb25bfba8a63e77d9c4115f", 
+      "title": "Transition-based Neural Constituent Parsing", 
+      "url": "https://www.semanticscholar.org/paper/2288985b24b95be22eb25bfba8a63e77d9c4115f"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "02f1626c63d4c6114b22869889d9cc479f4c6dfc", 
+      "title": "Incorporating Vector Space Similarity in Random Walk Inference over Knowledge Bases", 
+      "url": "https://www.semanticscholar.org/paper/02f1626c63d4c6114b22869889d9cc479f4c6dfc"
+    }, 
+    {
+      "isInfluential": true, 
+      "paperId": "9f46d7793995677d15a3fa10c3cb2605a44610e8", 
+      "title": "Encoding Syntactic Knowledge in Neural Networks for Sentiment Classification", 
+      "url": "https://www.semanticscholar.org/paper/9f46d7793995677d15a3fa10c3cb2605a44610e8"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "c8b5f812318078b3a09a5e4b9ffcc2eddf416fe8", 
+      "title": "StyleCheck: An Automated Stylistic Analysis Tool", 
+      "url": "https://www.semanticscholar.org/paper/c8b5f812318078b3a09a5e4b9ffcc2eddf416fe8"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "f76993e7f0242bf79da5fb6adb11e1a47e09a2cf", 
+      "title": "Entity Extraction in Biomedical Corpora: An Approach to Evaluate Word Embedding Features with PSO based Feature Selection", 
+      "url": "https://www.semanticscholar.org/paper/f76993e7f0242bf79da5fb6adb11e1a47e09a2cf"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "16f63ebc5b393524b48932946cb1ba3b6ac5c702", 
+      "title": "Simple Customization of Recursive Neural Networks for Semantic Relation Classification", 
+      "url": "https://www.semanticscholar.org/paper/16f63ebc5b393524b48932946cb1ba3b6ac5c702"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "a2815444ba2544a010fbe47378ae5862135b7a5e", 
+      "title": "Data retrieval for client projects: Matching data onto an ontology map to produce a relevance assessment", 
+      "url": "https://www.semanticscholar.org/paper/a2815444ba2544a010fbe47378ae5862135b7a5e"
+    }, 
+    {
+      "isInfluential": true, 
+      "paperId": "37eaa303f2d6167363c523c028fc06f16c46fb85", 
+      "title": "Learning Tag Embeddings and Tag-specific Composition Functions in Recursive Neural Network", 
+      "url": "https://www.semanticscholar.org/paper/37eaa303f2d6167363c523c028fc06f16c46fb85"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "ff92269889c0a562d8fc30649783d9e6a4cbdd12", 
+      "title": "Dependency Parsing Features for Semantic Parsing", 
+      "url": "https://www.semanticscholar.org/paper/ff92269889c0a562d8fc30649783d9e6a4cbdd12"
+    }, 
+    {
+      "isInfluential": true, 
+      "paperId": "22d62ed3da74d506fd1fb3ff280569096792cf7b", 
+      "title": "CLaC-SentiPipe: SemEval2015 Subtasks 10 B, E, and Task 11", 
+      "url": "https://www.semanticscholar.org/paper/22d62ed3da74d506fd1fb3ff280569096792cf7b"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "45aa106af7a6d7b198fc26b93fabb273f941d3c6", 
+      "title": "Different Contexts Lead to Different Word Embeddings", 
+      "url": "https://www.semanticscholar.org/paper/45aa106af7a6d7b198fc26b93fabb273f941d3c6"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "5d43224147a5bb8b17b6a6fc77bf86490e86991a", 
+      "title": "A Recursive Recurrent Neural Network for Statistical Machine Translation", 
+      "url": "https://www.semanticscholar.org/paper/5d43224147a5bb8b17b6a6fc77bf86490e86991a"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "3488839b9656d16174c31bdf48bbcfe25a898850", 
+      "title": "How to Avoid Unwanted Pregnancies: Domain Adaptation using Neural Network Models", 
+      "url": "https://www.semanticscholar.org/paper/3488839b9656d16174c31bdf48bbcfe25a898850"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "5d2024e3d2106a1a44b3a2f326eaaeffc41f557a", 
+      "title": "TUTA1 at the NTCIR-11 Temporalia Task", 
+      "url": "https://www.semanticscholar.org/paper/5d2024e3d2106a1a44b3a2f326eaaeffc41f557a"
+    }, 
+    {
+      "isInfluential": true, 
+      "paperId": "19d78d8c072b60294792c523742a8609accf3890", 
+      "title": "A Primer on Neural Network Models for Natural Language Processing", 
+      "url": "https://www.semanticscholar.org/paper/19d78d8c072b60294792c523742a8609accf3890"
+    }, 
+    {
+      "isInfluential": true, 
+      "paperId": "09e67db522c5db37e0974e5a9da63fd1033b02fc", 
+      "title": "Quantifying the vanishing gradient and long distance dependency problem in recursive neural networks and recursive LSTMs", 
+      "url": "https://www.semanticscholar.org/paper/09e67db522c5db37e0974e5a9da63fd1033b02fc"
+    }, 
+    {
+      "isInfluential": true, 
+      "paperId": "bf4febaaae16f277a4e980c3bee5e4665fe00423", 
+      "title": "ExATO - High Quality Term Extraction for Portuguese and English", 
+      "url": "https://www.semanticscholar.org/paper/bf4febaaae16f277a4e980c3bee5e4665fe00423"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "32944621816d2b70d80c573f2397848a722e0651", 
+      "title": "Experiment Segmentation in Scientific Discourse as Clause-level Structured Prediction using Recurrent Neural Networks", 
+      "url": "https://www.semanticscholar.org/paper/32944621816d2b70d80c573f2397848a722e0651"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "9a46bd3892c6a5c4c4aa0382b7b5bd8c6eff2ccf", 
+      "title": "Word Embedding Clustering for Disease Named Entity Recognition", 
+      "url": "https://www.semanticscholar.org/paper/9a46bd3892c6a5c4c4aa0382b7b5bd8c6eff2ccf"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "1f116283aeca3671e6b34081c11a8f90e19f6018", 
+      "title": "Learning Embeddings for Transitive Verb Disambiguation by Implicit Tensor Factorization", 
+      "url": "https://www.semanticscholar.org/paper/1f116283aeca3671e6b34081c11a8f90e19f6018"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "57f4bb29ce97158e5556d0100594d2c4dfcd2b24", 
+      "title": "Exploring Convolutional Neural Networks for Sentiment Analysis of Spanish tweets", 
+      "url": "https://www.semanticscholar.org/paper/57f4bb29ce97158e5556d0100594d2c4dfcd2b24"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "e99193aba10d92f8b1e0bf89e7fabe3013157084", 
+      "title": "Semantics, Modelling, and the Problem of Representation of Meaning - a Brief Survey of Recent Literature", 
+      "url": "https://www.semanticscholar.org/paper/e99193aba10d92f8b1e0bf89e7fabe3013157084"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "c183fc3c197a34f9c1d6cbe1a810a37b00bf00ee", 
+      "title": "Codeswitching language identification using Subword Information Enriched Word Vectors", 
+      "url": "https://www.semanticscholar.org/paper/c183fc3c197a34f9c1d6cbe1a810a37b00bf00ee"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "0ec80f1e6f7dfbbbcc97459d4c5ae13be1cadc7b", 
+      "title": "A Neural Network for Factoid Question Answering over Paragraphs", 
+      "url": "https://www.semanticscholar.org/paper/0ec80f1e6f7dfbbbcc97459d4c5ae13be1cadc7b"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "2e0135fa5c015427f96942b2df4b35cc283fa386", 
+      "title": "Automated Assessment of Non-Native Learner Essays: Investigating the Role of Linguistic Features", 
+      "url": "https://www.semanticscholar.org/paper/2e0135fa5c015427f96942b2df4b35cc283fa386"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "2e345ff45f5e50359d3a8a2fe47bee6bd79351d0", 
+      "title": "Cross-language Learning with Adversarial Neural Networks: Application to Community Question Answering", 
+      "url": "https://www.semanticscholar.org/paper/2e345ff45f5e50359d3a8a2fe47bee6bd79351d0"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "6bdd4b7d879a68a143edba8f7f35839bfa5241f6", 
+      "title": "Matrix Factorization using Window Sampling and Negative Sampling for Improved Word Representations", 
+      "url": "https://www.semanticscholar.org/paper/6bdd4b7d879a68a143edba8f7f35839bfa5241f6"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "b1e9efdd170ac659b1301531b412927de1c830c3", 
+      "title": "Hierarchical Recursive Tagset for Annotating Cooking Recipes", 
+      "url": "https://www.semanticscholar.org/paper/b1e9efdd170ac659b1301531b412927de1c830c3"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "b9598c3596ccb952114e1058da0abc4224a6626d", 
+      "title": "Distributed Feature Representations for Dependency Parsing", 
+      "url": "https://www.semanticscholar.org/paper/b9598c3596ccb952114e1058da0abc4224a6626d"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "611cc5030ce8db787059080135a6dc69db6de382", 
+      "title": "Information Extraction with Character-level Neural Networks and Noisy Supervision", 
+      "url": "https://www.semanticscholar.org/paper/611cc5030ce8db787059080135a6dc69db6de382"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "311d7757c7820ff4b28958403ae077eb9458d91f", 
+      "title": "How Well Do Distributional Models Capture Different Types of Semantic Knowledge?", 
+      "url": "https://www.semanticscholar.org/paper/311d7757c7820ff4b28958403ae077eb9458d91f"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "f9a8b2c6b8662f9e07a344aa261d31168bbf5c67", 
+      "title": "Learning Sentence Representation for Emotion Classification on Microblogs", 
+      "url": "https://www.semanticscholar.org/paper/f9a8b2c6b8662f9e07a344aa261d31168bbf5c67"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "004a4f3bb0b1dd7150984a9af437595a928facd9", 
+      "title": "A Cognitive Neural Architecture Able to Learn and Communicate through Natural Language", 
+      "url": "https://www.semanticscholar.org/paper/004a4f3bb0b1dd7150984a9af437595a928facd9"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "a27e243d2ef62644e7a2a1fa51878fe7dbca4479", 
+      "title": "Learning Term Embeddings for Taxonomic Relation Identification Using Dynamic Weighting Neural Network", 
+      "url": "https://www.semanticscholar.org/paper/a27e243d2ef62644e7a2a1fa51878fe7dbca4479"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "61777bb512c5c1327778d9d7698e1994bdf5ca9a", 
+      "title": "Bilingual Word Representations with Monolingual Quality in Mind", 
+      "url": "https://www.semanticscholar.org/paper/61777bb512c5c1327778d9d7698e1994bdf5ca9a"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "3e23659a2de955727d548c9f26a044a59c3eb1b0", 
+      "title": "Word and Document Embeddings based on Neural Network Approaches", 
+      "url": "https://www.semanticscholar.org/paper/3e23659a2de955727d548c9f26a044a59c3eb1b0"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "0a7c74bbf2a00a82180bf064c5664c7423a817b1", 
+      "title": "Building hybrid machine translation systems by using an EBMT preprocessor to create partial translations", 
+      "url": "https://www.semanticscholar.org/paper/0a7c74bbf2a00a82180bf064c5664c7423a817b1"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "d88e69e44c09504a53bf379d2053b681fb9eb895", 
+      "title": "Learning Distributed Representations of Natural Language Text with Artificial Neural Networks", 
+      "url": "https://www.semanticscholar.org/paper/d88e69e44c09504a53bf379d2053b681fb9eb895"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "0700a71cc36398c876cff915285ffa3e622c0de8", 
+      "title": "Connectionist perspectives on language learning, representation and processing.", 
+      "url": "https://www.semanticscholar.org/paper/0700a71cc36398c876cff915285ffa3e622c0de8"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "3cdc6d108e48140c017efe1f6f05c6adffcc3980", 
+      "title": "Modeling Mention, Context and Entity with Neural Networks for Entity Disambiguation", 
+      "url": "https://www.semanticscholar.org/paper/3cdc6d108e48140c017efe1f6f05c6adffcc3980"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "f7278ea3b13eae19cc23af74758ad88464c38093", 
+      "title": "NNBlocks: A Deep Learning Framework for Computational Linguistics Neural Network Models", 
+      "url": "https://www.semanticscholar.org/paper/f7278ea3b13eae19cc23af74758ad88464c38093"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "1c95596284319b192958825776a2a9455b9078ed", 
+      "title": "Feature Weight Tuning for Recursive Neural Networks", 
+      "url": "https://www.semanticscholar.org/paper/1c95596284319b192958825776a2a9455b9078ed"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "5109a7f94b2661fb77593f89223dc3d8d23f95e4", 
+      "title": "Enhancing the Inside-Outside Recursive Neural Network Reranker for Dependency Parsing", 
+      "url": "https://www.semanticscholar.org/paper/5109a7f94b2661fb77593f89223dc3d8d23f95e4"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "485a66cceeb43312a71f54c2a7f93372c9bdc83b", 
+      "title": "Dynamic Word Embeddings via Skip-Gram Filtering", 
+      "url": "https://www.semanticscholar.org/paper/485a66cceeb43312a71f54c2a7f93372c9bdc83b"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "10f62af29c3fc5e2572baddca559ffbfd6be8787", 
+      "title": "A C-LSTM Neural Network for Text Classification", 
+      "url": "https://www.semanticscholar.org/paper/10f62af29c3fc5e2572baddca559ffbfd6be8787"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "51948240e4191179ce76a6dab4a6a28e36e18aa4", 
+      "title": "SUPOR: Precise and Scalable Sensitive User Input Detection for Android Apps", 
+      "url": "https://www.semanticscholar.org/paper/51948240e4191179ce76a6dab4a6a28e36e18aa4"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "efde6da8d95f7a6994de55b163e81b1ef395098e", 
+      "title": "Automatic Authorship Detection Using Textual Patterns Extracted from Integrated Syntactic Graphs", 
+      "url": "https://www.semanticscholar.org/paper/efde6da8d95f7a6994de55b163e81b1ef395098e"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "6838e51e52b661275b834f55f807667e2b461f9d", 
+      "title": "Modelling Psychological Needs for User-dependent Contextual Suggestion", 
+      "url": "https://www.semanticscholar.org/paper/6838e51e52b661275b834f55f807667e2b461f9d"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "76cdf028470717ea4a50215c59ee72ce96dfb115", 
+      "title": "An Exploration of Discourse-Based Sentence Spaces for Compositional Distributional Semantics", 
+      "url": "https://www.semanticscholar.org/paper/76cdf028470717ea4a50215c59ee72ce96dfb115"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "1182139c6120874b153bc9a24f3ca68b482c0ee9", 
+      "title": "A Discriminative Training Procedure for Continuous Translation Models", 
+      "url": "https://www.semanticscholar.org/paper/1182139c6120874b153bc9a24f3ca68b482c0ee9"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "6363cfe79b33d66deeeba0e68e89f15b3e1e657f", 
+      "title": "Topical Word Embeddings", 
+      "url": "https://www.semanticscholar.org/paper/6363cfe79b33d66deeeba0e68e89f15b3e1e657f"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "e22a59bf154dcc4329f40c19b53e2515301fbabe", 
+      "title": "An approach towards comprehensive sentimental data analysis and opinion mining", 
+      "url": "https://www.semanticscholar.org/paper/e22a59bf154dcc4329f40c19b53e2515301fbabe"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "b13fe00d0f6bd3145f0953267c762eb713d689b7", 
+      "title": "A Compositional Approach to Language Modeling", 
+      "url": "https://www.semanticscholar.org/paper/b13fe00d0f6bd3145f0953267c762eb713d689b7"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "dc5ed3900b0fe17a2e663322a97b7878d803dc02", 
+      "title": "CRATS: An LDA-Based Model for Jointly Mining Latent Communities, Regions, Activities, Topics, and Sentiments from Geosocial Network Data", 
+      "url": "https://www.semanticscholar.org/paper/dc5ed3900b0fe17a2e663322a97b7878d803dc02"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "a14758da64e24d4524cacd70567a18e47d8311a5", 
+      "title": "MTE-NN at SemEval-2016 Task 3: Can Machine Translation Evaluation Help Community Question Answering?", 
+      "url": "https://www.semanticscholar.org/paper/a14758da64e24d4524cacd70567a18e47d8311a5"
+    }, 
+    {
+      "isInfluential": true, 
+      "paperId": "7d9089cbe958da21cbd943bdbcb996f4499e701b", 
+      "title": "Document Modeling with Gated Recurrent Neural Network for Sentiment Classification", 
+      "url": "https://www.semanticscholar.org/paper/7d9089cbe958da21cbd943bdbcb996f4499e701b"
+    }, 
+    {
+      "isInfluential": true, 
+      "paperId": "44855e53801d09763c1fb5f90ab73e5c3758a728", 
+      "title": "Sentence Directed Video Object Codiscovery", 
+      "url": "https://www.semanticscholar.org/paper/44855e53801d09763c1fb5f90ab73e5c3758a728"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "9303913740e0800ca9551bb64c4c69a6a5cb030c", 
+      "title": "Towards Machine Translation in Semantic Vector Space", 
+      "url": "https://www.semanticscholar.org/paper/9303913740e0800ca9551bb64c4c69a6a5cb030c"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "c1bd4e6de4c7e3ce1bf4f5e935f771f8f4281c0d", 
+      "title": "GWU NLP at SemEval-2016 Shared Task 1: Matrix Factorization for Crosslingual STS", 
+      "url": "https://www.semanticscholar.org/paper/c1bd4e6de4c7e3ce1bf4f5e935f771f8f4281c0d"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "230be715a8a1180b90baee32e1b0741989649104", 
+      "title": "Occupational Representativeness in Twitter", 
+      "url": "https://www.semanticscholar.org/paper/230be715a8a1180b90baee32e1b0741989649104"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "112634929e11c747f80d3ad74a8dd4bfc6f3794f", 
+      "title": "Shift-Reduce CCG Parsing using Neural Network Models", 
+      "url": "https://www.semanticscholar.org/paper/112634929e11c747f80d3ad74a8dd4bfc6f3794f"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "93e667d6a8d9e576bc032edafd5a08673604ed7e", 
+      "title": "Bibliography Deep Learning Papers", 
+      "url": "https://www.semanticscholar.org/paper/93e667d6a8d9e576bc032edafd5a08673604ed7e"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "d79312f6a45d77f07ff2ec015bea34858cc01762", 
+      "title": "Otedama: Fast Rule-Based Pre-Ordering for Machine Translation", 
+      "url": "https://www.semanticscholar.org/paper/d79312f6a45d77f07ff2ec015bea34858cc01762"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "2c22177821ffebc8bbdd8fd0d10b91a48c18d495", 
+      "title": "A Neural Probabilistic Structured-Prediction Model for Transition-Based Dependency Parsing", 
+      "url": "https://www.semanticscholar.org/paper/2c22177821ffebc8bbdd8fd0d10b91a48c18d495"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "4b9ac8e9592a568bbd02e30068977fb83dff1004", 
+      "title": "Factorial Hidden Markov Models for Learning Representations of Natural Language", 
+      "url": "https://www.semanticscholar.org/paper/4b9ac8e9592a568bbd02e30068977fb83dff1004"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "5f29b7428ab6f03067eb6a40c024a723f2c2b249", 
+      "title": "Recurrent Neural Network based Part-of-Speech Tagger for Code-Mixed Social Media Text", 
+      "url": "https://www.semanticscholar.org/paper/5f29b7428ab6f03067eb6a40c024a723f2c2b249"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "70fd03eba9f7bb5e40db86b64b76424ae190c590", 
+      "title": "Semi-supervised Learning for the BioNLP Gene Regulation Network", 
+      "url": "https://www.semanticscholar.org/paper/70fd03eba9f7bb5e40db86b64b76424ae190c590"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "bdb7ccbdd2f5e1779d95c626905573ead085c603", 
+      "title": "Comparison of scheduling methods for the learning rate of neural network language models (Mod\u00e8les de langue neuronaux: une comparaison de plusieurs strat\u00e9gies d'apprentissage) [in French]", 
+      "url": "https://www.semanticscholar.org/paper/bdb7ccbdd2f5e1779d95c626905573ead085c603"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "082a6b5647e23e6be2db45eeb5760fe0ba8aa12b", 
+      "title": "Determiner-Established Deixis to Communicative Artifacts in Pedagogical Text", 
+      "url": "https://www.semanticscholar.org/paper/082a6b5647e23e6be2db45eeb5760fe0ba8aa12b"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "21e715cf20e2fe4c0dfa3d682686fed5a379a18f", 
+      "title": "Learning Word Representations from Relational Graphs", 
+      "url": "https://www.semanticscholar.org/paper/21e715cf20e2fe4c0dfa3d682686fed5a379a18f"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "4a6c45ca0487ad09ba68eacbc4394d6525b3dfaf", 
+      "title": "Low-Rank Tensors for Scoring Dependency Structures", 
+      "url": "https://www.semanticscholar.org/paper/4a6c45ca0487ad09ba68eacbc4394d6525b3dfaf"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "1a8741432d0d3562734fb2419cbc562297c4b2f9", 
+      "title": "Principles of structure building in music, language and animal song.", 
+      "url": "https://www.semanticscholar.org/paper/1a8741432d0d3562734fb2419cbc562297c4b2f9"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "08d2f1c45a671ef6017ab91dc1c02144f0df8535", 
+      "title": "The NLP Engine: A Universal Turing Machine for NLP", 
+      "url": "https://www.semanticscholar.org/paper/08d2f1c45a671ef6017ab91dc1c02144f0df8535"
+    }, 
+    {
+      "isInfluential": true, 
+      "paperId": "5589deeeed1d91e78293c2a5eb43e4c6b17d979f", 
+      "title": "RNN-based Derivation Structure Prediction for SMT", 
+      "url": "https://www.semanticscholar.org/paper/5589deeeed1d91e78293c2a5eb43e4c6b17d979f"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "63869c1b3b4890e22101bc491b459e9d9b355f9f", 
+      "title": "Long Short-Term Memory Neural Networks for Chinese Word Segmentation", 
+      "url": "https://www.semanticscholar.org/paper/63869c1b3b4890e22101bc491b459e9d9b355f9f"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "3f0eafc4718d8c90be11c1a7655652fe63d488be", 
+      "title": "SEM13 at the NTCIR-11 IMINE Task: Subtopic Mining and Document Ranking Subtasks", 
+      "url": "https://www.semanticscholar.org/paper/3f0eafc4718d8c90be11c1a7655652fe63d488be"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "4c8e61f29a6d27d6a5028eb189bd09d48524784d", 
+      "title": "Decomposing Bilexical Dependencies into Semantic and Syntactic Vectors", 
+      "url": "https://www.semanticscholar.org/paper/4c8e61f29a6d27d6a5028eb189bd09d48524784d"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "b692f9a6fdcf9936531e6a24302ee86b75d9e67a", 
+      "title": "German Typographers vs. German Grammar: Decomposition of Wikipedia Category Labels into Attribute-Value Pairs", 
+      "url": "https://www.semanticscholar.org/paper/b692f9a6fdcf9936531e6a24302ee86b75d9e67a"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "d460d4502f015693082847e86a7ac1477f0e6ef4", 
+      "title": "Second Exam: Natural Language Parsing with Neural Networks", 
+      "url": "https://www.semanticscholar.org/paper/d460d4502f015693082847e86a7ac1477f0e6ef4"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "a76aac7697a9ad2f0d522fbd15b553697f1eb7bc", 
+      "title": "Transition-based Dependency Parsing Using Recursive Neural Networks", 
+      "url": "https://www.semanticscholar.org/paper/a76aac7697a9ad2f0d522fbd15b553697f1eb7bc"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "8602398403281dae0694b4e0488eb501d6db49ef", 
+      "title": "Global Neural CCG Parsing with Optimality Guarantees", 
+      "url": "https://www.semanticscholar.org/paper/8602398403281dae0694b4e0488eb501d6db49ef"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "bc1f682b63ab5cdcae81bacd72a13f49555fdfd0", 
+      "title": "Similarity of sentences through comparison of syntactic trees with pairs of similar words", 
+      "url": "https://www.semanticscholar.org/paper/bc1f682b63ab5cdcae81bacd72a13f49555fdfd0"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "9a90ada082fdc73ac4d1af046242e9d849c52f74", 
+      "title": "Unsupervised Morphological Expansion of Small Datasets for Improving Word Embeddings", 
+      "url": "https://www.semanticscholar.org/paper/9a90ada082fdc73ac4d1af046242e9d849c52f74"
+    }, 
+    {
+      "isInfluential": true, 
+      "paperId": "053faf4d00e36e637b8faf4d2a99ffae0cba239a", 
+      "title": "Modelling Syntactic and Semantic Tasks with Linguistically Enriched Recursive Neural Networks", 
+      "url": "https://www.semanticscholar.org/paper/053faf4d00e36e637b8faf4d2a99ffae0cba239a"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "5c686171f1d6f841d4a06d2e602630bec5d3d19f", 
+      "title": "Learning Cross-lingual Representations with Matrix Factorization", 
+      "url": "https://www.semanticscholar.org/paper/5c686171f1d6f841d4a06d2e602630bec5d3d19f"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "30af5d8716de572d4d1996534d9d1abc9983ece8", 
+      "title": "Query subtopic mining for search result diversification", 
+      "url": "https://www.semanticscholar.org/paper/30af5d8716de572d4d1996534d9d1abc9983ece8"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "16cb6876666f3a7b56a636c1d85ad00bd0d98bf3", 
+      "title": "Net2Net: Accelerating Learning via Knowledge Transfer", 
+      "url": "https://www.semanticscholar.org/paper/16cb6876666f3a7b56a636c1d85ad00bd0d98bf3"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "052fff34f888e7bf2350083f20642634947e7aaa", 
+      "title": "Phrase Type Sensitive Tensor Indexing Model for Semantic Composition", 
+      "url": "https://www.semanticscholar.org/paper/052fff34f888e7bf2350083f20642634947e7aaa"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "349e26b382c4089a11e8a6e49c371a4d126e85d9", 
+      "title": "LSTM CCG Parsing", 
+      "url": "https://www.semanticscholar.org/paper/349e26b382c4089a11e8a6e49c371a4d126e85d9"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "ce29db10680a9f29413319561f21134557907b9b", 
+      "title": "A Neural Probabilistic Model for Context Based Citation Recommendation", 
+      "url": "https://www.semanticscholar.org/paper/ce29db10680a9f29413319561f21134557907b9b"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "10418e58b506d0bc2273f28a5b84ed046aaa5c20", 
+      "title": "Modeling Newswire Events using Neural Networks for Anomaly Detection", 
+      "url": "https://www.semanticscholar.org/paper/10418e58b506d0bc2273f28a5b84ed046aaa5c20"
+    }, 
+    {
+      "isInfluential": true, 
+      "paperId": "94520b6174890cde55e188210681ebc561c872a7", 
+      "title": "Bidirectional Tree-Structured LSTM with Head Lexicalization", 
+      "url": "https://www.semanticscholar.org/paper/94520b6174890cde55e188210681ebc561c872a7"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "b4989cafb2d636c64a68293b95d5ca8d95b79e89", 
+      "title": "Improving Topic Coherence with Latent Feature Word Representations in MAP Estimation for Topic Modeling", 
+      "url": "https://www.semanticscholar.org/paper/b4989cafb2d636c64a68293b95d5ca8d95b79e89"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "4adc77c7a638af30470b096f04b367868ea6caba", 
+      "title": "Improving Word Representations with Document Labels", 
+      "url": "https://www.semanticscholar.org/paper/4adc77c7a638af30470b096f04b367868ea6caba"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "6667d7f48109c709226fef820abbd06c7a02bc74", 
+      "title": "An Autoencoder Approach to Learning Bilingual Word Representations", 
+      "url": "https://www.semanticscholar.org/paper/6667d7f48109c709226fef820abbd06c7a02bc74"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "802bfe36fa4fa77dd4c70d484cf33545137e6830", 
+      "title": "Jointly Modeling Inter-Slot Relations by Random Walk on Knowledge Graphs for Unsupervised Spoken Language Understanding", 
+      "url": "https://www.semanticscholar.org/paper/802bfe36fa4fa77dd4c70d484cf33545137e6830"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "cf1622ab497a14cb4d7d158b4b5e97c5774d6298", 
+      "title": "Multi2Rank: Multimedia Multiview Ranking", 
+      "url": "https://www.semanticscholar.org/paper/cf1622ab497a14cb4d7d158b4b5e97c5774d6298"
+    }, 
+    {
+      "isInfluential": true, 
+      "paperId": "b5fd12a80d28774f354502bad53299dc2a376e3f", 
+      "title": "Learning Composition Models for Phrase Embeddings", 
+      "url": "https://www.semanticscholar.org/paper/b5fd12a80d28774f354502bad53299dc2a376e3f"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "83160bfdc7bc3a9ad779bde4457b8c5fef9afb5a", 
+      "title": "ORec: An Opinion-Based Point-of-Interest Recommendation Framework", 
+      "url": "https://www.semanticscholar.org/paper/83160bfdc7bc3a9ad779bde4457b8c5fef9afb5a"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "42f8ece687e1036c40d8d50754fdca489a57f7c6", 
+      "title": "If the Current Clique Algorithms are Optimal, So is Valiant's Parser", 
+      "url": "https://www.semanticscholar.org/paper/42f8ece687e1036c40d8d50754fdca489a57f7c6"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "fdc9a534dd436c28b983740f9d180791aa4287b1", 
+      "title": "A deep-network solution towards model-less obstacle avoidance", 
+      "url": "https://www.semanticscholar.org/paper/fdc9a534dd436c28b983740f9d180791aa4287b1"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "05e61f7c5fb689a5a140c6eef3745f10db926260", 
+      "title": "Semantic Specialisation of Distributional Word Vector Spaces using Monolingual and Cross-Lingual Constraints", 
+      "url": "https://www.semanticscholar.org/paper/05e61f7c5fb689a5a140c6eef3745f10db926260"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "2c62e044085b6251ff2bd67f6fc0c1c82f9424df", 
+      "title": "Fish Transporters and Miracle Homes: How Compositional Distributional Semantics can Help NP Parsing", 
+      "url": "https://www.semanticscholar.org/paper/2c62e044085b6251ff2bd67f6fc0c1c82f9424df"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "70360335a9bb539c3a8f6546b3f5fd0979ad982c", 
+      "title": "Neural Sequence Modelling for Automated Essay Scoring", 
+      "url": "https://www.semanticscholar.org/paper/70360335a9bb539c3a8f6546b3f5fd0979ad982c"
+    }, 
+    {
+      "isInfluential": true, 
+      "paperId": "3db2cf656161e65d108df929408ee4a5eb92859d", 
+      "title": "Lexical Semantics and Model Theory: Together at Last?", 
+      "url": "https://www.semanticscholar.org/paper/3db2cf656161e65d108df929408ee4a5eb92859d"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "24e3055ce314a1912340fe4df9ce53c10032a390", 
+      "title": "Exploring phrase-compositionality in skip-gram models", 
+      "url": "https://www.semanticscholar.org/paper/24e3055ce314a1912340fe4df9ce53c10032a390"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "5ca4abab527f6b0270e50548f0dea30638c9b86e", 
+      "title": "Exact solutions to the nonlinear dynamics of learning in deep linear neural networks", 
+      "url": "https://www.semanticscholar.org/paper/5ca4abab527f6b0270e50548f0dea30638c9b86e"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "09296e93eaf997498d499f804cc1ba2e54bcd09c", 
+      "title": "Exploring Word Embedding for Drug Name Recognition", 
+      "url": "https://www.semanticscholar.org/paper/09296e93eaf997498d499f804cc1ba2e54bcd09c"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "13eba30632154428725983fcd8343f3f1b3f0695", 
+      "title": "A Fast and Accurate Dependency Parser using Neural Networks", 
+      "url": "https://www.semanticscholar.org/paper/13eba30632154428725983fcd8343f3f1b3f0695"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "49596a64f96704b994c7e8883eed77e6f77711c6", 
+      "title": "Ensemble classifier for Twitter sentiment analysis", 
+      "url": "https://www.semanticscholar.org/paper/49596a64f96704b994c7e8883eed77e6f77711c6"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "6e7f07aadc0f1931abfdff3403d543d1879624ce", 
+      "title": "Parsing Universal Dependency Treebanks using Neural Networks and Search-Based Oracle", 
+      "url": "https://www.semanticscholar.org/paper/6e7f07aadc0f1931abfdff3403d543d1879624ce"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "ee4fe17237c810fd36b49d6581d00b491c27d5fb", 
+      "title": "Evaluating a Deterministic Shift-Reduce Neural Parser for Constituent Parsing", 
+      "url": "https://www.semanticscholar.org/paper/ee4fe17237c810fd36b49d6581d00b491c27d5fb"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "de32bc50d3b0c1aad9996aee0b6fc523869c8d43", 
+      "title": "LABDA at the 2016 TASS Challenge Task: Using Word Embeddings for the Sentiment Analysis Task", 
+      "url": "https://www.semanticscholar.org/paper/de32bc50d3b0c1aad9996aee0b6fc523869c8d43"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "82c5f05b3a0699de3abefaa78f36bcef904336e6", 
+      "title": "Neural Attention Model for Classification of Sentences that Support Promoting/Suppressing Relationship", 
+      "url": "https://www.semanticscholar.org/paper/82c5f05b3a0699de3abefaa78f36bcef904336e6"
+    }, 
+    {
+      "isInfluential": true, 
+      "paperId": "18f648bb494c87f9cf9fe7db744aa233de9313c1", 
+      "title": "Exploring Compositional Architectures and Word Vector Representations for Prepositional Phrase Attachment", 
+      "url": "https://www.semanticscholar.org/paper/18f648bb494c87f9cf9fe7db744aa233de9313c1"
+    }, 
+    {
+      "isInfluential": true, 
+      "paperId": "c8fd92da76eccfef4cef2185b2cc82bcf8fe57c9", 
+      "title": "Dynamic Compositional Neural Networks over Tree Structure", 
+      "url": "https://www.semanticscholar.org/paper/c8fd92da76eccfef4cef2185b2cc82bcf8fe57c9"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "5ba79e88b37a084026ddc9ed2875a9dbe156aed4", 
+      "title": "Feature Optimization for Constituent Parsing via Neural Networks", 
+      "url": "https://www.semanticscholar.org/paper/5ba79e88b37a084026ddc9ed2875a9dbe156aed4"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "3096b9e5b17dedbee9554fbd1d6e20f7a095e48a", 
+      "title": "Jointly Learning Sentence Embeddings and Syntax with Unsupervised Tree-LSTMs", 
+      "url": "https://www.semanticscholar.org/paper/3096b9e5b17dedbee9554fbd1d6e20f7a095e48a"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "18095a530b532a70f3b615fef2f59e6fdacb2d84", 
+      "title": "Deep Structured Scene Parsing by Learning with Image Descriptions", 
+      "url": "https://www.semanticscholar.org/paper/18095a530b532a70f3b615fef2f59e6fdacb2d84"
+    }, 
+    {
+      "isInfluential": true, 
+      "paperId": "45dd93d3169ef00786064016fbbdfa624175382b", 
+      "title": "A Corpus-Based Quantitative Study of Nominalizations across Chinese and British Media English", 
+      "url": "https://www.semanticscholar.org/paper/45dd93d3169ef00786064016fbbdfa624175382b"
+    }, 
+    {
+      "isInfluential": true, 
+      "paperId": "b7062699879d741fd57b3bd908cc53baa9cfb72d", 
+      "title": "Word Sequence Modeling using Deep Learning: an End-to-end Approach and its Applications", 
+      "url": "https://www.semanticscholar.org/paper/b7062699879d741fd57b3bd908cc53baa9cfb72d"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "32b961951ee7b7e132552ebae349e06423e071fa", 
+      "title": "Embedding Lexical Features via Low-Rank Tensors", 
+      "url": "https://www.semanticscholar.org/paper/32b961951ee7b7e132552ebae349e06423e071fa"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "9ce205c003a838ee636a91871c86d312b4fab07e", 
+      "title": "Replacing OOV Words For Dependency Parsing With Distributional Semantics", 
+      "url": "https://www.semanticscholar.org/paper/9ce205c003a838ee636a91871c86d312b4fab07e"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "5e31d8914084ca8ae033b4168f9cbc56f0d4ac7b", 
+      "title": "KGO at the NTCIR-12 Temporalia Task: Exploring Temporal Information in Search Queries", 
+      "url": "https://www.semanticscholar.org/paper/5e31d8914084ca8ae033b4168f9cbc56f0d4ac7b"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "cd175f80821300931e81ed716b1e351b1a3aa11e", 
+      "title": "A Unified Model for Word Sense Representation and Disambiguation", 
+      "url": "https://www.semanticscholar.org/paper/cd175f80821300931e81ed716b1e351b1a3aa11e"
+    }, 
+    {
+      "isInfluential": true, 
+      "paperId": "7636d9166a2da60bab83369ebbb064ed80a8e6f3", 
+      "title": "Compositional Distributional Semantics with Long Short Term Memory", 
+      "url": "https://www.semanticscholar.org/paper/7636d9166a2da60bab83369ebbb064ed80a8e6f3"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "102ec9502c83e5e663bd834d5abc8cf6d93c2f28", 
+      "title": "Neural Word Segmentation Learning for Chinese", 
+      "url": "https://www.semanticscholar.org/paper/102ec9502c83e5e663bd834d5abc8cf6d93c2f28"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "d0356e790cf57b78ea150ac4edfcfc0c8a2ea73c", 
+      "title": "Jigg: A Framework for an Easy Natural Language Processing Pipeline", 
+      "url": "https://www.semanticscholar.org/paper/d0356e790cf57b78ea150ac4edfcfc0c8a2ea73c"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "e2b5240c2a5ea93139ec03417e59875cfe05e749", 
+      "title": "A Search-Based Dynamic Reranking Model for Dependency Parsing", 
+      "url": "https://www.semanticscholar.org/paper/e2b5240c2a5ea93139ec03417e59875cfe05e749"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "6155c882fb4f48183fd77c49152f950db2479bce", 
+      "title": "MultiDPS - A multilingual Discourse Processing System", 
+      "url": "https://www.semanticscholar.org/paper/6155c882fb4f48183fd77c49152f950db2479bce"
+    }, 
+    {
+      "isInfluential": true, 
+      "paperId": "2a97ac916b45df375b96cae28c4c13e6478e1ac8", 
+      "title": "Task-specific Word Identification from Short Texts Using a Convolutional Neural Network", 
+      "url": "https://www.semanticscholar.org/paper/2a97ac916b45df375b96cae28c4c13e6478e1ac8"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "94b40bd40a914dbce5aea07fa896ec2154f100e7", 
+      "title": "Deep Learning For Mathematical Functions", 
+      "url": "https://www.semanticscholar.org/paper/94b40bd40a914dbce5aea07fa896ec2154f100e7"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "5f9bf03fbb4487a2bd42dbd45835768d6133de6d", 
+      "title": "Grounded Semantic Parsing for Complex Knowledge Extraction", 
+      "url": "https://www.semanticscholar.org/paper/5f9bf03fbb4487a2bd42dbd45835768d6133de6d"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "0eaa671f144e2ac053abb4b9e5706635936d15e6", 
+      "title": "Statistical Script Learning with Recurrent Neural Networks", 
+      "url": "https://www.semanticscholar.org/paper/0eaa671f144e2ac053abb4b9e5706635936d15e6"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "26a471a491c2fb162ad403ed932b481d386306c7", 
+      "title": "Fast Zero-Shot Image Tagging", 
+      "url": "https://www.semanticscholar.org/paper/26a471a491c2fb162ad403ed932b481d386306c7"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "09318377000cc0d67b47101d0cedbb7fb045a5ee", 
+      "title": "Social relation extraction with improved distant supervised and word embedding features", 
+      "url": "https://www.semanticscholar.org/paper/09318377000cc0d67b47101d0cedbb7fb045a5ee"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "18178566965555152b399f316dd194fec3d6f0fb", 
+      "title": "Syntactic Parse Fusion", 
+      "url": "https://www.semanticscholar.org/paper/18178566965555152b399f316dd194fec3d6f0fb"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "019099e1d82f0a502d699daa1c57e8a3c5e5066d", 
+      "title": "Visual Semantic Search: Retrieving Videos via Complex Textual Queries", 
+      "url": "https://www.semanticscholar.org/paper/019099e1d82f0a502d699daa1c57e8a3c5e5066d"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "d60626ca2d041c848157535005b5e2de6596711e", 
+      "title": "Learning a Semantic Database from Unstructured Text Signature Redacted Jul 15 2014 Libraries Learning a Semantic Database from Unstructured Text", 
+      "url": "https://www.semanticscholar.org/paper/d60626ca2d041c848157535005b5e2de6596711e"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "0d2c7019373b0bb3866b90a4eb38948768619a2a", 
+      "title": "Transforming Dependencies into Phrase Structures", 
+      "url": "https://www.semanticscholar.org/paper/0d2c7019373b0bb3866b90a4eb38948768619a2a"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "5c6ee6707ed3ee298a57064be0acee7a464bdce7", 
+      "title": "Radical-Enhanced Chinese Character Embedding", 
+      "url": "https://www.semanticscholar.org/paper/5c6ee6707ed3ee298a57064be0acee7a464bdce7"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "51df044c0cc9619270fe72cb1a9021b4822e5db9", 
+      "title": "A Deep Architecture for Non-Projective Dependency Parsing", 
+      "url": "https://www.semanticscholar.org/paper/51df044c0cc9619270fe72cb1a9021b4822e5db9"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "bec3b522f210c4fdbd7840379a14c9a1dfe90ef6", 
+      "title": "The Role of Query Sessions in Interpreting Compound Noun Phrases", 
+      "url": "https://www.semanticscholar.org/paper/bec3b522f210c4fdbd7840379a14c9a1dfe90ef6"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "0303eaac94e2c6df7ac0a961d2885f35b97e413d", 
+      "title": "Combining Word Embeddings and Feature Embeddings for Fine-grained Relation Extraction", 
+      "url": "https://www.semanticscholar.org/paper/0303eaac94e2c6df7ac0a961d2885f35b97e413d"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "944d92a3f2e5e73ad4def2b9719cc961f66a480a", 
+      "title": "Text clustering using VSM with feature clusters", 
+      "url": "https://www.semanticscholar.org/paper/944d92a3f2e5e73ad4def2b9719cc961f66a480a"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "22ffb22d750bc897550b4b9c8a447b5c86f960ac", 
+      "title": "Neural Relation Extraction with Selective Attention over Instances", 
+      "url": "https://www.semanticscholar.org/paper/22ffb22d750bc897550b4b9c8a447b5c86f960ac"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "84458cd529206ec4897b90be191b089e8966ddc4", 
+      "title": "Global Belief Recursive Neural Networks", 
+      "url": "https://www.semanticscholar.org/paper/84458cd529206ec4897b90be191b089e8966ddc4"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "6d35949dac3d64ce087c54d200463b3908932832", 
+      "title": "Convolutional Neural Network for Sentence Classification", 
+      "url": "https://www.semanticscholar.org/paper/6d35949dac3d64ce087c54d200463b3908932832"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "93c7fb5b5bc7173f78cd185490e3ab0485abe5c5", 
+      "title": "Incorporating Both Distributional and Relational Semantics in Word Representations", 
+      "url": "https://www.semanticscholar.org/paper/93c7fb5b5bc7173f78cd185490e3ab0485abe5c5"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "3c0c418db008902100be62ceac4fa08c4ca531fc", 
+      "title": "A Study of Chinese Document Representation and Classification with Word2vec", 
+      "url": "https://www.semanticscholar.org/paper/3c0c418db008902100be62ceac4fa08c4ca531fc"
+    }, 
+    {
+      "isInfluential": true, 
+      "paperId": "4609c4c62f7d96fba86d1057749254ec79e530af", 
+      "title": "Exploring Multiple Feature Spaces for Novel Entity Discovery", 
+      "url": "https://www.semanticscholar.org/paper/4609c4c62f7d96fba86d1057749254ec79e530af"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "e5ca66fe2ae33687a5d1012cf9b1a77b2fc0a0f2", 
+      "title": "Sentiment Embeddings with Applications to Sentiment Analysis", 
+      "url": "https://www.semanticscholar.org/paper/e5ca66fe2ae33687a5d1012cf9b1a77b2fc0a0f2"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "61f0d79531f1d4aaee31a5792aed05774bf1bd16", 
+      "title": "Towards cross-lingual distributed representations without parallel text trained with adversarial autoencoders", 
+      "url": "https://www.semanticscholar.org/paper/61f0d79531f1d4aaee31a5792aed05774bf1bd16"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "3eac0acc4547c5d9d759459efe294bf5e219fb07", 
+      "title": "A Distributed Representation-Based Framework for Cross-Lingual Transfer Parsing", 
+      "url": "https://www.semanticscholar.org/paper/3eac0acc4547c5d9d759459efe294bf5e219fb07"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "0652c23a58a6ec8d97b54e3fba1bf12623f6bdbb", 
+      "title": "Curatable Named-Entity Recognition Using Semantic Relations", 
+      "url": "https://www.semanticscholar.org/paper/0652c23a58a6ec8d97b54e3fba1bf12623f6bdbb"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "e5363b97a0722c9fa92f989eb69f0a3ea8944e68", 
+      "title": "A Neural Probabilistic Structured-Prediction Method for Transition-Based Natural Language Processing", 
+      "url": "https://www.semanticscholar.org/paper/e5363b97a0722c9fa92f989eb69f0a3ea8944e68"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "b99f72445b1d4acb91aa159f0555f95e80e12b53", 
+      "title": "LTSG: Latent Topical Skip-Gram for Mutually Learning Topic Model and Vector Representations", 
+      "url": "https://www.semanticscholar.org/paper/b99f72445b1d4acb91aa159f0555f95e80e12b53"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "d1670125e84e06a63e2df9b248f148d601100a62", 
+      "title": "Chinese-English mixed text normalization", 
+      "url": "https://www.semanticscholar.org/paper/d1670125e84e06a63e2df9b248f148d601100a62"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "8ce0023611d4d5f0e9654a289e165f600216c76d", 
+      "title": "Dependency Parsing with LSTMs: An Empirical Evaluation", 
+      "url": "https://www.semanticscholar.org/paper/8ce0023611d4d5f0e9654a289e165f600216c76d"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "43c5cc8e9a6938159d9bc1c8f6ef89b503e17d9b", 
+      "title": "Combining Discrete and Continuous Features for Deterministic Transition-based Dependency Parsing", 
+      "url": "https://www.semanticscholar.org/paper/43c5cc8e9a6938159d9bc1c8f6ef89b503e17d9b"
+    }, 
+    {
+      "isInfluential": true, 
+      "paperId": "5693ee61b198a04c1c2a78eb97da3405cd9e423c", 
+      "title": "Finding The Best Model Among Representative Compositional Models", 
+      "url": "https://www.semanticscholar.org/paper/5693ee61b198a04c1c2a78eb97da3405cd9e423c"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "786a4e288dddaddd5926a3401b407f034be1f3fd", 
+      "title": "Equation Parsing : Mapping Sentences to Grounded Equations", 
+      "url": "https://www.semanticscholar.org/paper/786a4e288dddaddd5926a3401b407f034be1f3fd"
+    }, 
+    {
+      "isInfluential": true, 
+      "paperId": "117aea557509d2eda69fd845774cef13f9fb75d1", 
+      "title": "English-Chinese Knowledge Base Translation with Neural Network", 
+      "url": "https://www.semanticscholar.org/paper/117aea557509d2eda69fd845774cef13f9fb75d1"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "2b63812db40152b12925ce4a848b929fa591b858", 
+      "title": "Neural Machine Translation and Sequence-to-sequence Models: A Tutorial", 
+      "url": "https://www.semanticscholar.org/paper/2b63812db40152b12925ce4a848b929fa591b858"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "1f8b5734ab57a81875ed52f708c9bb9d5f4cad2c", 
+      "title": "Distributed Representations of Geographically Situated Language", 
+      "url": "https://www.semanticscholar.org/paper/1f8b5734ab57a81875ed52f708c9bb9d5f4cad2c"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "76a2c10a99a6ef0fbe513dc988f53c0f59e3b6b1", 
+      "title": "An Automatic English Composition scoring model based on neural network algorithm", 
+      "url": "https://www.semanticscholar.org/paper/76a2c10a99a6ef0fbe513dc988f53c0f59e3b6b1"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "66c553af068d06eb583f94d640733d43cbd0799f", 
+      "title": "AutoCog: Measuring the Description-to-permission Fidelity in Android Applications", 
+      "url": "https://www.semanticscholar.org/paper/66c553af068d06eb583f94d640733d43cbd0799f"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "fda51c3af409605191823d8ac5de37c1bda0e75c", 
+      "title": "Machine Translation Evaluation Meets Community Question Answering", 
+      "url": "https://www.semanticscholar.org/paper/fda51c3af409605191823d8ac5de37c1bda0e75c"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "1e662c87a36779dbe9f56f7ffd3ade756059d094", 
+      "title": "Joint Learning of Character and Word Embeddings", 
+      "url": "https://www.semanticscholar.org/paper/1e662c87a36779dbe9f56f7ffd3ade756059d094"
+    }, 
+    {
+      "isInfluential": true, 
+      "paperId": "117f0e820397af8b7348bcf5c4020cd239832887", 
+      "title": "Automatic Classification of Communicative Functions of Definiteness", 
+      "url": "https://www.semanticscholar.org/paper/117f0e820397af8b7348bcf5c4020cd239832887"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "b8ca0e75a13a2c1a16fa592682bc8d9ad33dc79a", 
+      "title": "Denoising composition in distributional semantics", 
+      "url": "https://www.semanticscholar.org/paper/b8ca0e75a13a2c1a16fa592682bc8d9ad33dc79a"
+    }, 
+    {
+      "isInfluential": true, 
+      "paperId": "529abf1f5d7d8d937801f3542fcc616d79bd55d0", 
+      "title": "Max-Margin Tensor Neural Network for Chinese Word Segmentation", 
+      "url": "https://www.semanticscholar.org/paper/529abf1f5d7d8d937801f3542fcc616d79bd55d0"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "8204559805f2b45b43ce17efcb8adc6b631d9dca", 
+      "title": "Release Planning of Mobile Apps Based on User Reviews", 
+      "url": "https://www.semanticscholar.org/paper/8204559805f2b45b43ce17efcb8adc6b631d9dca"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "27ee75e2047bac3ae9fc3b4f09aa610d14104f5c", 
+      "title": "Learning Sentiment-Specific Word Embedding for Twitter Sentiment Classification", 
+      "url": "https://www.semanticscholar.org/paper/27ee75e2047bac3ae9fc3b4f09aa610d14104f5c"
+    }, 
+    {
+      "isInfluential": true, 
+      "paperId": "178cc2fc3062b1aa789418448d197440349fdaa0", 
+      "title": "The GUM Corpus: Creating Multilayer Resources in the Classroom", 
+      "url": "https://www.semanticscholar.org/paper/178cc2fc3062b1aa789418448d197440349fdaa0"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "25c8b0bc8dcb54fa83098240d305a206ac937e33", 
+      "title": "Merging Verb Senses of Hindi WordNet using Word Embeddings", 
+      "url": "https://www.semanticscholar.org/paper/25c8b0bc8dcb54fa83098240d305a206ac937e33"
+    }, 
+    {
+      "isInfluential": true, 
+      "paperId": "c485b7e7b3f3c7cac63133722b76744db88fa4a9", 
+      "title": "Head-Lexicalized Bidirectional Tree LSTMs", 
+      "url": "https://www.semanticscholar.org/paper/c485b7e7b3f3c7cac63133722b76744db88fa4a9"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "88c59cf138c711b95695b3d12755e7dca1238404", 
+      "title": "Skewer: Sentiment Knowledge Extraction with Entity Recognition", 
+      "url": "https://www.semanticscholar.org/paper/88c59cf138c711b95695b3d12755e7dca1238404"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "b742bffaf42ccad4d90d3847966b44559038728f", 
+      "title": "A Hybrid Method of Domain Lexicon Construction for Opinion Targets Extraction Using Syntax and Semantics", 
+      "url": "https://www.semanticscholar.org/paper/b742bffaf42ccad4d90d3847966b44559038728f"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "7a0d6b4ff7ff3824617912f95a2f52c8955aca9a", 
+      "title": "In-Order Transition-based Constituent Parsing", 
+      "url": "https://www.semanticscholar.org/paper/7a0d6b4ff7ff3824617912f95a2f52c8955aca9a"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "19198bf8412ec944d1ac7d3113188a91227ed266", 
+      "title": "A Collaborative Filtering Approach Based on User's Reviews", 
+      "url": "https://www.semanticscholar.org/paper/19198bf8412ec944d1ac7d3113188a91227ed266"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "c89966366f8c179103c14f0944627090a769b163", 
+      "title": "A comparison of discriminative training criteria for continuous space translation models", 
+      "url": "https://www.semanticscholar.org/paper/c89966366f8c179103c14f0944627090a769b163"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "5ff96b72a5c1978e08adc61c5b6c5445ea11c480", 
+      "title": "I Couldn't Agree More: The Role of Conversational Structure in Agreement and Disagreement Detection in Online Discussions", 
+      "url": "https://www.semanticscholar.org/paper/5ff96b72a5c1978e08adc61c5b6c5445ea11c480"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "58f00b4e5a63a4bddce6b2feadcdd23f71c675a3", 
+      "title": "Bilingual Correspondence Recursive Autoencoder for Statistical Machine Translation", 
+      "url": "https://www.semanticscholar.org/paper/58f00b4e5a63a4bddce6b2feadcdd23f71c675a3"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "2226336b9c062550bb7855e2ee337aede564907b", 
+      "title": "Machine Translation Evaluation using Recurrent Neural Networks", 
+      "url": "https://www.semanticscholar.org/paper/2226336b9c062550bb7855e2ee337aede564907b"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "207c42e349a98cb2e037a244ecc381d7c02f0876", 
+      "title": "Good News or Bad News: Using Affect Control Theory to Analyze Readers' Reaction Towards News Articles", 
+      "url": "https://www.semanticscholar.org/paper/207c42e349a98cb2e037a244ecc381d7c02f0876"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "ac511554a0724a7a128e5b5222f7a8900bdf2747", 
+      "title": "Adaptive Importance Sampling from Probabilistic Tree Automata", 
+      "url": "https://www.semanticscholar.org/paper/ac511554a0724a7a128e5b5222f7a8900bdf2747"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "403afa495a2188844133cf53e6e1f35895c7053d", 
+      "title": "Goal and Preference Identification through natural language", 
+      "url": "https://www.semanticscholar.org/paper/403afa495a2188844133cf53e6e1f35895c7053d"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "4b58133d51dcbac2bcb6171ad3bd3aa4b66b1891", 
+      "title": "A Simple Way to Initialize Recurrent Networks of Rectified Linear Units", 
+      "url": "https://www.semanticscholar.org/paper/4b58133d51dcbac2bcb6171ad3bd3aa4b66b1891"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "55346826fbe985e3d3cd5b455abf869bcda6e9bd", 
+      "title": "Shift-Reduce Constituent Parsing with Neural Lookahead Features", 
+      "url": "https://www.semanticscholar.org/paper/55346826fbe985e3d3cd5b455abf869bcda6e9bd"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "0825788b9b5a18e3dfea5b0af123b5e939a4f564", 
+      "title": "Glove: Global Vectors for Word Representation", 
+      "url": "https://www.semanticscholar.org/paper/0825788b9b5a18e3dfea5b0af123b5e939a4f564"
+    }, 
+    {
+      "isInfluential": true, 
+      "paperId": "1841e687a6a9f092574477d62784c13ce6361ae3", 
+      "title": "Neural CRF Parsing", 
+      "url": "https://www.semanticscholar.org/paper/1841e687a6a9f092574477d62784c13ce6361ae3"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "4066f186ff58d300090c652925ed0aed3355efec", 
+      "title": "Solving Visual Madlibs with Multiple Cues", 
+      "url": "https://www.semanticscholar.org/paper/4066f186ff58d300090c652925ed0aed3355efec"
+    }, 
+    {
+      "isInfluential": true, 
+      "paperId": "2b501d64fa2abe12224d6d0dd982119f7ffd2f43", 
+      "title": "Easy-First Dependency Parsing with Hierarchical Tree LSTMs", 
+      "url": "https://www.semanticscholar.org/paper/2b501d64fa2abe12224d6d0dd982119f7ffd2f43"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "21c99706bb26e9012bfb4d8d48009a3d45af59b2", 
+      "title": "Neural Module Networks", 
+      "url": "https://www.semanticscholar.org/paper/21c99706bb26e9012bfb4d8d48009a3d45af59b2"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "1594d954abc650bce2db445c52a76e49655efb0c", 
+      "title": "Recurrent Neural Network Grammars", 
+      "url": "https://www.semanticscholar.org/paper/1594d954abc650bce2db445c52a76e49655efb0c"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "38ae190f243519f6231aae06e789fe5c7d1d3e14", 
+      "title": "Using Joint Models for Domain Adaptation in Statistical Machine Translation", 
+      "url": "https://www.semanticscholar.org/paper/38ae190f243519f6231aae06e789fe5c7d1d3e14"
+    }, 
+    {
+      "isInfluential": true, 
+      "paperId": "c701595c5ee993b2ad588618799dbe4b7e583847", 
+      "title": "Transfer Learning: The Impact of Test Set Word Vectors, with Applications to Political Tweets", 
+      "url": "https://www.semanticscholar.org/paper/c701595c5ee993b2ad588618799dbe4b7e583847"
+    }, 
+    {
+      "isInfluential": true, 
+      "paperId": "311de02e063e773fa01126e66da94096a2348817", 
+      "title": "Graphical Models with Structured Factors, Neural Factors, and Approximation-aware Training Working with Other Researchers Taught Me a Lot: Thanks to Spitkovsky Were Key for Replicating Prior Work. Thanks To", 
+      "url": "https://www.semanticscholar.org/paper/311de02e063e773fa01126e66da94096a2348817"
+    }, 
+    {
+      "isInfluential": true, 
+      "paperId": "19600dd3021169e162790d07ccf31e5938d0ddbf", 
+      "title": "Jointly Learning Word Representations and Composition Functions Using Predicate-Argument Structures", 
+      "url": "https://www.semanticscholar.org/paper/19600dd3021169e162790d07ccf31e5938d0ddbf"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "24110c0127b00c54529ed6aab9109c4cac1a142b", 
+      "title": "Deep Learning Applied to Games", 
+      "url": "https://www.semanticscholar.org/paper/24110c0127b00c54529ed6aab9109c4cac1a142b"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "9ab0b0c47e5aa0cbe4fef6b89642d0ee2401508c", 
+      "title": "A Neural Local Coherence Model", 
+      "url": "https://www.semanticscholar.org/paper/9ab0b0c47e5aa0cbe4fef6b89642d0ee2401508c"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "ac0b8c7316441f587d2ec3ccacdeb7a6e5b1391c", 
+      "title": "Machine Translation Evaluation for Arabic using Morphologically-enriched Embeddings", 
+      "url": "https://www.semanticscholar.org/paper/ac0b8c7316441f587d2ec3ccacdeb7a6e5b1391c"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "637a2c0efa953bc5d8f00e797e6cb4606d640a11", 
+      "title": "Word Embeddings as Metric Recovery in Semantic Spaces", 
+      "url": "https://www.semanticscholar.org/paper/637a2c0efa953bc5d8f00e797e6cb4606d640a11"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "4fe7c499d1dd1ed34f2d70fbfd835d72366b12e8", 
+      "title": "Query Understanding through Knowledge-Based Conceptualization", 
+      "url": "https://www.semanticscholar.org/paper/4fe7c499d1dd1ed34f2d70fbfd835d72366b12e8"
+    }, 
+    {
+      "isInfluential": true, 
+      "paperId": "b0aca3e7877c3c20958b0fae5cbf2dd602104859", 
+      "title": "Deep Convolutional Neural Networks for Sentiment Analysis of Short Texts", 
+      "url": "https://www.semanticscholar.org/paper/b0aca3e7877c3c20958b0fae5cbf2dd602104859"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "0a256e8ddbd20b3fdbff4a7b23e05d05976e50ee", 
+      "title": "Combining Conditional Random Fields and Word Embeddings for the CHEMDNER-patents task", 
+      "url": "https://www.semanticscholar.org/paper/0a256e8ddbd20b3fdbff4a7b23e05d05976e50ee"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "2d832b4e3154894b22f61dac5cba07f73d42a472", 
+      "title": "Language and Perceptual Categorization in Computational Visual Recognition", 
+      "url": "https://www.semanticscholar.org/paper/2d832b4e3154894b22f61dac5cba07f73d42a472"
+    }, 
+    {
+      "isInfluential": true, 
+      "paperId": "dedfec208ab69411bfd02f97aa014fc32e053a0c", 
+      "title": "Learning Phone Embeddings for Word Segmentation of Child-Directed Speech", 
+      "url": "https://www.semanticscholar.org/paper/dedfec208ab69411bfd02f97aa014fc32e053a0c"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "1e9e87fc99430a82621810b3ce7db51e339be315", 
+      "title": "Grounded Compositional Semantics for Finding and Describing Images with Sentences", 
+      "url": "https://www.semanticscholar.org/paper/1e9e87fc99430a82621810b3ce7db51e339be315"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "4434a5943c904c12a94068a04361f94c5da4696c", 
+      "title": "Bankac\u0131l\u0131k Alan\u0131nda Do\u011fal Dil \u0130\u015fleme Destekli Davran\u0131\u015f G\u00fcd\u00fcml\u00fc Geli\u015ftirme", 
+      "url": "https://www.semanticscholar.org/paper/4434a5943c904c12a94068a04361f94c5da4696c"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "c64a0d315e4795996836c06fdd1183d9ab915153", 
+      "title": "Relation Extraction: Perspective from Convolutional Neural Networks", 
+      "url": "https://www.semanticscholar.org/paper/c64a0d315e4795996836c06fdd1183d9ab915153"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "1a645bcd029cc5ce21b973146f21a9655047cc96", 
+      "title": "Phrase Localization and Visual Relationship Detection with Comprehensive Linguistic Cues", 
+      "url": "https://www.semanticscholar.org/paper/1a645bcd029cc5ce21b973146f21a9655047cc96"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "c54924c01222697ae180d07d17d7f0304517e24a", 
+      "title": "Toward Automatic Inference of Causal Structure in Student Essays", 
+      "url": "https://www.semanticscholar.org/paper/c54924c01222697ae180d07d17d7f0304517e24a"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "40865a6d55a5bb95e3033b19ae72fcff53eb6de7", 
+      "title": "Spanish Word Vectors from Wikipedia", 
+      "url": "https://www.semanticscholar.org/paper/40865a6d55a5bb95e3033b19ae72fcff53eb6de7"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "5300dd204c61c55a30c8b8a1bed908e2e704e141", 
+      "title": "Aspekt-basierte Sentiment Analysis", 
+      "url": "https://www.semanticscholar.org/paper/5300dd204c61c55a30c8b8a1bed908e2e704e141"
+    }, 
+    {
+      "isInfluential": true, 
+      "paperId": "0397ed8582f85f027ae9f3f57e9f5ed2a7808f99", 
+      "title": "Deep Unordered Composition Rivals Syntactic Methods for Text Classification", 
+      "url": "https://www.semanticscholar.org/paper/0397ed8582f85f027ae9f3f57e9f5ed2a7808f99"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "153aa8b982f0d6db42502a307276fe6323304140", 
+      "title": "Recursive Autoencoders for ITG-Based Translation", 
+      "url": "https://www.semanticscholar.org/paper/153aa8b982f0d6db42502a307276fe6323304140"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "9b83f334515efd7ddd257778d1ac2b9a693e695f", 
+      "title": "Joint RNN-Based Greedy Parsing and Word Composition", 
+      "url": "https://www.semanticscholar.org/paper/9b83f334515efd7ddd257778d1ac2b9a693e695f"
+    }, 
+    {
+      "isInfluential": true, 
+      "paperId": "6e3184e137962a4313daf155d31b8bae8df1dc3e", 
+      "title": "Learning from errors: Using vector-based compositional semantics for parse reranking", 
+      "url": "https://www.semanticscholar.org/paper/6e3184e137962a4313daf155d31b8bae8df1dc3e"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "68bfbaf909ed1ccebf489aabd9ef6b06b0d43a03", 
+      "title": "Incorporating Relation Paths in Neural Relation Extraction", 
+      "url": "https://www.semanticscholar.org/paper/68bfbaf909ed1ccebf489aabd9ef6b06b0d43a03"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "433a4a98d1dbf474a07ae2415e55dae0723c4a6e", 
+      "title": "Cross Lingual Sentiment Analysis using Modified BRAE", 
+      "url": "https://www.semanticscholar.org/paper/433a4a98d1dbf474a07ae2415e55dae0723c4a6e"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "79888a724c6aa5464f306a4a2869d4da2426422f", 
+      "title": "A Generative Parser with a Discriminative Recognition Algorithm", 
+      "url": "https://www.semanticscholar.org/paper/79888a724c6aa5464f306a4a2869d4da2426422f"
+    }, 
+    {
+      "isInfluential": true, 
+      "paperId": "b03965afec04778cf1ea6b2b534019f88b6cbed4", 
+      "title": "Learning Vector Representations for Sentences The Recursive Deep Learning Approach", 
+      "url": "https://www.semanticscholar.org/paper/b03965afec04778cf1ea6b2b534019f88b6cbed4"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "0d5855a9fb5809c7f715a1c3dd9358f39b9f3ce4", 
+      "title": "Using Syntactic and Semantic Context to Explore Psychodemographic Differences in Self-reference", 
+      "url": "https://www.semanticscholar.org/paper/0d5855a9fb5809c7f715a1c3dd9358f39b9f3ce4"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "c28692b0509ef8db6179a5ac431d2a519744dc15", 
+      "title": "High-order Graph-based Neural Dependency Parsing", 
+      "url": "https://www.semanticscholar.org/paper/c28692b0509ef8db6179a5ac431d2a519744dc15"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "aa2f93d37ad2cd0c55b2c38134b0ce27f61da5ea", 
+      "title": "Word Context and Token Representations from Paradigmatic Relations and Their Application to Part-of-Speech Induction", 
+      "url": "https://www.semanticscholar.org/paper/aa2f93d37ad2cd0c55b2c38134b0ce27f61da5ea"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "346dd15a38f9aa978f1eb72f59e2159994912a16", 
+      "title": "Quasi-Regularity in Sound, Word, Phrase, and Meaning", 
+      "url": "https://www.semanticscholar.org/paper/346dd15a38f9aa978f1eb72f59e2159994912a16"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "689d84f360bb57871b099b01f4ab86fc54957200", 
+      "title": "Learning Adjective Meanings with a Tensor-Based Skip-Gram Model", 
+      "url": "https://www.semanticscholar.org/paper/689d84f360bb57871b099b01f4ab86fc54957200"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "44e7d51294f5c9b82d3f40eca56a36d86e65baa4", 
+      "title": "Building Concept Graphs from Monolingual Dictionary Entries", 
+      "url": "https://www.semanticscholar.org/paper/44e7d51294f5c9b82d3f40eca56a36d86e65baa4"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "50ae697a5a7c506194bc9b8cd5e35ced1cea2534", 
+      "title": "The University of Illinois submission to the WMT 2015 Shared Translation Task", 
+      "url": "https://www.semanticscholar.org/paper/50ae697a5a7c506194bc9b8cd5e35ced1cea2534"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "f5bc00f372f057b58159328f7d37c521a564cf3e", 
+      "title": "A Multi-task Approach to Predict Likability of Books", 
+      "url": "https://www.semanticscholar.org/paper/f5bc00f372f057b58159328f7d37c521a564cf3e"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "ecd5d4794a0299b04885352c0b49001e9862759a", 
+      "title": "Reconhecimento Espacial Por Ana\u0301lises Le\u0301xica E Sinta\u0301tica De Estruturas De Voxels Para Bots De Minecraft", 
+      "url": "https://www.semanticscholar.org/paper/ecd5d4794a0299b04885352c0b49001e9862759a"
+    }, 
+    {
+      "isInfluential": true, 
+      "paperId": "4a6f21492bfb17c788961c1af008177014d3c46e", 
+      "title": "Transition-based Dependency Parsing Using Two Heterogeneous Gated Recursive Neural Networks", 
+      "url": "https://www.semanticscholar.org/paper/4a6f21492bfb17c788961c1af008177014d3c46e"
+    }, 
+    {
+      "isInfluential": true, 
+      "paperId": "f14a86307b62232aa2cf68177c24bd71d010615f", 
+      "title": "Analyzing Linguistic Knowledge in Sequential Model of Sentence", 
+      "url": "https://www.semanticscholar.org/paper/f14a86307b62232aa2cf68177c24bd71d010615f"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "c2e3fc2d74e84071fdb6256724638f0b2d1827cc", 
+      "title": "Towards Compositional Tree Kernels", 
+      "url": "https://www.semanticscholar.org/paper/c2e3fc2d74e84071fdb6256724638f0b2d1827cc"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "9cf98461d50b6167f33ecdef583e3c85c5521872", 
+      "title": "\"What Parts of Your Apps are Loved by Users?\" (T)", 
+      "url": "https://www.semanticscholar.org/paper/9cf98461d50b6167f33ecdef583e3c85c5521872"
+    }, 
+    {
+      "isInfluential": true, 
+      "paperId": "4bdeeddd73359bf40e639f89fc93369b1e0abb5d", 
+      "title": "A Re-ranking Model for Dependency Parser with Recursive Convolutional Neural Network", 
+      "url": "https://www.semanticscholar.org/paper/4bdeeddd73359bf40e639f89fc93369b1e0abb5d"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "889421ea22e1d919030a59fe0b118a2436851d5c", 
+      "title": "Dissecting German Grammar and Swiss Passports: Open-Domain Decomposition of Compositional Entries in Large-Scale Knowledge Repositories", 
+      "url": "https://www.semanticscholar.org/paper/889421ea22e1d919030a59fe0b118a2436851d5c"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "7f4c35d9f69ff3ca798e7f4f0947bf232a3c15e8", 
+      "title": "Reducing Lexical Features in Parsing by Word Embeddings", 
+      "url": "https://www.semanticscholar.org/paper/7f4c35d9f69ff3ca798e7f4f0947bf232a3c15e8"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "75983c55a489d526427fe399ce2670376168a2f0", 
+      "title": "Building a free, general-domain paraphrase database for Japanese", 
+      "url": "https://www.semanticscholar.org/paper/75983c55a489d526427fe399ce2670376168a2f0"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "8a62b98b50a2e30c3fb6356f15a2f0c01b5d3bb1", 
+      "title": "Neural Representation Learning in Linguistic Structured Prediction", 
+      "url": "https://www.semanticscholar.org/paper/8a62b98b50a2e30c3fb6356f15a2f0c01b5d3bb1"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "999ecb77d17e8913d91df8527e3a391e7a992cc9", 
+      "title": "The NL2KR Platform for building Natural Language Translation Systems", 
+      "url": "https://www.semanticscholar.org/paper/999ecb77d17e8913d91df8527e3a391e7a992cc9"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "349c61800a5132120c8ad294c8d3118b3115fa97", 
+      "title": "Relation extraction for inferring access control rules from natural language artifacts", 
+      "url": "https://www.semanticscholar.org/paper/349c61800a5132120c8ad294c8d3118b3115fa97"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "1f09e8a4c897543253065cbcdbd6f4f0053d4ebf", 
+      "title": "Context Dependent Claim Detection", 
+      "url": "https://www.semanticscholar.org/paper/1f09e8a4c897543253065cbcdbd6f4f0053d4ebf"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "9a653ec8b265959178af593e275dcc610b2de90f", 
+      "title": "Opinion Mining in a Code-Mixed Environment: A Case Study with Government Portals", 
+      "url": "https://www.semanticscholar.org/paper/9a653ec8b265959178af593e275dcc610b2de90f"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "0933cca7e4907860750b0253742bcde493734659", 
+      "title": "Refinements in Syntactic Parsing", 
+      "url": "https://www.semanticscholar.org/paper/0933cca7e4907860750b0253742bcde493734659"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "3953ce455fc8f1a954c88d77820cc27c5ab502da", 
+      "title": "How much do word embeddings encode about syntax?", 
+      "url": "https://www.semanticscholar.org/paper/3953ce455fc8f1a954c88d77820cc27c5ab502da"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "2aa46341cfad20f394950c0e843bc0d8f5c10719", 
+      "title": "Towards an Automatic Top-down Role Engineering Approach Using Natural Language Processing Techniques", 
+      "url": "https://www.semanticscholar.org/paper/2aa46341cfad20f394950c0e843bc0d8f5c10719"
+    }, 
+    {
+      "isInfluential": true, 
+      "paperId": "d1a7f08af36ebc223eb552eced70115bcf21ce7d", 
+      "title": "Bilingually-constrained Phrase Embeddings for Machine Translation", 
+      "url": "https://www.semanticscholar.org/paper/d1a7f08af36ebc223eb552eced70115bcf21ce7d"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "f8f2b625b6baaa3931b7b4f053a7018c3fd725a3", 
+      "title": "Word Similarity Datasets for Indian Languages: Annotation and Baseline Systems", 
+      "url": "https://www.semanticscholar.org/paper/f8f2b625b6baaa3931b7b4f053a7018c3fd725a3"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "289d833a35c2156b7e332e67d1cb099fd0683025", 
+      "title": "HICO: A Benchmark for Recognizing Human-Object Interactions in Images", 
+      "url": "https://www.semanticscholar.org/paper/289d833a35c2156b7e332e67d1cb099fd0683025"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "152441d4ba1589b10b1a7d23d8f3b19d8b885c1d", 
+      "title": "Recurrent Greedy Parsing with Neural Networks", 
+      "url": "https://www.semanticscholar.org/paper/152441d4ba1589b10b1a7d23d8f3b19d8b885c1d"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "c60a68dc35d3ec729c9aa922d53d0a02e1c7e109", 
+      "title": "It Takes Three to Tango: Triangulation Approach to Answer Ranking in Community Question Answering", 
+      "url": "https://www.semanticscholar.org/paper/c60a68dc35d3ec729c9aa922d53d0a02e1c7e109"
+    }, 
+    {
+      "isInfluential": true, 
+      "paperId": "fd900722b061f23ee82ae6257f7a1b4c4a4f1740", 
+      "title": "Encoder-Decoder Shift-Reduce Syntactic Parsing", 
+      "url": "https://www.semanticscholar.org/paper/fd900722b061f23ee82ae6257f7a1b4c4a4f1740"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "3ea2fb53e5a2dc32a36e0243128a398250c07508", 
+      "title": "AI-KU at SemEval-2016 Task 11: Word Embeddings and Substring Features for Complex Word Identification", 
+      "url": "https://www.semanticscholar.org/paper/3ea2fb53e5a2dc32a36e0243128a398250c07508"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "77f14f3b5f094bf2e785fae772846116da18fa48", 
+      "title": "FIGURE8: A Novel System for Generating and Evaluating Figurative Language", 
+      "url": "https://www.semanticscholar.org/paper/77f14f3b5f094bf2e785fae772846116da18fa48"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "372bd622fbe916cd7f2473ff271ad4d81f05e2aa", 
+      "title": "Matrix Factorization with Knowledge Graph Propagation for Unsupervised Spoken Language Understanding", 
+      "url": "https://www.semanticscholar.org/paper/372bd622fbe916cd7f2473ff271ad4d81f05e2aa"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "97d0488d3442a92c1620c59b20d268cf02185db4", 
+      "title": "Dynamics of learning in deep linear neural networks", 
+      "url": "https://www.semanticscholar.org/paper/97d0488d3442a92c1620c59b20d268cf02185db4"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "3afc8190029c83627e0f4dadca67d422261d2616", 
+      "title": "Methods for open information extraction and sense disambiguation on natural language text", 
+      "url": "https://www.semanticscholar.org/paper/3afc8190029c83627e0f4dadca67d422261d2616"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "3d0f39b17dd3881c9d029da183e27f2fc9dbc2a0", 
+      "title": "Redefining the Linguistic Context Feature Set for HMM and DNN TTS Through Position and Parsing", 
+      "url": "https://www.semanticscholar.org/paper/3d0f39b17dd3881c9d029da183e27f2fc9dbc2a0"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "821fbc65316382f5aed3bc4a2bff2a3ceb38d499", 
+      "title": "Joint semantic utterance classification and slot filling with recursive neural networks", 
+      "url": "https://www.semanticscholar.org/paper/821fbc65316382f5aed3bc4a2bff2a3ceb38d499"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "4e0a4b7b66227b720e593acb81537be38674470b", 
+      "title": "Semantic Search on Text and Knowledge Bases", 
+      "url": "https://www.semanticscholar.org/paper/4e0a4b7b66227b720e593acb81537be38674470b"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "4d2b2b76522149b476cc9498cf9bad3cd4c7a8f0", 
+      "title": "Sentiment Analysis on Movie Reviews using Recursive and Recurrent Neural Network Architectures", 
+      "url": "https://www.semanticscholar.org/paper/4d2b2b76522149b476cc9498cf9bad3cd4c7a8f0"
+    }, 
+    {
+      "isInfluential": true, 
+      "paperId": "8acbdc1e0b05e9463017a0050c1f9d74e4b5b525", 
+      "title": "A Comparative Study of Different Sentiment Lexica for Sentiment Analysis of Tweets", 
+      "url": "https://www.semanticscholar.org/paper/8acbdc1e0b05e9463017a0050c1f9d74e4b5b525"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "e3bc3676a921c3679d05956401a068352485bfd1", 
+      "title": "LibN3L: A Lightweight Package for Neural NLP", 
+      "url": "https://www.semanticscholar.org/paper/e3bc3676a921c3679d05956401a068352485bfd1"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "2253a140c49855b6d09fef6655760ef045b092b5", 
+      "title": "Parsing Paraphrases with Joint Inference", 
+      "url": "https://www.semanticscholar.org/paper/2253a140c49855b6d09fef6655760ef045b092b5"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "1cc084aaf9ffb015f76eb2406e11745ab847ef3e", 
+      "title": "Learning to Compose Neural Networks for Question Answering", 
+      "url": "https://www.semanticscholar.org/paper/1cc084aaf9ffb015f76eb2406e11745ab847ef3e"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "b372ad1191adf2a92fdf941226cb08776526bf35", 
+      "title": "A Data-Driven Approach for Semantic Role Labeling from Induced Grammar Structures in Language", 
+      "url": "https://www.semanticscholar.org/paper/b372ad1191adf2a92fdf941226cb08776526bf35"
+    }
+  ], 
+  "doi": null, 
+  "influentialCitationCount": 50, 
+  "paperId": "209ba9f612f34583a23b75c0e8dadc410c400bb2", 
+  "references": [
+    {
+      "isInfluential": false, 
+      "paperId": "81b3b3fe994a9eda6d3f9d2149aa4492d1933975", 
+      "title": "Learning Continuous Phrase Representations and Syntactic Parsing with Recursive Neural Networks", 
+      "url": "https://www.semanticscholar.org/paper/81b3b3fe994a9eda6d3f9d2149aa4492d1933975"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "4c15b129a8da55127e4e2fe47f54799d0a313367", 
+      "title": "Word Representations: A Simple and General Method for Semi-Supervised Learning", 
+      "url": "https://www.semanticscholar.org/paper/4c15b129a8da55127e4e2fe47f54799d0a313367"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "7dcff13509492cab2ea05ed00757d413d6d7e736", 
+      "title": "Training Factored PCFGs with Expectation Propagation", 
+      "url": "https://www.semanticscholar.org/paper/7dcff13509492cab2ea05ed00757d413d6d7e736"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "3a0e788268fafb23ab20da0e98bb578b06830f7d", 
+      "title": "From Frequency to Meaning: Vector Space Models of Semantics", 
+      "url": "https://www.semanticscholar.org/paper/3a0e788268fafb23ab20da0e98bb578b06830f7d"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "425f192dc51bc00051aacd48ee82ce8c1e03a3dd", 
+      "title": "Effective Self-Training for Parsing", 
+      "url": "https://www.semanticscholar.org/paper/425f192dc51bc00051aacd48ee82ce8c1e03a3dd"
+    }, 
+    {
+      "isInfluential": true, 
+      "paperId": "48462d94cc1119c9655d3591a49017db330cc86d", 
+      "title": "Parser Showdown at the Wall Street Corral: An Empirical Investigation of Error Types in Parser Output", 
+      "url": "https://www.semanticscholar.org/paper/48462d94cc1119c9655d3591a49017db330cc86d"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "3258bc69611a4e8a3386b1a2001df2d10c5cb5d5", 
+      "title": "Parsing Inside-Out", 
+      "url": "https://www.semanticscholar.org/paper/3258bc69611a4e8a3386b1a2001df2d10c5cb5d5"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "4add8164f2de84223235a6cd8240bdf0fefe2b3f", 
+      "title": "Improved Inference for Unlexicalized Parsing", 
+      "url": "https://www.semanticscholar.org/paper/4add8164f2de84223235a6cd8240bdf0fefe2b3f"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "45372f73a0e40da428595597816ac4cae1469cec", 
+      "title": "(Online) Subgradient Methods for Structured Prediction", 
+      "url": "https://www.semanticscholar.org/paper/45372f73a0e40da428595597816ac4cae1469cec"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "27211ed68a7a00f1df0121fa1890a1b2acdd1a88", 
+      "title": "A Neural Probabilistic Language Model", 
+      "url": "https://www.semanticscholar.org/paper/27211ed68a7a00f1df0121fa1890a1b2acdd1a88"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "8dfdedcbeb3b67ecaa4d85ca4b9d1aff368b8e2a", 
+      "title": "Better K-Best Parsing", 
+      "url": "https://www.semanticscholar.org/paper/8dfdedcbeb3b67ecaa4d85ca4b9d1aff368b8e2a"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "167d0e6bbb4199764773e7fb77882ce64e586e89", 
+      "title": "A Unified Sentence Space for Categorical Distributional-Compositional Semantics: Theory and Experiments", 
+      "url": "https://www.semanticscholar.org/paper/167d0e6bbb4199764773e7fb77882ce64e586e89"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "0c23ebb3abf584fa5e0fde558584befc94fb5ea2", 
+      "title": "Parsing Natural Scenes and Natural Language with Recursive Neural Networks", 
+      "url": "https://www.semanticscholar.org/paper/0c23ebb3abf584fa5e0fde558584befc94fb5ea2"
+    }, 
+    {
+      "isInfluential": true, 
+      "paperId": "46134df50c88bce074d451252aa029676f9c5093", 
+      "title": "Probabilistic CFG with Latent Annotations", 
+      "url": "https://www.semanticscholar.org/paper/46134df50c88bce074d451252aa029676f9c5093"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "6926c4a61777fdd45399b59ca03d9a7fae410c75", 
+      "title": "A Maximum-Entropy-Inspired Parser", 
+      "url": "https://www.semanticscholar.org/paper/6926c4a61777fdd45399b59ca03d9a7fae410c75"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "0826c98d1b1513aa2f45e6654bb5075a58b64649", 
+      "title": "Linguistic Regularities in Continuous Space Word Representations", 
+      "url": "https://www.semanticscholar.org/paper/0826c98d1b1513aa2f45e6654bb5075a58b64649"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "05cc38e249a6f642363b5a5cbd71cda67cea5893", 
+      "title": "Tiled convolutional neural networks", 
+      "url": "https://www.semanticscholar.org/paper/05cc38e249a6f642363b5a5cbd71cda67cea5893"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "723e55901724533dc79c2255ce044fef858db9ae", 
+      "title": "Wide coverage natural language processing using kernel methods and neural networks for structured data", 
+      "url": "https://www.semanticscholar.org/paper/723e55901724533dc79c2255ce044fef858db9ae"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "1174297ddcf08937a94d8efe4c1efb65f3b92fd8", 
+      "title": "Discriminative Training of a Neural Network Statistical Parser", 
+      "url": "https://www.semanticscholar.org/paper/1174297ddcf08937a94d8efe4c1efb65f3b92fd8"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "155baea065396a150f0f8875e088355800fa9449", 
+      "title": "Head-Driven Statistical Models for Natural Language Parsing", 
+      "url": "https://www.semanticscholar.org/paper/155baea065396a150f0f8875e088355800fa9449"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "142f38642629b9d268999ad876af482177d36697", 
+      "title": "Improving Word Representations via Global Context and Multiple Word Prototypes", 
+      "url": "https://www.semanticscholar.org/paper/142f38642629b9d268999ad876af482177d36697"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "1826fbbf12e399024296c1dfcc5758c1c810574c", 
+      "title": "Max-Margin Parsing", 
+      "url": "https://www.semanticscholar.org/paper/1826fbbf12e399024296c1dfcc5758c1c810574c"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "0ecb33ced5b0976accdf13817151f80568b6fdcb", 
+      "title": "Coarse-to-Fine n-Best Parsing and MaxEnt Discriminative Reranking", 
+      "url": "https://www.semanticscholar.org/paper/0ecb33ced5b0976accdf13817151f80568b6fdcb"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "10007391361e17f41aa92f3430c00830dff3be6a", 
+      "title": "Three Generative, Lexicalised Models for Statistical Parsing", 
+      "url": "https://www.semanticscholar.org/paper/10007391361e17f41aa92f3430c00830dff3be6a"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "06d0a9697a0f0242dbdeeff08ec5266b74bfe457", 
+      "title": "Fast Exact Inference with a Factored Model for Natural Language Parsing", 
+      "url": "https://www.semanticscholar.org/paper/06d0a9697a0f0242dbdeeff08ec5266b74bfe457"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "20e26166dd4449846d74c09ac92e80ec6e44b908", 
+      "title": "Syntactic Constraints on Paraphrases Extracted from Parallel Corpora", 
+      "url": "https://www.semanticscholar.org/paper/20e26166dd4449846d74c09ac92e80ec6e44b908"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "97af6f071a1af48ff4278b687120c88c78b6b729", 
+      "title": "Towards Incremental Parsing of Natural Language Using Recursive Neural Networks", 
+      "url": "https://www.semanticscholar.org/paper/97af6f071a1af48ff4278b687120c88c78b6b729"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "27e38351e48fe4b7da2775bf94341738bc4da07e", 
+      "title": "Semantic Compositionality through Recursive Matrix-Vector Spaces", 
+      "url": "https://www.semanticscholar.org/paper/27e38351e48fe4b7da2775bf94341738bc4da07e"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "d84b9507ff9687a900fde451f27106d930c1b838", 
+      "title": "Learning Accurate, Compact, and Interpretable Tree Annotation", 
+      "url": "https://www.semanticscholar.org/paper/d84b9507ff9687a900fde451f27106d930c1b838"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "18b534c7207a1376fa92e87fe0d2cfb358d98c51", 
+      "title": "Accurate Unlexicalized Parsing", 
+      "url": "https://www.semanticscholar.org/paper/18b534c7207a1376fa92e87fe0d2cfb358d98c51"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "0bd3297f6a794fddd738756ffed41471a61b8e11", 
+      "title": "Neural Network Probability Estimation for Broad Coverage Parsing", 
+      "url": "https://www.semanticscholar.org/paper/0bd3297f6a794fddd738756ffed41471a61b8e11"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "0ce339bbbf7bd7483e3797f28b974008e245e68e", 
+      "title": "Constituent Parsing with Incremental Sigmoid Belief Networks", 
+      "url": "https://www.semanticscholar.org/paper/0ce339bbbf7bd7483e3797f28b974008e245e68e"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "160564a70d92f0fe06c08db3ab95338a7506f794", 
+      "title": "Porting Statistical Parsers with Data-Defined Kernels", 
+      "url": "https://www.semanticscholar.org/paper/160564a70d92f0fe06c08db3ab95338a7506f794"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "167abf2c9eda9ce21907fcc188d2e41da37d9f0b", 
+      "title": "Dynamic Pooling and Unfolding Recursive Autoencoders for Paraphrase Detection", 
+      "url": "https://www.semanticscholar.org/paper/167abf2c9eda9ce21907fcc188d2e41da37d9f0b"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "334d11e0d04ae895bac97a65a64137f21c4f8b80", 
+      "title": "The Necessity of Parsing for Predicate Argument Recognition", 
+      "url": "https://www.semanticscholar.org/paper/334d11e0d04ae895bac97a65a64137f21c4f8b80"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "783480acff435bfbc15ffcdb4f15eccddaa0c810", 
+      "title": "Class-Based n-gram Models of Natural Language", 
+      "url": "https://www.semanticscholar.org/paper/783480acff435bfbc15ffcdb4f15eccddaa0c810"
+    }, 
+    {
+      "isInfluential": true, 
+      "paperId": "05aba481e8a221df5d8775a3bb749001e7f2525e", 
+      "title": "Adaptive Subgradient Methods for Online Learning and Stochastic Optimization", 
+      "url": "https://www.semanticscholar.org/paper/05aba481e8a221df5d8775a3bb749001e7f2525e"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "040f77a0ed02a626b66326633bd15065e4faeb72", 
+      "title": "Distributed representations, simple recurrent networks, and grammatical structure", 
+      "url": "https://www.semanticscholar.org/paper/040f77a0ed02a626b66326633bd15065e4faeb72"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "1a07186bc10592f0330655519ad91652125cd907", 
+      "title": "A unified architecture for natural language processing: deep neural networks with multitask learning", 
+      "url": "https://www.semanticscholar.org/paper/1a07186bc10592f0330655519ad91652125cd907"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "84b81aa5baf439a24ed52a96c22ffd78a63bb754", 
+      "title": "Efficient, Feature-based, Conditional Random Field Parsing", 
+      "url": "https://www.semanticscholar.org/paper/84b81aa5baf439a24ed52a96c22ffd78a63bb754"
+    }
+  ], 
+  "title": "Parsing with Compositional Vector Grammars", 
+  "url": "https://www.semanticscholar.org/paper/209ba9f612f34583a23b75c0e8dadc410c400bb2", 
+  "venue": "ACL"
+}

@@ -1,0 +1,529 @@
+{
+  "authors": [
+    {
+      "authorId": "1903588", 
+      "name": "Min Joon Seo", 
+      "url": "https://www.semanticscholar.org/author/1903588"
+    }, 
+    {
+      "authorId": "2548384", 
+      "name": "Hannaneh Hajishirzi", 
+      "url": "https://www.semanticscholar.org/author/2548384"
+    }, 
+    {
+      "authorId": "2653250", 
+      "name": "Ali Farhadi", 
+      "url": "https://www.semanticscholar.org/author/2653250"
+    }, 
+    {
+      "authorId": "1741101", 
+      "name": "Oren Etzioni", 
+      "url": "https://www.semanticscholar.org/author/1741101"
+    }, 
+    {
+      "authorId": "2136684", 
+      "name": "Clint Malcolm", 
+      "url": "https://www.semanticscholar.org/author/2136684"
+    }
+  ], 
+  "citationVelocity": 0, 
+  "citations": [
+    {
+      "isInfluential": false, 
+      "paperId": "09900b36ca35af12301507cf992675808a709838", 
+      "title": "How well do Computers Solve Math Word Problems? Large-Scale Dataset Construction and Evaluation", 
+      "url": "https://www.semanticscholar.org/paper/09900b36ca35af12301507cf992675808a709838", 
+      "venue": "ACL", 
+      "year": 2016
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "17230f5b3956188055a48c5f4f61d131cce0662f", 
+      "title": "Parsing Algebraic Word Problems into Equations", 
+      "url": "https://www.semanticscholar.org/paper/17230f5b3956188055a48c5f4f61d131cce0662f", 
+      "venue": "TACL", 
+      "year": 2015
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "4e92db6eabc52a9b48e5f364ce22102d1ee508c5", 
+      "title": "Solving Probability Problems in Natural Language", 
+      "url": "https://www.semanticscholar.org/paper/4e92db6eabc52a9b48e5f364ce22102d1ee508c5", 
+      "venue": "IJCAI", 
+      "year": 2017
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "76295bf84f26477457bd78250d0d9f6f9bb3de12", 
+      "title": "Contextual RNN-GANs for Abstract Reasoning Diagram Generation", 
+      "url": "https://www.semanticscholar.org/paper/76295bf84f26477457bd78250d0d9f6f9bb3de12", 
+      "venue": "AAAI", 
+      "year": 2017
+    }, 
+    {
+      "isInfluential": true, 
+      "paperId": "7220d7ec31f6dc6ad7030f601743b5392513a2d9", 
+      "title": "Learning to Solve Geometry Problems from Natural Language Demonstrations in Textbooks", 
+      "url": "https://www.semanticscholar.org/paper/7220d7ec31f6dc6ad7030f601743b5392513a2d9", 
+      "venue": "*SEM", 
+      "year": 2017
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "4ca8ff09f24f0838022f1d0b94af4331f6e538cd", 
+      "title": "Semantic Parsing to Probabilistic Programs for Situated Question Answering", 
+      "url": "https://www.semanticscholar.org/paper/4ca8ff09f24f0838022f1d0b94af4331f6e538cd", 
+      "venue": "EMNLP", 
+      "year": 2016
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "5b80e8c1feae0e92293118d66d77bb7ea45c4fe1", 
+      "title": "Reasoning with Deep Learning: an Open Challenge", 
+      "url": "https://www.semanticscholar.org/paper/5b80e8c1feae0e92293118d66d77bb7ea45c4fe1", 
+      "venue": "URANIA@AI*IA", 
+      "year": 2016
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "301486e8dad7a41a1a99fd6fba28ce153fe1e56e", 
+      "title": "Are Elephants Bigger than Butterflies? Reasoning about Sizes of Objects", 
+      "url": "https://www.semanticscholar.org/paper/301486e8dad7a41a1a99fd6fba28ce153fe1e56e", 
+      "venue": "AAAI", 
+      "year": 2016
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "f476f46da3ffd6cff72ef0125e5d4f68fb5225da", 
+      "title": "Cognitive Computing: Theory and Applications", 
+      "url": "https://www.semanticscholar.org/paper/f476f46da3ffd6cff72ef0125e5d4f68fb5225da", 
+      "venue": "", 
+      "year": 2017
+    }, 
+    {
+      "isInfluential": true, 
+      "paperId": "12076acd0544b9479eb2094eb113843e17e75536", 
+      "title": "Beyond Sentential Semantic Parsing: Tackling the Math SAT with a Cascade of Tree Transducers", 
+      "url": "https://www.semanticscholar.org/paper/12076acd0544b9479eb2094eb113843e17e75536", 
+      "venue": "", 
+      "year": 2017
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "2e8dcfb0403fb34257bc553c2088999de9bee944", 
+      "title": "AnalyticalInk: An Interactive Learning Environment for Math Word Problem Solving", 
+      "url": "https://www.semanticscholar.org/paper/2e8dcfb0403fb34257bc553c2088999de9bee944", 
+      "venue": "IUI", 
+      "year": 2016
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "7676db6c4eb1074802caef2884a8704b6075771a", 
+      "title": "A Theme-Rewriting Approach for Generating Algebra Word Problems", 
+      "url": "https://www.semanticscholar.org/paper/7676db6c4eb1074802caef2884a8704b6075771a", 
+      "venue": "EMNLP", 
+      "year": 2016
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "5304eef11b1a9f4b9aa23b828fafdac868633d60", 
+      "title": "Plane Geometry Diagram Retrieval By Using Hierarchical Searching Strategy", 
+      "url": "https://www.semanticscholar.org/paper/5304eef11b1a9f4b9aa23b828fafdac868633d60", 
+      "venue": "ICIMCS", 
+      "year": 2016
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "38bdca75587ed41bb7e1e6673fe5118aa25efe89", 
+      "title": "A Survey of Question Answering for Math and Science Problem", 
+      "url": "https://www.semanticscholar.org/paper/38bdca75587ed41bb7e1e6673fe5118aa25efe89", 
+      "venue": "ArXiv", 
+      "year": 2017
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "39c2659297c33c0f3b7bd55fac3c706d9e9900b8", 
+      "title": "Semantic Parsing of Pre-university Math Problems", 
+      "url": "https://www.semanticscholar.org/paper/39c2659297c33c0f3b7bd55fac3c706d9e9900b8", 
+      "venue": "ACL", 
+      "year": 2017
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "2bdbb07bc12b8d8c332b7a84aa05e76218c07cd9", 
+      "title": "MAWPS: A Math Word Problem Repository", 
+      "url": "https://www.semanticscholar.org/paper/2bdbb07bc12b8d8c332b7a84aa05e76218c07cd9", 
+      "venue": "HLT-NAACL", 
+      "year": 2016
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "32df59a630ee36a0c80d2150861682d160e2f6b7", 
+      "title": "How to Write Science Questions that Are Easy for People and Hard for Computers", 
+      "url": "https://www.semanticscholar.org/paper/32df59a630ee36a0c80d2150861682d160e2f6b7", 
+      "venue": "AI Magazine", 
+      "year": 2016
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "bcfdf6d906f4c5214ff25f1c71ec6ffb18a791e0", 
+      "title": "My Computer Is an Honor Student - but How Intelligent Is It? Standardized Tests as a Measure of AI", 
+      "url": "https://www.semanticscholar.org/paper/bcfdf6d906f4c5214ff25f1c71ec6ffb18a791e0", 
+      "venue": "AI Magazine", 
+      "year": 2016
+    }
+  ], 
+  "doi": null, 
+  "influentialCitationCount": 2, 
+  "paperId": "9a3b39ae5ed3fbcdb8befc28d5037bb8674e4d35", 
+  "references": [
+    {
+      "isInfluential": false, 
+      "paperId": "1969a39db6f322a8e3f204fdc8c781bec5cf26d6", 
+      "title": "Learning to Map Sentences to Logical Form: Structured Classification with Probabilistic Categorial Grammars", 
+      "url": "https://www.semanticscholar.org/paper/1969a39db6f322a8e3f204fdc8c781bec5cf26d6", 
+      "venue": "UAI", 
+      "year": 2005
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "04f31d03a29981b27f6c27e5ce149a057d44c138", 
+      "title": "Reasoning about RoboCup Soccer Narratives", 
+      "url": "https://www.semanticscholar.org/paper/04f31d03a29981b27f6c27e5ce149a057d44c138", 
+      "venue": "UAI", 
+      "year": 2011
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "2aba84801935041774c1e2b749e0331efa322ed8", 
+      "title": "Learning from natural instructions", 
+      "url": "https://www.semanticscholar.org/paper/2aba84801935041774c1e2b749e0331efa322ed8", 
+      "venue": "Machine Learning", 
+      "year": 2011
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "29e8846ea977faef7394deebc91b9c13a0aca5fa", 
+      "title": "Computational models for integrating linguistic and visual information: A survey", 
+      "url": "https://www.semanticscholar.org/paper/29e8846ea977faef7394deebc91b9c13a0aca5fa", 
+      "venue": "Artificial Intelligence Review", 
+      "year": 1994
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "9d896605fbf93315b68d4ee03be0770077f84e40", 
+      "title": "Baby Talk: Understanding and Generating Image Descriptions", 
+      "url": "https://www.semanticscholar.org/paper/9d896605fbf93315b68d4ee03be0770077f84e40", 
+      "venue": "", 
+      "year": 2011
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "1a9940a449bb0450e0beedd4ce13129f3543d756", 
+      "title": "Learning to Solve Arithmetic Word Problems with Verb Categorization", 
+      "url": "https://www.semanticscholar.org/paper/1a9940a449bb0450e0beedd4ce13129f3543d756", 
+      "venue": "EMNLP", 
+      "year": 2014
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "29235d33c035494e0c594856136e84dde983990f", 
+      "title": "NaturalLI: Natural Logic Inference for Common Sense Reasoning", 
+      "url": "https://www.semanticscholar.org/paper/29235d33c035494e0c594856136e84dde983990f", 
+      "venue": "EMNLP", 
+      "year": 2014
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "14ea9a076ee744959d4ab2188a06d0ce64d362bf", 
+      "title": "Weakly Supervised Learning of Semantic Parsers for Mapping Instructions to Actions", 
+      "url": "https://www.semanticscholar.org/paper/14ea9a076ee744959d4ab2188a06d0ce64d362bf", 
+      "venue": "TACL", 
+      "year": 2013
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "0e2f8bf7a5b30940716096266b06dfd557e58c16", 
+      "title": "Learning to Follow Navigational Directions", 
+      "url": "https://www.semanticscholar.org/paper/0e2f8bf7a5b30940716096266b06dfd557e58c16", 
+      "venue": "ACL", 
+      "year": 2010
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "9333412d104073815424f4c3f00dde7d0a87b2e8", 
+      "title": "Joint Coreference Resolution and Named-Entity Linking with Multi-Pass Sieves", 
+      "url": "https://www.semanticscholar.org/paper/9333412d104073815424f4c3f00dde7d0a87b2e8", 
+      "venue": "EMNLP", 
+      "year": 2013
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "4a39f7ad5f4fc207a7c31b06c603f2e85effe225", 
+      "title": "Learning High-Level Planning from Text", 
+      "url": "https://www.semanticscholar.org/paper/4a39f7ad5f4fc207a7c31b06c603f2e85effe225", 
+      "venue": "ACL", 
+      "year": 2012
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "d30699279cba832f611fd6a94ad290e50d56dfc7", 
+      "title": "Label Ranking under Ambiguous Supervision for Learning Semantic Correspondences", 
+      "url": "https://www.semanticscholar.org/paper/d30699279cba832f611fd6a94ad290e50d56dfc7", 
+      "venue": "ICML", 
+      "year": 2010
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "6e73703654b645c7dab15a977434e9ee43d92e77", 
+      "title": "Learning Semantic Correspondences with Less Supervision", 
+      "url": "https://www.semanticscholar.org/paper/6e73703654b645c7dab15a977434e9ee43d92e77", 
+      "venue": "ACL/IJCNLP", 
+      "year": 2009
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "bd961be2e7a4f38b2132f169fc713f79d8d4b601", 
+      "title": "Understanding Text with an Accompanying Diagram", 
+      "url": "https://www.semanticscholar.org/paper/bd961be2e7a4f38b2132f169fc713f79d8d4b601", 
+      "venue": "IEA/AIE", 
+      "year": 1988
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "91ff05cf0512789727dd010270e95dfc02301318", 
+      "title": "Parsing and Hypergraphs", 
+      "url": "https://www.semanticscholar.org/paper/91ff05cf0512789727dd010270e95dfc02301318", 
+      "venue": "IWPT", 
+      "year": 2001
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "01c4c38ddd5bd899b6d9d42891e0efab7f8098b5", 
+      "title": "Information Extraction", 
+      "url": "https://www.semanticscholar.org/paper/01c4c38ddd5bd899b6d9d42891e0efab7f8098b5", 
+      "venue": "Commun. ACM", 
+      "year": 1996
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "097665e66a05d316ad0e649fec374db44a485bda", 
+      "title": "Semantic Parsing via Paraphrasing", 
+      "url": "https://www.semanticscholar.org/paper/097665e66a05d316ad0e649fec374db44a485bda", 
+      "venue": "ACL", 
+      "year": 2014
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "2c526496f87aecc9dad9ba0cd20101c203e5463e", 
+      "title": "Learning Knowledge Graphs for Question Answering through Conversational Dialog", 
+      "url": "https://www.semanticscholar.org/paper/2c526496f87aecc9dad9ba0cd20101c203e5463e", 
+      "venue": "HLT-NAACL", 
+      "year": 2015
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "066214e199d76daca969eba5a0eece7d01b6801c", 
+      "title": "Modeling Multiple Strategies for Solving Geometric Analogy Problems", 
+      "url": "https://www.semanticscholar.org/paper/066214e199d76daca969eba5a0eece7d01b6801c", 
+      "venue": "CogSci", 
+      "year": 2012
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "13eba30632154428725983fcd8343f3f1b3f0695", 
+      "title": "A Fast and Accurate Dependency Parser using Neural Networks", 
+      "url": "https://www.semanticscholar.org/paper/13eba30632154428725983fcd8343f3f1b3f0695", 
+      "venue": "EMNLP", 
+      "year": 2014
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "fe277aa0ac4036ff94d9040fd7f635ec48721bb0", 
+      "title": "Efficient diagram understanding with characteristic pattern detection", 
+      "url": "https://www.semanticscholar.org/paper/fe277aa0ac4036ff94d9040fd7f635ec48721bb0", 
+      "venue": "Computer Vision, Graphics, and Image Processing", 
+      "year": 1985
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "f395c0b69dc0da249fd9c6a2a964ddc3bb79babd", 
+      "title": "A heuristic program to solve geometric-analogy problems", 
+      "url": "https://www.semanticscholar.org/paper/f395c0b69dc0da249fd9c6a2a964ddc3bb79babd", 
+      "venue": "AFIPS '64 (Spring)", 
+      "year": 1964
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "10c52142b71267e22d57dcb610510a02a8f91d7d", 
+      "title": "Learning to Automatically Solve Algebra Word Problems", 
+      "url": "https://www.semanticscholar.org/paper/10c52142b71267e22d57dcb610510a02a8f91d7d", 
+      "venue": "ACL", 
+      "year": 2014
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "0ccfcae76585ada721a144bcc43c87cd1db03976", 
+      "title": "Using Closed Captions as Supervision for Video Activity Recognition", 
+      "url": "https://www.semanticscholar.org/paper/0ccfcae76585ada721a144bcc43c87cd1db03976", 
+      "venue": "AAAI", 
+      "year": 2010
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "4736635da3d32f8ff18ddc62552e180e303f47b6", 
+      "title": "Discriminative Reranking for Semantic Parsing", 
+      "url": "https://www.semanticscholar.org/paper/4736635da3d32f8ff18ddc62552e180e303f47b6", 
+      "venue": "ACL", 
+      "year": 2006
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "b4ba2f3e71144a2d8ad0cd0ca1017f2b35698afe", 
+      "title": "Learning Language Semantics from Ambiguous Supervision", 
+      "url": "https://www.semanticscholar.org/paper/b4ba2f3e71144a2d8ad0cd0ca1017f2b35698afe", 
+      "venue": "AAAI", 
+      "year": 2007
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "042db0977555fcd7d5eac67b26695cd918ecb44c", 
+      "title": "Semantic Parsing on Freebase from Question-Answer Pairs", 
+      "url": "https://www.semanticscholar.org/paper/042db0977555fcd7d5eac67b26695cd918ecb44c", 
+      "venue": "EMNLP", 
+      "year": 2013
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "187c25de08261760cf48b4e9dabf308d2f7f15d9", 
+      "title": "Reasoning about Quantities in Natural Language", 
+      "url": "https://www.semanticscholar.org/paper/187c25de08261760cf48b4e9dabf308d2f7f15d9", 
+      "venue": "TACL", 
+      "year": 2015
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "17b109bb35936845c74e9af31718e2fa2406beba", 
+      "title": "Reading to Learn: Constructing Features from Semantic Abstracts", 
+      "url": "https://www.semanticscholar.org/paper/17b109bb35936845c74e9af31718e2fa2406beba", 
+      "venue": "EMNLP", 
+      "year": 2009
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "c43505cc450b647f6f3b4a6f9004ae7d414e2bea", 
+      "title": "Document Image Analysis", 
+      "url": "https://www.semanticscholar.org/paper/c43505cc450b647f6f3b4a6f9004ae7d414e2bea", 
+      "venue": "", 
+      "year": 2007
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "0e0900b88c33b671be5dd2ded9885b6526d6b429", 
+      "title": "From captions to visual concepts and back", 
+      "url": "https://www.semanticscholar.org/paper/0e0900b88c33b671be5dd2ded9885b6526d6b429", 
+      "venue": "2015 IEEE Conference on Computer Vision and Pattern Recognition (CVPR)", 
+      "year": 2015
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "015dd61f136735606d0f09ba87f55cb553b3e2c5", 
+      "title": "Synthesis of Geometry Proof Problems", 
+      "url": "https://www.semanticscholar.org/paper/015dd61f136735606d0f09ba87f55cb553b3e2c5", 
+      "venue": "AAAI", 
+      "year": 2014
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "94ccf5d894206a4875c3eedba2352a2130781508", 
+      "title": "Adapting Discriminative Reranking to Grounded Language Learning", 
+      "url": "https://www.semanticscholar.org/paper/94ccf5d894206a4875c3eedba2352a2130781508", 
+      "venue": "ACL", 
+      "year": 2013
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "3adf41984ca96649adedc1fa4d3c69cc8404d00f", 
+      "title": "Scaling Semantic Parsers with On-the-Fly Ontology Matching", 
+      "url": "https://www.semanticscholar.org/paper/3adf41984ca96649adedc1fa4d3c69cc8404d00f", 
+      "venue": "EMNLP", 
+      "year": 2013
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "0730efeacf9bfd6d65ca6c2fa659b396f48d5659", 
+      "title": "Large-scale Semantic Parsing without Question-Answer Pairs", 
+      "url": "https://www.semanticscholar.org/paper/0730efeacf9bfd6d65ca6c2fa659b396f48d5659", 
+      "venue": "TACL", 
+      "year": 2014
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "1d5acafa1a6ea15c5be06ff49183644aa7188399", 
+      "title": "Multi-Resolution Language Grounding with Weak Supervision", 
+      "url": "https://www.semanticscholar.org/paper/1d5acafa1a6ea15c5be06ff49183644aa7188399", 
+      "venue": "EMNLP", 
+      "year": 2014
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "29feb797717363bc92d7e70bab64c2962a9f3e9e", 
+      "title": "Unsupervised Semantic Parsing", 
+      "url": "https://www.semanticscholar.org/paper/29feb797717363bc92d7e70bab64c2962a9f3e9e", 
+      "venue": "EMNLP", 
+      "year": 2009
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "132d223bcce50334a83a789a13f2abbe7029e210", 
+      "title": "A Discriminative Graph-Based Parser for the Abstract Meaning Representation", 
+      "url": "https://www.semanticscholar.org/paper/132d223bcce50334a83a789a13f2abbe7029e210", 
+      "venue": "ACL", 
+      "year": 2014
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "66a9896d2eaceeb6e648d3582ca4b2a1df600f9a", 
+      "title": "Dependency Tree Kernels for Relation Extraction", 
+      "url": "https://www.semanticscholar.org/paper/66a9896d2eaceeb6e648d3582ca4b2a1df600f9a", 
+      "venue": "ACL", 
+      "year": 2004
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "b9ed0bb4aae5d89c48ce2ce372f2891c228fe0f8", 
+      "title": "Improving Image-Sentence Embeddings Using Large Weakly Annotated Photo Collections", 
+      "url": "https://www.semanticscholar.org/paper/b9ed0bb4aae5d89c48ce2ce372f2891c228fe0f8", 
+      "venue": "ECCV", 
+      "year": 2014
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "2519ed73f8084b993664e5a0c240e2dd37ba7349", 
+      "title": "Diagram Understanding in Geometry Questions", 
+      "url": "https://www.semanticscholar.org/paper/2519ed73f8084b993664e5a0c240e2dd37ba7349", 
+      "venue": "AAAI", 
+      "year": 2014
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "55e18e0dde592258882134d2dceeb86122b366ab", 
+      "title": "Training a Multilingual Sportscaster: Using Perceptual Context to Learn Language", 
+      "url": "https://www.semanticscholar.org/paper/55e18e0dde592258882134d2dceeb86122b366ab", 
+      "venue": "J. Artif. Intell. Res.", 
+      "year": 2010
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "b4f4b0d39fd10baec34d3412d53515f1a4605222", 
+      "title": "Every Picture Tells a Story: Generating Sentences from Images", 
+      "url": "https://www.semanticscholar.org/paper/b4f4b0d39fd10baec34d3412d53515f1a4605222", 
+      "venue": "ECCV", 
+      "year": 2010
+    }
+  ], 
+  "title": "Solving Geometry Problems: Combining Text and Diagram Interpretation", 
+  "url": "https://www.semanticscholar.org/paper/9a3b39ae5ed3fbcdb8befc28d5037bb8674e4d35", 
+  "venue": "EMNLP", 
+  "year": 2015
+}

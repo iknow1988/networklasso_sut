@@ -1,0 +1,683 @@
+{
+  "authors": [
+    {
+      "authorId": "13457369", 
+      "name": "Yin Zhu", 
+      "url": "https://www.semanticscholar.org/author/13457369"
+    }, 
+    {
+      "authorId": "2756531", 
+      "name": "Yuqiang Chen", 
+      "url": "https://www.semanticscholar.org/author/2756531"
+    }, 
+    {
+      "authorId": "1693122", 
+      "name": "Zhongqi Lu", 
+      "url": "https://www.semanticscholar.org/author/1693122"
+    }, 
+    {
+      "authorId": "1790541", 
+      "name": "Sinno Jialin Pan", 
+      "url": "https://www.semanticscholar.org/author/1790541"
+    }, 
+    {
+      "authorId": "1701421", 
+      "name": "Gui-Rong Xue", 
+      "url": "https://www.semanticscholar.org/author/1701421"
+    }, 
+    {
+      "authorId": "1811427", 
+      "name": "Yong Yu", 
+      "url": "https://www.semanticscholar.org/author/1811427"
+    }, 
+    {
+      "authorId": "1733090", 
+      "name": "Qiang Yang", 
+      "url": "https://www.semanticscholar.org/author/1733090"
+    }
+  ], 
+  "citationVelocity": 20, 
+  "citations": [
+    {
+      "isInfluential": false, 
+      "paperId": "9480504795ff23e9f1292e8b7869f6fe6ab52ed5", 
+      "title": "Heterogeneous Multi-task Semantic Feature Learning for Classification", 
+      "url": "https://www.semanticscholar.org/paper/9480504795ff23e9f1292e8b7869f6fe6ab52ed5", 
+      "venue": "CIKM", 
+      "year": 2015
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "84ad75dd2bb8aef4b70c5f7db6ff947767c30264", 
+      "title": "Social Recommendation with Cross-Domain Transferable Knowledge", 
+      "url": "https://www.semanticscholar.org/paper/84ad75dd2bb8aef4b70c5f7db6ff947767c30264", 
+      "venue": "IEEE Transactions on Knowledge and Data Engineering", 
+      "year": 2015
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "82076c288b729fd87050e27a74760ad5f6e164bf", 
+      "title": "Data Classification: Algorithms and Applications", 
+      "url": "https://www.semanticscholar.org/paper/82076c288b729fd87050e27a74760ad5f6e164bf", 
+      "venue": "", 
+      "year": 2014
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "0f82f7d7415671bdc3e19ef70e2c13742e07574f", 
+      "title": "Learning to Learn by Exploiting Prior Knowledge", 
+      "url": "https://www.semanticscholar.org/paper/0f82f7d7415671bdc3e19ef70e2c13742e07574f", 
+      "venue": "", 
+      "year": 2012
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "42408aabf408fd3cef05c09dcc6b82f4b71b0b62", 
+      "title": "TrGraph: Cross-Network Transfer Learning via Common Signature Subgraphs", 
+      "url": "https://www.semanticscholar.org/paper/42408aabf408fd3cef05c09dcc6b82f4b71b0b62", 
+      "venue": "IEEE Transactions on Knowledge and Data Engineering", 
+      "year": 2015
+    }, 
+    {
+      "isInfluential": true, 
+      "paperId": "59dbeefc2dd417d4a68841af4b3d0a6fc6133128", 
+      "title": "Feature Space Independent Semi-Supervised Domain Adaptation via Kernel Matching", 
+      "url": "https://www.semanticscholar.org/paper/59dbeefc2dd417d4a68841af4b3d0a6fc6133128", 
+      "venue": "IEEE Transactions on Pattern Analysis and Machine Intelligence", 
+      "year": 2015
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "a6a6e1ace38fdd7b3b0a4f2ed58f7e76022db1a8", 
+      "title": "Transfer across Completely Different Feature Spaces via Spectral Embedding", 
+      "url": "https://www.semanticscholar.org/paper/a6a6e1ace38fdd7b3b0a4f2ed58f7e76022db1a8", 
+      "venue": "IEEE Transactions on Knowledge and Data Engineering", 
+      "year": 2013
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "2da2ae720ea37fffe7247b9cf977fa86b04f97f4", 
+      "title": "Web Multimedia Object Classification Using Cross-Domain Correlation Knowledge", 
+      "url": "https://www.semanticscholar.org/paper/2da2ae720ea37fffe7247b9cf977fa86b04f97f4", 
+      "venue": "IEEE Trans. Multimedia", 
+      "year": 2013
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "32a986ab4c31bb6a9c1d8f3debddff499fc4562b", 
+      "title": "Inferring Diffusion Networks with Sparse Cascades by Structure Transfer", 
+      "url": "https://www.semanticscholar.org/paper/32a986ab4c31bb6a9c1d8f3debddff499fc4562b", 
+      "venue": "DASFAA", 
+      "year": 2015
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "28ffc1769a2a84aed0eacc32a613a58f3c54072a", 
+      "title": "Towards semantic knowledge propagation from text corpus to web images", 
+      "url": "https://www.semanticscholar.org/paper/28ffc1769a2a84aed0eacc32a613a58f3c54072a", 
+      "venue": "WWW", 
+      "year": 2011
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "8aeb962c73eb9a5ccff4f9e38f9a69cb8570de2c", 
+      "title": "Active Learning: A Survey", 
+      "url": "https://www.semanticscholar.org/paper/8aeb962c73eb9a5ccff4f9e38f9a69cb8570de2c", 
+      "venue": "Data Classification: Algorithms and Applications", 
+      "year": 2014
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "7af41c764c872d43a5e61b9c8b22f9247dcdf99b", 
+      "title": "Structured Data Fusion", 
+      "url": "https://www.semanticscholar.org/paper/7af41c764c872d43a5e61b9c8b22f9247dcdf99b", 
+      "venue": "IEEE Journal of Selected Topics in Signal Processing", 
+      "year": 2015
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "777a59123821c4224407d77e27ea59eee0147640", 
+      "title": "Text Mining in Multimedia", 
+      "url": "https://www.semanticscholar.org/paper/777a59123821c4224407d77e27ea59eee0147640", 
+      "venue": "Mining Text Data", 
+      "year": 2012
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "72a1018734c8a0ba55d60d5a96f21372acfd80f9", 
+      "title": "Learned in Translation: Contextualized Word Vectors", 
+      "url": "https://www.semanticscholar.org/paper/72a1018734c8a0ba55d60d5a96f21372acfd80f9", 
+      "venue": "", 
+      "year": 2017
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "2ea899130c7c89688e53241ce3c4a0afeea7fe0f", 
+      "title": "Supervised Transfer Sparse Coding", 
+      "url": "https://www.semanticscholar.org/paper/2ea899130c7c89688e53241ce3c4a0afeea7fe0f", 
+      "venue": "AAAI", 
+      "year": 2014
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "32768e31546409f341464318809461fb15f2d3b5", 
+      "title": "Mixed-Transfer: Transfer Learning over Mixed Graphs", 
+      "url": "https://www.semanticscholar.org/paper/32768e31546409f341464318809461fb15f2d3b5", 
+      "venue": "SDM", 
+      "year": 2014
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "62e8952d30c2bd01009f283b84cdc9ec7a0c5cf8", 
+      "title": "Weakly-Shared Deep Transfer Networks for Heterogeneous-Domain Knowledge Propagation", 
+      "url": "https://www.semanticscholar.org/paper/62e8952d30c2bd01009f283b84cdc9ec7a0c5cf8", 
+      "venue": "ACM Multimedia", 
+      "year": 2015
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "0f2f06da94cee7adcd2f15de4b175493dfcf2637", 
+      "title": "Missing Modality Transfer Learning via Latent Low-Rank Constraint", 
+      "url": "https://www.semanticscholar.org/paper/0f2f06da94cee7adcd2f15de4b175493dfcf2637", 
+      "venue": "IEEE Transactions on Image Processing", 
+      "year": 2015
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "82514a486cc4ec93b2d7c7fd8dc036c9a324d5ba", 
+      "title": "Learning With Augmented Features for Supervised and Semi-Supervised Heterogeneous Domain Adaptation", 
+      "url": "https://www.semanticscholar.org/paper/82514a486cc4ec93b2d7c7fd8dc036c9a324d5ba", 
+      "venue": "IEEE Transactions on Pattern Analysis and Machine Intelligence", 
+      "year": 2014
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "65b737e5cc4a565011a895c460ed8fd07b333600", 
+      "title": "Cross-Dataset Recognition: A Survey", 
+      "url": "https://www.semanticscholar.org/paper/65b737e5cc4a565011a895c460ed8fd07b333600", 
+      "venue": "ArXiv", 
+      "year": 2017
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "b695052732594b3fb50d4dd8cf3b6bcafc65da7c", 
+      "title": "Effective transfer tagging from image to video", 
+      "url": "https://www.semanticscholar.org/paper/b695052732594b3fb50d4dd8cf3b6bcafc65da7c", 
+      "venue": "TOMCCAP", 
+      "year": 2013
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "330dda431e0343a96f9d630a0b4ee526bd93ad11", 
+      "title": "Domain Adaptation for Visual Applications: A Comprehensive Survey", 
+      "url": "https://www.semanticscholar.org/paper/330dda431e0343a96f9d630a0b4ee526bd93ad11", 
+      "venue": "ArXiv", 
+      "year": 2017
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "77e928afa000e335dbb703953ae2e27b2ba4a73f", 
+      "title": "Re-using prior tactile experience by robotic hands to discriminate in-hand objects via texture properties", 
+      "url": "https://www.semanticscholar.org/paper/77e928afa000e335dbb703953ae2e27b2ba4a73f", 
+      "venue": "2016 IEEE International Conference on Robotics and Automation (ICRA)", 
+      "year": 2016
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "1e50d927ec891c5db97cd2e96edd9a7ef868ff36", 
+      "title": "Improving Top-N Recommendation for Cold-Start Users via Cross-Domain Information", 
+      "url": "https://www.semanticscholar.org/paper/1e50d927ec891c5db97cd2e96edd9a7ef868ff36", 
+      "venue": "TKDD", 
+      "year": 2015
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "02eed03bdf0c5f9c8ad1f2a9dfc9fc8d8e6c817e", 
+      "title": "Adaptation Regularization: A General Framework for Transfer Learning", 
+      "url": "https://www.semanticscholar.org/paper/02eed03bdf0c5f9c8ad1f2a9dfc9fc8d8e6c817e", 
+      "venue": "IEEE Transactions on Knowledge and Data Engineering", 
+      "year": 2014
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "2f599e068a6d0c5f61fbb360b64909f2ac4735e2", 
+      "title": "Learning Discriminative Correlation Subspace for Heterogeneous Domain Adaptation", 
+      "url": "https://www.semanticscholar.org/paper/2f599e068a6d0c5f61fbb360b64909f2ac4735e2", 
+      "venue": "IJCAI", 
+      "year": 2017
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "3066a1534da49d11ed43837588010030a690371b", 
+      "title": "Transfer learning for speech and language processing", 
+      "url": "https://www.semanticscholar.org/paper/3066a1534da49d11ed43837588010030a690371b", 
+      "venue": "2015 Asia-Pacific Signal and Information Processing Association Annual Summit and Conference (APSIPA)", 
+      "year": 2015
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "48fbf858eb97538df0ffa252c1ff93cc01d14d62", 
+      "title": "Scalable Heterogeneous Transfer Ranking", 
+      "url": "https://www.semanticscholar.org/paper/48fbf858eb97538df0ffa252c1ff93cc01d14d62", 
+      "venue": "BigMine", 
+      "year": 2014
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "65d59b3f7baef0fe464a1d6ae7ff49008b70a26a", 
+      "title": "Social Network Data Analytics Social Network Data Analytics", 
+      "url": "https://www.semanticscholar.org/paper/65d59b3f7baef0fe464a1d6ae7ff49008b70a26a", 
+      "venue": "", 
+      "year": 2010
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "86d9f836c5fc542e987601a102c2b6cdbca1d64f", 
+      "title": "Large Scale Semi-Supervised Object Detection Using Visual and Semantic Knowledge Transfer", 
+      "url": "https://www.semanticscholar.org/paper/86d9f836c5fc542e987601a102c2b6cdbca1d64f", 
+      "venue": "2016 IEEE Conference on Computer Vision and Pattern Recognition (CVPR)", 
+      "year": 2016
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "90abbe1f2f78493b9a596ba13b7145a07e50df84", 
+      "title": "A survey of transfer learning", 
+      "url": "https://www.semanticscholar.org/paper/90abbe1f2f78493b9a596ba13b7145a07e50df84", 
+      "venue": "Journal of Big Data", 
+      "year": 2016
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "7d6539d637f919fa20a9261e03aedcf59f92598e", 
+      "title": "Improving Cross-Resolution Face Matching Using Ensemble-Based Co-Transfer Learning", 
+      "url": "https://www.semanticscholar.org/paper/7d6539d637f919fa20a9261e03aedcf59f92598e", 
+      "venue": "IEEE Transactions on Image Processing", 
+      "year": 2014
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "d4d2d08238dd22f241bf5421a83671f6cd9f763b", 
+      "title": "Semi-supervised Subspace Co-Projection for Multi-class Heterogeneous Domain Adaptation", 
+      "url": "https://www.semanticscholar.org/paper/d4d2d08238dd22f241bf5421a83671f6cd9f763b", 
+      "venue": "ECML/PKDD", 
+      "year": 2015
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "dd588b09bba6c36f7bc89d2e59afcdb34c178d09", 
+      "title": "Undoing the codebook bias by linear transformation with sparsity and F-norm constraints for image classification", 
+      "url": "https://www.semanticscholar.org/paper/dd588b09bba6c36f7bc89d2e59afcdb34c178d09", 
+      "venue": "Pattern Recognition Letters", 
+      "year": 2014
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "d553f61dbd70745c4093bea52b3ae97dcb663caa", 
+      "title": "Undo the codebook bias by linear transformation for visual applications", 
+      "url": "https://www.semanticscholar.org/paper/d553f61dbd70745c4093bea52b3ae97dcb663caa", 
+      "venue": "ACM Multimedia", 
+      "year": 2013
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "007b87d74009b0cc1397417bc9aa834f3e200e82", 
+      "title": "Transfer Learning with Graph Co-Regularization", 
+      "url": "https://www.semanticscholar.org/paper/007b87d74009b0cc1397417bc9aa834f3e200e82", 
+      "venue": "IEEE Transactions on Knowledge and Data Engineering", 
+      "year": 2012
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "c7532b4fb0cbf2ee4332a8e7b22c519361810a92", 
+      "title": "A Graph-based Recommendation across Heterogeneous Domains", 
+      "url": "https://www.semanticscholar.org/paper/c7532b4fb0cbf2ee4332a8e7b22c519361810a92", 
+      "venue": "CIKM", 
+      "year": 2015
+    }, 
+    {
+      "isInfluential": true, 
+      "paperId": "7bf20adba8135257a1d8f4edc34f9a9a0b596db3", 
+      "title": "Robust and Non-Negative Collective Matrix Factorization for Text-to-Image Transfer Learning", 
+      "url": "https://www.semanticscholar.org/paper/7bf20adba8135257a1d8f4edc34f9a9a0b596db3", 
+      "venue": "IEEE Transactions on Image Processing", 
+      "year": 2015
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "27e7f719ed9af610d7b06ef208a4aff1f6762030", 
+      "title": "Transfer Learning of Distance Metrics by Cross-Domain Metric Sampling across Heterogeneous Spaces", 
+      "url": "https://www.semanticscholar.org/paper/27e7f719ed9af610d7b06ef208a4aff1f6762030", 
+      "venue": "SDM", 
+      "year": 2012
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "3e7d1f8c4f8978fd0770373ae7c3e87001c6ba63", 
+      "title": "Heterogeneous Domain Adaptation for Multiple Classes", 
+      "url": "https://www.semanticscholar.org/paper/3e7d1f8c4f8978fd0770373ae7c3e87001c6ba63", 
+      "venue": "AISTATS", 
+      "year": 2014
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "64f1b9a5eba8c25dee4e74e9d9d5e8c71de58523", 
+      "title": "Methodologies for Cross-Domain Data Fusion: An Overview", 
+      "url": "https://www.semanticscholar.org/paper/64f1b9a5eba8c25dee4e74e9d9d5e8c71de58523", 
+      "venue": "IEEE Transactions on Big Data", 
+      "year": 2015
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "415fc91afe2a728b5ea15af05916ca332916bfa2", 
+      "title": "Cross-Domain Kernel Induction for Transfer Learning", 
+      "url": "https://www.semanticscholar.org/paper/415fc91afe2a728b5ea15af05916ca332916bfa2", 
+      "venue": "AAAI", 
+      "year": 2017
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "6c9db45fd870185565b62c1fe53596d853366349", 
+      "title": "A Flexible Framework for Projecting Heterogeneous Data", 
+      "url": "https://www.semanticscholar.org/paper/6c9db45fd870185565b62c1fe53596d853366349", 
+      "venue": "CIKM", 
+      "year": 2014
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "f1a2068ae2004f7a085a5a69b2183083a474707b", 
+      "title": "Knowledge Source Selection by Estimating Distance between Datasets", 
+      "url": "https://www.semanticscholar.org/paper/f1a2068ae2004f7a085a5a69b2183083a474707b", 
+      "venue": "2012 Conference on Technologies and Applications of Artificial Intelligence", 
+      "year": 2012
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "bfaf8b02fbe3ce8caf84785ea62b1e569225898c", 
+      "title": "Transfer learning using adaptive SVM for image classification", 
+      "url": "https://www.semanticscholar.org/paper/bfaf8b02fbe3ce8caf84785ea62b1e569225898c", 
+      "venue": "2013 IEEE Second International Conference on Image Information Processing (ICIIP-2013)", 
+      "year": 2013
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "a4bdc03124502dc417e3e1b1c7003a3e99a7a01c", 
+      "title": "Sentiment analysis based on transfer learning for Chinese ancient literature", 
+      "url": "https://www.semanticscholar.org/paper/a4bdc03124502dc417e3e1b1c7003a3e99a7a01c", 
+      "venue": "2014 International Conference on Behavioral, Economic, and Socio-Cultural Computing (BESC2014)", 
+      "year": 2014
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "1ca3e8847411b62926d6fdc07851de9ba4877d3f", 
+      "title": "A Bayesian Approach to Multimodal Visual Dictionary Learning", 
+      "url": "https://www.semanticscholar.org/paper/1ca3e8847411b62926d6fdc07851de9ba4877d3f", 
+      "venue": "2013 IEEE Conference on Computer Vision and Pattern Recognition", 
+      "year": 2013
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "5fa73d8be25bf1132964f3abc361c60c1eb4c7ec", 
+      "title": "An Introduction to Social Network Data Analytics", 
+      "url": "https://www.semanticscholar.org/paper/5fa73d8be25bf1132964f3abc361c60c1eb4c7ec", 
+      "venue": "Social Network Data Analytics", 
+      "year": 2011
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "85037917a2328130c53a3d212b9b046dfde2bc0c", 
+      "title": "Large-Scale Cross-Modality Search via Collective Matrix Factorization Hashing", 
+      "url": "https://www.semanticscholar.org/paper/85037917a2328130c53a3d212b9b046dfde2bc0c", 
+      "venue": "IEEE Transactions on Image Processing", 
+      "year": 2016
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "c4694f274b2f672188840ad7a8515f0eddeebeac", 
+      "title": "Cross-Site Virtual Social Network Construction", 
+      "url": "https://www.semanticscholar.org/paper/c4694f274b2f672188840ad7a8515f0eddeebeac", 
+      "venue": "2015 IEEE International Conference on Data Mining Workshop (ICDMW)", 
+      "year": 2015
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "142a1294a41162fd2a0b1138438f06e5fc1a50a4", 
+      "title": "Learning Cross-Domain Landmarks for Heterogeneous Domain Adaptation", 
+      "url": "https://www.semanticscholar.org/paper/142a1294a41162fd2a0b1138438f06e5fc1a50a4", 
+      "venue": "2016 IEEE Conference on Computer Vision and Pattern Recognition (CVPR)", 
+      "year": 2016
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "a362eab693d0fcdb66ca5209f8e3de7356179c05", 
+      "title": "Co-transfer learning via joint transition probability graph based method", 
+      "url": "https://www.semanticscholar.org/paper/a362eab693d0fcdb66ca5209f8e3de7356179c05", 
+      "venue": "CDKD '12", 
+      "year": 2012
+    }, 
+    {
+      "isInfluential": true, 
+      "paperId": "585a0ff4ec1cc262a7f61b8176e3ffbd624bc8fe", 
+      "title": "Joint Intermodal and Intramodal Label Transfers for Extremely Rare or Unseen Classes", 
+      "url": "https://www.semanticscholar.org/paper/585a0ff4ec1cc262a7f61b8176e3ffbd624bc8fe", 
+      "venue": "IEEE Transactions on Pattern Analysis and Machine Intelligence", 
+      "year": 2017
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "67363772d0295582451fb76af42d2f9afd293545", 
+      "title": "Incremental Discriminant Learning for Heterogeneous Domain Adaptation", 
+      "url": "https://www.semanticscholar.org/paper/67363772d0295582451fb76af42d2f9afd293545", 
+      "venue": "2015 IEEE International Conference on Data Mining Workshop (ICDMW)", 
+      "year": 2015
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "56a30c81b566b91252692a02cc4628222d2a4cec", 
+      "title": "Text Mining in Social Networks", 
+      "url": "https://www.semanticscholar.org/paper/56a30c81b566b91252692a02cc4628222d2a4cec", 
+      "venue": "Social Network Data Analytics", 
+      "year": 2011
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "f216c518c8debef705cce831bef5a5dbce913ab9", 
+      "title": "Heterogeneous Metric Learning with Joint Graph Regularization for Cross-Media Retrieval", 
+      "url": "https://www.semanticscholar.org/paper/f216c518c8debef705cce831bef5a5dbce913ab9", 
+      "venue": "AAAI", 
+      "year": 2013
+    }, 
+    {
+      "isInfluential": true, 
+      "paperId": "5e3e80309ca0749afd18b02762f966df17bedf62", 
+      "title": "Learning Transferred Weights From Co-Occurrence Data for Heterogeneous Transfer Learning", 
+      "url": "https://www.semanticscholar.org/paper/5e3e80309ca0749afd18b02762f966df17bedf62", 
+      "venue": "IEEE Transactions on Neural Networks and Learning Systems", 
+      "year": 2016
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "0f0d044abc743deb9ae6757f2df3490803e1ede8", 
+      "title": "Transitive Transfer Learning", 
+      "url": "https://www.semanticscholar.org/paper/0f0d044abc743deb9ae6757f2df3490803e1ede8", 
+      "venue": "KDD", 
+      "year": 2015
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "7fe2e6d08ec5d38e1de6bd8035be85186cd4393c", 
+      "title": "Discriminative Factor Alignment across Heterogeneous Feature Space", 
+      "url": "https://www.semanticscholar.org/paper/7fe2e6d08ec5d38e1de6bd8035be85186cd4393c", 
+      "venue": "ECML/PKDD", 
+      "year": 2012
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "1bb239731589f3114a3fe5b35e42a635b5eacb38", 
+      "title": "Transfer Learning for Text Mining", 
+      "url": "https://www.semanticscholar.org/paper/1bb239731589f3114a3fe5b35e42a635b5eacb38", 
+      "venue": "Mining Text Data", 
+      "year": 2012
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "c67fe962892075287162dda682ee3c5b659a26f0", 
+      "title": "Knowledge Transferring for Image Classification", 
+      "url": "https://www.semanticscholar.org/paper/c67fe962892075287162dda682ee3c5b659a26f0", 
+      "venue": "2012 Eighth International Conference on Intelligent Information Hiding and Multimedia Signal Processing", 
+      "year": 2012
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "032fb07f1dc510d35529fd302458ae30a1825f2e", 
+      "title": "Generalized Deep Transfer Networks for Knowledge Propagation in Heterogeneous Domains", 
+      "url": "https://www.semanticscholar.org/paper/032fb07f1dc510d35529fd302458ae30a1825f2e", 
+      "venue": "TOMCCAP", 
+      "year": 2016
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "9fa6742dc9b87a61804fade5c4e6f231b3fb3e9f", 
+      "title": "Linking Heterogeneous Input Spaces with Pivots for Multi-Task Learning", 
+      "url": "https://www.semanticscholar.org/paper/9fa6742dc9b87a61804fade5c4e6f231b3fb3e9f", 
+      "venue": "SDM", 
+      "year": 2014
+    }
+  ], 
+  "doi": null, 
+  "influentialCitationCount": 4, 
+  "paperId": "2069c9389df8bb29b7fedf2c2ccfe7aaf82b2832", 
+  "references": [
+    {
+      "isInfluential": false, 
+      "paperId": "182a09b61a40c7a230ed0fd758657dd409447683", 
+      "title": "Exploiting Image Contents in Web Search", 
+      "url": "https://www.semanticscholar.org/paper/182a09b61a40c7a230ed0fd758657dd409447683", 
+      "venue": "IJCAI", 
+      "year": 2007
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "0f17c798597372ad819b4c87181b2bfd7ebf38bb", 
+      "title": "Semi-Supervised Learning Literature Survey", 
+      "url": "https://www.semanticscholar.org/paper/0f17c798597372ad819b4c87181b2bfd7ebf38bb", 
+      "venue": "", 
+      "year": 2006
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "b91180d8853d00e8f2df7ee3532e07d3d0cce2af", 
+      "title": "Visual Categorization with Bags of Keypoints", 
+      "url": "https://www.semanticscholar.org/paper/b91180d8853d00e8f2df7ee3532e07d3d0cce2af", 
+      "venue": "", 
+      "year": 2004
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "4b7c8063892ca57131bd71b9c839d970ee8b0226", 
+      "title": "Frustratingly Easy Domain Adaptation", 
+      "url": "https://www.semanticscholar.org/paper/4b7c8063892ca57131bd71b9c839d970ee8b0226", 
+      "venue": "ACL", 
+      "year": 2007
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "1145859ba17172d517cdffe2a5f00a16366c5765", 
+      "title": "Indexing by Latent Semantic Analysis", 
+      "url": "https://www.semanticscholar.org/paper/1145859ba17172d517cdffe2a5f00a16366c5765", 
+      "venue": "JASIS", 
+      "year": 1990
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "a0071d1d54865c802dbb718394037c859f52749f", 
+      "title": "Heterogeneous Transfer Learning for Image Clustering via the SocialWeb", 
+      "url": "https://www.semanticscholar.org/paper/a0071d1d54865c802dbb718394037c859f52749f", 
+      "venue": "ACL/IJCNLP", 
+      "year": 2009
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "268cd46a06e8e3052bbd64e96fac73d600430281", 
+      "title": "Distinctive Image Features from Scale-Invariant Keypoints", 
+      "url": "https://www.semanticscholar.org/paper/268cd46a06e8e3052bbd64e96fac73d600430281", 
+      "venue": "", 
+      "year": 2011
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "08ae74a8967f7439a3df8733e268caa6294b7e5b", 
+      "title": "Self-taught learning: transfer learning from unlabeled data", 
+      "url": "https://www.semanticscholar.org/paper/08ae74a8967f7439a3df8733e268caa6294b7e5b", 
+      "venue": "ICML", 
+      "year": 2007
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "7269155a0fe9f981de7d3f28de2cfade14d35a9d", 
+      "title": "Translated Learning: Transfer Learning across Different Feature Spaces", 
+      "url": "https://www.semanticscholar.org/paper/7269155a0fe9f981de7d3f28de2cfade14d35a9d", 
+      "venue": "NIPS", 
+      "year": 2008
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "4eb17520bbe2a58c6bb3cf95a2601fa0bc26e10f", 
+      "title": "Transfer learning for image classification with sparse prototype representations", 
+      "url": "https://www.semanticscholar.org/paper/4eb17520bbe2a58c6bb3cf95a2601fa0bc26e10f", 
+      "venue": "2008 IEEE Conference on Computer Vision and Pattern Recognition", 
+      "year": 2008
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "0fbf373d25f2710e2e4eaf64e00e071f734ad84f", 
+      "title": "Mapping and Revising Markov Logic Networks for Transfer Learning", 
+      "url": "https://www.semanticscholar.org/paper/0fbf373d25f2710e2e4eaf64e00e071f734ad84f", 
+      "venue": "AAAI", 
+      "year": 2007
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "38f4afbc55d3e68d450392a7fce5ef6b3ecc4829", 
+      "title": "Improving SVM accuracy by training on auxiliary data sources", 
+      "url": "https://www.semanticscholar.org/paper/38f4afbc55d3e68d450392a7fce5ef6b3ecc4829", 
+      "venue": "ICML", 
+      "year": 2004
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "0228df458946aecc024540ed90840c789590a3a7", 
+      "title": "An Introduction to the Conjugate Gradient Method Without the Agonizing Pain", 
+      "url": "https://www.semanticscholar.org/paper/0228df458946aecc024540ed90840c789590a3a7", 
+      "venue": "", 
+      "year": 1994
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "9962373fbc4971baab8c5867b3e1af16b09fc945", 
+      "title": "Distance metric learning from uncertain side information for automated photo tagging", 
+      "url": "https://www.semanticscholar.org/paper/9962373fbc4971baab8c5867b3e1af16b09fc945", 
+      "venue": "ACM TIST", 
+      "year": 2011
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "3042d3727b2f80453ff5378b4b3043abb2d685a1", 
+      "title": "Building text features for object image classification", 
+      "url": "https://www.semanticscholar.org/paper/3042d3727b2f80453ff5378b4b3043abb2d685a1", 
+      "venue": "2009 IEEE Conference on Computer Vision and Pattern Recognition", 
+      "year": 2009
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "2744288f090192987e980274999065ad2d6e45d6", 
+      "title": "Relational learning via collective matrix factorization", 
+      "url": "https://www.semanticscholar.org/paper/2744288f090192987e980274999065ad2d6e45d6", 
+      "venue": "KDD", 
+      "year": 2008
+    }
+  ], 
+  "title": "Heterogeneous Transfer Learning for Image Classification", 
+  "url": "https://www.semanticscholar.org/paper/2069c9389df8bb29b7fedf2c2ccfe7aaf82b2832", 
+  "venue": "AAAI", 
+  "year": 2011
+}

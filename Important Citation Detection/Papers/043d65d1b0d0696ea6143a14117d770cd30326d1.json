@@ -1,0 +1,884 @@
+{
+  "authors": [
+    {
+      "authorId": "3192273", 
+      "name": "David M. Zajic", 
+      "url": "https://www.semanticscholar.org/author/3192273"
+    }, 
+    {
+      "authorId": "1752326", 
+      "name": "Bonnie J. Dorr", 
+      "url": "https://www.semanticscholar.org/author/1752326"
+    }, 
+    {
+      "authorId": "4383270", 
+      "name": "Jimmy J. Lin", 
+      "url": "https://www.semanticscholar.org/author/4383270"
+    }, 
+    {
+      "authorId": "1756832", 
+      "name": "Richard M. Schwartz", 
+      "url": "https://www.semanticscholar.org/author/1756832"
+    }
+  ], 
+  "citationVelocity": 0, 
+  "citations": [
+    {
+      "isInfluential": false, 
+      "paperId": "4933097e230c1892312a08d8ee7f0dd4fc9b6513", 
+      "title": "Domain Specific e-Document Summarization Using Extractive Approach", 
+      "url": "https://www.semanticscholar.org/paper/4933097e230c1892312a08d8ee7f0dd4fc9b6513", 
+      "venue": "", 
+      "year": 2011
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "79ee7e2dd665dee9b36c54303eeccd1d62ea5ef1", 
+      "title": "Syntactic sentence compression in the biomedical domain: facilitating access to related articles", 
+      "url": "https://www.semanticscholar.org/paper/79ee7e2dd665dee9b36c54303eeccd1d62ea5ef1", 
+      "venue": "Information Retrieval", 
+      "year": 2007
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "2b41fb59f20cec01ee261e9355a8988d5d7cd15e", 
+      "title": "A Sentence Simplification System for Improving Relation Extraction", 
+      "url": "https://www.semanticscholar.org/paper/2b41fb59f20cec01ee261e9355a8988d5d7cd15e", 
+      "venue": "COLING", 
+      "year": 2016
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "4cff2ef03e80c7dc670166eae8326282632de5bd", 
+      "title": "On the Effectiveness of using Sentence Compression Models for Query-Focused Multi-Document Summarization", 
+      "url": "https://www.semanticscholar.org/paper/4cff2ef03e80c7dc670166eae8326282632de5bd", 
+      "venue": "COLING", 
+      "year": 2012
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "0bc799b22bc9c4ef1b3055da65cb2edd7b3c63f7", 
+      "title": "Information Status Distinctions and Referring Expressions: An Empirical Study of References to People in News Summaries", 
+      "url": "https://www.semanticscholar.org/paper/0bc799b22bc9c4ef1b3055da65cb2edd7b3c63f7", 
+      "venue": "Computational Linguistics", 
+      "year": 2011
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "37fa2b1845d8a3013d008a0c1aef61897da7faf7", 
+      "title": "Learning to Generate Coherent Summary with Discriminative Hidden Semi-Markov Model", 
+      "url": "https://www.semanticscholar.org/paper/37fa2b1845d8a3013d008a0c1aef61897da7faf7", 
+      "venue": "COLING", 
+      "year": 2014
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "a511bee99b4ebb1edf83e818f97663be58d45a22", 
+      "title": "Generating Extractive Summaries of Scientific Paradigms", 
+      "url": "https://www.semanticscholar.org/paper/a511bee99b4ebb1edf83e818f97663be58d45a22", 
+      "venue": "J. Artif. Intell. Res.", 
+      "year": 2013
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "a4e42e3e58228eccf1336b8ae06c1dd327357e27", 
+      "title": "Discovering and Characterizing Emerging Events in Big Data (DISCERN)", 
+      "url": "https://www.semanticscholar.org/paper/a4e42e3e58228eccf1336b8ae06c1dd327357e27", 
+      "venue": "", 
+      "year": 2014
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "d66d960f7344a2b6ec07e6de3a80fcaca3e48662", 
+      "title": "Deep Dependency Substructure-Based Learning for Multidocument Summarization", 
+      "url": "https://www.semanticscholar.org/paper/d66d960f7344a2b6ec07e6de3a80fcaca3e48662", 
+      "venue": "ACM Trans. Inf. Syst.", 
+      "year": 2015
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "d4658308366db69393ea6ec1b71be6a579059a52", 
+      "title": "Flexible Japanese Sentence Compression by Relaxing Unit Constraints", 
+      "url": "https://www.semanticscholar.org/paper/d4658308366db69393ea6ec1b71be6a579059a52", 
+      "venue": "COLING", 
+      "year": 2012
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "737e7b7b695755bb86f9c89a215b162ec836cff9", 
+      "title": "The ACL Anthology Reference Corpus: a reference dataset for bibliographic research", 
+      "url": "https://www.semanticscholar.org/paper/737e7b7b695755bb86f9c89a215b162ec836cff9", 
+      "venue": "", 
+      "year": null
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "1a26d7363113f336db52b397fd58861195987147", 
+      "title": "Automatic Text Summarization", 
+      "url": "https://www.semanticscholar.org/paper/1a26d7363113f336db52b397fd58861195987147", 
+      "venue": "", 
+      "year": 2008
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "f9f089b2e4c43356da13e4b199fde103c2731171", 
+      "title": "A hybrid machine learning model for multi-document summarization", 
+      "url": "https://www.semanticscholar.org/paper/f9f089b2e4c43356da13e4b199fde103c2731171", 
+      "venue": "Applied Intelligence", 
+      "year": 2013
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "d5469f012d79b9ec3b36685d4f25d6b59d2414bb", 
+      "title": "Building a Dataset for Summarization and Keyword Extraction from Emails", 
+      "url": "https://www.semanticscholar.org/paper/d5469f012d79b9ec3b36685d4f25d6b59d2414bb", 
+      "venue": "LREC", 
+      "year": 2014
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "26d8cd270901ec70e9c1bd8e76dafe7855d83a99", 
+      "title": "Improving Multi-documents Summarization by Sentence Compression based on Expanded Constituent Parse Trees", 
+      "url": "https://www.semanticscholar.org/paper/26d8cd270901ec70e9c1bd8e76dafe7855d83a99", 
+      "venue": "EMNLP", 
+      "year": 2014
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "5ff6a2cea87d3505e41ade190f44f322fff0fe9b", 
+      "title": "Multi-document abstractive summarization using ILP based multi-sentence compression", 
+      "url": "https://www.semanticscholar.org/paper/5ff6a2cea87d3505e41ade190f44f322fff0fe9b", 
+      "venue": "IJCAI", 
+      "year": 2015
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "db655de1482e623ac27612719d29fcfa4ffda2b6", 
+      "title": "Using Coreference Links and Sentence Compression in Graph-based Summarization", 
+      "url": "https://www.semanticscholar.org/paper/db655de1482e623ac27612719d29fcfa4ffda2b6", 
+      "venue": "TAC", 
+      "year": 2008
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "a5a03fa0acb33e2ffc8e58a2752bc39103dd0ae5", 
+      "title": "SJTU CIT at TAC 2010: Guided Summarization Task", 
+      "url": "https://www.semanticscholar.org/paper/a5a03fa0acb33e2ffc8e58a2752bc39103dd0ae5", 
+      "venue": "TAC", 
+      "year": 2010
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "0fe90de928a83bc1bbfec9e0ac497dbbf1b9f7c6", 
+      "title": "Single-document and multi-document summarization techniques for email threads using sentence compression", 
+      "url": "https://www.semanticscholar.org/paper/0fe90de928a83bc1bbfec9e0ac497dbbf1b9f7c6", 
+      "venue": "Inf. Process. Manage.", 
+      "year": 2008
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "646ad64fb075ab56a53c8fff0a398cd84859b114", 
+      "title": "A Context-Based Word Indexing Model for Document Summarization", 
+      "url": "https://www.semanticscholar.org/paper/646ad64fb075ab56a53c8fff0a398cd84859b114", 
+      "venue": "IEEE Transactions on Knowledge and Data Engineering", 
+      "year": 2013
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "b56bb8b31c028f8a22acad91563b61fce775073d", 
+      "title": "Automatic Summarization for Chinese Text Using Affinity Propagation Clustering and Latent Semantic Analysis", 
+      "url": "https://www.semanticscholar.org/paper/b56bb8b31c028f8a22acad91563b61fce775073d", 
+      "venue": "WISM", 
+      "year": 2012
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "193e59f71399c13b17e283ee2218379bd8ca73ef", 
+      "title": "A new sentence similarity measure and sentence based extractive technique for automatic text summarization", 
+      "url": "https://www.semanticscholar.org/paper/193e59f71399c13b17e283ee2218379bd8ca73ef", 
+      "venue": "Expert Syst. Appl.", 
+      "year": 2009
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "07414cc478aff1c2d40119c08d3713ab37739fcf", 
+      "title": "Understanding Scientific Literature Networks: Case Study Evaluations of Integrating Visualizations and Statistics", 
+      "url": "https://www.semanticscholar.org/paper/07414cc478aff1c2d40119c08d3713ab37739fcf", 
+      "venue": "", 
+      "year": 2011
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "2fbb94913504b82a7828d6b05d4b9105e15d313b", 
+      "title": "COMPENDIUM: A text summarization system for generating abstracts of research papers", 
+      "url": "https://www.semanticscholar.org/paper/2fbb94913504b82a7828d6b05d4b9105e15d313b", 
+      "venue": "Data Knowl. Eng.", 
+      "year": 2011
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "5dcb4939c7c9d9ee3713ce7525acd1e62b0a9c4a", 
+      "title": "Generating surveys of scientific paradigms", 
+      "url": "https://www.semanticscholar.org/paper/5dcb4939c7c9d9ee3713ce7525acd1e62b0a9c4a", 
+      "venue": "", 
+      "year": 2009
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "4fcfada98081b9c75abb003f5fde203826b7424c", 
+      "title": "Summarization Factors 2 Processing Model", 
+      "url": "https://www.semanticscholar.org/paper/4fcfada98081b9c75abb003f5fde203826b7424c", 
+      "venue": "", 
+      "year": 2009
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "1a5e661511f23ede77b66836332ebaa79c99b058", 
+      "title": "Sentence Reduction Algorithms to Improve Multi-document Summarization", 
+      "url": "https://www.semanticscholar.org/paper/1a5e661511f23ede77b66836332ebaa79c99b058", 
+      "venue": "ICAART", 
+      "year": 2013
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "24347e3b018f73c0666bdea11c97de7a9be3db69", 
+      "title": "Exploiting aspectual features and connecting words for summarization-inspired temporal-relation extraction", 
+      "url": "https://www.semanticscholar.org/paper/24347e3b018f73c0666bdea11c97de7a9be3db69", 
+      "venue": "Inf. Process. Manage.", 
+      "year": 2007
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "52a61d6388e2ad0a74bbd49ed3635d70f9a7ff94", 
+      "title": "Text summarisation in progress: a literature review", 
+      "url": "https://www.semanticscholar.org/paper/52a61d6388e2ad0a74bbd49ed3635d70f9a7ff94", 
+      "venue": "Artificial Intelligence Review", 
+      "year": 2011
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "15286c67edefdc7c995c232910896b8346478d9e", 
+      "title": "Global inference for sentence compression : an integer linear programming approach", 
+      "url": "https://www.semanticscholar.org/paper/15286c67edefdc7c995c232910896b8346478d9e", 
+      "venue": "J. Artif. Intell. Res.", 
+      "year": 2008
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "903772853e70cd52f6e74133660221849142eb58", 
+      "title": "Generating Aspect-oriented Multi-Document Summarization with Event-aspect model", 
+      "url": "https://www.semanticscholar.org/paper/903772853e70cd52f6e74133660221849142eb58", 
+      "venue": "EMNLP", 
+      "year": 2011
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "03eba5722429fed74b693ce384b2f55613f8c6ac", 
+      "title": "On the Limits of Sentence Compression by Deletion", 
+      "url": "https://www.semanticscholar.org/paper/03eba5722429fed74b693ce384b2f55613f8c6ac", 
+      "venue": "Empirical Methods in Natural Language Generation", 
+      "year": 2010
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "41e721b2e22a0839be8a8cd6c3c0bebf62e05c8e", 
+      "title": "Title Generation with Quasi-Synchronous Grammar", 
+      "url": "https://www.semanticscholar.org/paper/41e721b2e22a0839be8a8cd6c3c0bebf62e05c8e", 
+      "venue": "EMNLP", 
+      "year": 2010
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "53614c8764a35279a24168f691f0896188421872", 
+      "title": "TALAA-ASC: A sentence compression corpus for Arabic", 
+      "url": "https://www.semanticscholar.org/paper/53614c8764a35279a24168f691f0896188421872", 
+      "venue": "2015 IEEE/ACS 12th International Conference of Computer Systems and Applications (AICCSA)", 
+      "year": 2015
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "4400f4f3ffd3dcd00700bf900f478d27c5c27fb4", 
+      "title": "Text Summarization Based on Cellular Automata", 
+      "url": "https://www.semanticscholar.org/paper/4400f4f3ffd3dcd00700bf900f478d27c5c27fb4", 
+      "venue": "", 
+      "year": null
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "cc3214d2d18058d0cc566551507259e176548732", 
+      "title": "Evaluating Syntactic Sentence Compression for Text Summarisation", 
+      "url": "https://www.semanticscholar.org/paper/cc3214d2d18058d0cc566551507259e176548732", 
+      "venue": "NLDB", 
+      "year": 2013
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "7453a974d355883f342aaa6e29eb86a13edcedb9", 
+      "title": "Automatic Generation of Story Highlights", 
+      "url": "https://www.semanticscholar.org/paper/7453a974d355883f342aaa6e29eb86a13edcedb9", 
+      "venue": "ACL", 
+      "year": 2010
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "2d3ab5920336208072bf51da90de26a03aa116a9", 
+      "title": "A Malay text summarizer using pattern-growth method with sentence compression rules", 
+      "url": "https://www.semanticscholar.org/paper/2d3ab5920336208072bf51da90de26a03aa116a9", 
+      "venue": "2016 Third International Conference on Information Retrieval and Knowledge Management (CAMP)", 
+      "year": 2016
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "b53907a11dc14d7d36e56212b6af71f8b22020af", 
+      "title": "Selective Encoding for Abstractive Sentence Summarization", 
+      "url": "https://www.semanticscholar.org/paper/b53907a11dc14d7d36e56212b6af71f8b22020af", 
+      "venue": "ACL", 
+      "year": 2017
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "44511222620d7d31498e3d29ee0719f5c0161d91", 
+      "title": "Multiple Alternative Sentence Compressions for Automatic Text Summarization", 
+      "url": "https://www.semanticscholar.org/paper/44511222620d7d31498e3d29ee0719f5c0161d91", 
+      "venue": "", 
+      "year": 2007
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "37d2bb06453b5723f214f0292677a7200905650e", 
+      "title": "Automatic Summarization of Student Course Feedback", 
+      "url": "https://www.semanticscholar.org/paper/37d2bb06453b5723f214f0292677a7200905650e", 
+      "venue": "HLT-NAACL", 
+      "year": 2016
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "c8bdd2fec6d9cb4067ad1ba06b35b51b3233b069", 
+      "title": "Is Sentence Compression an NLG task?", 
+      "url": "https://www.semanticscholar.org/paper/c8bdd2fec6d9cb4067ad1ba06b35b51b3233b069", 
+      "venue": "ENLG", 
+      "year": 2009
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "6e485bf891e222411c9c262c6a2fed794d2d1789", 
+      "title": "Query-focused Multi-Document Summarization: Combining a Topic Model with Graph-based Semi-supervised Learning", 
+      "url": "https://www.semanticscholar.org/paper/6e485bf891e222411c9c262c6a2fed794d2d1789", 
+      "venue": "COLING", 
+      "year": 2014
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "b8a031e2e27059bb546af11bbf2a66acf31b6a2b", 
+      "title": "Citation Handling: Processing Citation Texts in Scientific Documents", 
+      "url": "https://www.semanticscholar.org/paper/b8a031e2e27059bb546af11bbf2a66acf31b6a2b", 
+      "venue": "", 
+      "year": 2012
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "1b98ecc801d4435fd57c6ef87b4c24cf6b3b58ce", 
+      "title": "Document Summarization via Guided Sentence Compression", 
+      "url": "https://www.semanticscholar.org/paper/1b98ecc801d4435fd57c6ef87b4c24cf6b3b58ce", 
+      "venue": "EMNLP", 
+      "year": 2013
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "434323808650cecbcdd82386e6532d7962b82222", 
+      "title": "Combining a double clustering approach with sentence simplification to produce highly informative multi-document summaries", 
+      "url": "https://www.semanticscholar.org/paper/434323808650cecbcdd82386e6532d7962b82222", 
+      "venue": "2012 IEEE 13th International Conference on Information Reuse & Integration (IRI)", 
+      "year": 2012
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "3fe75c64c32c59f77135f31092d9bd013c015df3", 
+      "title": "Probabilistic neural network based text summarization", 
+      "url": "https://www.semanticscholar.org/paper/3fe75c64c32c59f77135f31092d9bd013c015df3", 
+      "venue": "2008 International Conference on Natural Language Processing and Knowledge Engineering", 
+      "year": 2008
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "a994ed8bac53bf7cf70d428d71cf1e2940fb4351", 
+      "title": "An abstractive approach to sentence compression", 
+      "url": "https://www.semanticscholar.org/paper/a994ed8bac53bf7cf70d428d71cf1e2940fb4351", 
+      "venue": "ACM TIST", 
+      "year": 2013
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "4652f8f15f24278c513e8089a61e059f62ae7ab5", 
+      "title": "Rapid understanding of scientific paper collections: Integrating statistics, text analytics, and visualization", 
+      "url": "https://www.semanticscholar.org/paper/4652f8f15f24278c513e8089a61e059f62ae7ab5", 
+      "venue": "JASIST", 
+      "year": 2012
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "16729b2dd55c26dff21cdc78dea168acc20b7c8e", 
+      "title": "Evaluating visual and statistical exploration of scientific literature networks", 
+      "url": "https://www.semanticscholar.org/paper/16729b2dd55c26dff21cdc78dea168acc20b7c8e", 
+      "venue": "2011 IEEE Symposium on Visual Languages and Human-Centric Computing (VL/HCC)", 
+      "year": 2011
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "9c006738333fe2940c57ed38e52f19087be549c0", 
+      "title": "Understanding Scientific Literature Networks: An Evaluation of Action Science Explorer", 
+      "url": "https://www.semanticscholar.org/paper/9c006738333fe2940c57ed38e52f19087be549c0", 
+      "venue": "", 
+      "year": 2011
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "065c1a829b055418546ebf233e523cddfc09a9cf", 
+      "title": "Approximation Strategies for Multi-Structure Sentence Compression", 
+      "url": "https://www.semanticscholar.org/paper/065c1a829b055418546ebf233e523cddfc09a9cf", 
+      "venue": "ACL", 
+      "year": 2014
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "464458fa449c5dffd3046db6542b008f55895594", 
+      "title": "Structural Features for Predicting the Linguistic Quality of Text - Applications to Machine Translation, Automatic Summarization and Human-Authored Text", 
+      "url": "https://www.semanticscholar.org/paper/464458fa449c5dffd3046db6542b008f55895594", 
+      "venue": "Empirical Methods in Natural Language Generation", 
+      "year": 2010
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "2e1705f770d72f0f0ddded7d0c94e217536b6eed", 
+      "title": "An extractive text summarization based on multivariate approach", 
+      "url": "https://www.semanticscholar.org/paper/2e1705f770d72f0f0ddded7d0c94e217536b6eed", 
+      "venue": "2010 3rd International Conference on Advanced Computer Theory and Engineering(ICACTE)", 
+      "year": 2010
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "0e2c2aa2d87e68332fb4cca99f89aab941ab3a3a", 
+      "title": "The ACL Anthology Reference Corpus: A Reference Dataset for Bibliographic Research in Computational Linguistics", 
+      "url": "https://www.semanticscholar.org/paper/0e2c2aa2d87e68332fb4cca99f89aab941ab3a3a", 
+      "venue": "LREC", 
+      "year": 2008
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "ba26e233e8e5cd8618f97cb30df72ba32a252fc4", 
+      "title": "The two-stage unsupervised approach to multidocument summarization", 
+      "url": "https://www.semanticscholar.org/paper/ba26e233e8e5cd8618f97cb30df72ba32a252fc4", 
+      "venue": "Automatic Control and Computer Sciences", 
+      "year": 2009
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "5f176a929d9eaa569b430cb784280802cf8fca79", 
+      "title": "Overcoming the Lack of Parallel Data in Sentence Compression", 
+      "url": "https://www.semanticscholar.org/paper/5f176a929d9eaa569b430cb784280802cf8fca79", 
+      "venue": "EMNLP", 
+      "year": 2013
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "42ea1cb9439ef724ae9a0e71477fd3851aea0a8b", 
+      "title": "Crowd-Sourced Iterative Annotation for Narrative Summarization Corpora", 
+      "url": "https://www.semanticscholar.org/paper/42ea1cb9439ef724ae9a0e71477fd3851aea0a8b", 
+      "venue": "EACL", 
+      "year": 2017
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "612bd533ea7d1a6cb1e4a1c4a8f4b9329b3b990b", 
+      "title": "Sentence simplification, compression, and disaggregation for summarization of sophisticated documents", 
+      "url": "https://www.semanticscholar.org/paper/612bd533ea7d1a6cb1e4a1c4a8f4b9329b3b990b", 
+      "venue": "JASIST", 
+      "year": 2016
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "1ba39a40333b69531354223f2f98c542083c40a1", 
+      "title": "Predicting the Fluency of Text with Shallow Structural Features: Case Studies of Machine Tanslation and Human-Written Text", 
+      "url": "https://www.semanticscholar.org/paper/1ba39a40333b69531354223f2f98c542083c40a1", 
+      "venue": "", 
+      "year": 2015
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "3e30b645ed3dc155f64dc5159b1d5b1ac59a0717", 
+      "title": "Predicting the Fluency of Text with Shallow Structural Features: Case Studies of Machine Translation and Human-Written Text", 
+      "url": "https://www.semanticscholar.org/paper/3e30b645ed3dc155f64dc5159b1d5b1ac59a0717", 
+      "venue": "EACL", 
+      "year": 2009
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "5109ce63a9a1ad33923bee2dc672c6951145c364", 
+      "title": "Extractive Summarization by Maximizing Semantic Volume", 
+      "url": "https://www.semanticscholar.org/paper/5109ce63a9a1ad33923bee2dc672c6951145c364", 
+      "venue": "EMNLP", 
+      "year": 2015
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "2ef3bf269ebb5e64d59cf5451d74bdc6c9c2ec38", 
+      "title": "Automatic Technical Survey Creation using Citation Information", 
+      "url": "https://www.semanticscholar.org/paper/2ef3bf269ebb5e64d59cf5451d74bdc6c9c2ec38", 
+      "venue": "", 
+      "year": null
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "731558cea69cfa5fa4eea6b12fc5a3df3682fc2c", 
+      "title": "Discourse Constraints for Document Compression", 
+      "url": "https://www.semanticscholar.org/paper/731558cea69cfa5fa4eea6b12fc5a3df3682fc2c", 
+      "venue": "Computational Linguistics", 
+      "year": 2010
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "7c4ba5d21f463eac8b49ce1b192acd4a07bab81f", 
+      "title": "Using Relevant Public Posts to Enhance News Article Summarization", 
+      "url": "https://www.semanticscholar.org/paper/7c4ba5d21f463eac8b49ce1b192acd4a07bab81f", 
+      "venue": "COLING", 
+      "year": 2016
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "b1fc1ac997a8fb869016cb384713be09b1f5b563", 
+      "title": "Using Collective Discourse to Generate Surveys of Scientific Paradigms", 
+      "url": "https://www.semanticscholar.org/paper/b1fc1ac997a8fb869016cb384713be09b1f5b563", 
+      "venue": "", 
+      "year": 2012
+    }, 
+    {
+      "isInfluential": true, 
+      "paperId": "3d6b79e7d64ae44ac185b738f026fce4894b11eb", 
+      "title": "Citation Handling for Improved Summmarization of Scientific Documents", 
+      "url": "https://www.semanticscholar.org/paper/3d6b79e7d64ae44ac185b738f026fce4894b11eb", 
+      "venue": "", 
+      "year": 2011
+    }
+  ], 
+  "doi": "10.1016/j.ipm.2007.01.016", 
+  "influentialCitationCount": 1, 
+  "paperId": "043d65d1b0d0696ea6143a14117d770cd30326d1", 
+  "references": [
+    {
+      "isInfluential": false, 
+      "paperId": "12a37d7e3e38f69530aa6a74ff2d1fa247aefa85", 
+      "title": "Supervised and Unsupervised Learning for Sentence Compression", 
+      "url": "https://www.semanticscholar.org/paper/12a37d7e3e38f69530aa6a74ff2d1fa247aefa85", 
+      "venue": "ACL", 
+      "year": 2005
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "4a20be7840c238ce931d0d285f757e9485d21bf4", 
+      "title": "An Algorithm that Learns What's in a Name", 
+      "url": "https://www.semanticscholar.org/paper/4a20be7840c238ce931d0d285f757e9485d21bf4", 
+      "venue": "Machine Learning", 
+      "year": 1999
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "ad6893c45948e199ea7786bc98588e70d020855b", 
+      "title": "Back to Basics: CLASSY 2006", 
+      "url": "https://www.semanticscholar.org/paper/ad6893c45948e199ea7786bc98588e70d020855b", 
+      "venue": "", 
+      "year": 2006
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "65b1c78d52ffcd3d6a7af2e83fe26e8b7c5b7895", 
+      "title": "Cross-language headline generation for Hindi", 
+      "url": "https://www.semanticscholar.org/paper/65b1c78d52ffcd3d6a7af2e83fe26e8b7c5b7895", 
+      "venue": "ACM Trans. Asian Lang. Inf. Process.", 
+      "year": 2003
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "30ac230ac21c5ead642892dfe23f19583d770699", 
+      "title": "A Practical Part-of-Speech Tagger", 
+      "url": "https://www.semanticscholar.org/paper/30ac230ac21c5ead642892dfe23f19583d770699", 
+      "venue": "ANLP", 
+      "year": 1992
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "2bd4d55b1eddfe21a071ea87e42711c3669eb84f", 
+      "title": "Using Knowledge-poor Coreference Resolution for Text Summarization", 
+      "url": "https://www.semanticscholar.org/paper/2bd4d55b1eddfe21a071ea87e42711c3669eb84f", 
+      "venue": "", 
+      "year": 2003
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "4a9f2ac73266b5fef610ccfc4be612a45cddca71", 
+      "title": "A Novel Use of Statistical Parsing to Extract Information from Text", 
+      "url": "https://www.semanticscholar.org/paper/4a9f2ac73266b5fef610ccfc4be612a45cddca71", 
+      "venue": "ANLP", 
+      "year": 2000
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "17ab02894d728a584a4cfbd2d73edafdc209f000", 
+      "title": "Inferring Strategies for Sentence Ordering in Multidocument News Summarization", 
+      "url": "https://www.semanticscholar.org/paper/17ab02894d728a584a4cfbd2d73edafdc209f000", 
+      "venue": "J. Artif. Intell. Res.", 
+      "year": 2002
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "c4775e2f0d27e8be4aae7b5b5c2560b96ce2eb58", 
+      "title": "A Maximum Likelihood Approach to Continuous Speech Recognition", 
+      "url": "https://www.semanticscholar.org/paper/c4775e2f0d27e8be4aae7b5b5c2560b96ce2eb58", 
+      "venue": "IEEE Transactions on Pattern Analysis and Machine Intelligence", 
+      "year": 1983
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "9f9c7afc1862f0eab7d782dbb8c3fb92a530c668", 
+      "title": "UMD/BBN at MSE2005", 
+      "url": "https://www.semanticscholar.org/paper/9f9c7afc1862f0eab7d782dbb8c3fb92a530c668", 
+      "venue": "", 
+      "year": null
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "014ff1eac046518a57ba2f1a75b1aa50579cc594", 
+      "title": "Multi-Document Summarization By Sentence Extraction", 
+      "url": "https://www.semanticscholar.org/paper/014ff1eac046518a57ba2f1a75b1aa50579cc594", 
+      "venue": "", 
+      "year": 2000
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "c9b9f558975f897a23814cc22bb068dda4b85ecc", 
+      "title": "Comparing Topiary-Style Approaches to Headline Generation", 
+      "url": "https://www.semanticscholar.org/paper/c9b9f558975f897a23814cc22bb068dda4b85ecc", 
+      "venue": "ECIR", 
+      "year": 2005
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "07ee326d44c33b38dfed34e3a40f9be56cd99a80", 
+      "title": "A maximum likelihood model for topic classification of broadcast news", 
+      "url": "https://www.semanticscholar.org/paper/07ee326d44c33b38dfed34e3a40f9be56cd99a80", 
+      "venue": "EUROSPEECH", 
+      "year": 1997
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "25f51f4132626a645924b3c8b3edcbdcc35c48a3", 
+      "title": "Statistics-Based Summarization - Step One: Sentence Compression", 
+      "url": "https://www.semanticscholar.org/paper/25f51f4132626a645924b3c8b3edcbdcc35c48a3", 
+      "venue": "AAAI/IAAI", 
+      "year": 2000
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "74e846fc9044193727fc901f2938580bc498ea7d", 
+      "title": "A Sentence-Trimming Approach to Multi-Document Summarization", 
+      "url": "https://www.semanticscholar.org/paper/74e846fc9044193727fc901f2938580bc498ea7d", 
+      "venue": "", 
+      "year": 2005
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "135d89a35623359aa3af7ce6f95b0078c6acc43a", 
+      "title": "Introducing the Enron Corpus", 
+      "url": "https://www.semanticscholar.org/paper/135d89a35623359aa3af7ce6f95b0078c6acc43a", 
+      "venue": "CEAS", 
+      "year": 2004
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "02feb53414aa740109f8fa7c32037c2776dc5700", 
+      "title": "Columbia University at Duc 2004", 
+      "url": "https://www.semanticscholar.org/paper/02feb53414aa740109f8fa7c32037c2776dc5700", 
+      "venue": "", 
+      "year": 2004
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "76c452b8934051aef5e91ea66db21d6749f1086c", 
+      "title": "Probabilistic Text Structuring: Experiments with Sentence Ordering", 
+      "url": "https://www.semanticscholar.org/paper/76c452b8934051aef5e91ea66db21d6749f1086c", 
+      "venue": "ACL", 
+      "year": 2003
+    }, 
+    {
+      "isInfluential": true, 
+      "paperId": "04d458a49065e9cad46b243d004436a9cede3483", 
+      "title": "Automatic Evaluation of Summaries Using N-gram Co-occurrence Statistics", 
+      "url": "https://www.semanticscholar.org/paper/04d458a49065e9cad46b243d004436a9cede3483", 
+      "venue": "HLT-NAACL", 
+      "year": 2003
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "6e5551731cfb63ad3172c24814405645ab62bda8", 
+      "title": "A Statistical Approach to Machine Translation", 
+      "url": "https://www.semanticscholar.org/paper/6e5551731cfb63ad3172c24814405645ab62bda8", 
+      "venue": "Computational Linguistics", 
+      "year": 1990
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "cab06b769181cc0f92ff2af572a5f1a3325e1527", 
+      "title": "Context based spelling correction", 
+      "url": "https://www.semanticscholar.org/paper/cab06b769181cc0f92ff2af572a5f1a3325e1527", 
+      "venue": "Inf. Process. Manage.", 
+      "year": 1991
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "56a9e7c7f50b6b15366d195e17432bf3a47cd0bf", 
+      "title": "Combining linguistic and machine learning techniques for email summarization", 
+      "url": "https://www.semanticscholar.org/paper/56a9e7c7f50b6b15366d195e17432bf3a47cd0bf", 
+      "venue": "CoNLL", 
+      "year": 2001
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "bff2b05f369187775640593dd152f8af723b76cd", 
+      "title": "Statistical Identi cation of Language", 
+      "url": "https://www.semanticscholar.org/paper/bff2b05f369187775640593dd152f8af723b76cd", 
+      "venue": "", 
+      "year": 1994
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "5c1b885aadd810cb31f6deac802cd7377dab0c94", 
+      "title": "CLASSY Query-Based Multi-Document Summarization", 
+      "url": "https://www.semanticscholar.org/paper/5c1b885aadd810cb31f6deac802cd7377dab0c94", 
+      "venue": "", 
+      "year": 2005
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "24347e3b018f73c0666bdea11c97de7a9be3db69", 
+      "title": "Exploiting aspectual features and connecting words for summarization-inspired temporal-relation extraction", 
+      "url": "https://www.semanticscholar.org/paper/24347e3b018f73c0666bdea11c97de7a9be3db69", 
+      "venue": "Inf. Process. Manage.", 
+      "year": 2007
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "225409e428b1bee7660f6700277c00c8ba9bd9b0", 
+      "title": "MEAD - A Platform for Multidocument Multilingual Text Summarization", 
+      "url": "https://www.semanticscholar.org/paper/225409e428b1bee7660f6700277c00c8ba9bd9b0", 
+      "venue": "LREC", 
+      "year": 2004
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "0e62df5526d150a6b8e7d45dcd64c783b98fb814", 
+      "title": "Cut and Paste Based Text Summarization", 
+      "url": "https://www.semanticscholar.org/paper/0e62df5526d150a6b8e7d45dcd64c783b98fb814", 
+      "venue": "ANLP", 
+      "year": 2000
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "ca93ef06d4d75bd5d3e4267e4bb07f6aaae82008", 
+      "title": "Tailoring Text Using Topic Words: Selection and Compression", 
+      "url": "https://www.semanticscholar.org/paper/ca93ef06d4d75bd5d3e4267e4bb07f6aaae82008", 
+      "venue": "DEXA Workshops", 
+      "year": 2002
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "e8778e77fab57bf3784f511a3fa3527f1648d80a", 
+      "title": "Hedge Trimmer: A Parse-and-Trim Approach to Headline Generation", 
+      "url": "https://www.semanticscholar.org/paper/e8778e77fab57bf3784f511a3fa3527f1648d80a", 
+      "venue": "", 
+      "year": null
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "fa07fa673d8c908e91d22c4566572a72548ccee9", 
+      "title": "Summarization beyond sentence extraction: A probabilistic approach to sentence compression", 
+      "url": "https://www.semanticscholar.org/paper/fa07fa673d8c908e91d22c4566572a72548ccee9", 
+      "venue": "Artif. Intell.", 
+      "year": 2002
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "d9413d1140df1a5986ddca446f1e9db1a6e08cb4", 
+      "title": "Microsoft Research at DUC2006: Task-Focused Summarization with Sentence Simplification and Lexical Expansion", 
+      "url": "https://www.semanticscholar.org/paper/d9413d1140df1a5986ddca446f1e9db1a6e08cb4", 
+      "venue": "", 
+      "year": 2006
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "9d08213ede54c4e205d18b4400288831af918ec8", 
+      "title": "Headline Generation Based on Statistical Translation", 
+      "url": "https://www.semanticscholar.org/paper/9d08213ede54c4e205d18b4400288831af918ec8", 
+      "venue": "ACL", 
+      "year": 2000
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "277c68718ebdf79be1d79cb957ac468fa4519277", 
+      "title": "Error bounds for convolutional codes and an asymptotically optimum decoding algorithm", 
+      "url": "https://www.semanticscholar.org/paper/277c68718ebdf79be1d79cb957ac468fa4519277", 
+      "venue": "IEEE Trans. Information Theory", 
+      "year": 1967
+    }, 
+    {
+      "isInfluential": true, 
+      "paperId": "67d6385fdb6e2187ce08294f5fdd5252242215bb", 
+      "title": "BBN/UMD at DUC-2004: Topiary", 
+      "url": "https://www.semanticscholar.org/paper/67d6385fdb6e2187ce08294f5fdd5252242215bb", 
+      "venue": "", 
+      "year": 2004
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "d9da9be266b1739dea7691302dc7eb4d33677802", 
+      "title": "Models for Sentence Compression: A Comparison across Domains, Training Requirements and Evaluation Measures", 
+      "url": "https://www.semanticscholar.org/paper/d9da9be266b1739dea7691302dc7eb4d33677802", 
+      "venue": "ACL", 
+      "year": 2006
+    }, 
+    {
+      "isInfluential": true, 
+      "paperId": "10ce81dadc2e07d69c8a4f0bbdf7d14b3f37882e", 
+      "title": "The Use of MMR, Diversity-Based Reranking for Reordering Documents and Producing Summaries", 
+      "url": "https://www.semanticscholar.org/paper/10ce81dadc2e07d69c8a4f0bbdf7d14b3f37882e", 
+      "venue": "SIGIR", 
+      "year": 1998
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "6926c4a61777fdd45399b59ca03d9a7fae410c75", 
+      "title": "A Maximum-Entropy-Inspired Parser", 
+      "url": "https://www.semanticscholar.org/paper/6926c4a61777fdd45399b59ca03d9a7fae410c75", 
+      "venue": "ANLP", 
+      "year": 2000
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "86b184b20a4fe56ee195bac6fc94945833c09cca", 
+      "title": "Improving Chronological Sentence Ordering by Precedence Relation", 
+      "url": "https://www.semanticscholar.org/paper/86b184b20a4fe56ee195bac6fc94945833c09cca", 
+      "venue": "COLING", 
+      "year": 2004
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "3f85adfa8657b53e36d23bca19d5b5581de69b28", 
+      "title": "Multiple Alternative Sentence Compressions as a Tool for Automatic Summarization Tasks", 
+      "url": "https://www.semanticscholar.org/paper/3f85adfa8657b53e36d23bca19d5b5581de69b28", 
+      "venue": "", 
+      "year": 2007
+    }
+  ], 
+  "title": "Multi-candidate reduction: Sentence compression as a tool for document summarization tasks", 
+  "url": "https://www.semanticscholar.org/paper/043d65d1b0d0696ea6143a14117d770cd30326d1", 
+  "venue": "Inf. Process. Manage.", 
+  "year": 2007
+}

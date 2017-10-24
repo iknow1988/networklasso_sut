@@ -1,0 +1,603 @@
+{
+  "authors": [
+    {
+      "authorId": "2539693", 
+      "name": "Zhongqing Wang", 
+      "url": "https://www.semanticscholar.org/author/2539693"
+    }, 
+    {
+      "authorId": "2534138", 
+      "name": "Sophia Yat Mei Lee", 
+      "url": "https://www.semanticscholar.org/author/2534138"
+    }, 
+    {
+      "authorId": "2988614", 
+      "name": "Shoushan Li", 
+      "url": "https://www.semanticscholar.org/author/2988614"
+    }, 
+    {
+      "authorId": "1713380", 
+      "name": "Guodong Zhou", 
+      "url": "https://www.semanticscholar.org/author/1713380"
+    }
+  ], 
+  "citationVelocity": 0, 
+  "citations": [], 
+  "doi": "10.1109/TASLP.2016.2637280", 
+  "influentialCitationCount": 0, 
+  "paperId": "c89be4921726055ab0bd5f3411c742c180b4b769", 
+  "references": [
+    {
+      "isInfluential": false, 
+      "paperId": "9508282d1694d3464e241832a130ace3af0deeab", 
+      "title": "Combination of Recurrent Neural Networks and Factored Language Models for Code-Switching Language Modeling", 
+      "url": "https://www.semanticscholar.org/paper/9508282d1694d3464e241832a130ace3af0deeab", 
+      "venue": "ACL", 
+      "year": 2013
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "88b112c8cc0a9996bd8911bacc6b2bcb4486aa9f", 
+      "title": "Active Learning for Cross-domain Sentiment Classification", 
+      "url": "https://www.semanticscholar.org/paper/88b112c8cc0a9996bd8911bacc6b2bcb4486aa9f", 
+      "venue": "IJCAI", 
+      "year": 2013
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "dafd98cd1b43c758e82119d956624a1a9df634eb", 
+      "title": "Learning to Predict Code-Switching Points", 
+      "url": "https://www.semanticscholar.org/paper/dafd98cd1b43c758e82119d956624a1a9df634eb", 
+      "venue": "EMNLP", 
+      "year": 2008
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "840316a78a63560b609f7d9705aa4d39c80657a4", 
+      "title": "Identifying Text Polarity Using Random Walks", 
+      "url": "https://www.semanticscholar.org/paper/840316a78a63560b609f7d9705aa4d39c80657a4", 
+      "venue": "ACL", 
+      "year": 2010
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "a6a4c3409fadd0eb79ca29a7127c2cc3031a7441", 
+      "title": "Global Learning of Noun Phrase Anaphoricity in Coreference Resolution via Label Propagation", 
+      "url": "https://www.semanticscholar.org/paper/a6a4c3409fadd0eb79ca29a7127c2cc3031a7441", 
+      "venue": "EMNLP", 
+      "year": 2009
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "df12d09c5f12ef8c6aceeda4f83a25f807e0ea45", 
+      "title": "Emotion Cause Detection with Linguistic Constructions", 
+      "url": "https://www.semanticscholar.org/paper/df12d09c5f12ef8c6aceeda4f83a25f807e0ea45", 
+      "venue": "COLING", 
+      "year": 2010
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "5f1b074fda596c41c1d22cee7a7d1cd8df156da2", 
+      "title": "Part-of-Speech Tagging for Code-Mixed English-Hindi Twitter and Facebook Chat Messages", 
+      "url": "https://www.semanticscholar.org/paper/5f1b074fda596c41c1d22cee7a7d1cd8df156da2", 
+      "venue": "RANLP", 
+      "year": 2015
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "6627fd14822c817ada125167aff1294622f87841", 
+      "title": "Unsupervised Code-Switching for Multilingual Historical Document Transcription", 
+      "url": "https://www.semanticscholar.org/paper/6627fd14822c817ada125167aff1294622f87841", 
+      "venue": "HLT-NAACL", 
+      "year": 2015
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "1d6a230833341338a493efdc3dd611454e9e45d5", 
+      "title": "Actively learning to infer social ties", 
+      "url": "https://www.semanticscholar.org/paper/1d6a230833341338a493efdc3dd611454e9e45d5", 
+      "venue": "Data Mining and Knowledge Discovery", 
+      "year": 2012
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "d5bf0a58acf863dae964c4621fa8196f82959b6a", 
+      "title": "An Event-Based Emotion Corpus", 
+      "url": "https://www.semanticscholar.org/paper/d5bf0a58acf863dae964c4621fa8196f82959b6a", 
+      "venue": "CLSW", 
+      "year": 2013
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "114c00cd0134a39b9510f62f66e0a1b468920176", 
+      "title": "Document-Word Co-regularization for Semi-supervised Sentiment Analysis", 
+      "url": "https://www.semanticscholar.org/paper/114c00cd0134a39b9510f62f66e0a1b468920176", 
+      "venue": "2008 Eighth IEEE International Conference on Data Mining", 
+      "year": 2008
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "0c7f52c753a65ceaf3755e20b906ffd0c05c994a", 
+      "title": "Conditional Random Fields: Probabilistic Models for Segmenting and Labeling Sequence Data", 
+      "url": "https://www.semanticscholar.org/paper/0c7f52c753a65ceaf3755e20b906ffd0c05c994a", 
+      "venue": "ICML", 
+      "year": 2001
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "2dc147a786e305958987c2cab59ffb58a64ea97b", 
+      "title": "Inferring Social Ties across Heterogeneous Networks", 
+      "url": "https://www.semanticscholar.org/paper/2dc147a786e305958987c2cab59ffb58a64ea97b", 
+      "venue": "", 
+      "year": 2011
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "0cf46b914d3eac376bf00ecacbae9ec02c15ad84", 
+      "title": "Joint learning on sentiment and emotion classification", 
+      "url": "https://www.semanticscholar.org/paper/0cf46b914d3eac376bf00ecacbae9ec02c15ad84", 
+      "venue": "CIKM", 
+      "year": 2013
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "5e4a3308af0216f6cee47b6942f52a2bc3d39ff1", 
+      "title": "Joint Bilingual Sentiment Classification with Unlabeled Parallel Corpora", 
+      "url": "https://www.semanticscholar.org/paper/5e4a3308af0216f6cee47b6942f52a2bc3d39ff1", 
+      "venue": "ACL", 
+      "year": 2011
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "b42e04a1b7bf2e339757040d03b8c4da83275782", 
+      "title": "Annotating Events in an Emotion Corpus", 
+      "url": "https://www.semanticscholar.org/paper/b42e04a1b7bf2e339757040d03b8c4da83275782", 
+      "venue": "LREC", 
+      "year": 2014
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "63fe1fcc9f89bfc659043c650d2ea98dc5fee6c0", 
+      "title": "Joint Sentiment and Emotion Classification with Integer Linear Programming", 
+      "url": "https://www.semanticscholar.org/paper/63fe1fcc9f89bfc659043c650d2ea98dc5fee6c0", 
+      "venue": "DASFAA Workshops", 
+      "year": 2015
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "58bf6e8844411a1a456e6624120eaaa881322085", 
+      "title": "Exploiting Bilingual Information to Improve Web Search", 
+      "url": "https://www.semanticscholar.org/paper/58bf6e8844411a1a456e6624120eaaa881322085", 
+      "venue": "ACL/IJCNLP", 
+      "year": 2009
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "e562ed354a72d1e618d5d80b2f5c05c2d2522ac7", 
+      "title": "Cross Language Dependency Parsing using a Bilingual Lexicon", 
+      "url": "https://www.semanticscholar.org/paper/e562ed354a72d1e618d5d80b2f5c05c2d2522ac7", 
+      "venue": "ACL/IJCNLP", 
+      "year": 2009
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "15f2950f3bcafd5b07f76cea8fc354cd50c9a195", 
+      "title": "Social context summarization", 
+      "url": "https://www.semanticscholar.org/paper/15f2950f3bcafd5b07f76cea8fc354cd50c9a195", 
+      "venue": "SIGIR", 
+      "year": 2011
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "ec59c38b4124836b7b2c195874dc0c593c125af1", 
+      "title": "Skill Inference with Personal and Skill Connections", 
+      "url": "https://www.semanticscholar.org/paper/ec59c38b4124836b7b2c195874dc0c593c125af1", 
+      "venue": "COLING", 
+      "year": 2014
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "4f32a4ff071b20dac72ad6c3b19ed4b98c09c66d", 
+      "title": "Sentiment Analysis on Monolingual, Multilingual and Code-Switching Twitter Corpora", 
+      "url": "https://www.semanticscholar.org/paper/4f32a4ff071b20dac72ad6c3b19ed4b98c09c66d", 
+      "venue": "WASSA@EMNLP", 
+      "year": 2015
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "fe0f5fb7791dfef081e18a95fa0f9b0c6796f833", 
+      "title": "Recognizing Contextual Polarity: An Exploration of Features for Phrase-Level Sentiment Analysis", 
+      "url": "https://www.semanticscholar.org/paper/fe0f5fb7791dfef081e18a95fa0f9b0c6796f833", 
+      "venue": "Computational Linguistics", 
+      "year": 2009
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "c8c5eacc0c2c2d95ae3c6d43ed1dc90e7af369a3", 
+      "title": "Build Chinese Emotion Lexicons Using A Graph-based Algorithm and Multiple Resources", 
+      "url": "https://www.semanticscholar.org/paper/c8c5eacc0c2c2d95ae3c6d43ed1dc90e7af369a3", 
+      "venue": "COLING", 
+      "year": 2010
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "89940c8c55868dac70bf79f901b04866b60564f7", 
+      "title": "Mining triadic closure patterns in social networks", 
+      "url": "https://www.semanticscholar.org/paper/89940c8c55868dac70bf79f901b04866b60564f7", 
+      "venue": "WWW", 
+      "year": 2014
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "1a51e5c06e141eb23ec17071b681155332f1d22e", 
+      "title": "COSNET: Connecting Heterogeneous Social Networks with Local and Global Consistency", 
+      "url": "https://www.semanticscholar.org/paper/1a51e5c06e141eb23ec17071b681155332f1d22e", 
+      "venue": "KDD", 
+      "year": 2015
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "da7dbff27830e6a0a94beba3fd1d34f89584af19", 
+      "title": "Construction of a Blog Emotion Corpus for Chinese Emotional Expression Analysis", 
+      "url": "https://www.semanticscholar.org/paper/da7dbff27830e6a0a94beba3fd1d34f89584af19", 
+      "venue": "EMNLP", 
+      "year": 2009
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "851332942f7cfbd74e3f2799309c1383fa547fb6", 
+      "title": "Cross-language context-aware citation recommendation in scientific articles", 
+      "url": "https://www.semanticscholar.org/paper/851332942f7cfbd74e3f2799309c1383fa547fb6", 
+      "venue": "SIGIR", 
+      "year": 2014
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "97e0304db883c30393534adc5dea2c891b50280c", 
+      "title": "Code-Switch Language Model with Inversion Constraints for Mixed Language Speech Recognition", 
+      "url": "https://www.semanticscholar.org/paper/97e0304db883c30393534adc5dea2c891b50280c", 
+      "venue": "COLING", 
+      "year": 2012
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "193630365d22813aa3bf7f7fa35e9e97c4c4ea8b", 
+      "title": "Microblogs as Parallel Corpora", 
+      "url": "https://www.semanticscholar.org/paper/193630365d22813aa3bf7f7fa35e9e97c4c4ea8b", 
+      "venue": "ACL", 
+      "year": 2013
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "411a358282fbe9c7d97bdb9d9d008f2f03cafbc1", 
+      "title": "Opinion Target Extraction Using a Shallow Semantic Parsing Framework", 
+      "url": "https://www.semanticscholar.org/paper/411a358282fbe9c7d97bdb9d9d008f2f03cafbc1", 
+      "venue": "AAAI", 
+      "year": 2012
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "f1919a525d36089619ad8d5be6504850c9fb80cd", 
+      "title": "Sentiment analysis of mixed language employing Hindi-English code switching", 
+      "url": "https://www.semanticscholar.org/paper/f1919a525d36089619ad8d5be6504850c9fb80cd", 
+      "venue": "ICMLC", 
+      "year": 2015
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "0a375ce5ce4bdad0494f5235f360341ed6a2e1a6", 
+      "title": "A Constituent-Based Approach to Argument Labeling with Joint Inference in Discourse Parsing", 
+      "url": "https://www.semanticscholar.org/paper/0a375ce5ce4bdad0494f5235f360341ed6a2e1a6", 
+      "venue": "EMNLP", 
+      "year": 2014
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "51331e1a0607285ab710bff9d6b25aadf2546ba6", 
+      "title": "The Enigmatic temporal pole: a review of findings on social and emotional processing.", 
+      "url": "https://www.semanticscholar.org/paper/51331e1a0607285ab710bff9d6b25aadf2546ba6", 
+      "venue": "Brain : a journal of neurology", 
+      "year": 2007
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "c80478e361ed8f5fd5400fdbd4f6a6f37a2e4b57", 
+      "title": "Emotion Classification in Microblog Texts Using Class Sequential Rules", 
+      "url": "https://www.semanticscholar.org/paper/c80478e361ed8f5fd5400fdbd4f6a6f37a2e4b57", 
+      "venue": "AAAI", 
+      "year": 2014
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "4f1fe957a29a2e422d4034f4510644714d33fb20", 
+      "title": "Thumbs up? Sentiment Classification using Machine Learning Techniques", 
+      "url": "https://www.semanticscholar.org/paper/4f1fe957a29a2e422d4034f4510644714d33fb20", 
+      "venue": "ArXiv", 
+      "year": 2002
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "2f43e557c30698d03dec1e153a38c1e506e4692b", 
+      "title": "JEAM: A Novel Model for Cross-Domain Sentiment Classification Based on Emotion Analysis", 
+      "url": "https://www.semanticscholar.org/paper/2f43e557c30698d03dec1e153a38c1e506e4692b", 
+      "venue": "EMNLP", 
+      "year": 2015
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "ce128085fc64ba061588c6c5c8baafd98dc60d1d", 
+      "title": "Sentiment Classification of Movie Reviews Using Contextual Valence Shifters", 
+      "url": "https://www.semanticscholar.org/paper/ce128085fc64ba061588c6c5c8baafd98dc60d1d", 
+      "venue": "Computational Intelligence", 
+      "year": 2006
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "94db635f54d25bdb95edb42185aca93ba53b051b", 
+      "title": "Biographies, Bollywood, Boom-boxes and Blenders: Domain Adaptation for Sentiment Classification", 
+      "url": "https://www.semanticscholar.org/paper/94db635f54d25bdb95edb42185aca93ba53b051b", 
+      "venue": "ACL", 
+      "year": 2007
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "4ff98b71c85e532ed0650e8f2eac04bbfb4d23e8", 
+      "title": "Employing Personal/Impersonal Views in Supervised and Semi-Supervised Sentiment Classification", 
+      "url": "https://www.semanticscholar.org/paper/4ff98b71c85e532ed0650e8f2eac04bbfb4d23e8", 
+      "venue": "ACL", 
+      "year": 2010
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "2c62b167662161bedcf4fe3d31afa0c261bcdcdc", 
+      "title": "Co-Training for Cross-Lingual Sentiment Classification", 
+      "url": "https://www.semanticscholar.org/paper/2c62b167662161bedcf4fe3d31afa0c261bcdcdc", 
+      "venue": "ACL/IJCNLP", 
+      "year": 2009
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "167e1359943b96b9e92ee73db1df69a1f65d731d", 
+      "title": "A Sentimental Education: Sentiment Analysis Using Subjectivity Summarization Based on Minimum Cuts", 
+      "url": "https://www.semanticscholar.org/paper/167e1359943b96b9e92ee73db1df69a1f65d731d", 
+      "venue": "ACL", 
+      "year": 2004
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "37fadfb6d60e83e24c72d8a90da5644b39d6e8f0", 
+      "title": "Discriminative Training and Maximum Entropy Models for Statistical Machine Translation", 
+      "url": "https://www.semanticscholar.org/paper/37fadfb6d60e83e24c72d8a90da5644b39d6e8f0", 
+      "venue": "ACL", 
+      "year": 2002
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "02b06216792c921f93a63336884b59aeff29f373", 
+      "title": "Annotating Expressions of Opinions and Emotions in Language", 
+      "url": "https://www.semanticscholar.org/paper/02b06216792c921f93a63336884b59aeff29f373", 
+      "venue": "Language Resources and Evaluation", 
+      "year": 2005
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "2a4ca461fa847e8433bab67e7bfe4620371c1f77", 
+      "title": "Learning from Labeled and Unlabeled Data with Label Propagation", 
+      "url": "https://www.semanticscholar.org/paper/2a4ca461fa847e8433bab67e7bfe4620371c1f77", 
+      "venue": "", 
+      "year": 2002
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "b1fdb8b765178866ff7d9f7cba3ae01cc1a047f9", 
+      "title": "Emotion in Code-switching Texts: Corpus Construction and Analysis", 
+      "url": "https://www.semanticscholar.org/paper/b1fdb8b765178866ff7d9f7cba3ae01cc1a047f9", 
+      "venue": "", 
+      "year": 2015
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "e8333ae1ac0b3acd7e654012603d7351b4045205", 
+      "title": "[Facial Action Coding System (FACS): an instrument for the objective evaluation of facial expression and its potential applications to the study of schizophrenia].", 
+      "url": "https://www.semanticscholar.org/paper/e8333ae1ac0b3acd7e654012603d7351b4045205", 
+      "venue": "Rivista di psichiatria", 
+      "year": 2012
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "836f5bc6b13404790d01c337e71511c1eed96b53", 
+      "title": "A Corpus-based Approach to Finding Happiness", 
+      "url": "https://www.semanticscholar.org/paper/836f5bc6b13404790d01c337e71511c1eed96b53", 
+      "venue": "AAAI Spring Symposium: Computational Approaches to Analyzing Weblogs", 
+      "year": 2006
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "13e5f0c40c85ca8e01b3756963d5352358de7c29", 
+      "title": "Mining and summarizing customer reviews", 
+      "url": "https://www.semanticscholar.org/paper/13e5f0c40c85ca8e01b3756963d5352358de7c29", 
+      "venue": "KDD", 
+      "year": 2004
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "111cfff70d8cd7efa6a8159f45b69a9f270c5e2b", 
+      "title": "CLex: A Lexicon for Exploring Color, Concept and Emotion Associations in Language", 
+      "url": "https://www.semanticscholar.org/paper/111cfff70d8cd7efa6a8159f45b69a9f270c5e2b", 
+      "venue": "EACL", 
+      "year": 2012
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "5fae7e4c82e89908417c5188f1509f3f87f46a88", 
+      "title": "Discriminative Deep Random Walk for Network Classification", 
+      "url": "https://www.semanticscholar.org/paper/5fae7e4c82e89908417c5188f1509f3f87f46a88", 
+      "venue": "ACL", 
+      "year": 2016
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "393883577a635c9de9bdb482576b47a193ff394e", 
+      "title": "Cross Lingual Adaptation: An Experiment on Sentiment Classifications", 
+      "url": "https://www.semanticscholar.org/paper/393883577a635c9de9bdb482576b47a193ff394e", 
+      "venue": "ACL", 
+      "year": 2010
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "72c59f83dba51384e3237c00b42d784c004756a3", 
+      "title": "Two Languages are Better than One (for Syntactic Parsing)", 
+      "url": "https://www.semanticscholar.org/paper/72c59f83dba51384e3237c00b42d784c004756a3", 
+      "venue": "EMNLP", 
+      "year": 2008
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "775062bdc0bc645d2e28a7465f39c5bb405373a2", 
+      "title": "Evolution of Facial Expression.", 
+      "url": "https://www.semanticscholar.org/paper/775062bdc0bc645d2e28a7465f39c5bb405373a2", 
+      "venue": "Science", 
+      "year": 1963
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "5a67a42297f0d5123e5e0d119c8934c45fea3837", 
+      "title": "Disentangling the brain networks supporting affective speech comprehension", 
+      "url": "https://www.semanticscholar.org/paper/5a67a42297f0d5123e5e0d119c8934c45fea3837", 
+      "venue": "NeuroImage", 
+      "year": 2012
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "2cf3ac82532de2337a4b0f291d19eb2a3ec49fa5", 
+      "title": "Using Bilingual Knowledge and Ensemble Techniques for Unsupervised Chinese Sentiment Analysis", 
+      "url": "https://www.semanticscholar.org/paper/2cf3ac82532de2337a4b0f291d19eb2a3ec49fa5", 
+      "venue": "EMNLP", 
+      "year": 2008
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "ac88d40194a263160be091f192e4c29d8afc93e2", 
+      "title": "Learning Polylingual Topic Models from Code-Switched Social Media Documents", 
+      "url": "https://www.semanticscholar.org/paper/ac88d40194a263160be091f192e4c29d8afc93e2", 
+      "venue": "ACL", 
+      "year": 2014
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "5d2e8e27b9afe4f4cc157fc40e16d2143e302b89", 
+      "title": "Sentence-level Emotion Classification with Label and Context Dependence", 
+      "url": "https://www.semanticscholar.org/paper/5d2e8e27b9afe4f4cc157fc40e16d2143e302b89", 
+      "venue": "ACL", 
+      "year": 2015
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "aa921b2f3d7cc679ca059ffaaeb5a45d6e306818", 
+      "title": "Joint Modeling of News Reader's and Comment Writer's Emotions", 
+      "url": "https://www.semanticscholar.org/paper/aa921b2f3d7cc679ca059ffaaeb5a45d6e306818", 
+      "venue": "ACL", 
+      "year": 2013
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "de3dff4668c354a0cfcbc584c2e18831bdecf439", 
+      "title": "Building Word-Emotion Mapping Dictionary for Online News", 
+      "url": "https://www.semanticscholar.org/paper/de3dff4668c354a0cfcbc584c2e18831bdecf439", 
+      "venue": "", 
+      "year": 2012
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "c55db46bcb9b326d349631aaafe7793f67f2d6bb", 
+      "title": "Emotional context at learning systematically biases memory for facial information.", 
+      "url": "https://www.semanticscholar.org/paper/c55db46bcb9b326d349631aaafe7793f67f2d6bb", 
+      "venue": "Memory & cognition", 
+      "year": 2010
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "6e5551731cfb63ad3172c24814405645ab62bda8", 
+      "title": "A Statistical Approach to Machine Translation", 
+      "url": "https://www.semanticscholar.org/paper/6e5551731cfb63ad3172c24814405645ab62bda8", 
+      "venue": "Computational Linguistics", 
+      "year": 1990
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "af7a442723b5c1a0becc1bd496b6382506c2026a", 
+      "title": "Cross-Lingual Mixture Model for Sentiment Classification", 
+      "url": "https://www.semanticscholar.org/paper/af7a442723b5c1a0becc1bd496b6382506c2026a", 
+      "venue": "ACL", 
+      "year": 2012
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "0cdfd82b6b66f37ca69390818ee10f5f4dd63a29", 
+      "title": "A Topic Model for Building Fine-grained Domain-specific Emotion Lexicon", 
+      "url": "https://www.semanticscholar.org/paper/0cdfd82b6b66f37ca69390818ee10f5f4dd63a29", 
+      "venue": "ACL", 
+      "year": 2014
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "33be1def7b3b4905e7220eee64e3dbf156579360", 
+      "title": "Integer linear programming inference for conditional random fields", 
+      "url": "https://www.semanticscholar.org/paper/33be1def7b3b4905e7220eee64e3dbf156579360", 
+      "venue": "ICML", 
+      "year": 2005
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "033b62167e7358c429738092109311af696e9137", 
+      "title": "Thumbs Up or Thumbs Down? Semantic Orientation Applied to Unsupervised Classification of Reviews", 
+      "url": "https://www.semanticscholar.org/paper/033b62167e7358c429738092109311af696e9137", 
+      "venue": "ACL", 
+      "year": 2002
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "41ce51346d25d73e6b5d7cc7413ecc77719a74b6", 
+      "title": "Combining coregularization and consensus-based self-training for multilingual text categorization", 
+      "url": "https://www.semanticscholar.org/paper/41ce51346d25d73e6b5d7cc7413ecc77719a74b6", 
+      "venue": "SIGIR", 
+      "year": 2010
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "937cb331e1c0c09c5c7b3fed4df9d1436be44b71", 
+      "title": "Random Walks on Context-Aware Relation Graphs for Ranking Social Tags", 
+      "url": "https://www.semanticscholar.org/paper/937cb331e1c0c09c5c7b3fed4df9d1436be44b71", 
+      "venue": "COLING", 
+      "year": 2012
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "05bef557988228ebf67d8adcf0bfc7fc0b245b88", 
+      "title": "Syntactic and Semantic Features For Code-Switching Factored Language Models", 
+      "url": "https://www.semanticscholar.org/paper/05bef557988228ebf67d8adcf0bfc7fc0b245b88", 
+      "venue": "IEEE/ACM Transactions on Audio, Speech, and Language Processing", 
+      "year": 2015
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "53f395fac2593b55467e63d65955a6f4cf3a5087", 
+      "title": "Detecting Emotion Causes with a Linguistic Rule-Based Approach", 
+      "url": "https://www.semanticscholar.org/paper/53f395fac2593b55467e63d65955a6f4cf3a5087", 
+      "venue": "Computational Intelligence", 
+      "year": 2013
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "9354e1a576e7a8f72634a6e54a77efd599ce297d", 
+      "title": "Emotion Vocabulary in Interlanguage", 
+      "url": "https://www.semanticscholar.org/paper/9354e1a576e7a8f72634a6e54a77efd599ce297d", 
+      "venue": "", 
+      "year": 2002
+    }
+  ], 
+  "title": "Emotion Analysis in Code-Switching Text With Joint Factor Graph Model", 
+  "url": "https://www.semanticscholar.org/paper/c89be4921726055ab0bd5f3411c742c180b4b769", 
+  "venue": "IEEE/ACM Transactions on Audio, Speech, and Language Processing", 
+  "year": 2017
+}

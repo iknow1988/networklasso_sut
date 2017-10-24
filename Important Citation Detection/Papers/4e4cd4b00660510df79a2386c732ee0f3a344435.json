@@ -1,0 +1,596 @@
+{
+  "authors": [
+    {
+      "authorId": "1750766", 
+      "name": "Jie Tang", 
+      "url": "https://www.semanticscholar.org/author/1750766"
+    }, 
+    {
+      "authorId": "1712875", 
+      "name": "Tiancheng Lou", 
+      "url": "https://www.semanticscholar.org/author/1712875"
+    }, 
+    {
+      "authorId": "3371403", 
+      "name": "Jon M. Kleinberg", 
+      "url": "https://www.semanticscholar.org/author/3371403"
+    }, 
+    {
+      "authorId": "1878531", 
+      "name": "Sen Wu", 
+      "url": "https://www.semanticscholar.org/author/1878531"
+    }
+  ], 
+  "citationVelocity": 0, 
+  "citations": [
+    {
+      "isInfluential": false, 
+      "paperId": "392b1573c9cdbb3ef0387963e82310f7be068a45", 
+      "title": "User Modeling on Demographic Attributes in Big Mobile Social Networks", 
+      "url": "https://www.semanticscholar.org/paper/392b1573c9cdbb3ef0387963e82310f7be068a45", 
+      "venue": "TOIS", 
+      "year": 2017
+    }
+  ], 
+  "doi": "10.1145/2746230", 
+  "influentialCitationCount": 0, 
+  "paperId": "4e4cd4b00660510df79a2386c732ee0f3a344435", 
+  "references": [
+    {
+      "isInfluential": false, 
+      "paperId": "5c6005ea3753b8a5209b402e2ba1e64f466141c5", 
+      "title": "Mining structural hole spanners through information diffusion in social networks", 
+      "url": "https://www.semanticscholar.org/paper/5c6005ea3753b8a5209b402e2ba1e64f466141c5", 
+      "venue": "WWW", 
+      "year": 2013
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "ecf3763b7005e403ed9b394d78b19ce61ca1a73b", 
+      "title": "The Strength of Weak Ties'", 
+      "url": "https://www.semanticscholar.org/paper/ecf3763b7005e403ed9b394d78b19ce61ca1a73b", 
+      "venue": "", 
+      "year": 2014
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "14bf5eec662109371eb45b6028a9160a2efb9cad", 
+      "title": "The Two-Step Flow of Communication: An Up-To-Date Report on an Hypothesis", 
+      "url": "https://www.semanticscholar.org/paper/14bf5eec662109371eb45b6028a9160a2efb9cad", 
+      "venue": "", 
+      "year": 2015
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "09ef6b06bf395b86d54e490ad61bf8a808f5a262", 
+      "title": "CoupledLP: Link Prediction in Coupled Networks", 
+      "url": "https://www.semanticscholar.org/paper/09ef6b06bf395b86d54e490ad61bf8a808f5a262", 
+      "venue": "KDD", 
+      "year": 2015
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "482602c6b14717a6f77ca84520f4145e84bd7e79", 
+      "title": "Learning to Infer Social Ties in Large Networks", 
+      "url": "https://www.semanticscholar.org/paper/482602c6b14717a6f77ca84520f4145e84bd7e79", 
+      "venue": "ECML/PKDD", 
+      "year": 2011
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "1d6a230833341338a493efdc3dd611454e9e45d5", 
+      "title": "Actively learning to infer social ties", 
+      "url": "https://www.semanticscholar.org/paper/1d6a230833341338a493efdc3dd611454e9e45d5", 
+      "venue": "Data Mining and Knowledge Discovery", 
+      "year": 2012
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "407d35f338d15cb063ae1e38b980e47e1cb5e877", 
+      "title": "Predicting Social Links for New Users across Aligned Heterogeneous Social Networks", 
+      "url": "https://www.semanticscholar.org/paper/407d35f338d15cb063ae1e38b980e47e1cb5e877", 
+      "venue": "2013 IEEE 13th International Conference on Data Mining", 
+      "year": 2013
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "1a51e5c06e141eb23ec17071b681155332f1d22e", 
+      "title": "COSNET: Connecting Heterogeneous Social Networks with Local and Global Consistency", 
+      "url": "https://www.semanticscholar.org/paper/1a51e5c06e141eb23ec17071b681155332f1d22e", 
+      "venue": "KDD", 
+      "year": 2015
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "19d8f0036e3ea909e5650fe7129225e3d935d6ba", 
+      "title": "Social action tracking via noise tolerant time-varying factor graphs", 
+      "url": "https://www.semanticscholar.org/paper/19d8f0036e3ea909e5650fe7129225e3d935d6ba", 
+      "venue": "KDD", 
+      "year": 2010
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "39348c10c90be968357e2a6b65d5e0e479307735", 
+      "title": "Friends and neighbors on the Web", 
+      "url": "https://www.semanticscholar.org/paper/39348c10c90be968357e2a6b65d5e0e479307735", 
+      "venue": "Social Networks", 
+      "year": 2003
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "0740014dc7aa6dd46cd2ee64360eef49b8d6210b", 
+      "title": "Multi-Task Feature Learning", 
+      "url": "https://www.semanticscholar.org/paper/0740014dc7aa6dd46cd2ee64360eef49b8d6210b", 
+      "venue": "NIPS", 
+      "year": 2006
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "9c91ca0168b30ec57f9f5ddfac19ae9a7afc20e8", 
+      "title": "Modeling Users' Activity on Twitter Networks: Validation of Dunbar's Number", 
+      "url": "https://www.semanticscholar.org/paper/9c91ca0168b30ec57f9f5ddfac19ae9a7afc20e8", 
+      "venue": "PloS one", 
+      "year": 2011
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "5009f8fdb7947000554b474c5ce287f5ce48ee08", 
+      "title": "Variational Approximations between Mean Field Theory and the Junction Tree Algorithm", 
+      "url": "https://www.semanticscholar.org/paper/5009f8fdb7947000554b474c5ce287f5ce48ee08", 
+      "venue": "UAI", 
+      "year": 2000
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "5cb568b298851d5765039601801e310150004509", 
+      "title": "An Algorithm for Transfer Learning in a Heterogeneous Environment", 
+      "url": "https://www.semanticscholar.org/paper/5cb568b298851d5765039601801e310150004509", 
+      "venue": "ECML/PKDD", 
+      "year": 2008
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "6b730cbb57156bc6c452dd55bcf8d8d1c12de8d5", 
+      "title": "Actively Transfer Domain Knowledge", 
+      "url": "https://www.semanticscholar.org/paper/6b730cbb57156bc6c452dd55bcf8d8d1c12de8d5", 
+      "venue": "ECML/PKDD", 
+      "year": 2008
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "1f0612de1f191abadf250b78cd78f884203cca5e", 
+      "title": "Emergence of Scaling in Random Networks", 
+      "url": "https://www.semanticscholar.org/paper/1f0612de1f191abadf250b78cd78f884203cca5e", 
+      "venue": "", 
+      "year": 1999
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "2b98beb92b3fd808571d42d3514ff916a0a17366", 
+      "title": "Signed Networks in Social Media", 
+      "url": "https://www.semanticscholar.org/paper/2b98beb92b3fd808571d42d3514ff916a0a17366", 
+      "venue": "CHI", 
+      "year": 2010
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "53a584e57c757e3664109e42c8bf05667f0a8ca5", 
+      "title": "Suggesting friends using the implicit social graph", 
+      "url": "https://www.semanticscholar.org/paper/53a584e57c757e3664109e42c8bf05667f0a8ca5", 
+      "venue": "KDD", 
+      "year": 2010
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "33c83eb6ccdf6e34f1431e5aa9df6ae5646ae919", 
+      "title": "Co-clustering based classification for out-of-domain documents", 
+      "url": "https://www.semanticscholar.org/paper/33c83eb6ccdf6e34f1431e5aa9df6ae5646ae919", 
+      "venue": "KDD", 
+      "year": 2007
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "007f3290e1b5e3061a8b7089037ee775efc47b83", 
+      "title": "The link prediction problem for social networks", 
+      "url": "https://www.semanticscholar.org/paper/007f3290e1b5e3061a8b7089037ee775efc47b83", 
+      "venue": "CIKM", 
+      "year": 2003
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "7269155a0fe9f981de7d3f28de2cfade14d35a9d", 
+      "title": "Translated Learning: Transfer Learning across Different Feature Spaces", 
+      "url": "https://www.semanticscholar.org/paper/7269155a0fe9f981de7d3f28de2cfade14d35a9d", 
+      "venue": "NIPS", 
+      "year": 2008
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "566c89a1ace18f57ac3212e6d62634b501990b31", 
+      "title": "Discovering social circles in ego networks", 
+      "url": "https://www.semanticscholar.org/paper/566c89a1ace18f57ac3212e6d62634b501990b31", 
+      "venue": "TKDD", 
+      "year": 2014
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "b9e43395663f74c581982e9ca97a0d7057a0008c", 
+      "title": "An analysis of approximations for maximizing submodular set functions - I", 
+      "url": "https://www.semanticscholar.org/paper/b9e43395663f74c581982e9ca97a0d7057a0008c", 
+      "venue": "Math. Program.", 
+      "year": 1978
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "487ed99e00bf6803a53a6059ceccd1510a63e72d", 
+      "title": "An Analysis of Active Learning Strategies for Sequence Labeling Tasks", 
+      "url": "https://www.semanticscholar.org/paper/487ed99e00bf6803a53a6059ceccd1510a63e72d", 
+      "venue": "EMNLP", 
+      "year": 2008
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "6d70e92a79c18c3e3b28e3b64168d3266abb15a4", 
+      "title": "Clustering and preferential attachment in growing networks.", 
+      "url": "https://www.semanticscholar.org/paper/6d70e92a79c18c3e3b28e3b64168d3266abb15a4", 
+      "venue": "Physical review. E, Statistical, nonlinear, and soft matter physics", 
+      "year": 2001
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "24e6cf0796237f21c780a3f0c996817f57b3a1bd", 
+      "title": "Support-vector networks", 
+      "url": "https://www.semanticscholar.org/paper/24e6cf0796237f21c780a3f0c996817f57b3a1bd", 
+      "venue": "Machine Learning", 
+      "year": 1995
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "39116b28f1a94e7d0aec082fb325ffdeae430012", 
+      "title": "Propagation of trust and distrust", 
+      "url": "https://www.semanticscholar.org/paper/39116b28f1a94e7d0aec082fb325ffdeae430012", 
+      "venue": "WWW", 
+      "year": 2004
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "70b992c5d563b6fd198997dae32c2bc7cc78fb80", 
+      "title": "Efficient influence maximization in social networks", 
+      "url": "https://www.semanticscholar.org/paper/70b992c5d563b6fd198997dae32c2bc7cc78fb80", 
+      "venue": "KDD", 
+      "year": 2009
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "46225772ac4f68a003a26f053bb248d77c7dbf87", 
+      "title": "Link Prediction in Relational Data", 
+      "url": "https://www.semanticscholar.org/paper/46225772ac4f68a003a26f053bb248d77c7dbf87", 
+      "venue": "NIPS", 
+      "year": 2003
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "34ee11059d693642fa7a5376e96e147539a997b1", 
+      "title": "Networks, Crowds, and Markets - Reasoning About a Highly Connected World", 
+      "url": "https://www.semanticscholar.org/paper/34ee11059d693642fa7a5376e96e147539a997b1", 
+      "venue": "IEEE Technol. Soc. Mag.", 
+      "year": 2010
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "7cd6810c878a7d30950114f4243a6eeb46fc614e", 
+      "title": "Detecting Community Kernels in Large Social Networks", 
+      "url": "https://www.semanticscholar.org/paper/7cd6810c878a7d30950114f4243a6eeb46fc614e", 
+      "venue": "2011 IEEE 11th International Conference on Data Mining", 
+      "year": 2011
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "3e9b7edc8791c128288e30c91b7c62c4213e2b4c", 
+      "title": "Learning a meta-level prior for feature relevance from multiple related tasks", 
+      "url": "https://www.semanticscholar.org/paper/3e9b7edc8791c128288e30c91b7c62c4213e2b4c", 
+      "venue": "ICML", 
+      "year": 2007
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "0fa69f27691baf2d635c3b3c579325fcd32b6daf", 
+      "title": "Understanding retweeting behaviors in social networks", 
+      "url": "https://www.semanticscholar.org/paper/0fa69f27691baf2d635c3b3c579325fcd32b6daf", 
+      "venue": "CIKM", 
+      "year": 2010
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "4509771bb71500d411ced0d1cb53722fb73c9716", 
+      "title": "Boosting for transfer learning", 
+      "url": "https://www.semanticscholar.org/paper/4509771bb71500d411ced0d1cb53722fb73c9716", 
+      "venue": "ICML", 
+      "year": 2007
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "ff71759a3efa271670c1e7820873df872b4ca3b9", 
+      "title": "Metis * Unstructured Graph Partitioning and Sparse Matrix Ordering System Version 2.0", 
+      "url": "https://www.semanticscholar.org/paper/ff71759a3efa271670c1e7820873df872b4ca3b9", 
+      "venue": "", 
+      "year": 1995
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "444f4aa49df20291689b954681c40de849d080a5", 
+      "title": "Link Prediction and Recommendation across Heterogeneous Social Networks", 
+      "url": "https://www.semanticscholar.org/paper/444f4aa49df20291689b954681c40de849d080a5", 
+      "venue": "2012 IEEE 12th International Conference on Data Mining", 
+      "year": 2012
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "0658a573bea01c3926d44f510c637a8314cc52ed", 
+      "title": "Who will follow you back?: reciprocal relationship prediction", 
+      "url": "https://www.semanticscholar.org/paper/0658a573bea01c3926d44f510c637a8314cc52ed", 
+      "venue": "CIKM", 
+      "year": 2011
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "7d2902c17ee53a758a3973e17ca056d69922f44c", 
+      "title": "Learning to predict reciprocity and triadic closure in social networks", 
+      "url": "https://www.semanticscholar.org/paper/7d2902c17ee53a758a3973e17ca056d69922f44c", 
+      "venue": "TKDD", 
+      "year": 2013
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "159fb65fca4bc9d989b2bfd01166ecbb8025867d", 
+      "title": "Mining advisor-advisee relationships from research publication networks", 
+      "url": "https://www.semanticscholar.org/paper/159fb65fca4bc9d989b2bfd01166ecbb8025867d", 
+      "venue": "KDD", 
+      "year": 2010
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "5f4b627913c43b1e7e38d0609bb9f96e989a3dba", 
+      "title": "MRF Energy Minimization and Beyond via Dual Decomposition", 
+      "url": "https://www.semanticscholar.org/paper/5f4b627913c43b1e7e38d0609bb9f96e989a3dba", 
+      "venue": "IEEE Transactions on Pattern Analysis and Machine Intelligence", 
+      "year": 2011
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "3fe824a622863dded64976656276dfd22ed34419", 
+      "title": "Identifying opinion leaders in the blogosphere", 
+      "url": "https://www.semanticscholar.org/paper/3fe824a622863dded64976656276dfd22ed34419", 
+      "venue": "CIKM", 
+      "year": 2007
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "434bc6e9b1aed420f16e279467a551b0df70f20f", 
+      "title": "A Generalized Mean Field Algorithm for Variational Inference in Exponential Families", 
+      "url": "https://www.semanticscholar.org/paper/434bc6e9b1aed420f16e279467a551b0df70f20f", 
+      "venue": "UAI", 
+      "year": 2003
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "19908640236767427ebf0524dc3a4bb09d65145e", 
+      "title": "Loopy Belief Propagation for Approximate Inference: An Empirical Study", 
+      "url": "https://www.semanticscholar.org/paper/19908640236767427ebf0524dc3a4bb09d65145e", 
+      "venue": "UAI", 
+      "year": 1999
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "517b9e284bf9361d1cddb8be01c0d023fb87dff0", 
+      "title": "Inferring Social Status and Rich Club Effects in Enterprise Communication Networks", 
+      "url": "https://www.semanticscholar.org/paper/517b9e284bf9361d1cddb8be01c0d023fb87dff0", 
+      "venue": "PloS one", 
+      "year": 2015
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "53a34df7523f41a86aa7078c7c4758361d8c417e", 
+      "title": "User-level sentiment analysis incorporating social networks", 
+      "url": "https://www.semanticscholar.org/paper/53a34df7523f41a86aa7078c7c4758361d8c417e", 
+      "venue": "KDD", 
+      "year": 2011
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "45d84d67870fc5de3b0747d05d9971d750604e7e", 
+      "title": "Predicting positive and negative links in online social networks", 
+      "url": "https://www.semanticscholar.org/paper/45d84d67870fc5de3b0747d05d9971d750604e7e", 
+      "venue": "WWW", 
+      "year": 2010
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "35a908de3148658ed64e05f20d3a0c692b1cb971", 
+      "title": "Inferring Social Network Structure using Mobile Phone Data", 
+      "url": "https://www.semanticscholar.org/paper/35a908de3148658ed64e05f20d3a0c692b1cb971", 
+      "venue": "", 
+      "year": 2006
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "0d58923f4f5c0104202b47e7af1fdef8cfab6632", 
+      "title": "Entity Matching across Heterogeneous Sources", 
+      "url": "https://www.semanticscholar.org/paper/0d58923f4f5c0104202b47e7af1fdef8cfab6632", 
+      "venue": "KDD", 
+      "year": 2015
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "69850ad4116d5ba0e41dfe53bccfa581f6371312", 
+      "title": "Inferring social ties from geographic coincidences.", 
+      "url": "https://www.semanticscholar.org/paper/69850ad4116d5ba0e41dfe53bccfa581f6371312", 
+      "venue": "Proceedings of the National Academy of Sciences of the United States of America", 
+      "year": 2010
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "08bf35375abf366869446bb33dab26fd95303ff3", 
+      "title": "Who says what to whom on twitter", 
+      "url": "https://www.semanticscholar.org/paper/08bf35375abf366869446bb33dab26fd95303ff3", 
+      "venue": "WWW", 
+      "year": 2011
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "eb82d3035849cd23578096462ba419b53198a556", 
+      "title": "The PageRank Citation Ranking: Bringing Order to the Web", 
+      "url": "https://www.semanticscholar.org/paper/eb82d3035849cd23578096462ba419b53198a556", 
+      "venue": "", 
+      "year": 1998
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "8415e713e801c63c3d7e73434e990ffdaabc99c1", 
+      "title": "Domain Adaptation with Structural Correspondence Learning", 
+      "url": "https://www.semanticscholar.org/paper/8415e713e801c63c3d7e73434e990ffdaabc99c1", 
+      "venue": "EMNLP", 
+      "year": 2006
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "20a46b0565317d7a86053fd29d99f94e8f6e16ca", 
+      "title": "Can chinese web pages be classified with english data source?", 
+      "url": "https://www.semanticscholar.org/paper/20a46b0565317d7a86053fd29d99f94e8f6e16ca", 
+      "venue": "WWW", 
+      "year": 2008
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "b790f9ae49cdee5354eacfc7897ab9752acd5e2a", 
+      "title": "Maximizing the Spread of Influence through a Social Network", 
+      "url": "https://www.semanticscholar.org/paper/b790f9ae49cdee5354eacfc7897ab9752acd5e2a", 
+      "venue": "", 
+      "year": 2014
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "58a63086b209374d5cf625d27617eba1e96288ef", 
+      "title": "ArnetMiner: extraction and mining of academic social networks", 
+      "url": "https://www.semanticscholar.org/paper/58a63086b209374d5cf625d27617eba1e96288ef", 
+      "venue": "KDD", 
+      "year": 2008
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "0c7f52c753a65ceaf3755e20b906ffd0c05c994a", 
+      "title": "Conditional Random Fields: Probabilistic Models for Segmenting and Labeling Sequence Data", 
+      "url": "https://www.semanticscholar.org/paper/0c7f52c753a65ceaf3755e20b906ffd0c05c994a", 
+      "venue": "ICML", 
+      "year": 2001
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "3f9df5c77af49d5b1b19eac9b82cb430b50f482d", 
+      "title": "Leveraging social media networks for classification", 
+      "url": "https://www.semanticscholar.org/paper/3f9df5c77af49d5b1b19eac9b82cb430b50f482d", 
+      "venue": "Data Mining and Knowledge Discovery", 
+      "year": 2010
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "8559ff5718b5a5ff1ffaaf5f91efaf25ee518457", 
+      "title": "Multi-task feature and kernel selection for SVMs", 
+      "url": "https://www.semanticscholar.org/paper/8559ff5718b5a5ff1ffaaf5f91efaf25ee518457", 
+      "venue": "ICML", 
+      "year": 2004
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "29efbdf3f95cee97405accafdebd3bd374f1f003", 
+      "title": "Supervised random walks: predicting and recommending links in social networks", 
+      "url": "https://www.semanticscholar.org/paper/29efbdf3f95cee97405accafdebd3bd374f1f003", 
+      "venue": "WSDM", 
+      "year": 2011
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "1339b888fb739b8a1194fa94fbe848e01d93456a", 
+      "title": "Social influence analysis in large-scale networks", 
+      "url": "https://www.semanticscholar.org/paper/1339b888fb739b8a1194fa94fbe848e01d93456a", 
+      "venue": "KDD", 
+      "year": 2009
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "c454d47e23133fc6a6b96452691de1ba760391ad", 
+      "title": "Logistic regression with an auxiliary data source", 
+      "url": "https://www.semanticscholar.org/paper/c454d47e23133fc6a6b96452691de1ba760391ad", 
+      "venue": "ICML", 
+      "year": 2005
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "7ac763ba70466928689cd29a0a76608bad942d9a", 
+      "title": "Transfer Learning for Collective Link Prediction in Multiple Heterogenous Domains", 
+      "url": "https://www.semanticscholar.org/paper/7ac763ba70466928689cd29a0a76608bad942d9a", 
+      "venue": "ICML", 
+      "year": 2010
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "0ec9ee064d9acc194adc0deace107d50a7f50c93", 
+      "title": "New perspectives and methods in link prediction", 
+      "url": "https://www.semanticscholar.org/paper/0ec9ee064d9acc194adc0deace107d50a7f50c93", 
+      "venue": "KDD", 
+      "year": 2010
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "08c370eb9ba13bfb836349e7f3ea428be4697818", 
+      "title": "Factor graphs and the sum-product algorithm", 
+      "url": "https://www.semanticscholar.org/paper/08c370eb9ba13bfb836349e7f3ea428be4697818", 
+      "venue": "IEEE Trans. Information Theory", 
+      "year": 2001
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "3bddba3214fe9e7248a934455a2624aa5b781778", 
+      "title": "Modeling relationship strength in online social networks", 
+      "url": "https://www.semanticscholar.org/paper/3bddba3214fe9e7248a934455a2624aa5b781778", 
+      "venue": "WWW", 
+      "year": 2010
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "ba99b4d087ed8eb0bb4914133218194ed18e03cd", 
+      "title": "Knowledge transfer via multiple model local structure mapping", 
+      "url": "https://www.semanticscholar.org/paper/ba99b4d087ed8eb0bb4914133218194ed18e03cd", 
+      "venue": "KDD", 
+      "year": 2008
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "327acf1aa52e75136ae9c39895c118190680ae35", 
+      "title": "Relationship Identification for Social Network Discovery", 
+      "url": "https://www.semanticscholar.org/paper/327acf1aa52e75136ae9c39895c118190680ae35", 
+      "venue": "AAAI", 
+      "year": 2007
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "2dc147a786e305958987c2cab59ffb58a64ea97b", 
+      "title": "Inferring Social Ties across Heterogeneous Networks", 
+      "url": "https://www.semanticscholar.org/paper/2dc147a786e305958987c2cab59ffb58a64ea97b", 
+      "venue": "", 
+      "year": 2011
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "066b18ccd263156403b805456eb556fad89040e3", 
+      "title": "Graphical Models, Exponential Families, and Variational Inference", 
+      "url": "https://www.semanticscholar.org/paper/066b18ccd263156403b805456eb556fad89040e3", 
+      "venue": "Foundations and Trends in Machine Learning", 
+      "year": 2008
+    }
+  ], 
+  "title": "Transfer Learning to Infer Social Ties across Heterogeneous Networks", 
+  "url": "https://www.semanticscholar.org/paper/4e4cd4b00660510df79a2386c732ee0f3a344435", 
+  "venue": "ACM Trans. Inf. Syst.", 
+  "year": 2016
+}

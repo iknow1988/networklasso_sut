@@ -1,0 +1,884 @@
+{
+  "authors": [
+    {
+      "authorId": "1699205", 
+      "name": "Sadaoki Furui", 
+      "url": "https://www.semanticscholar.org/author/1699205"
+    }, 
+    {
+      "authorId": "2156126", 
+      "name": "Tomonori Kikuchi", 
+      "url": "https://www.semanticscholar.org/author/2156126"
+    }, 
+    {
+      "authorId": "2341188", 
+      "name": "Yosuke Shinnaka", 
+      "url": "https://www.semanticscholar.org/author/2341188"
+    }, 
+    {
+      "authorId": "1765212", 
+      "name": "Chiori Hori", 
+      "url": "https://www.semanticscholar.org/author/1765212"
+    }
+  ], 
+  "citationVelocity": 0, 
+  "citations": [
+    {
+      "isInfluential": false, 
+      "paperId": "16c15abb7b4472900d159e4def9a50ef5080a41e", 
+      "title": "Semantic Analysis and Organization of Spoken Documents Based on Parameters Derived From Latent Topics", 
+      "url": "https://www.semanticscholar.org/paper/16c15abb7b4472900d159e4def9a50ef5080a41e", 
+      "venue": "IEEE Transactions on Audio, Speech, and Language Processing", 
+      "year": 2011
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "04b0204ec96591fb47afa06ca992b32551febee2", 
+      "title": "Integrating Intra-Speaker Topic Modeling and Temporal-Based Inter-Speaker Topic Modeling in Random Walk for Improved Multi-Party Meeting Summarization", 
+      "url": "https://www.semanticscholar.org/paper/04b0204ec96591fb47afa06ca992b32551febee2", 
+      "venue": "INTERSPEECH", 
+      "year": 2012
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "5c88329408254a9a620f7a2b116c9a5c43edd357", 
+      "title": "Incorporating proximity information in relevance language modeling for extractive speech summarization", 
+      "url": "https://www.semanticscholar.org/paper/5c88329408254a9a620f7a2b116c9a5c43edd357", 
+      "venue": "2015 Asia-Pacific Signal and Information Processing Association Annual Summit and Conference (APSIPA)", 
+      "year": 2015
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "cbbf91d085fa3c46979fb84755aa50b79a112c25", 
+      "title": "Neural Network Based Emergent Feedback Interface for Articulation of Language Sounds", 
+      "url": "https://www.semanticscholar.org/paper/cbbf91d085fa3c46979fb84755aa50b79a112c25", 
+      "venue": "", 
+      "year": 2012
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "10cd3bc3d42e07b75318c5121fed04a406add3fb", 
+      "title": "A margin-based discriminative modeling approach for extractive speech summarization", 
+      "url": "https://www.semanticscholar.org/paper/10cd3bc3d42e07b75318c5121fed04a406add3fb", 
+      "venue": "Signal and Information Processing Association Annual Summit and Conference (APSIPA), 2014 Asia-Pacific", 
+      "year": 2014
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "0dc520c53457a8cf906af5ea890adcd8d41bb2fc", 
+      "title": "Voice-based information retrieval - how far are we from the text-based information retrieval ?", 
+      "url": "https://www.semanticscholar.org/paper/0dc520c53457a8cf906af5ea890adcd8d41bb2fc", 
+      "venue": "ASRU", 
+      "year": 2009
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "5632ce06e2aefdfa20376e57248bd31660e079b4", 
+      "title": "Mandarin Chinese Broadcast News Retrieval and Summarization Using Probabilistic Generative Models", 
+      "url": "https://www.semanticscholar.org/paper/5632ce06e2aefdfa20376e57248bd31660e079b4", 
+      "venue": "", 
+      "year": 2009
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "5e31cbe834b2cda3c830f0f2c4ec1c660c453309", 
+      "title": "Spontaneous speech: how people really talk and why engineers should care", 
+      "url": "https://www.semanticscholar.org/paper/5e31cbe834b2cda3c830f0f2c4ec1c660c453309", 
+      "venue": "INTERSPEECH", 
+      "year": 2005
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "e67b6508d10f15c8cd3abb257c08fe2b2f7ada29", 
+      "title": "Speech Summarization without Lexical Features for Mandarin Presentation Speech", 
+      "url": "https://www.semanticscholar.org/paper/e67b6508d10f15c8cd3abb257c08fe2b2f7ada29", 
+      "venue": "2013 International Conference on Asian Language Processing", 
+      "year": 2013
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "af25339054a73263643742ddd1468c8426592803", 
+      "title": "The 2nd Workshop on Arabic Corpora and Processing Tools", 
+      "url": "https://www.semanticscholar.org/paper/af25339054a73263643742ddd1468c8426592803", 
+      "venue": "", 
+      "year": 2016
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "545413c7b00f97617244ceb0246af38e8d91dd88", 
+      "title": "Multi-layer mutually reinforced random walk with hidden parameters for improved multi-party meeting summarization", 
+      "url": "https://www.semanticscholar.org/paper/545413c7b00f97617244ceb0246af38e8d91dd88", 
+      "venue": "INTERSPEECH", 
+      "year": 2013
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "6fa510bd408a02b7f01944fe300069194a8434ac", 
+      "title": "A Novel Real-Time Speech Summarizer System for the Learning of Sustainability", 
+      "url": "https://www.semanticscholar.org/paper/6fa510bd408a02b7f01944fe300069194a8434ac", 
+      "venue": "", 
+      "year": 2015
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "92a9f1e63ac2721e26108609e0e8f8b4e936c256", 
+      "title": "Improved spoken document summarization with coverage modeling techniques", 
+      "url": "https://www.semanticscholar.org/paper/92a9f1e63ac2721e26108609e0e8f8b4e936c256", 
+      "venue": "2016 IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP)", 
+      "year": 2016
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "51c20820ba716e62e0be4207d81c54bb93fd691d", 
+      "title": "Chinese Spoken Document Summarization Using Probabilistic Latent Topical Information", 
+      "url": "https://www.semanticscholar.org/paper/51c20820ba716e62e0be4207d81c54bb93fd691d", 
+      "venue": "2006 IEEE International Conference on Acoustics Speech and Signal Processing Proceedings", 
+      "year": 2006
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "cc4d5777205f79749f01b3647b07cd3b76facf3b", 
+      "title": "A comparative study of probabilistic ranking models for spoken document summarization", 
+      "url": "https://www.semanticscholar.org/paper/cc4d5777205f79749f01b3647b07cd3b76facf3b", 
+      "venue": "2008 IEEE International Conference on Acoustics, Speech and Signal Processing", 
+      "year": 2008
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "c857c730b703979ea2521d98c77197ceacc28556", 
+      "title": "An Analysis of Sentence Segmentation Features for Broadcast News, Broadcast Conversations, and Meetings", 
+      "url": "https://www.semanticscholar.org/paper/c857c730b703979ea2521d98c77197ceacc28556", 
+      "venue": "", 
+      "year": 2007
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "4bc2188530eb875099bd3c5b53b6a5246fad1626", 
+      "title": "Spoken Content Retrieval - Beyond Cascading Speech Recognition with Text Retrieval", 
+      "url": "https://www.semanticscholar.org/paper/4bc2188530eb875099bd3c5b53b6a5246fad1626", 
+      "venue": "IEEE/ACM Trans. Audio, Speech & Language Processing", 
+      "year": 2015
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "421855922025cde7d0549cab348d41f6a6927302", 
+      "title": "Agile Software Development: A Case for Adequate Decision Support Tools", 
+      "url": "https://www.semanticscholar.org/paper/421855922025cde7d0549cab348d41f6a6927302", 
+      "venue": "AMCIS", 
+      "year": 2011
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "31e2e1d95c832c79c2d3ebf4fc627862d779d3af", 
+      "title": "Intra-Speaker Topic Modeling for Improved Multi-Party Meeting Summarization with Integrated Random Walk", 
+      "url": "https://www.semanticscholar.org/paper/31e2e1d95c832c79c2d3ebf4fc627862d779d3af", 
+      "venue": "HLT-NAACL", 
+      "year": 2012
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "3006aeeeb8831a8bbae29d817fb237a4d9289a54", 
+      "title": "Automatic Speech Recognition - A Literature Survey on Indian languages and Ground Work for Isolated Kannada Digit Recognition using MFCC and ANN", 
+      "url": "https://www.semanticscholar.org/paper/3006aeeeb8831a8bbae29d817fb237a4d9289a54", 
+      "venue": "", 
+      "year": 2015
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "0895678ccf8fc982100393f606afb686ca10d1c6", 
+      "title": "On Development of Consistently Punctuated Speech Corpora", 
+      "url": "https://www.semanticscholar.org/paper/0895678ccf8fc982100393f606afb686ca10d1c6", 
+      "venue": "INTERSPEECH", 
+      "year": 2011
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "6177cdd1a75283a36a12844972156131d908009f", 
+      "title": "Speech Retrieval of Mandarin Broadcas", 
+      "url": "https://www.semanticscholar.org/paper/6177cdd1a75283a36a12844972156131d908009f", 
+      "venue": "", 
+      "year": 2005
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "658a2234b2544b4929a365e0caebd9908f24f86a", 
+      "title": "Adaptive Video Delivery Using Semantics", 
+      "url": "https://www.semanticscholar.org/paper/658a2234b2544b4929a365e0caebd9908f24f86a", 
+      "venue": "", 
+      "year": 2005
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "262e226c7948b87531e1024f8f8c54e9c7abf103", 
+      "title": "Speech Summarization Methods Using Speaker Tracking and Prominence Based Ranking", 
+      "url": "https://www.semanticscholar.org/paper/262e226c7948b87531e1024f8f8c54e9c7abf103", 
+      "venue": "", 
+      "year": 2010
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "ac8afb6cea5c31fa5358c162960ad211aecfee29", 
+      "title": "50 years of progress in speech and speaker recognition", 
+      "url": "https://www.semanticscholar.org/paper/ac8afb6cea5c31fa5358c162960ad211aecfee29", 
+      "venue": "", 
+      "year": 2005
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "b2eba8aaede27b058a5c819b40e3cd24ce313d98", 
+      "title": "Exploring Correlation Between ROUGE and Human Evaluation on Meeting Summaries", 
+      "url": "https://www.semanticscholar.org/paper/b2eba8aaede27b058a5c819b40e3cd24ce313d98", 
+      "venue": "IEEE Transactions on Audio, Speech, and Language Processing", 
+      "year": 2010
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "604fae630ab90b72f2a92313dd2204951a2a7a60", 
+      "title": "Leveraging manifold learning for extractive broadcast news summarization", 
+      "url": "https://www.semanticscholar.org/paper/604fae630ab90b72f2a92313dd2204951a2a7a60", 
+      "venue": "2017 IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP)", 
+      "year": 2017
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "78bbf3690ef8116fa58922d58c081791abb939a6", 
+      "title": "A Comparative Study of Probabilistic Ranking Models for Chinese Spoken Document Summarization", 
+      "url": "https://www.semanticscholar.org/paper/78bbf3690ef8116fa58922d58c081791abb939a6", 
+      "venue": "ACM Trans. Asian Lang. Inf. Process.", 
+      "year": 2009
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "e3d1fd9862e2fcaab45082cb57b52a05f5e59e2a", 
+      "title": "Spoken document summarization using relevant information", 
+      "url": "https://www.semanticscholar.org/paper/e3d1fd9862e2fcaab45082cb57b52a05f5e59e2a", 
+      "venue": "ASRU", 
+      "year": 2007
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "4ead0ea74e1328da3840246aa43fa5476700eebd", 
+      "title": "Multi-layered Summarization of Spo Information Extraction and S", 
+      "url": "https://www.semanticscholar.org/paper/4ead0ea74e1328da3840246aa43fa5476700eebd", 
+      "venue": "", 
+      "year": 2006
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "2919430198af81b0bc9d24b4251a51180cfedfc6", 
+      "title": "Extractive speech summarization using evaluation metric-related training criteria", 
+      "url": "https://www.semanticscholar.org/paper/2919430198af81b0bc9d24b4251a51180cfedfc6", 
+      "venue": "Inf. Process. Manage.", 
+      "year": 2013
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "c5d3c65d6bd573f4bdc0c0b2c401bf9e8d8cbf48", 
+      "title": "Extractive Broadcast News Summarization Leveraging Recurrent Neural Network Language Modeling Techniques", 
+      "url": "https://www.semanticscholar.org/paper/c5d3c65d6bd573f4bdc0c0b2c401bf9e8d8cbf48", 
+      "venue": "IEEE/ACM Transactions on Audio, Speech, and Language Processing", 
+      "year": 2015
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "5a10ea4bcf9ec06b36fc99a78811690a2dc64c5d", 
+      "title": "Effective pseudo-relevance feedback for language modeling in extractive speech summarization", 
+      "url": "https://www.semanticscholar.org/paper/5a10ea4bcf9ec06b36fc99a78811690a2dc64c5d", 
+      "venue": "ICASSP", 
+      "year": 2014
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "54636703ee5d7b1464aeba4f2e903c2b195dd1df", 
+      "title": "Improved Spoken Document Summarization Using Probabilistic Latent Semantic Analysis (PLSA)", 
+      "url": "https://www.semanticscholar.org/paper/54636703ee5d7b1464aeba4f2e903c2b195dd1df", 
+      "venue": "2006 IEEE International Conference on Acoustics Speech and Signal Processing Proceedings", 
+      "year": 2006
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "10dd069bf594eb8d9edcf79223f1b3981cca8447", 
+      "title": "Spoken Document Retrieval and Summarization", 
+      "url": "https://www.semanticscholar.org/paper/10dd069bf594eb8d9edcf79223f1b3981cca8447", 
+      "venue": "", 
+      "year": 2006
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "ea2d0ea4688dfa149f4cbc98f2689fa4da874cd7", 
+      "title": "Combining Relevance Language Modeling and Clarity Measure for Extractive Speech Summarization", 
+      "url": "https://www.semanticscholar.org/paper/ea2d0ea4688dfa149f4cbc98f2689fa4da874cd7", 
+      "venue": "IEEE/ACM Transactions on Audio, Speech, and Language Processing", 
+      "year": 2015
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "4b2ef813d39809bd1786f9997026ed7ea4a6e14b", 
+      "title": "Recent Advances in Automatic speech Summarization", 
+      "url": "https://www.semanticscholar.org/paper/4b2ef813d39809bd1786f9997026ed7ea4a6e14b", 
+      "venue": "SLT", 
+      "year": 2006
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "cd1c60f2701ae40bf267d45078a4120a5b3a4bd2", 
+      "title": "Leveraging word embeddings for spoken document summarization", 
+      "url": "https://www.semanticscholar.org/paper/cd1c60f2701ae40bf267d45078a4120a5b3a4bd2", 
+      "venue": "INTERSPEECH", 
+      "year": 2015
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "46814c3717cdba4e19476f9dfa30ec45520c2a9a", 
+      "title": "Extractive Chinese Spoken Document Summarization Using Probabilistic Ranking Models", 
+      "url": "https://www.semanticscholar.org/paper/46814c3717cdba4e19476f9dfa30ec45520c2a9a", 
+      "venue": "ISCSLP", 
+      "year": 2006
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "153efe004be1473acc458e2794ba9bde54efaafc", 
+      "title": "Word Topical Mixture Models for Extractive Spoken Document Summarization", 
+      "url": "https://www.semanticscholar.org/paper/153efe004be1473acc458e2794ba9bde54efaafc", 
+      "venue": "ICME", 
+      "year": 2007
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "aca6bbec565356c7964c121b6b1d39ba0229c0e1", 
+      "title": "Latent Dirichlet learning for document summarization", 
+      "url": "https://www.semanticscholar.org/paper/aca6bbec565356c7964c121b6b1d39ba0229c0e1", 
+      "venue": "2009 IEEE International Conference on Acoustics, Speech and Signal Processing", 
+      "year": 2009
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "b1528f4ff35b34576d3625475a9e9a4fa19ea12d", 
+      "title": "Positional Language Modeling for Extractive Broadcast News Speech Summarization", 
+      "url": "https://www.semanticscholar.org/paper/b1528f4ff35b34576d3625475a9e9a4fa19ea12d", 
+      "venue": "", 
+      "year": 2015
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "2b36bb936730c32e3178619d13fac7325ef6abf4", 
+      "title": "Combining Structural Analysis and Computer Vision Techniques for Automatic Speech Summarization", 
+      "url": "https://www.semanticscholar.org/paper/2b36bb936730c32e3178619d13fac7325ef6abf4", 
+      "venue": "ISM", 
+      "year": 2008
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "19896f0ede437c4bc28720efc644c5ca605584b1", 
+      "title": "Active learning with semi-automatic annotation for extractive speech summarization", 
+      "url": "https://www.semanticscholar.org/paper/19896f0ede437c4bc28720efc644c5ca605584b1", 
+      "venue": "TSLP", 
+      "year": 2012
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "fc6a7c7e14a136d3c4eca56aa83b842d9bcb1010", 
+      "title": "Summarization of Broadcast News Using Speaker Tracking", 
+      "url": "https://www.semanticscholar.org/paper/fc6a7c7e14a136d3c4eca56aa83b842d9bcb1010", 
+      "venue": "", 
+      "year": 2009
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "409aab738960f4f0a661cce3e61de1adf5a5f682", 
+      "title": "A unified probabilistic generative framework for extractive spoken document summarization", 
+      "url": "https://www.semanticscholar.org/paper/409aab738960f4f0a661cce3e61de1adf5a5f682", 
+      "venue": "INTERSPEECH", 
+      "year": 2007
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "25d401107c31a8777b2acde10e9eebff03579092", 
+      "title": "Analysis on Prosodic Features of Japanese Reactive Tokens in Poster Conversations", 
+      "url": "https://www.semanticscholar.org/paper/25d401107c31a8777b2acde10e9eebff03579092", 
+      "venue": "", 
+      "year": 2010
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "18610be1a413c29a84bc88daf2f5f5f29e0d3148", 
+      "title": "Sentence boundary detection in chinese broadcast news using conditional random fields and prosodic features", 
+      "url": "https://www.semanticscholar.org/paper/18610be1a413c29a84bc88daf2f5f5f29e0d3148", 
+      "venue": "2014 IEEE China Summit & International Conference on Signal and Information Processing (ChinaSIP)", 
+      "year": 2014
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "77338d79ac4ab05d1a77edb6da9e6bf221bd7025", 
+      "title": "A Risk-Aware Modeling Framework for Speech Summarization", 
+      "url": "https://www.semanticscholar.org/paper/77338d79ac4ab05d1a77edb6da9e6bf221bd7025", 
+      "venue": "IEEE Transactions on Audio, Speech, and Language Processing", 
+      "year": 2012
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "a8e0239269eb035513b0e8c061577355c7d30560", 
+      "title": "Domain-Specific Image Captioning", 
+      "url": "https://www.semanticscholar.org/paper/a8e0239269eb035513b0e8c061577355c7d30560", 
+      "venue": "CoNLL", 
+      "year": 2014
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "ef99035d4bbc8ee6279854bb67dc855193e0168b", 
+      "title": "Positional language modeling for extractive broadcast news speech summarization", 
+      "url": "https://www.semanticscholar.org/paper/ef99035d4bbc8ee6279854bb67dc855193e0168b", 
+      "venue": "INTERSPEECH", 
+      "year": 2015
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "34837cf7c42c32a8eb0905c5fc99611f10f27949", 
+      "title": "Spoken Content Retrieval: A Survey of Techniques and Technologies", 
+      "url": "https://www.semanticscholar.org/paper/34837cf7c42c32a8eb0905c5fc99611f10f27949", 
+      "venue": "Foundations and Trends in Information Retrieval", 
+      "year": 2012
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "11820063d8c7016a953fd1d2e0367cfc57b42a3a", 
+      "title": "Feature Analysis for Audio Classification", 
+      "url": "https://www.semanticscholar.org/paper/11820063d8c7016a953fd1d2e0367cfc57b42a3a", 
+      "venue": "CIARP", 
+      "year": 2014
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "049472ad5cdb8787fd89e18847d2a20e01ee0664", 
+      "title": "Long story short - Global unsupervised models for keyphrase based meeting summarization", 
+      "url": "https://www.semanticscholar.org/paper/049472ad5cdb8787fd89e18847d2a20e01ee0664", 
+      "venue": "Speech Communication", 
+      "year": 2010
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "19f12ba98cd710582496e846b5aea2d76e0a07dd", 
+      "title": "Extractive spoken document summarization for information retrieval", 
+      "url": "https://www.semanticscholar.org/paper/19f12ba98cd710582496e846b5aea2d76e0a07dd", 
+      "venue": "Pattern Recognition Letters", 
+      "year": 2008
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "3558a291f9b79eb37aa59f6e5bf0006fa981ba28", 
+      "title": "A Pilot Study of Opinion Summarization in Conversations", 
+      "url": "https://www.semanticscholar.org/paper/3558a291f9b79eb37aa59f6e5bf0006fa981ba28", 
+      "venue": "ACL", 
+      "year": 2011
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "f501de20c220c46ca26f801e93ff906ab8ba7ea9", 
+      "title": "Leveraging Kullback&#x2013;Leibler Divergence Measures and Information-Rich Cues for Speech Summarization", 
+      "url": "https://www.semanticscholar.org/paper/f501de20c220c46ca26f801e93ff906ab8ba7ea9", 
+      "venue": "IEEE Transactions on Audio, Speech, and Language Processing", 
+      "year": 2011
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "8af9065daaf2d3bd90cf859426dbfe537fc9dfd4", 
+      "title": "Speech recognition approach: Desktop items activation with comparative analysis", 
+      "url": "https://www.semanticscholar.org/paper/8af9065daaf2d3bd90cf859426dbfe537fc9dfd4", 
+      "venue": "2010 3rd International Conference on Computer Science and Information Technology", 
+      "year": 2010
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "7f4d300939c4e39cea3d02feca0f0fd2e8527202", 
+      "title": "A Probabilistic Generative Framework for Extractive Broadcast News Speech Summarization", 
+      "url": "https://www.semanticscholar.org/paper/7f4d300939c4e39cea3d02feca0f0fd2e8527202", 
+      "venue": "IEEE Transactions on Audio, Speech, and Language Processing", 
+      "year": 2009
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "c3e325b2c63db7139b82e7ea19831cf46f672f77", 
+      "title": "Accessing speech data using strategic fixation", 
+      "url": "https://www.semanticscholar.org/paper/c3e325b2c63db7139b82e7ea19831cf46f672f77", 
+      "venue": "Computer Speech & Language", 
+      "year": 2007
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "aa0cfb6604603fda7a3314163e329bab88e5f9e6", 
+      "title": "Word endpoint detection/extraction method for speaker identification purposes", 
+      "url": "https://www.semanticscholar.org/paper/aa0cfb6604603fda7a3314163e329bab88e5f9e6", 
+      "venue": "New Trends in Audio and Video / Signal Processing Algorithms, Architectures, Arrangements, and Applications SPA 2008", 
+      "year": 2008
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "66fb4d1cd549673450756b05d994f5f260de7db4", 
+      "title": "Unsupervised domain adaptation for spoken document summarization with structured support vector machine", 
+      "url": "https://www.semanticscholar.org/paper/66fb4d1cd549673450756b05d994f5f260de7db4", 
+      "venue": "2013 IEEE International Conference on Acoustics, Speech and Signal Processing", 
+      "year": 2013
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "18207263f50f2e2db757ac993bacdd3d61514443", 
+      "title": "Enhanced language modeling for extractive speech summarization with sentence relatedness information", 
+      "url": "https://www.semanticscholar.org/paper/18207263f50f2e2db757ac993bacdd3d61514443", 
+      "venue": "INTERSPEECH", 
+      "year": 2014
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "aac912cbdb4eddc2ac5a62c0d8938ec2f5a7dc6b", 
+      "title": "Automatic Speech Recognition: A Review", 
+      "url": "https://www.semanticscholar.org/paper/aac912cbdb4eddc2ac5a62c0d8938ec2f5a7dc6b", 
+      "venue": "", 
+      "year": 2012
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "de8b444a00a045bedb080bd6c88deef9d32ccdd4", 
+      "title": "Improving lecture speech summarization using rhetorical information", 
+      "url": "https://www.semanticscholar.org/paper/de8b444a00a045bedb080bd6c88deef9d32ccdd4", 
+      "venue": "ASRU", 
+      "year": 2007
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "3b4be3943b7caf5d76543bafc5d9809180f77091", 
+      "title": "Selected topics from 40 years of research on speech and speaker recognition", 
+      "url": "https://www.semanticscholar.org/paper/3b4be3943b7caf5d76543bafc5d9809180f77091", 
+      "venue": "INTERSPEECH", 
+      "year": 2009
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "020261f46f29b4df081543a4d8a4b80574e8c81a", 
+      "title": "Two-layer mutually reinforced random walk for improved multi-party meeting summarization", 
+      "url": "https://www.semanticscholar.org/paper/020261f46f29b4df081543a4d8a4b80574e8c81a", 
+      "venue": "SLT", 
+      "year": 2012
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "03ba837a170df377d350b9becab32a16a6a32557", 
+      "title": "A Multi-layered Summarization System for Multi-media Archives by Understanding and Structuring of Chinese Spoken Documents", 
+      "url": "https://www.semanticscholar.org/paper/03ba837a170df377d350b9becab32a16a6a32557", 
+      "venue": "ISCSLP", 
+      "year": 2006
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "9fea67e454d06c4560849279cdebd8a8fd993f63", 
+      "title": "Learning a speech manifold for signal subspace speech denoising", 
+      "url": "https://www.semanticscholar.org/paper/9fea67e454d06c4560849279cdebd8a8fd993f63", 
+      "venue": "INTERSPEECH", 
+      "year": 2015
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "cfea91c3db43ab0a0f6573cfa9e804270ac942ed", 
+      "title": "Spoken Content Retrieval&#x2014;Beyond Cascading Speech Recognition with Text Retrieval", 
+      "url": "https://www.semanticscholar.org/paper/cfea91c3db43ab0a0f6573cfa9e804270ac942ed", 
+      "venue": "IEEE/ACM Transactions on Audio, Speech, and Language Processing", 
+      "year": 2015
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "63fd617bff0b284d1c034b4e9b675c7c97ad2c11", 
+      "title": "Extractive Speech Summarization Using Shallow Rhetorical Structure Modeling", 
+      "url": "https://www.semanticscholar.org/paper/63fd617bff0b284d1c034b4e9b675c7c97ad2c11", 
+      "venue": "IEEE Transactions on Audio, Speech, and Language Processing", 
+      "year": 2010
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "ee7b227a2006f29906e4f4e09cb8e2c29b35af95", 
+      "title": "Significance of anchor speaker segments for constructing extractive audio summaries of broadcast news", 
+      "url": "https://www.semanticscholar.org/paper/ee7b227a2006f29906e4f4e09cb8e2c29b35af95", 
+      "venue": "SLT", 
+      "year": 2010
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "ae88409af1a3aaefc80b0446107ba969c0f94396", 
+      "title": "Speech retrieval of Mandarin broadcast news via mobile devices", 
+      "url": "https://www.semanticscholar.org/paper/ae88409af1a3aaefc80b0446107ba969c0f94396", 
+      "venue": "INTERSPEECH", 
+      "year": 2005
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "39213c4d3eebf3469a7f69b6ba467198ddbcef76", 
+      "title": "Automatic Spoken Document Processing for Retrieval and Browsing", 
+      "url": "https://www.semanticscholar.org/paper/39213c4d3eebf3469a7f69b6ba467198ddbcef76", 
+      "venue": "HLT-NAACL", 
+      "year": 2006
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "57ca77e88d800ff4f45fdd53ab3c6c525352c827", 
+      "title": "Spoken Document Understanding and Organization Brief Review of Information Retrieval and Audio Indexing", 
+      "url": "https://www.semanticscholar.org/paper/57ca77e88d800ff4f45fdd53ab3c6c525352c827", 
+      "venue": "", 
+      "year": 2009
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "2faa08dc7b96b34e46450d29ca8000b8e824ee28", 
+      "title": "Prominence based scoring of speech segments for automatic speech-to-speech summarization", 
+      "url": "https://www.semanticscholar.org/paper/2faa08dc7b96b34e46450d29ca8000b8e824ee28", 
+      "venue": "INTERSPEECH", 
+      "year": 2010
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "456d5899923f072a43c3dab40fbbda7859adefef", 
+      "title": "Automatic Parliamentary Meeting Minute Generation Using Rhetorical Structure Modeling", 
+      "url": "https://www.semanticscholar.org/paper/456d5899923f072a43c3dab40fbbda7859adefef", 
+      "venue": "IEEE Transactions on Audio, Speech, and Language Processing", 
+      "year": 2012
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "cd3e5ab990670c5f9629e1d8876fbaa6310aa1b9", 
+      "title": "Voice retrieval of Mandarin broadcast news speech", 
+      "url": "https://www.semanticscholar.org/paper/cd3e5ab990670c5f9629e1d8876fbaa6310aa1b9", 
+      "venue": "IJPRAI", 
+      "year": 2006
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "167f7dd2ac2ebdbaedb83e9dc7b687e81353142c", 
+      "title": "Detection of hot spots in poster conversations based on reactive tokens of audience", 
+      "url": "https://www.semanticscholar.org/paper/167f7dd2ac2ebdbaedb83e9dc7b687e81353142c", 
+      "venue": "INTERSPEECH", 
+      "year": 2010
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "d10ffdb16681651550b796632b7c3d607866b832", 
+      "title": "Exploiting graph regularized nonnegative matrix factorization for extractive speech summarization", 
+      "url": "https://www.semanticscholar.org/paper/d10ffdb16681651550b796632b7c3d607866b832", 
+      "venue": "2016 Asia-Pacific Signal and Information Processing Association Annual Summit and Conference (APSIPA)", 
+      "year": 2016
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "a90cb717f0f4fa045ef74c87f966ccde93544ec2", 
+      "title": "Unsupervised Techniques for Audio Content Analysis and Summarization", 
+      "url": "https://www.semanticscholar.org/paper/a90cb717f0f4fa045ef74c87f966ccde93544ec2", 
+      "venue": "", 
+      "year": 2008
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "a926720c2643755b2339ddf4c53d3482e2002f9a", 
+      "title": "Leveraging evaluation metric-related training criteria for speech summarization", 
+      "url": "https://www.semanticscholar.org/paper/a926720c2643755b2339ddf4c53d3482e2002f9a", 
+      "venue": "2010 IEEE International Conference on Acoustics, Speech and Signal Processing", 
+      "year": 2010
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "0c38b55484d3938515cb3567e59918d7d08d0976", 
+      "title": "Constructing effective ranking models for speech summarization", 
+      "url": "https://www.semanticscholar.org/paper/0c38b55484d3938515cb3567e59918d7d08d0976", 
+      "venue": "2012 IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP)", 
+      "year": 2012
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "709dc9403d2d646f0fb49a4fa70fb50247750394", 
+      "title": "Improved speech summarization with multiple-hypothesis representations and kullback-leibler divergence measures", 
+      "url": "https://www.semanticscholar.org/paper/709dc9403d2d646f0fb49a4fa70fb50247750394", 
+      "venue": "INTERSPEECH", 
+      "year": 2009
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "a372c58530673f97cd058829021ce673d2d154a4", 
+      "title": "A recurrent neural network language modeling framework for extractive speech summarization", 
+      "url": "https://www.semanticscholar.org/paper/a372c58530673f97cd058829021ce673d2d154a4", 
+      "venue": "ICME", 
+      "year": 2014
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "9dfc2414ba2933ec8499b3ab60dc3820de2ae4b9", 
+      "title": "Spoken document understanding and organization", 
+      "url": "https://www.semanticscholar.org/paper/9dfc2414ba2933ec8499b3ab60dc3820de2ae4b9", 
+      "venue": "IEEE Signal Processing Magazine", 
+      "year": 2005
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "5df5d0caeb51f530c309394fb1ba3579b2709c66", 
+      "title": "A review of unsupervised feature learning and deep learning for time-series modeling", 
+      "url": "https://www.semanticscholar.org/paper/5df5d0caeb51f530c309394fb1ba3579b2709c66", 
+      "venue": "Pattern Recognition Letters", 
+      "year": 2014
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "2a9f0dd4fca7c22a0072aaca1f46fbf93c53ad6a", 
+      "title": "Extractive speech summarization - from the view of decision theory", 
+      "url": "https://www.semanticscholar.org/paper/2a9f0dd4fca7c22a0072aaca1f46fbf93c53ad6a", 
+      "venue": "INTERSPEECH", 
+      "year": 2010
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "533c549e50a5226e9ad0408091106379802e5129", 
+      "title": "Improved Speech Summarization and Spoken Term Detection with Graphical Analysis of Utterance Similarities", 
+      "url": "https://www.semanticscholar.org/paper/533c549e50a5226e9ad0408091106379802e5129", 
+      "venue": "", 
+      "year": 2011
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "5cc6ba30820e7c3b36d314f4deee990dc5655afb", 
+      "title": "Speech Recognition by Machine, A Review", 
+      "url": "https://www.semanticscholar.org/paper/5cc6ba30820e7c3b36d314f4deee990dc5655afb", 
+      "venue": "ArXiv", 
+      "year": 2009
+    }
+  ], 
+  "doi": "10.1109/TSA.2004.828699", 
+  "influentialCitationCount": 0, 
+  "paperId": "59c29162d8aedd28e1e1fcc728ffa8601efe2854", 
+  "references": [
+    {
+      "isInfluential": false, 
+      "paperId": "0c95c6a0da6aa2d0ece314c3ceb6ae4c1fdf3783", 
+      "title": "Spoken language condensation in the 21st century", 
+      "url": "https://www.semanticscholar.org/paper/0c95c6a0da6aa2d0ece314c3ceb6ae4c1fdf3783", 
+      "venue": "INTERSPEECH", 
+      "year": 2003
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "04fa53cfb61af83163258b5c4cbe0883a3fb43e2", 
+      "title": "From Single to Multi-document Summarization: A Prototype System and its Evaluation", 
+      "url": "https://www.semanticscholar.org/paper/04fa53cfb61af83163258b5c4cbe0883a3fb43e2", 
+      "venue": "", 
+      "year": 2002
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "91a905217c336c12efc65f6e414abd452ee17a74", 
+      "title": "Summarisation of Spoken Audio through Information Extraction", 
+      "url": "https://www.semanticscholar.org/paper/91a905217c336c12efc65f6e414abd452ee17a74", 
+      "venue": "", 
+      "year": 1999
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "04538e8875c78fe880da81eab3e04a99328b1d09", 
+      "title": "A Noisy-Channel Model for Document Compression", 
+      "url": "https://www.semanticscholar.org/paper/04538e8875c78fe880da81eab3e04a99328b1d09", 
+      "venue": "ACL", 
+      "year": 2002
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "3c6f6bd183cdc334c6f4e947c79f32b3014d0ae2", 
+      "title": "Transcription and summarization of voicemail speech", 
+      "url": "https://www.semanticscholar.org/paper/3c6f6bd183cdc334c6f4e947c79f32b3014d0ae2", 
+      "venue": "INTERSPEECH", 
+      "year": 2000
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "ac23e62a18186c9a51dfea16d3602f52ff8c3b3a", 
+      "title": "Spontaneous Speech Corpus of Japanese", 
+      "url": "https://www.semanticscholar.org/paper/ac23e62a18186c9a51dfea16d3602f52ff8c3b3a", 
+      "venue": "LREC", 
+      "year": 2000
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "75d14b135b0df40591aed02b4215832dfc0aae21", 
+      "title": "Minimizing Word Error Rate in Textual Summaries of Spoken Language", 
+      "url": "https://www.semanticscholar.org/paper/75d14b135b0df40591aed02b4215832dfc0aae21", 
+      "venue": "ANLP", 
+      "year": 2000
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "fa07fa673d8c908e91d22c4566572a72548ccee9", 
+      "title": "Summarization beyond sentence extraction: A probabilistic approach to sentence compression", 
+      "url": "https://www.semanticscholar.org/paper/fa07fa673d8c908e91d22c4566572a72548ccee9", 
+      "venue": "Artif. Intell.", 
+      "year": 2002
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "0b03ad2bdc2df0d109661f76dcaf46e609617a44", 
+      "title": "Spoken Document Retrieval: 1998 Evaluation and Investigation of New Metrics", 
+      "url": "https://www.semanticscholar.org/paper/0b03ad2bdc2df0d109661f76dcaf46e609617a44", 
+      "venue": "", 
+      "year": 1999
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "1474ae546588b81c9114b9a61e241060abaf33cf", 
+      "title": "Ubiquitous speech processing", 
+      "url": "https://www.semanticscholar.org/paper/1474ae546588b81c9114b9a61e241060abaf33cf", 
+      "venue": "ICASSP", 
+      "year": 2001
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "3bb5c361a26fd7cedf7a4f4fb3418c57521efc3e", 
+      "title": "Two-stage Automatic Speech Summarization by Sentence Extraction and Compaction", 
+      "url": "https://www.semanticscholar.org/paper/3bb5c361a26fd7cedf7a4f4fb3418c57521efc3e", 
+      "venue": "", 
+      "year": 2003
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "ea003a8e3d90616dc43e21cc5fbff430fa49a560", 
+      "title": "Advances in Automatic Text Summarization", 
+      "url": "https://www.semanticscholar.org/paper/ea003a8e3d90616dc43e21cc5fbff430fa49a560", 
+      "venue": "", 
+      "year": 2000
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "6c775811b01ecef86736208d86c6e75b665a89d1", 
+      "title": "Recent Advances in Spontaneous Speech Recognition and Understanding", 
+      "url": "https://www.semanticscholar.org/paper/6c775811b01ecef86736208d86c6e75b665a89d1", 
+      "venue": "", 
+      "year": 2003
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "523caf18381b770dca0383b65e35472fcfc49913", 
+      "title": "A Statistical Approach to Automatic Speech Summarization", 
+      "url": "https://www.semanticscholar.org/paper/523caf18381b770dca0383b65e35472fcfc49913", 
+      "venue": "EURASIP J. Adv. Sig. Proc.", 
+      "year": 2003
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "35c574150593c35a748464af91597bfcb049feec", 
+      "title": "Towards Multilingual Protocol Generation For Spontaneous Speech Dialogues", 
+      "url": "https://www.semanticscholar.org/paper/35c574150593c35a748464af91597bfcb049feec", 
+      "venue": "", 
+      "year": 1998
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "bd68ad5ade604a4bca078214e07399a95ca1e53a", 
+      "title": "Advances in automatic speech summarization", 
+      "url": "https://www.semanticscholar.org/paper/bd68ad5ade604a4bca078214e07399a95ca1e53a", 
+      "venue": "INTERSPEECH", 
+      "year": 2001
+    }
+  ], 
+  "title": "Speech-to-text and speech-to-speech summarization of spontaneous speech", 
+  "url": "https://www.semanticscholar.org/paper/59c29162d8aedd28e1e1fcc728ffa8601efe2854", 
+  "venue": "IEEE Transactions on Speech and Audio Processing", 
+  "year": 2004
+}

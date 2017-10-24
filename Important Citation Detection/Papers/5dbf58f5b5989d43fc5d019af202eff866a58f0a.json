@@ -1,0 +1,839 @@
+{
+  "authors": [
+    {
+      "authorId": "1695611", 
+      "name": "W. John Wilbur", 
+      "url": "https://www.semanticscholar.org/author/1695611"
+    }, 
+    {
+      "authorId": "7433119", 
+      "name": "Andrey Rzhetsky", 
+      "url": "https://www.semanticscholar.org/author/7433119"
+    }, 
+    {
+      "authorId": "1680876", 
+      "name": "Hagit Shatkay", 
+      "url": "https://www.semanticscholar.org/author/1680876"
+    }
+  ], 
+  "citationVelocity": 0, 
+  "citations": [
+    {
+      "isInfluential": false, 
+      "paperId": "be16b844698e475a8b6b3118396ee7cad3e63d99", 
+      "title": "Enriching a biomedical event corpus with meta-knowledge annotation", 
+      "url": "https://www.semanticscholar.org/paper/be16b844698e475a8b6b3118396ee7cad3e63d99", 
+      "venue": "BMC Bioinformatics", 
+      "year": 2011
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "29ed727becf9aa720c59195f0d898df33ed86468", 
+      "title": "Levels of certainty in knowledge-intensive corpora: an initial annotation study", 
+      "url": "https://www.semanticscholar.org/paper/29ed727becf9aa720c59195f0d898df33ed86468", 
+      "venue": "", 
+      "year": 2010
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "194985568b66c53ab036a93fdbbcab7adeecf98f", 
+      "title": "Towards a Better Understanding of Discourse: Integrating Multiple Discourse Annotation Perspectives Using UIMA", 
+      "url": "https://www.semanticscholar.org/paper/194985568b66c53ab036a93fdbbcab7adeecf98f", 
+      "venue": "LAW@ACL", 
+      "year": 2013
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "124ad0e3ca746b889d51569a1e6528f6980f2bd1", 
+      "title": "The BioLexicon: a large-scale terminological resource for biomedical text mining", 
+      "url": "https://www.semanticscholar.org/paper/124ad0e3ca746b889d51569a1e6528f6980f2bd1", 
+      "venue": "BMC Bioinformatics", 
+      "year": 2011
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "1f786705492578a76e41f9aee9d03865a069b9c3", 
+      "title": "Construction of an annotated corpus to support biomedical information extraction", 
+      "url": "https://www.semanticscholar.org/paper/1f786705492578a76e41f9aee9d03865a069b9c3", 
+      "venue": "BMC Bioinformatics", 
+      "year": 2009
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "df5deba1dce0611dce7eb43043708976987e90be", 
+      "title": "Negated bio-events: analysis and identification", 
+      "url": "https://www.semanticscholar.org/paper/df5deba1dce0611dce7eb43043708976987e90be", 
+      "venue": "BMC Bioinformatics", 
+      "year": 2012
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "c1231a53a61c63fffd23a6ab12756493697ad453", 
+      "title": "Comparative analysis of five protein-protein interaction corpora", 
+      "url": "https://www.semanticscholar.org/paper/c1231a53a61c63fffd23a6ab12756493697ad453", 
+      "venue": "BMC Bioinformatics", 
+      "year": 2008
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "8aa795d556d36c965c22f92dda5cd092cb7053ec", 
+      "title": "Lead Investigator:", 
+      "url": "https://www.semanticscholar.org/paper/8aa795d556d36c965c22f92dda5cd092cb7053ec", 
+      "venue": "", 
+      "year": 2007
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "04d90a89958adc7a568224b77faf1aa393af9695", 
+      "title": "Effective Bio-Event Extraction Using Trigger Words and Syntactic Dependencies", 
+      "url": "https://www.semanticscholar.org/paper/04d90a89958adc7a568224b77faf1aa393af9695", 
+      "venue": "Computational Intelligence", 
+      "year": 2011
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "a29ebb1f2e355eb2400c83561ec1d6f26ae51f9e", 
+      "title": "Evaluating a meta-knowledge annotation scheme for bio-events", 
+      "url": "https://www.semanticscholar.org/paper/a29ebb1f2e355eb2400c83561ec1d6f26ae51f9e", 
+      "venue": "", 
+      "year": 2010
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "f5ddeb9731a75ef759cd7d6b5a4662dd311b80fe", 
+      "title": "Identifying Claimed Knowledge Updates in Biomedical Research Articles", 
+      "url": "https://www.semanticscholar.org/paper/f5ddeb9731a75ef759cd7d6b5a4662dd311b80fe", 
+      "venue": "", 
+      "year": 2012
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "407a3acf798bc4dc798ce709cdad6479f6e110d6", 
+      "title": "Case Report: Five-way Smoking Status Classification Using Text Hot-Spot Identification and Error-correcting Output Codes", 
+      "url": "https://www.semanticscholar.org/paper/407a3acf798bc4dc798ce709cdad6479f6e110d6", 
+      "venue": "JAMIA", 
+      "year": 2008
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "c845743edf04b97b48d86791025d4a3718ff0046", 
+      "title": "Optimizing annotation efforts to build reliable annotated corpora for training statistical models", 
+      "url": "https://www.semanticscholar.org/paper/c845743edf04b97b48d86791025d4a3718ff0046", 
+      "venue": "LAW@COLING", 
+      "year": 2014
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "e82b110be260f623ab06fa5d46e262808c2c4bba", 
+      "title": "A Methodology towards Effective and Efficient Manual Document Annotation: Addressing Annotator Discrepancy and Annotation Quality", 
+      "url": "https://www.semanticscholar.org/paper/e82b110be260f623ab06fa5d46e262808c2c4bba", 
+      "venue": "EKAW", 
+      "year": 2010
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "14cf982722cf17d0c6c5a367106e79e129dabc6a", 
+      "title": "Towards a better understanding of uncertainties and speculations in Swedish clinical text \u2013 Analysis of an initial annotation trial", 
+      "url": "https://www.semanticscholar.org/paper/14cf982722cf17d0c6c5a367106e79e129dabc6a", 
+      "venue": "", 
+      "year": 2010
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "2adf031937c43fe9d05ce3fb544d433c670688fa", 
+      "title": "Iterative Refinement and Quality Checking of Annotation Guidelines - How to Deal Effectively with Semantically Sloppy Named Entity Types, such as Pathological Phenomena", 
+      "url": "https://www.semanticscholar.org/paper/2adf031937c43fe9d05ce3fb544d433c670688fa", 
+      "venue": "LREC", 
+      "year": 2012
+    }, 
+    {
+      "isInfluential": true, 
+      "paperId": "ba64ce98590a01064047ce063bceea9c57f4dd47", 
+      "title": "Negation and Speculation in Natural Language Processing (nesp-nlp 2010) Program Nesp-nlp 2010 Does Negation Really Matter? a Survey on the Role of Negation in Sentiment Analysis Evaluating a Meta-knowledge Annotation Scheme for Bio-events", 
+      "url": "https://www.semanticscholar.org/paper/ba64ce98590a01064047ce063bceea9c57f4dd47", 
+      "venue": "", 
+      "year": 2010
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "644a3e1ca486e606435f9e00390bdae3e6d216af", 
+      "title": "A linear classifier based on entity recognition tools and a statistical approach to method extraction in the protein-protein interaction literature", 
+      "url": "https://www.semanticscholar.org/paper/644a3e1ca486e606435f9e00390bdae3e6d216af", 
+      "venue": "", 
+      "year": 2011
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "823f1dc1a301e4dd7c0201f1cb64d4cfffc1f51c", 
+      "title": "An automated method to build a corpus of rhetorically-classified sentences in biomedical texts", 
+      "url": "https://www.semanticscholar.org/paper/823f1dc1a301e4dd7c0201f1cb64d4cfffc1f51c", 
+      "venue": "ArgMining@ACL", 
+      "year": 2014
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "0c50cb67dd7b60ce0ab0d1cbd8856cbb8a0e085b", 
+      "title": "Semi-parametric analysis of multi-rater data", 
+      "url": "https://www.semanticscholar.org/paper/0c50cb67dd7b60ce0ab0d1cbd8856cbb8a0e085b", 
+      "venue": "Statistics and Computing", 
+      "year": 2010
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "279020346f226d6aae8d394a67d50445c9f6f244", 
+      "title": "Clinical Information Extraction Using Word Representations", 
+      "url": "https://www.semanticscholar.org/paper/279020346f226d6aae8d394a67d50445c9f6f244", 
+      "venue": "", 
+      "year": 2015
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "6ba48a657c900e1b8700e3a2b88e6f355b520f6e", 
+      "title": "A Citation Centric Annotation Scheme for Scientific Articles", 
+      "url": "https://www.semanticscholar.org/paper/6ba48a657c900e1b8700e3a2b88e6f355b520f6e", 
+      "venue": "", 
+      "year": 2012
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "7978c6b8f34f96eafa3acb1ff4d5fdc1d80c97cd", 
+      "title": "Extracting semantically enriched events from biomedical literature", 
+      "url": "https://www.semanticscholar.org/paper/7978c6b8f34f96eafa3acb1ff4d5fdc1d80c97cd", 
+      "venue": "BMC Bioinformatics", 
+      "year": 2011
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "0b18924bfbd39cb54bbc6cf1bef55a6f3662f1f7", 
+      "title": "Automatic categorization of diverse experimental information in the bioscience literature", 
+      "url": "https://www.semanticscholar.org/paper/0b18924bfbd39cb54bbc6cf1bef55a6f3662f1f7", 
+      "venue": "BMC Bioinformatics", 
+      "year": 2011
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "1de33bae3f586816dba6ffafcdffde264d7eeb6f", 
+      "title": "BioCause: Annotating and analysing causality in the biomedical domain", 
+      "url": "https://www.semanticscholar.org/paper/1de33bae3f586816dba6ffafcdffde264d7eeb6f", 
+      "venue": "BMC Bioinformatics", 
+      "year": 2012
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "22924a37be3a3e83a36bb9c52c48f23f81217a86", 
+      "title": "The Role of Roles in Classifying Annotated Biomedical Text", 
+      "url": "https://www.semanticscholar.org/paper/22924a37be3a3e83a36bb9c52c48f23f81217a86", 
+      "venue": "", 
+      "year": 2007
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "1894e3f2a7e73d18b7784b98c1a705b03bff319e", 
+      "title": "Natural Language Engineering", 
+      "url": "https://www.semanticscholar.org/paper/1894e3f2a7e73d18b7784b98c1a705b03bff319e", 
+      "venue": "", 
+      "year": 2013
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "43649ffc5f1feb3db679b85d573881b2acbf9713", 
+      "title": "Towards automatic thematic sheets based on discursive categories in biomedical literature", 
+      "url": "https://www.semanticscholar.org/paper/43649ffc5f1feb3db679b85d573881b2acbf9713", 
+      "venue": "WIMS", 
+      "year": 2011
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "9fcc3086db30cbeb629dcd6706098dc4cd4cdcdf", 
+      "title": "Mining Opinion Polarity Relations of Citations", 
+      "url": "https://www.semanticscholar.org/paper/9fcc3086db30cbeb629dcd6706098dc4cd4cdcdf", 
+      "venue": "", 
+      "year": 2006
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "d0f0bdef8633dd650b433f815bf9e77e7f2c9894", 
+      "title": "Detection of Implicit Citations for Sentiment Detection", 
+      "url": "https://www.semanticscholar.org/paper/d0f0bdef8633dd650b433f815bf9e77e7f2c9894", 
+      "venue": "", 
+      "year": 2012
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "27059dfa9e0bd385bca1794bca7d4572a7939a83", 
+      "title": "BibGlimpse: The case for a light-weight reprint manager in distributed literature research", 
+      "url": "https://www.semanticscholar.org/paper/27059dfa9e0bd385bca1794bca7d4572a7939a83", 
+      "venue": "BMC Bioinformatics", 
+      "year": 2008
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "41a34945f301ed6c39cf28f108de9215426b03c6", 
+      "title": "Mining the pharmacogenomics literature - a survey of the state of the art", 
+      "url": "https://www.semanticscholar.org/paper/41a34945f301ed6c39cf28f108de9215426b03c6", 
+      "venue": "Briefings in Bioinformatics", 
+      "year": 2012
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "bb0fab3e49ae86e03c746625cf9e6569fdbf6de0", 
+      "title": "\u201cConfortation\u201d: about a new qualitative category for analyzing biomedical texts", 
+      "url": "https://www.semanticscholar.org/paper/bb0fab3e49ae86e03c746625cf9e6569fdbf6de0", 
+      "venue": "", 
+      "year": 2009
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "7dd5e5c8561ba1813ea524907c9a79cceeace95d", 
+      "title": "A Compositional Interpretation of Biomedical Event Factuality", 
+      "url": "https://www.semanticscholar.org/paper/7dd5e5c8561ba1813ea524907c9a79cceeace95d", 
+      "venue": "", 
+      "year": 2015
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "214496bbb4aae6cdd32cb258b2d7251e51d34457", 
+      "title": "Evaluation of a large-scale biomedical data annotation initiative", 
+      "url": "https://www.semanticscholar.org/paper/214496bbb4aae6cdd32cb258b2d7251e51d34457", 
+      "venue": "BMC Bioinformatics", 
+      "year": 2009
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "00f1fe233881777c97ead8528324e7c807ef9dfc", 
+      "title": "Biomedical Text Mining and Its Applications", 
+      "url": "https://www.semanticscholar.org/paper/00f1fe233881777c97ead8528324e7c807ef9dfc", 
+      "venue": "PLoS Computational Biology", 
+      "year": 2009
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "16ee10c390e4e4963083072e57ecce7999d00a65", 
+      "title": "RelEx - Relation extraction using dependency parse trees", 
+      "url": "https://www.semanticscholar.org/paper/16ee10c390e4e4963083072e57ecce7999d00a65", 
+      "venue": "Bioinformatics", 
+      "year": 2007
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "0c89ebcdc082d53c3e296951c584deeffe5d784e", 
+      "title": "Corpus annotation for mining biomedical events from literature", 
+      "url": "https://www.semanticscholar.org/paper/0c89ebcdc082d53c3e296951c584deeffe5d784e", 
+      "venue": "BMC Bioinformatics", 
+      "year": 2007
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "81f760db4b7d7beee9fdf9ed76f176e7efa1b10e", 
+      "title": "Recognizing Scientific Artifacts in Biomedical Literature", 
+      "url": "https://www.semanticscholar.org/paper/81f760db4b7d7beee9fdf9ed76f176e7efa1b10e", 
+      "venue": "Biomedical informatics insights", 
+      "year": 2013
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "2772a9ed431ac091a0e45ddbf22a2be6c60a4c1e", 
+      "title": "The Extraction of Enriched Protein-Protein Interactions from Biomedical Text", 
+      "url": "https://www.semanticscholar.org/paper/2772a9ed431ac091a0e45ddbf22a2be6c60a4c1e", 
+      "venue": "", 
+      "year": 2007
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "6a454cbb086f2b4db50b95e674822a31b2d2c47b", 
+      "title": "BioDEAL: community generation of biological annotations", 
+      "url": "https://www.semanticscholar.org/paper/6a454cbb086f2b4db50b95e674822a31b2d2c47b", 
+      "venue": "BMC Med. Inf. & Decision Making", 
+      "year": 2009
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "351bf13b8281c72706b4921292ac4eabdc90f943", 
+      "title": "Using Typed Dependencies to Study and Recognise Conceptualisation Zones in Biomedical Literature", 
+      "url": "https://www.semanticscholar.org/paper/351bf13b8281c72706b4921292ac4eabdc90f943", 
+      "venue": "PloS one", 
+      "year": 2013
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "63f84da76a6efd69027de7584fdab7f239d30190", 
+      "title": "Argumentative meanings and their stylistic configurations in clinical research publications", 
+      "url": "https://www.semanticscholar.org/paper/63f84da76a6efd69027de7584fdab7f239d30190", 
+      "venue": "Argument & Computation", 
+      "year": 2015
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "ffde8fb2d6b5b8b4411abaf77950604bbf3050a5", 
+      "title": "Event Frame Extraction Based on a Gene Regulation Corpus", 
+      "url": "https://www.semanticscholar.org/paper/ffde8fb2d6b5b8b4411abaf77950604bbf3050a5", 
+      "venue": "COLING", 
+      "year": 2008
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "7b5d28e8e3a98b07aeb1c89f4f2d2c6c29d2ce29", 
+      "title": "Enhancing Search: Events and Their Discourse Context", 
+      "url": "https://www.semanticscholar.org/paper/7b5d28e8e3a98b07aeb1c89f4f2d2c6c29d2ce29", 
+      "venue": "CICLing", 
+      "year": 2013
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "6ca613862ea2c5be17f41b6e4b8acf4f0c1815be", 
+      "title": "Integrating knowledge extracted from biomedical literature Integrating knowledge extracted from biomedical literature: normalization and evidence statements for interactions", 
+      "url": "https://www.semanticscholar.org/paper/6ca613862ea2c5be17f41b6e4b8acf4f0c1815be", 
+      "venue": "", 
+      "year": 2007
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "8cb436636740c2ff091f8b22fdad999498f282aa", 
+      "title": "Text mining for traditional Chinese medical knowledge discovery: A survey", 
+      "url": "https://www.semanticscholar.org/paper/8cb436636740c2ff091f8b22fdad999498f282aa", 
+      "venue": "Journal of Biomedical Informatics", 
+      "year": 2010
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "b71de48c410926d8808545accd4a07345a5245e7", 
+      "title": "Medical diagnosis lost in translation \u2013 Analysis of uncertainty and negation expressions in English and Swedish clinical texts", 
+      "url": "https://www.semanticscholar.org/paper/b71de48c410926d8808545accd4a07345a5245e7", 
+      "venue": "", 
+      "year": 2012
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "36c8859380285cd002f7457dfc40b75b864fd598", 
+      "title": "Automatic Classification of Factuality Levels \u2013 A Case Study on Swedish Diagnoses and the Impact of Local Context", 
+      "url": "https://www.semanticscholar.org/paper/36c8859380285cd002f7457dfc40b75b864fd598", 
+      "venue": "", 
+      "year": 2011
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "7d866d64ae327e5694aa7931977236041dc73204", 
+      "title": "Abstract of \" a Database of Causality-inferred Structure-function Information for Genomic Cis-regulatory Education", 
+      "url": "https://www.semanticscholar.org/paper/7d866d64ae327e5694aa7931977236041dc73204", 
+      "venue": "", 
+      "year": 2012
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "30663f4b5293b3e2011fb62106756ead96400b5d", 
+      "title": "\"Mining events from the literature for bioinformatics applications\" by S. Ananiadou, P. Thompson, and R. Nawaz; with Martin Vesely as coordinator", 
+      "url": "https://www.semanticscholar.org/paper/30663f4b5293b3e2011fb62106756ead96400b5d", 
+      "venue": "SIGWEB Newsletter", 
+      "year": 2013
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "5fb40177fc252605b935b4c28e013599081abff4", 
+      "title": "Multi-dimensional classification of biomedical text: Toward automated, practical provision of high-utility text to diverse users", 
+      "url": "https://www.semanticscholar.org/paper/5fb40177fc252605b935b4c28e013599081abff4", 
+      "venue": "Bioinformatics", 
+      "year": 2008
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "a65325f2f83e933d33127690da9c3db377620ad5", 
+      "title": "Modality and Negation: An Introduction to the Special Issue", 
+      "url": "https://www.semanticscholar.org/paper/a65325f2f83e933d33127690da9c3db377620ad5", 
+      "venue": "Computational Linguistics", 
+      "year": 2012
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "1a0bee0b1a049d51bc3509488765e8138de5f2cd", 
+      "title": "Recognizing speculative language in biomedical research articles: a linguistically motivated perspective", 
+      "url": "https://www.semanticscholar.org/paper/1a0bee0b1a049d51bc3509488765e8138de5f2cd", 
+      "venue": "BMC Bioinformatics", 
+      "year": 2008
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "1e54dc8be8a7f05842b058ed8ce35dd038ca1368", 
+      "title": "Biomedical text mining for research rigor and integrity: tasks, challenges, directions.", 
+      "url": "https://www.semanticscholar.org/paper/1e54dc8be8a7f05842b058ed8ce35dd038ca1368", 
+      "venue": "Briefings in bioinformatics", 
+      "year": 2017
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "58d005b486475fdd944ff622f0cc95dd8a8248e4", 
+      "title": "Frontiers of biomedical text mining: current progress", 
+      "url": "https://www.semanticscholar.org/paper/58d005b486475fdd944ff622f0cc95dd8a8248e4", 
+      "venue": "Briefings in Bioinformatics", 
+      "year": 2007
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "5a170cac2ef111d171b7eb74616762cc731a3906", 
+      "title": "Meta-Knowledge Annotation at the Event Level: Comparison between Abstracts and Full Papers", 
+      "url": "https://www.semanticscholar.org/paper/5a170cac2ef111d171b7eb74616762cc731a3906", 
+      "venue": "", 
+      "year": 2012
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "f3e18ddc6f3c8172d3d2affbbaba38c491cc2208", 
+      "title": "Meta-Knowledge Annotation of Bio-Events", 
+      "url": "https://www.semanticscholar.org/paper/f3e18ddc6f3c8172d3d2affbbaba38c491cc2208", 
+      "venue": "LREC", 
+      "year": 2010
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "645129b8a1ef5439c74d6992b30919ca061e9192", 
+      "title": "The ITI TXM Corpora: Tissue Expressions and Protein-Protein Interactions", 
+      "url": "https://www.semanticscholar.org/paper/645129b8a1ef5439c74d6992b30919ca061e9192", 
+      "venue": "", 
+      "year": 2008
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "ad30dbedf02d6f99374e1931c49248096f955986", 
+      "title": "Sentiment Analysis of Citations using Sentence Structure-Based Features", 
+      "url": "https://www.semanticscholar.org/paper/ad30dbedf02d6f99374e1931c49248096f955986", 
+      "venue": "ACL", 
+      "year": 2011
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "bee16e2cfd7ac41b55e6fcd3553cd84068fd8326", 
+      "title": "Automatic recognition of conceptualization zones in scientific articles and two life science applications", 
+      "url": "https://www.semanticscholar.org/paper/bee16e2cfd7ac41b55e6fcd3553cd84068fd8326", 
+      "venue": "Bioinformatics", 
+      "year": 2012
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "c1432b1d493548ad94683c77bd535a199936f0b6", 
+      "title": "Automatic annotation of speculation in biomedical texts: new perspectives and large-scale evaluation", 
+      "url": "https://www.semanticscholar.org/paper/c1432b1d493548ad94683c77bd535a199936f0b6", 
+      "venue": "", 
+      "year": 2010
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "2a9e1c9352187295c85cd5b6419ccedab703bf01", 
+      "title": "Are You Sure That This Happened? Assessing the Factuality Degree of Events in Text", 
+      "url": "https://www.semanticscholar.org/paper/2a9e1c9352187295c85cd5b6419ccedab703bf01", 
+      "venue": "Computational Linguistics", 
+      "year": 2012
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "12a0e015fc9434dcb6fcd6007b9c0d769b211940", 
+      "title": "Fine-Grained Certainty Level Annotations Used for Coarser-Grained E-Health Scenarios - Certainty Classification of Diagnostic Statements in Swedish Clinical Text", 
+      "url": "https://www.semanticscholar.org/paper/12a0e015fc9434dcb6fcd6007b9c0d769b211940", 
+      "venue": "CICLing", 
+      "year": 2012
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "c9da30245d4216f5b9738e9c8c150548c0ecaa7f", 
+      "title": "Encompassing Uncertainty in Argumentation Schemes", 
+      "url": "https://www.semanticscholar.org/paper/c9da30245d4216f5b9738e9c8c150548c0ecaa7f", 
+      "venue": "ArgNLP", 
+      "year": 2014
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "67650376769aabd43c17de366f96a58961d8d7e0", 
+      "title": "Biomedical Text Mining: A Survey of Recent Progress", 
+      "url": "https://www.semanticscholar.org/paper/67650376769aabd43c17de366f96a58961d8d7e0", 
+      "venue": "Mining Text Data", 
+      "year": 2012
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "214a5e4c884b6635f2deedeb265d19f9b89d6e95", 
+      "title": "On the Discoursive Structure of Computer Graphics Research Papers", 
+      "url": "https://www.semanticscholar.org/paper/214a5e4c884b6635f2deedeb265d19f9b89d6e95", 
+      "venue": "LAW@NAACL-HLT", 
+      "year": 2015
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "08938738c21bf5b3c9604d3ec6b675977d28069c", 
+      "title": "The biomedical discourse relation bank", 
+      "url": "https://www.semanticscholar.org/paper/08938738c21bf5b3c9604d3ec6b675977d28069c", 
+      "venue": "BMC Bioinformatics", 
+      "year": 2010
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "191f202f2deb09649228fbbec6b67a3243a29fe9", 
+      "title": "Extracting information from textual documents in the electronic health record: a review of recent research.", 
+      "url": "https://www.semanticscholar.org/paper/191f202f2deb09649228fbbec6b67a3243a29fe9", 
+      "venue": "Yearbook of medical informatics", 
+      "year": 2008
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "31dc13e94c1c4bac8f096c91b8167ba6e68b62a1", 
+      "title": "The first step in the development of text mining technology for cancer risk assessment: identifying and organizing scientific evidence in risk assessment literature", 
+      "url": "https://www.semanticscholar.org/paper/31dc13e94c1c4bac8f096c91b8167ba6e68b62a1", 
+      "venue": "BMC Bioinformatics", 
+      "year": 2009
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "8f14c1c812133a3069f46522a043e694255e85a4", 
+      "title": "How to Get the Most out of Your Curation Effort", 
+      "url": "https://www.semanticscholar.org/paper/8f14c1c812133a3069f46522a043e694255e85a4", 
+      "venue": "PLoS Computational Biology", 
+      "year": 2009
+    }
+  ], 
+  "doi": "10.1186/1471-2105-7-356", 
+  "influentialCitationCount": 1, 
+  "paperId": "5dbf58f5b5989d43fc5d019af202eff866a58f0a", 
+  "references": [
+    {
+      "isInfluential": false, 
+      "paperId": "ed1f6cb969f163fa8003caf7d0dbad41990140a8", 
+      "title": "MedMiner: an Internet text-mining tool for biomedical information, with application to gene expression profiling.", 
+      "url": "https://www.semanticscholar.org/paper/ed1f6cb969f163fa8003caf7d0dbad41990140a8", 
+      "venue": "BioTechniques", 
+      "year": 1999
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "b1558d0d23ce3393de06041d0d8de111be7c6c10", 
+      "title": "Extraction of biological interaction networks from scientific literature", 
+      "url": "https://www.semanticscholar.org/paper/b1558d0d23ce3393de06041d0d8de111be7c6c10", 
+      "venue": "Briefings in Bioinformatics", 
+      "year": 2005
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "9fce3a5e97d3955a35dabf1e0903a83da2d3868a", 
+      "title": "Enhancing Access to the Bibliome: The TREC Genomics Track", 
+      "url": "https://www.semanticscholar.org/paper/9fce3a5e97d3955a35dabf1e0903a83da2d3868a", 
+      "venue": "MedInfo", 
+      "year": 2004
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "da6c3fdf8ef9aae979a5dd156e074ba6691b2e2c", 
+      "title": "GENIA corpus - a semantically annotated corpus for bio-textmining", 
+      "url": "https://www.semanticscholar.org/paper/da6c3fdf8ef9aae979a5dd156e074ba6691b2e2c", 
+      "venue": "ISMB", 
+      "year": 2003
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "fdf8976d5e1c927ffffd87ab12132124c0938fa5", 
+      "title": "Tagging gene and protein names in biomedical text", 
+      "url": "https://www.semanticscholar.org/paper/fdf8976d5e1c927ffffd87ab12132124c0938fa5", 
+      "venue": "Bioinformatics", 
+      "year": 2002
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "4f2e8febc827455df9940dc84ec1a3ca7fed9497", 
+      "title": "Literature mining for the biologist: from information retrieval to biological discovery.", 
+      "url": "https://www.semanticscholar.org/paper/4f2e8febc827455df9940dc84ec1a3ca7fed9497", 
+      "venue": "Nature reviews. Genetics", 
+      "year": 2006
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "87f5004fed9d0e811670feb9900ed2d6dfc528db", 
+      "title": "Online search for logically-related noninteractive medical literatures: A systematic trial-and-error strategy", 
+      "url": "https://www.semanticscholar.org/paper/87f5004fed9d0e811670feb9900ed2d6dfc528db", 
+      "venue": "JASIS", 
+      "year": 1989
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "507da9473d1b7cf69357e9d987b71cf7b5623b4d", 
+      "title": "GENIES: a natural-language processing system for the extraction of molecular pathways from journal articles", 
+      "url": "https://www.semanticscholar.org/paper/507da9473d1b7cf69357e9d987b71cf7b5623b4d", 
+      "venue": "ISMB", 
+      "year": 2001
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "3887af98b38617720b0874319340c471f724786a", 
+      "title": "Getting to the (c)ore of knowledge: mining biomedical literature", 
+      "url": "https://www.semanticscholar.org/paper/3887af98b38617720b0874319340c471f724786a", 
+      "venue": "I. J. Medical Informatics", 
+      "year": 2002
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "46c9d5d4a9578cac6f04d09f61cf8f40336ad0b3", 
+      "title": "Text Type Structure And Logical Document Structure", 
+      "url": "https://www.semanticscholar.org/paper/46c9d5d4a9578cac6f04d09f61cf8f40336ad0b3", 
+      "venue": "", 
+      "year": 2004
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "9f3e53326eaef63544fbe6644a22949189f80662", 
+      "title": "The Language Of Bioscience: Facts, Speculations, And Statements In Between", 
+      "url": "https://www.semanticscholar.org/paper/9f3e53326eaef63544fbe6644a22949189f80662", 
+      "venue": "", 
+      "year": 2004
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "72de308314b88b53aef6cb86bd8390f334a6bd24", 
+      "title": "Categorization of Sentence Types in Medical Abstracts", 
+      "url": "https://www.semanticscholar.org/paper/72de308314b88b53aef6cb86bd8390f334a6bd24", 
+      "venue": "AMIA", 
+      "year": 2003
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "6ae6138c2038fe851d32961b7c8bd2dae9eeb7dc", 
+      "title": "Corpus Design For Biomedical Natural Language Processing", 
+      "url": "https://www.semanticscholar.org/paper/6ae6138c2038fe851d32961b7c8bd2dae9eeb7dc", 
+      "venue": "", 
+      "year": 2005
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "8988d77d33ec1377c48e9408c6f7a2f73418f8fc", 
+      "title": "A general natural-language text processor for clinical radiology.", 
+      "url": "https://www.semanticscholar.org/paper/8988d77d33ec1377c48e9408c6f7a2f73418f8fc", 
+      "venue": "Journal of the American Medical Informatics Association : JAMIA", 
+      "year": 1994
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "2f365204bf3e60465a4ed333b4db725e345a5108", 
+      "title": "Text Mining for Biology and Biomedicine", 
+      "url": "https://www.semanticscholar.org/paper/2f365204bf3e60465a4ed333b4db725e345a5108", 
+      "venue": "", 
+      "year": 2006
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "05bc39fa9723e08e080feff9fe186b389ad7f8f8", 
+      "title": "Hairpins in bookstacks: Information retrieval from biomedical text", 
+      "url": "https://www.semanticscholar.org/paper/05bc39fa9723e08e080feff9fe186b389ad7f8f8", 
+      "venue": "Briefings in Bioinformatics", 
+      "year": 2005
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "89df9acf7c3c4ad9155a3ea6a0dd37ba6722bb50", 
+      "title": "Information retrieval and knowledge discovery utilising a biomedical Semantic Web", 
+      "url": "https://www.semanticscholar.org/paper/89df9acf7c3c4ad9155a3ea6a0dd37ba6722bb50", 
+      "venue": "Briefings in Bioinformatics", 
+      "year": 2005
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "2288f965bb3e35d40d52410f0c14443399882b0e", 
+      "title": "Constructing Biological Knowledge Bases by Extracting Information from Text Sources", 
+      "url": "https://www.semanticscholar.org/paper/2288f965bb3e35d40d52410f0c14443399882b0e", 
+      "venue": "ISMB", 
+      "year": 1999
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "6bd097b315299e543d749299159716fbd5d92df9", 
+      "title": "Online tools to support literature-based discovery in the life sciences", 
+      "url": "https://www.semanticscholar.org/paper/6bd097b315299e543d749299159716fbd5d92df9", 
+      "venue": "Briefings in Bioinformatics", 
+      "year": 2005
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "558a2745d6e1ac99f77dde88d62566237bd3cfad", 
+      "title": "Text-mining and information-retrieval services for molecular biology", 
+      "url": "https://www.semanticscholar.org/paper/558a2745d6e1ac99f77dde88d62566237bd3cfad", 
+      "venue": "Genome Biology", 
+      "year": 2005
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "90fe4ffbe69a8b8dee37c145766e0073dc3e6901", 
+      "title": "Of truth and pathways: chasing bits of information through myriads of articles", 
+      "url": "https://www.semanticscholar.org/paper/90fe4ffbe69a8b8dee37c145766e0073dc3e6901", 
+      "venue": "ISMB", 
+      "year": 2002
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "84cb082cf9042b22896ca6a1cc1861eba1c019ec", 
+      "title": "Ambiguity resolution while mapping free text to the UMLS Metathesaurus.", 
+      "url": "https://www.semanticscholar.org/paper/84cb082cf9042b22896ca6a1cc1861eba1c019ec", 
+      "venue": "Proceedings. Symposium on Computer Applications in Medical Care", 
+      "year": 1994
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "6d3b3ccd05d4958043a3166eefe8d09ab332a0f6", 
+      "title": "The next generation of literature analysis: Integration of genomic analysis into text mining", 
+      "url": "https://www.semanticscholar.org/paper/6d3b3ccd05d4958043a3166eefe8d09ab332a0f6", 
+      "venue": "Briefings in Bioinformatics", 
+      "year": 2005
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "057fe70b678fbb0e63345c013adc59d6eb0bca33", 
+      "title": "TXTGate: profiling gene groups with text-based information", 
+      "url": "https://www.semanticscholar.org/paper/057fe70b678fbb0e63345c013adc59d6eb0bca33", 
+      "venue": "Genome Biology", 
+      "year": 2003
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "7b5b86b409faeaa656916214da1a3b11ad43a632", 
+      "title": "Identifying Sources of Opinions with Conditional Random Fields and Extraction Patterns", 
+      "url": "https://www.semanticscholar.org/paper/7b5b86b409faeaa656916214da1a3b11ad43a632", 
+      "venue": "HLT/EMNLP", 
+      "year": 2005
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "cb56d6dd85df69a757987fa8a0a797cc2125aacb", 
+      "title": "Zone analysis in biology articles as a basis for information extraction", 
+      "url": "https://www.semanticscholar.org/paper/cb56d6dd85df69a757987fa8a0a797cc2125aacb", 
+      "venue": "I. J. Medical Informatics", 
+      "year": 2006
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "1109a358ed48bab1c178cc3a168e059e30f594ab", 
+      "title": "Combining Text Mining and Sequence Analysis to Discover Protein Functional Regions", 
+      "url": "https://www.semanticscholar.org/paper/1109a358ed48bab1c178cc3a168e059e30f594ab", 
+      "venue": "Pacific Symposium on Biocomputing", 
+      "year": 2004
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "05ee0ead715d89cfa71768a975946d0c17f3b303", 
+      "title": "Mining the Biomedical Literature in the Genomic Era: An Overview", 
+      "url": "https://www.semanticscholar.org/paper/05ee0ead715d89cfa71768a975946d0c17f3b303", 
+      "venue": "Journal of Computational Biology", 
+      "year": 2003
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "778120ae253a8cee3501c1a07bdff7bccca0095e", 
+      "title": "An annotation scheme for discourse-level argumentation in research articles", 
+      "url": "https://www.semanticscholar.org/paper/778120ae253a8cee3501c1a07bdff7bccca0095e", 
+      "venue": "EACL", 
+      "year": 1999
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "244234efb93afa5a87167571cdb7df64aa26e72b", 
+      "title": "Zone Identification In Biology Articles As A Basis For Information Extraction", 
+      "url": "https://www.semanticscholar.org/paper/244234efb93afa5a87167571cdb7df64aa26e72b", 
+      "venue": "", 
+      "year": 2004
+    }
+  ], 
+  "title": "New directions in biomedical text annotation: definitions, guidelines and corpus construction", 
+  "url": "https://www.semanticscholar.org/paper/5dbf58f5b5989d43fc5d019af202eff866a58f0a", 
+  "venue": "BMC Bioinformatics", 
+  "year": 2006
+}

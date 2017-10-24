@@ -1,0 +1,783 @@
+{
+  "authors": [
+    {
+      "authorId": "1687622", 
+      "name": "Corinna Cortes", 
+      "url": "https://www.semanticscholar.org/author/1687622"
+    }, 
+    {
+      "authorId": "1709415", 
+      "name": "Mehryar Mohri", 
+      "url": "https://www.semanticscholar.org/author/1709415"
+    }, 
+    {
+      "authorId": "2435268", 
+      "name": "Afshin Rostamizadeh", 
+      "url": "https://www.semanticscholar.org/author/2435268"
+    }
+  ], 
+  "citationVelocity": 20, 
+  "citations": [
+    {
+      "isInfluential": false, 
+      "paperId": "53436a58a2caef6b19ac8cb106373a5894a832f8", 
+      "title": "Bayesian Efficient Multiple Kernel Learning", 
+      "url": "https://www.semanticscholar.org/paper/53436a58a2caef6b19ac8cb106373a5894a832f8", 
+      "venue": "ICML", 
+      "year": 2012
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "0a603ebca5534ae8fc8b7c2d52109031ded1019e", 
+      "title": "Algorithms for Learning Kernels Based on Centered Alignment", 
+      "url": "https://www.semanticscholar.org/paper/0a603ebca5534ae8fc8b7c2d52109031ded1019e", 
+      "venue": "Journal of Machine Learning Research", 
+      "year": 2012
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "29d5c0e598dd678abbdef557beb89704adcac87a", 
+      "title": "Multimedia classification and event detection using double fusion", 
+      "url": "https://www.semanticscholar.org/paper/29d5c0e598dd678abbdef557beb89704adcac87a", 
+      "venue": "Multimedia Tools and Applications", 
+      "year": 2013
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "61dd423e811557cacd52b45e2efd84d06df65455", 
+      "title": "Explosive hazard detection with feature and decision level fusion, multiple kernel learning, and fuzzy integrals", 
+      "url": "https://www.semanticscholar.org/paper/61dd423e811557cacd52b45e2efd84d06df65455", 
+      "venue": "2016 IEEE Symposium Series on Computational Intelligence (SSCI)", 
+      "year": 2016
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "85a12f0a7cfae9c83060622566fe03e7221fd1d3", 
+      "title": "Learning Discriminative Metrics via Generative Models and Kernel Learning", 
+      "url": "https://www.semanticscholar.org/paper/85a12f0a7cfae9c83060622566fe03e7221fd1d3", 
+      "venue": "ArXiv", 
+      "year": 2011
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "3c097277fc196b06c2b0b58405232f8fc9230b4a", 
+      "title": "Learning Kernels with Radiuses of Minimum Enclosing Balls", 
+      "url": "https://www.semanticscholar.org/paper/3c097277fc196b06c2b0b58405232f8fc9230b4a", 
+      "venue": "NIPS", 
+      "year": 2010
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "c1523443091c49e8ff43f7fab3d290d3128a3053", 
+      "title": "Structured Prediction by Conditional Risk Minimization", 
+      "url": "https://www.semanticscholar.org/paper/c1523443091c49e8ff43f7fab3d290d3128a3053", 
+      "venue": "", 
+      "year": 2016
+    }, 
+    {
+      "isInfluential": true, 
+      "paperId": "7e1f5fd8ebc2884969cf4005caa3d50ce66a9026", 
+      "title": "Efficient Sparse Generalized Multiple Kernel Learning", 
+      "url": "https://www.semanticscholar.org/paper/7e1f5fd8ebc2884969cf4005caa3d50ce66a9026", 
+      "venue": "IEEE Transactions on Neural Networks", 
+      "year": 2011
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "38a2af2881c56772da36b60dd9be845639413363", 
+      "title": "Generalized Multiple Kernel Learning With Data-Dependent Priors", 
+      "url": "https://www.semanticscholar.org/paper/38a2af2881c56772da36b60dd9be845639413363", 
+      "venue": "IEEE Transactions on Neural Networks and Learning Systems", 
+      "year": 2015
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "55068b208713615398db214aa8437c47400b95b1", 
+      "title": "Coping with the Computational and Statistical Bipolar Nature of Machine Learning", 
+      "url": "https://www.semanticscholar.org/paper/55068b208713615398db214aa8437c47400b95b1", 
+      "venue": "", 
+      "year": 2012
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "efd6119f8bb6f7ca13b4ff028b6eb6e8ad03bd26", 
+      "title": "Multiple Kernel Learning and Automatic Subspace Relevance Determination for High-dimensional Neuroimaging Data", 
+      "url": "https://www.semanticscholar.org/paper/efd6119f8bb6f7ca13b4ff028b6eb6e8ad03bd26", 
+      "venue": "ArXiv", 
+      "year": 2017
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "2626b48de0a33be0472ee5574ef21c6301f99680", 
+      "title": "Estimating signals over graphs via multi-kernel learning", 
+      "url": "https://www.semanticscholar.org/paper/2626b48de0a33be0472ee5574ef21c6301f99680", 
+      "venue": "2016 IEEE Statistical Signal Processing Workshop (SSP)", 
+      "year": 2016
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "35d330f803efcd4f89078fe8560b87dbe1cac189", 
+      "title": "Model Selection with the Covering Number of the Ball of RKHS", 
+      "url": "https://www.semanticscholar.org/paper/35d330f803efcd4f89078fe8560b87dbe1cac189", 
+      "venue": "CIKM", 
+      "year": 2014
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "fbc37fea2a88cfd9f900d8b24d23328f8523fe24", 
+      "title": "Parameter-Free Spectral Kernel Learning", 
+      "url": "https://www.semanticscholar.org/paper/fbc37fea2a88cfd9f900d8b24d23328f8523fe24", 
+      "venue": "UAI", 
+      "year": 2010
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "4c978ead5732466f26bff7031a6b1f8f45060cd6", 
+      "title": "A primal method for multiple kernel learning", 
+      "url": "https://www.semanticscholar.org/paper/4c978ead5732466f26bff7031a6b1f8f45060cd6", 
+      "venue": "Neural Computing and Applications", 
+      "year": 2012
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "c03aa0a2e0a302a82ee4122bed1f806c6f40ccdf", 
+      "title": "Principal Composite Kernel Feature Analysis: Data-Dependent Kernel Approach", 
+      "url": "https://www.semanticscholar.org/paper/c03aa0a2e0a302a82ee4122bed1f806c6f40ccdf", 
+      "venue": "IEEE Transactions on Knowledge and Data Engineering", 
+      "year": 2013
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "74b9df55fe7abaa2aba0ce850dd6f290cba16da1", 
+      "title": "Identifying directional connections in brain networks via multi-kernel granger models", 
+      "url": "https://www.semanticscholar.org/paper/74b9df55fe7abaa2aba0ce850dd6f290cba16da1", 
+      "venue": "2017 IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP)", 
+      "year": 2017
+    }, 
+    {
+      "isInfluential": true, 
+      "paperId": "01b8ecb2351ec3ae27539c17175a39a8860b8fad", 
+      "title": "Regularization Strategies and Empirical Bayesian Learning for MKL", 
+      "url": "https://www.semanticscholar.org/paper/01b8ecb2351ec3ae27539c17175a39a8860b8fad", 
+      "venue": "ArXiv", 
+      "year": 2010
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "27267608c845590ade9e328daae45cfac4ff0da8", 
+      "title": "Efficient multiple scale kernel classifiers", 
+      "url": "https://www.semanticscholar.org/paper/27267608c845590ade9e328daae45cfac4ff0da8", 
+      "venue": "2016 IEEE International Conference on Big Data (Big Data)", 
+      "year": 2016
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "f562b90e215875b760cece5642efda92490afb3e", 
+      "title": "New Generalization Bounds for Learning Kernels", 
+      "url": "https://www.semanticscholar.org/paper/f562b90e215875b760cece5642efda92490afb3e", 
+      "venue": "ArXiv", 
+      "year": 2009
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "b608cfbe3df1fed480055bf0860eda1a0c52c18f", 
+      "title": "Greedy Unsupervised Multiple Kernel Learning", 
+      "url": "https://www.semanticscholar.org/paper/b608cfbe3df1fed480055bf0860eda1a0c52c18f", 
+      "venue": "SETN", 
+      "year": 2012
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "7adfc2f854e2ea45c29d22d6e2dcccdd527f46a8", 
+      "title": "Facial expression recognition using $${l}_{p}$$ l p -norm MKL multiclass-SVM", 
+      "url": "https://www.semanticscholar.org/paper/7adfc2f854e2ea45c29d22d6e2dcccdd527f46a8", 
+      "venue": "Machine Vision and Applications", 
+      "year": 2015
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "31e4f1f1e09ccfafbe44c3ecd44e72836e260671", 
+      "title": "A Unifying Framework for Typical Multitask Multiple Kernel Learning Problems", 
+      "url": "https://www.semanticscholar.org/paper/31e4f1f1e09ccfafbe44c3ecd44e72836e260671", 
+      "venue": "IEEE Transactions on Neural Networks and Learning Systems", 
+      "year": 2014
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "98af3a04149dcf48b7b88a4ffda74ec8fe478168", 
+      "title": "Multi-kernel Correlation Filter for Visual Tracking", 
+      "url": "https://www.semanticscholar.org/paper/98af3a04149dcf48b7b88a4ffda74ec8fe478168", 
+      "venue": "2015 IEEE International Conference on Computer Vision (ICCV)", 
+      "year": 2015
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "146adb105ebcece295a24e8cf3643c9fd0f89bcb", 
+      "title": "Double Fusion for Multimedia Event Detection", 
+      "url": "https://www.semanticscholar.org/paper/146adb105ebcece295a24e8cf3643c9fd0f89bcb", 
+      "venue": "MMM", 
+      "year": 2012
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "0b93501a41d1550a4544923b6105e56330e81467", 
+      "title": "A Unifying View of Multiple Kernel Learning", 
+      "url": "https://www.semanticscholar.org/paper/0b93501a41d1550a4544923b6105e56330e81467", 
+      "venue": "ECML/PKDD", 
+      "year": 2010
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "a1b8336c3dedad2890d9cbebd19e20115e21d9d5", 
+      "title": "Feature and decision level fusion using multiple kernel learning and fuzzy integrals", 
+      "url": "https://www.semanticscholar.org/paper/a1b8336c3dedad2890d9cbebd19e20115e21d9d5", 
+      "venue": "FUZZ-IEEE", 
+      "year": 2015
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "b695052732594b3fb50d4dd8cf3b6bcafc65da7c", 
+      "title": "Effective transfer tagging from image to video", 
+      "url": "https://www.semanticscholar.org/paper/b695052732594b3fb50d4dd8cf3b6bcafc65da7c", 
+      "venue": "TOMCCAP", 
+      "year": 2013
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "9a7332e7af8e9faf832c59c1fb0b985bfccd0b53", 
+      "title": "Multiple Kernel Learning Algorithms", 
+      "url": "https://www.semanticscholar.org/paper/9a7332e7af8e9faf832c59c1fb0b985bfccd0b53", 
+      "venue": "Journal of Machine Learning Research", 
+      "year": 2011
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "3accbff9088dcac95c7b50e3233be88a9a7b0232", 
+      "title": "Multi-kernel based nonlinear models for connectivity identification of brain networks", 
+      "url": "https://www.semanticscholar.org/paper/3accbff9088dcac95c7b50e3233be88a9a7b0232", 
+      "venue": "2016 IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP)", 
+      "year": 2016
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "36f5601ba2d771139b899f8ca052b495a35f74c6", 
+      "title": "Handling Ambiguity via Input-Output Kernel Learning", 
+      "url": "https://www.semanticscholar.org/paper/36f5601ba2d771139b899f8ca052b495a35f74c6", 
+      "venue": "2012 IEEE 12th International Conference on Data Mining", 
+      "year": 2012
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "2516fca3b915862937144da33830e11471c2e2b4", 
+      "title": "Multiple kernel aggregation using fuzzy integrals", 
+      "url": "https://www.semanticscholar.org/paper/2516fca3b915862937144da33830e11471c2e2b4", 
+      "venue": "FUZZ-IEEE", 
+      "year": 2013
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "2981d817744505cf6d9d527564fc0f45f0a590c2", 
+      "title": "Non-Sparse Multiple Kernel Fisher Discriminant Analysis", 
+      "url": "https://www.semanticscholar.org/paper/2981d817744505cf6d9d527564fc0f45f0a590c2", 
+      "venue": "Journal of Machine Learning Research", 
+      "year": 2012
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "ed50e5b2c4bf96b8e55465bf4eed4f7b32f6db31", 
+      "title": "On the convergence rate of lp-norm multiple kernel learning", 
+      "url": "https://www.semanticscholar.org/paper/ed50e5b2c4bf96b8e55465bf4eed4f7b32f6db31", 
+      "venue": "Journal of Machine Learning Research", 
+      "year": 2012
+    }, 
+    {
+      "isInfluential": true, 
+      "paperId": "0e873f084cbb2445f87543236b84cdc53dcc3551", 
+      "title": "Learning Kernels for Semantic Clustering: A Deep Approach", 
+      "url": "https://www.semanticscholar.org/paper/0e873f084cbb2445f87543236b84cdc53dcc3551", 
+      "venue": "HLT-NAACL", 
+      "year": 2015
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "8c4140b0a2981183262595db208cef1084673b3d", 
+      "title": "Non-Sparse Regularization for Multiple Kernel Learning", 
+      "url": "https://www.semanticscholar.org/paper/8c4140b0a2981183262595db208cef1084673b3d", 
+      "venue": "", 
+      "year": 2010
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "1b61386ef863fd1f94d4cd6036ea5c5d8609c361", 
+      "title": "Generalization Bounds for Supervised Dimensionality Reduction", 
+      "url": "https://www.semanticscholar.org/paper/1b61386ef863fd1f94d4cd6036ea5c5d8609c361", 
+      "venue": "FE@NIPS", 
+      "year": 2015
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "2347ff467d9748989e2b546f20f7c31ab61b8517", 
+      "title": "Unifying Framework for Fast Learning Rate of Non-Sparse Multiple Kernel Learning", 
+      "url": "https://www.semanticscholar.org/paper/2347ff467d9748989e2b546f20f7c31ab61b8517", 
+      "venue": "NIPS", 
+      "year": 2011
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "298ae292b205f990176b1f626001d7f37af9cbcf", 
+      "title": "Kernel-Based Reconstruction of Graph Signals", 
+      "url": "https://www.semanticscholar.org/paper/298ae292b205f990176b1f626001d7f37af9cbcf", 
+      "venue": "IEEE Transactions on Signal Processing", 
+      "year": 2017
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "076cddccd9393775943b77a28af0dec483ecd08b", 
+      "title": "Comparison of feature-level and kernel-level data fusion methods in multi-sensory fall detection", 
+      "url": "https://www.semanticscholar.org/paper/076cddccd9393775943b77a28af0dec483ecd08b", 
+      "venue": "2016 IEEE 18th International Workshop on Multimedia Signal Processing (MMSP)", 
+      "year": 2016
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "2ab7befa54803a0c03333bdb2189bb8ccd1141db", 
+      "title": "On p-norm Path Following in Multiple Kernel Learning for Non-linear Feature Selection", 
+      "url": "https://www.semanticscholar.org/paper/2ab7befa54803a0c03333bdb2189bb8ccd1141db", 
+      "venue": "ICML", 
+      "year": 2014
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "2394e007bc85be9fd72a362b74f1c6b91d0d8569", 
+      "title": "Multiple Kernel Learning: A Unifying Probabilistic Viewpoint Multiple Kernel Learning: A Unifying Probabilistic Viewpoint", 
+      "url": "https://www.semanticscholar.org/paper/2394e007bc85be9fd72a362b74f1c6b91d0d8569", 
+      "venue": "", 
+      "year": 2011
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "3fc6cc5d2baded73aae8367062fed6bc82e051a7", 
+      "title": "Alignment based kernel learning with a continuous set of base kernels", 
+      "url": "https://www.semanticscholar.org/paper/3fc6cc5d2baded73aae8367062fed6bc82e051a7", 
+      "venue": "Machine Learning", 
+      "year": 2013
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "15a615bbbbd0f2684c7b66c6d88f7268a82324b8", 
+      "title": "Unsupervised Multiple Kernel Learning", 
+      "url": "https://www.semanticscholar.org/paper/15a615bbbbd0f2684c7b66c6d88f7268a82324b8", 
+      "venue": "ACML", 
+      "year": 2011
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "e5352cfdd3dd3ebfb1f7564ba1fd216e33e19a25", 
+      "title": "A Survey of Modern Questions and Challenges in Feature Extraction", 
+      "url": "https://www.semanticscholar.org/paper/e5352cfdd3dd3ebfb1f7564ba1fd216e33e19a25", 
+      "venue": "FE@NIPS", 
+      "year": 2015
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "872f58b23125db4af83ad95eb67a7812963e586e", 
+      "title": "lp-Norm Multiple Kernel Learning", 
+      "url": "https://www.semanticscholar.org/paper/872f58b23125db4af83ad95eb67a7812963e586e", 
+      "venue": "Journal of Machine Learning Research", 
+      "year": 2011
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "8d1709c0c56647c7af83d452bf493a547f15a991", 
+      "title": "Multiple Operator-valued Kernel Learning", 
+      "url": "https://www.semanticscholar.org/paper/8d1709c0c56647c7af83d452bf493a547f15a991", 
+      "venue": "NIPS", 
+      "year": 2012
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "dea0cf19bd96c6426911e3db2e86b0cba1dddd48", 
+      "title": "`p-Norm Multiple Kernel Learning", 
+      "url": "https://www.semanticscholar.org/paper/dea0cf19bd96c6426911e3db2e86b0cba1dddd48", 
+      "venue": "", 
+      "year": 2008
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "65152d68e8c3bdb9ca036e20d7cfc44835ecaee1", 
+      "title": "Insights from Classifying Visual Concepts with Multiple Kernel Learning", 
+      "url": "https://www.semanticscholar.org/paper/65152d68e8c3bdb9ca036e20d7cfc44835ecaee1", 
+      "venue": "PloS one", 
+      "year": 2012
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "95a4096c6359af8953e3c54b09b6edc38cb0d7fa", 
+      "title": "A compressive multi-kernel method for privacy-preserving machine learning", 
+      "url": "https://www.semanticscholar.org/paper/95a4096c6359af8953e3c54b09b6edc38cb0d7fa", 
+      "venue": "2017 International Joint Conference on Neural Networks (IJCNN)", 
+      "year": 2017
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "f557df59cd088ffb8e27506d8612d062407e96f4", 
+      "title": "Multimedia event detection with \u21132-regularized logistic Gaussian mixture regression", 
+      "url": "https://www.semanticscholar.org/paper/f557df59cd088ffb8e27506d8612d062407e96f4", 
+      "venue": "Neural Computing and Applications", 
+      "year": 2014
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "1a3a9625158ba20960a57a55a0a7c2197bd49a9e", 
+      "title": "Informedia @ TRECVID 2011", 
+      "url": "https://www.semanticscholar.org/paper/1a3a9625158ba20960a57a55a0a7c2197bd49a9e", 
+      "venue": "", 
+      "year": 2015
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "103c3fbbfe3951af39f513ab0e9c846435f5325b", 
+      "title": "Foundations of Coupled Nonlinear Dimensionality Reduction", 
+      "url": "https://www.semanticscholar.org/paper/103c3fbbfe3951af39f513ab0e9c846435f5325b", 
+      "venue": "ArXiv", 
+      "year": 2015
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "07de8371ad4901356145722aa29abaeafd0986b9", 
+      "title": "Towards Usable Multimedia Event Detection", 
+      "url": "https://www.semanticscholar.org/paper/07de8371ad4901356145722aa29abaeafd0986b9", 
+      "venue": "", 
+      "year": 2017
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "07bb74341a4c123aa445d00d7e2b231d6e9e6b9d", 
+      "title": "Fast convergent algorithms for multi-kernel regression", 
+      "url": "https://www.semanticscholar.org/paper/07bb74341a4c123aa445d00d7e2b231d6e9e6b9d", 
+      "venue": "2016 IEEE Statistical Signal Processing Workshop (SSP)", 
+      "year": 2016
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "4a9d867ba04fa8b15d271fcab3283881632aa1fc", 
+      "title": "Informedia @ Trecvid 2011 Informedia @ Trecvid 2011 Multimedia Event Detection, Semantic Indexing 1 Multimedia Event Detection (med) 1.1 Feature Extraction", 
+      "url": "https://www.semanticscholar.org/paper/4a9d867ba04fa8b15d271fcab3283881632aa1fc", 
+      "venue": "", 
+      "year": 2012
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "f8015e31d1421f6aee5e17fc3907070b8e0a5e59", 
+      "title": "Towards Usable Multimedia Event Detection from Web Videos", 
+      "url": "https://www.semanticscholar.org/paper/f8015e31d1421f6aee5e17fc3907070b8e0a5e59", 
+      "venue": "", 
+      "year": 2016
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "bc954fc4d1315931db8d0b38025c619fdd97e01e", 
+      "title": "Theoretical Foundations and Algorithms for Learning with Multiple Kernels", 
+      "url": "https://www.semanticscholar.org/paper/bc954fc4d1315931db8d0b38025c619fdd97e01e", 
+      "venue": "", 
+      "year": 2010
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "4370bfc104ee8dcaf9625537bff09e0ff05a57c3", 
+      "title": "Detecting Crowdedness Spot in City Transportation", 
+      "url": "https://www.semanticscholar.org/paper/4370bfc104ee8dcaf9625537bff09e0ff05a57c3", 
+      "venue": "IEEE Trans. Vehicular Technology", 
+      "year": 2013
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "a8d7df993fc0b76c9ba2bce269429209620074ec", 
+      "title": "Soft Margin Multiple Kernel Learning", 
+      "url": "https://www.semanticscholar.org/paper/a8d7df993fc0b76c9ba2bce269429209620074ec", 
+      "venue": "IEEE Transactions on Neural Networks and Learning Systems", 
+      "year": 2013
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "c037ae248c18942e2ad3b0b78fbbef880b3bcd12", 
+      "title": "Local Deep Kernel Learning for Efficient Non-linear SVM Prediction", 
+      "url": "https://www.semanticscholar.org/paper/c037ae248c18942e2ad3b0b78fbbef880b3bcd12", 
+      "venue": "ICML", 
+      "year": 2013
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "86f59a41510a0801010901c6adf163d61392d683", 
+      "title": "Combining Multiple Kernels by Augmenting the Kernel Matrix", 
+      "url": "https://www.semanticscholar.org/paper/86f59a41510a0801010901c6adf163d61392d683", 
+      "venue": "MCS", 
+      "year": 2010
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "2a63161cecdf567b8b19615e37aa977aaf455322", 
+      "title": "Learning Non-Linear Combinations of Kernels", 
+      "url": "https://www.semanticscholar.org/paper/2a63161cecdf567b8b19615e37aa977aaf455322", 
+      "venue": "NIPS", 
+      "year": 2009
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "4b1818baabab40bf61e5e57d1b68ed1cd0549259", 
+      "title": "Study of kernel machines towards brain-computer interfaces. (Apprentissage et noyau pour les interfaces cerveau-machine)", 
+      "url": "https://www.semanticscholar.org/paper/4b1818baabab40bf61e5e57d1b68ed1cd0549259", 
+      "venue": "", 
+      "year": 2012
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "3b14f725803ffe2cea1ead766cc2c298ade5899f", 
+      "title": "Wavelet kernel learning", 
+      "url": "https://www.semanticscholar.org/paper/3b14f725803ffe2cea1ead766cc2c298ade5899f", 
+      "venue": "Pattern Recognition", 
+      "year": 2011
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "96c0905fdaf591f63463106041b2d25eaac3cea5", 
+      "title": "SpicyMKL: a fast algorithm for Multiple Kernel Learning with thousands of kernels", 
+      "url": "https://www.semanticscholar.org/paper/96c0905fdaf591f63463106041b2d25eaac3cea5", 
+      "venue": "Machine Learning", 
+      "year": 2011
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "27b42a4c11a8aaf61e4a521db48e2acdc8933f19", 
+      "title": "Deep multilayer multiple kernel learning", 
+      "url": "https://www.semanticscholar.org/paper/27b42a4c11a8aaf61e4a521db48e2acdc8933f19", 
+      "venue": "Neural Computing and Applications", 
+      "year": 2015
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "c3662b1354c38ddbbf564f35833a2cdd9e5f793e", 
+      "title": "Max-margin adaptive model for complex video pattern recognition", 
+      "url": "https://www.semanticscholar.org/paper/c3662b1354c38ddbbf564f35833a2cdd9e5f793e", 
+      "venue": "Multimedia Tools and Applications", 
+      "year": 2014
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "cc118788889c24953de6e2221c5043dd147167d0", 
+      "title": "Sparse Multiple Kernel Learning with Geometric Convergence Rate", 
+      "url": "https://www.semanticscholar.org/paper/cc118788889c24953de6e2221c5043dd147167d0", 
+      "venue": "ArXiv", 
+      "year": 2013
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "16993574b4d01c28ee4d35722be971d48690e6c4", 
+      "title": "Multiple Kernel Learning and the SMO Algorithm", 
+      "url": "https://www.semanticscholar.org/paper/16993574b4d01c28ee4d35722be971d48690e6c4", 
+      "venue": "NIPS", 
+      "year": 2010
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "8322bf0b0079c4f5bbbf0e0bbe62d0d650830b32", 
+      "title": "A Metric-learning based framework for Support Vector Machines and Multiple Kernel Learning", 
+      "url": "https://www.semanticscholar.org/paper/8322bf0b0079c4f5bbbf0e0bbe62d0d650830b32", 
+      "venue": "ArXiv", 
+      "year": 2013
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "854e80c8bd27a551df3fe54a5d5a6b9c0cb3a5f7", 
+      "title": "The Local Rademacher Complexity of `p-Norm Multiple Kernel Learning", 
+      "url": "https://www.semanticscholar.org/paper/854e80c8bd27a551df3fe54a5d5a6b9c0cb3a5f7", 
+      "venue": "", 
+      "year": 2011
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "b85d3730916b5105fb0ab7a6eb2f64a2b5e2b324", 
+      "title": "Eigenvalues perturbation of integral operator for kernel selection", 
+      "url": "https://www.semanticscholar.org/paper/b85d3730916b5105fb0ab7a6eb2f64a2b5e2b324", 
+      "venue": "CIKM", 
+      "year": 2013
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "e2c67607b57db8156d54834b5815a8ee73881d92", 
+      "title": "Multiple Kernel Learning For Explosive Hazard Detection in Forward-Looking Ground-Penetrating Radar", 
+      "url": "https://www.semanticscholar.org/paper/e2c67607b57db8156d54834b5815a8ee73881d92", 
+      "venue": "", 
+      "year": 2012
+    }
+  ], 
+  "doi": null, 
+  "influentialCitationCount": 3, 
+  "paperId": "0da606e1d6c3f7679292c422c6e668a556a1fefb", 
+  "references": [
+    {
+      "isInfluential": false, 
+      "paperId": "30eaab5f353f80b2d66ec8e1d255b64ee59776bd", 
+      "title": "Kernel Methods for Pattern Analysis", 
+      "url": "https://www.semanticscholar.org/paper/30eaab5f353f80b2d66ec8e1d255b64ee59776bd", 
+      "venue": "ICTAI", 
+      "year": 2003
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "2e918c9ceae2422090951000e40445f04dce818d", 
+      "title": "A Training Algorithm for Optimal Margin Classifiers", 
+      "url": "https://www.semanticscholar.org/paper/2e918c9ceae2422090951000e40445f04dce818d", 
+      "venue": "COLT", 
+      "year": 1992
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "94db635f54d25bdb95edb42185aca93ba53b051b", 
+      "title": "Biographies, Bollywood, Boom-boxes and Blenders: Domain Adaptation for Sentiment Classification", 
+      "url": "https://www.semanticscholar.org/paper/94db635f54d25bdb95edb42185aca93ba53b051b", 
+      "venue": "ACL", 
+      "year": 2007
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "8054e44cc63b7c360f0d01cdca1dc060e2269b87", 
+      "title": "Ridge Regression Learning Algorithm in Dual Variables", 
+      "url": "https://www.semanticscholar.org/paper/8054e44cc63b7c360f0d01cdca1dc060e2269b87", 
+      "venue": "ICML", 
+      "year": 1998
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "2afea0ad74ed804e2eb419c5a1a64b3d9c5cfc9a", 
+      "title": "On the Complexity of Learning the Kernel Matrix", 
+      "url": "https://www.semanticscholar.org/paper/2afea0ad74ed804e2eb419c5a1a64b3d9c5cfc9a", 
+      "venue": "NIPS", 
+      "year": 2002
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "8559ff5718b5a5ff1ffaaf5f91efaf25ee518457", 
+      "title": "Multi-task feature and kernel selection for SVMs", 
+      "url": "https://www.semanticscholar.org/paper/8559ff5718b5a5ff1ffaaf5f91efaf25ee518457", 
+      "venue": "ICML", 
+      "year": 2004
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "05357314fe2da7c2248b03d89b7ab9e358cbf01e", 
+      "title": "Learning with kernels", 
+      "url": "https://www.semanticscholar.org/paper/05357314fe2da7c2248b03d89b7ab9e358cbf01e", 
+      "venue": "", 
+      "year": 1998
+    }, 
+    {
+      "isInfluential": true, 
+      "paperId": "62e2d0cbe656a6f95dbf349d2a7158b948ce5820", 
+      "title": "Learning the Kernel Function via Regularization", 
+      "url": "https://www.semanticscholar.org/paper/62e2d0cbe656a6f95dbf349d2a7158b948ce5820", 
+      "venue": "Journal of Machine Learning Research", 
+      "year": 2005
+    }, 
+    {
+      "isInfluential": true, 
+      "paperId": "2740b1c450c7b6fa0d7cb8b52681c2e5b6f72752", 
+      "title": "Stability and Generalization", 
+      "url": "https://www.semanticscholar.org/paper/2740b1c450c7b6fa0d7cb8b52681c2e5b6f72752", 
+      "venue": "Journal of Machine Learning Research", 
+      "year": 2002
+    }, 
+    {
+      "isInfluential": true, 
+      "paperId": "0948365ef39ef153e61e9569ade541cf881c7c2a", 
+      "title": "Learning the Kernel Matrix with Semidefinite Programming", 
+      "url": "https://www.semanticscholar.org/paper/0948365ef39ef153e61e9569ade541cf881c7c2a", 
+      "venue": "Journal of Machine Learning Research", 
+      "year": 2002
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "572dd2d5d75227bb878430c9375b9be92cc7e6e9", 
+      "title": "Statistical learning theory", 
+      "url": "https://www.semanticscholar.org/paper/572dd2d5d75227bb878430c9375b9be92cc7e6e9", 
+      "venue": "", 
+      "year": 1998
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "2067539a1db59e3a97f7a35b6840f9fde1558c93", 
+      "title": "Exploring Large Feature Spaces with Hierarchical Multiple Kernel Learning", 
+      "url": "https://www.semanticscholar.org/paper/2067539a1db59e3a97f7a35b6840f9fde1558c93", 
+      "venue": "NIPS", 
+      "year": 2008
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "24e6cf0796237f21c780a3f0c996817f57b3a1bd", 
+      "title": "Support-vector networks", 
+      "url": "https://www.semanticscholar.org/paper/24e6cf0796237f21c780a3f0c996817f57b3a1bd", 
+      "venue": "Machine Learning", 
+      "year": 1995
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "3f3ca750fd00e7c321d9573f2f9e9a68836fafaa", 
+      "title": "Learning Bounds for Support Vector Machines with Learned Kernels", 
+      "url": "https://www.semanticscholar.org/paper/3f3ca750fd00e7c321d9573f2f9e9a68836fafaa", 
+      "venue": "COLT", 
+      "year": 2006
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "1889b9c3e8bc1118448b95fca38d6eff0bfca64d", 
+      "title": "Learning the Kernel with Hyperkernels", 
+      "url": "https://www.semanticscholar.org/paper/1889b9c3e8bc1118448b95fca38d6eff0bfca64d", 
+      "venue": "Journal of Machine Learning Research", 
+      "year": 2005
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "14aa6c6674d4fb59f3241f1847855478ca3b187c", 
+      "title": "Multiclass multiple kernel learning", 
+      "url": "https://www.semanticscholar.org/paper/14aa6c6674d4fb59f3241f1847855478ca3b187c", 
+      "venue": "ICML", 
+      "year": 2007
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "e4f7083dc2ece13b0a9b76d0e111614bb519724c", 
+      "title": "Learning Convex Combinations of Continuously Parameterized Basic Kernels", 
+      "url": "https://www.semanticscholar.org/paper/e4f7083dc2ece13b0a9b76d0e111614bb519724c", 
+      "venue": "COLT", 
+      "year": 2005
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "6169b42fc553f4b57b812c865c122684f468ec7f", 
+      "title": "Learning Sequence Kernels", 
+      "url": "https://www.semanticscholar.org/paper/6169b42fc553f4b57b812c865c122684f468ec7f", 
+      "venue": "", 
+      "year": 2008
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "4eed65d4cadfd8ad82408fedd5fcd7e88dedb15d", 
+      "title": "Nonstationary kernel combination", 
+      "url": "https://www.semanticscholar.org/paper/4eed65d4cadfd8ad82408fedd5fcd7e88dedb15d", 
+      "venue": "ICML", 
+      "year": 2006
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "69da7894f6d8dc4f8aba12dc60fbd6be8aafe3e7", 
+      "title": "A DC-programming algorithm for kernel selection", 
+      "url": "https://www.semanticscholar.org/paper/69da7894f6d8dc4f8aba12dc60fbd6be8aafe3e7", 
+      "venue": "ICML", 
+      "year": 2006
+    }
+  ], 
+  "title": "L2 Regularization for Learning Kernels", 
+  "url": "https://www.semanticscholar.org/paper/0da606e1d6c3f7679292c422c6e668a556a1fefb", 
+  "venue": "UAI", 
+  "year": 2009
+}

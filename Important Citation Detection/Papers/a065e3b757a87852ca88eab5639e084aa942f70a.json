@@ -1,0 +1,575 @@
+{
+  "authors": [
+    {
+      "authorId": "2937809", 
+      "name": "Md. Arafat Sultan", 
+      "url": "https://www.semanticscholar.org/author/2937809"
+    }, 
+    {
+      "authorId": "2105138", 
+      "name": "Steven Bethard", 
+      "url": "https://www.semanticscholar.org/author/2105138"
+    }, 
+    {
+      "authorId": "2184912", 
+      "name": "Tamara Sumner", 
+      "url": "https://www.semanticscholar.org/author/2184912"
+    }
+  ], 
+  "citationVelocity": 22, 
+  "citations": [
+    {
+      "isInfluential": false, 
+      "paperId": "20073d0b19dad48fc1c195cd28076c06ad9848f4", 
+      "title": "UBC: Cubes for English Semantic Textual Similarity and Supervised Approaches for Interpretable STS", 
+      "url": "https://www.semanticscholar.org/paper/20073d0b19dad48fc1c195cd28076c06ad9848f4", 
+      "venue": "SemEval@NAACL-HLT", 
+      "year": 2015
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "94b5c41ccc1566262d5cbfc9664731ebdaa08dee", 
+      "title": "Interpretable semantic textual similarity: Finding and explaining differences between sentences", 
+      "url": "https://www.semanticscholar.org/paper/94b5c41ccc1566262d5cbfc9664731ebdaa08dee", 
+      "venue": "Knowl.-Based Syst.", 
+      "year": 2017
+    }, 
+    {
+      "isInfluential": true, 
+      "paperId": "4a915edfec84da786d270c162a4155ecf1a9f94a", 
+      "title": "BIT at SemEval-2017 Task 1: Using Semantic Information Space to Evaluate Semantic Textual Similarity", 
+      "url": "https://www.semanticscholar.org/paper/4a915edfec84da786d270c162a4155ecf1a9f94a", 
+      "venue": "SemEval@ACL", 
+      "year": 2017
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "d8c2bae7eee9a2e5011bab6b9c3888b23ea8c6c8", 
+      "title": "Spinning Straw into Gold: Using Free Text to Train Monolingual Alignment Models for Non-factoid Question Answering", 
+      "url": "https://www.semanticscholar.org/paper/d8c2bae7eee9a2e5011bab6b9c3888b23ea8c6c8", 
+      "venue": "HLT-NAACL", 
+      "year": 2015
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "ae3db4b25a67bed397b8491bb4b401ead93f52d5", 
+      "title": "Exploiting Sentence Similarities for Better Alignments", 
+      "url": "https://www.semanticscholar.org/paper/ae3db4b25a67bed397b8491bb4b401ead93f52d5", 
+      "venue": "EMNLP", 
+      "year": 2016
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "bd5986cf8e78fbdb607678c5239f342cc2c8e873", 
+      "title": "I do not disagree: leveraging monolingual alignment to detect disagreement in dialogue", 
+      "url": "https://www.semanticscholar.org/paper/bd5986cf8e78fbdb607678c5239f342cc2c8e873", 
+      "venue": "ACL", 
+      "year": 2015
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "1017d4ea58f48ac07278f14e635f1aa93e89fc81", 
+      "title": "DLS$@$CU: Sentence Similarity from Word Alignment", 
+      "url": "https://www.semanticscholar.org/paper/1017d4ea58f48ac07278f14e635f1aa93e89fc81", 
+      "venue": "SemEval@COLING", 
+      "year": 2014
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "aa4d0647efa1bdd241d84ca6104ffc55b9505550", 
+      "title": "ISCAS_NLP at SemEval-2016 Task 1: Sentence Similarity Based on Support Vector Regression using Multiple Features", 
+      "url": "https://www.semanticscholar.org/paper/aa4d0647efa1bdd241d84ca6104ffc55b9505550", 
+      "venue": "SemEval@NAACL-HLT", 
+      "year": 2016
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "c880ed5ef0870890762c1e76203118559c254749", 
+      "title": "WOLVESAAR at SemEval-2016 Task 1: Replicating the Success of Monolingual Word Alignment and Neural Embeddings for Semantic Textual Similarity", 
+      "url": "https://www.semanticscholar.org/paper/c880ed5ef0870890762c1e76203118559c254749", 
+      "venue": "SemEval@NAACL-HLT", 
+      "year": 2016
+    }, 
+    {
+      "isInfluential": true, 
+      "paperId": "27de9c8dae3da4eb020115f261870ae1791a47ee", 
+      "title": "Extending Monolingual Semantic Textual Similarity Task to Multiple Cross-lingual Settings", 
+      "url": "https://www.semanticscholar.org/paper/27de9c8dae3da4eb020115f261870ae1791a47ee", 
+      "venue": "LREC", 
+      "year": 2016
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "1e8a15fddae94f19b8cf263496c1d0234ee70142", 
+      "title": "DCU: Using Distributional Semantics and Domain Adaptation for the Semantic Textual Similarity SemEval-2015 Task 2", 
+      "url": "https://www.semanticscholar.org/paper/1e8a15fddae94f19b8cf263496c1d0234ee70142", 
+      "venue": "SemEval@NAACL-HLT", 
+      "year": 2015
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "187425a7fb07f54ec472bc0a1e5e3932affbfa46", 
+      "title": "Science Question Answering using Instructional Materials", 
+      "url": "https://www.semanticscholar.org/paper/187425a7fb07f54ec472bc0a1e5e3932affbfa46", 
+      "venue": "ACL", 
+      "year": 2016
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "ad26846925e327b44a5ad2b815e080cea61a800d", 
+      "title": "Computing Semantic Text Similarity Using Rich Features", 
+      "url": "https://www.semanticscholar.org/paper/ad26846925e327b44a5ad2b815e080cea61a800d", 
+      "venue": "PACLIC", 
+      "year": 2015
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "17a474f02d9a3793d13dfe2984151d694863fbb4", 
+      "title": "Fast and Easy Short Answer Grading with High Accuracy", 
+      "url": "https://www.semanticscholar.org/paper/17a474f02d9a3793d13dfe2984151d694863fbb4", 
+      "venue": "HLT-NAACL", 
+      "year": 2016
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "3de79088f43f3a8cf0b0ba9c4d64f20b82fd553c", 
+      "title": "FCICU at SemEval-2017 Task 1: Sense-Based Language Independent Semantic Textual Similarity Approach", 
+      "url": "https://www.semanticscholar.org/paper/3de79088f43f3a8cf0b0ba9c4d64f20b82fd553c", 
+      "venue": "SemEval@ACL", 
+      "year": 2017
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "635e9373437478477fd4e93740addb39620f446b", 
+      "title": "A Continuously Growing Dataset of Sentential Paraphrases", 
+      "url": "https://www.semanticscholar.org/paper/635e9373437478477fd4e93740addb39620f446b", 
+      "venue": "", 
+      "year": 2017
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "94f768408d9bfe3789c7105c192025a7fe2cfcf3", 
+      "title": "UPF-Cobalt Submission to WMT15 Metrics Task", 
+      "url": "https://www.semanticscholar.org/paper/94f768408d9bfe3789c7105c192025a7fe2cfcf3", 
+      "venue": "WMT@EMNLP", 
+      "year": 2015
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "0de24a44719e33982db28643a53ca6780579a699", 
+      "title": "Feature-Rich Two-Stage Logistic Regression for Monolingual Alignment", 
+      "url": "https://www.semanticscholar.org/paper/0de24a44719e33982db28643a53ca6780579a699", 
+      "venue": "EMNLP", 
+      "year": 2015
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "27b575bfca4e984b17a23d13ea18b529b95be51a", 
+      "title": "SOPA: Random Forests Regression for the Semantic Textual Similarity task", 
+      "url": "https://www.semanticscholar.org/paper/27b575bfca4e984b17a23d13ea18b529b95be51a", 
+      "venue": "SemEval@NAACL-HLT", 
+      "year": 2015
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "b0f4f4443b31f19dce58e3ea989de3ce47b9a5c4", 
+      "title": "Framing QA as Building and Ranking Intersentence Answer Justifications", 
+      "url": "https://www.semanticscholar.org/paper/b0f4f4443b31f19dce58e3ea989de3ce47b9a5c4", 
+      "venue": "", 
+      "year": 2015
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "01cec6262b3a275cfa3aca020ffba0ac2c685c56", 
+      "title": "SuperAgent: A Customer Service Chatbot for E-commerce Websites", 
+      "url": "https://www.semanticscholar.org/paper/01cec6262b3a275cfa3aca020ffba0ac2c685c56", 
+      "venue": "ACL", 
+      "year": 2017
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "bc179f8c9cfe3b4b0867ed8a4814c9b8318fc198", 
+      "title": "iUBC at SemEval-2016 Task 2: RNNs and LSTMs for interpretable STS", 
+      "url": "https://www.semanticscholar.org/paper/bc179f8c9cfe3b4b0867ed8a4814c9b8318fc198", 
+      "venue": "SemEval@NAACL-HLT", 
+      "year": 2016
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "c441527a7b70624a8448fedbe46104356a67153b", 
+      "title": "An Optimal Quadratic Approach to Monolingual Paraphrase Alignment", 
+      "url": "https://www.semanticscholar.org/paper/c441527a7b70624a8448fedbe46104356a67153b", 
+      "venue": "NODALIDA", 
+      "year": 2015
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "b72774c6a50e5b954954eddccc4d76dffc520896", 
+      "title": "BIT at SemEval-2016 Task 1: Sentence Similarity Based on Alignments and Vector with the Weight of Information Content", 
+      "url": "https://www.semanticscholar.org/paper/b72774c6a50e5b954954eddccc4d76dffc520896", 
+      "venue": "SemEval@NAACL-HLT", 
+      "year": 2016
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "6ce83cede4d31b40c0b5bed6d1899d89de2ee28b", 
+      "title": "PPDB 2.0: Better paraphrase ranking, fine-grained entailment relations, word embeddings, and style classification", 
+      "url": "https://www.semanticscholar.org/paper/6ce83cede4d31b40c0b5bed6d1899d89de2ee28b", 
+      "venue": "ACL", 
+      "year": 2015
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "cb0a0dde571f6232324d90bb0ac97fad7a93c77e", 
+      "title": "LIPN-IIMAS at SemEval-2016 Task 1: Random Forest Regression Experiments on Align-and-Differentiate and Word Embeddings penalizing strategies", 
+      "url": "https://www.semanticscholar.org/paper/cb0a0dde571f6232324d90bb0ac97fad7a93c77e", 
+      "venue": "SemEval@NAACL-HLT", 
+      "year": 2016
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "1bc4ad28bf871190b6c38035fd1c4231cbfed6a6", 
+      "title": "USFD at SemEval-2016 Task 1: Putting different State-of-the-Arts into a Box", 
+      "url": "https://www.semanticscholar.org/paper/1bc4ad28bf871190b6c38035fd1c4231cbfed6a6", 
+      "venue": "SemEval@NAACL-HLT", 
+      "year": 2016
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "98d7d8fa5835ea1f214b49a4c1a22ed88d7922d1", 
+      "title": "ITNLP-AiKF at SemEval-2017 Task 1: Rich Features Based SVR for Semantic Textual Similarity Computing", 
+      "url": "https://www.semanticscholar.org/paper/98d7d8fa5835ea1f214b49a4c1a22ed88d7922d1", 
+      "venue": "SemEval@ACL", 
+      "year": 2017
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "4eea23a02764cd34698d0b954ac12b26fa5e19c2", 
+      "title": "Cross level semantic similarity: an evaluation framework for universal measures of similarity", 
+      "url": "https://www.semanticscholar.org/paper/4eea23a02764cd34698d0b954ac12b26fa5e19c2", 
+      "venue": "Language Resources and Evaluation", 
+      "year": 2016
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "e0fb3ab6dfdf9c351e2c837e480850b4186aa961", 
+      "title": "DLS$@$CU: Sentence Similarity from Word Alignment and Semantic Vector Composition", 
+      "url": "https://www.semanticscholar.org/paper/e0fb3ab6dfdf9c351e2c837e480850b4186aa961", 
+      "venue": "SemEval@NAACL-HLT", 
+      "year": 2015
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "777547f6bfa5f223b259722ab6d2ec5d17a754c6", 
+      "title": "SimiHawk at SemEval-2016 Task 1: A Deep Ensemble System for Semantic Textual Similarity", 
+      "url": "https://www.semanticscholar.org/paper/777547f6bfa5f223b259722ab6d2ec5d17a754c6", 
+      "venue": "SemEval@NAACL-HLT", 
+      "year": 2016
+    }, 
+    {
+      "isInfluential": true, 
+      "paperId": "4183c0747979d339fbc58d3a861e5a1138a9e1b5", 
+      "title": "Using Contextual Information for Machine Translation Evaluation", 
+      "url": "https://www.semanticscholar.org/paper/4183c0747979d339fbc58d3a861e5a1138a9e1b5", 
+      "venue": "LREC", 
+      "year": 2016
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "de386fd471ef739cc650579b52ab2417172ec14a", 
+      "title": "CobaltF: A Fluent Metric for MT Evaluation", 
+      "url": "https://www.semanticscholar.org/paper/de386fd471ef739cc650579b52ab2417172ec14a", 
+      "venue": "WMT", 
+      "year": 2016
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "874e9feccd16d6a9a6cf0af373500bedf94f97f8", 
+      "title": "Adding Context to Semantic Data-Driven Paraphrasing", 
+      "url": "https://www.semanticscholar.org/paper/874e9feccd16d6a9a6cf0af373500bedf94f97f8", 
+      "venue": "*SEM@ACL", 
+      "year": 2016
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "db74d7501ba3e6d795c7a2435e8a363fa105bead", 
+      "title": "Learning Answer-Entailing Structures for Machine Comprehension", 
+      "url": "https://www.semanticscholar.org/paper/db74d7501ba3e6d795c7a2435e8a363fa105bead", 
+      "venue": "ACL", 
+      "year": 2015
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "50e9084c4dc4153403348ebd002af8f22fcbc35f", 
+      "title": "UoB-UK at SemEval-2016 Task 1: A Flexible and Extendable System for Semantic Text Similarity using Types, Surprise and Phrase Linking", 
+      "url": "https://www.semanticscholar.org/paper/50e9084c4dc4153403348ebd002af8f22fcbc35f", 
+      "venue": "SemEval@NAACL-HLT", 
+      "year": 2016
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "10d24488091f3b2050b4cdf4d7e2922e366d1f60", 
+      "title": "Alleviating overfitting for polysemous words for word representation estimation using lexicons", 
+      "url": "https://www.semanticscholar.org/paper/10d24488091f3b2050b4cdf4d7e2922e366d1f60", 
+      "venue": "2017 International Joint Conference on Neural Networks (IJCNN)", 
+      "year": 2017
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "6c61c81ba6df1f47734e7c5bcf928c9276bfce2c", 
+      "title": "DLS$@$CU at SemEval-2016 Task 1: Supervised Models of Sentence Similarity", 
+      "url": "https://www.semanticscholar.org/paper/6c61c81ba6df1f47734e7c5bcf928c9276bfce2c", 
+      "venue": "SemEval@NAACL-HLT", 
+      "year": 2016
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "9a75ef477b09fb868ee80c76602efa9e03696a67", 
+      "title": "UWB at SemEval-2016 Task 1: Semantic Textual Similarity using Lexical, Syntactic, and Semantic Information", 
+      "url": "https://www.semanticscholar.org/paper/9a75ef477b09fb868ee80c76602efa9e03696a67", 
+      "venue": "SemEval@NAACL-HLT", 
+      "year": 2016
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "16084914bc3729f86f46ac6267ea7a42e7951d41", 
+      "title": "SemEval-2014 Task 10: Multilingual Semantic Textual Similarity", 
+      "url": "https://www.semanticscholar.org/paper/16084914bc3729f86f46ac6267ea7a42e7951d41", 
+      "venue": "SemEval@COLING", 
+      "year": 2014
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "59018eb4d0a5161a12cdca42cbcb6bf78d73612f", 
+      "title": "A Joint Model for Answer Sentence Ranking and Answer Extraction", 
+      "url": "https://www.semanticscholar.org/paper/59018eb4d0a5161a12cdca42cbcb6bf78d73612f", 
+      "venue": "TACL", 
+      "year": 2016
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "04e78bc367196caf460791063cb913a5a84ac448", 
+      "title": "IISCNLP at SemEval-2016 Task 2: Interpretable STS with ILP based Multiple Chunk Aligner", 
+      "url": "https://www.semanticscholar.org/paper/04e78bc367196caf460791063cb913a5a84ac448", 
+      "venue": "SemEval@NAACL-HLT", 
+      "year": 2016
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "7de2bbe6c2b738b0b413973c621b7d8987f05cbd", 
+      "title": "Higher-order Lexical Semantic Models for Non-factoid Answer Reranking", 
+      "url": "https://www.semanticscholar.org/paper/7de2bbe6c2b738b0b413973c621b7d8987f05cbd", 
+      "venue": "TACL", 
+      "year": 2015
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "00b29d896781fb9d74687d5a6b3cd411a063ddba", 
+      "title": "Bayesian Supervised Domain Adaptation for Short Text Similarity", 
+      "url": "https://www.semanticscholar.org/paper/00b29d896781fb9d74687d5a6b3cd411a063ddba", 
+      "venue": "HLT-NAACL", 
+      "year": 2016
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "0cb58e47f6ccbfbeb28af2f1a20ac94b0814b307", 
+      "title": "NUIG-UNLP at SemEval-2016 Task 1: Soft Alignment and Deep Learning for Semantic Textual Similarity", 
+      "url": "https://www.semanticscholar.org/paper/0cb58e47f6ccbfbeb28af2f1a20ac94b0814b307", 
+      "venue": "SemEval@NAACL-HLT", 
+      "year": 2016
+    }
+  ], 
+  "doi": null, 
+  "influentialCitationCount": 3, 
+  "paperId": "a065e3b757a87852ca88eab5639e084aa942f70a", 
+  "references": [
+    {
+      "isInfluential": false, 
+      "paperId": "505da4d6f9618028c7977a2b4d4b625b26897080", 
+      "title": "Recognizing Textual Entailment with Tree Edit Distance Algorithms", 
+      "url": "https://www.semanticscholar.org/paper/505da4d6f9618028c7977a2b4d4b625b26897080", 
+      "venue": "", 
+      "year": 2005
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "4f410ab5c8b12b34b38421241366ee456bbebab9", 
+      "title": "Incorporating Non-local Information into Information Extraction Systems by Gibbs Sampling", 
+      "url": "https://www.semanticscholar.org/paper/4f410ab5c8b12b34b38421241366ee456bbebab9", 
+      "venue": "ACL", 
+      "year": 2005
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "1d9a43c277434ebdba3256db2b3b6695d2620a4f", 
+      "title": "Learning Alignments and Leveraging Natural Logic", 
+      "url": "https://www.semanticscholar.org/paper/1d9a43c277434ebdba3256db2b3b6695d2620a4f", 
+      "venue": "", 
+      "year": 2007
+    }, 
+    {
+      "isInfluential": true, 
+      "paperId": "581f4e8d74b9ffa3d1e4fbbac8d8742de79cb6c2", 
+      "title": "A Phrase-Based Alignment Model for Natural Language Inference", 
+      "url": "https://www.semanticscholar.org/paper/581f4e8d74b9ffa3d1e4fbbac8d8742de79cb6c2", 
+      "venue": "EMNLP", 
+      "year": 2008
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "32a437ecdc20cc76c01e37c08920317ea18fde50", 
+      "title": "Generating Typed Dependency Parses from Phrase Structure Parses", 
+      "url": "https://www.semanticscholar.org/paper/32a437ecdc20cc76c01e37c08920317ea18fde50", 
+      "venue": "", 
+      "year": 2006
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "6d9c315f716f3527b0e09c94bfb7870328a91ef6", 
+      "title": "UMBC_EBIQUITY-CORE: Semantic Textual Similarity Systems", 
+      "url": "https://www.semanticscholar.org/paper/6d9c315f716f3527b0e09c94bfb7870328a91ef6", 
+      "venue": "*SEM@NAACL-HLT", 
+      "year": 2013
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "3fa58a0dcbf7392e02f744a0f729ba8010b7334c", 
+      "title": "Feature-Rich Part-of-Speech Tagging with a Cyclic Dependency Network", 
+      "url": "https://www.semanticscholar.org/paper/3fa58a0dcbf7392e02f744a0f729ba8010b7334c", 
+      "venue": "HLT-NAACL", 
+      "year": 2003
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "40a951d1c0dabf28682ae47c6cf82e682b2c18cc", 
+      "title": "Discriminative Learning over Constrained Latent Representations", 
+      "url": "https://www.semanticscholar.org/paper/40a951d1c0dabf28682ae47c6cf82e682b2c18cc", 
+      "venue": "HLT-NAACL", 
+      "year": 2010
+    }, 
+    {
+      "isInfluential": true, 
+      "paperId": "03feca688989940fd4a5a13ac8837403b1af5e25", 
+      "title": "Answer Extraction as Sequence Tagging with Tree Edit Distance", 
+      "url": "https://www.semanticscholar.org/paper/03feca688989940fd4a5a13ac8837403b1af5e25", 
+      "venue": "HLT-NAACL", 
+      "year": 2013
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "7acfdc905f734abf966aed58abb983bc015ff7fe", 
+      "title": "Unsupervised Construction of Large Paraphrase Corpora: Exploiting Massively Parallel News Sources", 
+      "url": "https://www.semanticscholar.org/paper/7acfdc905f734abf966aed58abb983bc015ff7fe", 
+      "venue": "COLING", 
+      "year": 2004
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "a508159293cdfc7fcc8d5027097a7c699a1aa10b", 
+      "title": "Recognizing Textual Entailment with LCC\u2019s GROUNDHOG System", 
+      "url": "https://www.semanticscholar.org/paper/a508159293cdfc7fcc8d5027097a7c699a1aa10b", 
+      "venue": "", 
+      "year": 2005
+    }, 
+    {
+      "isInfluential": true, 
+      "paperId": "618b5e78062cdeb02da4eb2262ceca5df568c1a4", 
+      "title": "A Lightweight and High Performance Monolingual Word Aligner", 
+      "url": "https://www.semanticscholar.org/paper/618b5e78062cdeb02da4eb2262ceca5df568c1a4", 
+      "venue": "ACL", 
+      "year": 2013
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "21bf7bf9a2d197e3bfb17c366794c0175e3f51a7", 
+      "title": "UKP: Computing Semantic Textual Similarity by Combining Multiple Content Similarity Measures", 
+      "url": "https://www.semanticscholar.org/paper/21bf7bf9a2d197e3bfb17c366794c0175e3f51a7", 
+      "venue": "SemEval@NAACL-HLT", 
+      "year": 2012
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "79d16c323cc2584178fbfd2cf4095f2a350fefb4", 
+      "title": "Re-examining Machine Translation Metrics for Paraphrase Identification", 
+      "url": "https://www.semanticscholar.org/paper/79d16c323cc2584178fbfd2cf4095f2a350fefb4", 
+      "venue": "HLT-NAACL", 
+      "year": 2012
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "7ff5cff8e1c33b30226bf0b2384cbfd7481a4332", 
+      "title": "Paraphrase Identification as Probabilistic Quasi-Synchronous Recognition", 
+      "url": "https://www.semanticscholar.org/paper/7ff5cff8e1c33b30226bf0b2384cbfd7481a4332", 
+      "venue": "ACL/IJCNLP", 
+      "year": 2009
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "2ec97bc051581481ab274a4facdfb468994ef0cc", 
+      "title": "Paraphrasing with Bilingual Parallel Corpora", 
+      "url": "https://www.semanticscholar.org/paper/2ec97bc051581481ab274a4facdfb468994ef0cc", 
+      "venue": "ACL", 
+      "year": 2005
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "bc3db492047da12beae9cc3ced5feea6b16df10b", 
+      "title": "A Discourse Commitment-Based Framework for Recognizing Textual Entailment", 
+      "url": "https://www.semanticscholar.org/paper/bc3db492047da12beae9cc3ced5feea6b16df10b", 
+      "venue": "", 
+      "year": 2007
+    }, 
+    {
+      "isInfluential": true, 
+      "paperId": "00e6e722afcc64ed9bf0bd6a3b7b96440149846a", 
+      "title": "Semi-Markov Phrase-Based Monolingual Alignment", 
+      "url": "https://www.semanticscholar.org/paper/00e6e722afcc64ed9bf0bd6a3b7b96440149846a", 
+      "venue": "EMNLP", 
+      "year": 2013
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "136326377c122560768db674e35f5bcd6de3bc40", 
+      "title": "The Second PASCAL Recognising Textual Entailment Challenge", 
+      "url": "https://www.semanticscholar.org/paper/136326377c122560768db674e35f5bcd6de3bc40", 
+      "venue": "", 
+      "year": 2006
+    }, 
+    {
+      "isInfluential": true, 
+      "paperId": "a1ca5c13808d034c5b619799885c414bc272a7df", 
+      "title": "A Joint Phrasal and Dependency Model for Paraphrase Alignment", 
+      "url": "https://www.semanticscholar.org/paper/a1ca5c13808d034c5b619799885c414bc272a7df", 
+      "venue": "COLING", 
+      "year": 2012
+    }, 
+    {
+      "isInfluential": true, 
+      "paperId": "1163f911d5515e13dc1a141fb6501af756af39f9", 
+      "title": "Optimal and Syntactically-Informed Decoding for Monolingual Phrase-Based Alignment", 
+      "url": "https://www.semanticscholar.org/paper/1163f911d5515e13dc1a141fb6501af756af39f9", 
+      "venue": "ACL", 
+      "year": 2011
+    }, 
+    {
+      "isInfluential": true, 
+      "paperId": "9ae62a9f18d2e29d2ad9b08e3418d6fd083d27d5", 
+      "title": "PPDB: The Paraphrase Database", 
+      "url": "https://www.semanticscholar.org/paper/9ae62a9f18d2e29d2ad9b08e3418d6fd083d27d5", 
+      "venue": "HLT-NAACL", 
+      "year": 2013
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "f0e8a010e276bf10f54d3006a2b4ae89c7e2b9d5", 
+      "title": "*SEM 2013 shared task: Semantic Textual Similarity", 
+      "url": "https://www.semanticscholar.org/paper/f0e8a010e276bf10f54d3006a2b4ae89c7e2b9d5", 
+      "venue": "*SEM@NAACL-HLT", 
+      "year": 2013
+    }
+  ], 
+  "title": "Back to Basics for Monolingual Alignment: Exploiting Word Similarity and Contextual Evidence", 
+  "url": "https://www.semanticscholar.org/paper/a065e3b757a87852ca88eab5639e084aa942f70a", 
+  "venue": "TACL", 
+  "year": 2014
+}

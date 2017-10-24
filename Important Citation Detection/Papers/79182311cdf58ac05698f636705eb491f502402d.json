@@ -1,0 +1,372 @@
+{
+  "authors": [
+    {
+      "authorId": "22143731", 
+      "name": "Thomas M\u00fcller", 
+      "url": "https://www.semanticscholar.org/author/22143731"
+    }, 
+    {
+      "authorId": "1750769", 
+      "name": "Ryan Cotterell", 
+      "url": "https://www.semanticscholar.org/author/1750769"
+    }, 
+    {
+      "authorId": "2277248", 
+      "name": "Alexander M. Fraser", 
+      "url": "https://www.semanticscholar.org/author/2277248"
+    }, 
+    {
+      "authorId": "1760927", 
+      "name": "Hinrich Sch\u00fctze", 
+      "url": "https://www.semanticscholar.org/author/1760927"
+    }
+  ], 
+  "citationVelocity": 13, 
+  "citations": [
+    {
+      "isInfluential": true, 
+      "paperId": "96d1029a962cc757d550e59bf72a9934e7e9283d", 
+      "title": "Leveraging Inflection Tables for Stemming and Lemmatization", 
+      "url": "https://www.semanticscholar.org/paper/96d1029a962cc757d550e59bf72a9934e7e9283d", 
+      "venue": "ACL", 
+      "year": 2016
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "a676aeca5ddae3bc4b54cae682f36d3832e366de", 
+      "title": "ISI at the SIGMORPHON 2017 Shared Task on Morphological Reinflection", 
+      "url": "https://www.semanticscholar.org/paper/a676aeca5ddae3bc4b54cae682f36d3832e366de", 
+      "venue": "CoNLL Shared Task", 
+      "year": 2017
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "a429f6b8fed05da307f2e94c0994e10c2296d134", 
+      "title": "Dealing with word-internal modification and spelling variation in data-driven lemmatization", 
+      "url": "https://www.semanticscholar.org/paper/a429f6b8fed05da307f2e94c0994e10c2296d134", 
+      "venue": "LaTeCH@ACL", 
+      "year": 2016
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "3cff5b3a0f91233e2c8c64347792505535a27e22", 
+      "title": "Using longest common subsequence and character models to predict word forms", 
+      "url": "https://www.semanticscholar.org/paper/3cff5b3a0f91233e2c8c64347792505535a27e22", 
+      "venue": "SIGMORPHON", 
+      "year": 2016
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "1201e55c80be9a1b6e8d6ad93eedc5707ccd7947", 
+      "title": "The SIGMORPHON 2016 Shared Task - Morphological Reinflection", 
+      "url": "https://www.semanticscholar.org/paper/1201e55c80be9a1b6e8d6ad93eedc5707ccd7947", 
+      "venue": "SIGMORPHON", 
+      "year": 2016
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "3507fde78d1098b191ac6633166792f87061c449", 
+      "title": "MED: The LMU System for the SIGMORPHON 2016 Shared Task on Morphological Reinflection", 
+      "url": "https://www.semanticscholar.org/paper/3507fde78d1098b191ac6633166792f87061c449", 
+      "venue": "SIGMORPHON", 
+      "year": 2016
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "06a5554084ed5e80131fc3a1757b977cff82b6c2", 
+      "title": "CoNLL-SIGMORPHON 2017 Shared Task: Universal Morphological Reinflection in 52 Languages", 
+      "url": "https://www.semanticscholar.org/paper/06a5554084ed5e80131fc3a1757b977cff82b6c2", 
+      "venue": "CoNLL Shared Task", 
+      "year": 2017
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "6f1c8af38a8673a65fd8b5bfe9dcc67c2b230495", 
+      "title": "Morphological Analysis without Expert Annotation", 
+      "url": "https://www.semanticscholar.org/paper/6f1c8af38a8673a65fd8b5bfe9dcc67c2b230495", 
+      "venue": "EACL", 
+      "year": 2017
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "12c61ee4f804d4007fc12cfd0d13ba260c051e48", 
+      "title": "A Neural Lemmatizer for Bengali", 
+      "url": "https://www.semanticscholar.org/paper/12c61ee4f804d4007fc12cfd0d13ba260c051e48", 
+      "venue": "LREC", 
+      "year": 2016
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "25e811243bd02503a4aa33bffc0c9956128de388", 
+      "title": "Single-Model Encoder-Decoder with Explicit Morphological Representation for Reinflection", 
+      "url": "https://www.semanticscholar.org/paper/25e811243bd02503a4aa33bffc0c9956128de388", 
+      "venue": "ACL", 
+      "year": 2016
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "960c226a871414d1e8b510c0e99007858ddef832", 
+      "title": "A Rich Morphological Tagger for English: Exploring the Cross-Linguistic Tradeoff Between Morphology and Syntax", 
+      "url": "https://www.semanticscholar.org/paper/960c226a871414d1e8b510c0e99007858ddef832", 
+      "venue": "EACL", 
+      "year": 2017
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "949c3e853f58f0553fcdee58afd91134b0dc0131", 
+      "title": "BenLem (A Bengali Lemmatizer) and Its Role in WSD", 
+      "url": "https://www.semanticscholar.org/paper/949c3e853f58f0553fcdee58afd91134b0dc0131", 
+      "venue": "ACM Trans. Asian & Low-Resource Lang. Inf. Process.", 
+      "year": 2016
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "f0fbee10fe0c71f5cce039f6f2d1996aeb1055fe", 
+      "title": "LAMB: A Good Shepherd of Morphologically Rich Languages", 
+      "url": "https://www.semanticscholar.org/paper/f0fbee10fe0c71f5cce039f6f2d1996aeb1055fe", 
+      "venue": "EMNLP", 
+      "year": 2016
+    }, 
+    {
+      "isInfluential": true, 
+      "paperId": "6aed32124e761167332f1175909c6b0864e54bb3", 
+      "title": "Context Sensitive Lemmatization Using Two Successive Bidirectional Gated Recurrent Networks", 
+      "url": "https://www.semanticscholar.org/paper/6aed32124e761167332f1175909c6b0864e54bb3", 
+      "venue": "ACL", 
+      "year": 2017
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "1cb5034c70617b83a9cae7006b75c184efdc6e65", 
+      "title": "Neural Multi-Source Morphological Reinflection", 
+      "url": "https://www.semanticscholar.org/paper/1cb5034c70617b83a9cae7006b75c184efdc6e65", 
+      "venue": "EACL", 
+      "year": 2017
+    }, 
+    {
+      "isInfluential": true, 
+      "paperId": "0d55803deffec4fed03c6b341c774e836d3eae2a", 
+      "title": "Detecting Annotation Scheme Variation in Out-of-Domain Treebanks", 
+      "url": "https://www.semanticscholar.org/paper/0d55803deffec4fed03c6b341c774e836d3eae2a", 
+      "venue": "LREC", 
+      "year": 2016
+    }
+  ], 
+  "doi": null, 
+  "influentialCitationCount": 3, 
+  "paperId": "79182311cdf58ac05698f636705eb491f502402d", 
+  "references": [
+    {
+      "isInfluential": false, 
+      "paperId": "f96bda0053733a8c7c1333227a6df23e55457c33", 
+      "title": "Stochastic Gradient Descent Training for L1-regularized Log-linear Models with Cumulative Penalty", 
+      "url": "https://www.semanticscholar.org/paper/f96bda0053733a8c7c1333227a6df23e55457c33", 
+      "venue": "ACL/IJCNLP", 
+      "year": 2009
+    }, 
+    {
+      "isInfluential": true, 
+      "paperId": "41c0b294a120b4053002de83f116483800e292eb", 
+      "title": "Learning Morphology with Morfette", 
+      "url": "https://www.semanticscholar.org/paper/41c0b294a120b4053002de83f116483800e292eb", 
+      "venue": "LREC", 
+      "year": 2008
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "2f5102ec3f70d0dea98c957cc2cab4d15d83a2da", 
+      "title": "The Stanford CoreNLP Natural Language Processing Toolkit", 
+      "url": "https://www.semanticscholar.org/paper/2f5102ec3f70d0dea98c957cc2cab4d15d83a2da", 
+      "venue": "ACL", 
+      "year": 2014
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "111d6b5d407970e85091e4ba78c591e39dd27520", 
+      "title": "Stochastic Contextual Edit Distance and Probabilistic FSTs", 
+      "url": "https://www.semanticscholar.org/paper/111d6b5d407970e85091e4ba78c591e39dd27520", 
+      "venue": "ACL", 
+      "year": 2014
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "626c9137a314eb098911ccefd2c9ab2bb2a3423b", 
+      "title": "FreeLing 3.0: Towards Wider Multilinguality", 
+      "url": "https://www.semanticscholar.org/paper/626c9137a314eb098911ccefd2c9ab2bb2a3423b", 
+      "venue": "LREC", 
+      "year": 2012
+    }, 
+    {
+      "isInfluential": true, 
+      "paperId": "16e373cca8b61002a42c98c2047de57a733c9d10", 
+      "title": "Joint Processing and Discriminative Training for Letter-to-Phoneme Conversion", 
+      "url": "https://www.semanticscholar.org/paper/16e373cca8b61002a42c98c2047de57a733c9d10", 
+      "venue": "ACL", 
+      "year": 2008
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "24beb987b722d4a25d3157a43000e685aa8f8874", 
+      "title": "A Maximum Entropy Model For Part-Of-Speech Tagging", 
+      "url": "https://www.semanticscholar.org/paper/24beb987b722d4a25d3157a43000e685aa8f8874", 
+      "venue": "", 
+      "year": 1996
+    }, 
+    {
+      "isInfluential": true, 
+      "paperId": "967963baa4cd8acdd82d1a0640fd4070af9b29c3", 
+      "title": "Simple Data-Driven Context-Sensitive Lemmatization", 
+      "url": "https://www.semanticscholar.org/paper/967963baa4cd8acdd82d1a0640fd4070af9b29c3", 
+      "venue": "Procesamiento del Lenguaje Natural", 
+      "year": 2006
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "0b44fcbeea9415d400c5f5789d6b892b6f98daff", 
+      "title": "Building a Large Annotated Corpus of English: The Penn Treebank", 
+      "url": "https://www.semanticscholar.org/paper/0b44fcbeea9415d400c5f5789d6b892b6f98daff", 
+      "venue": "Computational Linguistics", 
+      "year": 1993
+    }, 
+    {
+      "isInfluential": true, 
+      "paperId": "23c393ba7718da5d0dd160c68001ead6231d8db4", 
+      "title": "Algorithms on Strings, Trees, and Sequences - Computer Science and Computational Biology", 
+      "url": "https://www.semanticscholar.org/paper/23c393ba7718da5d0dd160c68001ead6231d8db4", 
+      "venue": "SIGACT News", 
+      "year": 1997
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "60b7568672af6a7e60097044e21c244517827bd8", 
+      "title": "More accurate tests for the statistical significance of result differences", 
+      "url": "https://www.semanticscholar.org/paper/60b7568672af6a7e60097044e21c244517827bd8", 
+      "venue": "COLING", 
+      "year": 2000
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "8ebfbfcab567228e7f07bea5f75974313adf92b9", 
+      "title": "Robust Morphological Tagging with Word Representations", 
+      "url": "https://www.semanticscholar.org/paper/8ebfbfcab567228e7f07bea5f75974313adf92b9", 
+      "venue": "HLT-NAACL", 
+      "year": 2015
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "cc48491d5526eccf81e6883090961e8004bbd289", 
+      "title": "Robust multilingual statistical morphological generation models", 
+      "url": "https://www.semanticscholar.org/paper/cc48491d5526eccf81e6883090961e8004bbd289", 
+      "venue": "ACL", 
+      "year": 2013
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "7783fd2984ac139194d21c10bd83b4c9764826a3", 
+      "title": "Probabilistic Reasoning in Intelligent Systems: Networks of Plausible Inference (Judea Pearl)", 
+      "url": "https://www.semanticscholar.org/paper/7783fd2984ac139194d21c10bd83b4c9764826a3", 
+      "venue": "SIAM Review", 
+      "year": 1989
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "3b8e7c8220d3883d54960d896a73045f3c70ac17", 
+      "title": "Discriminative Training Methods For Hidden Markov Models: Theory And Experiments With Perceptron Algorithms", 
+      "url": "https://www.semanticscholar.org/paper/3b8e7c8220d3883d54960d896a73045f3c70ac17", 
+      "venue": "", 
+      "year": 2002
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "0339bf1a41a2f793e09d14a79ac75d86e19db7e7", 
+      "title": "The CoNLL-2009 Shared Task: Syntactic and Semantic Dependencies in Multiple Languages", 
+      "url": "https://www.semanticscholar.org/paper/0339bf1a41a2f793e09d14a79ac75d86e19db7e7", 
+      "venue": "CoNLL Shared Task", 
+      "year": 2009
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "2f0165a467ddb18d86c27ad06b8f242aaad7d3d5", 
+      "title": "A global model for joint lemmatization and part-of-speech prediction", 
+      "url": "https://www.semanticscholar.org/paper/2f0165a467ddb18d86c27ad06b8f242aaad7d3d5", 
+      "venue": "ACL/IJCNLP", 
+      "year": 2009
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "1267fe36b5ece49a9d8f913eb67716a040bbcced", 
+      "title": "On the limited memory BFGS method for large scale optimization", 
+      "url": "https://www.semanticscholar.org/paper/1267fe36b5ece49a9d8f913eb67716a040bbcced", 
+      "venue": "Math. Program.", 
+      "year": 1989
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "22bb204ba841aec1dfc76f59540e47d09f424678", 
+      "title": "Overview of the SPMRL 2013 Shared Task: A Cross-Framework Evaluation of Parsing Morphologically Rich Languages", 
+      "url": "https://www.semanticscholar.org/paper/22bb204ba841aec1dfc76f59540e47d09f424678", 
+      "venue": "", 
+      "year": 2013
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "7a62e4c4cdac3dacb29124a10415e37538ebb8ac", 
+      "title": "Lemmatization and Lexicalized Statistical Parsing of Morphologically-Rich Languages: the Case of French", 
+      "url": "https://www.semanticscholar.org/paper/7a62e4c4cdac3dacb29124a10415e37538ebb8ac", 
+      "venue": "", 
+      "year": 2010
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "558607678e7cf51da31840e4e173fb00f77f664c", 
+      "title": "Towards a Machine-Learning Architecture for Lexical Functional Grammar Parsing", 
+      "url": "https://www.semanticscholar.org/paper/558607678e7cf51da31840e4e173fb00f77f664c", 
+      "venue": "", 
+      "year": 2008
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "faa0281fc701e562a67dfe23ebeecbb16b50a92a", 
+      "title": "Efficient Higher-Order CRFs for Morphological Tagging", 
+      "url": "https://www.semanticscholar.org/paper/faa0281fc701e562a67dfe23ebeecbb16b50a92a", 
+      "venue": "", 
+      "year": 2013
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "136f17e36a018c486dfe7936eeb8dfd93037d217", 
+      "title": "Context-Based Morphological Disambiguation with Random Fields", 
+      "url": "https://www.semanticscholar.org/paper/136f17e36a018c486dfe7936eeb8dfd93037d217", 
+      "venue": "HLT/EMNLP", 
+      "year": 2005
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "2bea2cd71be77effc4e081daff28fe3dc07cb6f1", 
+      "title": "Lemmatisation as a Tagging Task", 
+      "url": "https://www.semanticscholar.org/paper/2bea2cd71be77effc4e081daff28fe3dc07cb6f1", 
+      "venue": "ACL", 
+      "year": 2012
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "62ac088d966d4a9122959f13301759c6bbda6c36", 
+      "title": "Latent-Variable Modeling of String Transductions with Finite-State Methods", 
+      "url": "https://www.semanticscholar.org/paper/62ac088d966d4a9122959f13301759c6bbda6c36", 
+      "venue": "EMNLP", 
+      "year": 2008
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "277ea5b380041d8a9ae133ba0d58bea3473148a3", 
+      "title": "Overview of the 2012 Shared Task on Parsing the Web", 
+      "url": "https://www.semanticscholar.org/paper/277ea5b380041d8a9ae133ba0d58bea3473148a3", 
+      "venue": "", 
+      "year": 2012
+    }
+  ], 
+  "title": "Joint Lemmatization and Morphological Tagging with Lemming", 
+  "url": "https://www.semanticscholar.org/paper/79182311cdf58ac05698f636705eb491f502402d", 
+  "venue": "EMNLP", 
+  "year": 2015
+}

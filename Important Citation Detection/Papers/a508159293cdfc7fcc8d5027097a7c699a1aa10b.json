@@ -1,0 +1,806 @@
+{
+  "authors": [
+    {
+      "authorId": "1692469", 
+      "name": "Andrew Hickl", 
+      "url": "https://www.semanticscholar.org/author/1692469"
+    }, 
+    {
+      "authorId": "1683745", 
+      "name": "Jeremy Bensley", 
+      "url": "https://www.semanticscholar.org/author/1683745"
+    }, 
+    {
+      "authorId": "8528802", 
+      "name": "John Williams", 
+      "url": "https://www.semanticscholar.org/author/8528802"
+    }, 
+    {
+      "authorId": "1742509", 
+      "name": "Kirk Roberts", 
+      "url": "https://www.semanticscholar.org/author/1742509"
+    }, 
+    {
+      "authorId": "1696755", 
+      "name": "Bryan Rink", 
+      "url": "https://www.semanticscholar.org/author/1696755"
+    }, 
+    {
+      "authorId": "1744533", 
+      "name": "Ying Shi", 
+      "url": "https://www.semanticscholar.org/author/1744533"
+    }
+  ], 
+  "citationVelocity": 0, 
+  "citations": [
+    {
+      "isInfluential": false, 
+      "paperId": "fa3574f6ec0bf2402768962d2e4c94c5740b80fd", 
+      "title": "Impact of Question Decomposition on the Quality of Answer Summaries", 
+      "url": "https://www.semanticscholar.org/paper/fa3574f6ec0bf2402768962d2e4c94c5740b80fd", 
+      "venue": "", 
+      "year": 2006
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "1950cbfb7991c15c274fc7d57ba9167c162f9a55", 
+      "title": "Selecting Answers to Questions from Web Documents by a Robust Validation Process", 
+      "url": "https://www.semanticscholar.org/paper/1950cbfb7991c15c274fc7d57ba9167c162f9a55", 
+      "venue": "2011 IEEE/WIC/ACM International Conferences on Web Intelligence and Intelligent Agent Technology", 
+      "year": 2011
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "5c0357fa1dc45b55c7de5e97f21141b0426e1c9e", 
+      "title": "Intrinsic and extrinsic approaches to recognizing textual entailment", 
+      "url": "https://www.semanticscholar.org/paper/5c0357fa1dc45b55c7de5e97f21141b0426e1c9e", 
+      "venue": "", 
+      "year": 2011
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "0260d2ebd1d0d14f39514833b5ce9309380b5c79", 
+      "title": "Constructing a Natural Language Inference Dataset using Generative Neural Networks", 
+      "url": "https://www.semanticscholar.org/paper/0260d2ebd1d0d14f39514833b5ce9309380b5c79", 
+      "venue": "ArXiv", 
+      "year": 2016
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "8c92ec18639e91a9daf85369edf167bf9db890d3", 
+      "title": "A Semantic Approach To Textual Entailment: System Evaluation and Task Analysis", 
+      "url": "https://www.semanticscholar.org/paper/8c92ec18639e91a9daf85369edf167bf9db890d3", 
+      "venue": "", 
+      "year": 2007
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "1d9a43c277434ebdba3256db2b3b6695d2620a4f", 
+      "title": "Learning Alignments and Leveraging Natural Logic", 
+      "url": "https://www.semanticscholar.org/paper/1d9a43c277434ebdba3256db2b3b6695d2620a4f", 
+      "venue": "", 
+      "year": 2007
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "2791e0d36ba23763195ac984453d61dbaff555da", 
+      "title": "Dependency-based Semantic Role Labeling of PropBank", 
+      "url": "https://www.semanticscholar.org/paper/2791e0d36ba23763195ac984453d61dbaff555da", 
+      "venue": "EMNLP", 
+      "year": 2008
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "480c4b254a1a579669f13259cc475c42b58cff83", 
+      "title": "Finding Contradictions in Text", 
+      "url": "https://www.semanticscholar.org/paper/480c4b254a1a579669f13259cc475c42b58cff83", 
+      "venue": "ACL", 
+      "year": 2008
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "79ee7b4766a331b6bbfafcfc4502e30d99e9c8ea", 
+      "title": "Automatic patient search for breast cancer clinical trials using free-text medical reports", 
+      "url": "https://www.semanticscholar.org/paper/79ee7b4766a331b6bbfafcfc4502e30d99e9c8ea", 
+      "venue": "IHI", 
+      "year": 2010
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "3862982d72ac352eff91930c2a994d1fee647edf", 
+      "title": "Precision-focused Textual Inference", 
+      "url": "https://www.semanticscholar.org/paper/3862982d72ac352eff91930c2a994d1fee647edf", 
+      "venue": "", 
+      "year": 2007
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "29c82a74aa97fa9dcc64df77846ab6f59f6156ca", 
+      "title": "Discovering Features Towards Recognising Textual Entailment", 
+      "url": "https://www.semanticscholar.org/paper/29c82a74aa97fa9dcc64df77846ab6f59f6156ca", 
+      "venue": "", 
+      "year": 2008
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "a81267ee7f7fd605243e6303d674ef5a1b17bfc4", 
+      "title": "Efficient Graph Kernels for Textual Entailment Recognition", 
+      "url": "https://www.semanticscholar.org/paper/a81267ee7f7fd605243e6303d674ef5a1b17bfc4", 
+      "venue": "Fundam. Inform.", 
+      "year": 2011
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "e8ede841032baa8f82ab5a150431aa82bac33c9f", 
+      "title": "Cross-Sectional Relatedness Between Sentences in Breast Radiology Reports: Development of an SVM Classifier and Evaluation Against Annotations of Five Breast Radiologists", 
+      "url": "https://www.semanticscholar.org/paper/e8ede841032baa8f82ab5a150431aa82bac33c9f", 
+      "venue": "Journal of Digital Imaging", 
+      "year": 2013
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "1a37c715ccae2e9ace79fdb974553c417f6d8ca2", 
+      "title": "Semi-Automatic Construction of a Textual Entailment Dataset: Selecting Candidates with Vector Space Models", 
+      "url": "https://www.semanticscholar.org/paper/1a37c715ccae2e9ace79fdb974553c417f6d8ca2", 
+      "venue": "", 
+      "year": 2015
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "105824c5af8c04663c82e46a383edcaf24f2d1f7", 
+      "title": "A Statistics-Based Semantic Textual Entailment System", 
+      "url": "https://www.semanticscholar.org/paper/105824c5af8c04663c82e46a383edcaf24f2d1f7", 
+      "venue": "MICAI", 
+      "year": 2011
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "a065e3b757a87852ca88eab5639e084aa942f70a", 
+      "title": "Back to Basics for Monolingual Alignment: Exploiting Word Similarity and Contextual Evidence", 
+      "url": "https://www.semanticscholar.org/paper/a065e3b757a87852ca88eab5639e084aa942f70a", 
+      "venue": "TACL", 
+      "year": 2014
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "f07fa026d537bb5c7c0f9b85ffaabccd73f2b00a", 
+      "title": "Recognizing Textual Entailment using Dependency Analysis and Machine Learning", 
+      "url": "https://www.semanticscholar.org/paper/f07fa026d537bb5c7c0f9b85ffaabccd73f2b00a", 
+      "venue": "HLT-NAACL", 
+      "year": 2015
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "2364f14100fe96237a3a4fc981ba2a31369b1392", 
+      "title": "Semantic Annotation for Textual Entailment Recognition", 
+      "url": "https://www.semanticscholar.org/paper/2364f14100fe96237a3a4fc981ba2a31369b1392", 
+      "venue": "MICAI", 
+      "year": 2012
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "e4b7ff834deedad408a57ed5f274592b931baadc", 
+      "title": "Chinese Whispers: Cooperative Paraphrase Acquisition", 
+      "url": "https://www.semanticscholar.org/paper/e4b7ff834deedad408a57ed5f274592b931baadc", 
+      "venue": "LREC", 
+      "year": 2012
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "095fc8aac545cc280199fd2770b46ea54ed6c720", 
+      "title": "Negation, Contrast and Contradiction in Text Processing", 
+      "url": "https://www.semanticscholar.org/paper/095fc8aac545cc280199fd2770b46ea54ed6c720", 
+      "venue": "AAAI", 
+      "year": 2006
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "265d715727a9c56c0a072ab8da958c11d7f5014e", 
+      "title": "Shallow Semantic in Fast Textual Entailment Rule Learners", 
+      "url": "https://www.semanticscholar.org/paper/265d715727a9c56c0a072ab8da958c11d7f5014e", 
+      "venue": "", 
+      "year": 2007
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "0c1fdf0e79e2f759c8bdbf7b91784a10d05d6d82", 
+      "title": "Recognizing Text Entailment via Syntactic Tree Matching", 
+      "url": "https://www.semanticscholar.org/paper/0c1fdf0e79e2f759c8bdbf7b91784a10d05d6d82", 
+      "venue": "NTCIR", 
+      "year": 2011
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "3495ee31a8a78a3a14623e46a2c54031fe2de7bc", 
+      "title": "Natural Logic for Textual Inference", 
+      "url": "https://www.semanticscholar.org/paper/3495ee31a8a78a3a14623e46a2c54031fe2de7bc", 
+      "venue": "", 
+      "year": 2007
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "28115e594c25c99a253557ae96290a9e0d60d3e3", 
+      "title": "On the Role of Lexical and World Knowledge in RTE3", 
+      "url": "https://www.semanticscholar.org/paper/28115e594c25c99a253557ae96290a9e0d60d3e3", 
+      "venue": "", 
+      "year": 2007
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "5d7384ee5a9b1fe7d17d4285d7ddd7de94ceb476", 
+      "title": "Addressing Limited Data for Textual Entailment Across Domains", 
+      "url": "https://www.semanticscholar.org/paper/5d7384ee5a9b1fe7d17d4285d7ddd7de94ceb476", 
+      "venue": "ACL", 
+      "year": 2016
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "8ce2fcfdd0059961dd94eef2e09a5a5e2c995bae", 
+      "title": "Learning Shallow Semantic Rules for Textual Entailment", 
+      "url": "https://www.semanticscholar.org/paper/8ce2fcfdd0059961dd94eef2e09a5a5e2c995bae", 
+      "venue": "", 
+      "year": 2007
+    }, 
+    {
+      "isInfluential": true, 
+      "paperId": "cfe5a13a54066892ceda29ab31b8f323604e3e53", 
+      "title": "T\u00e9cnicas l\u00e9xico-sint\u00e1cticas para el reconocimiento de Implicaci\u00f3n Textual", 
+      "url": "https://www.semanticscholar.org/paper/cfe5a13a54066892ceda29ab31b8f323604e3e53", 
+      "venue": "Procesamiento del Lenguaje Natural", 
+      "year": 2007
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "952e3e6d16c1ac67ee1f63e3e728d5f52378b217", 
+      "title": "Recognizing Textual Entailment Using a Subsequence Kernel Method", 
+      "url": "https://www.semanticscholar.org/paper/952e3e6d16c1ac67ee1f63e3e728d5f52378b217", 
+      "venue": "AAAI", 
+      "year": 2007
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "6a1dd4867f7fd75ac083375b41291dc8b419e82c", 
+      "title": "Presupposed Content and Entailments in Natural Language Inference", 
+      "url": "https://www.semanticscholar.org/paper/6a1dd4867f7fd75ac083375b41291dc8b419e82c", 
+      "venue": "", 
+      "year": 2009
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "5c1d44991ea382e686cc0622760930dd73d4a483", 
+      "title": "Evaluation de la r\u00e9ponse d'un syst\u00e8me de question-r\u00e9ponse et de sa justification", 
+      "url": "https://www.semanticscholar.org/paper/5c1d44991ea382e686cc0622760930dd73d4a483", 
+      "venue": "CORIA", 
+      "year": 2008
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "10f5c0397f44aed8a6244110b7707a7a82c2529b", 
+      "title": "A machine learning approach to textual entailment recognition", 
+      "url": "https://www.semanticscholar.org/paper/10f5c0397f44aed8a6244110b7707a7a82c2529b", 
+      "venue": "Natural Language Engineering", 
+      "year": 2009
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "1e1e7e041e1f49bee3f211e8114edfcacd846d5d", 
+      "title": "Recognizing Textual Entailment Focusing on Non-Entailing Text and Hypothesis", 
+      "url": "https://www.semanticscholar.org/paper/1e1e7e041e1f49bee3f211e8114edfcacd846d5d", 
+      "venue": "TAC", 
+      "year": 2008
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "4f8a4bf5eeb92d28e116b988c2ae3bdade12d9f4", 
+      "title": "Modeling Semantic Containment and Exclusion in Natural Language Inference", 
+      "url": "https://www.semanticscholar.org/paper/4f8a4bf5eeb92d28e116b988c2ae3bdade12d9f4", 
+      "venue": "COLING", 
+      "year": 2008
+    }, 
+    {
+      "isInfluential": true, 
+      "paperId": "15f28ec9b0ff3171903c75fbb939c461808c656b", 
+      "title": "Expanding textual entailment corpora fromWikipedia using co-training", 
+      "url": "https://www.semanticscholar.org/paper/15f28ec9b0ff3171903c75fbb939c461808c656b", 
+      "venue": "", 
+      "year": 2010
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "637d3964102d1f74ef61a37cdb3db939b6c3c7a8", 
+      "title": "The Role of Sentence Structure in Recognizing Textual Entailment", 
+      "url": "https://www.semanticscholar.org/paper/637d3964102d1f74ef61a37cdb3db939b6c3c7a8", 
+      "venue": "", 
+      "year": 2007
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "907c464915d07baba59f906274fd9c63763e0739", 
+      "title": "Learning Parse-Free Event-Based Features for Textual Entailment Recognition", 
+      "url": "https://www.semanticscholar.org/paper/907c464915d07baba59f906274fd9c63763e0739", 
+      "venue": "Australasian Conference on Artificial Intelligence", 
+      "year": 2010
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "6822f141e257392d9828bb7af9ef36aa6b788b34", 
+      "title": "Question Answering with LCC's CHAUCER-2 at TREC 2007", 
+      "url": "https://www.semanticscholar.org/paper/6822f141e257392d9828bb7af9ef36aa6b788b34", 
+      "venue": "TREC", 
+      "year": 2007
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "cdfefefe96117d51fe547552d7f3c6f5a534b8c0", 
+      "title": "DLSITE-1: Lexical Analysis for Solving Textual Entailment Recognition", 
+      "url": "https://www.semanticscholar.org/paper/cdfefefe96117d51fe547552d7f3c6f5a534b8c0", 
+      "venue": "NLDB", 
+      "year": 2007
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "8c631af53d2a33c61f408636fb09f1ddfba74113", 
+      "title": "Unsupervised Entailment Detection between Dependency Graph Fragments", 
+      "url": "https://www.semanticscholar.org/paper/8c631af53d2a33c61f408636fb09f1ddfba74113", 
+      "venue": "", 
+      "year": 2011
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "1a570b9ad58c91b57d5432d31911064c3041f4cb", 
+      "title": "Question Answering with LCC's CHAUCER at TREC 2006", 
+      "url": "https://www.semanticscholar.org/paper/1a570b9ad58c91b57d5432d31911064c3041f4cb", 
+      "venue": "TREC", 
+      "year": 2006
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "653c36c8c6e7341414088e06fb7d19b529efb4b2", 
+      "title": "A First Experimental Demonstration of Massive Knowledge Infusion", 
+      "url": "https://www.semanticscholar.org/paper/653c36c8c6e7341414088e06fb7d19b529efb4b2", 
+      "venue": "KR", 
+      "year": 2008
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "9816e143862b55c4d57491aa9e59c41cc87e2d13", 
+      "title": "Recognizing Textual Entailment with Tree Edit Distance: Application to Question Answering and Information Extraction", 
+      "url": "https://www.semanticscholar.org/paper/9816e143862b55c4d57491aa9e59c41cc87e2d13", 
+      "venue": "", 
+      "year": 2006
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "bce05d56f24f77087ad458653aa8c5f811df4a5a", 
+      "title": "Using topic themes for multi-document summarization", 
+      "url": "https://www.semanticscholar.org/paper/bce05d56f24f77087ad458653aa8c5f811df4a5a", 
+      "venue": "ACM Trans. Inf. Syst.", 
+      "year": 2010
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "ea88970b4c3188f09f388f6f2fa54a6e81aacf08", 
+      "title": "Using Scenario Knowledge In Automatic Question Answering", 
+      "url": "https://www.semanticscholar.org/paper/ea88970b4c3188f09f388f6f2fa54a6e81aacf08", 
+      "venue": "", 
+      "year": 2006
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "d8c2bae7eee9a2e5011bab6b9c3888b23ea8c6c8", 
+      "title": "Spinning Straw into Gold: Using Free Text to Train Monolingual Alignment Models for Non-factoid Question Answering", 
+      "url": "https://www.semanticscholar.org/paper/d8c2bae7eee9a2e5011bab6b9c3888b23ea8c6c8", 
+      "venue": "HLT-NAACL", 
+      "year": 2015
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "9c2b472288d52415ef826555fc0f6840723ea9a1", 
+      "title": "LCC\u2019s GISTexter at DUC 2007: Machine Reading for Update Summarization", 
+      "url": "https://www.semanticscholar.org/paper/9c2b472288d52415ef826555fc0f6840723ea9a1", 
+      "venue": "", 
+      "year": null
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "2203008209bf603b2ef6833a69a01f35e48b2a05", 
+      "title": "Machine Reading through Textual and Knowledge Entailment", 
+      "url": "https://www.semanticscholar.org/paper/2203008209bf603b2ef6833a69a01f35e48b2a05", 
+      "venue": "AAAI Spring Symposium: Machine Reading", 
+      "year": 2007
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "527700c939993b0c6bef33c7aa371c057a20c82f", 
+      "title": "Reading Between the Lines", 
+      "url": "https://www.semanticscholar.org/paper/527700c939993b0c6bef33c7aa371c057a20c82f", 
+      "venue": "IJCAI", 
+      "year": 2009
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "fd10fb4fb4751a99c21f65c8f88d7b05880a088d", 
+      "title": "Using Web Corpora for the Automatic Acquisition of Lexical-Semantic Knowledge", 
+      "url": "https://www.semanticscholar.org/paper/fd10fb4fb4751a99c21f65c8f88d7b05880a088d", 
+      "venue": "JLCL", 
+      "year": 2013
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "c163019c205d05b96c36a402819b147f7bebaa70", 
+      "title": "Semantic approach to text entailment for question answering - new domain for uncertainty modeling", 
+      "url": "https://www.semanticscholar.org/paper/c163019c205d05b96c36a402819b147f7bebaa70", 
+      "venue": "2008 7th IEEE International Conference on Cognitive Informatics", 
+      "year": 2008
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "deefa972eed2e039cc103b3ed74566a02f3da158", 
+      "title": "Knowledge-Based Textual Inference via Parse-Tree Transformations", 
+      "url": "https://www.semanticscholar.org/paper/deefa972eed2e039cc103b3ed74566a02f3da158", 
+      "venue": "J. Artif. Intell. Res.", 
+      "year": 2015
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "3ca03ef57cb9a0e7f242f0690307dafde0c8677c", 
+      "title": "Unsupervised Resource Creation for Textual Inference Applications", 
+      "url": "https://www.semanticscholar.org/paper/3ca03ef57cb9a0e7f242f0690307dafde0c8677c", 
+      "venue": "LREC", 
+      "year": 2008
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "09e40a88b24c1d99983cf5b77508872aaae9c208", 
+      "title": "Acquiring entailment pairs across languages and domains: A Data Analysis", 
+      "url": "https://www.semanticscholar.org/paper/09e40a88b24c1d99983cf5b77508872aaae9c208", 
+      "venue": "IWCS", 
+      "year": 2011
+    }, 
+    {
+      "isInfluential": true, 
+      "paperId": "2b4f9d8afcd831f1ab9e4ac116c74b9d699c86da", 
+      "title": "Recognizing Textual Entailment Using Sentence Similarity based on Dependency Tree Skeletons", 
+      "url": "https://www.semanticscholar.org/paper/2b4f9d8afcd831f1ab9e4ac116c74b9d699c86da", 
+      "venue": "", 
+      "year": 2007
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "0fba7ba89ba00d145c77e9927eb9ad97eace2cde", 
+      "title": "Automatic Classification of Semantic Relations between Facts and Opinions", 
+      "url": "https://www.semanticscholar.org/paper/0fba7ba89ba00d145c77e9927eb9ad97eace2cde", 
+      "venue": "", 
+      "year": 2010
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "5feb2c61b04532869e44d1ca4e48c7108aee5fd3", 
+      "title": "An extended model of natural logic", 
+      "url": "https://www.semanticscholar.org/paper/5feb2c61b04532869e44d1ca4e48c7108aee5fd3", 
+      "venue": "", 
+      "year": 2009
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "b30024b5ee9042963447442693d456dd3ad9dee6", 
+      "title": "PeMoZa Submission to TAC 2008", 
+      "url": "https://www.semanticscholar.org/paper/b30024b5ee9042963447442693d456dd3ad9dee6", 
+      "venue": "TAC", 
+      "year": 2008
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "076b6a68090cae63ab852fef2b087814280b1901", 
+      "title": "ASKNet : automatically creating semantic knowledge networks from natural language text", 
+      "url": "https://www.semanticscholar.org/paper/076b6a68090cae63ab852fef2b087814280b1901", 
+      "venue": "", 
+      "year": 2009
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "799dadd8f9478d7ad7c56016936822fd9bbf7a0e", 
+      "title": "Labeled Alignment for Recognizing Textual Entailment", 
+      "url": "https://www.semanticscholar.org/paper/799dadd8f9478d7ad7c56016936822fd9bbf7a0e", 
+      "venue": "IJCNLP", 
+      "year": 2013
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "5f3c2557d8ae7b9025535ee021c545e2d6a92cf0", 
+      "title": "UoW: NLP techniques developed at the University of Wolverhampton for Semantic Similarity and Textual Entailment", 
+      "url": "https://www.semanticscholar.org/paper/5f3c2557d8ae7b9025535ee021c545e2d6a92cf0", 
+      "venue": "SemEval@COLING", 
+      "year": 2014
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "bc3db492047da12beae9cc3ced5feea6b16df10b", 
+      "title": "A Discourse Commitment-Based Framework for Recognizing Textual Entailment", 
+      "url": "https://www.semanticscholar.org/paper/bc3db492047da12beae9cc3ced5feea6b16df10b", 
+      "venue": "", 
+      "year": 2007
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "581f4e8d74b9ffa3d1e4fbbac8d8742de79cb6c2", 
+      "title": "A Phrase-Based Alignment Model for Natural Language Inference", 
+      "url": "https://www.semanticscholar.org/paper/581f4e8d74b9ffa3d1e4fbbac8d8742de79cb6c2", 
+      "venue": "EMNLP", 
+      "year": 2008
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "cdc7c381787dee3d0db4d15a292fc1483ccc12a3", 
+      "title": "LCC\u2019s GISTexter at DUC 2006: Multi-Strategy Multi-Document Summarization", 
+      "url": "https://www.semanticscholar.org/paper/cdc7c381787dee3d0db4d15a292fc1483ccc12a3", 
+      "venue": "", 
+      "year": 2006
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "538100166880d772f877c0fa4482ecff1bab27da", 
+      "title": "Dependency-based paraphrasing for recognizing textual entailment", 
+      "url": "https://www.semanticscholar.org/paper/538100166880d772f877c0fa4482ecff1bab27da", 
+      "venue": "", 
+      "year": 2007
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "b776cfb8c16b9d9b76a1c526bc44beb16740727f", 
+      "title": "Predicate-Argument Structure-Based Textual Entailment Recognition System Exploiting Wide-Coverage Lexical Knowledge", 
+      "url": "https://www.semanticscholar.org/paper/b776cfb8c16b9d9b76a1c526bc44beb16740727f", 
+      "venue": "ACM Trans. Asian Lang. Inf. Process.", 
+      "year": 2012
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "5380c0946aff2aa100c91ccbbe7ac034441e24a3", 
+      "title": "Relation Alignment for Textual Entailment Recognition", 
+      "url": "https://www.semanticscholar.org/paper/5380c0946aff2aa100c91ccbbe7ac034441e24a3", 
+      "venue": "TAC", 
+      "year": 2009
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "70979b88b7ed402917761faa22da8cae6bb0c9e0", 
+      "title": "Is it Worth Submitting this Run? Assess your RTE System with a Good Sparring Partner", 
+      "url": "https://www.semanticscholar.org/paper/70979b88b7ed402917761faa22da8cae6bb0c9e0", 
+      "venue": "", 
+      "year": 2011
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "9a68a29ac9ee3c7ea0a347d1a76b070ef7b89ddc", 
+      "title": "Minimally supervised dependency-based methods for natural language processing", 
+      "url": "https://www.semanticscholar.org/paper/9a68a29ac9ee3c7ea0a347d1a76b070ef7b89ddc", 
+      "venue": "", 
+      "year": 2013
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "66045ad6d1f542020218a5eb19e2dba17b2231fe", 
+      "title": "User Edits Classification Using Document Revision Histories", 
+      "url": "https://www.semanticscholar.org/paper/66045ad6d1f542020218a5eb19e2dba17b2231fe", 
+      "venue": "EACL", 
+      "year": 2012
+    }, 
+    {
+      "isInfluential": true, 
+      "paperId": "c5e9898fffe83f1083d8493cbb14a423e624ebe4", 
+      "title": "A Study of the Effect of Resolving Negation and Sentiment Analysis in Recognizing Text Entailment for Arabic", 
+      "url": "https://www.semanticscholar.org/paper/c5e9898fffe83f1083d8493cbb14a423e624ebe4", 
+      "venue": "", 
+      "year": 2015
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "49419edebe6991cbd283f3643145dae51836b0e1", 
+      "title": "Satisfying information needs with multi-document summaries", 
+      "url": "https://www.semanticscholar.org/paper/49419edebe6991cbd283f3643145dae51836b0e1", 
+      "venue": "Inf. Process. Manage.", 
+      "year": 2007
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "a2c54a729be2e2f46c446cabe70fdb3d38d2a1c6", 
+      "title": "Methods for Using Textual Entailment in Open-Domain Question Answering", 
+      "url": "https://www.semanticscholar.org/paper/a2c54a729be2e2f46c446cabe70fdb3d38d2a1c6", 
+      "venue": "ACL", 
+      "year": 2006
+    }, 
+    {
+      "isInfluential": true, 
+      "paperId": "dee1c29f268357d7129d89db8a86d7db80c00279", 
+      "title": "DLSITE-2: Semantic Similarity Based on Syntactic Dependency Trees Applied to Textual Entailment", 
+      "url": "https://www.semanticscholar.org/paper/dee1c29f268357d7129d89db8a86d7db80c00279", 
+      "venue": "", 
+      "year": 2007
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "185a37a7ff76116c6cde92ed39e30c9a7e7fb618", 
+      "title": "Linguistic Redundancy in Twitter", 
+      "url": "https://www.semanticscholar.org/paper/185a37a7ff76116c6cde92ed39e30c9a7e7fb618", 
+      "venue": "EMNLP", 
+      "year": 2011
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "dfcfe56d6b2e914906a2675384db839ee62b869a", 
+      "title": "Statement map: reducing web information credibility noise through opinion classification", 
+      "url": "https://www.semanticscholar.org/paper/dfcfe56d6b2e914906a2675384db839ee62b869a", 
+      "venue": "AND", 
+      "year": 2010
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "2a473c438a3b09c7c0536180848654eecec23aa8", 
+      "title": "Using Discourse Commitments to Recognize Textual Entailment", 
+      "url": "https://www.semanticscholar.org/paper/2a473c438a3b09c7c0536180848654eecec23aa8", 
+      "venue": "COLING", 
+      "year": 2008
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "445e6681d05a077f8a309f38cde0129b0abadd63", 
+      "title": "Cheap Facts and Counter-Facts", 
+      "url": "https://www.semanticscholar.org/paper/445e6681d05a077f8a309f38cde0129b0abadd63", 
+      "venue": "", 
+      "year": 2010
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "a7b3315c020681c3a142c8471500eb629cb57fdb", 
+      "title": "Applying Textual Entailment to the Interpretation of Metaphor", 
+      "url": "https://www.semanticscholar.org/paper/a7b3315c020681c3a142c8471500eb629cb57fdb", 
+      "venue": "2013 IEEE Seventh International Conference on Semantic Computing", 
+      "year": 2013
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "124302526586d6a866df13253021bf1e3f1a2f42", 
+      "title": "Statement map: assisting information crediblity analysis by visualizing arguments", 
+      "url": "https://www.semanticscholar.org/paper/124302526586d6a866df13253021bf1e3f1a2f42", 
+      "venue": "WICOW", 
+      "year": 2009
+    }, 
+    {
+      "isInfluential": true, 
+      "paperId": "37eab4fb5357a51daa00caf8517eaed564d7e4be", 
+      "title": "Recognizing Textual Entailment Using Probabilistic Inference", 
+      "url": "https://www.semanticscholar.org/paper/37eab4fb5357a51daa00caf8517eaed564d7e4be", 
+      "venue": "EMNLP", 
+      "year": 2015
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "1550b7237ce1bcafbfc41e475780e2e18188d3a3", 
+      "title": "Techniques for Recognizing Textual Entailment and Semantic Equivalence", 
+      "url": "https://www.semanticscholar.org/paper/1550b7237ce1bcafbfc41e475780e2e18188d3a3", 
+      "venue": "CAEPIA", 
+      "year": 2005
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "46ef5ada42a0b173efa197ee9e8051e4d5f2a1ac", 
+      "title": "Recognizing Textual Entailment with Temporal Expressions in Natural Language Texts", 
+      "url": "https://www.semanticscholar.org/paper/46ef5ada42a0b173efa197ee9e8051e4d5f2a1ac", 
+      "venue": "2008 IEEE International Workshop on Semantic Computing and Applications", 
+      "year": 2008
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "d085afa8999b3d6aadb03e69697e9dde091bb855", 
+      "title": "Towards an Entity-based Recognition of Textual Entailment", 
+      "url": "https://www.semanticscholar.org/paper/d085afa8999b3d6aadb03e69697e9dde091bb855", 
+      "venue": "TAC", 
+      "year": 2008
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "75ce2ab9cd985a4159ff4f4f6d0483b76dae991e", 
+      "title": "Workshop: Application of LCC's GROUNDHOG System for RTE-4", 
+      "url": "https://www.semanticscholar.org/paper/75ce2ab9cd985a4159ff4f4f6d0483b76dae991e", 
+      "venue": "TAC", 
+      "year": 2008
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "d510708156bf7dbc57c0694057d3c88ad67ec542", 
+      "title": "UB.dmirg: Learning Textual Entailment Relationships Using Lexical Semantic Features", 
+      "url": "https://www.semanticscholar.org/paper/d510708156bf7dbc57c0694057d3c88ad67ec542", 
+      "venue": "TAC", 
+      "year": 2010
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "77b0727fa4d4954988f15163a281ffaa74d31d9c", 
+      "title": "Dependency-based Semantic Analysis of Natural-language Text", 
+      "url": "https://www.semanticscholar.org/paper/77b0727fa4d4954988f15163a281ffaa74d31d9c", 
+      "venue": "", 
+      "year": 2008
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "9e2d95878ca6b72d38b08b3616c9520bd63614f2", 
+      "title": "Experiments with Three Approaches to Recognizing Lexical Entailment", 
+      "url": "https://www.semanticscholar.org/paper/9e2d95878ca6b72d38b08b3616c9520bd63614f2", 
+      "venue": "Natural Language Engineering", 
+      "year": 2015
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "a2601e1fad206be12c7089b3dd268a150a168690", 
+      "title": "Natural logic and natural language inference", 
+      "url": "https://www.semanticscholar.org/paper/a2601e1fad206be12c7089b3dd268a150a168690", 
+      "venue": "", 
+      "year": 2012
+    }
+  ], 
+  "doi": null, 
+  "influentialCitationCount": 6, 
+  "paperId": "a508159293cdfc7fcc8d5027097a7c699a1aa10b", 
+  "references": [
+    {
+      "isInfluential": false, 
+      "paperId": "7c8b067649f09b9260569d6e398c5c1b16fa2712", 
+      "title": "Automatic Paraphrase Acquisition from News Articles", 
+      "url": "https://www.semanticscholar.org/paper/7c8b067649f09b9260569d6e398c5c1b16fa2712", 
+      "venue": "", 
+      "year": 2002
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "49cf14b62b16d920b30ad25e853d753caa8cd569", 
+      "title": "A Probabilistic Setting And Lexical Coocurrence Model For Textual Entailment", 
+      "url": "https://www.semanticscholar.org/paper/49cf14b62b16d920b30ad25e853d753caa8cd569", 
+      "venue": "", 
+      "year": 2005
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "7acfdc905f734abf966aed58abb983bc015ff7fe", 
+      "title": "Unsupervised Construction of Large Paraphrase Corpora: Exploiting Massively Parallel News Sources", 
+      "url": "https://www.semanticscholar.org/paper/7acfdc905f734abf966aed58abb983bc015ff7fe", 
+      "venue": "COLING", 
+      "year": 2004
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "78e6c496bb2a264a093302d60a71c08ce5ef6e26", 
+      "title": "Learning to Paraphrase: An Unsupervised Approach Using Multiple-Sequence Alignment", 
+      "url": "https://www.semanticscholar.org/paper/78e6c496bb2a264a093302d60a71c08ce5ef6e26", 
+      "venue": "HLT-NAACL", 
+      "year": 2003
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "0724231630ccbc6e7b15740e49c42044507e6f39", 
+      "title": "Generating An Entailment Corpus From News Headlines", 
+      "url": "https://www.semanticscholar.org/paper/0724231630ccbc6e7b15740e49c42044507e6f39", 
+      "venue": "", 
+      "year": 2005
+    }, 
+    {
+      "isInfluential": true, 
+      "paperId": "837c2bf28887fc1a00e1b1148e5df748809da242", 
+      "title": "The Proposition Bank: An Annotated Corpus of Semantic Roles", 
+      "url": "https://www.semanticscholar.org/paper/837c2bf28887fc1a00e1b1148e5df748809da242", 
+      "venue": "Computational Linguistics", 
+      "year": 2005
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "3764baa7465201f054083d02b58fa75f883c4461", 
+      "title": "A New Statistical Parser Based on Bigram Lexical Dependencies", 
+      "url": "https://www.semanticscholar.org/paper/3764baa7465201f054083d02b58fa75f883c4461", 
+      "venue": "ACL", 
+      "year": 1996
+    }
+  ], 
+  "title": "Recognizing Textual Entailment with LCC\u2019s GROUNDHOG System", 
+  "url": "https://www.semanticscholar.org/paper/a508159293cdfc7fcc8d5027097a7c699a1aa10b", 
+  "venue": "", 
+  "year": 2005
+}

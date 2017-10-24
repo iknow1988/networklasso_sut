@@ -1,0 +1,956 @@
+{
+  "authors": [
+    {
+      "authorId": "22392583", 
+      "name": "Yang Liu", 
+      "url": "https://www.semanticscholar.org/author/22392583"
+    }, 
+    {
+      "authorId": "6743849", 
+      "name": "Xiangji Huang", 
+      "url": "https://www.semanticscholar.org/author/6743849"
+    }, 
+    {
+      "authorId": "1734590", 
+      "name": "Aijun An", 
+      "url": "https://www.semanticscholar.org/author/1734590"
+    }, 
+    {
+      "authorId": "1805402", 
+      "name": "Xiaohui Yu", 
+      "url": "https://www.semanticscholar.org/author/1805402"
+    }
+  ], 
+  "citationVelocity": 0, 
+  "citations": [
+    {
+      "isInfluential": false, 
+      "paperId": "085349659bc239ac74937e1ce5c64306ca52bff4", 
+      "title": "HelpMeter: A Nonlinear Model for Predicting the Helpfulness of Online Reviews", 
+      "url": "https://www.semanticscholar.org/paper/085349659bc239ac74937e1ce5c64306ca52bff4", 
+      "venue": "2008 IEEE/WIC/ACM International Conference on Web Intelligence and Intelligent Agent Technology", 
+      "year": 2008
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "3afcbe134eb682bf1594e6bccc66579405e392a1", 
+      "title": "What makes conversations interesting?: themes, participants and consequences of conversations in online social media", 
+      "url": "https://www.semanticscholar.org/paper/3afcbe134eb682bf1594e6bccc66579405e392a1", 
+      "venue": "WWW", 
+      "year": 2009
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "9a886cc9178de6851a5d7e08045e72b42d15ea20", 
+      "title": "Analyzing Political Trends in the Blogosphere", 
+      "url": "https://www.semanticscholar.org/paper/9a886cc9178de6851a5d7e08045e72b42d15ea20", 
+      "venue": "ICWSM", 
+      "year": 2011
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "65c720ece2e3caf3d41db385924be84dd3211b50", 
+      "title": "AffRank: Affinity-driven ranking of products in online social rating networks", 
+      "url": "https://www.semanticscholar.org/paper/65c720ece2e3caf3d41db385924be84dd3211b50", 
+      "venue": "JASIST", 
+      "year": 2011
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "a63e8015d8b91863c7d442b953dcc05f03ca886b", 
+      "title": "Extracting common emotions from blogs based on fine-grained sentiment clustering", 
+      "url": "https://www.semanticscholar.org/paper/a63e8015d8b91863c7d442b953dcc05f03ca886b", 
+      "venue": "Knowledge and Information Systems", 
+      "year": 2010
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "58314feb25bc928a31f8e51843ebd242a9ef56f3", 
+      "title": "Distributed LDA-based Topic Modeling and Topic Agglomeration in a Latent Space", 
+      "url": "https://www.semanticscholar.org/paper/58314feb25bc928a31f8e51843ebd242a9ef56f3", 
+      "venue": "SNOW-DC@WWW", 
+      "year": 2014
+    }, 
+    {
+      "isInfluential": true, 
+      "paperId": "9b26084d61b49cda68a4ce72ec35639bb1d5539a", 
+      "title": "Understanding the predictive power of social media", 
+      "url": "https://www.semanticscholar.org/paper/9b26084d61b49cda68a4ce72ec35639bb1d5539a", 
+      "venue": "Internet Research", 
+      "year": 2013
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "4b8c336fbee98517a072190323825ec242e26f42", 
+      "title": "Automatic Domain Ontology Extraction for Context-Sensitive Opinion Mining", 
+      "url": "https://www.semanticscholar.org/paper/4b8c336fbee98517a072190323825ec242e26f42", 
+      "venue": "ICIS", 
+      "year": 2009
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "75234792adb0680e7e713880e381d5ae84a8c718", 
+      "title": "Twitter mood predicts the stock market", 
+      "url": "https://www.semanticscholar.org/paper/75234792adb0680e7e713880e381d5ae84a8c718", 
+      "venue": "J. Comput. Science", 
+      "year": 2011
+    }, 
+    {
+      "isInfluential": true, 
+      "paperId": "44e71c4fa666c94307e294e378f4e67aab5f3b81", 
+      "title": "Deciphering word-of-mouth in social media: Text-based metrics of consumer reviews", 
+      "url": "https://www.semanticscholar.org/paper/44e71c4fa666c94307e294e378f4e67aab5f3b81", 
+      "venue": "ACM Trans. Management Inf. Syst.", 
+      "year": 2012
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "f52a4532dc1a77a2eb87f7900d26a12ea11ec511", 
+      "title": "Online sentiment-based topic modeling for continuous data streams", 
+      "url": "https://www.semanticscholar.org/paper/f52a4532dc1a77a2eb87f7900d26a12ea11ec511", 
+      "venue": "WebSci", 
+      "year": 2014
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "9b8193f5be5188994b751867224c3cf54ece8c74", 
+      "title": "Integrating Multiple Data Sources to Enhance Sentiment Prediction", 
+      "url": "https://www.semanticscholar.org/paper/9b8193f5be5188994b751867224c3cf54ece8c74", 
+      "venue": "2016 IEEE 2nd International Conference on Collaboration and Internet Computing (CIC)", 
+      "year": 2016
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "3544c9f8ddc9da3b7f056e0bcb8eec5affefcadc", 
+      "title": "Chinese Microblogs Sentiment Classification using Maximum Entropy", 
+      "url": "https://www.semanticscholar.org/paper/3544c9f8ddc9da3b7f056e0bcb8eec5affefcadc", 
+      "venue": "", 
+      "year": 2015
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "02233a4e613003c4c10a3f28c75bfe04cde5dd3e", 
+      "title": "ChronoSeeker: search engine for future and past events", 
+      "url": "https://www.semanticscholar.org/paper/02233a4e613003c4c10a3f28c75bfe04cde5dd3e", 
+      "venue": "ICUIMC", 
+      "year": 2010
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "cf4b23e834828c7b4d4039179eab848941cf103f", 
+      "title": "Volatility Spillovers Across User-Generated Content and Stock Market Performance", 
+      "url": "https://www.semanticscholar.org/paper/cf4b23e834828c7b4d4039179eab848941cf103f", 
+      "venue": "", 
+      "year": 2016
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "29366f39dc4237a380f20e9ae9fbeffa645200c9", 
+      "title": "Sentiment Analysis and Subjectivity", 
+      "url": "https://www.semanticscholar.org/paper/29366f39dc4237a380f20e9ae9fbeffa645200c9", 
+      "venue": "Handbook of Natural Language Processing", 
+      "year": 2010
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "d357fbc7f1e72626ebf077b1be54d5049776e206", 
+      "title": "Using Ensemble Learners to Improve Classifier Performance on Tweet Sentiment Data", 
+      "url": "https://www.semanticscholar.org/paper/d357fbc7f1e72626ebf077b1be54d5049776e206", 
+      "venue": "2015 IEEE International Conference on Information Reuse and Integration", 
+      "year": 2015
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "46b5c87d49ac2dc9085b4f7afc3660c7b8f4abc5", 
+      "title": "Ontology-based sentiment analysis of twitter posts", 
+      "url": "https://www.semanticscholar.org/paper/46b5c87d49ac2dc9085b4f7afc3660c7b8f4abc5", 
+      "venue": "Expert Syst. Appl.", 
+      "year": 2013
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "adfffadbac235d89bed96aeecb6911c9b2cf6267", 
+      "title": "A Survey of Opinion Mining and Sentiment Analysis", 
+      "url": "https://www.semanticscholar.org/paper/adfffadbac235d89bed96aeecb6911c9b2cf6267", 
+      "venue": "Mining Text Data", 
+      "year": 2012
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "302fc8600214e74e590673ca3019a9fbe86d5b66", 
+      "title": "Opinion Dynamics of Elections in Twitter", 
+      "url": "https://www.semanticscholar.org/paper/302fc8600214e74e590673ca3019a9fbe86d5b66", 
+      "venue": "2012 Eighth Latin American Web Congress", 
+      "year": 2012
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "8ce420f34411fb76c22b46f2d574baf9e2bd089e", 
+      "title": "Mining Online Reviews for Predicting Sales Performance: A Case Study in the Movie Domain", 
+      "url": "https://www.semanticscholar.org/paper/8ce420f34411fb76c22b46f2d574baf9e2bd089e", 
+      "venue": "IEEE Transactions on Knowledge and Data Engineering", 
+      "year": 2012
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "afee3b34dea6b22186ae4f0c35d2b73ff2365b47", 
+      "title": "Sentiment Learning on Product Reviews via Sentiment Ontology Tree", 
+      "url": "https://www.semanticscholar.org/paper/afee3b34dea6b22186ae4f0c35d2b73ff2365b47", 
+      "venue": "ACL", 
+      "year": 2010
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "40bf161749414cff254db75f542830d81d9e4c8b", 
+      "title": "Modeling and Predicting the Helpfulness of Online Reviews", 
+      "url": "https://www.semanticscholar.org/paper/40bf161749414cff254db75f542830d81d9e4c8b", 
+      "venue": "2008 Eighth IEEE International Conference on Data Mining", 
+      "year": 2008
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "3760df1c9e01d7944f15fac5e077e9ce4520f33e", 
+      "title": "Opinion Mining and Sentiment Analysis", 
+      "url": "https://www.semanticscholar.org/paper/3760df1c9e01d7944f15fac5e077e9ce4520f33e", 
+      "venue": "Foundations and Trends in Information Retrieval", 
+      "year": 2007
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "25b36c7957475058258ae68119f1351c37a1f585", 
+      "title": "Usability and consumption influence of fashion blogs: an exploratory study", 
+      "url": "https://www.semanticscholar.org/paper/25b36c7957475058258ae68119f1351c37a1f585", 
+      "venue": "CLIHC", 
+      "year": 2015
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "1b00fabf16550daee0b914a62dba6a869482ac57", 
+      "title": "From people to entities: typed search in the enterprise and the web", 
+      "url": "https://www.semanticscholar.org/paper/1b00fabf16550daee0b914a62dba6a869482ac57", 
+      "venue": "SIGIR Forum", 
+      "year": 2011
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "0ce8e2326e3ed82440ec0ee4748528091aeeb116", 
+      "title": "Utilizing Ensemble, Data Sampling and Feature Selection Techniques for Improving Classification Performance on Tweet Sentiment Data", 
+      "url": "https://www.semanticscholar.org/paper/0ce8e2326e3ed82440ec0ee4748528091aeeb116", 
+      "venue": "2015 IEEE 14th International Conference on Machine Learning and Applications (ICMLA)", 
+      "year": 2015
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "0fc1f8086b50e1fdb7b1dd404303052afd788e4e", 
+      "title": "Sentiment-Based Features for Predicting Election Polls: A Case Study on the Brazilian Scenario", 
+      "url": "https://www.semanticscholar.org/paper/0fc1f8086b50e1fdb7b1dd404303052afd788e4e", 
+      "venue": "2014 IEEE/WIC/ACM International Joint Conferences on Web Intelligence (WI) and Intelligent Agent Technologies (IAT)", 
+      "year": 2014
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "25d5fd9be84d1a4afc1442fee6d085bbf377beb9", 
+      "title": "Understanding the User Generated Content and Interactions on a Facebook Brand Page 3.1 Facebook as a Platform for Social Media Marketing 4.2.2 Interconnectedness Analysis", 
+      "url": "https://www.semanticscholar.org/paper/25d5fd9be84d1a4afc1442fee6d085bbf377beb9", 
+      "venue": "", 
+      "year": 2012
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "161d2ddbb570ab36073006f537cc8c13b7907794", 
+      "title": "Multi-lingual Analysis of Future-Related Information on the Web", 
+      "url": "https://www.semanticscholar.org/paper/161d2ddbb570ab36073006f537cc8c13b7907794", 
+      "venue": "2013 International Conference on Culture and Computing", 
+      "year": 2013
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "6f373ce52f5ae0937605e1af40571fae2e9ee88e", 
+      "title": "A quality-aware model for sales prediction using reviews", 
+      "url": "https://www.semanticscholar.org/paper/6f373ce52f5ae0937605e1af40571fae2e9ee88e", 
+      "venue": "WWW", 
+      "year": 2010
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "dc45c9ac18db88b415a98599b9b3706f3597d0ea", 
+      "title": "Emotion Modeling from Writer/Reader Perspectives Using a Microblog Dataset", 
+      "url": "https://www.semanticscholar.org/paper/dc45c9ac18db88b415a98599b9b3706f3597d0ea", 
+      "venue": "", 
+      "year": 2011
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "5455f6297d83bb4d9b9e6c3a8ad2fc680042e49c", 
+      "title": "Analyzing the Blogosphere for Predicting the Success of Music and Movie Products", 
+      "url": "https://www.semanticscholar.org/paper/5455f6297d83bb4d9b9e6c3a8ad2fc680042e49c", 
+      "venue": "2010 International Conference on Advances in Social Networks Analysis and Mining", 
+      "year": 2010
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "410acd8856b6262572e50b51a1577f5a892ae3c4", 
+      "title": "An Adaptive Model for Probabilistic Sentiment Analysis", 
+      "url": "https://www.semanticscholar.org/paper/410acd8856b6262572e50b51a1577f5a892ae3c4", 
+      "venue": "2010 IEEE/WIC/ACM International Conference on Web Intelligence and Intelligent Agent Technology", 
+      "year": 2010
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "38001a406995a9acb10808845da90e3518b997bc", 
+      "title": "Using Feature Selection in Combination with Ensemble Learning Techniques to Improve Tweet Sentiment Classification Performance", 
+      "url": "https://www.semanticscholar.org/paper/38001a406995a9acb10808845da90e3518b997bc", 
+      "venue": "2015 IEEE 27th International Conference on Tools with Artificial Intelligence (ICTAI)", 
+      "year": 2015
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "9c01dbaf82bb597ce9c279f74e507a469ca22685", 
+      "title": "Meme diffusion through mass social media", 
+      "url": "https://www.semanticscholar.org/paper/9c01dbaf82bb597ce9c279f74e507a469ca22685", 
+      "venue": "", 
+      "year": 2014
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "35bce4859e70031b5dca90916eb659c705e429a8", 
+      "title": "Multimedia Semantics: Interactions Between Content and Community", 
+      "url": "https://www.semanticscholar.org/paper/35bce4859e70031b5dca90916eb659c705e429a8", 
+      "venue": "Proceedings of the IEEE", 
+      "year": 2012
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "b4d0492e9f72e0709d6def0bedfa67cb0bb4fbdf", 
+      "title": "A Framework for Sentiment Analysis in Persian", 
+      "url": "https://www.semanticscholar.org/paper/b4d0492e9f72e0709d6def0bedfa67cb0bb4fbdf", 
+      "venue": "", 
+      "year": 2015
+    }, 
+    {
+      "isInfluential": true, 
+      "paperId": "e25462a9c953af540a16d378f01d39879fe5705b", 
+      "title": "Comparative Analysis of the Impact of Blogging and Micro-blogging on Market Performance", 
+      "url": "https://www.semanticscholar.org/paper/e25462a9c953af540a16d378f01d39879fe5705b", 
+      "venue": "", 
+      "year": 2009
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "331e5a3893d476b221c448ce5a26655657ff0014", 
+      "title": "Fuzzy sentiment analysis on microblogs for movie revenue prediction", 
+      "url": "https://www.semanticscholar.org/paper/331e5a3893d476b221c448ce5a26655657ff0014", 
+      "venue": "2013 International Conference on Emerging Trends in Communication, Control, Signal Processing and Computing Applications (C2SPCA)", 
+      "year": 2013
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "a005c33edd0dfd95653c4eb3d325bb00a4b9ab2a", 
+      "title": "Efficient Statement Identification for Automatic Market Forecasting", 
+      "url": "https://www.semanticscholar.org/paper/a005c33edd0dfd95653c4eb3d325bb00a4b9ab2a", 
+      "venue": "COLING", 
+      "year": 2010
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "45554a47124fba4db83f25183f10d26de95e3703", 
+      "title": "Sentiment Bias Detection in Support of News Credibility Judgment", 
+      "url": "https://www.semanticscholar.org/paper/45554a47124fba4db83f25183f10d26de95e3703", 
+      "venue": "HICSS", 
+      "year": 2011
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "8dbd99ecc55224d0f0d14eabaacb3d822950cd2a", 
+      "title": "Impact of Feature Selection Techniques for Tweet Sentiment Classification", 
+      "url": "https://www.semanticscholar.org/paper/8dbd99ecc55224d0f0d14eabaacb3d822950cd2a", 
+      "venue": "FLAIRS Conference", 
+      "year": 2015
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "9e1ba5b6eebfe40a9b81a81ed72dc4f8ae3b1863", 
+      "title": "Extracting Domain-Dependent Semantic Orientations of Latent Variables for Sentiment Classification", 
+      "url": "https://www.semanticscholar.org/paper/9e1ba5b6eebfe40a9b81a81ed72dc4f8ae3b1863", 
+      "venue": "ICCPOL", 
+      "year": 2009
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "59521ebc774a02f9704f183c5afb551cd5d3c9a6", 
+      "title": "S-PLASA+: adaptive sentiment analysis with application to sales performance prediction", 
+      "url": "https://www.semanticscholar.org/paper/59521ebc774a02f9704f183c5afb551cd5d3c9a6", 
+      "venue": "SIGIR", 
+      "year": 2010
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "227885b70d5a73acf9ccb9b21ce26b96fb887309", 
+      "title": "Topic-level opinion influence model (TOIM): An investigation using tencent microblogging", 
+      "url": "https://www.semanticscholar.org/paper/227885b70d5a73acf9ccb9b21ce26b96fb887309", 
+      "venue": "JASIST", 
+      "year": 2015
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "7376fd8a0add0c381030a4fbcd4c29b1e03f2d28", 
+      "title": "Trabajo De Tesis Para Optar Al Grado De Magi\u0301ster En Ciencias, Mencio\u0301n Computacio\u0301n Felipe Jose\u0301 Bravo Ma\u0301rquez Profesor Gui\u0301a: Ba\u0301rbara Poblete Labra", 
+      "url": "https://www.semanticscholar.org/paper/7376fd8a0add0c381030a4fbcd4c29b1e03f2d28", 
+      "venue": "", 
+      "year": 2013
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "52add2b5faadfa38e5e8739bf540c9b6d76c4a5b", 
+      "title": "A Vector Space Approach for Aspect Based Sentiment Analysis", 
+      "url": "https://www.semanticscholar.org/paper/52add2b5faadfa38e5e8739bf540c9b6d76c4a5b", 
+      "venue": "VS@HLT-NAACL", 
+      "year": 2015
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "2f9feddc1b0b63d0049be7d0e766eb8a981de4e6", 
+      "title": "Storing and analysing voice of the market data in the corporate data warehouse", 
+      "url": "https://www.semanticscholar.org/paper/2f9feddc1b0b63d0049be7d0e766eb8a981de4e6", 
+      "venue": "Information Systems Frontiers", 
+      "year": 2013
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "e31bd8ec56d67e87fe768a74af7f7d9351861b2b", 
+      "title": "Riding the tide of sentiment change: sentiment analysis with evolving online reviews", 
+      "url": "https://www.semanticscholar.org/paper/e31bd8ec56d67e87fe768a74af7f7d9351861b2b", 
+      "venue": "World Wide Web", 
+      "year": 2012
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "e859870ef228bb79b430f1080f5ee89de82a6151", 
+      "title": "Multi-agent framework for social CRM: Extracting and analyzing opinions", 
+      "url": "https://www.semanticscholar.org/paper/e859870ef228bb79b430f1080f5ee89de82a6151", 
+      "venue": "2016 IEEE/ACS 13th International Conference of Computer Systems and Applications (AICCSA)", 
+      "year": 2016
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "d8b7b49f6fb9c145c23e7ac429d5b0e8f72c179f", 
+      "title": "Viewers' Side Analysis of Social Interests", 
+      "url": "https://www.semanticscholar.org/paper/d8b7b49f6fb9c145c23e7ac429d5b0e8f72c179f", 
+      "venue": "2012 IEEE 12th International Conference on Data Mining Workshops", 
+      "year": 2012
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "0b97a3498a0140b22b33d42c7790ce9932613e21", 
+      "title": "URSA - User Review Structure Analysis: Understanding Online Reviewing Trends", 
+      "url": "https://www.semanticscholar.org/paper/0b97a3498a0140b22b33d42c7790ce9932613e21", 
+      "venue": "", 
+      "year": 2010
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "398a0347f5cab2c89198c2f748fc209680a21b8a", 
+      "title": "Mining collective knowledge: inferring functional labels from online review for business", 
+      "url": "https://www.semanticscholar.org/paper/398a0347f5cab2c89198c2f748fc209680a21b8a", 
+      "venue": "Knowledge and Information Systems", 
+      "year": 2017
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "206df5493ae609372ed48a33a8f9e69581273f0a", 
+      "title": "S-ANFIS: Sentiment aware adaptive network-based fuzzy inference system for Predicting Sales Performance using Blogs/Reviews", 
+      "url": "https://www.semanticscholar.org/paper/206df5493ae609372ed48a33a8f9e69581273f0a", 
+      "venue": "", 
+      "year": 2012
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "32e1cc40afa163021526c5250631b34ee9b3f5b7", 
+      "title": "Integrating web feed opinions into a corporate data warehouse", 
+      "url": "https://www.semanticscholar.org/paper/32e1cc40afa163021526c5250631b34ee9b3f5b7", 
+      "venue": "BEWEB", 
+      "year": 2011
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "fa6243e337514a48736fc9ec91f35961bf9aa0a1", 
+      "title": "An Exploratory Study on the Impact of Temporal Features on the Classification and Clustering of Future-Related Web Documents", 
+      "url": "https://www.semanticscholar.org/paper/fa6243e337514a48736fc9ec91f35961bf9aa0a1", 
+      "venue": "EPIA", 
+      "year": 2011
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "2bba9c984e3ed4800be36e3a4a11b6497b90cfeb", 
+      "title": "Supporting analysis of future-related information in news archives and the web", 
+      "url": "https://www.semanticscholar.org/paper/2bba9c984e3ed4800be36e3a4a11b6497b90cfeb", 
+      "venue": "JCDL", 
+      "year": 2009
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "5d866934e468eaf815b8a88aa7ad226cff321721", 
+      "title": "Classification de Sentiments Multi-Domaines et Passage \u00e0 l'Echelle", 
+      "url": "https://www.semanticscholar.org/paper/5d866934e468eaf815b8a88aa7ad226cff321721", 
+      "venue": "CORIA", 
+      "year": 2013
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "af69d216f2a08765b646030c12c680570dbc3f91", 
+      "title": "Ontology Based Sentiment Clustering Of Movie Review", 
+      "url": "https://www.semanticscholar.org/paper/af69d216f2a08765b646030c12c680570dbc3f91", 
+      "venue": "", 
+      "year": 2013
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "7bb573080488544c51bb250f06934a936020ba0e", 
+      "title": "Multi-model or Single Model? A Study of Movie Box-Office Revenue Prediction", 
+      "url": "https://www.semanticscholar.org/paper/7bb573080488544c51bb250f06934a936020ba0e", 
+      "venue": "2015 IEEE International Conference on Computer and Information Technology; Ubiquitous Computing and Communications; Dependable, Autonomic and Secure Computing; Pervasive Intelligence and Computing", 
+      "year": 2015
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "a98b00e37712d953a9ebfa81b59708fc65fb3229", 
+      "title": "Product Comparison Networks for Competitive Analysis of Online Word-of-Mouth", 
+      "url": "https://www.semanticscholar.org/paper/a98b00e37712d953a9ebfa81b59708fc65fb3229", 
+      "venue": "ACM Trans. Management Inf. Syst.", 
+      "year": 2013
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "9f61742314e79cc8dfbcf2e5ea37b7c5dc64fb10", 
+      "title": "Web mining based OALF model for context-aware mobile advertising system", 
+      "url": "https://www.semanticscholar.org/paper/9f61742314e79cc8dfbcf2e5ea37b7c5dc64fb10", 
+      "venue": "2009 IFIP/IEEE International Symposium on Integrated Network Management-Workshops", 
+      "year": 2009
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "b8ecb4ea791329d3422aefa87559ec9f47054a83", 
+      "title": "A Review of Opinion Mining Methods for Analyzing Citizens' Contributions in Public Policy Debate", 
+      "url": "https://www.semanticscholar.org/paper/b8ecb4ea791329d3422aefa87559ec9f47054a83", 
+      "venue": "ePart", 
+      "year": 2011
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "07a3a4ab89157511c9bc5ca8aa572ef773aae02f", 
+      "title": "Exploiting Social Relations and Sentiment for Stock Prediction", 
+      "url": "https://www.semanticscholar.org/paper/07a3a4ab89157511c9bc5ca8aa572ef773aae02f", 
+      "venue": "EMNLP", 
+      "year": 2014
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "01fb41ab73ca51e7191ed4778d07a340b9c38ecf", 
+      "title": "Sentiment Diffusion of Public Opinions about Hot Events: Based on Complex Network", 
+      "url": "https://www.semanticscholar.org/paper/01fb41ab73ca51e7191ed4778d07a340b9c38ecf", 
+      "venue": "PloS one", 
+      "year": 2015
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "a3471448a6c87098b2d6a2d51826bdaed4acf58d", 
+      "title": "Social intelligence framework: Extracting and analyzing opinions for social CRM", 
+      "url": "https://www.semanticscholar.org/paper/a3471448a6c87098b2d6a2d51826bdaed4acf58d", 
+      "venue": "2015 IEEE/ACS 12th International Conference of Computer Systems and Applications (AICCSA)", 
+      "year": 2015
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "10e33fe62dd2868302b407ab26a24800145c972e", 
+      "title": "Public Opinion Sensing and Trend Analysis on Social Media: A Study on Nuclear Power on Twitter", 
+      "url": "https://www.semanticscholar.org/paper/10e33fe62dd2868302b407ab26a24800145c972e", 
+      "venue": "", 
+      "year": 2014
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "0d1c26926642e85b12bf47e7cd51b9fede6819cf", 
+      "title": "A Comparative Study on Sentiment Analysis", 
+      "url": "https://www.semanticscholar.org/paper/0d1c26926642e85b12bf47e7cd51b9fede6819cf", 
+      "venue": "", 
+      "year": 2014
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "08fc0982863b6d5aab5711beadf15cb7d26cf9fe", 
+      "title": "Blog mining-review and extensions: \"From each according to his opinion\"", 
+      "url": "https://www.semanticscholar.org/paper/08fc0982863b6d5aab5711beadf15cb7d26cf9fe", 
+      "venue": "Decision Support Systems", 
+      "year": 2011
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "af64ef0853d5afc22b37b32fc2589cd4098f7b73", 
+      "title": "The blogosphere as an excitable social medium: Richter's and Omori's Law in media coverage", 
+      "url": "https://www.semanticscholar.org/paper/af64ef0853d5afc22b37b32fc2589cd4098f7b73", 
+      "venue": "ArXiv", 
+      "year": 2011
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "6269b1d962a42c9ad0133875b1726c8269f83860", 
+      "title": "Leveraging Product Adopter Information from Online Reviews for Product Recommendation", 
+      "url": "https://www.semanticscholar.org/paper/6269b1d962a42c9ad0133875b1726c8269f83860", 
+      "venue": "ICWSM", 
+      "year": 2015
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "162b5f74b7171960aba79558ec939b01ca2c03e9", 
+      "title": "Predicting short interval tracking polls with online social media", 
+      "url": "https://www.semanticscholar.org/paper/162b5f74b7171960aba79558ec939b01ca2c03e9", 
+      "venue": "Proceedings of the 2013 IEEE 17th International Conference on Computer Supported Cooperative Work in Design (CSCWD)", 
+      "year": 2013
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "ca4b6c4d3e1797c89ad9a338923f4845b423af3a", 
+      "title": "Towards detecting influenza epidemics by analyzing Twitter messages", 
+      "url": "https://www.semanticscholar.org/paper/ca4b6c4d3e1797c89ad9a338923f4845b423af3a", 
+      "venue": "SOMA@KDD", 
+      "year": 2010
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "26447b5eb4e3a27d38d1cf9a3a8a93766b7cb202", 
+      "title": "Supervised Dynamic Topic Models for Associative Topic Extraction with A Numerical Time Series", 
+      "url": "https://www.semanticscholar.org/paper/26447b5eb4e3a27d38d1cf9a3a8a93766b7cb202", 
+      "venue": "TM@CIKM", 
+      "year": 2015
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "23aaa5d071180af023c6c26fb83a4d661e3cf40b", 
+      "title": "Social Influence Study in Online Networks: A Three-Level Review", 
+      "url": "https://www.semanticscholar.org/paper/23aaa5d071180af023c6c26fb83a4d661e3cf40b", 
+      "venue": "Journal of Computer Science and Technology", 
+      "year": 2015
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "be7254fe4ce602539351abd6903a7865eb9ea939", 
+      "title": "Generating contextualized sentiment lexica based on latent topics and user ratings", 
+      "url": "https://www.semanticscholar.org/paper/be7254fe4ce602539351abd6903a7865eb9ea939", 
+      "venue": "HT", 
+      "year": 2013
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "cc205ac16bfa86b9219fc16b00ef6603a389d79c", 
+      "title": "Opinion Mining on the Web 2.0 - Characteristics of User Generated Content and Their Impacts", 
+      "url": "https://www.semanticscholar.org/paper/cc205ac16bfa86b9219fc16b00ef6603a389d79c", 
+      "venue": "CHI-KDD", 
+      "year": 2013
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "9d55b53734192f26779f4092baeeb0b9d138f51e", 
+      "title": "Marketing Solutions Enabled by Big Data Using Structural Models", 
+      "url": "https://www.semanticscholar.org/paper/9d55b53734192f26779f4092baeeb0b9d138f51e", 
+      "venue": "", 
+      "year": 2015
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "81c574a66a858f7566b94ca0675fd79abccffc7d", 
+      "title": "Exam Questions Classification Based on Bloom\u2019s Taxonomy Cognitive Level Using Classifiers Combination", 
+      "url": "https://www.semanticscholar.org/paper/81c574a66a858f7566b94ca0675fd79abccffc7d", 
+      "venue": "", 
+      "year": 2015
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "3faf8f457a6300d649562bd6aaa9e766b6630a21", 
+      "title": "SIWeb: understanding the Interests of the Society through Web data Analysis", 
+      "url": "https://www.semanticscholar.org/paper/3faf8f457a6300d649562bd6aaa9e766b6630a21", 
+      "venue": "", 
+      "year": 2015
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "3899713811ad0a58b081107541a9d9dca802be84", 
+      "title": "Should I Care about Your Opinion? Detection of Opinion Interestingness and Dynamics in Social Media", 
+      "url": "https://www.semanticscholar.org/paper/3899713811ad0a58b081107541a9d9dca802be84", 
+      "venue": "Future Internet", 
+      "year": 2014
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "f4d736561812dbbe817251f14eb7b378d0ada714", 
+      "title": "Analyzing Word-Of-Mouth In Social Media: The Impact And Generation Patterns", 
+      "url": "https://www.semanticscholar.org/paper/f4d736561812dbbe817251f14eb7b378d0ada714", 
+      "venue": "PACIS", 
+      "year": 2012
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "a8d43e76eb361a71be5f0e920327b0d272a13b0d", 
+      "title": "A Model for Predicting Movie\u2019s Performance using Online Rating and Revenue", 
+      "url": "https://www.semanticscholar.org/paper/a8d43e76eb361a71be5f0e920327b0d272a13b0d", 
+      "venue": "", 
+      "year": 2013
+    }, 
+    {
+      "isInfluential": true, 
+      "paperId": "f0a9b9af3747277392b6af6aba0a8f53b6e732d5", 
+      "title": "Extraction, characterization and utility of prototypical communication groups in the blogosphere", 
+      "url": "https://www.semanticscholar.org/paper/f0a9b9af3747277392b6af6aba0a8f53b6e732d5", 
+      "venue": "ACM Trans. Inf. Syst.", 
+      "year": 2010
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "3a8f7ec85de59bc89bd0b7bcffaf8ce89dd5b1e2", 
+      "title": "Exploring demographic information in social media for product recommendation", 
+      "url": "https://www.semanticscholar.org/paper/3a8f7ec85de59bc89bd0b7bcffaf8ce89dd5b1e2", 
+      "venue": "Knowledge and Information Systems", 
+      "year": 2015
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "dfdf5fdb63283db8623c77cc0e65c6b233d83169", 
+      "title": "On predicting the popularity of newly emerging hashtags in Twitter", 
+      "url": "https://www.semanticscholar.org/paper/dfdf5fdb63283db8623c77cc0e65c6b233d83169", 
+      "venue": "JASIST", 
+      "year": 2013
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "27875236e63d450117b6cff8ba3bd08bc2d0d703", 
+      "title": "Exploiting Social Media for Stock Market Prediction with Factorization Machine", 
+      "url": "https://www.semanticscholar.org/paper/27875236e63d450117b6cff8ba3bd08bc2d0d703", 
+      "venue": "2014 IEEE/WIC/ACM International Joint Conferences on Web Intelligence (WI) and Intelligent Agent Technologies (IAT)", 
+      "year": 2014
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "37d03c2cf924e65b21b030890cb60e2628101c82", 
+      "title": "Understanding the user generated content and interactions on a Facebook brand page", 
+      "url": "https://www.semanticscholar.org/paper/37d03c2cf924e65b21b030890cb60e2628101c82", 
+      "venue": "IJSHC", 
+      "year": 2013
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "080ec0707c4d4e0a3847d2c5cafc3d795cc3825f", 
+      "title": "What a Nasty Day: Exploring Mood-Weather Relationship from Twitter", 
+      "url": "https://www.semanticscholar.org/paper/080ec0707c4d4e0a3847d2c5cafc3d795cc3825f", 
+      "venue": "CIKM", 
+      "year": 2014
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "f866782854d38fdc485ae2d147ded895ab1e5e68", 
+      "title": "Enhancing the HL-SOT Approach to Sentiment Analysis via a Localized Feature Selection Framework", 
+      "url": "https://www.semanticscholar.org/paper/f866782854d38fdc485ae2d147ded895ab1e5e68", 
+      "venue": "IJCNLP", 
+      "year": 2011
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "ad811af8ae243838b61829f8467b28fc88ce2cd9", 
+      "title": "Using Random Undersampling to Alleviate Class Imbalance on Tweet Sentiment Data", 
+      "url": "https://www.semanticscholar.org/paper/ad811af8ae243838b61829f8467b28fc88ce2cd9", 
+      "venue": "2015 IEEE International Conference on Information Reuse and Integration", 
+      "year": 2015
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "a9b0a94c18587976bcdc22d254e6a624fe6e01a2", 
+      "title": "Monthly car sales prediction using Internet Word-of-Mouth (eWOM)", 
+      "url": "https://www.semanticscholar.org/paper/a9b0a94c18587976bcdc22d254e6a624fe6e01a2", 
+      "venue": "2017 IEEE International Conference on INnovations in Intelligent SysTems and Applications (INISTA)", 
+      "year": 2017
+    }
+  ], 
+  "doi": "10.1145/1277741.1277845", 
+  "influentialCitationCount": 4, 
+  "paperId": "11543c44ed72784c656362b2ef42f7509250a423", 
+  "references": [
+    {
+      "isInfluential": false, 
+      "paperId": "2b8a80b18cc7a4461c6e532c2f3de7e570d4fcd6", 
+      "title": "A probabilistic approach to spatiotemporal theme pattern mining on weblogs", 
+      "url": "https://www.semanticscholar.org/paper/2b8a80b18cc7a4461c6e532c2f3de7e570d4fcd6", 
+      "venue": "WWW", 
+      "year": 2006
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "a136a3790123c71f9a0c208b2bb5b115dc4affbe", 
+      "title": "Utility scoring of product reviews", 
+      "url": "https://www.semanticscholar.org/paper/a136a3790123c71f9a0c208b2bb5b115dc4affbe", 
+      "venue": "CIKM", 
+      "year": 2006
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "3a6a4f212f03e00b61024f6ad087374e75748fac", 
+      "title": "Dynamic, real-time forecasting of online auctions via functional models", 
+      "url": "https://www.semanticscholar.org/paper/3a6a4f212f03e00b61024f6ad087374e75748fac", 
+      "venue": "KDD", 
+      "year": 2006
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "167e1359943b96b9e92ee73db1df69a1f65d731d", 
+      "title": "A Sentimental Education: Sentiment Analysis Using Subjectivity Summarization Based on Minimum Cuts", 
+      "url": "https://www.semanticscholar.org/paper/167e1359943b96b9e92ee73db1df69a1f65d731d", 
+      "venue": "ACL", 
+      "year": 2004
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "464ab73f4a618d3a1a672c39ea84565ef2151f78", 
+      "title": "A mixture model for contextual text mining", 
+      "url": "https://www.semanticscholar.org/paper/464ab73f4a618d3a1a672c39ea84565ef2151f78", 
+      "venue": "KDD", 
+      "year": 2006
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "1e56ed3d2c855f848ffd91baa90f661772a279e1", 
+      "title": "Latent Dirichlet Allocation", 
+      "url": "https://www.semanticscholar.org/paper/1e56ed3d2c855f848ffd91baa90f661772a279e1", 
+      "venue": "Journal of Machine Learning Research", 
+      "year": 2003
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "2bc6c09fb1adad994b99e75688eec92e9d92f5f7", 
+      "title": "Tomographic Clustering To Visualize Blog Communities as Mountain Views", 
+      "url": "https://www.semanticscholar.org/paper/2bc6c09fb1adad994b99e75688eec92e9d92f5f7", 
+      "venue": "", 
+      "year": 2005
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "8367ec041f26df9d4e627a3c00fcae941628faa4", 
+      "title": "Structure and evolution of blogspace", 
+      "url": "https://www.semanticscholar.org/paper/8367ec041f26df9d4e627a3c00fcae941628faa4", 
+      "venue": "Commun. ACM", 
+      "year": 2004
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "45791a6972e385ef10a0a89793590331aef1e896", 
+      "title": "System for spatio-temporal analysis of online news and blogs", 
+      "url": "https://www.semanticscholar.org/paper/45791a6972e385ef10a0a89793590331aef1e896", 
+      "venue": "WWW", 
+      "year": 2006
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "2c5a8dcb6fc679a110ab4e66974b193e455256d2", 
+      "title": "Information diffusion through blogspace", 
+      "url": "https://www.semanticscholar.org/paper/2c5a8dcb6fc679a110ab4e66974b193e455256d2", 
+      "venue": "SIGKDD Explorations", 
+      "year": 2004
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "3a9bc4922b5519046c3d4c4e37b60735b35083c7", 
+      "title": "The predictive power of online chatter", 
+      "url": "https://www.semanticscholar.org/paper/3a9bc4922b5519046c3d4c4e37b60735b35083c7", 
+      "venue": "KDD", 
+      "year": 2005
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "34329c7ec1cc159ed5efa84cb38ea9bbec335d19", 
+      "title": "A probabilistic model for retrospective news event detection", 
+      "url": "https://www.semanticscholar.org/paper/34329c7ec1cc159ed5efa84cb38ea9bbec335d19", 
+      "venue": "SIGIR", 
+      "year": 2005
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "105a0b3826710356e218685f87b20fe39c64c706", 
+      "title": "Opinion observer: analyzing and comparing opinions on the Web", 
+      "url": "https://www.semanticscholar.org/paper/105a0b3826710356e218685f87b20fe39c64c706", 
+      "venue": "WWW", 
+      "year": 2005
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "4f1fe957a29a2e422d4034f4510644714d33fb20", 
+      "title": "Thumbs up? Sentiment Classification using Machine Learning Techniques", 
+      "url": "https://www.semanticscholar.org/paper/4f1fe957a29a2e422d4034f4510644714d33fb20", 
+      "venue": "ArXiv", 
+      "year": 2002
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "0891a6eb42968bb030d42766795b0cbdb86dcc5d", 
+      "title": "An outsider's view on \"topic-oriented blogging\"", 
+      "url": "https://www.semanticscholar.org/paper/0891a6eb42968bb030d42766795b0cbdb86dcc5d", 
+      "venue": "WWW", 
+      "year": 2004
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "26e8f3cc46b710a013358bf0289df4de033446ba", 
+      "title": "Maximum Likelihood from Incomplete Data via the EM Algorithm", 
+      "url": "https://www.semanticscholar.org/paper/26e8f3cc46b710a013358bf0289df4de033446ba", 
+      "venue": "", 
+      "year": 1977
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "18f57d44558917855286cd355adbc2253df1051c", 
+      "title": "Words with Attitude", 
+      "url": "https://www.semanticscholar.org/paper/18f57d44558917855286cd355adbc2253df1051c", 
+      "venue": "", 
+      "year": 2001
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "0e8d3f68c0a0eb9dab241c63aab319dbf596e697", 
+      "title": "Probabilistic Latent Semantic Analysis", 
+      "url": "https://www.semanticscholar.org/paper/0e8d3f68c0a0eb9dab241c63aab319dbf596e697", 
+      "venue": "UAI", 
+      "year": 1999
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "0470303953de1d19765423f719d8314e3cb91278", 
+      "title": "Using appraisal groups for sentiment analysis", 
+      "url": "https://www.semanticscholar.org/paper/0470303953de1d19765423f719d8314e3cb91278", 
+      "venue": "CIKM", 
+      "year": 2005
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "0a7fb47217e6d0e3b80159bc4f9e02a50ea1f391", 
+      "title": "Seeing Stars: Exploiting Class Relationships for Sentiment Categorization with Respect to Rating Scales", 
+      "url": "https://www.semanticscholar.org/paper/0a7fb47217e6d0e3b80159bc4f9e02a50ea1f391", 
+      "venue": "ACL", 
+      "year": 2005
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "033b62167e7358c429738092109311af696e9137", 
+      "title": "Thumbs Up or Thumbs Down? Semantic Orientation Applied to Unsupervised Classification of Reviews", 
+      "url": "https://www.semanticscholar.org/paper/033b62167e7358c429738092109311af696e9137", 
+      "venue": "ACL", 
+      "year": 2002
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "3e8e19b7e3da9541be53f1ace1c64df41a83a9ec", 
+      "title": "Using cocitation information to estimate political orientation in web documents", 
+      "url": "https://www.semanticscholar.org/paper/3e8e19b7e3da9541be53f1ace1c64df41a83a9ec", 
+      "venue": "Knowledge and Information Systems", 
+      "year": 2004
+    }
+  ], 
+  "title": "ARSA: a sentiment-aware model for predicting sales performance using blogs", 
+  "url": "https://www.semanticscholar.org/paper/11543c44ed72784c656362b2ef42f7509250a423", 
+  "venue": "SIGIR", 
+  "year": 2007
+}

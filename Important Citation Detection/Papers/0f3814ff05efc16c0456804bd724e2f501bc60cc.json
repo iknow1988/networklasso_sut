@@ -1,0 +1,714 @@
+{
+  "authors": [
+    {
+      "authorId": "2450508", 
+      "name": "Carlos G\u00f3mez-Rodr\u00edguez", 
+      "url": "https://www.semanticscholar.org/author/2450508"
+    }, 
+    {
+      "authorId": "1720988", 
+      "name": "Joakim Nivre", 
+      "url": "https://www.semanticscholar.org/author/1720988"
+    }
+  ], 
+  "citationVelocity": 14, 
+  "citations": [
+    {
+      "isInfluential": false, 
+      "paperId": "a1e7511e1c8bab4440b3f653883b2263d2b5efad", 
+      "title": "Transition-Based Parsing for Deep Dependency Structures", 
+      "url": "https://www.semanticscholar.org/paper/a1e7511e1c8bab4440b3f653883b2263d2b5efad", 
+      "venue": "Computational Linguistics", 
+      "year": 2016
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "b4cff97d019a9d80732c3ffb5bf08b109259ea88", 
+      "title": "Undirected Dependency Parsing", 
+      "url": "https://www.semanticscholar.org/paper/b4cff97d019a9d80732c3ffb5bf08b109259ea88", 
+      "venue": "Computational Intelligence", 
+      "year": 2015
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "4a247c7c19c6510b2d3923341981972a13fe9108", 
+      "title": "A Linear-Time Transition System for Crossing Interval Trees", 
+      "url": "https://www.semanticscholar.org/paper/4a247c7c19c6510b2d3923341981972a13fe9108", 
+      "venue": "HLT-NAACL", 
+      "year": 2015
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "43cd81482dc12cd4437fbe2d3ce31ec710da1875", 
+      "title": "Left-corner Methods for Syntactic Modeling with Universal Structural Constraints", 
+      "url": "https://www.semanticscholar.org/paper/43cd81482dc12cd4437fbe2d3ce31ec710da1875", 
+      "venue": "ArXiv", 
+      "year": 2016
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "0e3d7110c7c5b98bf8bf7a96db69c37866988ded", 
+      "title": "On the relation between dependency distance, crossing dependencies, and parsing. Comment on \"Dependency distance: a new perspective on syntactic patterns in natural languages\" by Haitao Liu et al", 
+      "url": "https://www.semanticscholar.org/paper/0e3d7110c7c5b98bf8bf7a96db69c37866988ded", 
+      "venue": "Physics of life reviews", 
+      "year": 2017
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "3b6e7f7f80d625f51be1824974320702aec39cc7", 
+      "title": "An Efficient Dynamic Oracle for Unrestricted Non-Projective Parsing", 
+      "url": "https://www.semanticscholar.org/paper/3b6e7f7f80d625f51be1824974320702aec39cc7", 
+      "venue": "ACL", 
+      "year": 2015
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "895adbe4b9cab3eda5f043f43ddb24538f23e859", 
+      "title": "Deriving Multi-Headed Planar Dependency Parses from Link Grammar Parses\u2217", 
+      "url": "https://www.semanticscholar.org/paper/895adbe4b9cab3eda5f043f43ddb24538f23e859", 
+      "venue": "", 
+      "year": 2014
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "4ec74c59a092941f7ae446caddbeacdaddc64e16", 
+      "title": "Are crossing dependencies really scarce?", 
+      "url": "https://www.semanticscholar.org/paper/4ec74c59a092941f7ae446caddbeacdaddc64e16", 
+      "venue": "ArXiv", 
+      "year": 2017
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "f792e1d202387e5581aa7b19a9953e9c6406ae07", 
+      "title": "The Now-or-Never bottleneck: A fundamental constraint on language.", 
+      "url": "https://www.semanticscholar.org/paper/f792e1d202387e5581aa7b19a9953e9c6406ae07", 
+      "venue": "The Behavioral and brain sciences", 
+      "year": 2016
+    }, 
+    {
+      "isInfluential": true, 
+      "paperId": "53b74171f3a4205677afb3e9de057c2c92ef50be", 
+      "title": "Generalized Transition-based Dependency Parsing via Control Parameters", 
+      "url": "https://www.semanticscholar.org/paper/53b74171f3a4205677afb3e9de057c2c92ef50be", 
+      "venue": "ACL", 
+      "year": 2016
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "5c964f2ec17f2251f109b32050b027540f0c5da6", 
+      "title": "A Full Non-Monotonic Transition System for Unrestricted Non-Projective Parsing", 
+      "url": "https://www.semanticscholar.org/paper/5c964f2ec17f2251f109b32050b027540f0c5da6", 
+      "venue": "ACL", 
+      "year": 2017
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "353319b343724342f8f08e14863d34f9c3ecf134", 
+      "title": "Crossings as a side effect of dependency lengths", 
+      "url": "https://www.semanticscholar.org/paper/353319b343724342f8f08e14863d34f9c3ecf134", 
+      "venue": "Complexity", 
+      "year": 2016
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "56fc1372a41a46f777ac77859219bb4b76bfd098", 
+      "title": "Arc-swift: A Novel Transition System for Dependency Parsing", 
+      "url": "https://www.semanticscholar.org/paper/56fc1372a41a46f777ac77859219bb4b76bfd098", 
+      "venue": "ACL", 
+      "year": 2017
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "eaffaf8acd0c34c5754deb508ebfcee2d197c04a", 
+      "title": "A Transition-Based System for Joint Lexical and Syntactic Analysis", 
+      "url": "https://www.semanticscholar.org/paper/eaffaf8acd0c34c5754deb508ebfcee2d197c04a", 
+      "venue": "ACL", 
+      "year": 2016
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "768edda260f7bddef342a0155ac34241f47d2291", 
+      "title": "The scarcity of crossing dependencies: a direct outcome of a specific constraint?", 
+      "url": "https://www.semanticscholar.org/paper/768edda260f7bddef342a0155ac34241f47d2291", 
+      "venue": "ArXiv", 
+      "year": 2016
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "c94df04c301be3219c17321a7568efc905f882d6", 
+      "title": "Parsing to Noncrossing Dependency Graphs", 
+      "url": "https://www.semanticscholar.org/paper/c94df04c301be3219c17321a7568efc905f882d6", 
+      "venue": "TACL", 
+      "year": 2015
+    }
+  ], 
+  "doi": "10.1162/COLI_a_00150", 
+  "influentialCitationCount": 1, 
+  "paperId": "0f3814ff05efc16c0456804bd724e2f501bc60cc", 
+  "references": [
+    {
+      "isInfluential": false, 
+      "paperId": "80989a80aa5ffc7f3ddd8af65aa87058c75653cf", 
+      "title": "Incremental Non-Projective Dependency Parsing", 
+      "url": "https://www.semanticscholar.org/paper/80989a80aa5ffc7f3ddd8af65aa87058c75653cf", 
+      "venue": "HLT-NAACL", 
+      "year": 2007
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "032906f0d86fd6bbf7512d3fffd06fcb83593012", 
+      "title": "Incrementality In Deterministic Dependency Parsing", 
+      "url": "https://www.semanticscholar.org/paper/032906f0d86fd6bbf7512d3fffd06fcb83593012", 
+      "venue": "", 
+      "year": 2004
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "1deed1a4a03e07aee3b8b8e4716f35033c715a57", 
+      "title": "CoNLL-X Shared Task on Multilingual Dependency Parsing", 
+      "url": "https://www.semanticscholar.org/paper/1deed1a4a03e07aee3b8b8e4716f35033c715a57", 
+      "venue": "CoNLL", 
+      "year": 2006
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "110730e29b6c22854d47c89a0be6ab1958dcff6f", 
+      "title": "A Transition-Based Parser for 2-Planar Dependency Structures", 
+      "url": "https://www.semanticscholar.org/paper/110730e29b6c22854d47c89a0be6ab1958dcff6f", 
+      "venue": "ACL", 
+      "year": 2010
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "6971dbca2aca47422b70e6ab9df01a13332857b9", 
+      "title": "Event Matching Using the Transitive Closure of Dependency Relations", 
+      "url": "https://www.semanticscholar.org/paper/6971dbca2aca47422b70e6ab9df01a13332857b9", 
+      "venue": "ACL", 
+      "year": 2008
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "057cf8c16de54b160ef007e0d888865aeb592b7a", 
+      "title": "Three New Probabilistic Models for Dependency Parsing: An Exploration", 
+      "url": "https://www.semanticscholar.org/paper/057cf8c16de54b160ef007e0d888865aeb592b7a", 
+      "venue": "COLING", 
+      "year": 1996
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "1e00db23472463f6f0209afdd00dfb98bbdd17f6", 
+      "title": "Dual Decomposition for Parsing with Non-Projective Head Automata", 
+      "url": "https://www.semanticscholar.org/paper/1e00db23472463f6f0209afdd00dfb98bbdd17f6", 
+      "venue": "EMNLP", 
+      "year": 2010
+    }, 
+    {
+      "isInfluential": true, 
+      "paperId": "ad1181d188f730b7917a95ae452efb48f830c90a", 
+      "title": "A Tale of Two Parsers: Investigating and Combining Graph-based and Transition-based Dependency Parsing", 
+      "url": "https://www.semanticscholar.org/paper/ad1181d188f730b7917a95ae452efb48f830c90a", 
+      "venue": "EMNLP", 
+      "year": 2008
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "2ca9e4172b86f13a4d278e51f83a7e460081ed17", 
+      "title": "Floresta Sint\u00e1(c)tica: A treebank for Portuguese", 
+      "url": "https://www.semanticscholar.org/paper/2ca9e4172b86f13a4d278e51f83a7e460081ed17", 
+      "venue": "LREC", 
+      "year": 2002
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "7bfbabdc800f70eb4efa60e64b91044aad23c4a8", 
+      "title": "Online Learning of Approximate Dependency Parsing Algorithms", 
+      "url": "https://www.semanticscholar.org/paper/7bfbabdc800f70eb4efa60e64b91044aad23c4a8", 
+      "venue": "EACL", 
+      "year": 2006
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "1e52782b39fb97f5eaadfcb23bf03be9810c4115", 
+      "title": "Dependency Parsing by Belief Propagation", 
+      "url": "https://www.semanticscholar.org/paper/1e52782b39fb97f5eaadfcb23bf03be9810c4115", 
+      "venue": "EMNLP", 
+      "year": 2008
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "14722681462683a2b28d673b7827f10e8fd0453e", 
+      "title": "Parsing Mildly Non-Projective Dependency Structures", 
+      "url": "https://www.semanticscholar.org/paper/14722681462683a2b28d673b7827f10e8fd0453e", 
+      "venue": "EACL", 
+      "year": 2009
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "59ce9cdbde13affc05a6c1f48a51ee7b0fcb154b", 
+      "title": "The Penn Treebank: Annotating Predicate Argument Structure", 
+      "url": "https://www.semanticscholar.org/paper/59ce9cdbde13affc05a6c1f48a51ee7b0fcb154b", 
+      "venue": "HLT", 
+      "year": 1994
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "22251eed3f78e87697ac81e6fa6897219e5b688e", 
+      "title": "Treebank Grammar Techniques for Non-Projective Dependency Parsing", 
+      "url": "https://www.semanticscholar.org/paper/22251eed3f78e87697ac81e6fa6897219e5b688e", 
+      "venue": "EACL", 
+      "year": 2009
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "0f2308a9dc7ea085ac409fc88cb66a07ce7bf8a6", 
+      "title": "Characterizing the Errors of Data-Driven Dependency Parsing Models", 
+      "url": "https://www.semanticscholar.org/paper/0f2308a9dc7ea085ac409fc88cb66a07ce7bf8a6", 
+      "venue": "EMNLP-CoNLL", 
+      "year": 2007
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "3aade50704602b6bc2659768ff74bcfb5a0244c3", 
+      "title": "Prague Arabic Dependency Treebank: Development in Data and Tools", 
+      "url": "https://www.semanticscholar.org/paper/3aade50704602b6bc2659768ff74bcfb5a0244c3", 
+      "venue": "", 
+      "year": 2004
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "b969803114b8406f253c6ec93d636ba35280fc8f", 
+      "title": "A Fast, Accurate, Non-Projective, Semantically-Enriched Parser", 
+      "url": "https://www.semanticscholar.org/paper/b969803114b8406f253c6ec93d636ba35280fc8f", 
+      "venue": "EMNLP", 
+      "year": 2011
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "0b44fcbeea9415d400c5f5789d6b892b6f98daff", 
+      "title": "Building a Large Annotated Corpus of English: The Penn Treebank", 
+      "url": "https://www.semanticscholar.org/paper/0b44fcbeea9415d400c5f5789d6b892b6f98daff", 
+      "venue": "Computational Linguistics", 
+      "year": 1993
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "b92c0e898b1fee243864176e18a2b50105be3e54", 
+      "title": "Pseudo-Projective Dependency Parsing", 
+      "url": "https://www.semanticscholar.org/paper/b92c0e898b1fee243864176e18a2b50105be3e54", 
+      "venue": "ACL", 
+      "year": 2005
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "7a03336ff1f360252bad4fdd9d7251b5391f2696", 
+      "title": "The Annotation Process in the Turkish Treebank", 
+      "url": "https://www.semanticscholar.org/paper/7a03336ff1f360252bad4fdd9d7251b5391f2696", 
+      "venue": "", 
+      "year": 2003
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "e07059ead8491962f3dc58e4ba73282640b39cc2", 
+      "title": "Mildly Context-Sensitive Dependency Languages", 
+      "url": "https://www.semanticscholar.org/paper/e07059ead8491962f3dc58e4ba73282640b39cc2", 
+      "venue": "ACL", 
+      "year": 2007
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "9ecf548f29928295d63ca16f42d417f512fb26be", 
+      "title": "On the Complexity of Non-Projective Data-Driven Dependency Parsing", 
+      "url": "https://www.semanticscholar.org/paper/9ecf548f29928295d63ca16f42d417f512fb26be", 
+      "venue": "", 
+      "year": 2007
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "c1d96c0f421f8b519cafdbb4e499faa1c797ed9b", 
+      "title": "Transition-based Dependency Parsing with Rich Non-local Features", 
+      "url": "https://www.semanticscholar.org/paper/c1d96c0f421f8b519cafdbb4e499faa1c797ed9b", 
+      "venue": "ACL", 
+      "year": 2011
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "60df78bc14265d4b87ae5993d6b5781ccf7ec5d8", 
+      "title": "Concise Integer Linear Programming Formulations for Dependency Parsing", 
+      "url": "https://www.semanticscholar.org/paper/60df78bc14265d4b87ae5993d6b5781ccf7ec5d8", 
+      "venue": "ACL/IJCNLP", 
+      "year": 2009
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "78e77bebc95cf392a12ae7b33df256df99b3444c", 
+      "title": "Algorithms for Deterministic Incremental Dependency Parsing", 
+      "url": "https://www.semanticscholar.org/paper/78e77bebc95cf392a12ae7b33df256df99b3444c", 
+      "venue": "Computational Linguistics", 
+      "year": 2008
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "056cddb2e8637997f0fd1fb39d3d0acecfc2ff82", 
+      "title": "Pseudo-Projectivity: A Polynomially Parsable Non-Projective Dependency Grammar", 
+      "url": "https://www.semanticscholar.org/paper/056cddb2e8637997f0fd1fb39d3d0acecfc2ff82", 
+      "venue": "COLING-ACL", 
+      "year": 1998
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "500e5f7c23fd05c2cbc860b91f63b1f9fcb728b4", 
+      "title": "Evaluating the Impact of Alternative Dependency Graph Encodings on Solving Event Extraction Tasks", 
+      "url": "https://www.semanticscholar.org/paper/500e5f7c23fd05c2cbc860b91f63b1f9fcb728b4", 
+      "venue": "EMNLP", 
+      "year": 2010
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "006ec6c55f096153087cf4be0da6960708701b5b", 
+      "title": "Bilingually-Constrained (Monolingual) Shift-Reduce Parsing", 
+      "url": "https://www.semanticscholar.org/paper/006ec6c55f096153087cf4be0da6960708701b5b", 
+      "venue": "EMNLP", 
+      "year": 2009
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "1e84ba06ef34e4c93465437009baa0236f4cee64", 
+      "title": "The Danish Dependency Treebank and the DTAG Treebank Tool", 
+      "url": "https://www.semanticscholar.org/paper/1e84ba06ef34e4c93465437009baa0236f4cee64", 
+      "venue": "", 
+      "year": 2003
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "3ad3fe5f21e36fcae3474bc8eaec47dec82289fc", 
+      "title": "Constraints on Non-Projective Dependency Parsing", 
+      "url": "https://www.semanticscholar.org/paper/3ad3fe5f21e36fcae3474bc8eaec47dec82289fc", 
+      "venue": "EACL", 
+      "year": 2006
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "47ec5048d937ee55a69595a21bb26ed8c8c27811", 
+      "title": "Exploring Correlation of Dependency Relation Paths for Answer Extraction", 
+      "url": "https://www.semanticscholar.org/paper/47ec5048d937ee55a69595a21bb26ed8c8c27811", 
+      "venue": "ACL", 
+      "year": 2006
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "0e6689f446894141359b6753b9a069742eece81d", 
+      "title": "Characterizing Discontinuity in Constituent Treebanks", 
+      "url": "https://www.semanticscholar.org/paper/0e6689f446894141359b6753b9a069742eece81d", 
+      "venue": "FG", 
+      "year": 2009
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "418d52298299314905e56b2ac9bb0888e62bf242", 
+      "title": "A Fundamental Algorithm for Dependency Parsing", 
+      "url": "https://www.semanticscholar.org/paper/418d52298299314905e56b2ac9bb0888e62bf242", 
+      "venue": "", 
+      "year": 2000
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "66a9896d2eaceeb6e648d3582ca4b2a1df600f9a", 
+      "title": "Dependency Tree Kernels for Relation Extraction", 
+      "url": "https://www.semanticscholar.org/paper/66a9896d2eaceeb6e648d3582ca4b2a1df600f9a", 
+      "venue": "ACL", 
+      "year": 2004
+    }, 
+    {
+      "isInfluential": true, 
+      "paperId": "866e6d8d48ce516d853b44a225562ef48bb945b5", 
+      "title": "Shift-Reduce Dependency DAG Parsing", 
+      "url": "https://www.semanticscholar.org/paper/866e6d8d48ce516d853b44a225562ef48bb945b5", 
+      "venue": "COLING", 
+      "year": 2008
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "c205e82ddf7d9bd759cca3e16baa60c49cecf056", 
+      "title": "Experiments with a Higher-Order Projective Dependency Parser", 
+      "url": "https://www.semanticscholar.org/paper/c205e82ddf7d9bd759cca3e16baa60c49cecf056", 
+      "venue": "EMNLP-CoNLL", 
+      "year": 2007
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "8bccad49887a954b379e5a42b3b6627e709072de", 
+      "title": "Dependency Structures and Lexicalized Grammars An Algebraic Approach", 
+      "url": "https://www.semanticscholar.org/paper/8bccad49887a954b379e5a42b3b6627e709072de", 
+      "venue": "Lecture Notes in Computer Science", 
+      "year": 2010
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "a0623ee43c3fa1e4b6dc609283c9d44af1f44894", 
+      "title": "Turbo Parsers: Dependency Parsing by Approximate Variational Inference", 
+      "url": "https://www.semanticscholar.org/paper/a0623ee43c3fa1e4b6dc609283c9d44af1f44894", 
+      "venue": "EMNLP", 
+      "year": 2010
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "4fd223b585bab9e0cc1fc156f3cea9fd85f325a5", 
+      "title": "Comparing Information Extraction Pattern Models", 
+      "url": "https://www.semanticscholar.org/paper/4fd223b585bab9e0cc1fc156f3cea9fd85f325a5", 
+      "venue": "", 
+      "year": 2006
+    }, 
+    {
+      "isInfluential": true, 
+      "paperId": "3ce0f00d6c949192107f1bd6a167c03e1fb7393a", 
+      "title": "An Efficient Algorithm for Easy-First Non-Directional Dependency Parsing", 
+      "url": "https://www.semanticscholar.org/paper/3ce0f00d6c949192107f1bd6a167c03e1fb7393a", 
+      "venue": "HLT-NAACL", 
+      "year": 2010
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "27891ad3fbd8420c1a5a7459bf72b2e299487aab", 
+      "title": "Incremental Integer Linear Programming for Non-projective Dependency Parsing", 
+      "url": "https://www.semanticscholar.org/paper/27891ad3fbd8420c1a5a7459bf72b2e299487aab", 
+      "venue": "EMNLP", 
+      "year": 2006
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "b2fab36801910e460dc60524f731f5f0438553b4", 
+      "title": "Memory-Based Dependency Parsing", 
+      "url": "https://www.semanticscholar.org/paper/b2fab36801910e460dc60524f731f5f0438553b4", 
+      "venue": "CoNLL", 
+      "year": 2004
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "99d503c07b34825bf6d1ad769d50a94d6a005a8d", 
+      "title": "THE PRAGUE DEPENDENCY TREEBANK A Three-Level Annotation Scenario", 
+      "url": "https://www.semanticscholar.org/paper/99d503c07b34825bf6d1ad769d50a94d6a005a8d", 
+      "venue": "", 
+      "year": 2002
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "30f1ea3b4194dba7f957fd6bf81bcaf12dca6ff8", 
+      "title": "Dynamic Programming for Linear-Time Incremental Parsing", 
+      "url": "https://www.semanticscholar.org/paper/30f1ea3b4194dba7f957fd6bf81bcaf12dca6ff8", 
+      "venue": "ACL", 
+      "year": 2010
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "0f6e76e2c461fc18c63809160ca26f56baf7580d", 
+      "title": "The Alpino Dependency Treebank", 
+      "url": "https://www.semanticscholar.org/paper/0f6e76e2c461fc18c63809160ca26f56baf7580d", 
+      "venue": "CLIN", 
+      "year": 2001
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "1c839e4326a13df8b3db8e9263422a32249e9869", 
+      "title": "MaltParser: A Data-Driven Parser-Generator for Dependency Parsing", 
+      "url": "https://www.semanticscholar.org/paper/1c839e4326a13df8b3db8e9263422a32249e9869", 
+      "venue": "", 
+      "year": 2006
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "8c849625c3a752cc3a3b41d4d68e7474a00e77b5", 
+      "title": "Inductive Dependency Parsing", 
+      "url": "https://www.semanticscholar.org/paper/8c849625c3a752cc3a3b41d4d68e7474a00e77b5", 
+      "venue": "Text, speech and language technology", 
+      "year": 2006
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "b3ec3710403d488cde51d7f2b9e9e97e5bd39833", 
+      "title": "Non-Projective Dependency Parsing in Expected Linear Time", 
+      "url": "https://www.semanticscholar.org/paper/b3ec3710403d488cde51d7f2b9e9e97e5bd39833", 
+      "venue": "ACL/IJCNLP", 
+      "year": 2009
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "0e493f355ad9001ad778d22a027dd7dd98c09bee", 
+      "title": "Labeled Pseudo-Projective Dependency Parsing with Support Vector Machines", 
+      "url": "https://www.semanticscholar.org/paper/0e493f355ad9001ad778d22a027dd7dd98c09bee", 
+      "venue": "CoNLL", 
+      "year": 2006
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "98359269935e95c3de321ece2a0e81ca7a3feafa", 
+      "title": "MAMBA Meets TIGER: Reconstructing a Treebank from Antiquity", 
+      "url": "https://www.semanticscholar.org/paper/98359269935e95c3de321ece2a0e81ca7a3feafa", 
+      "venue": "", 
+      "year": 2005
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "6c857b4b2fd07abf3cb7522929afd3cdaed897d6", 
+      "title": "Well-Nested Drawings as Models of Syntactic Structure", 
+      "url": "https://www.semanticscholar.org/paper/6c857b4b2fd07abf3cb7522929afd3cdaed897d6", 
+      "venue": "", 
+      "year": 2005
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "06686a7290b92720ebaeb61f3a9ec11f948156d7", 
+      "title": "Investigating Multilingual Dependency Parsing", 
+      "url": "https://www.semanticscholar.org/paper/06686a7290b92720ebaeb61f3a9ec11f948156d7", 
+      "venue": "CoNLL", 
+      "year": 2006
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "7c116b83bb2562ed2c18f0c7741c020884e4500c", 
+      "title": "Efficient Third-Order Dependency Parsers", 
+      "url": "https://www.semanticscholar.org/paper/7c116b83bb2562ed2c18f0c7741c020884e4500c", 
+      "venue": "ACL", 
+      "year": 2010
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "ab41136c0a73b42463db10f9dd2913f8d8735155", 
+      "title": "An Efficient Algorithm for Projective Dependency Parsing", 
+      "url": "https://www.semanticscholar.org/paper/ab41136c0a73b42463db10f9dd2913f8d8735155", 
+      "venue": "", 
+      "year": 2003
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "7d7a1f1412a0b078b29278b94cf4c5ac75f36d53", 
+      "title": "Using a Dependency Parser to Improve SMT for Subject-Object-Verb Languages", 
+      "url": "https://www.semanticscholar.org/paper/7d7a1f1412a0b078b29278b94cf4c5ac75f36d53", 
+      "venue": "HLT-NAACL", 
+      "year": 2009
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "7decf730e2bce5efe7ea55a9b716a3a27436f16c", 
+      "title": "Dependency Parsing Schemata and Mildly Non-Projective Dependency Parsing", 
+      "url": "https://www.semanticscholar.org/paper/7decf730e2bce5efe7ea55a9b716a3a27436f16c", 
+      "venue": "Computational Linguistics", 
+      "year": 2011
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "489b2ce18d7a9d1f210a89f76b4c237a5a681e0c", 
+      "title": "Multiplanarity \u2013 a Model for Dependency Structures in Treebanks", 
+      "url": "https://www.semanticscholar.org/paper/489b2ce18d7a9d1f210a89f76b4c237a5a681e0c", 
+      "venue": "", 
+      "year": 2003
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "c59d4b1a7c8491e169cc262a7a437413368a34e7", 
+      "title": "Beyond Projectivity: Multilingual Evaluation of Constraints and Measures on Non-Projective Structures", 
+      "url": "https://www.semanticscholar.org/paper/c59d4b1a7c8491e169cc262a7a437413368a34e7", 
+      "venue": "ACL", 
+      "year": 2007
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "35100b377932ce3ee7f4e99a83ef0c0e5c94c1e5", 
+      "title": "Dependency Treelet Translation: Syntactically Informed Phrasal SMT", 
+      "url": "https://www.semanticscholar.org/paper/35100b377932ce3ee7f4e99a83ef0c0e5c94c1e5", 
+      "venue": "ACL", 
+      "year": 2005
+    }, 
+    {
+      "isInfluential": true, 
+      "paperId": "1a87bb250e52d45ab143017d8bb00d9a49272685", 
+      "title": "Experiments with a Multilanguage Non-Projective Dependency Parser", 
+      "url": "https://www.semanticscholar.org/paper/1a87bb250e52d45ab143017d8bb00d9a49272685", 
+      "venue": "CoNLL", 
+      "year": 2006
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "5c5d1eb01d2710ed90e6a13d8638988b0a677756", 
+      "title": "Dynamic Programming Algorithms for Transition-Based Dependency Parsers", 
+      "url": "https://www.semanticscholar.org/paper/5c5d1eb01d2710ed90e6a13d8638988b0a677756", 
+      "venue": "ACL", 
+      "year": 2011
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "215aad1520ec1b087ab2ba4043f5e0ecc32e7482", 
+      "title": "Reducibility Among Combinatorial Problems", 
+      "url": "https://www.semanticscholar.org/paper/215aad1520ec1b087ab2ba4043f5e0ecc32e7482", 
+      "venue": "Complexity of Computer Computations", 
+      "year": 1972
+    }, 
+    {
+      "isInfluential": true, 
+      "paperId": "55d490b64346d1bbbdb02e62e2c745689e19163a", 
+      "title": "A Latent Variable Model for Generative Dependency Parsing", 
+      "url": "https://www.semanticscholar.org/paper/55d490b64346d1bbbdb02e62e2c745689e19163a", 
+      "venue": "Trends in Parsing Technology", 
+      "year": 2007
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "0004755df3c1c7c232d8efeeffbb64fc64086499", 
+      "title": "Exact Inference for Generative Probabilistic Non-Projective Dependency Parsing", 
+      "url": "https://www.semanticscholar.org/paper/0004755df3c1c7c232d8efeeffbb64fc64086499", 
+      "venue": "EMNLP", 
+      "year": 2011
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "f0e1883cf9d1b3c911125f46359f908557fc5827", 
+      "title": "Statistical Dependency Analysis with Support Vector Machines", 
+      "url": "https://www.semanticscholar.org/paper/f0e1883cf9d1b3c911125f46359f908557fc5827", 
+      "venue": "", 
+      "year": 2003
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "a39a958fd6f564d4be7c57a420bbdf1a9311c422", 
+      "title": "Building a Turkish Treebank", 
+      "url": "https://www.semanticscholar.org/paper/a39a958fd6f564d4be7c57a420bbdf1a9311c422", 
+      "venue": "", 
+      "year": null
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "67d58fad9a4fca2ccc1e8a748bc9be3ebc896bf4", 
+      "title": "Multilingual Dependency Parsing Using Global Features", 
+      "url": "https://www.semanticscholar.org/paper/67d58fad9a4fca2ccc1e8a748bc9be3ebc896bf4", 
+      "venue": "EMNLP-CoNLL", 
+      "year": 2007
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "846a3c8833e809810f2b5f8ea7982b95e8bb42d1", 
+      "title": "Online Large-Margin Training of Dependency Parsers", 
+      "url": "https://www.semanticscholar.org/paper/846a3c8833e809810f2b5f8ea7982b95e8bb42d1", 
+      "venue": "ACL", 
+      "year": 2005
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "31181e73befea410e25de462eccd0e74ba8fea0b", 
+      "title": "Introduction to Algorithms, 3rd Edition", 
+      "url": "https://www.semanticscholar.org/paper/31181e73befea410e25de462eccd0e74ba8fea0b", 
+      "venue": "", 
+      "year": 2009
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "27cd80850f672b12317608a581055a825cf98c34", 
+      "title": "Principles and Implementation of Deductive Parsing", 
+      "url": "https://www.semanticscholar.org/paper/27cd80850f672b12317608a581055a825cf98c34", 
+      "venue": "J. Log. Program.", 
+      "year": 1995
+    }
+  ], 
+  "title": "Divisible Transition Systems and Multiplanar Dependency Parsing", 
+  "url": "https://www.semanticscholar.org/paper/0f3814ff05efc16c0456804bd724e2f501bc60cc", 
+  "venue": "Computational Linguistics", 
+  "year": 2013
+}

@@ -1,0 +1,627 @@
+{
+  "authors": [
+    {
+      "authorId": "2782010", 
+      "name": "Canasai Kruengkrai", 
+      "url": "https://www.semanticscholar.org/author/2782010"
+    }, 
+    {
+      "authorId": "1783611", 
+      "name": "Kiyotaka Uchimoto", 
+      "url": "https://www.semanticscholar.org/author/1783611"
+    }, 
+    {
+      "authorId": "1761994", 
+      "name": "Jun'ichi Kazama", 
+      "url": "https://www.semanticscholar.org/author/1761994"
+    }, 
+    {
+      "authorId": "2703733", 
+      "name": "Yiou Wang", 
+      "url": "https://www.semanticscholar.org/author/2703733"
+    }, 
+    {
+      "authorId": "1768754", 
+      "name": "Kentaro Torisawa", 
+      "url": "https://www.semanticscholar.org/author/1768754"
+    }, 
+    {
+      "authorId": "1714134", 
+      "name": "Hitoshi Isahara", 
+      "url": "https://www.semanticscholar.org/author/1714134"
+    }
+  ], 
+  "citationVelocity": 0, 
+  "citations": [
+    {
+      "isInfluential": false, 
+      "paperId": "5044880102bc4f10a46fd3bad2694d323018889f", 
+      "title": "Type-Supervised Domain Adaptation for Joint Segmentation and POS-Tagging", 
+      "url": "https://www.semanticscholar.org/paper/5044880102bc4f10a46fd3bad2694d323018889f"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "4c7a10d034e6846c457005f052caaefbc5a78c45", 
+      "title": "Unsupervised Domain Adaptation for Joint Segmentation and POS-Tagging", 
+      "url": "https://www.semanticscholar.org/paper/4c7a10d034e6846c457005f052caaefbc5a78c45"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "a6524eb96ef05baff7b4e8f1bdc74dd0388a8c12", 
+      "title": "A Framework for Compiling High Quality Knowledge Resources From Raw Corpora", 
+      "url": "https://www.semanticscholar.org/paper/a6524eb96ef05baff7b4e8f1bdc74dd0388a8c12"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "4ee3fafd0347b8c234dd35434b5496dba374fb77", 
+      "title": "Joint Models for Chinese Morphological Syntactic and Semantic Parsing", 
+      "url": "https://www.semanticscholar.org/paper/4ee3fafd0347b8c234dd35434b5496dba374fb77"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "51aba8013f44ab38e540a5823a1b272f5cad6bde", 
+      "title": "Word Segmentation for Chinese Novels", 
+      "url": "https://www.semanticscholar.org/paper/51aba8013f44ab38e540a5823a1b272f5cad6bde"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "3a47d8da562b8de10660307d016708de1ec4a5e8", 
+      "title": "Part-of-speech tagging for Chinese unknown words in a domain-specific small corpus using morphological and contextual rules", 
+      "url": "https://www.semanticscholar.org/paper/3a47d8da562b8de10660307d016708de1ec4a5e8"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "beb1226c89615d2b092b9230c4df5c496a2a76eb", 
+      "title": "Utilizing Dependency Language Models for Graph-based Dependency Parsing Models", 
+      "url": "https://www.semanticscholar.org/paper/beb1226c89615d2b092b9230c4df5c496a2a76eb"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "299605e353fa610eedf9145130400cd2ffb773ad", 
+      "title": "Integrating Generative and Discriminative Character-Based Models for Chinese Word Segmentation", 
+      "url": "https://www.semanticscholar.org/paper/299605e353fa610eedf9145130400cd2ffb773ad"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "b1191b669653fb841c0e08cf35c300f70e37948c", 
+      "title": "Character-based Joint Segmentation and POS Tagging for Chinese using Bidirectional RNN-CRF", 
+      "url": "https://www.semanticscholar.org/paper/b1191b669653fb841c0e08cf35c300f70e37948c"
+    }, 
+    {
+      "isInfluential": true, 
+      "paperId": "871027e5ffb66a57fbd7bc32d3c1894ca7a39a5f", 
+      "title": "A Fast Decoder for Joint Word Segmentation and POS-Tagging Using a Single Discriminative Model", 
+      "url": "https://www.semanticscholar.org/paper/871027e5ffb66a57fbd7bc32d3c1894ca7a39a5f"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "abbcc331ea4a6d9355332b2816da35b01eda4a3b", 
+      "title": "Augmenting a Bilingual Lexicon with Information for Word Translation Disambiguation", 
+      "url": "https://www.semanticscholar.org/paper/abbcc331ea4a6d9355332b2816da35b01eda4a3b"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "281b6cfcdd52d2972e51436037200616673a87f7", 
+      "title": "Iterative Annotation Transformation with Predict-Self Reestimation for Chinese Word Segmentation", 
+      "url": "https://www.semanticscholar.org/paper/281b6cfcdd52d2972e51436037200616673a87f7"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "c7d5258e393c75589564f5d8efa75b88c629d4f8", 
+      "title": "Exploiting Heterogeneous Annotations for Weibo Word Segmentation and POS Tagging", 
+      "url": "https://www.semanticscholar.org/paper/c7d5258e393c75589564f5d8efa75b88c629d4f8"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "64914edd0ec91805f36dfb8e2f6e922350d1a335", 
+      "title": "Japanese-Chinese Phrase Alignment Exploiting Shared Chinese Characters", 
+      "url": "https://www.semanticscholar.org/paper/64914edd0ec91805f36dfb8e2f6e922350d1a335"
+    }, 
+    {
+      "isInfluential": true, 
+      "paperId": "d203c6f84d219a10cf4d7a6ccfd932694683249e", 
+      "title": "Parsing the Internal Structure of Words: A New Paradigm for Chinese Word Segmentation", 
+      "url": "https://www.semanticscholar.org/paper/d203c6f84d219a10cf4d7a6ccfd932694683249e"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "0d199d1d71403448f7bd8f66b7c5ecc35b162cde", 
+      "title": "Filtering Syntactic Constraints for Statistical Machine Translation", 
+      "url": "https://www.semanticscholar.org/paper/0d199d1d71403448f7bd8f66b7c5ecc35b162cde"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "70042cc47e947efb508816e2358e4cf5895d8451", 
+      "title": "Extracting coordinate word pairs for dependency parsing", 
+      "url": "https://www.semanticscholar.org/paper/70042cc47e947efb508816e2358e4cf5895d8451"
+    }, 
+    {
+      "isInfluential": true, 
+      "paperId": "60692c215b3aed4e0fd556bb6c0eceb448d4354d", 
+      "title": "Reduce Meaningless Words for Joint Chinese Word Segmentation and Part-of-speech Tagging", 
+      "url": "https://www.semanticscholar.org/paper/60692c215b3aed4e0fd556bb6c0eceb448d4354d"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "2ba1c64de027f588e062c9550f5406770c523378", 
+      "title": "A Transition-based Model for Joint Segmentation, POS-tagging and Normalization", 
+      "url": "https://www.semanticscholar.org/paper/2ba1c64de027f588e062c9550f5406770c523378"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "9fe3744cfb2f7f321b190cbbdcf692c49dce6340", 
+      "title": "Jointly Modeling WSD and SRL with Markov Logic", 
+      "url": "https://www.semanticscholar.org/paper/9fe3744cfb2f7f321b190cbbdcf692c49dce6340"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "ac97745ff3902cffc3ec3a7008395b0516d19ec3", 
+      "title": "Consistent Word Segmentation, Part-of-Speech Tagging and Dependency Labelling Annotation for Chinese Language", 
+      "url": "https://www.semanticscholar.org/paper/ac97745ff3902cffc3ec3a7008395b0516d19ec3"
+    }, 
+    {
+      "isInfluential": true, 
+      "paperId": "66cb952daf3416b15375a86e49b89df444acddf1", 
+      "title": "Reducing Approximation and Estimation Errors for Chinese Lexical Processing with Heterogeneous Annotations", 
+      "url": "https://www.semanticscholar.org/paper/66cb952daf3416b15375a86e49b89df444acddf1"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "29890cceb1d214495cdeed2973e02f1ebafaae7c", 
+      "title": "High Quality Dependency Selection from Automatic Parses", 
+      "url": "https://www.semanticscholar.org/paper/29890cceb1d214495cdeed2973e02f1ebafaae7c"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "741dd4fbb1685ee08395fd1675cd24bb6bc603cb", 
+      "title": "Joint Optimization for Chinese POS Tagging and Dependency Parsing", 
+      "url": "https://www.semanticscholar.org/paper/741dd4fbb1685ee08395fd1675cd24bb6bc603cb"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "69531a4477351f2a6b8286d27f1ee4c340c6cb63", 
+      "title": "Incremental Joint Approach to Word Segmentation, POS Tagging, and Dependency Parsing in Chinese", 
+      "url": "https://www.semanticscholar.org/paper/69531a4477351f2a6b8286d27f1ee4c340c6cb63"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "d2a308181f1c836ec30d21f4c5dc941b545ee661", 
+      "title": "Bitext Dependency Parsing With Auto-Generated Bilingual Treebank", 
+      "url": "https://www.semanticscholar.org/paper/d2a308181f1c836ec30d21f4c5dc941b545ee661"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "9f6b0898539d645e49c872413e67c3972beb788a", 
+      "title": "Improving Graph-Based Dependency Parsing Models With Dependency Language Models", 
+      "url": "https://www.semanticscholar.org/paper/9f6b0898539d645e49c872413e67c3972beb788a"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "d454f0f0f4f91b10a206bc284b3e5b7432b55c97", 
+      "title": "Graph-based Semi-Supervised Model for Joint Chinese Word Segmentation and Part-of-Speech Tagging", 
+      "url": "https://www.semanticscholar.org/paper/d454f0f0f4f91b10a206bc284b3e5b7432b55c97"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "388c8e6ba7646f46e499dffc00557cfe769a5dda", 
+      "title": "Syntactic Processing Using the Generalized Perceptron and Beam Search", 
+      "url": "https://www.semanticscholar.org/paper/388c8e6ba7646f46e499dffc00557cfe769a5dda"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "1791ae659a123fcb466bcd1360c17a9580718794", 
+      "title": "Unified Dependency Parsing of Chinese Morphological and Syntactic Structures", 
+      "url": "https://www.semanticscholar.org/paper/1791ae659a123fcb466bcd1360c17a9580718794"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "bcd9a377ab55a2d7825280c9f0baf35516f3985e", 
+      "title": "Automatic Adaptation of Annotations", 
+      "url": "https://www.semanticscholar.org/paper/bcd9a377ab55a2d7825280c9f0baf35516f3985e"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "82c656af66850aa71d696aba943395f1bd7be26a", 
+      "title": "Joint segmentation and named entity recognition using dual decomposition in Chinese discharge summaries.", 
+      "url": "https://www.semanticscholar.org/paper/82c656af66850aa71d696aba943395f1bd7be26a"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "60cd4e59931c6d82d70cd1a9b5adcf053ad18767", 
+      "title": "Using word sense disambiguation for semantic role labeling", 
+      "url": "https://www.semanticscholar.org/paper/60cd4e59931c6d82d70cd1a9b5adcf053ad18767"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "d07c10a0607a1997c030865b162cd66bc0ff2600", 
+      "title": "Dish comment summarization based on bilateral topic analysis", 
+      "url": "https://www.semanticscholar.org/paper/d07c10a0607a1997c030865b162cd66bc0ff2600"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "9b30bc452348d7de0ba5904d04f80331ed2ace64", 
+      "title": "Regularized Structured Perceptron: A Case Study on Chinese Word Segmentation, POS Tagging and Parsing", 
+      "url": "https://www.semanticscholar.org/paper/9b30bc452348d7de0ba5904d04f80331ed2ace64"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "01aa4d8323d6b37446a72d81ce5f261e978e4b9b", 
+      "title": "A hybrid method for word segmentation with English-Vietnamese bilingual text", 
+      "url": "https://www.semanticscholar.org/paper/01aa4d8323d6b37446a72d81ce5f261e978e4b9b"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "1e3820917271b2d23b0e92162caaabddd35fbfd0", 
+      "title": "Bitext Dependency Parsing with Bilingual Subtree Constraints", 
+      "url": "https://www.semanticscholar.org/paper/1e3820917271b2d23b0e92162caaabddd35fbfd0"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "e137a00f0b13f6cfc5c9ef87ef237c74723cafa0", 
+      "title": "A Unified Model for Solving the OOV Problem of Chinese Word Segmentation", 
+      "url": "https://www.semanticscholar.org/paper/e137a00f0b13f6cfc5c9ef87ef237c74723cafa0"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "236d237c9dc28a2b79bf3f09370d348d6ff8e72d", 
+      "title": "Adapting Chinese Word Segmentation for Machine Translation Based on Short Units", 
+      "url": "https://www.semanticscholar.org/paper/236d237c9dc28a2b79bf3f09370d348d6ff8e72d"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "2d7165d681dbe7957ad7c45836fa6c40f956ff82", 
+      "title": "Using a Goodness Measurement for Domain Adaptation: A Case Study on Chinese Word Segmentation", 
+      "url": "https://www.semanticscholar.org/paper/2d7165d681dbe7957ad7c45836fa6c40f956ff82"
+    }, 
+    {
+      "isInfluential": true, 
+      "paperId": "c8990d0523d71cc2efb006f7d2a491046d7395d7", 
+      "title": "Exploring Linguistic Constraints in Nlp Applications", 
+      "url": "https://www.semanticscholar.org/paper/c8990d0523d71cc2efb006f7d2a491046d7395d7"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "b9598c3596ccb952114e1058da0abc4224a6626d", 
+      "title": "Distributed Feature Representations for Dependency Parsing", 
+      "url": "https://www.semanticscholar.org/paper/b9598c3596ccb952114e1058da0abc4224a6626d"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "dbd7d2de9a58a0bee81f2a086ab8be58082e2a18", 
+      "title": "Bayesian Subtree Alignment Model based on Dependency Trees", 
+      "url": "https://www.semanticscholar.org/paper/dbd7d2de9a58a0bee81f2a086ab8be58082e2a18"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "cc172205ae0050f0e5defc936c4b89bd1a85d27c", 
+      "title": "Semantic understanding by combining extended CFG parser with HMM model", 
+      "url": "https://www.semanticscholar.org/paper/cc172205ae0050f0e5defc936c4b89bd1a85d27c"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "a4ebc46452c9386a0e439e3e2e693cf0dacf7406", 
+      "title": "A Lattice-based Framework for Joint Chinese Word Segmentation, POS Tagging and Parsing", 
+      "url": "https://www.semanticscholar.org/paper/a4ebc46452c9386a0e439e3e2e693cf0dacf7406"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "0eb20cfd5104c1210ec1c951599b85513c3e7de7", 
+      "title": "Unsupervised Learning of Lexical Information for Language Processing Systems", 
+      "url": "https://www.semanticscholar.org/paper/0eb20cfd5104c1210ec1c951599b85513c3e7de7"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "48a2d2dbb6514f55902139a4f40eb6942f82eef9", 
+      "title": "Minimally Supervised Method for Multilingual Paraphrase Extraction from Definition Sentences on the Web", 
+      "url": "https://www.semanticscholar.org/paper/48a2d2dbb6514f55902139a4f40eb6942f82eef9"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "dc91620af382e71112ae3167b5dfc2b9a4bbf818", 
+      "title": "Jointly or Separately: Which is Better for Parsing Heterogeneous Dependencies?", 
+      "url": "https://www.semanticscholar.org/paper/dc91620af382e71112ae3167b5dfc2b9a4bbf818"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "3576de09a4db6d40948e898720c72e84c882fe92", 
+      "title": "Binary Tree based Chinese Word Segmentation", 
+      "url": "https://www.semanticscholar.org/paper/3576de09a4db6d40948e898720c72e84c882fe92"
+    }, 
+    {
+      "isInfluential": true, 
+      "paperId": "d9f0999bc71327d78456a42327b83dc2d8de068e", 
+      "title": "Joint Decoding for Chinese Word Segmentation and POS Tagging Using Character-Based and Word-Based Discriminative Models", 
+      "url": "https://www.semanticscholar.org/paper/d9f0999bc71327d78456a42327b83dc2d8de068e"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "080a03ea14e234d0beb88ff34f0c73359aafa7da", 
+      "title": "Deep Learning for Chinese Word Segmentation and POS Tagging", 
+      "url": "https://www.semanticscholar.org/paper/080a03ea14e234d0beb88ff34f0c73359aafa7da"
+    }, 
+    {
+      "isInfluential": true, 
+      "paperId": "358affd35c78f6a4f88acf384e5dc312740ea55a", 
+      "title": "Syntactic Constraints on Phrase Extraction for Phrase-Based Machine Translation", 
+      "url": "https://www.semanticscholar.org/paper/358affd35c78f6a4f88acf384e5dc312740ea55a"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "81e828f2ae422bd692e92b004797f9c7dea533f8", 
+      "title": "Product-oriented review summarization and scoring", 
+      "url": "https://www.semanticscholar.org/paper/81e828f2ae422bd692e92b004797f9c7dea533f8"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "4558e70ed04ebf6ca394461304f5712abf7faa77", 
+      "title": "Feature Embedding for Dependency Parsing", 
+      "url": "https://www.semanticscholar.org/paper/4558e70ed04ebf6ca394461304f5712abf7faa77"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "9d61ade53c21173056a153e0e6c04c378e34edf7", 
+      "title": "Discriminative Learning with Natural Annotations: Word Segmentation as a Case Study", 
+      "url": "https://www.semanticscholar.org/paper/9d61ade53c21173056a153e0e6c04c378e34edf7"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "109fbf28186ec7f648d041d25b40308683a52cc2", 
+      "title": "Global discriminative model for dependency parsing in NLP pipeline", 
+      "url": "https://www.semanticscholar.org/paper/109fbf28186ec7f648d041d25b40308683a52cc2"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "0275420087c2f015794287a7d3204f40bf8dbacc", 
+      "title": "Pointwise Prediction for Robust, Adaptable Japanese Morphological Analysis", 
+      "url": "https://www.semanticscholar.org/paper/0275420087c2f015794287a7d3204f40bf8dbacc"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "c1f237d6291c99a80a29ad36aae17ea4d5f62118", 
+      "title": "Iterative multiple sequence labeling with classifier combination", 
+      "url": "https://www.semanticscholar.org/paper/c1f237d6291c99a80a29ad36aae17ea4d5f62118"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "7147fef989ae59f25fb3c6c851a161ad81c21675", 
+      "title": "Efficient Word Lattice Generation for Joint Word Segmentation and POS Tagging in Japanese", 
+      "url": "https://www.semanticscholar.org/paper/7147fef989ae59f25fb3c6c851a161ad81c21675"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "e0c9bc077e6c56ffc53733f665055ef385776238", 
+      "title": "Joint Models for Chinese POS Tagging and Dependency Parsing", 
+      "url": "https://www.semanticscholar.org/paper/e0c9bc077e6c56ffc53733f665055ef385776238"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "12c3b4564695632263a070ce9b17b610915e90eb", 
+      "title": "Improving Chinese POS Tagging with Dependency Parsing", 
+      "url": "https://www.semanticscholar.org/paper/12c3b4564695632263a070ce9b17b610915e90eb"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "617f335621d44fa52c5219f2497f6e64dd154ce6", 
+      "title": "Dual Coordinate Descent Algorithms for Efficient Large Margin Structured Prediction", 
+      "url": "https://www.semanticscholar.org/paper/617f335621d44fa52c5219f2497f6e64dd154ce6"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "d1d88d7c686b465a504b1c264c3793ba3d8a3110", 
+      "title": "Semi-Supervised Feature Transformation for Dependency Parsing", 
+      "url": "https://www.semanticscholar.org/paper/d1d88d7c686b465a504b1c264c3793ba3d8a3110"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "16ca6f1090831eb1b2416ff4b9a901dab0f35a37", 
+      "title": "Exploring Deterministic Constraints: from a Constrained English POS Tagger to an Efficient ILP Solution to Chinese Word Segmentation", 
+      "url": "https://www.semanticscholar.org/paper/16ca6f1090831eb1b2416ff4b9a901dab0f35a37"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "da771a53f09788c36bb899fe059a58e79bb991ad", 
+      "title": "SMT Helps Bitext Dependency Parsing", 
+      "url": "https://www.semanticscholar.org/paper/da771a53f09788c36bb899fe059a58e79bb991ad"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "061ab5336eb1a59ff89645a8540131df74ca2091", 
+      "title": "Chinese Parsing Exploiting Characters", 
+      "url": "https://www.semanticscholar.org/paper/061ab5336eb1a59ff89645a8540131df74ca2091"
+    }, 
+    {
+      "isInfluential": true, 
+      "paperId": "fad6b4acdcb1bacd043982be6c785c14964b2563", 
+      "title": "A Stacked Sub-Word Model for Joint Chinese Word Segmentation and Part-of-Speech Tagging", 
+      "url": "https://www.semanticscholar.org/paper/fad6b4acdcb1bacd043982be6c785c14964b2563"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "1e0bfd733d756e03866f0590566043ed7ebe1ce2", 
+      "title": "A Feature-Enriched Neural Model for Joint Chinese Word Segmentation and Part-of-Speech Tagging", 
+      "url": "https://www.semanticscholar.org/paper/1e0bfd733d756e03866f0590566043ed7ebe1ce2"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "868ca7387bee578bdb28758d9b324cbb8b944e73", 
+      "title": "Discriminative Boosting from Dictionary and Raw Text - A Novel Approach to Build A Chinese Word Segmenter", 
+      "url": "https://www.semanticscholar.org/paper/868ca7387bee578bdb28758d9b324cbb8b944e73"
+    }, 
+    {
+      "isInfluential": true, 
+      "paperId": "1b588a576186f4ee7e473f9b80bc05dc3a49cc4d", 
+      "title": "Chinese Word Segmentation by Mining Maximized Substrings", 
+      "url": "https://www.semanticscholar.org/paper/1b588a576186f4ee7e473f9b80bc05dc3a49cc4d"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "b1d59f34b3ba26471942ec94c901b8acad5c9389", 
+      "title": "A Word and Character-Cluster Hybrid Model for Thai Word Segmentation", 
+      "url": "https://www.semanticscholar.org/paper/b1d59f34b3ba26471942ec94c901b8acad5c9389"
+    }, 
+    {
+      "isInfluential": true, 
+      "paperId": "9179ae571e06977720beee91a2039beb19f296c0", 
+      "title": "Chinese Morphological Analysis with Character-level POS Tagging", 
+      "url": "https://www.semanticscholar.org/paper/9179ae571e06977720beee91a2039beb19f296c0"
+    }, 
+    {
+      "isInfluential": true, 
+      "paperId": "573b18a061ea2c23b8c86a5f2b1db34175aadcd6", 
+      "title": "Abductive Metareasoning for Truth-Seeking Agents", 
+      "url": "https://www.semanticscholar.org/paper/573b18a061ea2c23b8c86a5f2b1db34175aadcd6"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "64bf025d44c20a33d27e3d63310017ec76df6c94", 
+      "title": "Joint Chinese Word Segmentation, POS Tagging and Parsing", 
+      "url": "https://www.semanticscholar.org/paper/64bf025d44c20a33d27e3d63310017ec76df6c94"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "635ff3b2aae986dabfd64c83516c4c12eeea3e7b", 
+      "title": "Incremental Joint POS Tagging and Dependency Parsing in Chinese", 
+      "url": "https://www.semanticscholar.org/paper/635ff3b2aae986dabfd64c83516c4c12eeea3e7b"
+    }
+  ], 
+  "doi": null, 
+  "influentialCitationCount": 11, 
+  "paperId": "ce0675bb7de5dcad3301fb232e090f7b9d821705", 
+  "references": [
+    {
+      "isInfluential": false, 
+      "paperId": "f30a129113961242c6279436d60df17e9043ad08", 
+      "title": "A Stochastic Japanese Morphological Analyzer Using a Forward-DP Backward-A* N-Best Search Algorithm", 
+      "url": "https://www.semanticscholar.org/paper/f30a129113961242c6279436d60df17e9043ad08"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "35640547b3ba7989b5abbb9d269055e736d9dff3", 
+      "title": "Chinese Part-of-Speech Tagging: One-at-a-Time or All-at-Once? Word-Based or Character-Based?", 
+      "url": "https://www.semanticscholar.org/paper/35640547b3ba7989b5abbb9d269055e736d9dff3"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "1d67f6eb4e885613d39f0ab641e89affeb7db686", 
+      "title": "Scalable Large-Margin Online Learning for Structured Classification", 
+      "url": "https://www.semanticscholar.org/paper/1d67f6eb4e885613d39f0ab641e89affeb7db686"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "3571dcf348c7db7818c51561d9c8aab0149d8f8a", 
+      "title": "Non-Projective Dependency Parsing using Spanning Tree Algorithms", 
+      "url": "https://www.semanticscholar.org/paper/3571dcf348c7db7818c51561d9c8aab0149d8f8a"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "c75d78c8579c93227a6233398355950e58986f4e", 
+      "title": "A Dual-layer CRFs Based Joint Decoding Method for Cascaded Segmentation and Labeling Tasks", 
+      "url": "https://www.semanticscholar.org/paper/c75d78c8579c93227a6233398355950e58986f4e"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "2da5b14602f29f00bfd1c897bdae7e595890e59b", 
+      "title": "Word Lattice Reranking for Chinese Word Segmentation and Part-of-Speech Tagging", 
+      "url": "https://www.semanticscholar.org/paper/2da5b14602f29f00bfd1c897bdae7e595890e59b"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "62d8219e6be879d54b5602c90fdbeaff7a78ff74", 
+      "title": "Applying Conditional Random Fields to Japanese Morphological Analysis", 
+      "url": "https://www.semanticscholar.org/paper/62d8219e6be879d54b5602c90fdbeaff7a78ff74"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "2301608d82ff3f85e2ee1a81866dac69bacb3d55", 
+      "title": "Estimating Lexical Priors for Low-Frequency Morphologically Ambiguous Forms", 
+      "url": "https://www.semanticscholar.org/paper/2301608d82ff3f85e2ee1a81866dac69bacb3d55"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "25d159d611a2b7ea1c09a629e87fea3696f7f913", 
+      "title": "Developing Guidelines and Ensuring Consistency for Chinese Text Annotation", 
+      "url": "https://www.semanticscholar.org/paper/25d159d611a2b7ea1c09a629e87fea3696f7f913"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "2fea0c765bd1ed9958e54065608aedbb5b59a9bc", 
+      "title": "Joint Word Segmentation and POS Tagging Using a Single Perceptron", 
+      "url": "https://www.semanticscholar.org/paper/2fea0c765bd1ed9958e54065608aedbb5b59a9bc"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "6d0998f894a80592a37de64584418f3d62846d8a", 
+      "title": "Online Learning of Complex Categorical Problems", 
+      "url": "https://www.semanticscholar.org/paper/6d0998f894a80592a37de64584418f3d62846d8a"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "0c232e4695abd4227e60558a889c50e59beaf9bb", 
+      "title": "Transformation-Based Error-Driven Learning and Natural Language Processing: A Case Study in Part-of-Speech Tagging", 
+      "url": "https://www.semanticscholar.org/paper/0c232e4695abd4227e60558a889c50e59beaf9bb"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "6e1a47edccd3e34641c784e334e288cce7561ee1", 
+      "title": "Chinese and Japanese Word Segmentation Using Word-Level and Character-Level Information", 
+      "url": "https://www.semanticscholar.org/paper/6e1a47edccd3e34641c784e334e288cce7561ee1"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "5640d71a2322f2a6852f46cda40263b06aa54803", 
+      "title": "The First International Chinese Word Segmentation Bakeoff", 
+      "url": "https://www.semanticscholar.org/paper/5640d71a2322f2a6852f46cda40263b06aa54803"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "24beb987b722d4a25d3157a43000e685aa8f8874", 
+      "title": "A Maximum Entropy Model For Part-Of-Speech Tagging", 
+      "url": "https://www.semanticscholar.org/paper/24beb987b722d4a25d3157a43000e685aa8f8874"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "87338fc25c59fbba4c8f9f7f2fb9166c8890c08e", 
+      "title": "Penn/Umass/CHOP Biocreative II systems", 
+      "url": "https://www.semanticscholar.org/paper/87338fc25c59fbba4c8f9f7f2fb9166c8890c08e"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "0c7f52c753a65ceaf3755e20b906ffd0c05c994a", 
+      "title": "Conditional Random Fields: Probabilistic Models for Segmenting and Labeling Sequence Data", 
+      "url": "https://www.semanticscholar.org/paper/0c7f52c753a65ceaf3755e20b906ffd0c05c994a"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "9eb5989c8a35a2878d5be46b0f2639657511a9b6", 
+      "title": "A Hybrid Approach to Word Segmentation and POS Tagging", 
+      "url": "https://www.semanticscholar.org/paper/9eb5989c8a35a2878d5be46b0f2639657511a9b6"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "3b8e7c8220d3883d54960d896a73045f3c70ac17", 
+      "title": "Discriminative Training Methods For Hidden Markov Models: Theory And Experiments With Perceptron Algorithms", 
+      "url": "https://www.semanticscholar.org/paper/3b8e7c8220d3883d54960d896a73045f3c70ac17"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "ba585ce3253968189bc5c4e63a86064d575099b4", 
+      "title": "Corpus-based Japanese morphological analysis", 
+      "url": "https://www.semanticscholar.org/paper/ba585ce3253968189bc5c4e63a86064d575099b4"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "9adf325320cf40e96d947f6358d1708b973d8f4d", 
+      "title": "The Unknown Word Problem: a Morphological Analysis of Japanese Using Maximum Entropy Aided by a Dictionary", 
+      "url": "https://www.semanticscholar.org/paper/9adf325320cf40e96d947f6358d1708b973d8f4d"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "beb4ba1cdbdc1e1ae235cd126aed2b9313d83ae2", 
+      "title": "A Part of Speech Estimation Method for Japanese Unknown Words using a Statistical Model of Morphology and Context", 
+      "url": "https://www.semanticscholar.org/paper/beb4ba1cdbdc1e1ae235cd126aed2b9313d83ae2"
+    }
+  ], 
+  "title": "An Error-Driven Word-Character Hybrid Model for Joint Chinese Word Segmentation and POS Tagging", 
+  "url": "https://www.semanticscholar.org/paper/ce0675bb7de5dcad3301fb232e090f7b9d821705", 
+  "venue": "ACL/IJCNLP"
+}

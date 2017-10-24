@@ -1,0 +1,467 @@
+{
+  "authors": [
+    {
+      "authorId": "2463750", 
+      "name": "Wenliang Chen", 
+      "url": "https://www.semanticscholar.org/author/2463750"
+    }, 
+    {
+      "authorId": "1761994", 
+      "name": "Jun'ichi Kazama", 
+      "url": "https://www.semanticscholar.org/author/1761994"
+    }, 
+    {
+      "authorId": "1783611", 
+      "name": "Kiyotaka Uchimoto", 
+      "url": "https://www.semanticscholar.org/author/1783611"
+    }, 
+    {
+      "authorId": "1768754", 
+      "name": "Kentaro Torisawa", 
+      "url": "https://www.semanticscholar.org/author/1768754"
+    }
+  ], 
+  "citationVelocity": 0, 
+  "citations": [
+    {
+      "isInfluential": false, 
+      "paperId": "7a3f53e657c064233005e7dc777b55e7ff7210f9", 
+      "title": "Improving Syntactic Parsing of Chinese with Empty Element Recovery", 
+      "url": "https://www.semanticscholar.org/paper/7a3f53e657c064233005e7dc777b55e7ff7210f9"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "4558e70ed04ebf6ca394461304f5712abf7faa77", 
+      "title": "Feature Embedding for Dependency Parsing", 
+      "url": "https://www.semanticscholar.org/paper/4558e70ed04ebf6ca394461304f5712abf7faa77"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "1bd921b1516bcca2fd12ff4e82aa4454c390d070", 
+      "title": "Web-scale Surface and Syntactic n-gram Features for Dependency Parsing", 
+      "url": "https://www.semanticscholar.org/paper/1bd921b1516bcca2fd12ff4e82aa4454c390d070"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "e4f92bfd6378980543acf6185968b5edd6556984", 
+      "title": "Dieci sfumature di marcatezza sintattica: verso una nozione computazionale di complessit\u00e0 (Ten Shades of Syntactic Markedness: Towards a Computational Notion of Complexity)", 
+      "url": "https://www.semanticscholar.org/paper/e4f92bfd6378980543acf6185968b5edd6556984"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "41aa072cc94ce4e8adbc421bbd6ed21cd99fe906", 
+      "title": "ReliAble dependency arc recognition", 
+      "url": "https://www.semanticscholar.org/paper/41aa072cc94ce4e8adbc421bbd6ed21cd99fe906"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "6508d025c16de98120d3b06b6ed69c570b737fdb", 
+      "title": "Detecting Dependency Parse Errors with Minimal Resources", 
+      "url": "https://www.semanticscholar.org/paper/6508d025c16de98120d3b06b6ed69c570b737fdb"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "beb1226c89615d2b092b9230c4df5c496a2a76eb", 
+      "title": "Utilizing Dependency Language Models for Graph-based Dependency Parsing Models", 
+      "url": "https://www.semanticscholar.org/paper/beb1226c89615d2b092b9230c4df5c496a2a76eb"
+    }, 
+    {
+      "isInfluential": true, 
+      "paperId": "19240022f90750522e8305251167a01dd84c82a5", 
+      "title": "Exploiting Lexical Dependencies from Large-Scale Data for Better Shift-Reduce Constituency Parsing", 
+      "url": "https://www.semanticscholar.org/paper/19240022f90750522e8305251167a01dd84c82a5"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "43729d63de89491c092e97323cc8daa8d4d061fc", 
+      "title": "A Reranking Approach for Dependency Parsing with Variable-sized Subtree Features", 
+      "url": "https://www.semanticscholar.org/paper/43729d63de89491c092e97323cc8daa8d4d061fc"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "01bdc9c023eb304c79de674f9730e3782230f8e1", 
+      "title": "Improving Chinese Parsing with Special-Case Probability Re-estimation", 
+      "url": "https://www.semanticscholar.org/paper/01bdc9c023eb304c79de674f9730e3782230f8e1"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "394e61a39d86789b7939a387907663875f2b15d8", 
+      "title": "Improving Chinese Word Segmentation and POS Tagging with Semi-supervised Methods Using Large Auto-Analyzed Data", 
+      "url": "https://www.semanticscholar.org/paper/394e61a39d86789b7939a387907663875f2b15d8"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "1e3820917271b2d23b0e92162caaabddd35fbfd0", 
+      "title": "Bitext Dependency Parsing with Bilingual Subtree Constraints", 
+      "url": "https://www.semanticscholar.org/paper/1e3820917271b2d23b0e92162caaabddd35fbfd0"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "4d1b488237e2166a68e6ec78090917d0586860be", 
+      "title": "Exploiting Multiple Treebanks for Parsing with Quasi-synchronous Grammars", 
+      "url": "https://www.semanticscholar.org/paper/4d1b488237e2166a68e6ec78090917d0586860be"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "2765f74ba47f12db9e046750b3719641fc0f8935", 
+      "title": "Linguistically\u2013driven Selection of Correct Arcs for Dependency Parsing", 
+      "url": "https://www.semanticscholar.org/paper/2765f74ba47f12db9e046750b3719641fc0f8935"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "77a517183e0417b43a1f7ba5730575540da4832e", 
+      "title": "Improving Chinese Dependency Parsing with Self-Disambiguating Patterns", 
+      "url": "https://www.semanticscholar.org/paper/77a517183e0417b43a1f7ba5730575540da4832e"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "033b4cecc4ab38a1e219f8244af64fdd62ed8e1a", 
+      "title": "Improving Graph-based Dependency Parsing with Decision History", 
+      "url": "https://www.semanticscholar.org/paper/033b4cecc4ab38a1e219f8244af64fdd62ed8e1a"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "d1d88d7c686b465a504b1c264c3793ba3d8a3110", 
+      "title": "Semi-Supervised Feature Transformation for Dependency Parsing", 
+      "url": "https://www.semanticscholar.org/paper/d1d88d7c686b465a504b1c264c3793ba3d8a3110"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "70042cc47e947efb508816e2358e4cf5895d8451", 
+      "title": "Extracting coordinate word pairs for dependency parsing", 
+      "url": "https://www.semanticscholar.org/paper/70042cc47e947efb508816e2358e4cf5895d8451"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "29890cceb1d214495cdeed2973e02f1ebafaae7c", 
+      "title": "High Quality Dependency Selection from Automatic Parses", 
+      "url": "https://www.semanticscholar.org/paper/29890cceb1d214495cdeed2973e02f1ebafaae7c"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "28475bf14885d62951c060197191c0db99c8e24e", 
+      "title": "A Dataset of Syntactic-Ngrams over Time from a Very Large Corpus of English Books", 
+      "url": "https://www.semanticscholar.org/paper/28475bf14885d62951c060197191c0db99c8e24e"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "388c8e6ba7646f46e499dffc00557cfe769a5dda", 
+      "title": "Syntactic Processing Using the Generalized Perceptron and Beam Search", 
+      "url": "https://www.semanticscholar.org/paper/388c8e6ba7646f46e499dffc00557cfe769a5dda"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "c0b353701dacd7869bdd42809635f068acd6f50c", 
+      "title": "Exploiting Web-Derived Selectional Preference to Improve Statistical Dependency Parsing", 
+      "url": "https://www.semanticscholar.org/paper/c0b353701dacd7869bdd42809635f068acd6f50c"
+    }, 
+    {
+      "isInfluential": true, 
+      "paperId": "2cd6bff02be9d079a423f8c0dba012177ff6d580", 
+      "title": "Dependency Parser Adaptation with Subtrees from Auto-Parsed Target Domain Data", 
+      "url": "https://www.semanticscholar.org/paper/2cd6bff02be9d079a423f8c0dba012177ff6d580"
+    }, 
+    {
+      "isInfluential": true, 
+      "paperId": "2c2170c0a5c329a9cb562df0fd3c8a89edb2b6c2", 
+      "title": "Multiple Feature-Sets Method for Dependency Parsing", 
+      "url": "https://www.semanticscholar.org/paper/2c2170c0a5c329a9cb562df0fd3c8a89edb2b6c2"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "5097dda941bfe50c967d89208e72daa5b8efcb0e", 
+      "title": "Joint Inference for Heterogeneous Dependency Parsing", 
+      "url": "https://www.semanticscholar.org/paper/5097dda941bfe50c967d89208e72daa5b8efcb0e"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "ed5cc30341526b128794bf201a30764384f74d0e", 
+      "title": "Answering Complex Questions via Exploiting Social Q&A Collection", 
+      "url": "https://www.semanticscholar.org/paper/ed5cc30341526b128794bf201a30764384f74d0e"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "d2a308181f1c836ec30d21f4c5dc941b545ee661", 
+      "title": "Bitext Dependency Parsing With Auto-Generated Bilingual Treebank", 
+      "url": "https://www.semanticscholar.org/paper/d2a308181f1c836ec30d21f4c5dc941b545ee661"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "48a2d2dbb6514f55902139a4f40eb6942f82eef9", 
+      "title": "Minimally Supervised Method for Multilingual Paraphrase Extraction from Definition Sentences on the Web", 
+      "url": "https://www.semanticscholar.org/paper/48a2d2dbb6514f55902139a4f40eb6942f82eef9"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "19f064665b0095aaac008b2ce8737eec293f68e3", 
+      "title": "Turku: Semantic Dependency Parsing as a Sequence Classification", 
+      "url": "https://www.semanticscholar.org/paper/19f064665b0095aaac008b2ce8737eec293f68e3"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "9f6b0898539d645e49c872413e67c3972beb788a", 
+      "title": "Improving Graph-Based Dependency Parsing Models With Dependency Language Models", 
+      "url": "https://www.semanticscholar.org/paper/9f6b0898539d645e49c872413e67c3972beb788a"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "3179d9f0539e41d2f13681b40cf9ec9348cb8403", 
+      "title": "Semi-supervised Dependency Parsing using Lexical Affinities", 
+      "url": "https://www.semanticscholar.org/paper/3179d9f0539e41d2f13681b40cf9ec9348cb8403"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "78c14bc5cadb8d0410879cc3fba3725724e26924", 
+      "title": "Automatic Syntactic Processing of Modern Hebrew", 
+      "url": "https://www.semanticscholar.org/paper/78c14bc5cadb8d0410879cc3fba3725724e26924"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "9d0b65c783643db9f1df95e6cd77daebf95b3eec", 
+      "title": "Improving Dependency Parsing with Fined-Grained Features", 
+      "url": "https://www.semanticscholar.org/paper/9d0b65c783643db9f1df95e6cd77daebf95b3eec"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "174bbdb96252454cbb40a9c4e53335996235a008", 
+      "title": "Fast and Accurate Shift-Reduce Constituent Parsing", 
+      "url": "https://www.semanticscholar.org/paper/174bbdb96252454cbb40a9c4e53335996235a008"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "088309b8bef6dd78ef552800c4d7643395c6b8e9", 
+      "title": "Dependency Parse Reranking with Rich Subtree Features", 
+      "url": "https://www.semanticscholar.org/paper/088309b8bef6dd78ef552800c4d7643395c6b8e9"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "897eed0892f40d546e84465ed13a6bdc1ad0159b", 
+      "title": "Semi-supervised Dependency Parsing using Bilexical Contextual Features from Auto-Parsed Data", 
+      "url": "https://www.semanticscholar.org/paper/897eed0892f40d546e84465ed13a6bdc1ad0159b"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "b9598c3596ccb952114e1058da0abc4224a6626d", 
+      "title": "Distributed Feature Representations for Dependency Parsing", 
+      "url": "https://www.semanticscholar.org/paper/b9598c3596ccb952114e1058da0abc4224a6626d"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "3c0b9fc30fea065bb2948eb00611603d5728f4c1", 
+      "title": "BCCWJ-TimeBank: Temporal and Event Information Annotation on Japanese Text", 
+      "url": "https://www.semanticscholar.org/paper/3c0b9fc30fea065bb2948eb00611603d5728f4c1"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "016842482d3d733d8b999f6b9735a15906a12b53", 
+      "title": "Ambiguity-aware Ensemble Training for Semi-supervised Dependency Parsing", 
+      "url": "https://www.semanticscholar.org/paper/016842482d3d733d8b999f6b9735a15906a12b53"
+    }, 
+    {
+      "isInfluential": true, 
+      "paperId": "a6524eb96ef05baff7b4e8f1bdc74dd0388a8c12", 
+      "title": "A Framework for Compiling High Quality Knowledge Resources From Raw Corpora", 
+      "url": "https://www.semanticscholar.org/paper/a6524eb96ef05baff7b4e8f1bdc74dd0388a8c12"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "da771a53f09788c36bb899fe059a58e79bb991ad", 
+      "title": "SMT Helps Bitext Dependency Parsing", 
+      "url": "https://www.semanticscholar.org/paper/da771a53f09788c36bb899fe059a58e79bb991ad"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "14885c99671318877d1273d3b5b20d02a8f697d9", 
+      "title": "Modeling Human Inference Process for Textual Entailment Recognition", 
+      "url": "https://www.semanticscholar.org/paper/14885c99671318877d1273d3b5b20d02a8f697d9"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "b3e3552caca4a621ea16273e94d48d4abde43503", 
+      "title": "Learning Condensed Feature Representations from Large Unsupervised Data Sets for Supervised Learning", 
+      "url": "https://www.semanticscholar.org/paper/b3e3552caca4a621ea16273e94d48d4abde43503"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "036940d41c0a917130151acd8b330b4d77f4bdd4", 
+      "title": "Sentence Rephrasing for Parsing Sentences with OOV Words", 
+      "url": "https://www.semanticscholar.org/paper/036940d41c0a917130151acd8b330b4d77f4bdd4"
+    }
+  ], 
+  "doi": null, 
+  "influentialCitationCount": 4, 
+  "paperId": "5e80938dedf6c8b8fe6d05278ef47eb957ca931e", 
+  "references": [
+    {
+      "isInfluential": true, 
+      "paperId": "f0e1883cf9d1b3c911125f46359f908557fc5827", 
+      "title": "Statistical Dependency Analysis with Support Vector Machines", 
+      "url": "https://www.semanticscholar.org/paper/f0e1883cf9d1b3c911125f46359f908557fc5827"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "937930d1ee92fa1a55f36d2f903cfa7532c0236e", 
+      "title": "Simple Training of Dependency Parsers via Structured Boosting", 
+      "url": "https://www.semanticscholar.org/paper/937930d1ee92fa1a55f36d2f903cfa7532c0236e"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "3787980e3f4c2e0e20a08027ec1eff18b4fd0c0a", 
+      "title": "TnT -- A Statistical Part-of-Speech Tagger", 
+      "url": "https://www.semanticscholar.org/paper/3787980e3f4c2e0e20a08027ec1eff18b4fd0c0a"
+    }, 
+    {
+      "isInfluential": true, 
+      "paperId": "fa97eda69a5a62388ea5bd02439a356b94047268", 
+      "title": "Probabilistic Models for Action-Based Chinese Dependency Parsing", 
+      "url": "https://www.semanticscholar.org/paper/fa97eda69a5a62388ea5bd02439a356b94047268"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "2671bf82168234a25fce7950e0527eb03b201e0c", 
+      "title": "Reranking and Self-Training for Parser Adaptation", 
+      "url": "https://www.semanticscholar.org/paper/2671bf82168234a25fce7950e0527eb03b201e0c"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "d68b2ee867ae110b813b046d7aa477ba1a3f9fec", 
+      "title": "Parsing Syntactic and Semantic Dependencies with Two Single-Stage Maximum Entropy Models", 
+      "url": "https://www.semanticscholar.org/paper/d68b2ee867ae110b813b046d7aa477ba1a3f9fec"
+    }, 
+    {
+      "isInfluential": true, 
+      "paperId": "28d9c89f946a39d3c4146bf32ddff546845e1801", 
+      "title": "Simple Semi-supervised Dependency Parsing", 
+      "url": "https://www.semanticscholar.org/paper/28d9c89f946a39d3c4146bf32ddff546845e1801"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "846a3c8833e809810f2b5f8ea7982b95e8bb42d1", 
+      "title": "Online Large-Margin Training of Dependency Parsers", 
+      "url": "https://www.semanticscholar.org/paper/846a3c8833e809810f2b5f8ea7982b95e8bb42d1"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "282a147a5197d33afac20f26ea9a5903b5066a0f", 
+      "title": "Multilingual Dependency Parsing using Bayes Point Machines", 
+      "url": "https://www.semanticscholar.org/paper/282a147a5197d33afac20f26ea9a5903b5066a0f"
+    }, 
+    {
+      "isInfluential": true, 
+      "paperId": "ad1181d188f730b7917a95ae452efb48f830c90a", 
+      "title": "A Tale of Two Parsers: Investigating and Combining Graph-based and Transition-based Dependency Parsing", 
+      "url": "https://www.semanticscholar.org/paper/ad1181d188f730b7917a95ae452efb48f830c90a"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "10a9abb4c78f0be5cc85847f248d3e8277b3c810", 
+      "title": "The CoNLL 2007 Shared Task on Dependency Parsing", 
+      "url": "https://www.semanticscholar.org/paper/10a9abb4c78f0be5cc85847f248d3e8277b3c810"
+    }, 
+    {
+      "isInfluential": true, 
+      "paperId": "a6fd69a268981ae3e85e5a87d24a614c2d0ca97b", 
+      "title": "Integrating Graph-Based and Transition-Based Dependency Parsers", 
+      "url": "https://www.semanticscholar.org/paper/a6fd69a268981ae3e85e5a87d24a614c2d0ca97b"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "24beb987b722d4a25d3157a43000e685aa8f8874", 
+      "title": "A Maximum Entropy Model For Part-Of-Speech Tagging", 
+      "url": "https://www.semanticscholar.org/paper/24beb987b722d4a25d3157a43000e685aa8f8874"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "4ab8332f0e22dc8374450da32e7c302d07f04929", 
+      "title": "Discriminative Classifiers for Deterministic Dependency Parsing", 
+      "url": "https://www.semanticscholar.org/paper/4ab8332f0e22dc8374450da32e7c302d07f04929"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "1deed1a4a03e07aee3b8b8e4716f35033c715a57", 
+      "title": "CoNLL-X Shared Task on Multilingual Dependency Parsing", 
+      "url": "https://www.semanticscholar.org/paper/1deed1a4a03e07aee3b8b8e4716f35033c715a57"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "6a694487451957937adddbd682d3851fabd45626", 
+      "title": "Question answering passage retrieval using dependency relations", 
+      "url": "https://www.semanticscholar.org/paper/6a694487451957937adddbd682d3851fabd45626"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "15f8eb5d0dedbf778dc811dfea33f9733e9232ab", 
+      "title": "Bootstrapping statistical parsers from small datasets", 
+      "url": "https://www.semanticscholar.org/paper/15f8eb5d0dedbf778dc811dfea33f9733e9232ab"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "80bfb07393519e1e441c7981c1bc423d2cc73026", 
+      "title": "Using Self-Trained Bilexical Preferences to Improve Disambiguation Accuracy", 
+      "url": "https://www.semanticscholar.org/paper/80bfb07393519e1e441c7981c1bc423d2cc73026"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "4907e4e5185972a46b4a923c25578c0e4b222669", 
+      "title": "Dependency Parsing with Short Dependency Relations in Unlabeled Data", 
+      "url": "https://www.semanticscholar.org/paper/4907e4e5185972a46b4a923c25578c0e4b222669"
+    }, 
+    {
+      "isInfluential": true, 
+      "paperId": "798957b4bbe99fcf9283027d30e19eb03ce6b4d5", 
+      "title": "Dependency Parsing and Domain Adaptation with LR Models and Parser Ensembles", 
+      "url": "https://www.semanticscholar.org/paper/798957b4bbe99fcf9283027d30e19eb03ce6b4d5"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "04bf412d6309084e80c8bfa804a36efa793db1fd", 
+      "title": "Coordination Disambiguation without Any Similarities", 
+      "url": "https://www.semanticscholar.org/paper/04bf412d6309084e80c8bfa804a36efa793db1fd"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "c205e82ddf7d9bd759cca3e16baa60c49cecf056", 
+      "title": "Experiments with a Higher-Order Projective Dependency Parser", 
+      "url": "https://www.semanticscholar.org/paper/c205e82ddf7d9bd759cca3e16baa60c49cecf056"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "0b44fcbeea9415d400c5f5789d6b892b6f98daff", 
+      "title": "Building a Large Annotated Corpus of English: The Penn Treebank", 
+      "url": "https://www.semanticscholar.org/paper/0b44fcbeea9415d400c5f5789d6b892b6f98daff"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "86cddea7c2d7ab4c991b33a7b03c8a6acd624db6", 
+      "title": "Chinese Dependency Parsing with Large Scale Automatically Constructed Case Structures", 
+      "url": "https://www.semanticscholar.org/paper/86cddea7c2d7ab4c991b33a7b03c8a6acd624db6"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "14f56b8a2a6e9d297ae637fbbf0a62fbb13b5339", 
+      "title": "Example-based machine translation based on deeper NLP", 
+      "url": "https://www.semanticscholar.org/paper/14f56b8a2a6e9d297ae637fbbf0a62fbb13b5339"
+    }, 
+    {
+      "isInfluential": true, 
+      "paperId": "7bfbabdc800f70eb4efa60e64b91044aad23c4a8", 
+      "title": "Online Learning of Approximate Dependency Parsing Algorithms", 
+      "url": "https://www.semanticscholar.org/paper/7bfbabdc800f70eb4efa60e64b91044aad23c4a8"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "060435976a20b551b659cba4335725d48cbce6b1", 
+      "title": "TAG, Dynamic Programming, and the Perceptron for Efficient, Feature-Rich Parsing", 
+      "url": "https://www.semanticscholar.org/paper/060435976a20b551b659cba4335725d48cbce6b1"
+    }, 
+    {
+      "isInfluential": true, 
+      "paperId": "00f20179b9087fbf24b6656008a9380c590d9ec9", 
+      "title": "A Maximum Entropy Model for Prepositional Phrase Attachment", 
+      "url": "https://www.semanticscholar.org/paper/00f20179b9087fbf24b6656008a9380c590d9ec9"
+    }
+  ], 
+  "title": "Improving Dependency Parsing with Subtrees from Auto-Parsed Data", 
+  "url": "https://www.semanticscholar.org/paper/5e80938dedf6c8b8fe6d05278ef47eb957ca931e", 
+  "venue": "EMNLP"
+}

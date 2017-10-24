@@ -1,0 +1,615 @@
+{
+  "authors": [
+    {
+      "authorId": "4661000", 
+      "name": "Ronald Rosenfeld", 
+      "url": "https://www.semanticscholar.org/author/4661000"
+    }, 
+    {
+      "authorId": "1788579", 
+      "name": "Stanley F. Chen", 
+      "url": "https://www.semanticscholar.org/author/1788579"
+    }, 
+    {
+      "authorId": "1809478", 
+      "name": "Xiaojin Zhu", 
+      "url": "https://www.semanticscholar.org/author/1809478"
+    }
+  ], 
+  "citationVelocity": 0, 
+  "citations": [
+    {
+      "isInfluential": false, 
+      "paperId": "31d2eaefe047a4302e0a5dfa090a37b9f1c79699", 
+      "title": "Guessing Parts-of-Speech of Unknown Words Using Global Information", 
+      "url": "https://www.semanticscholar.org/paper/31d2eaefe047a4302e0a5dfa090a37b9f1c79699", 
+      "venue": "ACL", 
+      "year": 2006
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "4de296483421d72eeeae0df297331090e86d202b", 
+      "title": "Chinese Word Segmentation and Named Entity Recognition: A Pragmatic Approach", 
+      "url": "https://www.semanticscholar.org/paper/4de296483421d72eeeae0df297331090e86d202b", 
+      "venue": "Computational Linguistics", 
+      "year": 2005
+    }, 
+    {
+      "isInfluential": true, 
+      "paperId": "52f08b49751a217e04f8b43b95f46fc25cef3d69", 
+      "title": "Fast parameter estimation for joint maximum entropy language models", 
+      "url": "https://www.semanticscholar.org/paper/52f08b49751a217e04f8b43b95f46fc25cef3d69", 
+      "venue": "INTERSPEECH", 
+      "year": 2004
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "6d1604963ef89eff2b3fc65c1ce77d5db58fbaf9", 
+      "title": "Model Interpolation with Trans-dimensional Random Field Language Models for Speech Recognition", 
+      "url": "https://www.semanticscholar.org/paper/6d1604963ef89eff2b3fc65c1ce77d5db58fbaf9", 
+      "venue": "", 
+      "year": 2016
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "7497561d5ffe6cf3606a98db7b975a32221d409d", 
+      "title": "Latent Maximum Entropy Principle for Statistical Language Modeling", 
+      "url": "https://www.semanticscholar.org/paper/7497561d5ffe6cf3606a98db7b975a32221d409d", 
+      "venue": "", 
+      "year": 2004
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "4bf3acb659229464350e3f84930f9872d3c3f1a0", 
+      "title": "Exploiting the succeeding words in recurrent neural network language models", 
+      "url": "https://www.semanticscholar.org/paper/4bf3acb659229464350e3f84930f9872d3c3f1a0", 
+      "venue": "INTERSPEECH", 
+      "year": 2013
+    }, 
+    {
+      "isInfluential": true, 
+      "paperId": "152513b6619a9e4e5b4c2bec999cf40df60189b7", 
+      "title": "Discriminatively trained dependency language modeling for conversational speech recognition", 
+      "url": "https://www.semanticscholar.org/paper/152513b6619a9e4e5b4c2bec999cf40df60189b7", 
+      "venue": "INTERSPEECH", 
+      "year": 2013
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "6b8f40376b59b9e1759ca34150aa00b1d04daccb", 
+      "title": "Backoff inspired features for maximum entropy language models", 
+      "url": "https://www.semanticscholar.org/paper/6b8f40376b59b9e1759ca34150aa00b1d04daccb", 
+      "venue": "INTERSPEECH", 
+      "year": 2014
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "697d679ed1e1034d3b484c580b85de41b76d51a1", 
+      "title": "Joint Morphological-Lexical Language Modeling for Processing Morphologically Rich Languages With Application to Dialectal Arabic", 
+      "url": "https://www.semanticscholar.org/paper/697d679ed1e1034d3b484c580b85de41b76d51a1", 
+      "venue": "IEEE Transactions on Audio, Speech, and Language Processing", 
+      "year": 2008
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "b4a2d3ca065b86686cfc838b7b5a5c0ed5ccbbf9", 
+      "title": "Discriminative maximum entropy language model for speech recognition", 
+      "url": "https://www.semanticscholar.org/paper/b4a2d3ca065b86686cfc838b7b5a5c0ed5ccbbf9", 
+      "venue": "INTERSPEECH", 
+      "year": 2005
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "178d2cc5628113cd2702e1f6773334272fb94d0e", 
+      "title": "Music Generation from Statistical Models", 
+      "url": "https://www.semanticscholar.org/paper/178d2cc5628113cd2702e1f6773334272fb94d0e", 
+      "venue": "", 
+      "year": 2003
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "0591a9a6ec348559dc3d8f88956e301200aaf4f8", 
+      "title": "A Fast Re-scoring Strategy to Capture Long-Distance Dependencies", 
+      "url": "https://www.semanticscholar.org/paper/0591a9a6ec348559dc3d8f88956e301200aaf4f8", 
+      "venue": "EMNLP", 
+      "year": 2011
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "1fc55ff57b561a859988c233587eab38d97990e5", 
+      "title": "Variational Decoding for Statistical Machine Translation", 
+      "url": "https://www.semanticscholar.org/paper/1fc55ff57b561a859988c233587eab38d97990e5", 
+      "venue": "ACL/IJCNLP", 
+      "year": 2009
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "cea82a362d68e12c7b8877b6e4b44785725ef427", 
+      "title": "Using semantic analysis to improve speech recognition performance", 
+      "url": "https://www.semanticscholar.org/paper/cea82a362d68e12c7b8877b6e4b44785725ef427", 
+      "venue": "Computer Speech & Language", 
+      "year": 2005
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "37e061be1e8933e3045122d054f1af90328a781a", 
+      "title": "Discriminative Syntactic Language Modeling for Speech Recognition", 
+      "url": "https://www.semanticscholar.org/paper/37e061be1e8933e3045122d054f1af90328a781a", 
+      "venue": "ACL", 
+      "year": 2005
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "1a944895f7793ab62ae5a83fcff4561350831d19", 
+      "title": "Using Dependency Grammar Features in Whole Sentence Maximum Entropy Language Model for Speech Recognition", 
+      "url": "https://www.semanticscholar.org/paper/1a944895f7793ab62ae5a83fcff4561350831d19", 
+      "venue": "Baltic HLT", 
+      "year": 2010
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "6a640dab65eebadec03f8bb704081b6ec323d860", 
+      "title": "A Scalable Distributed Syntactic, Semantic, and Lexical Language Model", 
+      "url": "https://www.semanticscholar.org/paper/6a640dab65eebadec03f8bb704081b6ec323d860", 
+      "venue": "Computational Linguistics", 
+      "year": 2012
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "b61f02df8f5057d5f823ea6c1c40fadcf8e72774", 
+      "title": "Language modeling with Neural trans-dimensional random fields", 
+      "url": "https://www.semanticscholar.org/paper/b61f02df8f5057d5f823ea6c1c40fadcf8e72774", 
+      "venue": "ArXiv", 
+      "year": 2017
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "dd32a96d9776185ed60fde26d933c75911379cad", 
+      "title": "Discriminative Language Modeling With Linguistic and Statistically Derived Features", 
+      "url": "https://www.semanticscholar.org/paper/dd32a96d9776185ed60fde26d933c75911379cad", 
+      "venue": "IEEE Transactions on Audio, Speech, and Language Processing", 
+      "year": 2012
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "65f48abff4c8d74f3fe2081af2ad3deebe7fa18f", 
+      "title": "A bit of progress in language modeling", 
+      "url": "https://www.semanticscholar.org/paper/65f48abff4c8d74f3fe2081af2ad3deebe7fa18f", 
+      "venue": "Computer Speech & Language", 
+      "year": 2001
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "9a5345a89d9449b1a191d17de9abb810dad9a6ab", 
+      "title": "A Rule-based Language Model for Speech Recognition", 
+      "url": "https://www.semanticscholar.org/paper/9a5345a89d9449b1a191d17de9abb810dad9a6ab", 
+      "venue": "", 
+      "year": 2009
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "7ec3a89dc9b2f51c5224eb020e86c86c8498da00", 
+      "title": "A Challenge Set for Advancing Language Modeling", 
+      "url": "https://www.semanticscholar.org/paper/7ec3a89dc9b2f51c5224eb020e86c86c8498da00", 
+      "venue": "", 
+      "year": 2012
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "553a7bb32da04831d292db9441cde6ee1f7edd0a", 
+      "title": "Combination of Language Models for Word Prediction: An Exponential Approach", 
+      "url": "https://www.semanticscholar.org/paper/553a7bb32da04831d292db9441cde6ee1f7edd0a", 
+      "venue": "IEEE/ACM Transactions on Audio, Speech, and Language Processing", 
+      "year": 2016
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "d9d730c37314361d84967b539033ffe7137be3f4", 
+      "title": "Fitting maximum-entropy models on large sample spaces", 
+      "url": "https://www.semanticscholar.org/paper/d9d730c37314361d84967b539033ffe7137be3f4", 
+      "venue": "", 
+      "year": 2006
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "409aab738960f4f0a661cce3e61de1adf5a5f682", 
+      "title": "A unified probabilistic generative framework for extractive spoken document summarization", 
+      "url": "https://www.semanticscholar.org/paper/409aab738960f4f0a661cce3e61de1adf5a5f682", 
+      "venue": "INTERSPEECH", 
+      "year": 2007
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "0be2f4b0643ccb49d3941491fdbef11e6446dece", 
+      "title": "Adaptive Importance Sampling to Accelerate Training of a Neural Probabilistic Language Model", 
+      "url": "https://www.semanticscholar.org/paper/0be2f4b0643ccb49d3941491fdbef11e6446dece", 
+      "venue": "IEEE Transactions on Neural Networks", 
+      "year": 2008
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "a93b2aec79b79c9e361fa308a014f3f4668891a7", 
+      "title": "A Virtual Manipulative for Learning Log-Linear Models", 
+      "url": "https://www.semanticscholar.org/paper/a93b2aec79b79c9e361fa308a014f3f4668891a7", 
+      "venue": "", 
+      "year": 2013
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "a8a2025e110973dcbc2efdc6caa80826cbcbc488", 
+      "title": "A DNA assembly model of sentence generation", 
+      "url": "https://www.semanticscholar.org/paper/a8a2025e110973dcbc2efdc6caa80826cbcbc488", 
+      "venue": "Biosystems", 
+      "year": 2011
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "de4a890fd3f49fa7cb7dd8484f182d4638ef5bd8", 
+      "title": "Feature distributions in exponential language models", 
+      "url": "https://www.semanticscholar.org/paper/de4a890fd3f49fa7cb7dd8484f182d4638ef5bd8", 
+      "venue": "2009 IEEE International Conference on Network Infrastructure and Digital Content", 
+      "year": 2009
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "b349270aa223ceefba538a9931d1ea7aed3c6b89", 
+      "title": "Research on knowledge elements in exponential language model", 
+      "url": "https://www.semanticscholar.org/paper/b349270aa223ceefba538a9931d1ea7aed3c6b89", 
+      "venue": "2009 International Conference on Natural Language Processing and Knowledge Engineering", 
+      "year": 2009
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "ab24e44f195a48f260c212bbf520ae41cd0e3bae", 
+      "title": "Controlling Output Length in Neural Encoder-Decoders", 
+      "url": "https://www.semanticscholar.org/paper/ab24e44f195a48f260c212bbf520ae41cd0e3bae", 
+      "venue": "EMNLP", 
+      "year": 2016
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "67d58fad9a4fca2ccc1e8a748bc9be3ebc896bf4", 
+      "title": "Multilingual Dependency Parsing Using Global Features", 
+      "url": "https://www.semanticscholar.org/paper/67d58fad9a4fca2ccc1e8a748bc9be3ebc896bf4", 
+      "venue": "EMNLP-CoNLL", 
+      "year": 2007
+    }, 
+    {
+      "isInfluential": true, 
+      "paperId": "129bb91cd7e281a93c2d51460449f51228e86e5e", 
+      "title": "Trans-dimensional Random Fields for Language Modeling", 
+      "url": "https://www.semanticscholar.org/paper/129bb91cd7e281a93c2d51460449f51228e86e5e", 
+      "venue": "ACL", 
+      "year": 2015
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "e2728a7c21cc9f9bd41671f5f469956d62ad5302", 
+      "title": "Incorporating Global Information into Supervised Learning for Chinese Word Segmentation", 
+      "url": "https://www.semanticscholar.org/paper/e2728a7c21cc9f9bd41671f5f469956d62ad5302", 
+      "venue": "", 
+      "year": 2007
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "ab04d2d1fdd3c6744ce77b005b81b0cc460bdd89", 
+      "title": "Discriminative Training and Variational Decoding in Machine Translation via Novel Algorithms for Weighted Hypergraphs", 
+      "url": "https://www.semanticscholar.org/paper/ab04d2d1fdd3c6744ce77b005b81b0cc460bdd89", 
+      "venue": "", 
+      "year": 2010
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "8f67a85a79dfe3617cb7aaaf5400391cb8fad0a1", 
+      "title": "Sparse Non-negative Matrix Language Modeling", 
+      "url": "https://www.semanticscholar.org/paper/8f67a85a79dfe3617cb7aaaf5400391cb8fad0a1", 
+      "venue": "TACL", 
+      "year": 2016
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "75ff85f4db11cade88694a279d6c91a3e00af535", 
+      "title": "Corrective Models for Speech Recognition of Inflected Languages", 
+      "url": "https://www.semanticscholar.org/paper/75ff85f4db11cade88694a279d6c91a3e00af535", 
+      "venue": "EMNLP", 
+      "year": 2006
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "945a3d3c59c65d81f2a94da6c4133a85582969cf", 
+      "title": "Maximum Entropy Language Modeling for Russian ASR", 
+      "url": "https://www.semanticscholar.org/paper/945a3d3c59c65d81f2a94da6c4133a85582969cf", 
+      "venue": "", 
+      "year": 2013
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "0ce317d84086b8885ddbc7923ec00bedb64ab6dc", 
+      "title": "Measuring the Influence of Long Range Dependencies with Neural Network Language Models", 
+      "url": "https://www.semanticscholar.org/paper/0ce317d84086b8885ddbc7923ec00bedb64ab6dc", 
+      "venue": "", 
+      "year": 2012
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "e6ab41655c4cef3caddaed2afd994997ac59b4f5", 
+      "title": "Graphical Models and Automatic Speech Recognition", 
+      "url": "https://www.semanticscholar.org/paper/e6ab41655c4cef3caddaed2afd994997ac59b4f5", 
+      "venue": "", 
+      "year": 2002
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "060d5bb21f318efd785e86aa50cb97aed090a0fb", 
+      "title": "A discriminative language model with pseudo-negative samples", 
+      "url": "https://www.semanticscholar.org/paper/060d5bb21f318efd785e86aa50cb97aed090a0fb", 
+      "venue": "ACL", 
+      "year": 2007
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "08369fde25b3ec363b572c2ccf42da94ed8dd8e1", 
+      "title": "Search and Decoding Strategies for Complex Lexical Modeling in Lvcsr", 
+      "url": "https://www.semanticscholar.org/paper/08369fde25b3ec363b572c2ccf42da94ed8dd8e1", 
+      "venue": "", 
+      "year": 2011
+    }, 
+    {
+      "isInfluential": true, 
+      "paperId": "7e23d45312ef0771200e9d756aa26b66e9e66b4d", 
+      "title": "Unsupervised Discriminative Language Model Training for Machine Translation using Simulated Confusion Sets", 
+      "url": "https://www.semanticscholar.org/paper/7e23d45312ef0771200e9d756aa26b66e9e66b4d", 
+      "venue": "COLING", 
+      "year": 2010
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "dccd045494b63d6ae2a96416e70bc87777d4e1e7", 
+      "title": "N-Best Re-scoring Approaches for Mandarin Speech Recognition", 
+      "url": "https://www.semanticscholar.org/paper/dccd045494b63d6ae2a96416e70bc87777d4e1e7", 
+      "venue": "", 
+      "year": 2014
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "2bccab85b21e77003f64647c78ddcd95ed22cd24", 
+      "title": "Language model cross adaptation for LVCSR system combination", 
+      "url": "https://www.semanticscholar.org/paper/2bccab85b21e77003f64647c78ddcd95ed22cd24", 
+      "venue": "Computer Speech & Language", 
+      "year": 2010
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "9734f241b9a3bc1b2ecaf644d34e787cf987b7cc", 
+      "title": "Learning Trans-dimensional Random Fields with Applications to Language Modeling.", 
+      "url": "https://www.semanticscholar.org/paper/9734f241b9a3bc1b2ecaf644d34e787cf987b7cc", 
+      "venue": "IEEE transactions on pattern analysis and machine intelligence", 
+      "year": 2017
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "971b47c87580a80f3006e288ae6e428066bcbb15", 
+      "title": "Syllable language models for Mandarin speech recognition: exploiting character language models.", 
+      "url": "https://www.semanticscholar.org/paper/971b47c87580a80f3006e288ae6e428066bcbb15", 
+      "venue": "The Journal of the Acoustical Society of America", 
+      "year": 2013
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "7f4d300939c4e39cea3d02feca0f0fd2e8527202", 
+      "title": "A Probabilistic Generative Framework for Extractive Broadcast News Speech Summarization", 
+      "url": "https://www.semanticscholar.org/paper/7f4d300939c4e39cea3d02feca0f0fd2e8527202", 
+      "venue": "IEEE Transactions on Audio, Speech, and Language Processing", 
+      "year": 2009
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "96989405985e2d90370185f1e025443b56106d1a", 
+      "title": "Discriminative n-gram language modeling", 
+      "url": "https://www.semanticscholar.org/paper/96989405985e2d90370185f1e025443b56106d1a", 
+      "venue": "Computer Speech & Language", 
+      "year": 2007
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "2b63812db40152b12925ce4a848b929fa591b858", 
+      "title": "Neural Machine Translation and Sequence-to-sequence Models: A Tutorial", 
+      "url": "https://www.semanticscholar.org/paper/2b63812db40152b12925ce4a848b929fa591b858", 
+      "venue": "ArXiv", 
+      "year": 2017
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "5cf9b7220016f092c871342ae37f349144670b90", 
+      "title": "An Error-Corrective Language-Model Ad Recognition", 
+      "url": "https://www.semanticscholar.org/paper/5cf9b7220016f092c871342ae37f349144670b90", 
+      "venue": "", 
+      "year": 2005
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "884689d18aea6ac49f2fa13361637eb9092cca00", 
+      "title": "Use of contexts in language model interpolation and adaptation", 
+      "url": "https://www.semanticscholar.org/paper/884689d18aea6ac49f2fa13361637eb9092cca00", 
+      "venue": "Computer Speech & Language", 
+      "year": 2009
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "53f76473ca612204b6a082039a5fd2a405f6e3bb", 
+      "title": "Improving Speech Recognition and Understanding using Error-Corrective Reranking", 
+      "url": "https://www.semanticscholar.org/paper/53f76473ca612204b6a082039a5fd2a405f6e3bb", 
+      "venue": "ACM Trans. Asian Lang. Inf. Process.", 
+      "year": 2008
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "728be2b526780f1fb437fbdbc7bfde68d12fa182", 
+      "title": "Doctoral Dissertation Multilingual Word Segmentation and Part-of-speech Tagging: a Machine Learning Approach Incorporating Diverse Features Multilingual Word Segmentation and Part-of-speech Tagging: a Machine Learning Approach Incorporating Diverse Features * Tetsuji Nakagawa", 
+      "url": "https://www.semanticscholar.org/paper/728be2b526780f1fb437fbdbc7bfde68d12fa182", 
+      "venue": "", 
+      "year": 2006
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "c26dd72e2f3a46d0dceabf5b5c3de4d37c77262e", 
+      "title": "Meta-data conditional language modeling", 
+      "url": "https://www.semanticscholar.org/paper/c26dd72e2f3a46d0dceabf5b5c3de4d37c77262e", 
+      "venue": "2004 IEEE International Conference on Acoustics, Speech, and Signal Processing", 
+      "year": 2004
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "98aa7cfc9b1efd016fb6da4e684f027d9fef6f15", 
+      "title": "Statistical language model adaptation: review and perspectives", 
+      "url": "https://www.semanticscholar.org/paper/98aa7cfc9b1efd016fb6da4e684f027d9fef6f15", 
+      "venue": "Speech Communication", 
+      "year": 2004
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "73b29852c4f7d4a074ea0ae5b6ec63964f21e653", 
+      "title": "Adaptive Chinese Word Segmentation", 
+      "url": "https://www.semanticscholar.org/paper/73b29852c4f7d4a074ea0ae5b6ec63964f21e653", 
+      "venue": "ACL", 
+      "year": 2004
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "d777e78029d588d96e5b9ea771cb27e4e78a67c0", 
+      "title": "An error-corrective language-model adaptation for automatic speech recognition", 
+      "url": "https://www.semanticscholar.org/paper/d777e78029d588d96e5b9ea771cb27e4e78a67c0", 
+      "venue": "INTERSPEECH", 
+      "year": 2005
+    }
+  ], 
+  "doi": "10.1006/csla.2000.0159", 
+  "influentialCitationCount": 4, 
+  "paperId": "c621f4c8440c3542a6c81b5eb0dd01d0ac2607b0", 
+  "references": [
+    {
+      "isInfluential": false, 
+      "paperId": "7e9e66b55476bb0c58f23695c9a6554b6e74d906", 
+      "title": "A survey of smoothing techniques for ME models", 
+      "url": "https://www.semanticscholar.org/paper/7e9e66b55476bb0c58f23695c9a6554b6e74d906", 
+      "venue": "IEEE Trans. Speech and Audio Processing", 
+      "year": 2000
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "4af182338ee63754d4569c26cb6a5c3bbdd8cf2a", 
+      "title": "A Maximum Entropy Approach to Natural Language Processing", 
+      "url": "https://www.semanticscholar.org/paper/4af182338ee63754d4569c26cb6a5c3bbdd8cf2a", 
+      "venue": "Computational Linguistics", 
+      "year": 1996
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "354fa24fc5ba0c59e6086a397e7931a04b1f7f46", 
+      "title": "Exponential Language Models, Logistic Regression, and Semantic Coherence", 
+      "url": "https://www.semanticscholar.org/paper/354fa24fc5ba0c59e6086a397e7931a04b1f7f46", 
+      "venue": "", 
+      "year": 2000
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "408a0da8cb48555ce598d2cc1830b134d803aaec", 
+      "title": "Minimum Classification Error Training in Exponential Language Models", 
+      "url": "https://www.semanticscholar.org/paper/408a0da8cb48555ce598d2cc1830b134d803aaec", 
+      "venue": "", 
+      "year": 2000
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "54c4890ab31d939046a207c8b56eedaf416a67bd", 
+      "title": "Efficient sampling and feature selection in whole sentence maximum entropy language models", 
+      "url": "https://www.semanticscholar.org/paper/54c4890ab31d939046a207c8b56eedaf416a67bd", 
+      "venue": "ICASSP", 
+      "year": 1999
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "0f9b608cd19afeb083e0244df4cd0db1a00e029b", 
+      "title": "Inducing Features of Random Fields", 
+      "url": "https://www.semanticscholar.org/paper/0f9b608cd19afeb083e0244df4cd0db1a00e029b", 
+      "venue": "IEEE Trans. Pattern Anal. Mach. Intell.", 
+      "year": 1997
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "959cd812f0936e789b85c3caeeecc4f75a9b9a4a", 
+      "title": "Adaptive Language Modeling Using Minimum Discriminant Estimation", 
+      "url": "https://www.semanticscholar.org/paper/959cd812f0936e789b85c3caeeecc4f75a9b9a4a", 
+      "venue": "", 
+      "year": 1992
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "08b67692bc037eada8d3d7ce76cc70994e7c8116", 
+      "title": "Information Theory and Statistical Mechanics", 
+      "url": "https://www.semanticscholar.org/paper/08b67692bc037eada8d3d7ce76cc70994e7c8116", 
+      "venue": "", 
+      "year": 1999
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "0ca7ea7f6c00e08586af6a5ca7431d3e78789e5f", 
+      "title": "Linguistic features for whole sentence maximum entropy language models", 
+      "url": "https://www.semanticscholar.org/paper/0ca7ea7f6c00e08586af6a5ca7431d3e78789e5f", 
+      "venue": "EUROSPEECH", 
+      "year": 1999
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "7ac0550daef2f936c4280aca87ff8e9c7e7baf69", 
+      "title": "Maximum entropy techniques for exploiting syntactic, semantic and collocational dependencies in language modeling", 
+      "url": "https://www.semanticscholar.org/paper/7ac0550daef2f936c4280aca87ff8e9c7e7baf69", 
+      "venue": "Computer Speech & Language", 
+      "year": 2000
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "2408a19a13fcd4f76b2fe0b5d654fe5c276e6f0e", 
+      "title": "Stochastic Relaxation, Gibbs Distributions, and the Bayesian Restoration of Images", 
+      "url": "https://www.semanticscholar.org/paper/2408a19a13fcd4f76b2fe0b5d654fe5c276e6f0e", 
+      "venue": "IEEE Transactions on Pattern Analysis and Machine Intelligence", 
+      "year": 1984
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "76182c9a21dda0ba4c434d45c6b1d1ae3809efbc", 
+      "title": "A Maximum Entropy Approach to Adaptive Statistical Language Modeling", 
+      "url": "https://www.semanticscholar.org/paper/76182c9a21dda0ba4c434d45c6b1d1ae3809efbc", 
+      "venue": "", 
+      "year": 1996
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "c385f02194d5ac2ca42cffc3a6236e2e878b0096", 
+      "title": "On structuring probabilistic dependences in stochastic language modelling", 
+      "url": "https://www.semanticscholar.org/paper/c385f02194d5ac2ca42cffc3a6236e2e878b0096", 
+      "venue": "Computer Speech & Language", 
+      "year": 1994
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "aa10525fc138340ef6015b171f3d61175c814617", 
+      "title": "A Whole Sentence Maximum Entropy Language Model", 
+      "url": "https://www.semanticscholar.org/paper/aa10525fc138340ef6015b171f3d61175c814617", 
+      "venue": "", 
+      "year": 1997
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "9548ac30c113562a51e603dbbc8e9fa651cfd3ab", 
+      "title": "Improved backing-off for M-gram language modeling", 
+      "url": "https://www.semanticscholar.org/paper/9548ac30c113562a51e603dbbc8e9fa651cfd3ab", 
+      "venue": "ICASSP", 
+      "year": 1995
+    }
+  ], 
+  "title": "Whole-sentence exponential language models: a vehicle for linguistic-statistical integration", 
+  "url": "https://www.semanticscholar.org/paper/c621f4c8440c3542a6c81b5eb0dd01d0ac2607b0", 
+  "venue": "Computer Speech & Language", 
+  "year": 2001
+}

@@ -1,0 +1,810 @@
+{
+  "authors": [
+    {
+      "authorId": "3262291", 
+      "name": "Kay Rottmann", 
+      "url": "https://www.semanticscholar.org/author/3262291"
+    }, 
+    {
+      "authorId": "1684854", 
+      "name": "Stephan Vogel", 
+      "url": "https://www.semanticscholar.org/author/1684854"
+    }
+  ], 
+  "citationVelocity": 0, 
+  "citations": [
+    {
+      "isInfluential": false, 
+      "paperId": "56f110a6959a8fadc72142dc3f87f5154efc24cb", 
+      "title": "Segmentation and punctuation prediction in speech language translation using a monolingual translation system", 
+      "url": "https://www.semanticscholar.org/paper/56f110a6959a8fadc72142dc3f87f5154efc24cb", 
+      "venue": "IWSLT", 
+      "year": 2012
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "43d735f280d963a52182f473c9142757dc4a7122", 
+      "title": "Using Wikipedia to translate domain-specific terms in SMT", 
+      "url": "https://www.semanticscholar.org/paper/43d735f280d963a52182f473c9142757dc4a7122", 
+      "venue": "IWSLT", 
+      "year": 2011
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "2e45f7f663c94139b8d6bb64fc0828ac23616bda", 
+      "title": "Joint WMT 2013 Submission of the QUAERO Project", 
+      "url": "https://www.semanticscholar.org/paper/2e45f7f663c94139b8d6bb64fc0828ac23616bda", 
+      "venue": "WMT@ACL", 
+      "year": 2013
+    }, 
+    {
+      "isInfluential": true, 
+      "paperId": "0fe7c4c0382d01f152315bc473d004169881732e", 
+      "title": "Rule-Based Preordering on Multiple Syntactic Levels in Statistical Machine Translation", 
+      "url": "https://www.semanticscholar.org/paper/0fe7c4c0382d01f152315bc473d004169881732e", 
+      "venue": "", 
+      "year": 2014
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "294c28b89a8474331e50862378f04d83cfb491e3", 
+      "title": "Inducing a Discriminative Parser to Optimize Machine Translation Reordering", 
+      "url": "https://www.semanticscholar.org/paper/294c28b89a8474331e50862378f04d83cfb491e3", 
+      "venue": "EMNLP-CoNLL", 
+      "year": 2012
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "3ee5eacae0ca9cfe11acf239ac2bd87a952941e5", 
+      "title": "The Karlsruhe Institute of Technology Translation Systems for the WMT 2011", 
+      "url": "https://www.semanticscholar.org/paper/3ee5eacae0ca9cfe11acf239ac2bd87a952941e5", 
+      "venue": "", 
+      "year": 2011
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "3f86782d94a798776a00e2b6ca1dc4fdf232b178", 
+      "title": "The POSTECH Statistical Machine Translation Systems for NTCIR-7 Patent Translation Task", 
+      "url": "https://www.semanticscholar.org/paper/3f86782d94a798776a00e2b6ca1dc4fdf232b178", 
+      "venue": "NTCIR", 
+      "year": 2008
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "4c0eb66e3a55300dac191b1591e8e1d1cb0e7c8b", 
+      "title": "EU-BRIDGE MT: Text Translation of Talks in the EU-BRIDGE Project", 
+      "url": "https://www.semanticscholar.org/paper/4c0eb66e3a55300dac191b1591e8e1d1cb0e7c8b", 
+      "venue": "", 
+      "year": 2013
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "77b1b3dd8b1a2b44275fcae9554800bd06ac36c3", 
+      "title": "Manual Analysis of Structurally Informed Reordering in German-English Machine Translation", 
+      "url": "https://www.semanticscholar.org/paper/77b1b3dd8b1a2b44275fcae9554800bd06ac36c3", 
+      "venue": "LREC", 
+      "year": 2014
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "4a559c3fcc9af1e4cbdbd9eb4a87c909df4a974b", 
+      "title": "The Karlsruhe Institute of Technology Systems for the News Translation Task in WMT 2016", 
+      "url": "https://www.semanticscholar.org/paper/4a559c3fcc9af1e4cbdbd9eb4a87c909df4a974b", 
+      "venue": "WMT", 
+      "year": 2016
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "086bf168eec540c8686e3590fce18c9583750a26", 
+      "title": "Recent Improvements in the CMU Large Scale Chinese-English SMT System", 
+      "url": "https://www.semanticscholar.org/paper/086bf168eec540c8686e3590fce18c9583750a26", 
+      "venue": "ACL", 
+      "year": 2008
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "49bcce3d3a2cdf59710d9980e2eae20486f0db52", 
+      "title": "Anaphora Models and Reordering for Phrase-Based SMT", 
+      "url": "https://www.semanticscholar.org/paper/49bcce3d3a2cdf59710d9980e2eae20486f0db52", 
+      "venue": "WMT@ACL", 
+      "year": 2014
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "5914a2c8f655c322fee59e595db43ed60c9014be", 
+      "title": "Lecture Translator - Speech translation framework for simultaneous lecture translation", 
+      "url": "https://www.semanticscholar.org/paper/5914a2c8f655c322fee59e595db43ed60c9014be", 
+      "venue": "HLT-NAACL Demos", 
+      "year": 2016
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "7afb9c71e1a9765aa45ce628121bdb909829b305", 
+      "title": "Long-distance hierarchical structure transformation rules utilizing function words", 
+      "url": "https://www.semanticscholar.org/paper/7afb9c71e1a9765aa45ce628121bdb909829b305", 
+      "venue": "IWSLT", 
+      "year": 2011
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "d7940cf90367d08f6d991f63460f6e624f0dcd40", 
+      "title": "Source-side Preordering for Translation using Logistic Regression and Depth-first Branch-and-Bound Search", 
+      "url": "https://www.semanticscholar.org/paper/d7940cf90367d08f6d991f63460f6e624f0dcd40", 
+      "venue": "EACL", 
+      "year": 2014
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "2db637f2ffc15d048bb49971e0b67e672b275c21", 
+      "title": "Source-side Dependency Tree Reordering Models with Subtree Movements and Constraints", 
+      "url": "https://www.semanticscholar.org/paper/2db637f2ffc15d048bb49971e0b67e672b275c21", 
+      "venue": "", 
+      "year": 2009
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "d0de83963ff145f65618dbbd79cd5de0a303bfd4", 
+      "title": "The Karlsruhe Institute for Technology Translation System for the ACL-WMT 2010", 
+      "url": "https://www.semanticscholar.org/paper/d0de83963ff145f65618dbbd79cd5de0a303bfd4", 
+      "venue": "", 
+      "year": 2010
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "12cc937343a65fa601dc35b408e5f8443ecc1da8", 
+      "title": "Pre-Translation for Neural Machine Translation", 
+      "url": "https://www.semanticscholar.org/paper/12cc937343a65fa601dc35b408e5f8443ecc1da8", 
+      "venue": "COLING", 
+      "year": 2016
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "feef7ea14013e9e93b9f1219795b3b1a78bb5a8f", 
+      "title": "The QT21/HimL Combined Machine Translation System", 
+      "url": "https://www.semanticscholar.org/paper/feef7ea14013e9e93b9f1219795b3b1a78bb5a8f", 
+      "venue": "WMT", 
+      "year": 2016
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "2d2016885efeb72b3f21c11c03f7ce27754b4ca4", 
+      "title": "The Karlsruhe Institute of Technology Translation Systems for the WMT 2013", 
+      "url": "https://www.semanticscholar.org/paper/2d2016885efeb72b3f21c11c03f7ce27754b4ca4", 
+      "venue": "WMT@ACL", 
+      "year": 2013
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "2831fd11221f1a9dfe3ed4521f9c02247bafe6f2", 
+      "title": "Continuous space language models using restricted Boltzmann machines", 
+      "url": "https://www.semanticscholar.org/paper/2831fd11221f1a9dfe3ed4521f9c02247bafe6f2", 
+      "venue": "IWSLT", 
+      "year": 2012
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "d40e4cafe0b508315347d0791c70ba60a367132b", 
+      "title": "Detailed Analysis of different Strategies for Phrase Table Adaptation in SMT", 
+      "url": "https://www.semanticscholar.org/paper/d40e4cafe0b508315347d0791c70ba60a367132b", 
+      "venue": "", 
+      "year": 2012
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "5b8603b177e2e4240710ac4e57e6d4cb28a7c3ab", 
+      "title": "EU-BRIDGE MT: Combined Machine Translation", 
+      "url": "https://www.semanticscholar.org/paper/5b8603b177e2e4240710ac4e57e6d4cb28a7c3ab", 
+      "venue": "WMT@ACL", 
+      "year": 2014
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "5cbee1074b7160fa8878678948510f4de871a730", 
+      "title": "An MT Error-Driven Discriminative Word Lexicon using Sentence Structure Features", 
+      "url": "https://www.semanticscholar.org/paper/5cbee1074b7160fa8878678948510f4de871a730", 
+      "venue": "WMT@ACL", 
+      "year": 2013
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "c42741062c203352379f5eea1aaaf86c6a89243e", 
+      "title": "CRF-based Disfluency Detection using Semantic Features for German to English Spoken Language Translation", 
+      "url": "https://www.semanticscholar.org/paper/c42741062c203352379f5eea1aaaf86c6a89243e", 
+      "venue": "", 
+      "year": 2013
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "4f59e0d96f7ac8a920bc6f2c1132b81c4a75e3c3", 
+      "title": "Wider Context by Using Bilingual Language Models in Machine Translation", 
+      "url": "https://www.semanticscholar.org/paper/4f59e0d96f7ac8a920bc6f2c1132b81c4a75e3c3", 
+      "venue": "", 
+      "year": 2011
+    }, 
+    {
+      "isInfluential": true, 
+      "paperId": "aa7c79728fad0f44cd91e56f1c5c5afaab156173", 
+      "title": "Syntax, Semantics and Structure in Statistical Translation", 
+      "url": "https://www.semanticscholar.org/paper/aa7c79728fad0f44cd91e56f1c5c5afaab156173", 
+      "venue": "", 
+      "year": 2013
+    }, 
+    {
+      "isInfluential": true, 
+      "paperId": "b8deacde8425a6df15d157ccb68e21311dc84cbe", 
+      "title": "Estimating Word Alignment Quality for SMT Reordering Tasks", 
+      "url": "https://www.semanticscholar.org/paper/b8deacde8425a6df15d157ccb68e21311dc84cbe", 
+      "venue": "WMT@ACL", 
+      "year": 2014
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "0efc899e0c665596cfff396e20c24a1bef37bfc2", 
+      "title": "Syntactic Based Machine Translation from English to Malayalam", 
+      "url": "https://www.semanticscholar.org/paper/0efc899e0c665596cfff396e20c24a1bef37bfc2", 
+      "venue": "2012 International Conference on Data Science & Engineering (ICDSE)", 
+      "year": 2012
+    }, 
+    {
+      "isInfluential": true, 
+      "paperId": "3417d3b9e06e065a62882ab7c7ea7b44b4a66534", 
+      "title": "A POS-Based Model for Long-Range Reorderings in SMT", 
+      "url": "https://www.semanticscholar.org/paper/3417d3b9e06e065a62882ab7c7ea7b44b4a66534", 
+      "venue": "", 
+      "year": 2009
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "2b64760bd33d3d385c1a3c43067abd847794d730", 
+      "title": "Extracting Pre-ordering Rules from Predicate-Argument Structures", 
+      "url": "https://www.semanticscholar.org/paper/2b64760bd33d3d385c1a3c43067abd847794d730", 
+      "venue": "IJCNLP", 
+      "year": 2011
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "f8c31e4eeee688f305e318d53d42a4ee8f6c37fb", 
+      "title": "Using Factored Word Representation in Neural Network Language Models", 
+      "url": "https://www.semanticscholar.org/paper/f8c31e4eeee688f305e318d53d42a4ee8f6c37fb", 
+      "venue": "WMT", 
+      "year": 2016
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "60c607a8a30a96079dd38a69263d432efd60f4df", 
+      "title": "Rapid Unsupervised Topic Adaptation \u2013 a Latent Semantic Approach", 
+      "url": "https://www.semanticscholar.org/paper/60c607a8a30a96079dd38a69263d432efd60f4df", 
+      "venue": "", 
+      "year": 2009
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "200e75aa79e358d40f8f397652fad68f22ca6e35", 
+      "title": "Machine Translation of Multi-party Meetings: Segmentation and Disfluency Removal Strategies", 
+      "url": "https://www.semanticscholar.org/paper/200e75aa79e358d40f8f397652fad68f22ca6e35", 
+      "venue": "", 
+      "year": 2015
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "7f4be89e2b5370b367adbb57646bb00bca17247e", 
+      "title": "Joint WMT Submission of the QUAERO Project", 
+      "url": "https://www.semanticscholar.org/paper/7f4be89e2b5370b367adbb57646bb00bca17247e", 
+      "venue": "", 
+      "year": 2011
+    }, 
+    {
+      "isInfluential": true, 
+      "paperId": "2adb5562fa8d83f853020405860a305dec490768", 
+      "title": "13th Conference of the European Chapter of the Association for Computational Linguistics", 
+      "url": "https://www.semanticscholar.org/paper/2adb5562fa8d83f853020405860a305dec490768", 
+      "venue": "", 
+      "year": 2012
+    }, 
+    {
+      "isInfluential": true, 
+      "paperId": "da407a88bf767dd237bddc6beb3eb8405aca7791", 
+      "title": "Clustered Word Classes for Preordering in Statistical Machine Translation", 
+      "url": "https://www.semanticscholar.org/paper/da407a88bf767dd237bddc6beb3eb8405aca7791", 
+      "venue": "", 
+      "year": 2012
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "a8e644175aa09a2fa8c83a8b64f049359e49657c", 
+      "title": "Quaero Speech-to-Text and Text Translation Evaluation Systems", 
+      "url": "https://www.semanticscholar.org/paper/a8e644175aa09a2fa8c83a8b64f049359e49657c", 
+      "venue": "High Performance Computing in Science and Engineering", 
+      "year": 2010
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "9c84a9c8cc4c5cc6c697e7f6649aea7c89660f88", 
+      "title": "The KIT translation systems for IWSLT 2012", 
+      "url": "https://www.semanticscholar.org/paper/9c84a9c8cc4c5cc6c697e7f6649aea7c89660f88", 
+      "venue": "IWSLT", 
+      "year": 2012
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "9dda3b1ec5088d1d2f88be09587ff9aae0dc9682", 
+      "title": "Letter N-Gram-based Input Encoding for Continuous Space Language Models", 
+      "url": "https://www.semanticscholar.org/paper/9dda3b1ec5088d1d2f88be09587ff9aae0dc9682", 
+      "venue": "", 
+      "year": 2013
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "34291c430d01a037bbe3b9a16972b174d1704d0e", 
+      "title": "Automatically Learning Source-side Reordering Rules for Large Scale Machine Translation", 
+      "url": "https://www.semanticscholar.org/paper/34291c430d01a037bbe3b9a16972b174d1704d0e", 
+      "venue": "COLING", 
+      "year": 2010
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "86cb049f77a5b33bdc9fe82a9631cadffdb4c057", 
+      "title": "EU-BRIDGE MT: Text Translation of Talks in the EU-BRIDGE Project", 
+      "url": "https://www.semanticscholar.org/paper/86cb049f77a5b33bdc9fe82a9631cadffdb4c057", 
+      "venue": "", 
+      "year": 2013
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "d77691ad3a33829d8e3f1452d8c7e4cd6bf54e1c", 
+      "title": "SMT: \\Reordering Word Problem\" and Solutions", 
+      "url": "https://www.semanticscholar.org/paper/d77691ad3a33829d8e3f1452d8c7e4cd6bf54e1c", 
+      "venue": "", 
+      "year": 2008
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "20c8b9e1b39edbf539aa255b843430dfac89c682", 
+      "title": "Joint WMT 2012 Submission of the QUAERO Project", 
+      "url": "https://www.semanticscholar.org/paper/20c8b9e1b39edbf539aa255b843430dfac89c682", 
+      "venue": "WMT@NAACL-HLT", 
+      "year": 2012
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "2af2a36a76d61429256709334bf3a700b5c5cd06", 
+      "title": "A Comparison of Syntactic Reordering Methods for English-German Machine Translation", 
+      "url": "https://www.semanticscholar.org/paper/2af2a36a76d61429256709334bf3a700b5c5cd06", 
+      "venue": "COLING", 
+      "year": 2012
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "0d2e8880d27ddfaf73f73f7999629cc8fb0779b3", 
+      "title": "The Karlsruhe Institute of Technology Translation Systems for the WMT 2015", 
+      "url": "https://www.semanticscholar.org/paper/0d2e8880d27ddfaf73f73f7999629cc8fb0779b3", 
+      "venue": "WMT@EMNLP", 
+      "year": 2015
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "a725d9a00f218e5e9f7b76f7da41cb0946944d35", 
+      "title": "Enriching Phrase-Based Statistical Machine Translation with POS Information", 
+      "url": "https://www.semanticscholar.org/paper/a725d9a00f218e5e9f7b76f7da41cb0946944d35", 
+      "venue": "RANLP Student Research Workshop", 
+      "year": 2011
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "5ad6e87f51dfd3b77633d7c3742cbced1e14cbdf", 
+      "title": "A Survey of Word Reordering in Statistical Machine Translation: Computational Models and Language Phenomena", 
+      "url": "https://www.semanticscholar.org/paper/5ad6e87f51dfd3b77633d7c3742cbced1e14cbdf", 
+      "venue": "Computational Linguistics", 
+      "year": 2016
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "42618c59e755eb726c341c8e7218156fd0ea7f56", 
+      "title": "The KIT-LIMSI Translation System for WMT 2015", 
+      "url": "https://www.semanticscholar.org/paper/42618c59e755eb726c341c8e7218156fd0ea7f56", 
+      "venue": "WMT@EMNLP", 
+      "year": 2015
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "8c9079606c013dfd5afaa61fd439a55e2b704bcc", 
+      "title": "The KIT English-French translation systems for IWSLT 2011", 
+      "url": "https://www.semanticscholar.org/paper/8c9079606c013dfd5afaa61fd439a55e2b704bcc", 
+      "venue": "IWSLT", 
+      "year": 2011
+    }, 
+    {
+      "isInfluential": true, 
+      "paperId": "0647c36888f307d7f3ab394db3e035acfe495989", 
+      "title": "Combining Word Reordering Methods on different Linguistic Abstraction Levels for Statistical Machine Translation", 
+      "url": "https://www.semanticscholar.org/paper/0647c36888f307d7f3ab394db3e035acfe495989", 
+      "venue": "SSST@NAACL-HLT", 
+      "year": 2013
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "b27060d804bd0d1dd37e04afd57f6716434b03c5", 
+      "title": "Tight Integration of Speech Disfluency Removal into SMT", 
+      "url": "https://www.semanticscholar.org/paper/b27060d804bd0d1dd37e04afd57f6716434b03c5", 
+      "venue": "EACL", 
+      "year": 2014
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "07d459e9d3aefdc729a344e0746cb31e8465f399", 
+      "title": "The Universit\u00e4t Karlsruhe Translation System for the EACL-WMT 2009", 
+      "url": "https://www.semanticscholar.org/paper/07d459e9d3aefdc729a344e0746cb31e8465f399", 
+      "venue": "", 
+      "year": 2009
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "7ec8bc90ebf2a2228cc5818ccf06dce99d54b5b2", 
+      "title": "Domain Adaptation in Statistical Machine Translation using Factored Translation Models", 
+      "url": "https://www.semanticscholar.org/paper/7ec8bc90ebf2a2228cc5818ccf06dce99d54b5b2", 
+      "venue": "", 
+      "year": 2010
+    }, 
+    {
+      "isInfluential": true, 
+      "paperId": "9f50fc7a186df8fc27b1f609e921d2d93c8093d0", 
+      "title": "Text Harmonization Strategies for Phrase-Based Statistical Machine Translation", 
+      "url": "https://www.semanticscholar.org/paper/9f50fc7a186df8fc27b1f609e921d2d93c8093d0", 
+      "venue": "", 
+      "year": 2012
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "003d5d53e36074a595783542c80bed0fece734be", 
+      "title": "The Karlsruhe Institute of Technology Translation Systems for the WMT 2014", 
+      "url": "https://www.semanticscholar.org/paper/003d5d53e36074a595783542c80bed0fece734be", 
+      "venue": "WMT@ACL", 
+      "year": 2014
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "9bde1381d03bfe6f2b0f337f778130f661154e3c", 
+      "title": "Iterative reordering and word alignment for statistical MT", 
+      "url": "https://www.semanticscholar.org/paper/9bde1381d03bfe6f2b0f337f778130f661154e3c", 
+      "venue": "NODALIDA", 
+      "year": 2011
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "9fa2e1d7599fa8ff9ef45caf51893ebb9b0d07c3", 
+      "title": "A Rule-Based Source-Side Reordering on Phrase Structure Subtrees", 
+      "url": "https://www.semanticscholar.org/paper/9fa2e1d7599fa8ff9ef45caf51893ebb9b0d07c3", 
+      "venue": "2011 International Conference on Asian Language Processing", 
+      "year": 2011
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "82c7d4ffdfe4388e94bcc558328ef0babbc72580", 
+      "title": "The KIT-LIMSI Translation System for WMT 2014", 
+      "url": "https://www.semanticscholar.org/paper/82c7d4ffdfe4388e94bcc558328ef0babbc72580", 
+      "venue": "WMT@ACL", 
+      "year": 2014
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "1645e607993d9cc28c7ffb16ee219d29ad2e8e31", 
+      "title": "Combined Spoken Language Translation", 
+      "url": "https://www.semanticscholar.org/paper/1645e607993d9cc28c7ffb16ee219d29ad2e8e31", 
+      "venue": "", 
+      "year": 2014
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "d85d658d0ab0a3721afdd13b1aaf3ccff8d25950", 
+      "title": "Simultaneous machine translation of german lectures into english: Investigating research challenges for the future", 
+      "url": "https://www.semanticscholar.org/paper/d85d658d0ab0a3721afdd13b1aaf3ccff8d25950", 
+      "venue": "SLT", 
+      "year": 2008
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "56836abd722cbaba3a97c5df16fd4d39cae13d52", 
+      "title": "Lexical Translation Model Using a Deep Neural Network Architecture", 
+      "url": "https://www.semanticscholar.org/paper/56836abd722cbaba3a97c5df16fd4d39cae13d52", 
+      "venue": "ArXiv", 
+      "year": 2015
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "9c45c544aa594fcad38e5a8dbd5ccf617d9359b9", 
+      "title": "Post-Ordering by Parsing with ITG for Japanese-English Statistical Machine Translation", 
+      "url": "https://www.semanticscholar.org/paper/9c45c544aa594fcad38e5a8dbd5ccf617d9359b9", 
+      "venue": "ACM Trans. Asian Lang. Inf. Process.", 
+      "year": 2013
+    }, 
+    {
+      "isInfluential": true, 
+      "paperId": "014320e889512b8e1853e624ae3269cfc08600fa", 
+      "title": "Analyzing the Potential of Source Sentence Reordering in Statistical Machine Translation", 
+      "url": "https://www.semanticscholar.org/paper/014320e889512b8e1853e624ae3269cfc08600fa", 
+      "venue": "", 
+      "year": 2013
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "113b9dbac86d8cd088f4c741401d25c62374ec27", 
+      "title": "The KIT translation system for IWSLT 2010", 
+      "url": "https://www.semanticscholar.org/paper/113b9dbac86d8cd088f4c741401d25c62374ec27", 
+      "venue": "IWSLT", 
+      "year": 2010
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "4efbf218e0151f4e64860af51f23fee5a3fd7af4", 
+      "title": "Simultaneous German-English lecture translation", 
+      "url": "https://www.semanticscholar.org/paper/4efbf218e0151f4e64860af51f23fee5a3fd7af4", 
+      "venue": "IWSLT", 
+      "year": 2008
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "545301209dab54b377ef639c1fc0743639775281", 
+      "title": "Advances on spoken language translation in the Quaero program", 
+      "url": "https://www.semanticscholar.org/paper/545301209dab54b377ef639c1fc0743639775281", 
+      "venue": "IWSLT", 
+      "year": 2011
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "07efe6e165e3668fd449baea6b44c54e3fa9de11", 
+      "title": "The Karlsruhe Institute of Technology Translation Systems for the WMT 2012", 
+      "url": "https://www.semanticscholar.org/paper/07efe6e165e3668fd449baea6b44c54e3fa9de11", 
+      "venue": "WMT@NAACL-HLT", 
+      "year": 2012
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "18546138cc81939664e5615cda732ab3f06462ce", 
+      "title": "A real-world system for simultaneous translation of German lectures", 
+      "url": "https://www.semanticscholar.org/paper/18546138cc81939664e5615cda732ab3f06462ce", 
+      "venue": "INTERSPEECH", 
+      "year": 2013
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "7dad880d53b75bd51fa7cd0f13a6739aade90597", 
+      "title": "Coupling Statistical Machine Translation with Rule-based Transfer and Generation", 
+      "url": "https://www.semanticscholar.org/paper/7dad880d53b75bd51fa7cd0f13a6739aade90597", 
+      "venue": "", 
+      "year": 2010
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "ed9c18191a8aeaa0eb1d9c458b4d3fbb2e909f62", 
+      "title": "The application of source language information in Chinese-English statistical machine translation", 
+      "url": "https://www.semanticscholar.org/paper/ed9c18191a8aeaa0eb1d9c458b4d3fbb2e909f62", 
+      "venue": "", 
+      "year": 2013
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "ed598e05311945362f86b08902f3829d26eda57a", 
+      "title": "Extracting Pre-ordering Rules from Chunk-based Dependency Trees for Japanese-to-English Translation", 
+      "url": "https://www.semanticscholar.org/paper/ed598e05311945362f86b08902f3829d26eda57a", 
+      "venue": "", 
+      "year": 2011
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "445697bb205b0dc981bccb77397246d3bd6ad0bc", 
+      "title": "Stripping Adjectives: Integration Techniques for Selective Stemming in SMT Systems", 
+      "url": "https://www.semanticscholar.org/paper/445697bb205b0dc981bccb77397246d3bd6ad0bc", 
+      "venue": "", 
+      "year": 2015
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "49f4f627f0afd84401d7133fc31a5a40f886a9eb", 
+      "title": "Machine translation: statistical approach with additional linguistic knowledge", 
+      "url": "https://www.semanticscholar.org/paper/49f4f627f0afd84401d7133fc31a5a40f886a9eb", 
+      "venue": "", 
+      "year": 2009
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "3bb3bc5f7e7ed9385eb8ce51a8ea38beb27ba120", 
+      "title": "Combined Spoken Language Translation", 
+      "url": "https://www.semanticscholar.org/paper/3bb3bc5f7e7ed9385eb8ce51a8ea38beb27ba120", 
+      "venue": "", 
+      "year": 2014
+    }
+  ], 
+  "doi": null, 
+  "influentialCitationCount": 9, 
+  "paperId": "000e28f063dba315efa5d2a0e6ec61718e36573e", 
+  "references": [
+    {
+      "isInfluential": false, 
+      "paperId": "39d9c4f502c6129bcd6a07da9b48ed728d938329", 
+      "title": "A Comparative Study on Reordering Constraints in Statistical Machine Translation", 
+      "url": "https://www.semanticscholar.org/paper/39d9c4f502c6129bcd6a07da9b48ed728d938329", 
+      "venue": "ACL", 
+      "year": 2003
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "a48705ed628587b32b71b72f397e32311449a2ed", 
+      "title": "SMT decoder dissected: word reordering", 
+      "url": "https://www.semanticscholar.org/paper/a48705ed628587b32b71b72f397e32311449a2ed", 
+      "venue": "International Conference on Natural Language Processing and Knowledge Engineering, 2003. Proceedings. 2003", 
+      "year": 2003
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "0fd1077c23062768ecaa5292bdbba4100585ac81", 
+      "title": "A Localized Prediction Model for Statistical Machine Translation", 
+      "url": "https://www.semanticscholar.org/paper/0fd1077c23062768ecaa5292bdbba4100585ac81", 
+      "venue": "ACL", 
+      "year": 2005
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "1c010226f279ab6c5bba9e88efe04948fde915b2", 
+      "title": "Chunk-Level Reordering of Source Language Sentences with Automatically Learned Rules for Statistical Machine Translation", 
+      "url": "https://www.semanticscholar.org/paper/1c010226f279ab6c5bba9e88efe04948fde915b2", 
+      "venue": "", 
+      "year": 2007
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "90fdbfde6730dcc89c321c0bdd296bedb64eae03", 
+      "title": "Reordering rules for phrase-based statistical machine translation", 
+      "url": "https://www.semanticscholar.org/paper/90fdbfde6730dcc89c321c0bdd296bedb64eae03", 
+      "venue": "IWSLT", 
+      "year": 2006
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "0c232e4695abd4227e60558a889c50e59beaf9bb", 
+      "title": "Transformation-Based Error-Driven Learning and Natural Language Processing: A Case Study in Part-of-Speech Tagging", 
+      "url": "https://www.semanticscholar.org/paper/0c232e4695abd4227e60558a889c50e59beaf9bb", 
+      "venue": "Computational Linguistics", 
+      "year": 1995
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "bd0bab6fc8cd43c0ce170ad2f4cb34181b31277d", 
+      "title": "Probabilistic Part-of-Speech Tagging Using Decision Trees", 
+      "url": "https://www.semanticscholar.org/paper/bd0bab6fc8cd43c0ce170ad2f4cb34181b31277d", 
+      "venue": "", 
+      "year": 1994
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "7fdf4e6a43ee4b36e91f4d7b3d4c4bf2b2c89d83", 
+      "title": "The Mathematics of Statistical Machine Translation: Parameter Estimation", 
+      "url": "https://www.semanticscholar.org/paper/7fdf4e6a43ee4b36e91f4d7b3d4c4bf2b2c89d83", 
+      "venue": "Computational Linguistics", 
+      "year": 1993
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "3b43b6a8db52a1e61d9ebdfc7bfbd893a6386495", 
+      "title": "A Smorgasbord of Features for Statistical Machine Translation", 
+      "url": "https://www.semanticscholar.org/paper/3b43b6a8db52a1e61d9ebdfc7bfbd893a6386495", 
+      "venue": "HLT-NAACL", 
+      "year": 2004
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "085d8b9ff056f2e17bca45a7459326f5525bcc64", 
+      "title": "A Polynomial-Time Algorithm for Statistical Machine Translation", 
+      "url": "https://www.semanticscholar.org/paper/085d8b9ff056f2e17bca45a7459326f5525bcc64", 
+      "venue": "ACL", 
+      "year": 1996
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "11cd7fbc0ea8605ea498ecfc82b3ff6a44c027e9", 
+      "title": "A Syntax-based Statistical Translation Model", 
+      "url": "https://www.semanticscholar.org/paper/11cd7fbc0ea8605ea498ecfc82b3ff6a44c027e9", 
+      "venue": "ACL", 
+      "year": 2001
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "c894ba6b05b6df75cf871f371bfcdea79c9e3bc9", 
+      "title": "Reordering Experiments for n-Gram-Based SMT", 
+      "url": "https://www.semanticscholar.org/paper/c894ba6b05b6df75cf871f371bfcdea79c9e3bc9", 
+      "venue": "SLT", 
+      "year": 2006
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "198831b811624a86a88045bfc6c4006da86e1f79", 
+      "title": "Distortion Models for Statistical Machine Translation", 
+      "url": "https://www.semanticscholar.org/paper/198831b811624a86a88045bfc6c4006da86e1f79", 
+      "venue": "ACL", 
+      "year": 2006
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "13b6eeb28328252a35cdcbe3ab8d09d2a9caf99d", 
+      "title": "Stochastic Inversion Transduction Grammars and Bilingual Parsing of Parallel Corpora", 
+      "url": "https://www.semanticscholar.org/paper/13b6eeb28328252a35cdcbe3ab8d09d2a9caf99d", 
+      "venue": "Computational Linguistics", 
+      "year": 1997
+    }, 
+    {
+      "isInfluential": true, 
+      "paperId": "048c1ea7316dcc3b56f4874a3a755b4da318a00a", 
+      "title": "POS-based Word Reorderings for Statistical Machine Translation", 
+      "url": "https://www.semanticscholar.org/paper/048c1ea7316dcc3b56f4874a3a755b4da318a00a", 
+      "venue": "", 
+      "year": 2006
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "6b4f8328b481751451b99a09ccd1926057d1ea2c", 
+      "title": "Fast decoding for statistical machine translation", 
+      "url": "https://www.semanticscholar.org/paper/6b4f8328b481751451b99a09ccd1926057d1ea2c", 
+      "venue": "ICSLP", 
+      "year": 1998
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "11aedb8f95a007363017dae311fc525f67bd7876", 
+      "title": "Minimum Error Rate Training in Statistical Machine Translation", 
+      "url": "https://www.semanticscholar.org/paper/11aedb8f95a007363017dae311fc525f67bd7876", 
+      "venue": "ACL", 
+      "year": 2003
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "71d2b80df77483613f57fa7206ad21191c191dbf", 
+      "title": "Discriminative Reranking for Machine Translation", 
+      "url": "https://www.semanticscholar.org/paper/71d2b80df77483613f57fa7206ad21191c191dbf", 
+      "venue": "HLT-NAACL", 
+      "year": 2004
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "304997b779307404655f548067e1510573360ba9", 
+      "title": "The CMU Statistical Machine Translation System", 
+      "url": "https://www.semanticscholar.org/paper/304997b779307404655f548067e1510573360ba9", 
+      "venue": "", 
+      "year": 2003
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "5dd96dbc3e3f12a05ee5a515f8306dad8c0c8a54", 
+      "title": "Edinburgh system description for the 2005 IWSLT speech translation evaluation", 
+      "url": "https://www.semanticscholar.org/paper/5dd96dbc3e3f12a05ee5a515f8306dad8c0c8a54", 
+      "venue": "IWSLT", 
+      "year": 2005
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "5aef483ebfd19b0cebe6f83e342081f0657336f9", 
+      "title": "HMM-Based Word Alignment in Statistical Translation", 
+      "url": "https://www.semanticscholar.org/paper/5aef483ebfd19b0cebe6f83e342081f0657336f9", 
+      "venue": "COLING", 
+      "year": 1996
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "4af182338ee63754d4569c26cb6a5c3bbdd8cf2a", 
+      "title": "A Maximum Entropy Approach to Natural Language Processing", 
+      "url": "https://www.semanticscholar.org/paper/4af182338ee63754d4569c26cb6a5c3bbdd8cf2a", 
+      "venue": "Computational Linguistics", 
+      "year": 1996
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "c9214ebe91454e6369720136ab7dd990d52a07d4", 
+      "title": "Improved Statistical Alignment Models", 
+      "url": "https://www.semanticscholar.org/paper/c9214ebe91454e6369720136ab7dd990d52a07d4", 
+      "venue": "ACL", 
+      "year": 2000
+    }
+  ], 
+  "title": "Word Reordering in Statistical Machine Translation with a POS-Based Distortion Model", 
+  "url": "https://www.semanticscholar.org/paper/000e28f063dba315efa5d2a0e6ec61718e36573e", 
+  "venue": "", 
+  "year": 2007
+}

@@ -1,0 +1,1342 @@
+{
+  "authors": [
+    {
+      "authorId": "2698777", 
+      "name": "Dario Amodei", 
+      "url": "https://www.semanticscholar.org/author/2698777"
+    }, 
+    {
+      "authorId": "3384601", 
+      "name": "Chris Olah", 
+      "url": "https://www.semanticscholar.org/author/3384601"
+    }, 
+    {
+      "authorId": "19093520", 
+      "name": "Jacob Steinhardt", 
+      "url": "https://www.semanticscholar.org/author/19093520"
+    }, 
+    {
+      "authorId": "1797287", 
+      "name": "Paul Christiano", 
+      "url": "https://www.semanticscholar.org/author/1797287"
+    }, 
+    {
+      "authorId": "1874218", 
+      "name": "John Schulman", 
+      "url": "https://www.semanticscholar.org/author/1874218"
+    }, 
+    {
+      "authorId": "3422963", 
+      "name": "Dan Man\u00e9", 
+      "url": "https://www.semanticscholar.org/author/3422963"
+    }
+  ], 
+  "citationVelocity": 37, 
+  "citations": [
+    {
+      "isInfluential": false, 
+      "paperId": "dc36a9454691c95a8e7c17f1529cadde125805a3", 
+      "title": "Artificial Intelligence Safety and Cybersecurity: a Timeline of AI Failures", 
+      "url": "https://www.semanticscholar.org/paper/dc36a9454691c95a8e7c17f1529cadde125805a3", 
+      "venue": "ArXiv", 
+      "year": 2016
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "f1d49cd7244347cd1d7117fb931e580bf1789416", 
+      "title": "Blocking Transferability of Adversarial Examples in Black-Box Learning Systems", 
+      "url": "https://www.semanticscholar.org/paper/f1d49cd7244347cd1d7117fb931e580bf1789416", 
+      "venue": "ArXiv", 
+      "year": 2017
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "a9554c43a6e102bd58ffc920bdc49a04ad9ff691", 
+      "title": "Google's Cloud Vision API Is Not Robust To Noise", 
+      "url": "https://www.semanticscholar.org/paper/a9554c43a6e102bd58ffc920bdc49a04ad9ff691", 
+      "venue": "ArXiv", 
+      "year": 2017
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "4bc3f1e9961a1bb68f1be7c1be5c64db894cc728", 
+      "title": "Stoic Ethics for Artificial Agents", 
+      "url": "https://www.semanticscholar.org/paper/4bc3f1e9961a1bb68f1be7c1be5c64db894cc728", 
+      "venue": "Canadian Conference on AI", 
+      "year": 2017
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "9f92a0ccc8b039a83bd5ba5482facb5829c712aa", 
+      "title": "Maximum Resilience of Artificial Neural Networks", 
+      "url": "https://www.semanticscholar.org/paper/9f92a0ccc8b039a83bd5ba5482facb5829c712aa", 
+      "venue": "ArXiv", 
+      "year": 2017
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "f0ddeaa76c6213c09a78458693373ef255d58766", 
+      "title": "Safe Model-based Reinforcement Learning with Stability Guarantees", 
+      "url": "https://www.semanticscholar.org/paper/f0ddeaa76c6213c09a78458693373ef255d58766", 
+      "venue": "ArXiv", 
+      "year": 2017
+    }, 
+    {
+      "isInfluential": true, 
+      "paperId": "5eee35513ad3d3c94e2eea1ed8569ebe03fb1545", 
+      "title": "Principled Detection of Out-of-Distribution Examples in Neural Networks", 
+      "url": "https://www.semanticscholar.org/paper/5eee35513ad3d3c94e2eea1ed8569ebe03fb1545", 
+      "venue": "ArXiv", 
+      "year": 2017
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "20d78c2f8ebf10fde9ee3ac5b94de7582ad08eab", 
+      "title": "Repeated Inverse Reinforcement Learning", 
+      "url": "https://www.semanticscholar.org/paper/20d78c2f8ebf10fde9ee3ac5b94de7582ad08eab", 
+      "venue": "ArXiv", 
+      "year": 2017
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "de59f54fa4986736d95976162a72a960f0eca7ee", 
+      "title": "The Intelligent Management of Machine Learning", 
+      "url": "https://www.semanticscholar.org/paper/de59f54fa4986736d95976162a72a960f0eca7ee", 
+      "venue": "", 
+      "year": 2016
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "8fbf1d44e78d39b07e289c119f75aa0d226cdf84", 
+      "title": "Trial without Error: Towards Safe Reinforcement Learning via Human Intervention", 
+      "url": "https://www.semanticscholar.org/paper/8fbf1d44e78d39b07e289c119f75aa0d226cdf84", 
+      "venue": "ArXiv", 
+      "year": 2017
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "560ff280d54194c62ca6a942a38c8ba148dcc123", 
+      "title": "Deep Reinforcement Learning: An Overview", 
+      "url": "https://www.semanticscholar.org/paper/560ff280d54194c62ca6a942a38c8ba148dcc123", 
+      "venue": "ArXiv", 
+      "year": 2017
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "63453a435a18dbaae64799ca20a4f0ef31e06a91", 
+      "title": "Towards Verified Artificial Intelligence", 
+      "url": "https://www.semanticscholar.org/paper/63453a435a18dbaae64799ca20a4f0ef31e06a91", 
+      "venue": "ArXiv", 
+      "year": 2016
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "ee48df2adefe61db307918fa7510b1f67a72d317", 
+      "title": "Safety-Aware Algorithms for Adversarial Contextual Bandit", 
+      "url": "https://www.semanticscholar.org/paper/ee48df2adefe61db307918fa7510b1f67a72d317", 
+      "venue": "ICML", 
+      "year": 2017
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "488b8f2f963bded15efc2a247351bf8ee29be30e", 
+      "title": "Strongly-Typed Agents are Guaranteed to Interact Safely", 
+      "url": "https://www.semanticscholar.org/paper/488b8f2f963bded15efc2a247351bf8ee29be30e", 
+      "venue": "ICML", 
+      "year": 2017
+    }, 
+    {
+      "isInfluential": true, 
+      "paperId": "dc80b9adae9f494ad9d4639fafd53e582ed06e63", 
+      "title": "Robust Computer Algebra, Theorem Proving, and Oracle AI", 
+      "url": "https://www.semanticscholar.org/paper/dc80b9adae9f494ad9d4639fafd53e582ed06e63", 
+      "venue": "", 
+      "year": 2017
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "a901c7329260632a40f8152b5f557dc833b19153", 
+      "title": "I in an other\u2019s eye", 
+      "url": "https://www.semanticscholar.org/paper/a901c7329260632a40f8152b5f557dc833b19153", 
+      "venue": "AI & SOCIETY", 
+      "year": 2017
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "b924792869b704d24acaecb14c5354dd64b02302", 
+      "title": "Pragmatic-Pedagogic Value Alignment", 
+      "url": "https://www.semanticscholar.org/paper/b924792869b704d24acaecb14c5354dd64b02302", 
+      "venue": "ArXiv", 
+      "year": 2017
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "988ae5e66cc727fb33d09e0a9860a537c50119e4", 
+      "title": "Atacking Automatic Video Analysis Algorithms: A Case Study of Google Cloud Video Intelligence API", 
+      "url": "https://www.semanticscholar.org/paper/988ae5e66cc727fb33d09e0a9860a537c50119e4", 
+      "venue": "", 
+      "year": 2017
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "c37711212d217df50ad3490e67d8b36c17168877", 
+      "title": "Dropout Inference in Bayesian Neural Networks with Alpha-divergences", 
+      "url": "https://www.semanticscholar.org/paper/c37711212d217df50ad3490e67d8b36c17168877", 
+      "venue": "ICML", 
+      "year": 2017
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "6a4d44b3d5b91dbacee602e62d4e57cd6ea3d4b9", 
+      "title": "On the promotion of safe and socially beneficial artificial intelligence", 
+      "url": "https://www.semanticscholar.org/paper/6a4d44b3d5b91dbacee602e62d4e57cd6ea3d4b9", 
+      "venue": "AI & SOCIETY", 
+      "year": 2016
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "0ec724a5a8837e36522f1aba890ddebc347180eb", 
+      "title": "Deceiving Google's Cloud Video Intelligence API Built for Summarizing Videos", 
+      "url": "https://www.semanticscholar.org/paper/0ec724a5a8837e36522f1aba890ddebc347180eb", 
+      "venue": "ArXiv", 
+      "year": 2017
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "ebab687cd1be7d25392c11f89fce6a63bef7219d", 
+      "title": "Towards the Science of Security and Privacy in Machine Learning", 
+      "url": "https://www.semanticscholar.org/paper/ebab687cd1be7d25392c11f89fce6a63bef7219d", 
+      "venue": "ArXiv", 
+      "year": 2016
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "37dcbfee827203da24bf3c047d343fe07df2bbed", 
+      "title": "Reconciliation between factions focused on near-term and long-term artificial intelligence", 
+      "url": "https://www.semanticscholar.org/paper/37dcbfee827203da24bf3c047d343fe07df2bbed", 
+      "venue": "AI & SOCIETY", 
+      "year": 2017
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "0b4ab3171cb1d22a2f91e53796c49bbaa833f478", 
+      "title": "A Baseline for Detecting Misclassified and Out-of-Distribution Examples in Neural Networks", 
+      "url": "https://www.semanticscholar.org/paper/0b4ab3171cb1d22a2f91e53796c49bbaa833f478", 
+      "venue": "ArXiv", 
+      "year": 2016
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "b0c820f9d7fa4d8c56a7887548834b7ba65ddfa5", 
+      "title": "Guidelines for Artificial Intelligence Containment", 
+      "url": "https://www.semanticscholar.org/paper/b0c820f9d7fa4d8c56a7887548834b7ba65ddfa5", 
+      "venue": "ArXiv", 
+      "year": 2017
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "489942b06c36fa3fa20bdb6edee214cf5e9ff140", 
+      "title": "A Comprehensive Technological Survey on Dependable Self-Managing CPS: The Decade of Researches on Correctness and Dependability", 
+      "url": "https://www.semanticscholar.org/paper/489942b06c36fa3fa20bdb6edee214cf5e9ff140", 
+      "venue": "", 
+      "year": 2017
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "8d816936ad7aebb12b52c5d6e5347c148bd8a072", 
+      "title": "Say the Right Thing Right: Ethics Issues in Natural Language Generation Systems", 
+      "url": "https://www.semanticscholar.org/paper/8d816936ad7aebb12b52c5d6e5347c148bd8a072", 
+      "venue": "", 
+      "year": 2017
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "14726825de6b438920bd2f021a5e8b7323046f00", 
+      "title": "Generalizing Skills with Semi-Supervised Reinforcement Learning", 
+      "url": "https://www.semanticscholar.org/paper/14726825de6b438920bd2f021a5e8b7323046f00", 
+      "venue": "ArXiv", 
+      "year": 2016
+    }, 
+    {
+      "isInfluential": true, 
+      "paperId": "7ac7b6dbcf5107c7ad0ce29161f60c2834a06795", 
+      "title": "Alignment for Advanced Machine Learning Systems", 
+      "url": "https://www.semanticscholar.org/paper/7ac7b6dbcf5107c7ad0ce29161f60c2834a06795", 
+      "venue": "", 
+      "year": 2016
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "5c39e37022661f81f79e481240ed9b175dec6513", 
+      "title": "A Roadmap for a Rigorous Science of Interpretability", 
+      "url": "https://www.semanticscholar.org/paper/5c39e37022661f81f79e481240ed9b175dec6513", 
+      "venue": "ArXiv", 
+      "year": 2017
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "b5f4d4372f74de9d50cdaba3df3e03ad3d243ef4", 
+      "title": "Safety in AI-HRI: Challenges Complementing User Experience Quality", 
+      "url": "https://www.semanticscholar.org/paper/b5f4d4372f74de9d50cdaba3df3e03ad3d243ef4", 
+      "venue": "", 
+      "year": 2016
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "1541914a252b200ba2f3acb4f0f7bf687aad7c2d", 
+      "title": "Design Automation of Cyber-Physical Systems: Challenges, Advances, and Opportunities", 
+      "url": "https://www.semanticscholar.org/paper/1541914a252b200ba2f3acb4f0f7bf687aad7c2d", 
+      "venue": "", 
+      "year": 2016
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "e4a6673ef658221fef360e6051631d65e9547b62", 
+      "title": "Enter the Matrix: A Virtual World Approach to Safely Interruptable Autonomous Systems", 
+      "url": "https://www.semanticscholar.org/paper/e4a6673ef658221fef360e6051631d65e9547b62", 
+      "venue": "ArXiv", 
+      "year": 2017
+    }, 
+    {
+      "isInfluential": true, 
+      "paperId": "9a5a46b81360db050cf3dea55af1dd68b7a61b5a", 
+      "title": "Reinforcement Learning With Temporal Logic Rewards", 
+      "url": "https://www.semanticscholar.org/paper/9a5a46b81360db050cf3dea55af1dd68b7a61b5a", 
+      "venue": "ArXiv", 
+      "year": 2016
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "0c43553508adc9278622e750cca1910dceb7b033", 
+      "title": "Probabilistically safe policy transfer", 
+      "url": "https://www.semanticscholar.org/paper/0c43553508adc9278622e750cca1910dceb7b033", 
+      "venue": "2017 IEEE International Conference on Robotics and Automation (ICRA)", 
+      "year": 2017
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "fb4f585bc5066fd743532ba59e257046c4b4f23a", 
+      "title": "Moving Target Defense: A Symbiotic Framework for AI & Security", 
+      "url": "https://www.semanticscholar.org/paper/fb4f585bc5066fd743532ba59e257046c4b4f23a", 
+      "venue": "AAMAS", 
+      "year": 2017
+    }
+  ], 
+  "doi": null, 
+  "influentialCitationCount": 4, 
+  "paperId": "229b10fc077ca6db3cfb3ce11169d17fdf3b321d", 
+  "references": [
+    {
+      "isInfluential": false, 
+      "paperId": "6f181bd7cba13689efaf10aafcf50fae96aef83a", 
+      "title": "Learning Representations for Counterfactual Inference", 
+      "url": "https://www.semanticscholar.org/paper/6f181bd7cba13689efaf10aafcf50fae96aef83a", 
+      "venue": "ICML", 
+      "year": 2016
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "08ae74a8967f7439a3df8733e268caa6294b7e5b", 
+      "title": "Self-taught learning: transfer learning from unlabeled data", 
+      "url": "https://www.semanticscholar.org/paper/08ae74a8967f7439a3df8733e268caa6294b7e5b", 
+      "venue": "ICML", 
+      "year": 2007
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "7e2c9bf8b89c3788c48d4c64d9885b19cae697db", 
+      "title": "A Formal Theory of Inductive Inference. Part II", 
+      "url": "https://www.semanticscholar.org/paper/7e2c9bf8b89c3788c48d4c64d9885b19cae697db", 
+      "venue": "Information and Control", 
+      "year": 1964
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "14fed18d838bf6b89d98837837ff314e61ab7c60", 
+      "title": "Deep Learning with Differential Privacy", 
+      "url": "https://www.semanticscholar.org/paper/14fed18d838bf6b89d98837837ff314e61ab7c60", 
+      "venue": "ACM Conference on Computer and Communications Security", 
+      "year": 2016
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "ddaac13419d4f4b3561b2569a479f09ab392495e", 
+      "title": "Change-Point Detection in Time-Series Data by Direct Density-Ratio Estimation", 
+      "url": "https://www.semanticscholar.org/paper/ddaac13419d4f4b3561b2569a479f09ab392495e", 
+      "venue": "SDM", 
+      "year": 2009
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "4614650c3bb3e835c80612d3bca9586f81db95a3", 
+      "title": "Tagging English Text with a Probabilistic Model", 
+      "url": "https://www.semanticscholar.org/paper/4614650c3bb3e835c80612d3bca9586f81db95a3", 
+      "venue": "Computational Linguistics", 
+      "year": 1994
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "d01e3414ca706eda917576d947ece811b5cbcdde", 
+      "title": "Empowerment - an Introduction", 
+      "url": "https://www.semanticscholar.org/paper/d01e3414ca706eda917576d947ece811b5cbcdde", 
+      "venue": "ArXiv", 
+      "year": 2013
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "6de2b1058c5b717878cce4e7e50d3a372cc4aaa6", 
+      "title": "Generative Adversarial Nets", 
+      "url": "https://www.semanticscholar.org/paper/6de2b1058c5b717878cce4e7e50d3a372cc4aaa6", 
+      "venue": "NIPS", 
+      "year": 2014
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "7a1a3efb66b15f0daa8ebbd0d8072c4188402bd2", 
+      "title": "Unsupervised Supervised Learning II: Margin-Based Classification without Labels", 
+      "url": "https://www.semanticscholar.org/paper/7a1a3efb66b15f0daa8ebbd0d8072c4188402bd2", 
+      "venue": "AISTATS", 
+      "year": 2011
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "31c38cecb046247467f35cb18dff1676e67e3249", 
+      "title": "Parametric Bounded L\u00f6b's Theorem and Robust Cooperation of Bounded Agents", 
+      "url": "https://www.semanticscholar.org/paper/31c38cecb046247467f35cb18dff1676e67e3249", 
+      "venue": "ArXiv", 
+      "year": 2016
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "01640272584e8afd221cefce9136ec65cdf657a4", 
+      "title": "Unsupervised Supervised Learning I: Estimating Classification and Regression Errors without Labels", 
+      "url": "https://www.semanticscholar.org/paper/01640272584e8afd221cefce9136ec65cdf657a4", 
+      "venue": "Journal of Machine Learning Research", 
+      "year": 2010
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "31bfe42e77a572bd83c0529e0f03bc3dc8af52c2", 
+      "title": "Learning the Preferences of Ignorant, Inconsistent Agents", 
+      "url": "https://www.semanticscholar.org/paper/31bfe42e77a572bd83c0529e0f03bc3dc8af52c2", 
+      "venue": "AAAI", 
+      "year": 2016
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "38502c84f76aaebc436317fb1ec086c66b158d40", 
+      "title": "Deep neural networks are easily fooled: High confidence predictions for unrecognizable images", 
+      "url": "https://www.semanticscholar.org/paper/38502c84f76aaebc436317fb1ec086c66b158d40", 
+      "venue": "2015 IEEE Conference on Computer Vision and Pattern Recognition (CVPR)", 
+      "year": 2015
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "1e511a36cd6c793189c544a6f935958a2d98a737", 
+      "title": "Unbiased look at dataset bias", 
+      "url": "https://www.semanticscholar.org/paper/1e511a36cd6c793189c544a6f935958a2d98a737", 
+      "venue": "CVPR", 
+      "year": 2011
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "038afe82cc61215e9087e572d8aab9663c1bdb0f", 
+      "title": "Analyzing the Errors of Unsupervised Learning", 
+      "url": "https://www.semanticscholar.org/paper/038afe82cc61215e9087e572d8aab9663c1bdb0f", 
+      "venue": "ACL", 
+      "year": 2008
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "d299609934ee40a918f0349bc0432eecb365f7cc", 
+      "title": "Algorithms for Inverse Reinforcement Learning", 
+      "url": "https://www.semanticscholar.org/paper/d299609934ee40a918f0349bc0432eecb365f7cc", 
+      "venue": "ICML", 
+      "year": 2000
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "50f49bd79bf6715ec66da63629cf1e04108dc1f2", 
+      "title": "Differential Privacy and Machine Learning: a Survey and Review", 
+      "url": "https://www.semanticscholar.org/paper/50f49bd79bf6715ec66da63629cf1e04108dc1f2", 
+      "venue": "ArXiv", 
+      "year": 2014
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "35734e8724559fb0d494e5cba6a28ad7a3d5dd4d", 
+      "title": "Explaining and Harnessing Adversarial Examples", 
+      "url": "https://www.semanticscholar.org/paper/35734e8724559fb0d494e5cba6a28ad7a3d5dd4d", 
+      "venue": "ArXiv", 
+      "year": 2014
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "18b3c33e17628799b2c4c65877c44fcd653f2ee3", 
+      "title": "Domain Adaptation with Coupled Subspaces", 
+      "url": "https://www.semanticscholar.org/paper/18b3c33e17628799b2c4c65877c44fcd653f2ee3", 
+      "venue": "AISTATS", 
+      "year": 2011
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "16174bcefcf38493c90576d0e3fed46537ef54fd", 
+      "title": "Synthesizing the preferred inputs for neurons in neural networks via deep generator networks", 
+      "url": "https://www.semanticscholar.org/paper/16174bcefcf38493c90576d0e3fed46537ef54fd", 
+      "venue": "NIPS", 
+      "year": 2016
+    }, 
+    {
+      "isInfluential": true, 
+      "paperId": "25b0fff82aca2734d3b1b3a2d0c21c21b63fd626", 
+      "title": "A time-dependent Hamilton-Jacobi formulation of reachable sets for continuous dynamic games", 
+      "url": "https://www.semanticscholar.org/paper/25b0fff82aca2734d3b1b3a2d0c21c21b63fd626", 
+      "venue": "IEEE Trans. Automat. Contr.", 
+      "year": 2005
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "9952d4d5717afd4a27157ed8b98b0ee3dcb70d6c", 
+      "title": "ImageNet Classification with Deep Convolutional Neural Networks", 
+      "url": "https://www.semanticscholar.org/paper/9952d4d5717afd4a27157ed8b98b0ee3dcb70d6c", 
+      "venue": "", 
+      "year": 2013
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "cb08a22ee3002ecf47c1909341060c4181869658", 
+      "title": "Artificial Intelligence as a Positive and Negative Factor in Global Risk", 
+      "url": "https://www.semanticscholar.org/paper/cb08a22ee3002ecf47c1909341060c4181869658", 
+      "venue": "", 
+      "year": 2011
+    }, 
+    {
+      "isInfluential": true, 
+      "paperId": "170cc3b72dd2793920f8b0bbd0926d9244c49562", 
+      "title": "Deep Exploration via Bootstrapped DQN", 
+      "url": "https://www.semanticscholar.org/paper/170cc3b72dd2793920f8b0bbd0926d9244c49562", 
+      "venue": "NIPS", 
+      "year": 2016
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "54900e8f7ba2f9b94bf1604ec4be0361558bea52", 
+      "title": "Policy Gradients Beyond Expectations: Conditional Value-at-Risk", 
+      "url": "https://www.semanticscholar.org/paper/54900e8f7ba2f9b94bf1604ec4be0361558bea52", 
+      "venue": "ArXiv", 
+      "year": 2014
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "0ced5f8cc4585cb0b5fb4becac86f0c0b2eb20f7", 
+      "title": "Counterfactual Reasoning and Learning Systems", 
+      "url": "https://www.semanticscholar.org/paper/0ced5f8cc4585cb0b5fb4becac86f0c0b2eb20f7", 
+      "venue": "ArXiv", 
+      "year": 2012
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "52408470a49a3d380d31ab5c07ba6136cd7c7b01", 
+      "title": "Some Philosophical Problems from the Standpoint of Artificial Intelligence", 
+      "url": "https://www.semanticscholar.org/paper/52408470a49a3d380d31ab5c07ba6136cd7c7b01", 
+      "venue": "", 
+      "year": 1969
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "35c460e6084e9471f1df3196280a112fd39edc5b", 
+      "title": "Finite-Time Regional Verification of Stochastic Nonlinear Systems", 
+      "url": "https://www.semanticscholar.org/paper/35c460e6084e9471f1df3196280a112fd39edc5b", 
+      "venue": "Robotics: Science and Systems", 
+      "year": 2011
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "165db9e093be270d38ac4a264efff7507518727e", 
+      "title": "Towards AI-Complete Question Answering: A Set of Prerequisite Toy Tasks", 
+      "url": "https://www.semanticscholar.org/paper/165db9e093be270d38ac4a264efff7507518727e", 
+      "venue": "ArXiv", 
+      "year": 2015
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "22fb9418f821f7c97f68ba3a6bf8d4cfdb0bfaa3", 
+      "title": "Avoiding Imposters and Delinquents: Adversarial Crowdsourcing and Peer Prediction", 
+      "url": "https://www.semanticscholar.org/paper/22fb9418f821f7c97f68ba3a6bf8d4cfdb0bfaa3", 
+      "venue": "NIPS", 
+      "year": 2016
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "11a9594b53c45680f0c6d3dd274f764b7ab7c6ea", 
+      "title": "R-MAX - A General Polynomial Time Algorithm for Near-Optimal Reinforcement Learning", 
+      "url": "https://www.semanticscholar.org/paper/11a9594b53c45680f0c6d3dd274f764b7ab7c6ea", 
+      "venue": "IJCAI", 
+      "year": 2001
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "40b3bbe8d3e0ff66caae3217f4b2fc0e71fd01e2", 
+      "title": "Toward Idealized Decision Theory", 
+      "url": "https://www.semanticscholar.org/paper/40b3bbe8d3e0ff66caae3217f4b2fc0e71fd01e2", 
+      "venue": "ArXiv", 
+      "year": 2015
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "2a27d4c259331ccbb909cddeb9f9a9149dbb3912", 
+      "title": "Learning from labeled features using generalized expectation criteria", 
+      "url": "https://www.semanticscholar.org/paper/2a27d4c259331ccbb909cddeb9f9a9149dbb3912", 
+      "venue": "SIGIR", 
+      "year": 2008
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "8f8139b63a2fc0b3ae8413acaef47acd35a356e0", 
+      "title": "Distant supervision for relation extraction without labeled data", 
+      "url": "https://www.semanticscholar.org/paper/8f8139b63a2fc0b3ae8413acaef47acd35a356e0", 
+      "venue": "ACL/IJCNLP", 
+      "year": 2009
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "7dafe47a112e4556e61db05330199834d55ec792", 
+      "title": "Calibrated Structured Prediction", 
+      "url": "https://www.semanticscholar.org/paper/7dafe47a112e4556e61db05330199834d55ec792", 
+      "venue": "NIPS", 
+      "year": 2015
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "0674d626264fe191cf81cab3de33d59b67a86b71", 
+      "title": "Causal inference in statistics: An overview", 
+      "url": "https://www.semanticscholar.org/paper/0674d626264fe191cf81cab3de33d59b67a86b71", 
+      "venue": "", 
+      "year": 2009
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "0adfaaeebbf36f34ac97770adc2f52619a5d45c6", 
+      "title": "The Evolved Radio and its Implications for Modelling the Evolution of Novel Sensors", 
+      "url": "https://www.semanticscholar.org/paper/0adfaaeebbf36f34ac97770adc2f52619a5d45c6", 
+      "venue": "", 
+      "year": 2001
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "6eedf0a4fe861335f7f7664c14de7f71c00b7932", 
+      "title": "Neural Turing Machines", 
+      "url": "https://www.semanticscholar.org/paper/6eedf0a4fe861335f7f7664c14de7f71c00b7932", 
+      "venue": "ArXiv", 
+      "year": 2014
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "13c501825cd4388152cdad85d152d95690529dd4", 
+      "title": "Nobel Lecture: Uncertainty Outside and Inside Economic Models", 
+      "url": "https://www.semanticscholar.org/paper/13c501825cd4388152cdad85d152d95690529dd4", 
+      "venue": "", 
+      "year": 2014
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "e8b11f4be85e3a4a79f3bef4ccdd0687016173f6", 
+      "title": "Practical Black-Box Attacks against Deep Learning Systems using Adversarial Examples", 
+      "url": "https://www.semanticscholar.org/paper/e8b11f4be85e3a4a79f3bef4ccdd0687016173f6", 
+      "venue": "ArXiv", 
+      "year": 2016
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "070fde3796a6f647097f1f43574642de0f68d29f", 
+      "title": "The Security of Latent Dirichlet Allocation", 
+      "url": "https://www.semanticscholar.org/paper/070fde3796a6f647097f1f43574642de0f68d29f", 
+      "venue": "AISTATS", 
+      "year": 2015
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "210d300aceb92632374027ede22d1d13b9a5dfe8", 
+      "title": "Incremental knowledge base construction using DeepDive", 
+      "url": "https://www.semanticscholar.org/paper/210d300aceb92632374027ede22d1d13b9a5dfe8", 
+      "venue": "The VLDB Journal", 
+      "year": 2015
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "4bb773040673cd6f60a2b3eeaeb2878dc6334523", 
+      "title": "Hierarchical Deep Reinforcement Learning: Integrating Temporal Abstraction and Intrinsic Motivation", 
+      "url": "https://www.semanticscholar.org/paper/4bb773040673cd6f60a2b3eeaeb2878dc6334523", 
+      "venue": "NIPS", 
+      "year": 2016
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "de4ed806884bc315cf61abf47629a8721623789a", 
+      "title": "Unsupervised Risk Estimation with only Structural Assumptions", 
+      "url": "https://www.semanticscholar.org/paper/de4ed806884bc315cf61abf47629a8721623789a", 
+      "venue": "", 
+      "year": 2016
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "4704ceac56a597a358bb35608865ab73ad059dde", 
+      "title": "The second machine age: work, progress, and prosperity in a time of brilliant technologies, 1st Edition", 
+      "url": "https://www.semanticscholar.org/paper/4704ceac56a597a358bb35608865ab73ad059dde", 
+      "venue": "", 
+      "year": 2014
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "41f1fde86b7967ddce5371b1a4fd9ec39fd22e1b", 
+      "title": "High-Confidence Off-Policy Evaluation", 
+      "url": "https://www.semanticscholar.org/paper/41f1fde86b7967ddce5371b1a4fd9ec39fd22e1b", 
+      "venue": "AAAI", 
+      "year": 2015
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "517d6e3999bd425069e45346045adcbd2d0c9299", 
+      "title": "Counterfactual reasoning and learning systems: the example of computational advertising", 
+      "url": "https://www.semanticscholar.org/paper/517d6e3999bd425069e45346045adcbd2d0c9299", 
+      "venue": "Journal of Machine Learning Research", 
+      "year": 2013
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "37c3303d173c055592ef923235837e1cbc6bd986", 
+      "title": "Learning Fair Representations", 
+      "url": "https://www.semanticscholar.org/paper/37c3303d173c055592ef923235837e1cbc6bd986", 
+      "venue": "ICML", 
+      "year": 2013
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "9b5f2c07f0ccddf7fded2b56ef7b64760319ab3b", 
+      "title": "Detecting changes in signals and systems - A survey", 
+      "url": "https://www.semanticscholar.org/paper/9b5f2c07f0ccddf7fded2b56ef7b64760319ab3b", 
+      "venue": "Automatica", 
+      "year": 1988
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "162189be03d427969c8bc3c2ecbf5e99456b2e14", 
+      "title": "Feudal Reinforcement Learning", 
+      "url": "https://www.semanticscholar.org/paper/162189be03d427969c8bc3c2ecbf5e99456b2e14", 
+      "venue": "NIPS", 
+      "year": 1992
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "7953e998f62ff8bd935f2da05b161e56d7cb74a5", 
+      "title": "Active Reward Learning", 
+      "url": "https://www.semanticscholar.org/paper/7953e998f62ff8bd935f2da05b161e56d7cb74a5", 
+      "venue": "Robotics: Science and Systems", 
+      "year": 2014
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "2449010acd44842b872603c5e0b37b992b35c133", 
+      "title": "Guided Cost Learning: Deep Inverse Optimal Control via Policy Optimization", 
+      "url": "https://www.semanticscholar.org/paper/2449010acd44842b872603c5e0b37b992b35c133", 
+      "venue": "ICML", 
+      "year": 2016
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "0e60da8dc90941bc4b6e5eb0ea03bb8416708339", 
+      "title": "A Formally Verified Hybrid System for the Next-Generation Airborne Collision Avoidance System", 
+      "url": "https://www.semanticscholar.org/paper/0e60da8dc90941bc4b6e5eb0ea03bb8416708339", 
+      "venue": "TACAS", 
+      "year": 2015
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "da6057368920585bcf2443295b98418840f1fc80", 
+      "title": "Weight Uncertainty in Neural Networks", 
+      "url": "https://www.semanticscholar.org/paper/da6057368920585bcf2443295b98418840f1fc80", 
+      "venue": "ArXiv", 
+      "year": 2015
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "7dc37aafb25554b6b523551174ce7fc2774e98e2", 
+      "title": "Kernel Methods in Machine Learning 1", 
+      "url": "https://www.semanticscholar.org/paper/7dc37aafb25554b6b523551174ce7fc2774e98e2", 
+      "venue": "", 
+      "year": 2008
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "3cc0580adaaa23ef8e8257d873a0c3f60aa7ac27", 
+      "title": "Neural GPUs Learn Algorithms", 
+      "url": "https://www.semanticscholar.org/paper/3cc0580adaaa23ef8e8257d873a0c3f60aa7ac27", 
+      "venue": "ArXiv", 
+      "year": 2015
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "d72fd1af6d31ceb7a46b1cd70822549c05a83151", 
+      "title": "Self-Modification of Policy and Utility Function in Rational Agents", 
+      "url": "https://www.semanticscholar.org/paper/d72fd1af6d31ceb7a46b1cd70822549c05a83151", 
+      "venue": "AGI", 
+      "year": 2016
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "52e2bd533323ddf97073d034bae40a46eda55f34", 
+      "title": "Twitter Sentiment Classification using Distant Supervision", 
+      "url": "https://www.semanticscholar.org/paper/52e2bd533323ddf97073d034bae40a46eda55f34", 
+      "venue": "", 
+      "year": 2009
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "293af2dc96ffed5435051e0622d6991411690da9", 
+      "title": "Fairness Through Awareness", 
+      "url": "https://www.semanticscholar.org/paper/293af2dc96ffed5435051e0622d6991411690da9", 
+      "venue": "ITCS", 
+      "year": 2012
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "115e07fd6a7910895e7a3d81ed3121d89262b40b", 
+      "title": "Cooperative Inverse Reinforcement Learning", 
+      "url": "https://www.semanticscholar.org/paper/115e07fd6a7910895e7a3d81ed3121d89262b40b", 
+      "venue": "NIPS", 
+      "year": 2016
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "467568f1777bc51a15a5100516cd4fe8de62b9ab", 
+      "title": "Transfer Learning for Reinforcement Learning Domains: A Survey", 
+      "url": "https://www.semanticscholar.org/paper/467568f1777bc51a15a5100516cd4fe8de62b9ab", 
+      "venue": "Journal of Machine Learning Research", 
+      "year": 2009
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "c0f2c4104ef6e36bb67022001179887e6600d24d", 
+      "title": "A comprehensive survey on safe reinforcement learning", 
+      "url": "https://www.semanticscholar.org/paper/c0f2c4104ef6e36bb67022001179887e6600d24d", 
+      "venue": "Journal of Machine Learning Research", 
+      "year": 2015
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "b62c81269e1d13bcae9c15db335887db990e5860", 
+      "title": "Generalized Expectation Criteria for Semi-Supervised Learning with Weakly Labeled Data", 
+      "url": "https://www.semanticscholar.org/paper/b62c81269e1d13bcae9c15db335887db990e5860", 
+      "venue": "Journal of Machine Learning Research", 
+      "year": 2010
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "2c196bf832070d6e3e4683c17bb0557057726c48", 
+      "title": "Estimating Accuracy from Unlabeled Data", 
+      "url": "https://www.semanticscholar.org/paper/2c196bf832070d6e3e4683c17bb0557057726c48", 
+      "venue": "UAI", 
+      "year": 2014
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "0fe96806c009e8d095205e8f954d41b2b9fd5dcf", 
+      "title": "On-the-Job Learning with Bayesian Decision Theory", 
+      "url": "https://www.semanticscholar.org/paper/0fe96806c009e8d095205e8f954d41b2b9fd5dcf", 
+      "venue": "NIPS", 
+      "year": 2015
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "6b2bf1efaa66c77677070f1c52701f0f7f2a3e15", 
+      "title": "Model-based Utility Functions", 
+      "url": "https://www.semanticscholar.org/paper/6b2bf1efaa66c77677070f1c52701f0f7f2a3e15", 
+      "venue": "J. Artificial General Intelligence", 
+      "year": 2012
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "10ac897693455df1f9dd94be04965e08f20b769f", 
+      "title": "Towards Formal Verification of Freeway Traffic Control", 
+      "url": "https://www.semanticscholar.org/paper/10ac897693455df1f9dd94be04965e08f20b769f", 
+      "venue": "ICCPS", 
+      "year": 2012
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "3cb54f04765c19e7e0580196c29c64e49f63a744", 
+      "title": "Learning with Drift Detection", 
+      "url": "https://www.semanticscholar.org/paper/3cb54f04765c19e7e0580196c29c64e49f63a744", 
+      "venue": "SBIA", 
+      "year": 2004
+    }, 
+    {
+      "isInfluential": true, 
+      "paperId": "e617915950d93b26b289fe63b753f35dc8458b1d", 
+      "title": "Controllers for reachability specifications for hybrid systems", 
+      "url": "https://www.semanticscholar.org/paper/e617915950d93b26b289fe63b753f35dc8458b1d", 
+      "venue": "Automatica", 
+      "year": 1999
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "5dcf445a6e94cddb8ce9c087e7359e04a3e8aa0f", 
+      "title": "Tracking the Best Linear Predictor", 
+      "url": "https://www.semanticscholar.org/paper/5dcf445a6e94cddb8ce9c087e7359e04a3e8aa0f", 
+      "venue": "Journal of Machine Learning Research", 
+      "year": 2001
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "3e464bc50e3d1c9ad8987fd65178288cb7e0137f", 
+      "title": "Bounding and Minimizing Counterfactual Error", 
+      "url": "https://www.semanticscholar.org/paper/3e464bc50e3d1c9ad8987fd65178288cb7e0137f", 
+      "venue": "ArXiv", 
+      "year": 2016
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "2815181cacea9245fb2b8b10fe850e8e67b9e7b4", 
+      "title": "Safely Interruptible Agents", 
+      "url": "https://www.semanticscholar.org/paper/2815181cacea9245fb2b8b10fe850e8e67b9e7b4", 
+      "venue": "UAI", 
+      "year": 2016
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "213f675f370bc71ff3f3b88e0217cb9e4f56c211", 
+      "title": "Counterfactual Risk Minimization: Learning from Logged Bandit Feedback", 
+      "url": "https://www.semanticscholar.org/paper/213f675f370bc71ff3f3b88e0217cb9e4f56c211", 
+      "venue": "ICML", 
+      "year": 2015
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "2b02f1b0a887d912bd3362472689ccff118faf1e", 
+      "title": "Taming the Monster: A Fast and Simple Algorithm for Contextual Bandits", 
+      "url": "https://www.semanticscholar.org/paper/2b02f1b0a887d912bd3362472689ccff118faf1e", 
+      "venue": "ICML", 
+      "year": 2014
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "4e8ff3b4069a12a00196d62925bab8add7389742", 
+      "title": "Quantilizers: A Safer Alternative to Maximizers for Limited Optimization", 
+      "url": "https://www.semanticscholar.org/paper/4e8ff3b4069a12a00196d62925bab8add7389742", 
+      "venue": "AAAI Workshop: AI, Ethics, and Society", 
+      "year": 2016
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "bca534070de2057728860d60a12fd92944798ecb", 
+      "title": "Trusted Machine Learning for Probabilistic Models", 
+      "url": "https://www.semanticscholar.org/paper/bca534070de2057728860d60a12fd92944798ecb", 
+      "venue": "", 
+      "year": 2016
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "8e0eacf11a22b9705a262e908f17b1704fd21fa7", 
+      "title": "Deep Speech 2: End-to-End Speech Recognition in English and Mandarin", 
+      "url": "https://www.semanticscholar.org/paper/8e0eacf11a22b9705a262e908f17b1704fd21fa7", 
+      "venue": "ICML", 
+      "year": 2016
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "5c8469ffb90c90705b609b5c61bba28d916f1b4c", 
+      "title": "Change-point detection in time-series data by relative density-ratio estimation", 
+      "url": "https://www.semanticscholar.org/paper/5c8469ffb90c90705b609b5c61bba28d916f1b4c", 
+      "venue": "Neural Networks", 
+      "year": 2012
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "5491b73d751c16c703eccbc67286f2d802594438", 
+      "title": "Asymptotic Convergence in Online Learning with Unbounded Delays", 
+      "url": "https://www.semanticscholar.org/paper/5491b73d751c16c703eccbc67286f2d802594438", 
+      "venue": "ArXiv", 
+      "year": 2016
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "0a7eb3944c6f30abeed7fc82c985b06a148cef0d", 
+      "title": "Variational Information Maximisation for Intrinsically Motivated Reinforcement Learning", 
+      "url": "https://www.semanticscholar.org/paper/0a7eb3944c6f30abeed7fc82c985b06a148cef0d", 
+      "venue": "NIPS", 
+      "year": 2015
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "0cd1a0aabff37aec54186b2988ba294fd4163cfb", 
+      "title": "Learning Fair Classifiers", 
+      "url": "https://www.semanticscholar.org/paper/0cd1a0aabff37aec54186b2988ba294fd4163cfb", 
+      "venue": "", 
+      "year": 2015
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "8d18ece7528049c533446d6c67cb499e44bf2531", 
+      "title": "The AGI Containment Problem", 
+      "url": "https://www.semanticscholar.org/paper/8d18ece7528049c533446d6c67cb499e44bf2531", 
+      "venue": "AGI", 
+      "year": 2016
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "83bfdd6a2b28106b9fb66e52832c45f08b828541", 
+      "title": "Intriguing properties of neural networks", 
+      "url": "https://www.semanticscholar.org/paper/83bfdd6a2b28106b9fb66e52832c45f08b828541", 
+      "venue": "ArXiv", 
+      "year": 2013
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "94db635f54d25bdb95edb42185aca93ba53b051b", 
+      "title": "Biographies, Bollywood, Boom-boxes and Blenders: Domain Adaptation for Sentiment Classification", 
+      "url": "https://www.semanticscholar.org/paper/94db635f54d25bdb95edb42185aca93ba53b051b", 
+      "venue": "ACL", 
+      "year": 2007
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "3b76c51beceb5057b1285bd7d709817cda17adc0", 
+      "title": "Exploration and apprenticeship learning in reinforcement learning", 
+      "url": "https://www.semanticscholar.org/paper/3b76c51beceb5057b1285bd7d709817cda17adc0", 
+      "venue": "ICML", 
+      "year": 2005
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "525e4f93157113c8b80b5ff608500ae288d63b3c", 
+      "title": "Ethical guidelines for a superintelligence", 
+      "url": "https://www.semanticscholar.org/paper/525e4f93157113c8b80b5ff608500ae288d63b3c", 
+      "venue": "Artif. Intell.", 
+      "year": 2015
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "477a3dc8c6cc9d7be19c52d9cb0d13aa649ee535", 
+      "title": "Safe Exploration Techniques for Reinforcement Learning - An Overview", 
+      "url": "https://www.semanticscholar.org/paper/477a3dc8c6cc9d7be19c52d9cb0d13aa649ee535", 
+      "venue": "MESAS", 
+      "year": 2014
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "c404878fe00bcb49f53cb289964d0c3826a6c490", 
+      "title": "A Formal Theory of Inductive Inference. Part I", 
+      "url": "https://www.semanticscholar.org/paper/c404878fe00bcb49f53cb289964d0c3826a6c490", 
+      "venue": "Information and Control", 
+      "year": 1964
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "03d3fbad90f047d238b35a742e44b6cd5946d591", 
+      "title": "Knows what it knows: a\u00a0framework for\u00a0self-aware learning", 
+      "url": "https://www.semanticscholar.org/paper/03d3fbad90f047d238b35a742e44b6cd5946d591", 
+      "venue": "Machine Learning", 
+      "year": 2008
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "a1db0f18760b64af39d5115901361c27c71eabc3", 
+      "title": "Testing statistical hypotheses with vague data", 
+      "url": "https://www.semanticscholar.org/paper/a1db0f18760b64af39d5115901361c27c71eabc3", 
+      "venue": "Fuzzy Sets and Systems", 
+      "year": 2000
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "235723a15c86c369c99a42e7b666dfe156ad2cba", 
+      "title": "Improving predictive inference under covariate shift by weighting the log-likelihood function", 
+      "url": "https://www.semanticscholar.org/paper/235723a15c86c369c99a42e7b666dfe156ad2cba", 
+      "venue": "", 
+      "year": 2000
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "8737663b89136e190f340f5c85a76d97cdc72d57", 
+      "title": "Research Priorities for Robust and Beneficial Artificial Intelligence", 
+      "url": "https://www.semanticscholar.org/paper/8737663b89136e190f340f5c85a76d97cdc72d57", 
+      "venue": "", 
+      "year": 2015
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "1aa02f027663a626f3aa17ed9bab52377a23f634", 
+      "title": "High-Dimensional Continuous Control Using Generalized Advantage Estimation", 
+      "url": "https://www.semanticscholar.org/paper/1aa02f027663a626f3aa17ed9bab52377a23f634", 
+      "venue": "ArXiv", 
+      "year": 2015
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "aa32c33e7c832e76040edc85e8922423b1a1db77", 
+      "title": "Reinforcement learning - an introduction", 
+      "url": "https://www.semanticscholar.org/paper/aa32c33e7c832e76040edc85e8922423b1a1db77", 
+      "venue": "Adaptive computation and machine learning", 
+      "year": 1998
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "7236c114be6f24cc65694d114614ba1a3cf5f7f9", 
+      "title": "Causal discovery with continuous additive noise models", 
+      "url": "https://www.semanticscholar.org/paper/7236c114be6f24cc65694d114614ba1a3cf5f7f9", 
+      "venue": "Journal of Machine Learning Research", 
+      "year": 2014
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "0a508835d4e9ae700fb056c4c0c7774255b1179f", 
+      "title": "Spectral Methods meet EM: A Provably Optimal Algorithm for Crowdsourcing", 
+      "url": "https://www.semanticscholar.org/paper/0a508835d4e9ae700fb056c4c0c7774255b1179f", 
+      "venue": "NIPS", 
+      "year": 2014
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "17eddf33b513ae1134abadab728bdbf6abab2a05", 
+      "title": "A Reduction of Imitation Learning and Structured Prediction to No-Regret Online Learning", 
+      "url": "https://www.semanticscholar.org/paper/17eddf33b513ae1134abadab728bdbf6abab2a05", 
+      "venue": "AISTATS", 
+      "year": 2011
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "5279d26015fd376c5202b46711b682902e4bc069", 
+      "title": "A tutorial on conformal prediction", 
+      "url": "https://www.semanticscholar.org/paper/5279d26015fd376c5202b46711b682902e4bc069", 
+      "venue": "Journal of Machine Learning Research", 
+      "year": 2008
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "3e388ba026f42eb8dfb1e1178d73ec799f0327f9", 
+      "title": "Unanimous Prediction for 100% Precision with Application to Learning Semantic Mappings", 
+      "url": "https://www.semanticscholar.org/paper/3e388ba026f42eb8dfb1e1178d73ec799f0327f9", 
+      "venue": "ACL", 
+      "year": 2016
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "650d4bf807007654759ad9ad0757075a20501d12", 
+      "title": "Estimation and Inference of Heterogeneous Treatment Effects using Random Forests\u2217", 
+      "url": "https://www.semanticscholar.org/paper/650d4bf807007654759ad9ad0757075a20501d12", 
+      "venue": "", 
+      "year": 2015
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "369bab07638e6457f9237fca5ca42c3701b5bec9", 
+      "title": "Safe Exploration in Markov Decision Processes", 
+      "url": "https://www.semanticscholar.org/paper/369bab07638e6457f9237fca5ca42c3701b5bec9", 
+      "venue": "ICML", 
+      "year": 2012
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "09f6d750eb89da1ca03c324b2ff54da59dc54cd2", 
+      "title": "Discrimination-aware data mining", 
+      "url": "https://www.semanticscholar.org/paper/09f6d750eb89da1ca03c324b2ff54da59dc54cd2", 
+      "venue": "KDD", 
+      "year": 2008
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "ff5b71e5ab755e2b16fe0960d1fcdcc06127c505", 
+      "title": "Robust Markov Decision Processes", 
+      "url": "https://www.semanticscholar.org/paper/ff5b71e5ab755e2b16fe0960d1fcdcc06127c505", 
+      "venue": "Math. Oper. Res.", 
+      "year": 2013
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "0cf16729c9e717265b663939614079c4d29fb377", 
+      "title": "Using Machine Teaching to Identify Optimal Training-Set Attacks on Machine Learners", 
+      "url": "https://www.semanticscholar.org/paper/0cf16729c9e717265b663939614079c4d29fb377", 
+      "venue": "AAAI", 
+      "year": 2015
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "279735d7811b31c936306c28ede01b97ff072060", 
+      "title": "Estimating the accuracies of multiple classifiers without labeled data", 
+      "url": "https://www.semanticscholar.org/paper/279735d7811b31c936306c28ede01b97ff072060", 
+      "venue": "AISTATS", 
+      "year": 2015
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "fbefba9de2a6b8a0756d6adda4b0b69ab3126469", 
+      "title": "Machine Learning: The High-Interest Credit Card of Technical Debt", 
+      "url": "https://www.semanticscholar.org/paper/fbefba9de2a6b8a0756d6adda4b0b69ab3126469", 
+      "venue": "", 
+      "year": 2014
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "28c41e35948d0aca47497cbdff1d9486004093e5", 
+      "title": "Towards fully autonomous driving: Systems and algorithms", 
+      "url": "https://www.semanticscholar.org/paper/28c41e35948d0aca47497cbdff1d9486004093e5", 
+      "venue": "2011 IEEE Intelligent Vehicles Symposium (IV)", 
+      "year": 2011
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "116d7798c1123cf7fad4176e98f58fd49de4f8f1", 
+      "title": "Planning and Acting in Partially Observable Stochastic Domains", 
+      "url": "https://www.semanticscholar.org/paper/116d7798c1123cf7fad4176e98f58fd49de4f8f1", 
+      "venue": "Artif. Intell.", 
+      "year": 1998
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "72de1bfa528c9450a57394c900361acf1e85b8d0", 
+      "title": "Massively Multitask Networks for Drug Discovery", 
+      "url": "https://www.semanticscholar.org/paper/72de1bfa528c9450a57394c900361acf1e85b8d0", 
+      "venue": "ArXiv", 
+      "year": 2015
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "340f48901f72278f6bf78a04ee5b01df208cc508", 
+      "title": "Human-level control through deep reinforcement learning", 
+      "url": "https://www.semanticscholar.org/paper/340f48901f72278f6bf78a04ee5b01df208cc508", 
+      "venue": "Nature", 
+      "year": 2015
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "3dc052c0cd0472efd08ee49986f5565bb05e2ff7", 
+      "title": "Learning What to Value", 
+      "url": "https://www.semanticscholar.org/paper/3dc052c0cd0472efd08ee49986f5565bb05e2ff7", 
+      "venue": "AGI", 
+      "year": 2011
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "3ecbd56a796d62d77f647fa9d4cac81fe6ea109e", 
+      "title": "The Future of Employment: How Susceptible Are Jobs to Computerisation?\u2217", 
+      "url": "https://www.semanticscholar.org/paper/3ecbd56a796d62d77f647fa9d4cac81fe6ea109e", 
+      "venue": "", 
+      "year": 2013
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "8648dbfff9662fa9c62a95622712dd2951b5b3a3", 
+      "title": "The design for the wall street journal-based CSR corpus", 
+      "url": "https://www.semanticscholar.org/paper/8648dbfff9662fa9c62a95622712dd2951b5b3a3", 
+      "venue": "ICSLP", 
+      "year": 1992
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "07380c02a8ec5ef80b19cdf15cc30f1a24a100b4", 
+      "title": "Formal verification of distributed aircraft controllers", 
+      "url": "https://www.semanticscholar.org/paper/07380c02a8ec5ef80b19cdf15cc30f1a24a100b4", 
+      "venue": "HSCC", 
+      "year": 2013
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "63287d3220fe96d5cbf73067545abbb88cc180a6", 
+      "title": "Learning to Classify Text from Labeled and Unlabeled Documents", 
+      "url": "https://www.semanticscholar.org/paper/63287d3220fe96d5cbf73067545abbb88cc180a6", 
+      "venue": "AAAI/IAAI", 
+      "year": 1998
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "1780f4fc05d87356e923a75a8ab3ff4ce79b9fb0", 
+      "title": "The security of machine learning", 
+      "url": "https://www.semanticscholar.org/paper/1780f4fc05d87356e923a75a8ab3ff4ce79b9fb0", 
+      "venue": "Machine Learning", 
+      "year": 2010
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "1740eb993cc8ca81f1e46ddaadce1f917e8000b5", 
+      "title": "Mastering the game of Go with deep neural networks and tree search", 
+      "url": "https://www.semanticscholar.org/paper/1740eb993cc8ca81f1e46ddaadce1f917e8000b5", 
+      "venue": "Nature", 
+      "year": 2016
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "a1011898c7ca77afc51a1f331511c6325fb2964c", 
+      "title": "Motivated Value Selection for Artificial Agents", 
+      "url": "https://www.semanticscholar.org/paper/a1011898c7ca77afc51a1f331511c6325fb2964c", 
+      "venue": "AAAI Workshop: AI and Ethics", 
+      "year": 2015
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "7480d1ba5b765cc21d7aa395c7ac2eba8c68b44e", 
+      "title": "Delusion, Survival, and Intelligent Agents", 
+      "url": "https://www.semanticscholar.org/paper/7480d1ba5b765cc21d7aa395c7ac2eba8c68b44e", 
+      "venue": "AGI", 
+      "year": 2011
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "5aa0d30df618f389b6538d4dd5b8cbd6ad12f27d", 
+      "title": "Robust Dynamic Programming", 
+      "url": "https://www.semanticscholar.org/paper/5aa0d30df618f389b6538d4dd5b8cbd6ad12f27d", 
+      "venue": "Math. Oper. Res.", 
+      "year": 2005
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "8c4c723a74fe479c2b8af7d911817377dd6d85c9", 
+      "title": "Understanding Neural Networks Through Deep Visualization", 
+      "url": "https://www.semanticscholar.org/paper/8c4c723a74fe479c2b8af7d911817377dd6d85c9", 
+      "venue": "ArXiv", 
+      "year": 2015
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "6db16608fccddef51202af84112b34cfebfbe20a", 
+      "title": "Robust Control of Markov Decision Processes with Uncertain Transition Matrices", 
+      "url": "https://www.semanticscholar.org/paper/6db16608fccddef51202af84112b34cfebfbe20a", 
+      "venue": "Operations Research", 
+      "year": 2005
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "26f9a81c280cebf10d0d486744b35b194c12df59", 
+      "title": "Towards Making Unlabeled Data Never Hurt", 
+      "url": "https://www.semanticscholar.org/paper/26f9a81c280cebf10d0d486744b35b194c12df59", 
+      "venue": "IEEE Transactions on Pattern Analysis and Machine Intelligence", 
+      "year": 2011
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "c6a125357018dcabf5df2cdc01652e780eb213a4", 
+      "title": "Avoiding Wireheading with Value Reinforcement Learning", 
+      "url": "https://www.semanticscholar.org/paper/c6a125357018dcabf5df2cdc01652e780eb213a4", 
+      "venue": "AGI", 
+      "year": 2016
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "36c432dd4dc44e78601b9431bfcddd46c53d9baf", 
+      "title": "Artiicial Evolution in the Physical World", 
+      "url": "https://www.semanticscholar.org/paper/36c432dd4dc44e78601b9431bfcddd46c53d9baf", 
+      "venue": "", 
+      "year": 1997
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "815abff110b8f4713e634c3c58a2017328e1ee4e", 
+      "title": "Domain-Adversarial Neural Networks", 
+      "url": "https://www.semanticscholar.org/paper/815abff110b8f4713e634c3c58a2017328e1ee4e", 
+      "venue": "ArXiv", 
+      "year": 2014
+    }
+  ], 
+  "title": "Concrete Problems in AI Safety", 
+  "url": "https://www.semanticscholar.org/paper/229b10fc077ca6db3cfb3ce11169d17fdf3b321d", 
+  "venue": "ArXiv", 
+  "year": 2016
+}

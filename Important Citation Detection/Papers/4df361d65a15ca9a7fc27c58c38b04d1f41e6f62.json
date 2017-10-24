@@ -1,0 +1,953 @@
+{
+  "authors": [
+    {
+      "authorId": "2616551", 
+      "name": "Andrew Borthwick", 
+      "url": "https://www.semanticscholar.org/author/2616551"
+    }, 
+    {
+      "authorId": "3284710", 
+      "name": "John Sterling", 
+      "url": "https://www.semanticscholar.org/author/3284710"
+    }, 
+    {
+      "authorId": "1685296", 
+      "name": "Eugene Agichtein", 
+      "url": "https://www.semanticscholar.org/author/1685296"
+    }, 
+    {
+      "authorId": "1788050", 
+      "name": "Ralph Grishman", 
+      "url": "https://www.semanticscholar.org/author/1788050"
+    }
+  ], 
+  "citationVelocity": 0, 
+  "citations": [
+    {
+      "isInfluential": false, 
+      "paperId": "66553e5ef828f4363b3ad1a594d9aab28246fd85", 
+      "title": "Shallow Analysis Based Assessment of Syntactic Complexity for Automated Speech Scoring", 
+      "url": "https://www.semanticscholar.org/paper/66553e5ef828f4363b3ad1a594d9aab28246fd85"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "5e00fb907e0ded7edeedbea7153cbdb6702d9250", 
+      "title": "The Construction of a Chinese Named Entity Tagged Corpus: CNEC1.0", 
+      "url": "https://www.semanticscholar.org/paper/5e00fb907e0ded7edeedbea7153cbdb6702d9250"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "3ad4fb6a4e1f438b98a770e2d49c2b8e51ae58aa", 
+      "title": "Multi-Language Named-Entity Recognition System Based On HMM", 
+      "url": "https://www.semanticscholar.org/paper/3ad4fb6a4e1f438b98a770e2d49c2b8e51ae58aa"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "2b98aa0f508a64de2b6188e534503c0f6896a208", 
+      "title": "NERAM : Named Entity Recognition for AMazighe language (RENAM: Syst\u00e8me de Reconnaissance des Entit\u00e9s Nomm\u00e9es Amazighes) [in French]", 
+      "url": "https://www.semanticscholar.org/paper/2b98aa0f508a64de2b6188e534503c0f6896a208"
+    }, 
+    {
+      "isInfluential": true, 
+      "paperId": "1115299832075c7c63c7ee30d2b8a3b7494959fe", 
+      "title": "Semi-Markov Models for Named Entity Recognition", 
+      "url": "https://www.semanticscholar.org/paper/1115299832075c7c63c7ee30d2b8a3b7494959fe"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "88370609e801bdaf0ffc4d9ff84a283f113dca68", 
+      "title": "Combining NER Systems via a UIMA-based platform", 
+      "url": "https://www.semanticscholar.org/paper/88370609e801bdaf0ffc4d9ff84a283f113dca68"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "d4b999f5958d9ce7d6e1888b4386d2d24f780223", 
+      "title": "Information Extraction using Sequencing with Large Label Sets", 
+      "url": "https://www.semanticscholar.org/paper/d4b999f5958d9ce7d6e1888b4386d2d24f780223"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "f8ab576c66955b1049cd5c44c2d61939d6076553", 
+      "title": "A Hybrid Approach to NER by Integrating Manual Rules into MEMM", 
+      "url": "https://www.semanticscholar.org/paper/f8ab576c66955b1049cd5c44c2d61939d6076553"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "3c65236fa2be9c67e0a93ee7f2511121d3de0b4c", 
+      "title": "Chinese Abbreviations and Expansion", 
+      "url": "https://www.semanticscholar.org/paper/3c65236fa2be9c67e0a93ee7f2511121d3de0b4c"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "009cee0e4a0798fde8ad44f4c7683797a50e2c6d", 
+      "title": "Automatic Acquisition of Named Entity Tagged Corpus from World Wide Web", 
+      "url": "https://www.semanticscholar.org/paper/009cee0e4a0798fde8ad44f4c7683797a50e2c6d"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "88061a9db01e935ce5c248097bdfc09a104a9ade", 
+      "title": "Identifying entities from scientific publications: A comparison of vocabulary- and model-based methods", 
+      "url": "https://www.semanticscholar.org/paper/88061a9db01e935ce5c248097bdfc09a104a9ade"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "06626f0b6d20b958d79848d8b0ba141c00829099", 
+      "title": "Examining Machine Learning for Adaptable End-to-End Information Extraction Systems", 
+      "url": "https://www.semanticscholar.org/paper/06626f0b6d20b958d79848d8b0ba141c00829099"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "29edf70df1d3cac0484a8b11f3c1858b3672a2ec", 
+      "title": "Adaptive information extraction", 
+      "url": "https://www.semanticscholar.org/paper/29edf70df1d3cac0484a8b11f3c1858b3672a2ec"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "b70ff97a3550bca43e8b06b1b04af14b979fbca5", 
+      "title": "SANAPHOR: Ontology-Based Coreference Resolution", 
+      "url": "https://www.semanticscholar.org/paper/b70ff97a3550bca43e8b06b1b04af14b979fbca5"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "7fd28d559b5859e9b5dd3a83f94c42b8145a734b", 
+      "title": "Information Extraction from Multiple Syntactic Sources", 
+      "url": "https://www.semanticscholar.org/paper/7fd28d559b5859e9b5dd3a83f94c42b8145a734b"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "4ae2167b3b704ea3b59d8da30cf843b33f6f7c7b", 
+      "title": "Unsupervised Learning of Generalized Names", 
+      "url": "https://www.semanticscholar.org/paper/4ae2167b3b704ea3b59d8da30cf843b33f6f7c7b"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "b3e22461007336b0ab3fdf5b535fe98a396250b9", 
+      "title": "Extracting Personal Names from Emails: Applying Named Entity Recognition to Informal Text", 
+      "url": "https://www.semanticscholar.org/paper/b3e22461007336b0ab3fdf5b535fe98a396250b9"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "610da54c43bfc34da9b555cd2627d7b7be3e1727", 
+      "title": "Scenario Customization for Information Extraction Abstract Scenario Customization for Information Extraction", 
+      "url": "https://www.semanticscholar.org/paper/610da54c43bfc34da9b555cd2627d7b7be3e1727"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "e15156403af891661180897189a2da96e02c6d81", 
+      "title": "Data File Layout Inference Using Content-Based Oracles", 
+      "url": "https://www.semanticscholar.org/paper/e15156403af891661180897189a2da96e02c6d81"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "0623eaca13f2716b9aa0cccb3d5eff31c4388f2c", 
+      "title": "A Lexical Knowledge Representation Model for Natural Language Understanding", 
+      "url": "https://www.semanticscholar.org/paper/0623eaca13f2716b9aa0cccb3d5eff31c4388f2c"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "73e3a8af095db72f164cb6a3b2cb37733e501a4c", 
+      "title": "Named Entity Recognition Using a New Fuzzy Support Vector Machine", 
+      "url": "https://www.semanticscholar.org/paper/73e3a8af095db72f164cb6a3b2cb37733e501a4c"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "daae20b63c0c1af90f387cf4605744a6f7169528", 
+      "title": "Extraction of semantic relations from bioscience text", 
+      "url": "https://www.semanticscholar.org/paper/daae20b63c0c1af90f387cf4605744a6f7169528"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "025ccbcc77601e2981da1e03ee33abfcb05df21d", 
+      "title": "Y!Q: contextual search at the point of inspiration", 
+      "url": "https://www.semanticscholar.org/paper/025ccbcc77601e2981da1e03ee33abfcb05df21d"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "4ca528d8e582d7927727e272dc651677286ad915", 
+      "title": "Automatic Semantic Web Annotation of Named Entities", 
+      "url": "https://www.semanticscholar.org/paper/4ca528d8e582d7927727e272dc651677286ad915"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "1de0799cb274da79642cfd64d5a1070dae6314d3", 
+      "title": "Improving dependency analysis by syntactic parser combination", 
+      "url": "https://www.semanticscholar.org/paper/1de0799cb274da79642cfd64d5a1070dae6314d3"
+    }, 
+    {
+      "isInfluential": true, 
+      "paperId": "577a45f75f29d0f5d073faae4ce6294eb8d7abce", 
+      "title": "Named Entity Recognition Using Hybrid Machine Learning Approach", 
+      "url": "https://www.semanticscholar.org/paper/577a45f75f29d0f5d073faae4ce6294eb8d7abce"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "a6c6b951cfbc5cc73b854935ef2f35cd95f57a18", 
+      "title": "Machine Learning Methods in Natural Language Processing", 
+      "url": "https://www.semanticscholar.org/paper/a6c6b951cfbc5cc73b854935ef2f35cd95f57a18"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "29b4a2b9665f97528efddb046dde87698b762244", 
+      "title": "Learning Semantic Parsers Using Statistical Syntactic Parsing Techniques", 
+      "url": "https://www.semanticscholar.org/paper/29b4a2b9665f97528efddb046dde87698b762244"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "3a1781a85e8cfca2bb4df0f30cabc04da545cf46", 
+      "title": "6.864 (fall 2006): Lecture 6 Log-linear Models the Language Modeling Problem", 
+      "url": "https://www.semanticscholar.org/paper/3a1781a85e8cfca2bb4df0f30cabc04da545cf46"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "51e47ae55cf890f1180696ec24a12898feb9e0e7", 
+      "title": "Automatic Term Identi cation and Classi cation in Biology Texts", 
+      "url": "https://www.semanticscholar.org/paper/51e47ae55cf890f1180696ec24a12898feb9e0e7"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "3668901cf8c4f378292353988ca946ac4a516bcb", 
+      "title": "Research In Information Extraction: 1996-98", 
+      "url": "https://www.semanticscholar.org/paper/3668901cf8c4f378292353988ca946ac4a516bcb"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "1976a9e01b289fe162f8e746fd101068f22d79ae", 
+      "title": "Named Entity Recognition by Neural Sliding Window", 
+      "url": "https://www.semanticscholar.org/paper/1976a9e01b289fe162f8e746fd101068f22d79ae"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "2106714f1557954fa3e03a2761b6c3708319a374", 
+      "title": "Simultanes Lernen von Wortarten und Eigennamen durch ein Hidden-Markov-Perzeptron", 
+      "url": "https://www.semanticscholar.org/paper/2106714f1557954fa3e03a2761b6c3708319a374"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "39fb0b6873c58ec182357721eaed75801505a9df", 
+      "title": "Ranking Algorithms for Named Entity Extraction: Boosting and the Voted Perceptron", 
+      "url": "https://www.semanticscholar.org/paper/39fb0b6873c58ec182357721eaed75801505a9df"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "5e1cfc1d54328f869ce2a8375ab587eebd1d1e29", 
+      "title": "Models and Indices for Integrating Unstructured Data with a Relational Database", 
+      "url": "https://www.semanticscholar.org/paper/5e1cfc1d54328f869ce2a8375ab587eebd1d1e29"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "48ad269b6b08a3245f26416ea509eae736d376b0", 
+      "title": "Heterogeneous Deep Web Data Extraction Using Ontology Evolution", 
+      "url": "https://www.semanticscholar.org/paper/48ad269b6b08a3245f26416ea509eae736d376b0"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "1e026a8f6995465d1bdadae02a6139ee08ea5863", 
+      "title": "Exploiting dictionaries in named entity extraction: combining semi-Markov extraction processes and data integration methods", 
+      "url": "https://www.semanticscholar.org/paper/1e026a8f6995465d1bdadae02a6139ee08ea5863"
+    }, 
+    {
+      "isInfluential": true, 
+      "paperId": "85b4073b62888dcca4033f3abb08222f519506a1", 
+      "title": "Protein names and how to find them", 
+      "url": "https://www.semanticscholar.org/paper/85b4073b62888dcca4033f3abb08222f519506a1"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "d011dc9787e1821686e946c159cb7908cc543f91", 
+      "title": "Perspectives on Chinese Question Answering Systems", 
+      "url": "https://www.semanticscholar.org/paper/d011dc9787e1821686e946c159cb7908cc543f91"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "2f2302cbbf0a1dfd7a4202024f735e4c09af615a", 
+      "title": "Estimating Reliability of Contextual Evidences in Decision-List Classifiers under Bayesian Learning", 
+      "url": "https://www.semanticscholar.org/paper/2f2302cbbf0a1dfd7a4202024f735e4c09af615a"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "2d9700498f99ca59bbd0b33fd8644f7127ae0663", 
+      "title": "Image Retrieval Using Natural Language and Content-Based Techniques", 
+      "url": "https://www.semanticscholar.org/paper/2d9700498f99ca59bbd0b33fd8644f7127ae0663"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "5e6ebc7b0aa3bbe2dbecceb89e11439c550a70e7", 
+      "title": "Text-Based Event Temporal Resolution and Reasoning for Information Analytics in Big Data", 
+      "url": "https://www.semanticscholar.org/paper/5e6ebc7b0aa3bbe2dbecceb89e11439c550a70e7"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "4ac45467be64f0b8a5bcabcc1d9c84b4cd8330c4", 
+      "title": "Intelligent Combination of Structural Analysis Algorithms: Application to Mathematical Expression Recognition", 
+      "url": "https://www.semanticscholar.org/paper/4ac45467be64f0b8a5bcabcc1d9c84b4cd8330c4"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "1c6b0f1a541472d6ecf68a9960ebcccd51495928", 
+      "title": "Searching with context", 
+      "url": "https://www.semanticscholar.org/paper/1c6b0f1a541472d6ecf68a9960ebcccd51495928"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "622562d5acb55cca5eebe2b3c6492672f05ed041", 
+      "title": "Exploring the corporate ecosystem with a semi-supervised entity graph", 
+      "url": "https://www.semanticscholar.org/paper/622562d5acb55cca5eebe2b3c6492672f05ed041"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "9019b3e6cf9c52f02e760d47a54f96147760925c", 
+      "title": "An analysis of sentence level text classification for the Kannada language", 
+      "url": "https://www.semanticscholar.org/paper/9019b3e6cf9c52f02e760d47a54f96147760925c"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "d1512e5cd37fed8fec11e3dba42eed7c1fdef340", 
+      "title": "A Rules Based System for Named Entity Recognition in Modern Standard Arabic", 
+      "url": "https://www.semanticscholar.org/paper/d1512e5cd37fed8fec11e3dba42eed7c1fdef340"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "19a32ef669daf7f5478e992c66c19086c09aa000", 
+      "title": "Building text-based temporally linked event network for scientific big data analytics", 
+      "url": "https://www.semanticscholar.org/paper/19a32ef669daf7f5478e992c66c19086c09aa000"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "4fe40005bbd0d9c0f065171613a7e22624779927", 
+      "title": "Improving Named Entity Recognition using Annotated Corpora", 
+      "url": "https://www.semanticscholar.org/paper/4fe40005bbd0d9c0f065171613a7e22624779927"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "65ce4ba59a2e31da031aaf22b856517ea492d84a", 
+      "title": "New Ranking Algorithms for Parsing and Tagging: Kernels over Discrete Structures, and the Voted Perceptron", 
+      "url": "https://www.semanticscholar.org/paper/65ce4ba59a2e31da031aaf22b856517ea492d84a"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "2f29f4f62d5b2c621dc0d9752ec536b4ef56496f", 
+      "title": "A Faster Iterative Scaling Algorithm for Conditional Exponential Model", 
+      "url": "https://www.semanticscholar.org/paper/2f29f4f62d5b2c621dc0d9752ec536b4ef56496f"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "9e39c7994131ba231939c61b935b52e3f45a9657", 
+      "title": "Named Entity Recognition for South and South East Asian Languages: Taking Stock", 
+      "url": "https://www.semanticscholar.org/paper/9e39c7994131ba231939c61b935b52e3f45a9657"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "a1840f7878f08e63e00b3c2e738d324713b0a4f4", 
+      "title": "Rapid Training of Information Extraction with Local and Global Data Views", 
+      "url": "https://www.semanticscholar.org/paper/a1840f7878f08e63e00b3c2e738d324713b0a4f4"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "1c57660029b1d5a5e2a08af21b856d169200401b", 
+      "title": "Web-scale named entity recognition", 
+      "url": "https://www.semanticscholar.org/paper/1c57660029b1d5a5e2a08af21b856d169200401b"
+    }, 
+    {
+      "isInfluential": true, 
+      "paperId": "b19f9a6ba5e62de7e8d5e744c2cd008ec497633b", 
+      "title": "Bunsetsu Identi cation Using Category-Exclusive Rules", 
+      "url": "https://www.semanticscholar.org/paper/b19f9a6ba5e62de7e8d5e744c2cd008ec497633b"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "d512985e6214adaed3673673d1f21fe40afc5018", 
+      "title": "Coope\u0301ration de me\u0301thodes statistiques et symboliques pour l\u2019adaptation non-supervise\u0301e d\u2019un syste\u0300me d\u2019e\u0301tiquetage en entite\u0301s nomme\u0301es", 
+      "url": "https://www.semanticscholar.org/paper/d512985e6214adaed3673673d1f21fe40afc5018"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "135ace829b6ad2ec9db040d8e5fd137034e83665", 
+      "title": "Semi-Markov Conditional Random Fields for Information Extraction", 
+      "url": "https://www.semanticscholar.org/paper/135ace829b6ad2ec9db040d8e5fd137034e83665"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "1e218fa715ea97af2b409592700f74632e118445", 
+      "title": "HONOURS YEAR PROJECT REPORT Citation Parsing Using Maximum Entropy and Repairs", 
+      "url": "https://www.semanticscholar.org/paper/1e218fa715ea97af2b409592700f74632e118445"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "2ea1884a05449ff51dbffe4e5500ea31c8e97189", 
+      "title": "Integrating Unstructured Data into Relational Databases", 
+      "url": "https://www.semanticscholar.org/paper/2ea1884a05449ff51dbffe4e5500ea31c8e97189"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "405094f51616e459a2176bd256cc59d1e31047ce", 
+      "title": "Log-Linear Models", 
+      "url": "https://www.semanticscholar.org/paper/405094f51616e459a2176bd256cc59d1e31047ce"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "f705168c970f1cb13ae8003ab9cfc4c4e7c91e09", 
+      "title": "Identification of Composite Named Entities in a Spanish Textual Database", 
+      "url": "https://www.semanticscholar.org/paper/f705168c970f1cb13ae8003ab9cfc4c4e7c91e09"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "c1129f8498a57f9c32d9fc5503fe0b06742e89ae", 
+      "title": "Transforming Examples Into Patterns For Information Extraction", 
+      "url": "https://www.semanticscholar.org/paper/c1129f8498a57f9c32d9fc5503fe0b06742e89ae"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "4f9f2e3b7490c680260db0a7d82f28d198c722ef", 
+      "title": "Minimally Supervised Japanese Named Entity Recognition: Resources and Evaluation", 
+      "url": "https://www.semanticscholar.org/paper/4f9f2e3b7490c680260db0a7d82f28d198c722ef"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "3235007afef3f3df811e1283b1120d9b39b954c3", 
+      "title": "Statistical Methods in Natural Language Processing", 
+      "url": "https://www.semanticscholar.org/paper/3235007afef3f3df811e1283b1120d9b39b954c3"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "6e0de67eb86e9fb556ef0269d9e42455bf412be2", 
+      "title": "Token Identification Using HMM and PPM Models", 
+      "url": "https://www.semanticscholar.org/paper/6e0de67eb86e9fb556ef0269d9e42455bf412be2"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "4f352f2a34f963e0a6aced6dfeabd7d9f5224f63", 
+      "title": "A Speech-Driven Second Screen Application for TV Program Discovery", 
+      "url": "https://www.semanticscholar.org/paper/4f352f2a34f963e0a6aced6dfeabd7d9f5224f63"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "2b6fb149239f207656a16f3170fb32f7872623b8", 
+      "title": "30. Information Extraction 30.1 Name Identification and Classification", 
+      "url": "https://www.semanticscholar.org/paper/2b6fb149239f207656a16f3170fb32f7872623b8"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "00f4d2c7a21d836d90f5f2363cd14b410fb6c6b4", 
+      "title": "Feature Engineering and Post-Processing for Temporal Expression Recognition Using Conditional Random Fields", 
+      "url": "https://www.semanticscholar.org/paper/00f4d2c7a21d836d90f5f2363cd14b410fb6c6b4"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "4d25cec4d3229ce26952351a4207436487a109ea", 
+      "title": "Name Tagging Using Lexical, Contextual, and Morphological Information", 
+      "url": "https://www.semanticscholar.org/paper/4d25cec4d3229ce26952351a4207436487a109ea"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "6f78e4320ba3ad07d7a326a2102133768d329ce1", 
+      "title": "Work-in-Progress: Automated Named Entity Extraction for Tracking Censorship of Current Events", 
+      "url": "https://www.semanticscholar.org/paper/6f78e4320ba3ad07d7a326a2102133768d329ce1"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "23d6d974f574c09e3e5b4d86ae68431e842e1b7b", 
+      "title": "Eugene Agichtein: Curriculum Vitae", 
+      "url": "https://www.semanticscholar.org/paper/23d6d974f574c09e3e5b4d86ae68431e842e1b7b"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "2d427f6b75133bd0cd8822555032972d619937ce", 
+      "title": "Log-Linear Models", 
+      "url": "https://www.semanticscholar.org/paper/2d427f6b75133bd0cd8822555032972d619937ce"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "a8398fafb64aca0f1f2ec1e00271a2edeb0336ab", 
+      "title": "Efficient Batch Top-k Search for Dictionary-based Entity Recognition", 
+      "url": "https://www.semanticscholar.org/paper/a8398fafb64aca0f1f2ec1e00271a2edeb0336ab"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "34676d24c71461afa6175db485ccd6c9f52c880a", 
+      "title": "EIGHT INTERNATIONAL WORKSHOP ON ACADEMIC INFORMATION NETWORKS AND SYSTEMS (WAINS 8) Collaboration on Named Entity Discovery in Thai Agricultural Texts", 
+      "url": "https://www.semanticscholar.org/paper/34676d24c71461afa6175db485ccd6c9f52c880a"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "006adb55612bb26e5de06e1f66f0765379103fda", 
+      "title": "Cross-Domain Bootstrapping for Named Entity Recognition", 
+      "url": "https://www.semanticscholar.org/paper/006adb55612bb26e5de06e1f66f0765379103fda"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "1b1eed518d7f0c67874a5e6e018486feb3923732", 
+      "title": "Early results for Named Entity Recognition with Conditional Random Fields, Feature Induction and Web-Enhanced Lexicons", 
+      "url": "https://www.semanticscholar.org/paper/1b1eed518d7f0c67874a5e6e018486feb3923732"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "db42c3ec9d8d57cbad7ca815a680b41a73823eeb", 
+      "title": "New Ranking Algorithms for Parsing and Tagging: Kernels over Discrete Structures, and the Voted Perceptron New Ranking Algorithms for Parsing and Tagging: Kernels over Discrete Structures, and the Voted Perceptron", 
+      "url": "https://www.semanticscholar.org/paper/db42c3ec9d8d57cbad7ca815a680b41a73823eeb"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "62180bd5698b5d6267bbeeeaee8d8c32a221bbfc", 
+      "title": "Recognition of Named Entities in Spanish Texts", 
+      "url": "https://www.semanticscholar.org/paper/62180bd5698b5d6267bbeeeaee8d8c32a221bbfc"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "3f03ba00590bc8eed52e5bc20ce54c699d3317b2", 
+      "title": "Unsupervised knowledge acquisition for Extracting Named Entities from speech", 
+      "url": "https://www.semanticscholar.org/paper/3f03ba00590bc8eed52e5bc20ce54c699d3317b2"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "4475d72eec0c720ab8f2422408fd786d1d9df54f", 
+      "title": "Creation of an Expert Witness Database Through Text Mining", 
+      "url": "https://www.semanticscholar.org/paper/4475d72eec0c720ab8f2422408fd786d1d9df54f"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "b23b3793d5a5136569a9ca77a56b177c86a5872a", 
+      "title": "Towards large-scale, open-domain and ontology-based named entity classification1", 
+      "url": "https://www.semanticscholar.org/paper/b23b3793d5a5136569a9ca77a56b177c86a5872a"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "120f053edfcfe78c4b9b519a13202e29245a685a", 
+      "title": "Bio-medical entity extraction using support vector machines", 
+      "url": "https://www.semanticscholar.org/paper/120f053edfcfe78c4b9b519a13202e29245a685a"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "c4ca84d400f616ff60efec7e66cebec1ee16ea51", 
+      "title": "Entity and Aspect Extraction for Organizing News Comments", 
+      "url": "https://www.semanticscholar.org/paper/c4ca84d400f616ff60efec7e66cebec1ee16ea51"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "e71d820b1a90e6072c24c0ed8fa7b8d2bfbe4093", 
+      "title": "A New Fuzzy Support Vector Machine Method for Named Entity Recognition", 
+      "url": "https://www.semanticscholar.org/paper/e71d820b1a90e6072c24c0ed8fa7b8d2bfbe4093"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "0556974a512dca16b5b936543cdea703278c29a2", 
+      "title": "Efficiently Inducing Features of Conditional Random Fields", 
+      "url": "https://www.semanticscholar.org/paper/0556974a512dca16b5b936543cdea703278c29a2"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "015125106ca68885d39e8f6544d654ad3bb559a4", 
+      "title": "Leveraging context in user-centric entity detection systems", 
+      "url": "https://www.semanticscholar.org/paper/015125106ca68885d39e8f6544d654ad3bb559a4"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "02aebef93baeef3396f3cb4468a7054067f190c6", 
+      "title": "Structured Databases of Named Entities from Bayesian Nonparametrics", 
+      "url": "https://www.semanticscholar.org/paper/02aebef93baeef3396f3cb4468a7054067f190c6"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "499e81683cb0e2da5e00dff25403e490471920f6", 
+      "title": "Extended Named Entity Hierarchy", 
+      "url": "https://www.semanticscholar.org/paper/499e81683cb0e2da5e00dff25403e490471920f6"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "6d35376f1f44206ae2a434e334f4b1abee72cd86", 
+      "title": "Support Vector Machine for Hindi Parts-of-speech Tagging and Named Entity Recognition Tasks", 
+      "url": "https://www.semanticscholar.org/paper/6d35376f1f44206ae2a434e334f4b1abee72cd86"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "37aabd8acd68fdcf2595691ac1261b23a86f2905", 
+      "title": "FLOOD: A Planning Framework for Reasoning with Linguistic Data", 
+      "url": "https://www.semanticscholar.org/paper/37aabd8acd68fdcf2595691ac1261b23a86f2905"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "a6c3dd11950709a41b4b5fdb7edb8f3d37d4c60e", 
+      "title": "Applying Coreference To Improve Name Recognition", 
+      "url": "https://www.semanticscholar.org/paper/a6c3dd11950709a41b4b5fdb7edb8f3d37d4c60e"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "e08929673048a0621b3ce26d94a2fde2a3501e8f", 
+      "title": "Coupling Knowledge-Based and Data-Driven Systems for Named Entity Recognition", 
+      "url": "https://www.semanticscholar.org/paper/e08929673048a0621b3ce26d94a2fde2a3501e8f"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "7bf58ae861194f39e2ebdb0d4f498cccb55e7602", 
+      "title": "Pattern Mining for Named Entity Recognition", 
+      "url": "https://www.semanticscholar.org/paper/7bf58ae861194f39e2ebdb0d4f498cccb55e7602"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "11c4c3f8fbd35e8d9e6000b0d8bc56179fbec73a", 
+      "title": "Joint Information Extraction", 
+      "url": "https://www.semanticscholar.org/paper/11c4c3f8fbd35e8d9e6000b0d8bc56179fbec73a"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "ec249b3c7f9da2181170f09c9881849278f1c81a", 
+      "title": "Using Markov Models for Named Entity recognition in German newspapers", 
+      "url": "https://www.semanticscholar.org/paper/ec249b3c7f9da2181170f09c9881849278f1c81a"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "6fbb734413870e1d4771f0c30fc5f3f7b973109f", 
+      "title": "Converting on-line bilingual dictionaries from human-readable to machine-readable form", 
+      "url": "https://www.semanticscholar.org/paper/6fbb734413870e1d4771f0c30fc5f3f7b973109f"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "1e699172679560b1623563cf5c4770322f84aff5", 
+      "title": "LIPTUS: associating structured and unstructured information in a banking environment", 
+      "url": "https://www.semanticscholar.org/paper/1e699172679560b1623563cf5c4770322f84aff5"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "e15fce370f08e18361405437dec329810d45d2ab", 
+      "title": "Introduction to Syntactic Parsing", 
+      "url": "https://www.semanticscholar.org/paper/e15fce370f08e18361405437dec329810d45d2ab"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "2ca1f8a9fef47ea03e79a3b4d83b23b368b872a8", 
+      "title": "Fine Tuning Features and Post-processing Rules to Improve Named Entity Recognition", 
+      "url": "https://www.semanticscholar.org/paper/2ca1f8a9fef47ea03e79a3b4d83b23b368b872a8"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "f3a467f1a32b844b3f04321212d49ee4f215d484", 
+      "title": "Named Entity Recognition Approaches", 
+      "url": "https://www.semanticscholar.org/paper/f3a467f1a32b844b3f04321212d49ee4f215d484"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "611bfbd4b5fb8416cfffd807131afc661ad78925", 
+      "title": "Helping satisfy multiple objectives during a service desk conversation", 
+      "url": "https://www.semanticscholar.org/paper/611bfbd4b5fb8416cfffd807131afc661ad78925"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "c72b8feeb3400d9cc71f9ee014c268668a5f212c", 
+      "title": "A Hybrid Learning for Named Entity Recognition Systems", 
+      "url": "https://www.semanticscholar.org/paper/c72b8feeb3400d9cc71f9ee014c268668a5f212c"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "8b8daf39bf9de05b63ee9cb264367df584f74ba5", 
+      "title": "Robust Named Entity Extraction from Large Spoken Archives", 
+      "url": "https://www.semanticscholar.org/paper/8b8daf39bf9de05b63ee9cb264367df584f74ba5"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "b893db801e28b45e1322b6b52606ff4b39597eac", 
+      "title": "NER for Hindi language using association rules", 
+      "url": "https://www.semanticscholar.org/paper/b893db801e28b45e1322b6b52606ff4b39597eac"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "3403aae0ada731288a60cf5b3802c70dcb542851", 
+      "title": "Syntactic Parser Combination For Improved Dependency Analysis", 
+      "url": "https://www.semanticscholar.org/paper/3403aae0ada731288a60cf5b3802c70dcb542851"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "535f36743627e8e24f1975bf15513c9a4b8cbdde", 
+      "title": "Named entity recognition approaches: A study applied to English and Hindi language", 
+      "url": "https://www.semanticscholar.org/paper/535f36743627e8e24f1975bf15513c9a4b8cbdde"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "dab0482441e8e29fcc7ac55a36b06fd5041fe248", 
+      "title": "Adapting Data Mining for German Named Entity Recognition", 
+      "url": "https://www.semanticscholar.org/paper/dab0482441e8e29fcc7ac55a36b06fd5041fe248"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "2728f073bf2457e27642cdbb58942a1299eb4414", 
+      "title": "Domain Specific Facts Extraction Using Weakly Supervised Active Learning Approach", 
+      "url": "https://www.semanticscholar.org/paper/2728f073bf2457e27642cdbb58942a1299eb4414"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "43ccd087369ec2158d885ec120cb896825c522a0", 
+      "title": "Combining Outputs Of Multiple Japanese Named Entity Chunkers By Stacking", 
+      "url": "https://www.semanticscholar.org/paper/43ccd087369ec2158d885ec120cb896825c522a0"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "4e270f4fe18805cec06c41e269b3a7ed3db5d315", 
+      "title": "A Semantically Annotated Corpus from MEDLINE Abstracts", 
+      "url": "https://www.semanticscholar.org/paper/4e270f4fe18805cec06c41e269b3a7ed3db5d315"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "701046ff0f52faa22427b2c7ffb0ed58e5e48004", 
+      "title": "Information Extraction: Capabilities and Challenges", 
+      "url": "https://www.semanticscholar.org/paper/701046ff0f52faa22427b2c7ffb0ed58e5e48004"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "a9dcc06b9a8deba432a1b697ba5959068ef0b655", 
+      "title": "Lecture 1: COMS E6998-3, Spring 2011 Log-Linear Models", 
+      "url": "https://www.semanticscholar.org/paper/a9dcc06b9a8deba432a1b697ba5959068ef0b655"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "54c04d731368ad14ab3902c1abae46b8b62cb633", 
+      "title": "A Statistical Model for Multilingual Entity Detection and Tracking", 
+      "url": "https://www.semanticscholar.org/paper/54c04d731368ad14ab3902c1abae46b8b62cb633"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "10c4bf7e8d94f1a822bae910b250e2b27ee5d748", 
+      "title": "Exploiting Diversity in Natural Language Processing: Combining Parsers", 
+      "url": "https://www.semanticscholar.org/paper/10c4bf7e8d94f1a822bae910b250e2b27ee5d748"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "47f9230b0ccbd308154f9a4076a0e215baaf04cd", 
+      "title": "Reinforcement Learning for Transition-Based Mention Detection", 
+      "url": "https://www.semanticscholar.org/paper/47f9230b0ccbd308154f9a4076a0e215baaf04cd"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "6efc191f589802b69b8dcd9de8607b94a10a32a3", 
+      "title": "Efficient inference on sequence segmentation models", 
+      "url": "https://www.semanticscholar.org/paper/6efc191f589802b69b8dcd9de8607b94a10a32a3"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "8392a65563ae17c43a3833b3e26092f1d11f0495", 
+      "title": "Efficiently Linking Text Documents with Relevant Structured Information", 
+      "url": "https://www.semanticscholar.org/paper/8392a65563ae17c43a3833b3e26092f1d11f0495"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "7efdda742c23b161d2037c73975bbb1524d21fac", 
+      "title": "Automatic Assessment of Document Quality in Web Collaborative Digital Libraries", 
+      "url": "https://www.semanticscholar.org/paper/7efdda742c23b161d2037c73975bbb1524d21fac"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "112c1d6eb512ea986cdc4db951fbbfdb7f65b905", 
+      "title": "A Named Entity Recognition System for Dutch", 
+      "url": "https://www.semanticscholar.org/paper/112c1d6eb512ea986cdc4db951fbbfdb7f65b905"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "2f46a3fe6b04c6a0828260234552088f84a83f17", 
+      "title": "Information Extraction via Path Merging", 
+      "url": "https://www.semanticscholar.org/paper/2f46a3fe6b04c6a0828260234552088f84a83f17"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "0f931097dc4f404866c480096601f009093a1343", 
+      "title": "Learning to Recognize Phenotype Candidates in the Auto-Immune Literature Using SVM Re-Ranking", 
+      "url": "https://www.semanticscholar.org/paper/0f931097dc4f404866c480096601f009093a1343"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "24f41dbc06b36fe2ca47ada9cc390f787a843db8", 
+      "title": "Extracting relevant named entities for automated expense reimbursement", 
+      "url": "https://www.semanticscholar.org/paper/24f41dbc06b36fe2ca47ada9cc390f787a843db8"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "6ae4862653eb85ddb12db2e641aad882bda3f5fc", 
+      "title": "Sequence data mining", 
+      "url": "https://www.semanticscholar.org/paper/6ae4862653eb85ddb12db2e641aad882bda3f5fc"
+    }, 
+    {
+      "isInfluential": true, 
+      "paperId": "fa3cc74cb9ef020e532d34fadac1bd7c69d5639a", 
+      "title": "Text Mining Using HMM and PPM", 
+      "url": "https://www.semanticscholar.org/paper/fa3cc74cb9ef020e532d34fadac1bd7c69d5639a"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "db50ab2d513c2b545953a95c75526690bc3b2e63", 
+      "title": "A Statistical Information Extraction System for Turkish Abstract a Statistical Information Extraction System for Turkish It Was a Pleasure Working with Andreas Stolcke and Elizabeth Shriberg. I Learned a Lot from Them. I Also Would like to Thank", 
+      "url": "https://www.semanticscholar.org/paper/db50ab2d513c2b545953a95c75526690bc3b2e63"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "d3965493d636ae522b0aac1c220008693dbaf08f", 
+      "title": "Uma Abordagem Multi-Vis\u00e3o para a Estimativa de Qualidade de Artigos de Wikis", 
+      "url": "https://www.semanticscholar.org/paper/d3965493d636ae522b0aac1c220008693dbaf08f"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "39669dddd0c1a6991d9f992f36ee9fd2035f553e", 
+      "title": "Effective named entity recognition for idiosyncratic web collections", 
+      "url": "https://www.semanticscholar.org/paper/39669dddd0c1a6991d9f992f36ee9fd2035f553e"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "299a7b6d4696830ae0f444a7784b6373914329c9", 
+      "title": "Document Souls: Joining Personalities to Documents to produce pro-active documents engaged in contextualized, independent search", 
+      "url": "https://www.semanticscholar.org/paper/299a7b6d4696830ae0f444a7784b6373914329c9"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "4448ff966cfc753723a86478e1a3b6f9d5015cf3", 
+      "title": "Statistical methods in natural language understanding and spoken dialogue systems", 
+      "url": "https://www.semanticscholar.org/paper/4448ff966cfc753723a86478e1a3b6f9d5015cf3"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "340037b9e01214571aa72a536d6785add78df212", 
+      "title": "Enrichment of Language Resources by Exploiting New Text and the Resources Themselves A case study on the acquisition of a NE lexicon", 
+      "url": "https://www.semanticscholar.org/paper/340037b9e01214571aa72a536d6785add78df212"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "24770585a6aa3dead91b5ad42bb151b1ae70b316", 
+      "title": "Maximum Entropy Markov Models for Information Extraction and Segmentation", 
+      "url": "https://www.semanticscholar.org/paper/24770585a6aa3dead91b5ad42bb151b1ae70b316"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "54d71297fbe1ccd2fe3e9a821b1db49711dc9c0c", 
+      "title": "Recognizing Named Entities using Automatically Extracted Transduction Rules", 
+      "url": "https://www.semanticscholar.org/paper/54d71297fbe1ccd2fe3e9a821b1db49711dc9c0c"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "07777851c80b934f718d8450275d933e44e22832", 
+      "title": "Text Mining for Building a Biomedical Knowledge Base on Diseases, Risk Factors, and Symptoms", 
+      "url": "https://www.semanticscholar.org/paper/07777851c80b934f718d8450275d933e44e22832"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "30ee43f18b355e8bb686aa7e8a83f05e05228a1c", 
+      "title": "Feature Engineering And Post-Processing For Temporal Expression Recognition Using Conditional Random Fields", 
+      "url": "https://www.semanticscholar.org/paper/30ee43f18b355e8bb686aa7e8a83f05e05228a1c"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "5800924193263c8021cf913a328f6cb4ab878d62", 
+      "title": "Improving Mention Detection Robustness to Noisy Input", 
+      "url": "https://www.semanticscholar.org/paper/5800924193263c8021cf913a328f6cb4ab878d62"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "90483b99a7e234145b333e88f50210742b276995", 
+      "title": "Improving Parsing Accuracy By Combining Diverse Dependency Parsers", 
+      "url": "https://www.semanticscholar.org/paper/90483b99a7e234145b333e88f50210742b276995"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "d31047ea7b41008c90800a58f9f06866650d34f3", 
+      "title": "A Hybrid Statistical Approach for Named Entity Recognition for Malayalam Language", 
+      "url": "https://www.semanticscholar.org/paper/d31047ea7b41008c90800a58f9f06866650d34f3"
+    }
+  ], 
+  "doi": null, 
+  "influentialCitationCount": 5, 
+  "paperId": "4df361d65a15ca9a7fc27c58c38b04d1f41e6f62", 
+  "references": [
+    {
+      "isInfluential": false, 
+      "paperId": "3e0240b0db8395495d250927945cee3ac4ad03eb", 
+      "title": "Nymble: a High-Performance Learning Name-finder", 
+      "url": "https://www.semanticscholar.org/paper/3e0240b0db8395495d250927945cee3ac4ad03eb"
+    }, 
+    {
+      "isInfluential": true, 
+      "paperId": "1402c118de9ff2340557b5d9879e91083a0d6df4", 
+      "title": "Algorithms That Learn To Extract Information - BBN: Description Of The SIFT System As Used For MUC-7", 
+      "url": "https://www.semanticscholar.org/paper/1402c118de9ff2340557b5d9879e91083a0d6df4"
+    }, 
+    {
+      "isInfluential": true, 
+      "paperId": "2e5b428cc51d93201ac74afc6a645dd9133bf26f", 
+      "title": "MUC-7 Evaluation Of IE Technology: Overview Of Results", 
+      "url": "https://www.semanticscholar.org/paper/2e5b428cc51d93201ac74afc6a645dd9133bf26f"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "5460cfac459ffd0e708e9e34bd9fc27baa2092df", 
+      "title": "Inducing Features of Random Fields", 
+      "url": "https://www.semanticscholar.org/paper/5460cfac459ffd0e708e9e34bd9fc27baa2092df"
+    }, 
+    {
+      "isInfluential": true, 
+      "paperId": "39df62f0f1b87ec1685cf28ce795dc5c26e112fe", 
+      "title": "Using Collocation Statistics In Information Extraction", 
+      "url": "https://www.semanticscholar.org/paper/39df62f0f1b87ec1685cf28ce795dc5c26e112fe"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "497355583d46f1bdd3487f4a59133fa5d246b798", 
+      "title": "NYU: Description Of The MENE Named Entity System As Used In MUC-7", 
+      "url": "https://www.semanticscholar.org/paper/497355583d46f1bdd3487f4a59133fa5d246b798"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "04e7dbb55364727ce5f06fd97e7bc83c4d9bffcd", 
+      "title": "Probabilistic Coreference in Information Extraction", 
+      "url": "https://www.semanticscholar.org/paper/04e7dbb55364727ce5f06fd97e7bc83c4d9bffcd"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "5b038983b55f8f1a65923cd3c01fc0703bcfa47a", 
+      "title": "Maximum Entropy Modeling Toolkit", 
+      "url": "https://www.semanticscholar.org/paper/5b038983b55f8f1a65923cd3c01fc0703bcfa47a"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "78fcbe93ece4c5cfa2b03f99948f8953aa37c8f9", 
+      "title": "A Decision Tree Method For Finding And Classifying Names In Japanese Texts", 
+      "url": "https://www.semanticscholar.org/paper/78fcbe93ece4c5cfa2b03f99948f8953aa37c8f9"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "54c846ee00c6132d70429cc279e8577f63ed05e4", 
+      "title": "A Linear Observed Time Statistical Parser Based on Maximum Entropy Models", 
+      "url": "https://www.semanticscholar.org/paper/54c846ee00c6132d70429cc279e8577f63ed05e4"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "3ab84dd5239a393ee5749a8ec772b5b7f27f82fb", 
+      "title": "A Comparison of Criteria for Maximum Entropy/ Minimum Divergence Feature Selection", 
+      "url": "https://www.semanticscholar.org/paper/3ab84dd5239a393ee5749a8ec772b5b7f27f82fb"
+    }, 
+    {
+      "isInfluential": true, 
+      "paperId": "4af182338ee63754d4569c26cb6a5c3bbdd8cf2a", 
+      "title": "A Maximum Entropy Approach to Natural Language Processing", 
+      "url": "https://www.semanticscholar.org/paper/4af182338ee63754d4569c26cb6a5c3bbdd8cf2a"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "35dc40b6680d302df634e0e3eee0e4e8d43161e4", 
+      "title": "The NYU system for MUC-6 or where's the syntax?", 
+      "url": "https://www.semanticscholar.org/paper/35dc40b6680d302df634e0e3eee0e4e8d43161e4"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "0f161ac594fe478e4192b2c2a8a5fed7d0d1837e", 
+      "title": "A Simple Introduction to Maximum Entropy Models for Natural Language Processing", 
+      "url": "https://www.semanticscholar.org/paper/0f161ac594fe478e4192b2c2a8a5fed7d0d1837e"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "24beb987b722d4a25d3157a43000e685aa8f8874", 
+      "title": "A Maximum Entropy Model For Part-Of-Speech Tagging", 
+      "url": "https://www.semanticscholar.org/paper/24beb987b722d4a25d3157a43000e685aa8f8874"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "2bef655b75b17663b651e76cd3569e051dff2b66", 
+      "title": "Adaptive Statistical Language Modeling: A Maximum Entropy Approach", 
+      "url": "https://www.semanticscholar.org/paper/2bef655b75b17663b651e76cd3569e051dff2b66"
+    }
+  ], 
+  "title": "Exploiting Diverse Knowledge Sources Via Maximum Entropy In Named Entity Recognition", 
+  "url": "https://www.semanticscholar.org/paper/4df361d65a15ca9a7fc27c58c38b04d1f41e6f62", 
+  "venue": ""
+}

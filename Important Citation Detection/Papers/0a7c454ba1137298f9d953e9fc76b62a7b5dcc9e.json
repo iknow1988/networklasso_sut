@@ -1,0 +1,905 @@
+{
+  "authors": [
+    {
+      "authorId": "2105138", 
+      "name": "Steven Bethard", 
+      "url": "https://www.semanticscholar.org/author/2105138"
+    }, 
+    {
+      "authorId": "1738540", 
+      "name": "Hong Yu", 
+      "url": "https://www.semanticscholar.org/author/1738540"
+    }, 
+    {
+      "authorId": "16518284", 
+      "name": "Ashley Thornton", 
+      "url": "https://www.semanticscholar.org/author/16518284"
+    }, 
+    {
+      "authorId": "1799688", 
+      "name": "Vasileios Hatzivassiloglou", 
+      "url": "https://www.semanticscholar.org/author/1799688"
+    }, 
+    {
+      "authorId": "1746807", 
+      "name": "Dan Jurafsky", 
+      "url": "https://www.semanticscholar.org/author/1746807"
+    }
+  ], 
+  "citationVelocity": 0, 
+  "citations": [
+    {
+      "isInfluential": false, 
+      "paperId": "0335e960051528ad8a552ec584bb299f49e008ac", 
+      "title": "Identifying Opinion Subgroups in Arabic Online Discussions", 
+      "url": "https://www.semanticscholar.org/paper/0335e960051528ad8a552ec584bb299f49e008ac", 
+      "venue": "ACL", 
+      "year": 2013
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "d1d9e37907feccc3a478b688f8e33e97e2911037", 
+      "title": "On Graphical Modeling of Preference and Importance", 
+      "url": "https://www.semanticscholar.org/paper/d1d9e37907feccc3a478b688f8e33e97e2911037", 
+      "venue": "J. Artif. Intell. Res.", 
+      "year": 2006
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "f449b23d8d2afb4321ba7f60a8d265334aad5eae", 
+      "title": "Semantic Affect Sensing in User Generated Contents: An Intelligent Machine Informatics to Audit Human Sentiments", 
+      "url": "https://www.semanticscholar.org/paper/f449b23d8d2afb4321ba7f60a8d265334aad5eae", 
+      "venue": "", 
+      "year": 2012
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "6deb01576afaea037fd0a06f190b62e2a1ffe1cb", 
+      "title": "Automatic extraction and classification approach of opinions in texts", 
+      "url": "https://www.semanticscholar.org/paper/6deb01576afaea037fd0a06f190b62e2a1ffe1cb", 
+      "venue": "2010 10th International Conference on Intelligent Systems Design and Applications", 
+      "year": 2010
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "58bfa50f517e8ec9c787a41930fcd33e935eae84", 
+      "title": "Extracting Opinions, Opinion Holders, And Topics Expressed In Online News Media Text", 
+      "url": "https://www.semanticscholar.org/paper/58bfa50f517e8ec9c787a41930fcd33e935eae84", 
+      "venue": "", 
+      "year": 2006
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "28580f14e6ff1991cee938eb39a3df4435e051c5", 
+      "title": "Annotations for Opinion Mining Evaluation in the Industrial Context of the DOXA project", 
+      "url": "https://www.semanticscholar.org/paper/28580f14e6ff1991cee938eb39a3df4435e051c5", 
+      "venue": "LREC", 
+      "year": 2010
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "03086d1ea707933399c530299e6216237c415ef1", 
+      "title": "Sentiment Analysis: Adjectives and Adverbs are Better than Adjectives Alone", 
+      "url": "https://www.semanticscholar.org/paper/03086d1ea707933399c530299e6216237c415ef1", 
+      "venue": "ICWSM", 
+      "year": 2007
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "d731e4ec66406737184ed225715b8b09f482ca3b", 
+      "title": "A Machine Learning Approach For Opinion Holder Extraction In Arabic Language", 
+      "url": "https://www.semanticscholar.org/paper/d731e4ec66406737184ed225715b8b09f482ca3b", 
+      "venue": "ArXiv", 
+      "year": 2012
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "1f653c4c628e6d41b22f81488ace31525ee00c49", 
+      "title": "Finding the Sources and Targets of Subjective Expressions", 
+      "url": "https://www.semanticscholar.org/paper/1f653c4c628e6d41b22f81488ace31525ee00c49", 
+      "venue": "LREC", 
+      "year": 2008
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "d04c0d1c386088f63c10d661aef1ce157fcff07c", 
+      "title": "PKUTM Experiments in NTCIR-8 MOAT Task", 
+      "url": "https://www.semanticscholar.org/paper/d04c0d1c386088f63c10d661aef1ce157fcff07c", 
+      "venue": "NTCIR", 
+      "year": 2010
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "22ffca983d62c1cd89c8c79a667a6b7641fbfce8", 
+      "title": "Opinion Extraction and Classification Based on Semantic Similarities", 
+      "url": "https://www.semanticscholar.org/paper/22ffca983d62c1cd89c8c79a667a6b7641fbfce8", 
+      "venue": "FLAIRS Conference", 
+      "year": 2011
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "6bd56472cde9b97bd015aba8408ee9d28e181a24", 
+      "title": "Creating a Fuzzy Believer to Model Human Newspaper Readers", 
+      "url": "https://www.semanticscholar.org/paper/6bd56472cde9b97bd015aba8408ee9d28e181a24", 
+      "venue": "Canadian Conference on AI", 
+      "year": 2007
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "db13150420999b3e61cf28be87d6fbe8ab7f1b8b", 
+      "title": "Hope and Fear: Interpreting Perspectives by Integrating Sentiment and Event Factuality", 
+      "url": "https://www.semanticscholar.org/paper/db13150420999b3e61cf28be87d6fbe8ab7f1b8b", 
+      "venue": "", 
+      "year": 2014
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "617006a1e182aec869c78fabc6b529f70d091d7b", 
+      "title": "E-Commerce Reviews Management System Based on Online Customer Reviews Mining", 
+      "url": "https://www.semanticscholar.org/paper/617006a1e182aec869c78fabc6b529f70d091d7b", 
+      "venue": "2010 International Conference on Innovative Computing and Communication and 2010 Asia-Pacific Conference on Information Technology and Ocean Engineering", 
+      "year": 2010
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "0b31c081d9d248906bc3f243b0fb7d9806e3822d", 
+      "title": "Processing of Beliefs extracted from Reported Speech in Newspaper Articles", 
+      "url": "https://www.semanticscholar.org/paper/0b31c081d9d248906bc3f243b0fb7d9806e3822d", 
+      "venue": "", 
+      "year": 2007
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "5cd4ea7ed137b0fa039c693972d21684258f4b8b", 
+      "title": "Emotion Holder for Emotional Verbs - The Role of Subject and Syntax", 
+      "url": "https://www.semanticscholar.org/paper/5cd4ea7ed137b0fa039c693972d21684258f4b8b", 
+      "venue": "CICLing", 
+      "year": 2010
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "09f3035f508393e7b7197c98aacbee135421e2a5", 
+      "title": "Supervised Approaches and Dependency Parsing for Chinese Opinion Analysis at NTCIR-8", 
+      "url": "https://www.semanticscholar.org/paper/09f3035f508393e7b7197c98aacbee135421e2a5", 
+      "venue": "NTCIR", 
+      "year": 2010
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "09015ee446422c4d018708665d8405fad4504974", 
+      "title": "Detecting Emotion Stimuli in Emotion-Bearing Sentences", 
+      "url": "https://www.semanticscholar.org/paper/09015ee446422c4d018708665d8405fad4504974", 
+      "venue": "CICLing", 
+      "year": 2015
+    }, 
+    {
+      "isInfluential": true, 
+      "paperId": "405d1aedef4df2a6ec9457876575c2c75ab8a5f7", 
+      "title": "Exploring the Music Genome: Lyric Clustering with Heterogeneous Features", 
+      "url": "https://www.semanticscholar.org/paper/405d1aedef4df2a6ec9457876575c2c75ab8a5f7", 
+      "venue": "", 
+      "year": 2007
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "a6f080a755cbedfdecd49d9a3b7fdfcd9686fd16", 
+      "title": "SVM based approach for opinion classification in Arabic written tweets", 
+      "url": "https://www.semanticscholar.org/paper/a6f080a755cbedfdecd49d9a3b7fdfcd9686fd16", 
+      "venue": "2015 IEEE/ACS 12th International Conference of Computer Systems and Applications (AICCSA)", 
+      "year": 2015
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "c3422b6c679f3bb649d590bbcd37b860dae5c852", 
+      "title": "Extracting opinion holders and targets in Romanian texts", 
+      "url": "https://www.semanticscholar.org/paper/c3422b6c679f3bb649d590bbcd37b860dae5c852", 
+      "venue": "2014 IEEE 10th International Conference on Intelligent Computer Communication and Processing (ICCP)", 
+      "year": 2014
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "0049cbb295c7b55513eb5ac345cc5c3c176f8c9e", 
+      "title": "And That's A Fact: Distinguishing Factual and Emotional Argumentation in Online Dialogue", 
+      "url": "https://www.semanticscholar.org/paper/0049cbb295c7b55513eb5ac345cc5c3c176f8c9e", 
+      "venue": "ArgMining@HLT-NAACL", 
+      "year": 2015
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "8852288dae1b086b1f92347aa927776684e12b09", 
+      "title": "An Ironic Fist in a Velvet Glove: Creative Mis-Representation in the Construction of Ironic Similes", 
+      "url": "https://www.semanticscholar.org/paper/8852288dae1b086b1f92347aa927776684e12b09", 
+      "venue": "Minds and Machines", 
+      "year": 2010
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "9bbedd2f25d0a32734991320daeac30d48935138", 
+      "title": "The role of idioms in sentiment analysis", 
+      "url": "https://www.semanticscholar.org/paper/9bbedd2f25d0a32734991320daeac30d48935138", 
+      "venue": "Expert Syst. Appl.", 
+      "year": 2015
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "337d81402dedbb664e3ba0baddb761084588cbbb", 
+      "title": "Joint Extraction of Entities and Relations for Opinion Recognition", 
+      "url": "https://www.semanticscholar.org/paper/337d81402dedbb664e3ba0baddb761084588cbbb", 
+      "venue": "EMNLP", 
+      "year": 2006
+    }, 
+    {
+      "isInfluential": true, 
+      "paperId": "b804a95eeda8c36a44df7c3bfb4a5ff1af15f497", 
+      "title": "Toward Opinion Summarization: Linking The Sources", 
+      "url": "https://www.semanticscholar.org/paper/b804a95eeda8c36a44df7c3bfb4a5ff1af15f497", 
+      "venue": "", 
+      "year": 2006
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "3df4122fda91be836eb12eb340f3dcec776605a3", 
+      "title": "Automatic Identification of Pro and Con Reasons in Online Reviews", 
+      "url": "https://www.semanticscholar.org/paper/3df4122fda91be836eb12eb340f3dcec776605a3", 
+      "venue": "ACL", 
+      "year": 2006
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "4109a5394fb9f4d087489558d2d42b120f810806", 
+      "title": "Multilingual Corpus Development for Opinion Mining", 
+      "url": "https://www.semanticscholar.org/paper/4109a5394fb9f4d087489558d2d42b120f810806", 
+      "venue": "LREC", 
+      "year": 2010
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "8b75a06b0a89a8e01730ffe8bac12afcbe579429", 
+      "title": "Introducing Argumention in Opinion Analysis: Language and Reasoning Challenges", 
+      "url": "https://www.semanticscholar.org/paper/8b75a06b0a89a8e01730ffe8bac12afcbe579429", 
+      "venue": "", 
+      "year": 2011
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "da9dc689ff60a6edfcf571cd2ea84cd8a5794263", 
+      "title": "Exploiting Polarity Features for Developing Sentiment Analysis Tool", 
+      "url": "https://www.semanticscholar.org/paper/da9dc689ff60a6edfcf571cd2ea84cd8a5794263", 
+      "venue": "", 
+      "year": 2017
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "8526a02062dd84e87e3fa3415a79ed1e9d578aef", 
+      "title": "Targeting Sentiment Expressions through Supervised Ranking of Linguistic Configurations", 
+      "url": "https://www.semanticscholar.org/paper/8526a02062dd84e87e3fa3415a79ed1e9d578aef", 
+      "venue": "ICWSM", 
+      "year": 2009
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "2d47720a8b0825e655a59f142d722924c396563b", 
+      "title": "Emotions on Bengali Blog Texts: Role of Holder and Topic", 
+      "url": "https://www.semanticscholar.org/paper/2d47720a8b0825e655a59f142d722924c396563b", 
+      "venue": "2011 International Conference on Advances in Social Networks Analysis and Mining", 
+      "year": 2011
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "43020733bf0b27a523229ee2c28c9847d1860df0", 
+      "title": "A Machine Learning Approach For Classifying Sentiments in Arabic tweets", 
+      "url": "https://www.semanticscholar.org/paper/43020733bf0b27a523229ee2c28c9847d1860df0", 
+      "venue": "WIMS", 
+      "year": 2016
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "6349e7b730d0ba9f384317563b05f8ba6162ff6f", 
+      "title": "Automatic Analysis and Reasoning on Reported Speech in Newspaper Articles", 
+      "url": "https://www.semanticscholar.org/paper/6349e7b730d0ba9f384317563b05f8ba6162ff6f", 
+      "venue": "", 
+      "year": 2007
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "41bba90258b03550a5957393bdbc34666b2c5046", 
+      "title": "Data Mining Cultural Aspects of Social Media Marketing", 
+      "url": "https://www.semanticscholar.org/paper/41bba90258b03550a5957393bdbc34666b2c5046", 
+      "venue": "ICDM", 
+      "year": 2014
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "f8062ae889448714435442ade03dc3effb96fd93", 
+      "title": "A Survey of Data Mining Techniques for Social Media Analysis", 
+      "url": "https://www.semanticscholar.org/paper/f8062ae889448714435442ade03dc3effb96fd93", 
+      "venue": "JDMDH", 
+      "year": 2014
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "df9804cef3d63c9ca401639d13a2b5f6e58822fb", 
+      "title": "Labeling Emotion in Bengali Blog Corpus \u2013 A Fine Grained Tagging at Sentence Level", 
+      "url": "https://www.semanticscholar.org/paper/df9804cef3d63c9ca401639d13a2b5f6e58822fb", 
+      "venue": "", 
+      "year": 2010
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "c027ec476a3a020825f26885ea7423be571a3a30", 
+      "title": "Emotion Co-referencing - Emotional Expression, Holder, and Topic", 
+      "url": "https://www.semanticscholar.org/paper/c027ec476a3a020825f26885ea7423be571a3a30", 
+      "venue": "IJCLCLP", 
+      "year": 2013
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "c879b35d7117d41c1789b5454504da977445bc42", 
+      "title": "Using Sequence Kernels to identify Opinion Entities in Urdu", 
+      "url": "https://www.semanticscholar.org/paper/c879b35d7117d41c1789b5454504da977445bc42", 
+      "venue": "CoNLL", 
+      "year": 2011
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "405bb1455719ac8079e2150bb47c64d4575bc6c9", 
+      "title": "Determining Modality and Factuality for Text Entailment", 
+      "url": "https://www.semanticscholar.org/paper/405bb1455719ac8079e2150bb47c64d4575bc6c9", 
+      "venue": "International Conference on Semantic Computing (ICSC 2007)", 
+      "year": 2007
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "2ae9c4f6e1e560e01e434813db402b328ee520eb", 
+      "title": "Coreference Resolution on Blogs and Commented News", 
+      "url": "https://www.semanticscholar.org/paper/2ae9c4f6e1e560e01e434813db402b328ee520eb", 
+      "venue": "DAARC", 
+      "year": 2009
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "adfffadbac235d89bed96aeecb6911c9b2cf6267", 
+      "title": "A Survey of Opinion Mining and Sentiment Analysis", 
+      "url": "https://www.semanticscholar.org/paper/adfffadbac235d89bed96aeecb6911c9b2cf6267", 
+      "venue": "Mining Text Data", 
+      "year": 2012
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "9ae8419e25a57178335debad63d233db7accc3a1", 
+      "title": "Identification of Speakers in Novels", 
+      "url": "https://www.semanticscholar.org/paper/9ae8419e25a57178335debad63d233db7accc3a1", 
+      "venue": "ACL", 
+      "year": 2013
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "7376fd8a0add0c381030a4fbcd4c29b1e03f2d28", 
+      "title": "Trabajo De Tesis Para Optar Al Grado De Magi\u0301ster En Ciencias, Mencio\u0301n Computacio\u0301n Felipe Jose\u0301 Bravo Ma\u0301rquez Profesor Gui\u0301a: Ba\u0301rbara Poblete Labra", 
+      "url": "https://www.semanticscholar.org/paper/7376fd8a0add0c381030a4fbcd4c29b1e03f2d28", 
+      "venue": "", 
+      "year": 2013
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "2736a6db02113accf86df50042c67be2172287be", 
+      "title": "Annotating Topics of Opinions", 
+      "url": "https://www.semanticscholar.org/paper/2736a6db02113accf86df50042c67be2172287be", 
+      "venue": "LREC", 
+      "year": 2008
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "7d3ebc282fa8179bc8472ac6f1d17411097bf1f3", 
+      "title": "Sentiment Topic Model with Decomposed Prior", 
+      "url": "https://www.semanticscholar.org/paper/7d3ebc282fa8179bc8472ac6f1d17411097bf1f3", 
+      "venue": "SDM", 
+      "year": 2013
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "373970bee1f045dd1f29fbf0ca154cfd0c48a166", 
+      "title": "Identifier la cible des \u00e9motions dans les forums de sant\u00e9", 
+      "url": "https://www.semanticscholar.org/paper/373970bee1f045dd1f29fbf0ca154cfd0c48a166", 
+      "venue": "IC", 
+      "year": 2014
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "1e4dc3a81a7b5adc2d8d8ab7f8bb3df4f72475ab", 
+      "title": "Polling the Blogosphere: A Rule-Based Approach to Belief Classification", 
+      "url": "https://www.semanticscholar.org/paper/1e4dc3a81a7b5adc2d8d8ab7f8bb3df4f72475ab", 
+      "venue": "ICWSM", 
+      "year": 2008
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "9f9671b0e4c39bd5bea803e56663825491534f90", 
+      "title": "Learning opinions in user-generated web content", 
+      "url": "https://www.semanticscholar.org/paper/9f9671b0e4c39bd5bea803e56663825491534f90", 
+      "venue": "Natural Language Engineering", 
+      "year": 2011
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "92b9174e2e9f67097ca68387039a9a4814d768cb", 
+      "title": "A combination method of CRF with syntactic rules to identify opinion_holder", 
+      "url": "https://www.semanticscholar.org/paper/92b9174e2e9f67097ca68387039a9a4814d768cb", 
+      "venue": "Proceedings of the 6th International Conference on Natural Language Processing and Knowledge Engineering(NLPKE-2010)", 
+      "year": 2010
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "4e1c4fd4c41fc8e11034ca5e7ca3f6b07fbc4221", 
+      "title": "Spin: Lexical Semantics, Transitivity, and the Identification of Implicit Sentiment", 
+      "url": "https://www.semanticscholar.org/paper/4e1c4fd4c41fc8e11034ca5e7ca3f6b07fbc4221", 
+      "venue": "", 
+      "year": 2007
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "0964cc584338916acb16d5f0711ca345d31cca3e", 
+      "title": "Automatic Opinion Analysis Based on SVM and Distance-Weighted Computing", 
+      "url": "https://www.semanticscholar.org/paper/0964cc584338916acb16d5f0711ca345d31cca3e", 
+      "venue": "2008 International Conference on Advanced Language Processing and Web Information Technology", 
+      "year": 2008
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "51c2940efef5ea99ac6dee9ae9841eebffe0dc7d", 
+      "title": "Document-level Sentiment Inference with Social, Faction, and Discourse Context", 
+      "url": "https://www.semanticscholar.org/paper/51c2940efef5ea99ac6dee9ae9841eebffe0dc7d", 
+      "venue": "ACL", 
+      "year": 2016
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "acdba2f56e70184e5af9318b075d1980460470b2", 
+      "title": "Detecting Ironic Intent in Creative Comparisons", 
+      "url": "https://www.semanticscholar.org/paper/acdba2f56e70184e5af9318b075d1980460470b2", 
+      "venue": "ECAI", 
+      "year": 2010
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "8057fd6d6527ae003746eb704437b35e648e3e8d", 
+      "title": "39. Opinion mining and sentiment analysis", 
+      "url": "https://www.semanticscholar.org/paper/8057fd6d6527ae003746eb704437b35e648e3e8d", 
+      "venue": "", 
+      "year": 2015
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "b4bdf1529cd97c45bc07a67bc805ffc1dba2edd8", 
+      "title": "Speaker Attribution in Cabinet Protocols", 
+      "url": "https://www.semanticscholar.org/paper/b4bdf1529cd97c45bc07a67bc805ffc1dba2edd8", 
+      "venue": "LREC", 
+      "year": 2010
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "75fce5fa91c7ed67eefc7cf99c3ccb0da306e7bb", 
+      "title": "Automatic Sentiment Analysis in On-line Text", 
+      "url": "https://www.semanticscholar.org/paper/75fce5fa91c7ed67eefc7cf99c3ccb0da306e7bb", 
+      "venue": "ELPUB", 
+      "year": 2007
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "ca7ed317b3ee4a018afb430d00c127d113097bc4", 
+      "title": "A rule-based, domain independent approach for opinion and holder identification", 
+      "url": "https://www.semanticscholar.org/paper/ca7ed317b3ee4a018afb430d00c127d113097bc4", 
+      "venue": "2013 IEEE 9th International Conference on Intelligent Computer Communication and Processing (ICCP)", 
+      "year": 2013
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "3760df1c9e01d7944f15fac5e077e9ce4520f33e", 
+      "title": "Opinion Mining and Sentiment Analysis", 
+      "url": "https://www.semanticscholar.org/paper/3760df1c9e01d7944f15fac5e077e9ce4520f33e", 
+      "venue": "Foundations and Trends in Information Retrieval", 
+      "year": 2007
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "8f1b9b97183b8aa2caa0fb6c9563b14daabe8316", 
+      "title": "A survey on sentiment detection of reviews", 
+      "url": "https://www.semanticscholar.org/paper/8f1b9b97183b8aa2caa0fb6c9563b14daabe8316", 
+      "venue": "Expert Syst. Appl.", 
+      "year": 2009
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "9eb0582be5c889c7e49c1ae4257564da5166393d", 
+      "title": "Finding Emotion Holder from Bengali Blog Texts---An Unsupervised Syntactic Approach", 
+      "url": "https://www.semanticscholar.org/paper/9eb0582be5c889c7e49c1ae4257564da5166393d", 
+      "venue": "PACLIC", 
+      "year": 2010
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "9d9c7de79b01d29bf503f609797eb924408d1ca0", 
+      "title": "Computational irony: A survey and new perspectives", 
+      "url": "https://www.semanticscholar.org/paper/9d9c7de79b01d29bf503f609797eb924408d1ca0", 
+      "venue": "Artificial Intelligence Review", 
+      "year": 2012
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "556abbdd251f331ee2c97afaad5822719278bcbc", 
+      "title": "Appraisal of Opinion Expressions in Discourse", 
+      "url": "https://www.semanticscholar.org/paper/556abbdd251f331ee2c97afaad5822719278bcbc", 
+      "venue": "", 
+      "year": 2012
+    }, 
+    {
+      "isInfluential": true, 
+      "paperId": "303515056a2a89119924693dcc9dec31007f329e", 
+      "title": "Playing the Telephone Game: Determining the Hierarchical Structure of Perspective and Speech Expressions", 
+      "url": "https://www.semanticscholar.org/paper/303515056a2a89119924693dcc9dec31007f329e", 
+      "venue": "COLING", 
+      "year": 2004
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "47918c5bece63d7a6cd9574c37c2b17114a5f87e", 
+      "title": "Sentiment Classification through Semantic Orientation Using SentiWordNet", 
+      "url": "https://www.semanticscholar.org/paper/47918c5bece63d7a6cd9574c37c2b17114a5f87e", 
+      "venue": "", 
+      "year": 2014
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "da7dbff27830e6a0a94beba3fd1d34f89584af19", 
+      "title": "Construction of a Blog Emotion Corpus for Chinese Emotional Expression Analysis", 
+      "url": "https://www.semanticscholar.org/paper/da7dbff27830e6a0a94beba3fd1d34f89584af19", 
+      "venue": "EMNLP", 
+      "year": 2009
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "947cd511e5e15b97314b7b6e90f11859f802de32", 
+      "title": "Combining Rules and CRF Learning for Opinion Source Identification in Spanish Texts", 
+      "url": "https://www.semanticscholar.org/paper/947cd511e5e15b97314b7b6e90f11859f802de32", 
+      "venue": "IBERAMIA", 
+      "year": 2012
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "d9b786a870e68afe2892c26043cc6287fe5562a0", 
+      "title": "How do medical authorities express their sentiment in Twitter messages?", 
+      "url": "https://www.semanticscholar.org/paper/d9b786a870e68afe2892c26043cc6287fe5562a0", 
+      "venue": "2014 9th Iberian Conference on Information Systems and Technologies (CISTI)", 
+      "year": 2014
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "815e11368640ebb294d6d834b70bbf2438c2ff49", 
+      "title": "A Hybrid Method for Sentiment Analysis", 
+      "url": "https://www.semanticscholar.org/paper/815e11368640ebb294d6d834b70bbf2438c2ff49", 
+      "venue": "", 
+      "year": 2008
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "5736a29f570d53304594779fddfd82e53c58526c", 
+      "title": "2 Principal Investigator/co-ordinator 3 Composition of the Research Team Role Name Affiliation Applicant", 
+      "url": "https://www.semanticscholar.org/paper/5736a29f570d53304594779fddfd82e53c58526c", 
+      "venue": "", 
+      "year": 2007
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "8b835b74b8fcd7dfa5608c4195b6f575149125f7", 
+      "title": "Evaluative Language Beyond Bags of Words: Linguistic Insights and Computational Applications", 
+      "url": "https://www.semanticscholar.org/paper/8b835b74b8fcd7dfa5608c4195b6f575149125f7", 
+      "venue": "Computational Linguistics", 
+      "year": 2017
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "6793fd39ccbc0bd6f0fc90105c5e84fdebf5a401", 
+      "title": "Partially Supervised Coreference Resolution for Opinion Summarization through Structured Rule Learning", 
+      "url": "https://www.semanticscholar.org/paper/6793fd39ccbc0bd6f0fc90105c5e84fdebf5a401", 
+      "venue": "EMNLP", 
+      "year": 2006
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "d39f3ee19bcb60cefb44e263d1a105e08d4b7e31", 
+      "title": "Sentiment analysis on facebook group using lexicon based approach", 
+      "url": "https://www.semanticscholar.org/paper/d39f3ee19bcb60cefb44e263d1a105e08d4b7e31", 
+      "venue": "2016 3rd International Conference on Electrical Engineering and Information Communication Technology (ICEEICT)", 
+      "year": 2016
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "8bba3c7ce02d9588de97005947f47177b12f2e2f", 
+      "title": "A Novel Machine Learning Approach for Sentiment Analysis Based on Adverb-Adjective-Noun-Verb (AANV) Combinations", 
+      "url": "https://www.semanticscholar.org/paper/8bba3c7ce02d9588de97005947f47177b12f2e2f", 
+      "venue": "", 
+      "year": 2012
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "67b16aff576d9d539005dfc247d309cec87c695a", 
+      "title": "Topic Identification for Fine-Grained Opinion Analysis", 
+      "url": "https://www.semanticscholar.org/paper/67b16aff576d9d539005dfc247d309cec87c695a", 
+      "venue": "COLING", 
+      "year": 2008
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "411d5ce6471e635ea96cf455e3f6229e0b3a887f", 
+      "title": "Identifying Expressions of Opinion in Context", 
+      "url": "https://www.semanticscholar.org/paper/411d5ce6471e635ea96cf455e3f6229e0b3a887f", 
+      "venue": "IJCAI", 
+      "year": 2007
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "85dda929b1bc8eb64e70c388564f0d933555ecc9", 
+      "title": "Some Facets of Argument Mining for Opinion Analysis", 
+      "url": "https://www.semanticscholar.org/paper/85dda929b1bc8eb64e70c388564f0d933555ecc9", 
+      "venue": "COMMA", 
+      "year": 2012
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "d383129c3bca9d5697b2ec8b32e8a4c402ef1212", 
+      "title": "Identifying Opinion Holders and Targets with Dependency Parser in Chinese News Texts", 
+      "url": "https://www.semanticscholar.org/paper/d383129c3bca9d5697b2ec8b32e8a4c402ef1212", 
+      "venue": "NAACL", 
+      "year": 2010
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "1cf86122b94e26deaec9002d72dc77c9ff598e99", 
+      "title": "Error correction of proportions in spoken opinion surveys", 
+      "url": "https://www.semanticscholar.org/paper/1cf86122b94e26deaec9002d72dc77c9ff598e99", 
+      "venue": "INTERSPEECH", 
+      "year": 2009
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "42fdbdab38a64f9f1cfb0cdee02f7a12f912311d", 
+      "title": "Detection and Interpretation of Opinion Expressions in Spoken Surveys", 
+      "url": "https://www.semanticscholar.org/paper/42fdbdab38a64f9f1cfb0cdee02f7a12f912311d", 
+      "venue": "IEEE Transactions on Audio, Speech, and Language Processing", 
+      "year": 2010
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "9004b77aa88ba3ca24312b61b0db1ec66ea57ef8", 
+      "title": "Feature Extraction from Product Reviews using Feature Similarity and Polarity", 
+      "url": "https://www.semanticscholar.org/paper/9004b77aa88ba3ca24312b61b0db1ec66ea57ef8", 
+      "venue": "", 
+      "year": 2009
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "082113062e484740504e7f38485d2b251f06c91a", 
+      "title": "Identifying and Analyzing Judgment Opinions", 
+      "url": "https://www.semanticscholar.org/paper/082113062e484740504e7f38485d2b251f06c91a", 
+      "venue": "HLT-NAACL", 
+      "year": 2006
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "7cf360f2f94f79082a553e88f1357cfe23322384", 
+      "title": "A Literature Survey of Methods for Analysis of Subjective Language", 
+      "url": "https://www.semanticscholar.org/paper/7cf360f2f94f79082a553e88f1357cfe23322384", 
+      "venue": "", 
+      "year": 2009
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "80b6bc74ba9d7426b4f076446a4b30a64d7aa426", 
+      "title": "Polling the Blogosphere: Rule-Based Approach to Belief Classification", 
+      "url": "https://www.semanticscholar.org/paper/80b6bc74ba9d7426b4f076446a4b30a64d7aa426", 
+      "venue": "", 
+      "year": 2008
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "dc19e19c36e4310beea33bbd671c543a70556162", 
+      "title": "Opinion Analysis Task of Simplified Chinese Monolingual at NTCIR-8", 
+      "url": "https://www.semanticscholar.org/paper/dc19e19c36e4310beea33bbd671c543a70556162", 
+      "venue": "NTCIR", 
+      "year": 2010
+    }, 
+    {
+      "isInfluential": true, 
+      "paperId": "e7dd46cb51fb68a172b7fa51972e830e77e4a7b9", 
+      "title": "Fine-grained Subjectivity and Sentiment Analysis: Recognizing the Intensity, Polarity, and Attitudes of Private States", 
+      "url": "https://www.semanticscholar.org/paper/e7dd46cb51fb68a172b7fa51972e830e77e4a7b9", 
+      "venue": "", 
+      "year": 2008
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "9496e0a4b540372a9c33e82f8d4fa1dd8ea3fcdc", 
+      "title": "Opinion Target Extraction in Chinese News Comments", 
+      "url": "https://www.semanticscholar.org/paper/9496e0a4b540372a9c33e82f8d4fa1dd8ea3fcdc", 
+      "venue": "COLING", 
+      "year": 2010
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "1d67f534906621914db5e3660db0b655f6244991", 
+      "title": "Discerning Emotions of Bloggers based on Topics - a Supervised Coreference Approach in Bengali", 
+      "url": "https://www.semanticscholar.org/paper/1d67f534906621914db5e3660db0b655f6244991", 
+      "venue": "ROCLING", 
+      "year": 2010
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "7b5b86b409faeaa656916214da1a3b11ad43a632", 
+      "title": "Identifying Sources of Opinions with Conditional Random Fields and Extraction Patterns", 
+      "url": "https://www.semanticscholar.org/paper/7b5b86b409faeaa656916214da1a3b11ad43a632", 
+      "venue": "HLT/EMNLP", 
+      "year": 2005
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "839ae45dd4bc15c57bfdb5ad5c1f383028775b9e", 
+      "title": "Emotional Perception of Fairy Tales: Achieving Agreement in Emotion Annotation of Text", 
+      "url": "https://www.semanticscholar.org/paper/839ae45dd4bc15c57bfdb5ad5c1f383028775b9e", 
+      "venue": "", 
+      "year": 2010
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "610f3993dd9189e9cd7af1cbaef4667d01d7857b", 
+      "title": "Identifying Opinion Holders in Opinion Text from Online Newspapers", 
+      "url": "https://www.semanticscholar.org/paper/610f3993dd9189e9cd7af1cbaef4667d01d7857b", 
+      "venue": "2007 IEEE International Conference on Granular Computing (GRC 2007)", 
+      "year": 2007
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "15c1f61aa9ce9e5ec425c81a1794e43fe850c36c", 
+      "title": "Multi-Perspective Question Answering Using the OpQA Corpus", 
+      "url": "https://www.semanticscholar.org/paper/15c1f61aa9ce9e5ec425c81a1794e43fe850c36c", 
+      "venue": "HLT/EMNLP", 
+      "year": 2005
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "b97323acf7ef9cd57efe9c874d5260ba106fff42", 
+      "title": "Automatically Creating General-Purpose Opinion Summaries from Text", 
+      "url": "https://www.semanticscholar.org/paper/b97323acf7ef9cd57efe9c874d5260ba106fff42", 
+      "venue": "RANLP", 
+      "year": 2011
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "29366f39dc4237a380f20e9ae9fbeffa645200c9", 
+      "title": "Sentiment Analysis and Subjectivity", 
+      "url": "https://www.semanticscholar.org/paper/29366f39dc4237a380f20e9ae9fbeffa645200c9", 
+      "venue": "Handbook of Natural Language Processing", 
+      "year": 2010
+    }
+  ], 
+  "doi": null, 
+  "influentialCitationCount": 4, 
+  "paperId": "0a7c454ba1137298f9d953e9fc76b62a7b5dcc9e", 
+  "references": [
+    {
+      "isInfluential": true, 
+      "paperId": "49a6ba0f8668e4da188017a45aec84c9336c7fe5", 
+      "title": "Learning Subjective Adjectives from Corpora", 
+      "url": "https://www.semanticscholar.org/paper/49a6ba0f8668e4da188017a45aec84c9336c7fe5", 
+      "venue": "AAAI/IAAI", 
+      "year": 2000
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "09535f4cf41dfbe54d09bcd7c84b804011fb59bc", 
+      "title": "Learning subjective nouns using extraction pattern bootstrapping", 
+      "url": "https://www.semanticscholar.org/paper/09535f4cf41dfbe54d09bcd7c84b804011fb59bc", 
+      "venue": "CoNLL", 
+      "year": 2003
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "14c5d485f4a114ed45acf27adb6c1ebf57c2c383", 
+      "title": "Effects of Adjective Orientation and Gradability on Sentence Subjectivity", 
+      "url": "https://www.semanticscholar.org/paper/14c5d485f4a114ed45acf27adb6c1ebf57c2c383", 
+      "venue": "COLING", 
+      "year": 2000
+    }, 
+    {
+      "isInfluential": true, 
+      "paperId": "47dd6b9d9cedbe2526ad22a01ca4fea1025e07d1", 
+      "title": "Text Categorization with Support Vector Machines: Learning with Many Relevant Features", 
+      "url": "https://www.semanticscholar.org/paper/47dd6b9d9cedbe2526ad22a01ca4fea1025e07d1", 
+      "venue": "ECML", 
+      "year": 1998
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "4f1fe957a29a2e422d4034f4510644714d33fb20", 
+      "title": "Thumbs up? Sentiment Classification using Machine Learning Techniques", 
+      "url": "https://www.semanticscholar.org/paper/4f1fe957a29a2e422d4034f4510644714d33fb20", 
+      "venue": "ArXiv", 
+      "year": 2002
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "b59abcfd7dbed8e284c4237c405f912adb1ad4ea", 
+      "title": "Predicting the Semantic Orientation of Adjectives", 
+      "url": "https://www.semanticscholar.org/paper/b59abcfd7dbed8e284c4237c405f912adb1ad4ea", 
+      "venue": "ACL", 
+      "year": 1997
+    }, 
+    {
+      "isInfluential": true, 
+      "paperId": "266de78ed10439c448a125f6f783c1a97e608401", 
+      "title": "Introduction to WordNet: An On-line Lexical Database", 
+      "url": "https://www.semanticscholar.org/paper/266de78ed10439c448a125f6f783c1a97e608401", 
+      "venue": "", 
+      "year": 1990
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "033b62167e7358c429738092109311af696e9137", 
+      "title": "Thumbs Up or Thumbs Down? Semantic Orientation Applied to Unsupervised Classification of Reviews", 
+      "url": "https://www.semanticscholar.org/paper/033b62167e7358c429738092109311af696e9137", 
+      "venue": "ACL", 
+      "year": 2002
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "621566b223a73c0a7d8cf918297ac02c5e58af38", 
+      "title": "Adding Semantic Annotation to the Penn TreeBank", 
+      "url": "https://www.semanticscholar.org/paper/621566b223a73c0a7d8cf918297ac02c5e58af38", 
+      "venue": "", 
+      "year": 2002
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "02880c9ac973046bf8d2fc802fb7ee4fc60c193b", 
+      "title": "Towards Answering Opinion Questions: Separating Facts From Opinions And Identifying The Polarity Of Opinion Sentences", 
+      "url": "https://www.semanticscholar.org/paper/02880c9ac973046bf8d2fc802fb7ee4fc60c193b", 
+      "venue": "", 
+      "year": 2003
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "d8aecee84541ff5644675c0a6d5e87be27ade831", 
+      "title": "Learning Subjective Language", 
+      "url": "https://www.semanticscholar.org/paper/d8aecee84541ff5644675c0a6d5e87be27ade831", 
+      "venue": "Computational Linguistics", 
+      "year": 2004
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "04a8d271bc4384dbfbb417bfb625feb01cb44666", 
+      "title": "Automatic Labeling of Semantic Roles", 
+      "url": "https://www.semanticscholar.org/paper/04a8d271bc4384dbfbb417bfb625feb01cb44666", 
+      "venue": "Computational Linguistics", 
+      "year": 2000
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "24ff26b9cf71d9f9a8e7dedf0cfe56d105363cd3", 
+      "title": "The Berkeley FrameNet Project", 
+      "url": "https://www.semanticscholar.org/paper/24ff26b9cf71d9f9a8e7dedf0cfe56d105363cd3", 
+      "venue": "COLING-ACL", 
+      "year": 1998
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "c4a974906a9f6c7380edc9e2281931bde78828b1", 
+      "title": "Development and Use of a Gold-Standard Data Set for Subjectivity Classifications", 
+      "url": "https://www.semanticscholar.org/paper/c4a974906a9f6c7380edc9e2281931bde78828b1", 
+      "venue": "ACL", 
+      "year": 1999
+    }
+  ], 
+  "title": "Automatic Extraction of Opinion Propositions and their Holders", 
+  "url": "https://www.semanticscholar.org/paper/0a7c454ba1137298f9d953e9fc76b62a7b5dcc9e", 
+  "venue": "", 
+  "year": 2004
+}

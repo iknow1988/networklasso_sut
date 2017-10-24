@@ -1,0 +1,811 @@
+{
+  "authors": [
+    {
+      "authorId": "2618874", 
+      "name": "Michael Heilman", 
+      "url": "https://www.semanticscholar.org/author/2618874"
+    }, 
+    {
+      "authorId": "1685669", 
+      "name": "Noah A. Smith", 
+      "url": "https://www.semanticscholar.org/author/1685669"
+    }
+  ], 
+  "citationVelocity": 24, 
+  "citations": [
+    {
+      "isInfluential": false, 
+      "paperId": "deefa972eed2e039cc103b3ed74566a02f3da158", 
+      "title": "Knowledge-Based Textual Inference via Parse-Tree Transformations", 
+      "url": "https://www.semanticscholar.org/paper/deefa972eed2e039cc103b3ed74566a02f3da158"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "03fe39386ce90e10ec87f10e00532c5cf30b244f", 
+      "title": "WikiQA: A Challenge Dataset for Open-Domain Question Answering", 
+      "url": "https://www.semanticscholar.org/paper/03fe39386ce90e10ec87f10e00532c5cf30b244f"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "7ba3fdbab49f47f285a0a9f53a10be2be26c0a79", 
+      "title": "Automatic Characterization of Text Difficulty", 
+      "url": "https://www.semanticscholar.org/paper/7ba3fdbab49f47f285a0a9f53a10be2be26c0a79"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "add066d420bb2cf59ba8d51647426d7167dd5ccc", 
+      "title": "Thread-Level Information for Comment Classification in Community Question Answering", 
+      "url": "https://www.semanticscholar.org/paper/add066d420bb2cf59ba8d51647426d7167dd5ccc"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "30cad3d56ca4c9334eeea66d72cfc2b40cba0fee", 
+      "title": "ArbTE: Arabic Textual Entailment", 
+      "url": "https://www.semanticscholar.org/paper/30cad3d56ca4c9334eeea66d72cfc2b40cba0fee"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "30403b4026c32af7bb8ba28fcbc99ef31ca0c90f", 
+      "title": "A Confidence Model for Syntactically-Motivated Entailment Proofs", 
+      "url": "https://www.semanticscholar.org/paper/30403b4026c32af7bb8ba28fcbc99ef31ca0c90f"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "73d826d4c2363701b88e3e234fe3b8756c0f9671", 
+      "title": "Learning to Rank Short Text Pairs with Convolutional Deep Neural Networks", 
+      "url": "https://www.semanticscholar.org/paper/73d826d4c2363701b88e3e234fe3b8756c0f9671"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "a0c098337a726274db31bc5ec67d17c29c5e7eae", 
+      "title": "In Defense of Word Embedding for Generic Text Representation", 
+      "url": "https://www.semanticscholar.org/paper/a0c098337a726274db31bc5ec67d17c29c5e7eae"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "4df8bc03bf4fea6e8d9471e7bc60f724b9a059cd", 
+      "title": "Combining Lexical and Semantic-based Features for Answer Sentence Selection", 
+      "url": "https://www.semanticscholar.org/paper/4df8bc03bf4fea6e8d9471e7bc60f724b9a059cd"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "08c5a769e93895cee9f59e115f10662cc1625f7b", 
+      "title": "A Latent Discriminative Model for Compositional Entailment Relation Recognition using Natural Logic", 
+      "url": "https://www.semanticscholar.org/paper/08c5a769e93895cee9f59e115f10662cc1625f7b"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "91e9387c92b7c9d295c1188719d30dd179cc81e8", 
+      "title": "DocChat: An Information Retrieval Approach for Chatbot Engines Using Unstructured Documents", 
+      "url": "https://www.semanticscholar.org/paper/91e9387c92b7c9d295c1188719d30dd179cc81e8"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "f70bda6f7f98620ae818eaf31c7d695ca0144a0c", 
+      "title": "Using Textual Entailment with Variables for KBP Slot Filling Task", 
+      "url": "https://www.semanticscholar.org/paper/f70bda6f7f98620ae818eaf31c7d695ca0144a0c"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "828dbeb7cf922dc9b6657dd169b8d26d2b58eedb", 
+      "title": "A Long Short-Term Memory Model for Answer Sentence Selection in Question Answering", 
+      "url": "https://www.semanticscholar.org/paper/828dbeb7cf922dc9b6657dd169b8d26d2b58eedb"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "87a52500a7a462a7afff8c7967711e9c80cb730d", 
+      "title": "User Behaviors in Related Word Retrieval and New Word Detection: A Collaborative Perspective", 
+      "url": "https://www.semanticscholar.org/paper/87a52500a7a462a7afff8c7967711e9c80cb730d"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "cb251429bb45acff3074add06ce20706dfc76e55", 
+      "title": "Discriminative Information Retrieval for Question Answering Sentence Selection", 
+      "url": "https://www.semanticscholar.org/paper/cb251429bb45acff3074add06ce20706dfc76e55"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "0476b7d387d2a6381a784b2b89ccf7baef098f5e", 
+      "title": "Pairwise Word Interaction Modeling with Deep Neural Networks for Semantic Similarity Measurement", 
+      "url": "https://www.semanticscholar.org/paper/0476b7d387d2a6381a784b2b89ccf7baef098f5e"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "e5d9bd94a65f3ed497a4d36e089b1393b0e5520d", 
+      "title": "Probabilistic Tree-Edit Models with Structured Latent Variables for Textual Entailment and Question Answering", 
+      "url": "https://www.semanticscholar.org/paper/e5d9bd94a65f3ed497a4d36e089b1393b0e5520d"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "8851b986ae6828315d8030e20308d24a56d0c63d", 
+      "title": "Event Structures in Knowledge, Pictures and Text", 
+      "url": "https://www.semanticscholar.org/paper/8851b986ae6828315d8030e20308d24a56d0c63d"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "8519097e35e16bfcddd686d551daf08106627d0c", 
+      "title": "Effective Shared Representations with Multitask Learning for Community Question Answering", 
+      "url": "https://www.semanticscholar.org/paper/8519097e35e16bfcddd686d551daf08106627d0c"
+    }, 
+    {
+      "isInfluential": true, 
+      "paperId": "bca1aee72d8a35f55e7af7a6e5989d09bb2a5da1", 
+      "title": "A Probabilistic Lexical Model for Ranking Textual Inferences", 
+      "url": "https://www.semanticscholar.org/paper/bca1aee72d8a35f55e7af7a6e5989d09bb2a5da1"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "52956422f86722aca6becb67ea4c3ad61f0c1aea", 
+      "title": "Inner Attention based Recurrent Neural Networks for Answer Selection", 
+      "url": "https://www.semanticscholar.org/paper/52956422f86722aca6becb67ea4c3ad61f0c1aea"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "5851976742251df7cfbe286c41764e3a5ff061dc", 
+      "title": "Machine Comprehension with Syntax, Frames, and Semantics", 
+      "url": "https://www.semanticscholar.org/paper/5851976742251df7cfbe286c41764e3a5ff061dc"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "5c0357fa1dc45b55c7de5e97f21141b0426e1c9e", 
+      "title": "Intrinsic and extrinsic approaches to recognizing textual entailment", 
+      "url": "https://www.semanticscholar.org/paper/5c0357fa1dc45b55c7de5e97f21141b0426e1c9e"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "5f70c352e2ceefdb09d842959562c41ba2bfa3a8", 
+      "title": "Passing a USA National Bar Exam: a First Corpus for Experimentation", 
+      "url": "https://www.semanticscholar.org/paper/5f70c352e2ceefdb09d842959562c41ba2bfa3a8"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "18e486fb3ce280ef732616aa95bc2f72f7ca6664", 
+      "title": "Constructing a Question Corpus for Textual Semantic Relations", 
+      "url": "https://www.semanticscholar.org/paper/18e486fb3ce280ef732616aa95bc2f72f7ca6664"
+    }, 
+    {
+      "isInfluential": true, 
+      "paperId": "364c1a3df58d87cb40ab33fdf3831cf2862f3570", 
+      "title": "aNMM: Ranking Short Answer Texts with Attention-Based Neural Matching Model", 
+      "url": "https://www.semanticscholar.org/paper/364c1a3df58d87cb40ab33fdf3831cf2862f3570"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "9d2bfb28ea197ec1a0f4266aefde2f9129638193", 
+      "title": "Hybrid Question Answering over Knowledge Base and Free Text", 
+      "url": "https://www.semanticscholar.org/paper/9d2bfb28ea197ec1a0f4266aefde2f9129638193"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "03af3188946d88f44c1bb2b9a99530fececf23f0", 
+      "title": "Parsing Paraphrases with Joint Inference (extended Version)", 
+      "url": "https://www.semanticscholar.org/paper/03af3188946d88f44c1bb2b9a99530fececf23f0"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "3dc8f5a7dcdfbdfad4a14bd9a4587de1fb1c2c22", 
+      "title": "Discriminative Information Retrieval for Knowledge Discovery", 
+      "url": "https://www.semanticscholar.org/paper/3dc8f5a7dcdfbdfad4a14bd9a4587de1fb1c2c22"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "2253a140c49855b6d09fef6655760ef045b092b5", 
+      "title": "Parsing Paraphrases with Joint Inference", 
+      "url": "https://www.semanticscholar.org/paper/2253a140c49855b6d09fef6655760ef045b092b5"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "0b73e582a5e94524046a44a33bfe95e0c118a15c", 
+      "title": "Employing External Rich Knowledge for Machine Comprehension", 
+      "url": "https://www.semanticscholar.org/paper/0b73e582a5e94524046a44a33bfe95e0c118a15c"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "204d3c62a262c94cdc132eeb6d935eacabceb840", 
+      "title": "Task-Specific Attentive Pooling of Phrase Alignments Contributes to Sentence Matching", 
+      "url": "https://www.semanticscholar.org/paper/204d3c62a262c94cdc132eeb6d935eacabceb840"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "31cdbbda291190dc444545db823faeb2de184501", 
+      "title": "LSTM-based Deep Learning Models for Answer Ranking", 
+      "url": "https://www.semanticscholar.org/paper/31cdbbda291190dc444545db823faeb2de184501"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "44b33f4fc66d8055c90bf0692ec0534a8ade2a93", 
+      "title": "Learning Semantic Textual Similarity with Structural Representations", 
+      "url": "https://www.semanticscholar.org/paper/44b33f4fc66d8055c90bf0692ec0534a8ade2a93"
+    }, 
+    {
+      "isInfluential": true, 
+      "paperId": "f6506059603600525568131f0d7de857edb2c9a3", 
+      "title": "Evolutionary approach for building efficient Paraphrase Recognizers", 
+      "url": "https://www.semanticscholar.org/paper/f6506059603600525568131f0d7de857edb2c9a3"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "59018eb4d0a5161a12cdca42cbcb6bf78d73612f", 
+      "title": "A Joint Model for Answer Sentence Ranking and Answer Extraction", 
+      "url": "https://www.semanticscholar.org/paper/59018eb4d0a5161a12cdca42cbcb6bf78d73612f"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "3bd50fc1dea21c9c0c9d8dd3bbc8dc4fb36c9a9f", 
+      "title": "Improved Correction Detection in Revised ESL Sentences", 
+      "url": "https://www.semanticscholar.org/paper/3bd50fc1dea21c9c0c9d8dd3bbc8dc4fb36c9a9f"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "12e3afc75204bc3ccb9aa1b03a3e357e43b6ba66", 
+      "title": "Evaluation for Partial Event Coreference", 
+      "url": "https://www.semanticscholar.org/paper/12e3afc75204bc3ccb9aa1b03a3e357e43b6ba66"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "644a9c8e30ac0c607450dbdd6543d9c424d972ed", 
+      "title": "A Novel Graph-Based Recognizing Textual Entailment System", 
+      "url": "https://www.semanticscholar.org/paper/644a9c8e30ac0c607450dbdd6543d9c424d972ed"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "42f099e885352ea3bf8aed612b5f5ffa334a8bd3", 
+      "title": "Attention-based encoder-decoder model for answer selection in question answering", 
+      "url": "https://www.semanticscholar.org/paper/42f099e885352ea3bf8aed612b5f5ffa334a8bd3"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "99b1ad8e716b1509bc4af199d284a4ba3c968c49", 
+      "title": "Feature-Based Selection of Dependency Paths in Ad Hoc Information Retrieval", 
+      "url": "https://www.semanticscholar.org/paper/99b1ad8e716b1509bc4af199d284a4ba3c968c49"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "d95324ec98adb20d1dd47407e33231420a7b205c", 
+      "title": "Dependency tree matching with extended Tree edit distance with subtrees for textual entailment", 
+      "url": "https://www.semanticscholar.org/paper/d95324ec98adb20d1dd47407e33231420a7b205c"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "6f1b6007638724124e2763f818ee4ebf2da3ae86", 
+      "title": "Sentence Similarity Learning by Lexical Decomposition and Composition", 
+      "url": "https://www.semanticscholar.org/paper/6f1b6007638724124e2763f818ee4ebf2da3ae86"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "d48fc0f1df6b349076329cf3b7e5d164c730bb0f", 
+      "title": "Tree Edit Models for Recognizing Textual Entailments, Paraphrases, and Answers to Questions: Appendix with Experimental Details", 
+      "url": "https://www.semanticscholar.org/paper/d48fc0f1df6b349076329cf3b7e5d164c730bb0f"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "97ad3b2ad24a3ee8a377ee4c244a33c33496238a", 
+      "title": "Noah A. Smith", 
+      "url": "https://www.semanticscholar.org/paper/97ad3b2ad24a3ee8a377ee4c244a33c33496238a"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "24b4746688c15c8580d1000d4f4ac63f5eb79561", 
+      "title": "LSTM-based Deep Learning Models for non-factoid answer selection", 
+      "url": "https://www.semanticscholar.org/paper/24b4746688c15c8580d1000d4f4ac63f5eb79561"
+    }, 
+    {
+      "isInfluential": true, 
+      "paperId": "32924bbd545430a09969fc700965f9e030c45e67", 
+      "title": "String Re-writing Kernel", 
+      "url": "https://www.semanticscholar.org/paper/32924bbd545430a09969fc700965f9e030c45e67"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "4db2330c32989a7f4e392980fc61a4773e1b0e32", 
+      "title": "How to Build Templates for RDF Question/Answering: An Uncertain Graph Similarity Join Approach", 
+      "url": "https://www.semanticscholar.org/paper/4db2330c32989a7f4e392980fc61a4773e1b0e32"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "7e5955481e9d197cc1cd1b64a90fbd245b88c886", 
+      "title": "Modeling of the Question Answering Task in the YodaQA System", 
+      "url": "https://www.semanticscholar.org/paper/7e5955481e9d197cc1cd1b64a90fbd245b88c886"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "097665e66a05d316ad0e649fec374db44a485bda", 
+      "title": "Semantic Parsing via Paraphrasing", 
+      "url": "https://www.semanticscholar.org/paper/097665e66a05d316ad0e649fec374db44a485bda"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "0e6c3d09717ab43302eaa1b4755a12aa7815bcb9", 
+      "title": "Sentence-level Rewriting Detection", 
+      "url": "https://www.semanticscholar.org/paper/0e6c3d09717ab43302eaa1b4755a12aa7815bcb9"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "9a7b75c6f1cbe0ac184cf5d598ef85070d52c327", 
+      "title": "SemEval-2015 Task 3: Answer Selection in Community Question Answering", 
+      "url": "https://www.semanticscholar.org/paper/9a7b75c6f1cbe0ac184cf5d598ef85070d52c327"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "32b0e58be4914e7c655dcce533a19f20daee6cc5", 
+      "title": "SemEval-2016 Task 3: Community Question Answering", 
+      "url": "https://www.semanticscholar.org/paper/32b0e58be4914e7c655dcce533a19f20daee6cc5"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "00d7f652c4147163dbfd3aa60c97471e7afa4861", 
+      "title": "Question Answering on Freebase via Relation Extraction and Textual Evidence", 
+      "url": "https://www.semanticscholar.org/paper/00d7f652c4147163dbfd3aa60c97471e7afa4861"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "1261fe9bfde319abcc5d011bc70f7e7547b5258f", 
+      "title": "Improved Representation Learning for Question Answer Matching", 
+      "url": "https://www.semanticscholar.org/paper/1261fe9bfde319abcc5d011bc70f7e7547b5258f"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "0fd0e3854ee696148e978ec33d5c042554cd4d23", 
+      "title": "Tree Edit Models for Recognizing Textual Entailments, Paraphrases, and Answers to Questions: Appendix with Experimental Details and Errata", 
+      "url": "https://www.semanticscholar.org/paper/0fd0e3854ee696148e978ec33d5c042554cd4d23"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "a62b58c267fddfa06545a7fc63a3c62ef7dc9e15", 
+      "title": "Deep Learning for Answer Sentence Selection", 
+      "url": "https://www.semanticscholar.org/paper/a62b58c267fddfa06545a7fc63a3c62ef7dc9e15"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "0de24a44719e33982db28643a53ca6780579a699", 
+      "title": "Feature-Rich Two-Stage Logistic Regression for Monolingual Alignment", 
+      "url": "https://www.semanticscholar.org/paper/0de24a44719e33982db28643a53ca6780579a699"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "2305f0f7302edf3b4993e02aa2315447c37e36bf", 
+      "title": "ABiRCNN with neural tensor network for answer selection", 
+      "url": "https://www.semanticscholar.org/paper/2305f0f7302edf3b4993e02aa2315447c37e36bf"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "66560805252ca92699753f26c70753326f6f9aad", 
+      "title": "Apprentissage d'inf\u00e9rences par \u00e9dition d'arbres pour r\u00e9pondre \u00e0 des questions", 
+      "url": "https://www.semanticscholar.org/paper/66560805252ca92699753f26c70753326f6f9aad"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "a59a0185e02bf46b9f03274da718e87a24e7b8a8", 
+      "title": "Using Discourse Information for Paraphrase Extraction", 
+      "url": "https://www.semanticscholar.org/paper/a59a0185e02bf46b9f03274da718e87a24e7b8a8"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "0b60f3506d053c808e0c423960ea24c5097ac638", 
+      "title": "Learning Text Pair Similarity with Context-sensitive Autoencoders", 
+      "url": "https://www.semanticscholar.org/paper/0b60f3506d053c808e0c423960ea24c5097ac638"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "a9df777e4d8100e52e90fa4bd2d783d25a2fd173", 
+      "title": "Bilateral Multi-Perspective Matching for Natural Language Sentences", 
+      "url": "https://www.semanticscholar.org/paper/a9df777e4d8100e52e90fa4bd2d783d25a2fd173"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "25ac694fa23f733679496a139e9168472e267865", 
+      "title": "Convolutional Neural Networks vs. Convolution Kernels: Feature Engineering for Answer Sentence Reranking", 
+      "url": "https://www.semanticscholar.org/paper/25ac694fa23f733679496a139e9168472e267865"
+    }, 
+    {
+      "isInfluential": true, 
+      "paperId": "2c7916912e92b69d61dcf5819286bb5f450a4b63", 
+      "title": "Building structures from classifiers for passage reranking", 
+      "url": "https://www.semanticscholar.org/paper/2c7916912e92b69d61dcf5819286bb5f450a4b63"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "0434b160bb97fb8f0533d056db81898a4a76ffec", 
+      "title": "Answer Quality Prediction Joint Textual and Non-Textual Features", 
+      "url": "https://www.semanticscholar.org/paper/0434b160bb97fb8f0533d056db81898a4a76ffec"
+    }, 
+    {
+      "isInfluential": true, 
+      "paperId": "03feca688989940fd4a5a13ac8837403b1af5e25", 
+      "title": "Answer Extraction as Sequence Tagging with Tree Edit Distance", 
+      "url": "https://www.semanticscholar.org/paper/03feca688989940fd4a5a13ac8837403b1af5e25"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "833fa8adeb8c06b9f2117e00950d7ce033716206", 
+      "title": "Building mutually beneficial relationships between question retrieval and answer ranking to improve performance of community question answering", 
+      "url": "https://www.semanticscholar.org/paper/833fa8adeb8c06b9f2117e00950d7ce033716206"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "5f3c2557d8ae7b9025535ee021c545e2d6a92cf0", 
+      "title": "UoW: NLP techniques developed at the University of Wolverhampton for Semantic Similarity and Textual Entailment", 
+      "url": "https://www.semanticscholar.org/paper/5f3c2557d8ae7b9025535ee021c545e2d6a92cf0"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "4697052d5eb48b40700bdc25045fdd21ceb5a5a0", 
+      "title": "Transforming Dependency Structures to Logical Forms for Semantic Parsing", 
+      "url": "https://www.semanticscholar.org/paper/4697052d5eb48b40700bdc25045fdd21ceb5a5a0"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "618b5e78062cdeb02da4eb2262ceca5df568c1a4", 
+      "title": "A Lightweight and High Performance Monolingual Word Aligner", 
+      "url": "https://www.semanticscholar.org/paper/618b5e78062cdeb02da4eb2262ceca5df568c1a4"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "23f7add29ec88dc8e7eb15a0e96aa37d9f139062", 
+      "title": "Logical Inference on Dependency-based Compositional Semantics", 
+      "url": "https://www.semanticscholar.org/paper/23f7add29ec88dc8e7eb15a0e96aa37d9f139062"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "28c15a62640b0ff06eea2774a8e3c4a3efc57eb3", 
+      "title": "SelQA: A New Benchmark for Selection-Based Question Answering", 
+      "url": "https://www.semanticscholar.org/paper/28c15a62640b0ff06eea2774a8e3c4a3efc57eb3"
+    }, 
+    {
+      "isInfluential": true, 
+      "paperId": "4ecdf4a60e82e2f688469c8fd8f8caea2f7c45e3", 
+      "title": "An Introduction to String Re-Writing Kernel", 
+      "url": "https://www.semanticscholar.org/paper/4ecdf4a60e82e2f688469c8fd8f8caea2f7c45e3"
+    }, 
+    {
+      "isInfluential": true, 
+      "paperId": "8c52aaecb1cf994ebd9f8d2f9526c1874f8b8df7", 
+      "title": "Efficient Search for Transformation-based Inference", 
+      "url": "https://www.semanticscholar.org/paper/8c52aaecb1cf994ebd9f8d2f9526c1874f8b8df7"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "8624c500f61b9ae7492901d9340c6cab850c4aca", 
+      "title": "Optimising Tree Edit Distance with Subtrees for Textual Entailment", 
+      "url": "https://www.semanticscholar.org/paper/8624c500f61b9ae7492901d9340c6cab850c4aca"
+    }, 
+    {
+      "isInfluential": true, 
+      "paperId": "e7bcd3de26dd1000d974ab97445d0634070dea4c", 
+      "title": "A Unified Kernel Approach for Learning Typed Sentence Rewritings", 
+      "url": "https://www.semanticscholar.org/paper/e7bcd3de26dd1000d974ab97445d0634070dea4c"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "ad21f9672634fe1ef2048b58e09d6f85529dfd81", 
+      "title": "Multitask Learning with Deep Neural Networks for Community Question Answering", 
+      "url": "https://www.semanticscholar.org/paper/ad21f9672634fe1ef2048b58e09d6f85529dfd81"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "e8e6f70ef657acb01d1927add4a00bc12cc8461b", 
+      "title": "PEM: A Paraphrase Evaluation Metric Exploiting Parallel Texts", 
+      "url": "https://www.semanticscholar.org/paper/e8e6f70ef657acb01d1927add4a00bc12cc8461b"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "31d7e1a085a5df84381163c738d66cf692d83c08", 
+      "title": "Effects of Creativity and Cluster Tightness on Short Text Clustering Performance", 
+      "url": "https://www.semanticscholar.org/paper/31d7e1a085a5df84381163c738d66cf692d83c08"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "7d01c479cfac65513f00a40ea5d76a4e6549c035", 
+      "title": "Deep Learning for Textual Entailment Recognition", 
+      "url": "https://www.semanticscholar.org/paper/7d01c479cfac65513f00a40ea5d76a4e6549c035"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "fae2092079a30401341abc4cf3a48c055d3106ba", 
+      "title": "Modeling Relational Information in Question-Answer Pairs with Convolutional Neural Networks", 
+      "url": "https://www.semanticscholar.org/paper/fae2092079a30401341abc4cf3a48c055d3106ba"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "4d41cc1729ef2a4920554770ead6029dd6f8c60a", 
+      "title": "Structured Probabilistic Models for Natural Language Semantics", 
+      "url": "https://www.semanticscholar.org/paper/4d41cc1729ef2a4920554770ead6029dd6f8c60a"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "ae5c5bba5e33abf66a61937245c2b9c841aa12a5", 
+      "title": "Improving Chinese Sentence Polarity Classification via Opinion Paraphrasing", 
+      "url": "https://www.semanticscholar.org/paper/ae5c5bba5e33abf66a61937245c2b9c841aa12a5"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "238b2a41fc2a6c03281446f9d73ee112c67a5e86", 
+      "title": "Knowledge and Tree-Edits in Learnable Entailment Proofs", 
+      "url": "https://www.semanticscholar.org/paper/238b2a41fc2a6c03281446f9d73ee112c67a5e86"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "cd230fc05e6d97e75943dfd3e0fcb387afb88d62", 
+      "title": "Polarity Classification of Short Product Reviews via Multiple Cluster-based SVM Classifiers", 
+      "url": "https://www.semanticscholar.org/paper/cd230fc05e6d97e75943dfd3e0fcb387afb88d62"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "62c41a2a4126ec7056efa89f05fbed698812628d", 
+      "title": "Tree Edit Distance as a Baseline Approach for Paraphrase Representation", 
+      "url": "https://www.semanticscholar.org/paper/62c41a2a4126ec7056efa89f05fbed698812628d"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "c6aae971f5b56d29b6eaf5bf75f4823974e188e9", 
+      "title": "Answer Sentence Selection using Deep Learning", 
+      "url": "https://www.semanticscholar.org/paper/c6aae971f5b56d29b6eaf5bf75f4823974e188e9"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "7aa63f414a4d7c6e4369a15a04dc5d3eb5da2b0e", 
+      "title": "Automatic Feature Engineering for Answer Selection and Extraction", 
+      "url": "https://www.semanticscholar.org/paper/7aa63f414a4d7c6e4369a15a04dc5d3eb5da2b0e"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "3e393df4a5731fb7b49cf2f527fed1ee4e6e6942", 
+      "title": "Question Answering Using Enhanced Lexical Semantic Models", 
+      "url": "https://www.semanticscholar.org/paper/3e393df4a5731fb7b49cf2f527fed1ee4e6e6942"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "4d97052a1297ef04418f5e77aa5e43edd3e2bf3d", 
+      "title": "Semi-Supervised and Latent-Variable Models of Natural Language Semantics", 
+      "url": "https://www.semanticscholar.org/paper/4d97052a1297ef04418f5e77aa5e43edd3e2bf3d"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "223e397c7ae5bb4a9279b5e4031d517c8c86dda8", 
+      "title": "Natural Language Inference for Arabic Using Extended Tree Edit Distance with Subtrees", 
+      "url": "https://www.semanticscholar.org/paper/223e397c7ae5bb4a9279b5e4031d517c8c86dda8"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "d780b5de3fbd0f92647be2f19be14e92f6f8b6f5", 
+      "title": "Semantics-based Graph Approach to Complex Question-Answering", 
+      "url": "https://www.semanticscholar.org/paper/d780b5de3fbd0f92647be2f19be14e92f6f8b6f5"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "9877a4b41ec80e8db7b1b3b8fa87b95d94179713", 
+      "title": "Learning Semantic Relatedness in Community Question Answering Using Neural Models", 
+      "url": "https://www.semanticscholar.org/paper/9877a4b41ec80e8db7b1b3b8fa87b95d94179713"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "8e04c039a2ab5ea8bcb4029100b99c9764147dec", 
+      "title": "Assessing the Impact of Syntactic and Semantic Structures for Answer Passages Reranking", 
+      "url": "https://www.semanticscholar.org/paper/8e04c039a2ab5ea8bcb4029100b99c9764147dec"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "1375a19dd4429a064d7fee959ff07d495ba8c06c", 
+      "title": "Semi-Markov Phrase-Based Monolingual Alignment", 
+      "url": "https://www.semanticscholar.org/paper/1375a19dd4429a064d7fee959ff07d495ba8c06c"
+    }
+  ], 
+  "doi": null, 
+  "influentialCitationCount": 9, 
+  "paperId": "8032c9626c7dbc33ac79ce6900b99df28822a41f", 
+  "references": [
+    {
+      "isInfluential": false, 
+      "paperId": "057cf8c16de54b160ef007e0d888865aeb592b7a", 
+      "title": "Three New Probabilistic Models for Dependency Parsing: An Exploration", 
+      "url": "https://www.semanticscholar.org/paper/057cf8c16de54b160ef007e0d888865aeb592b7a"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "d680b29d34bd1c08d874d9c2eab43931b7602669", 
+      "title": "Mapping Dependencies Trees: An Application to Question Answering", 
+      "url": "https://www.semanticscholar.org/paper/d680b29d34bd1c08d874d9c2eab43931b7602669"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "6a694487451957937adddbd682d3851fabd45626", 
+      "title": "Question answering passage retrieval using dependency relations", 
+      "url": "https://www.semanticscholar.org/paper/6a694487451957937adddbd682d3851fabd45626"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "333a460d666dff90c05e6bb28054254ac196aa37", 
+      "title": "Meaningful Change Detection in Structured Data", 
+      "url": "https://www.semanticscholar.org/paper/333a460d666dff90c05e6bb28054254ac196aa37"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "da2cc9087ab1073e4b1251ef0f811921c101f4f5", 
+      "title": "Efficient Convolution Kernels for Dependency and Constituent Syntactic Trees", 
+      "url": "https://www.semanticscholar.org/paper/da2cc9087ab1073e4b1251ef0f811921c101f4f5"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "7acfdc905f734abf966aed58abb983bc015ff7fe", 
+      "title": "Unsupervised Construction of Large Paraphrase Corpora: Exploiting Massively Parallel News Sources", 
+      "url": "https://www.semanticscholar.org/paper/7acfdc905f734abf966aed58abb983bc015ff7fe"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "63c48b1b375e5e3e4abc4a3a61f81bc524761a08", 
+      "title": "Automatic Learning of Textual Entailments with Cross-Pair Similarities", 
+      "url": "https://www.semanticscholar.org/paper/63c48b1b375e5e3e4abc4a3a61f81bc524761a08"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "4a20be7840c238ce931d0d285f757e9485d21bf4", 
+      "title": "An Algorithm that Learns What's in a Name", 
+      "url": "https://www.semanticscholar.org/paper/4a20be7840c238ce931d0d285f757e9485d21bf4"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "118be9cf31ecf5cbdd49a19da8615b593ec61a4c", 
+      "title": "What is the Jeopardy Model? A Quasi-Synchronous Grammar for QA", 
+      "url": "https://www.semanticscholar.org/paper/118be9cf31ecf5cbdd49a19da8615b593ec61a4c"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "24beb987b722d4a25d3157a43000e685aa8f8874", 
+      "title": "A Maximum Entropy Model For Part-Of-Speech Tagging", 
+      "url": "https://www.semanticscholar.org/paper/24beb987b722d4a25d3157a43000e685aa8f8874"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "de794d50713ea5f91a7c9da3d72041e2f5ef8452", 
+      "title": "The Third PASCAL Recognizing Textual Entailment Challenge", 
+      "url": "https://www.semanticscholar.org/paper/de794d50713ea5f91a7c9da3d72041e2f5ef8452"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "d6bf67fac447ce6e7c1ec546ca56af30a4060040", 
+      "title": "Quasi-Synchronous Grammars: Alignment By Soft Projection Of Syntactic Dependencies", 
+      "url": "https://www.semanticscholar.org/paper/d6bf67fac447ce6e7c1ec546ca56af30a4060040"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "7ff5cff8e1c33b30226bf0b2384cbfd7481a4332", 
+      "title": "Paraphrase Identification as Probabilistic Quasi-Synchronous Recognition", 
+      "url": "https://www.semanticscholar.org/paper/7ff5cff8e1c33b30226bf0b2384cbfd7481a4332"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "5ee0d8aeb2cb01ef4d8a858d234e72a7400c03ac", 
+      "title": "Convolution Kernels on Discrete Structures", 
+      "url": "https://www.semanticscholar.org/paper/5ee0d8aeb2cb01ef4d8a858d234e72a7400c03ac"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "7fa51d9ebf688949571a86411c7baf13d30c74d0", 
+      "title": "Bleu: a Method for Automatic Evaluation of Machine Translation", 
+      "url": "https://www.semanticscholar.org/paper/7fa51d9ebf688949571a86411c7baf13d30c74d0"
+    }, 
+    {
+      "isInfluential": true, 
+      "paperId": "ca3d3551e5e10ab4254e9adad94eb428e8e75586", 
+      "title": "Learning to distinguish valid textual entailments", 
+      "url": "https://www.semanticscholar.org/paper/ca3d3551e5e10ab4254e9adad94eb428e8e75586"
+    }, 
+    {
+      "isInfluential": true, 
+      "paperId": "9ec95ff338ec319584f54b5b90398126b939332d", 
+      "title": "Kernel Methods for Relation Extraction", 
+      "url": "https://www.semanticscholar.org/paper/9ec95ff338ec319584f54b5b90398126b939332d"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "505da4d6f9618028c7977a2b4d4b625b26897080", 
+      "title": "Recognizing Textual Entailment with Tree Edit Distance Algorithms", 
+      "url": "https://www.semanticscholar.org/paper/505da4d6f9618028c7977a2b4d4b625b26897080"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "277ff0c74cc72663d0aabbeae25a3e97b245457c", 
+      "title": "Simple Fast Algorithms for the Editing Distance Between Trees and Related Problems", 
+      "url": "https://www.semanticscholar.org/paper/277ff0c74cc72663d0aabbeae25a3e97b245457c"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "ae83cc2a1425196215a06aec25032b305896d223", 
+      "title": "An Extensible Probabilistic Transformation-based Approach to the Third Recognizing Textual Entailment Challenge", 
+      "url": "https://www.semanticscholar.org/paper/ae83cc2a1425196215a06aec25032b305896d223"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "30bfc350410a99d73a94a1d70f93c9d1ec30ba98", 
+      "title": "The elements of statistical learning: data mining, inference, and prediction, 2nd Edition", 
+      "url": "https://www.semanticscholar.org/paper/30bfc350410a99d73a94a1d70f93c9d1ec30ba98"
+    }, 
+    {
+      "isInfluential": true, 
+      "paperId": "266de78ed10439c448a125f6f783c1a97e608401", 
+      "title": "Introduction to WordNet: An On-line Lexical Database", 
+      "url": "https://www.semanticscholar.org/paper/266de78ed10439c448a125f6f783c1a97e608401"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "342cab2acc9712c72284ae603a7507f5d18d7c93", 
+      "title": "Loosely Tree-Based Alignment for Machine Translation", 
+      "url": "https://www.semanticscholar.org/paper/342cab2acc9712c72284ae603a7507f5d18d7c93"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "4eec01466021e92ec527213df133c7c649ee480d", 
+      "title": "Learning probabilistic models of tree edit distance", 
+      "url": "https://www.semanticscholar.org/paper/4eec01466021e92ec527213df133c7c649ee480d"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "66a9896d2eaceeb6e648d3582ca4b2a1df600f9a", 
+      "title": "Dependency Tree Kernels for Relation Extraction", 
+      "url": "https://www.semanticscholar.org/paper/66a9896d2eaceeb6e648d3582ca4b2a1df600f9a"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "5e351e47cc08f1944d8b8872b3c3a05fe1958f5c", 
+      "title": "Overview of TREC 2004", 
+      "url": "https://www.semanticscholar.org/paper/5e351e47cc08f1944d8b8872b3c3a05fe1958f5c"
+    }, 
+    {
+      "isInfluential": true, 
+      "paperId": "95ad4598a82a12ef271ef8bfb19f4df98274c8fb", 
+      "title": "Computing the Edit-Distance between Unrooted Ordered Trees", 
+      "url": "https://www.semanticscholar.org/paper/95ad4598a82a12ef271ef8bfb19f4df98274c8fb"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "f17568a5139c9f345f11d1307b2da394b7bcbdfe", 
+      "title": "A survey on tree edit distance and related problems", 
+      "url": "https://www.semanticscholar.org/paper/f17568a5139c9f345f11d1307b2da394b7bcbdfe"
+    }, 
+    {
+      "isInfluential": true, 
+      "paperId": "16c3eaad79a51a9e1a408d768a5096ca7675d4fd", 
+      "title": "Convolution Kernels for Natural Language", 
+      "url": "https://www.semanticscholar.org/paper/16c3eaad79a51a9e1a408d768a5096ca7675d4fd"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "2fdf677f32eb8caa9fc3b63876c01603c824146c", 
+      "title": "Heuristics - intelligent search strategies for computer problem solving", 
+      "url": "https://www.semanticscholar.org/paper/2fdf677f32eb8caa9fc3b63876c01603c824146c"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "4f8a4bf5eeb92d28e116b988c2ae3bdade12d9f4", 
+      "title": "Modeling Semantic Containment and Exclusion in Natural Language Inference", 
+      "url": "https://www.semanticscholar.org/paper/4f8a4bf5eeb92d28e116b988c2ae3bdade12d9f4"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "3571dcf348c7db7818c51561d9c8aab0149d8f8a", 
+      "title": "Non-Projective Dependency Parsing using Spanning Tree Algorithms", 
+      "url": "https://www.semanticscholar.org/paper/3571dcf348c7db7818c51561d9c8aab0149d8f8a"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "e53e0ce0e080b6dfa20b8c85f3c76caf071ee385", 
+      "title": "TLR at DUC 2006: approximate tree similarity and a new evaluation regime", 
+      "url": "https://www.semanticscholar.org/paper/e53e0ce0e080b6dfa20b8c85f3c76caf071ee385"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "96cff156cdc8a479aa994eae875a0860d663d317", 
+      "title": "Learning with Kernels", 
+      "url": "https://www.semanticscholar.org/paper/96cff156cdc8a479aa994eae875a0860d663d317"
+    }, 
+    {
+      "isInfluential": true, 
+      "paperId": "c6afe8a8aa13de8e3f2710ef07b22ce86a005419", 
+      "title": "Using Dependency-Based Features to Take the \u201cPara-farce\u201d out of Paraphrase", 
+      "url": "https://www.semanticscholar.org/paper/c6afe8a8aa13de8e3f2710ef07b22ce86a005419"
+    }
+  ], 
+  "title": "Tree Edit Models for Recognizing Textual Entailments, Paraphrases, and Answers to Questions", 
+  "url": "https://www.semanticscholar.org/paper/8032c9626c7dbc33ac79ce6900b99df28822a41f", 
+  "venue": "HLT-NAACL"
+}

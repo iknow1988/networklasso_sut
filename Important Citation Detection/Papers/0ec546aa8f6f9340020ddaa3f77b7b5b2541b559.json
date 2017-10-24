@@ -1,0 +1,822 @@
+{
+  "authors": [
+    {
+      "authorId": "1678747", 
+      "name": "Bernd Bohnet", 
+      "url": "https://www.semanticscholar.org/author/1678747"
+    }, 
+    {
+      "authorId": "1720988", 
+      "name": "Joakim Nivre", 
+      "url": "https://www.semanticscholar.org/author/1720988"
+    }, 
+    {
+      "authorId": "1738227", 
+      "name": "Igor Boguslavsky", 
+      "url": "https://www.semanticscholar.org/author/1738227"
+    }, 
+    {
+      "authorId": "2397744", 
+      "name": "Rich\u00e1rd Farkas", 
+      "url": "https://www.semanticscholar.org/author/2397744"
+    }, 
+    {
+      "authorId": "1694491", 
+      "name": "Filip Ginter", 
+      "url": "https://www.semanticscholar.org/author/1694491"
+    }, 
+    {
+      "authorId": "8780522", 
+      "name": "Jan Hajic", 
+      "url": "https://www.semanticscholar.org/author/8780522"
+    }
+  ], 
+  "citationVelocity": 0, 
+  "citations": [
+    {
+      "isInfluential": false, 
+      "paperId": "57df7ef1d75853edf4df97d847f281e571df2b3e", 
+      "title": "Syntactic N-gram Collection from a Large-Scale Corpus of Internet Finnish", 
+      "url": "https://www.semanticscholar.org/paper/57df7ef1d75853edf4df97d847f281e571df2b3e", 
+      "venue": "Baltic HLT", 
+      "year": 2014
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "dc91620af382e71112ae3167b5dfc2b9a4bbf818", 
+      "title": "Jointly or Separately: Which is Better for Parsing Heterogeneous Dependencies?", 
+      "url": "https://www.semanticscholar.org/paper/dc91620af382e71112ae3167b5dfc2b9a4bbf818", 
+      "venue": "COLING", 
+      "year": 2014
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "2d3844224e93787c190f65458a775f77088947b5", 
+      "title": "Improved Transition-based Parsing by Modeling Characters instead of Words with LSTMs", 
+      "url": "https://www.semanticscholar.org/paper/2d3844224e93787c190f65458a775f77088947b5", 
+      "venue": "EMNLP", 
+      "year": 2015
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "6ade0e3ca13d30818c2c0230278bca5c5f59ab87", 
+      "title": "Notes About a More Aware Dependency Parser", 
+      "url": "https://www.semanticscholar.org/paper/6ade0e3ca13d30818c2c0230278bca5c5f59ab87", 
+      "venue": "ArXiv", 
+      "year": 2015
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "4e98c5d770adedb32f128b160d3d347629e00deb", 
+      "title": "Parsing Argumentation Structures in Persuasive Essays", 
+      "url": "https://www.semanticscholar.org/paper/4e98c5d770adedb32f128b160d3d347629e00deb", 
+      "venue": "ArXiv", 
+      "year": 2016
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "ae8f2b7a5c07a3bb657996aa5328edf3cc0d54a8", 
+      "title": "Automatic annotation of Latin vowel length", 
+      "url": "https://www.semanticscholar.org/paper/ae8f2b7a5c07a3bb657996aa5328edf3cc0d54a8", 
+      "venue": "", 
+      "year": 2015
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "43cd81482dc12cd4437fbe2d3ce31ec710da1875", 
+      "title": "Left-corner Methods for Syntactic Modeling with Universal Structural Constraints", 
+      "url": "https://www.semanticscholar.org/paper/43cd81482dc12cd4437fbe2d3ce31ec710da1875", 
+      "venue": "ArXiv", 
+      "year": 2016
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "32b7c0cef0733783b8e8cf9ddcc023edf1bd83ff", 
+      "title": "A Graph-based Lattice Dependency Parser for Joint Morphological Segmentation and Syntactic Analysis", 
+      "url": "https://www.semanticscholar.org/paper/32b7c0cef0733783b8e8cf9ddcc023edf1bd83ff", 
+      "venue": "TACL", 
+      "year": 2015
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "ddf7ed29c9a995c77107b17be7d77d5625eb33db", 
+      "title": "Past, Present, Future: A Computational Investigation of the Typology of Tense in 1000 Languages", 
+      "url": "https://www.semanticscholar.org/paper/ddf7ed29c9a995c77107b17be7d77d5625eb33db", 
+      "venue": "ArXiv", 
+      "year": 2017
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "2a980ce4412b9b8e22564b157fb74921e223081f", 
+      "title": "Joint Ensemble Model for POS Tagging and Dependency Parsing", 
+      "url": "https://www.semanticscholar.org/paper/2a980ce4412b9b8e22564b157fb74921e223081f", 
+      "venue": "", 
+      "year": 2014
+    }, 
+    {
+      "isInfluential": true, 
+      "paperId": "80c0e0cebae28fd864a7ffa406bd85d1b5680090", 
+      "title": "Joint Prediction of Morphosyntactic Categories for Fine-Grained Arabic Part-of-Speech Tagging Exploiting Tag Dictionary Information", 
+      "url": "https://www.semanticscholar.org/paper/80c0e0cebae28fd864a7ffa406bd85d1b5680090", 
+      "venue": "CoNLL", 
+      "year": 2017
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "08e32185d8ae75e7426c475419fdccb4b4a0fa11", 
+      "title": "Improving Scalability of Inductive Logic Programming via Pruning and Best-Effort Optimisation", 
+      "url": "https://www.semanticscholar.org/paper/08e32185d8ae75e7426c475419fdccb4b4a0fa11", 
+      "venue": "ArXiv", 
+      "year": 2017
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "5069e93603c00d14cf67d86b536c9eca0193969b", 
+      "title": "Cross-lingual Dependency Parsing of Related Languages with Rich Morphosyntactic Tagsets", 
+      "url": "https://www.semanticscholar.org/paper/5069e93603c00d14cf67d86b536c9eca0193969b", 
+      "venue": "", 
+      "year": 2014
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "2238cec60dbee0fbdb3a4d066f0ff2e3350db60f", 
+      "title": "Improved Transition-Based Parsing and Tagging with Neural Networks", 
+      "url": "https://www.semanticscholar.org/paper/2238cec60dbee0fbdb3a4d066f0ff2e3350db60f", 
+      "venue": "EMNLP", 
+      "year": 2015
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "0bca6de5982931d866f7da75d692e5db7022a2a1", 
+      "title": "Discontinuous Verb Phrases in Parsing and Machine Translation of English and German", 
+      "url": "https://www.semanticscholar.org/paper/0bca6de5982931d866f7da75d692e5db7022a2a1", 
+      "venue": "LREC", 
+      "year": 2016
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "7f261af565e21d0c5c93224f44a5e48f9e658f8c", 
+      "title": "Exploring Confidence-based Self-training for Multilingual Dependency Parsing in an Under-Resourced Language Scenario", 
+      "url": "https://www.semanticscholar.org/paper/7f261af565e21d0c5c93224f44a5e48f9e658f8c", 
+      "venue": "DepLing", 
+      "year": 2015
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "42dd62d05911aa689b879adb6ffe55d724726bf4", 
+      "title": "Recognizing the Absence of Opposing Arguments in Persuasive Essays", 
+      "url": "https://www.semanticscholar.org/paper/42dd62d05911aa689b879adb6ffe55d724726bf4", 
+      "venue": "ArgMining@ACL", 
+      "year": 2016
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "fbf41a92fb5db0b4984b908a880e4b1f80009a25", 
+      "title": "Joint Morphological Generation and Syntactic Linearization", 
+      "url": "https://www.semanticscholar.org/paper/fbf41a92fb5db0b4984b908a880e4b1f80009a25", 
+      "venue": "AAAI", 
+      "year": 2014
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "ea036e17937f24a6c4ebc399b7c2ca960c518cb4", 
+      "title": "Static and Dynamic Feature Selection in Morphosyntactic Analyzers", 
+      "url": "https://www.semanticscholar.org/paper/ea036e17937f24a6c4ebc399b7c2ca960c518cb4", 
+      "venue": "ArXiv", 
+      "year": 2016
+    }, 
+    {
+      "isInfluential": true, 
+      "paperId": "095cc2c93b0991a6184b2685177f3504a1303646", 
+      "title": "Comparing Czech and English AMRs", 
+      "url": "https://www.semanticscholar.org/paper/095cc2c93b0991a6184b2685177f3504a1303646", 
+      "venue": "", 
+      "year": 2014
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "1bfd03d3cc9d41564002ad32db1793e91f0c5220", 
+      "title": "Universal Dependencies for Finnish", 
+      "url": "https://www.semanticscholar.org/paper/1bfd03d3cc9d41564002ad32db1793e91f0c5220", 
+      "venue": "NODALIDA", 
+      "year": 2015
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "dc66194b0b977aeabafa2f37f7fa8a455a6f2642", 
+      "title": "Towards Universal Web Parsebanks", 
+      "url": "https://www.semanticscholar.org/paper/dc66194b0b977aeabafa2f37f7fa8a455a6f2642", 
+      "venue": "DepLing", 
+      "year": 2015
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "aec9101c27ba55c23f894eaab86605ea262f6f99", 
+      "title": "Enforcing Structural Diversity in Cube-pruned Dependency Parsing", 
+      "url": "https://www.semanticscholar.org/paper/aec9101c27ba55c23f894eaab86605ea262f6f99", 
+      "venue": "ACL", 
+      "year": 2014
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "7099fd783370d14cdd6b5bc399feca970b658563", 
+      "title": "Not an Interlingua, But Close: Comparison of English AMRs to Chinese and Czech", 
+      "url": "https://www.semanticscholar.org/paper/7099fd783370d14cdd6b5bc399feca970b658563", 
+      "venue": "LREC", 
+      "year": 2014
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "9553d929e4a24cdb424ab66d920bfa458186b987", 
+      "title": "Optimal Shift-Reduce Constituent Parsing with Structured Perceptron", 
+      "url": "https://www.semanticscholar.org/paper/9553d929e4a24cdb424ab66d920bfa458186b987", 
+      "venue": "ACL", 
+      "year": 2015
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "c9c27bb00f4135ac6db128e3478d705fbc16598e", 
+      "title": "Porting an Open Information Extraction System from English to German", 
+      "url": "https://www.semanticscholar.org/paper/c9c27bb00f4135ac6db128e3478d705fbc16598e", 
+      "venue": "EMNLP", 
+      "year": 2016
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "4a247c7c19c6510b2d3923341981972a13fe9108", 
+      "title": "A Linear-Time Transition System for Crossing Interval Trees", 
+      "url": "https://www.semanticscholar.org/paper/4a247c7c19c6510b2d3923341981972a13fe9108", 
+      "venue": "HLT-NAACL", 
+      "year": 2015
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "f442e78c0058187c977783418171d7580a0e65bb", 
+      "title": "Automatic Feature Selection for Agenda-Based Dependency Parsing", 
+      "url": "https://www.semanticscholar.org/paper/f442e78c0058187c977783418171d7580a0e65bb", 
+      "venue": "COLING", 
+      "year": 2014
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "6dde8824053bcee262c0a194a98adf363e7e1153", 
+      "title": "Automatic morphological analysis of learner Hungarian", 
+      "url": "https://www.semanticscholar.org/paper/6dde8824053bcee262c0a194a98adf363e7e1153", 
+      "venue": "BEA@NAACL-HLT", 
+      "year": 2015
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "2055d5bcca450238bf0b15e8b04a464a266c1d13", 
+      "title": "Inspire at SemEval-2016 Task 2: Interpretable Semantic Textual Similarity Alignment based on Answer Set Programming", 
+      "url": "https://www.semanticscholar.org/paper/2055d5bcca450238bf0b15e8b04a464a266c1d13", 
+      "venue": "SemEval@NAACL-HLT", 
+      "year": 2016
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "23a579258ef7742f5e6b38450ef21c7f5aa83f8c", 
+      "title": "Representing and Visualizing Text as Ontologies: A Case from the Patent Domain", 
+      "url": "https://www.semanticscholar.org/paper/23a579258ef7742f5e6b38450ef21c7f5aa83f8c", 
+      "venue": "VOILA@ISWC", 
+      "year": 2015
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "08ef3df9c3989ab207501b3b353b5ed71443d56d", 
+      "title": "Syntactic Processing Using Global Discriminative Learning and Beam-Search Decoding", 
+      "url": "https://www.semanticscholar.org/paper/08ef3df9c3989ab207501b3b353b5ed71443d56d", 
+      "venue": "ACL", 
+      "year": 2014
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "4e370875a571a3b9df80a91080ef8f2342d545d6", 
+      "title": "Croatian Dependency Treebank 2.0: New Annotation Guidelines for Improved Parsing", 
+      "url": "https://www.semanticscholar.org/paper/4e370875a571a3b9df80a91080ef8f2342d545d6", 
+      "venue": "LREC", 
+      "year": 2014
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "27e159bb672b3e4ba99c7613febcd02ea54c9c65", 
+      "title": "A Comparison of Selectional Preference Models for Automatic Verb Classification", 
+      "url": "https://www.semanticscholar.org/paper/27e159bb672b3e4ba99c7613febcd02ea54c9c65", 
+      "venue": "EMNLP", 
+      "year": 2014
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "999f309bc750b0b37e42b790490cbe8625cdc5c3", 
+      "title": "Adventures in Multilingual Parsing", 
+      "url": "https://www.semanticscholar.org/paper/999f309bc750b0b37e42b790490cbe8625cdc5c3", 
+      "venue": "HyTra@EACL", 
+      "year": 2014
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "ce22767d11398aae73f2683b37e17fef0a919053", 
+      "title": "Syntactic methods for negation detection in radiology reports in Spanish", 
+      "url": "https://www.semanticscholar.org/paper/ce22767d11398aae73f2683b37e17fef0a919053", 
+      "venue": "", 
+      "year": 2016
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "135980f5cd7c08f0b7ecd219a554a377c171a291", 
+      "title": "Randomized Greedy Inference for Joint Segmentation, POS Tagging and Dependency Parsing", 
+      "url": "https://www.semanticscholar.org/paper/135980f5cd7c08f0b7ecd219a554a377c171a291", 
+      "venue": "HLT-NAACL", 
+      "year": 2015
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "11315457e5505dc9f5729d45a8fed7c7d076434d", 
+      "title": "An LR-inspired generalized lexicalized phrase structure parser", 
+      "url": "https://www.semanticscholar.org/paper/11315457e5505dc9f5729d45a8fed7c7d076434d", 
+      "venue": "COLING", 
+      "year": 2014
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "44ffb10fc7e9205d4ab4b7b8dcda4bd41c39648a", 
+      "title": "It-disambiguation and source-aware language models for cross-lingual pronoun prediction", 
+      "url": "https://www.semanticscholar.org/paper/44ffb10fc7e9205d4ab4b7b8dcda4bd41c39648a", 
+      "venue": "WMT", 
+      "year": 2016
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "83e77cf3f3609241434cebfaa20d954abd457fd4", 
+      "title": "Domain Adaptation for Dependency Parsing via Self-training", 
+      "url": "https://www.semanticscholar.org/paper/83e77cf3f3609241434cebfaa20d954abd457fd4", 
+      "venue": "", 
+      "year": 2015
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "4fb277f5f7dbd2f48007f51bfc9ed0ea4d9eb856", 
+      "title": "On-line Multilingual Linguistic Services", 
+      "url": "https://www.semanticscholar.org/paper/4fb277f5f7dbd2f48007f51bfc9ed0ea4d9eb856", 
+      "venue": "COLING", 
+      "year": 2016
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "e7c93e686b3cd6d35889bd8a3b2ddc88bc48e494", 
+      "title": "Preliminary Experiments in the Extraction of Predicative Structures from a Large Finnish Corpus", 
+      "url": "https://www.semanticscholar.org/paper/e7c93e686b3cd6d35889bd8a3b2ddc88bc48e494", 
+      "venue": "", 
+      "year": 2017
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "6efe0d86f1b97ad402b4c6a17fe0e0cfc403a6d7", 
+      "title": "Potsdam: Semantic Dependency Parsing by Bidirectional Graph-Tree Transformations and Syntactic Parsing", 
+      "url": "https://www.semanticscholar.org/paper/6efe0d86f1b97ad402b4c6a17fe0e0cfc403a6d7", 
+      "venue": "SemEval@COLING", 
+      "year": 2014
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "cd15f661aeff730c651ae75b523d3e3d7eb06459", 
+      "title": "Exploring Options for Fast Domain Adaptation of Dependency Parsers", 
+      "url": "https://www.semanticscholar.org/paper/cd15f661aeff730c651ae75b523d3e3d7eb06459", 
+      "venue": "", 
+      "year": 2014
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "903527bc94bc8a43d218f2c55771ff915d660723", 
+      "title": "Findings of the 2016 WMT Shared Task on Cross-lingual Pronoun Prediction", 
+      "url": "https://www.semanticscholar.org/paper/903527bc94bc8a43d218f2c55771ff915d660723", 
+      "venue": "WMT", 
+      "year": 2016
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "132038d9158a934da2ed3e78b5261d7f863b0d0f", 
+      "title": "MSejrKu at SemEval-2016 Task 14: Taxonomy Enrichment by Evidence Ranking", 
+      "url": "https://www.semanticscholar.org/paper/132038d9158a934da2ed3e78b5261d7f863b0d0f", 
+      "venue": "SemEval@NAACL-HLT", 
+      "year": 2016
+    }
+  ], 
+  "doi": null, 
+  "influentialCitationCount": 2, 
+  "paperId": "0ec546aa8f6f9340020ddaa3f77b7b5b2541b559", 
+  "references": [
+    {
+      "isInfluential": false, 
+      "paperId": "aa599f602e1962cbdd6b5fbe57bf0729d1fb8265", 
+      "title": "The Best of BothWorlds - A Graph-based Completion Model for Transition-based Parsers", 
+      "url": "https://www.semanticscholar.org/paper/aa599f602e1962cbdd6b5fbe57bf0729d1fb8265", 
+      "venue": "EACL", 
+      "year": 2012
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "f0e1883cf9d1b3c911125f46359f908557fc5827", 
+      "title": "Statistical Dependency Analysis with Support Vector Machines", 
+      "url": "https://www.semanticscholar.org/paper/f0e1883cf9d1b3c911125f46359f908557fc5827", 
+      "venue": "", 
+      "year": 2003
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "0339bf1a41a2f793e09d14a79ac75d86e19db7e7", 
+      "title": "The CoNLL-2009 Shared Task: Syntactic and Semantic Dependencies in Multiple Languages", 
+      "url": "https://www.semanticscholar.org/paper/0339bf1a41a2f793e09d14a79ac75d86e19db7e7", 
+      "venue": "CoNLL Shared Task", 
+      "year": 2009
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "ab41136c0a73b42463db10f9dd2913f8d8735155", 
+      "title": "An Efficient Algorithm for Projective Dependency Parsing", 
+      "url": "https://www.semanticscholar.org/paper/ab41136c0a73b42463db10f9dd2913f8d8735155", 
+      "venue": "", 
+      "year": 2003
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "1603de9683cc55ef567fc1fc22ba9ee02ec2c84c", 
+      "title": "A Discriminative Model for Joint Morphological Disambiguation and Dependency Parsing", 
+      "url": "https://www.semanticscholar.org/paper/1603de9683cc55ef567fc1fc22ba9ee02ec2c84c", 
+      "venue": "ACL", 
+      "year": 2011
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "5ec5818fa20608f598586ebb5518bcb0f92d06e0", 
+      "title": "Tagging Inflective Languages: Prediction of Morphological Categories for a Rich, Structured Tagset", 
+      "url": "https://www.semanticscholar.org/paper/5ec5818fa20608f598586ebb5518bcb0f92d06e0", 
+      "venue": "COLING-ACL", 
+      "year": 1998
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "0ed4bc90ed22c56c4ab6654890a9222dae6e3abc", 
+      "title": "Development of a Dependency Treebank for Russian and its Possible Applications in NLP", 
+      "url": "https://www.semanticscholar.org/paper/0ed4bc90ed22c56c4ab6654890a9222dae6e3abc", 
+      "venue": "LREC", 
+      "year": 2002
+    }, 
+    {
+      "isInfluential": true, 
+      "paperId": "c513412236b19a372959e81b9704ce4bf36535e9", 
+      "title": "Poster paper: HunPos - an open source trigram tagger", 
+      "url": "https://www.semanticscholar.org/paper/c513412236b19a372959e81b9704ce4bf36535e9", 
+      "venue": "ACL", 
+      "year": 2007
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "281507601d3d57f087547016a6863a7643cf2417", 
+      "title": "A Transition-Based System for Joint Part-of-Speech Tagging and Labeled Non-Projective Dependency Parsing", 
+      "url": "https://www.semanticscholar.org/paper/281507601d3d57f087547016a6863a7643cf2417", 
+      "venue": "EMNLP-CoNLL", 
+      "year": 2012
+    }, 
+    {
+      "isInfluential": true, 
+      "paperId": "5cc2b7c9703c01daf0eec4cde7f5d5c3263d1882", 
+      "title": "Modularisation of Finnish Finite-State Language Description - Towards Wide Collaboration in Open Source Development of a Morphological Analyser", 
+      "url": "https://www.semanticscholar.org/paper/5cc2b7c9703c01daf0eec4cde7f5d5c3263d1882", 
+      "venue": "NODALIDA", 
+      "year": 2011
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "9e46cd82175bdacfd78546efea07ac5b018e0ace", 
+      "title": "SMOR: A German Computational Morphology Covering Derivation, Composition and Inflection", 
+      "url": "https://www.semanticscholar.org/paper/9e46cd82175bdacfd78546efea07ac5b018e0ace", 
+      "venue": "LREC", 
+      "year": 2004
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "41828fc3dab24784f95e6976e8aaa73f68e1840e", 
+      "title": "Incremental Parsing with the Perceptron Algorithm", 
+      "url": "https://www.semanticscholar.org/paper/41828fc3dab24784f95e6976e8aaa73f68e1840e", 
+      "venue": "ACL", 
+      "year": 2004
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "1deed1a4a03e07aee3b8b8e4716f35033c715a57", 
+      "title": "CoNLL-X Shared Task on Multilingual Dependency Parsing", 
+      "url": "https://www.semanticscholar.org/paper/1deed1a4a03e07aee3b8b8e4716f35033c715a57", 
+      "venue": "CoNLL", 
+      "year": 2006
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "c1d96c0f421f8b519cafdbb4e499faa1c797ed9b", 
+      "title": "Transition-based Dependency Parsing with Rich Non-local Features", 
+      "url": "https://www.semanticscholar.org/paper/c1d96c0f421f8b519cafdbb4e499faa1c797ed9b", 
+      "venue": "ACL", 
+      "year": 2011
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "48f60c89853306d6776d2bcf3fc3e2c3236d81d8", 
+      "title": "A Latent Variable Model of Synchronous Syntactic-Semantic Parsing for Multiple Languages", 
+      "url": "https://www.semanticscholar.org/paper/48f60c89853306d6776d2bcf3fc3e2c3236d81d8", 
+      "venue": "CoNLL Shared Task", 
+      "year": 2009
+    }, 
+    {
+      "isInfluential": true, 
+      "paperId": "28d9c89f946a39d3c4146bf32ddff546845e1801", 
+      "title": "Simple Semi-supervised Dependency Parsing", 
+      "url": "https://www.semanticscholar.org/paper/28d9c89f946a39d3c4146bf32ddff546845e1801", 
+      "venue": "ACL", 
+      "year": 2008
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "55d490b64346d1bbbdb02e62e2c745689e19163a", 
+      "title": "A Latent Variable Model for Generative Dependency Parsing", 
+      "url": "https://www.semanticscholar.org/paper/55d490b64346d1bbbdb02e62e2c745689e19163a", 
+      "venue": "Trends in Parsing Technology", 
+      "year": 2007
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "740beaf67e0cefa56afc243e1db0fd608ce10f1e", 
+      "title": "An Improved Oracle for Dependency Parsing with Online Reordering", 
+      "url": "https://www.semanticscholar.org/paper/740beaf67e0cefa56afc243e1db0fd608ce10f1e", 
+      "venue": "IWPT", 
+      "year": 2009
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "3e325800624105ab83a59489f2baab94c71451e5", 
+      "title": "Statistical Parsing of Morphologically Rich Languages (SPMRL) What, How and Whither", 
+      "url": "https://www.semanticscholar.org/paper/3e325800624105ab83a59489f2baab94c71451e5", 
+      "venue": "", 
+      "year": 2010
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "922c9d30e5ef6cfbae403ac379a09eacd0b1e958", 
+      "title": "Joint Morphological and Syntactic Disambiguation", 
+      "url": "https://www.semanticscholar.org/paper/922c9d30e5ef6cfbae403ac379a09eacd0b1e958", 
+      "venue": "EMNLP-CoNLL", 
+      "year": 2007
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "51cfde9bbc25a4cff1d5666815674c83886d933e", 
+      "title": "Top Accuracy and Fast Dependency Parsing is not a Contradiction", 
+      "url": "https://www.semanticscholar.org/paper/51cfde9bbc25a4cff1d5666815674c83886d933e", 
+      "venue": "COLING", 
+      "year": 2010
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "4f0bd297db718b6100aae9c3f34445f0aec018ee", 
+      "title": "Building the essential resources for Finnish: the Turku Dependency Treebank", 
+      "url": "https://www.semanticscholar.org/paper/4f0bd297db718b6100aae9c3f34445f0aec018ee", 
+      "venue": "Language Resources and Evaluation", 
+      "year": 2014
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "1013083dd79b9178d7c14b42f4c898f65ce71166", 
+      "title": "Parsing Morphologically Rich Languages: Introduction to the Special Issue", 
+      "url": "https://www.semanticscholar.org/paper/1013083dd79b9178d7c14b42f4c898f65ce71166", 
+      "venue": "Computational Linguistics", 
+      "year": 2013
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "b65c8159b3f3b2b652c996318aaa51fbb75643b9", 
+      "title": "Morphdb.hu: Hungarian lexical database and morphological grammar", 
+      "url": "https://www.semanticscholar.org/paper/b65c8159b3f3b2b652c996318aaa51fbb75643b9", 
+      "venue": "", 
+      "year": 2006
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "4eae8c871cd48ed3e6af62c296d8687245ab770b", 
+      "title": "Clustering Words by Syntactic Similarity improves Dependency Parsing of Predicate-argument Structures", 
+      "url": "https://www.semanticscholar.org/paper/4eae8c871cd48ed3e6af62c296d8687245ab770b", 
+      "venue": "IWPT", 
+      "year": 2009
+    }, 
+    {
+      "isInfluential": true, 
+      "paperId": "99d503c07b34825bf6d1ad769d50a94d6a005a8d", 
+      "title": "THE PRAGUE DEPENDENCY TREEBANK A Three-Level Annotation Scenario", 
+      "url": "https://www.semanticscholar.org/paper/99d503c07b34825bf6d1ad769d50a94d6a005a8d", 
+      "venue": "", 
+      "year": 2002
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "10a9abb4c78f0be5cc85847f248d3e8277b3c810", 
+      "title": "The CoNLL 2007 Shared Task on Dependency Parsing", 
+      "url": "https://www.semanticscholar.org/paper/10a9abb4c78f0be5cc85847f248d3e8277b3c810", 
+      "venue": "EMNLP-CoNLL", 
+      "year": 2007
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "635ff3b2aae986dabfd64c83516c4c12eeea3e7b", 
+      "title": "Incremental Joint POS Tagging and Dependency Parsing in Chinese", 
+      "url": "https://www.semanticscholar.org/paper/635ff3b2aae986dabfd64c83516c4c12eeea3e7b", 
+      "venue": "IJCNLP", 
+      "year": 2011
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "0cb7f7f642fe21515797ab3e35486706a4db1494", 
+      "title": "Dependency Parsing", 
+      "url": "https://www.semanticscholar.org/paper/0cb7f7f642fe21515797ab3e35486706a4db1494", 
+      "venue": "Dependency Parsing", 
+      "year": 2009
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "0004755df3c1c7c232d8efeeffbb64fc64086499", 
+      "title": "Exact Inference for Generative Probabilistic Non-Projective Dependency Parsing", 
+      "url": "https://www.semanticscholar.org/paper/0004755df3c1c7c232d8efeeffbb64fc64086499", 
+      "venue": "EMNLP", 
+      "year": 2011
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "3b8e7c8220d3883d54960d896a73045f3c70ac17", 
+      "title": "Discriminative Training Methods For Hidden Markov Models: Theory And Experiments With Perceptron Algorithms", 
+      "url": "https://www.semanticscholar.org/paper/3b8e7c8220d3883d54960d896a73045f3c70ac17", 
+      "venue": "", 
+      "year": 2002
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "478efbcfa87d4c704844a9707a799b3dd229284d", 
+      "title": "Dependency Parsing of Hungarian: Baseline Results and Challenges", 
+      "url": "https://www.semanticscholar.org/paper/478efbcfa87d4c704844a9707a799b3dd229284d", 
+      "venue": "EACL", 
+      "year": 2012
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "30f1ea3b4194dba7f957fd6bf81bcaf12dca6ff8", 
+      "title": "Dynamic Programming for Linear-Time Incremental Parsing", 
+      "url": "https://www.semanticscholar.org/paper/30f1ea3b4194dba7f957fd6bf81bcaf12dca6ff8", 
+      "venue": "ACL", 
+      "year": 2010
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "032906f0d86fd6bbf7512d3fffd06fcb83593012", 
+      "title": "Incrementality In Deterministic Dependency Parsing", 
+      "url": "https://www.semanticscholar.org/paper/032906f0d86fd6bbf7512d3fffd06fcb83593012", 
+      "venue": "", 
+      "year": 2004
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "b3ec3710403d488cde51d7f2b9e9e97e5bd39833", 
+      "title": "Non-Projective Dependency Parsing in Expected Linear Time", 
+      "url": "https://www.semanticscholar.org/paper/b3ec3710403d488cde51d7f2b9e9e97e5bd39833", 
+      "venue": "ACL/IJCNLP", 
+      "year": 2009
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "d3018432c6489c72701eba7b4104a94ce829f79a", 
+      "title": "Graph Transformations in Data-Driven Dependency Parsing", 
+      "url": "https://www.semanticscholar.org/paper/d3018432c6489c72701eba7b4104a94ce829f79a", 
+      "venue": "ACL", 
+      "year": 2006
+    }, 
+    {
+      "isInfluential": true, 
+      "paperId": "1e00db23472463f6f0209afdd00dfb98bbdd17f6", 
+      "title": "Dual Decomposition for Parsing with Non-Projective Head Automata", 
+      "url": "https://www.semanticscholar.org/paper/1e00db23472463f6f0209afdd00dfb98bbdd17f6", 
+      "venue": "EMNLP", 
+      "year": 2010
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "26bdd2346e3c85373ee6b4ace7a68981a4983a06", 
+      "title": "Integrated Morphological and Syntactic Disambiguation for Modern Hebrew", 
+      "url": "https://www.semanticscholar.org/paper/26bdd2346e3c85373ee6b4ace7a68981a4983a06", 
+      "venue": "ACL", 
+      "year": 2006
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "cc47cb008beeeb2fc81231f4e95ce9cadbea1ae9", 
+      "title": "A High-Quality Web Corpus of Czech", 
+      "url": "https://www.semanticscholar.org/paper/cc47cb008beeeb2fc81231f4e95ce9cadbea1ae9", 
+      "venue": "LREC", 
+      "year": 2012
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "9a52a67a7f3db8b719c2afc6c1f4e332421fbbd3", 
+      "title": "Rule-Based Dependency Parser Refined by Empirical and Corpus Statistics", 
+      "url": "https://www.semanticscholar.org/paper/9a52a67a7f3db8b719c2afc6c1f4e332421fbbd3", 
+      "venue": "", 
+      "year": null
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "c5be25e2c679564b84b71f4052c13aeae727b713", 
+      "title": "Dependency Treebank for Russian: Concept, Tools, Types of Information", 
+      "url": "https://www.semanticscholar.org/paper/c5be25e2c679564b84b71f4052c13aeae727b713", 
+      "venue": "COLING", 
+      "year": 2000
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "c2f34bb9b8fb309b38aeb528877fd7f494f87764", 
+      "title": "Morphological Tagging: Data vs. Dictionaries", 
+      "url": "https://www.semanticscholar.org/paper/c2f34bb9b8fb309b38aeb528877fd7f494f87764", 
+      "venue": "ANLP", 
+      "year": 2000
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "69a54d8b384656a1b99d58e398ed6155bfdf8278", 
+      "title": "A Single Generative Model for Joint Morphological Segmentation and Syntactic Parsing", 
+      "url": "https://www.semanticscholar.org/paper/69a54d8b384656a1b99d58e398ed6155bfdf8278", 
+      "venue": "ACL", 
+      "year": 2008
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "52b7a25984edfc60a81c15f0e706822c75c73151", 
+      "title": "Informed ways of improving data-driven dependency parsing for German", 
+      "url": "https://www.semanticscholar.org/paper/52b7a25984edfc60a81c15f0e706822c75c73151", 
+      "venue": "COLING", 
+      "year": 2010
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "fc28ffe7d7aa203abb958bfde59cb03968a5b32a", 
+      "title": "Word Segmentation, Unknown-word Resolution, and Morphological Agreement in a Hebrew Parsing System", 
+      "url": "https://www.semanticscholar.org/paper/fc28ffe7d7aa203abb958bfde59cb03968a5b32a", 
+      "venue": "Computational Linguistics", 
+      "year": 2013
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "7bf5de63d9ef5a1ef4827ff84118b7e687ed71ff", 
+      "title": "The Hungarian National Corpus", 
+      "url": "https://www.semanticscholar.org/paper/7bf5de63d9ef5a1ef4827ff84118b7e687ed71ff", 
+      "venue": "LREC", 
+      "year": 2002
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "026c19a29d3d1f3997393192ced1eb6098038f09", 
+      "title": "Analyzing the Effect of Global Learning and Beam-Search on Transition-Based Dependency Parsing", 
+      "url": "https://www.semanticscholar.org/paper/026c19a29d3d1f3997393192ced1eb6098038f09", 
+      "venue": "COLING", 
+      "year": 2012
+    }, 
+    {
+      "isInfluential": true, 
+      "paperId": "ad1181d188f730b7917a95ae452efb48f830c90a", 
+      "title": "A Tale of Two Parsers: Investigating and Combining Graph-based and Transition-based Dependency Parsing", 
+      "url": "https://www.semanticscholar.org/paper/ad1181d188f730b7917a95ae452efb48f830c90a", 
+      "venue": "EMNLP", 
+      "year": 2008
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "7c8f7de2d010fd8a6348e136ca43dc268a0ff4e0", 
+      "title": "Making Ellipses Explicit in Dependency Conversion for a German Treebank", 
+      "url": "https://www.semanticscholar.org/paper/7c8f7de2d010fd8a6348e136ca43dc268a0ff4e0", 
+      "venue": "LREC", 
+      "year": 2012
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "5e51e3061b6e21e9ecad22c7fc113cdf1b24ef74", 
+      "title": "Morphology and Reranking for the Statistical Parsing of Spanish", 
+      "url": "https://www.semanticscholar.org/paper/5e51e3061b6e21e9ecad22c7fc113cdf1b24ef74", 
+      "venue": "HLT/EMNLP", 
+      "year": 2005
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "5c5d1eb01d2710ed90e6a13d8638988b0a677756", 
+      "title": "Dynamic Programming Algorithms for Transition-Based Dependency Parsers", 
+      "url": "https://www.semanticscholar.org/paper/5c5d1eb01d2710ed90e6a13d8638988b0a677756", 
+      "venue": "ACL", 
+      "year": 2011
+    }
+  ], 
+  "title": "Joint Morphological and Syntactic Analysis for Richly Inflected Languages", 
+  "url": "https://www.semanticscholar.org/paper/0ec546aa8f6f9340020ddaa3f77b7b5b2541b559", 
+  "venue": "TACL", 
+  "year": 2013
+}

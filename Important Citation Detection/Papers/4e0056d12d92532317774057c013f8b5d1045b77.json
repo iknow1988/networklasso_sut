@@ -1,0 +1,810 @@
+{
+  "authors": [
+    {
+      "authorId": "1749947", 
+      "name": "Ming-Wei Chang", 
+      "url": "https://www.semanticscholar.org/author/1749947"
+    }, 
+    {
+      "authorId": "2335225", 
+      "name": "Lev-Arie Ratinov", 
+      "url": "https://www.semanticscholar.org/author/2335225"
+    }, 
+    {
+      "authorId": "1726873", 
+      "name": "Dan Roth", 
+      "url": "https://www.semanticscholar.org/author/1726873"
+    }
+  ], 
+  "citationVelocity": 0, 
+  "citations": [
+    {
+      "isInfluential": false, 
+      "paperId": "1a84bf731a5cb7e4c0fba1421c6f00ba7d1c7300", 
+      "title": "The Utility of Text: The Case of Amicus Briefs and the Supreme Court", 
+      "url": "https://www.semanticscholar.org/paper/1a84bf731a5cb7e4c0fba1421c6f00ba7d1c7300"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "415da1c6e0c872b434df0d334e5a6dfad4bd0786", 
+      "title": "Posterior regularization for Joint Modelling of Multiple Structured Prediction Tasks with Soft Constraints", 
+      "url": "https://www.semanticscholar.org/paper/415da1c6e0c872b434df0d334e5a6dfad4bd0786"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "2d03baec8ac1568e6813aa43d625d552524f977e", 
+      "title": "Toward an Architecture for Never-Ending Language Learning", 
+      "url": "https://www.semanticscholar.org/paper/2d03baec8ac1568e6813aa43d625d552524f977e"
+    }, 
+    {
+      "isInfluential": true, 
+      "paperId": "5f475c61807c856018f167d8e897d32100341beb", 
+      "title": "Posterior Regularization for Structured Latent Variable Models", 
+      "url": "https://www.semanticscholar.org/paper/5f475c61807c856018f167d8e897d32100341beb"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "f7d6adc8a7ca485d379fc065f330d421907bae70", 
+      "title": "A Framework for Tuning Posterior Entropy in Unsupervised Learning", 
+      "url": "https://www.semanticscholar.org/paper/f7d6adc8a7ca485d379fc065f330d421907bae70"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "31e3c250f28a9956a69f8612ff6b5c27305c923e", 
+      "title": "Constrained Semi-supervised Learning in the Presence of Unanticipated Classes", 
+      "url": "https://www.semanticscholar.org/paper/31e3c250f28a9956a69f8612ff6b5c27305c923e"
+    }, 
+    {
+      "isInfluential": true, 
+      "paperId": "2c67ded0d9cdb423c5e9cfbc8383258fbb0635da", 
+      "title": "Constraint-Driven Rank-Based Learning for Information Extraction", 
+      "url": "https://www.semanticscholar.org/paper/2c67ded0d9cdb423c5e9cfbc8383258fbb0635da"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "2156899a8fcde143afadbe2c635d73247023acfa", 
+      "title": "Efficient Decomposed Learning for Structured Prediction", 
+      "url": "https://www.semanticscholar.org/paper/2156899a8fcde143afadbe2c635d73247023acfa"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "11e98fa2c49baed46009f36814296e71c7127367", 
+      "title": "Learning with Target Prior", 
+      "url": "https://www.semanticscholar.org/paper/11e98fa2c49baed46009f36814296e71c7127367"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "2b81c7b45c3a35c75d14847d0f2f337717a89eb5", 
+      "title": "Bayesian inference with posterior regularization and applications to infinite latent SVMs", 
+      "url": "https://www.semanticscholar.org/paper/2b81c7b45c3a35c75d14847d0f2f337717a89eb5"
+    }, 
+    {
+      "isInfluential": true, 
+      "paperId": "74d45e83d49c4ca89bbb4479098e7b703f83d7d8", 
+      "title": "Large Margin Semi-supervised Structured Output Learning", 
+      "url": "https://www.semanticscholar.org/paper/74d45e83d49c4ca89bbb4479098e7b703f83d7d8"
+    }, 
+    {
+      "isInfluential": true, 
+      "paperId": "101e0c8fab97b4c994eb817de56dbbd1d42cf419", 
+      "title": "Deterministic Annealing for Semi-Supervised Structured Output Learning", 
+      "url": "https://www.semanticscholar.org/paper/101e0c8fab97b4c994eb817de56dbbd1d42cf419"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "a722c974edbf476184c762f70177eda944c02d9d", 
+      "title": "No Evidence Left Behind: Understanding Semantics in Dialogs using Relational Evidence Based Learning", 
+      "url": "https://www.semanticscholar.org/paper/a722c974edbf476184c762f70177eda944c02d9d"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "480b1a47373a9791947da2b83224d2f2bd833e7d", 
+      "title": "Semi-supervised Semantic Pattern Discovery with Guidance from Unsupervised Pattern Clusters", 
+      "url": "https://www.semanticscholar.org/paper/480b1a47373a9791947da2b83224d2f2bd833e7d"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "a1840f7878f08e63e00b3c2e738d324713b0a4f4", 
+      "title": "Rapid Training of Information Extraction with Local and Global Data Views", 
+      "url": "https://www.semanticscholar.org/paper/a1840f7878f08e63e00b3c2e738d324713b0a4f4"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "158d2c07561d55b7eb11fd12ccdc783fae513175", 
+      "title": "Sparse representation classification with manifold constraints transfer", 
+      "url": "https://www.semanticscholar.org/paper/158d2c07561d55b7eb11fd12ccdc783fae513175"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "053ca778f99c3493cf9019c9dc835a45424da0b3", 
+      "title": "Learning and Inference with Constraints", 
+      "url": "https://www.semanticscholar.org/paper/053ca778f99c3493cf9019c9dc835a45424da0b3"
+    }, 
+    {
+      "isInfluential": true, 
+      "paperId": "429ddae43acb53686caf642b3cee6d38461e1ad6", 
+      "title": "Alternating Projections for Learning with Expectation Constraints", 
+      "url": "https://www.semanticscholar.org/paper/429ddae43acb53686caf642b3cee6d38461e1ad6"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "377ba65f0fd061e97fe380595431c3ce839e9b5b", 
+      "title": "Generalized Expectation Criteria for Semi-Supervised Learning of Conditional Random Fields", 
+      "url": "https://www.semanticscholar.org/paper/377ba65f0fd061e97fe380595431c3ce839e9b5b"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "16c8156d328f358dc670b7acda7799cae7447bc8", 
+      "title": "Automatic Event Extraction with Structured Preference Modeling", 
+      "url": "https://www.semanticscholar.org/paper/16c8156d328f358dc670b7acda7799cae7447bc8"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "37c74abd5287796d711a86d1564d4a782b1a6f24", 
+      "title": "Training a Parser for Machine Translation Reordering", 
+      "url": "https://www.semanticscholar.org/paper/37c74abd5287796d711a86d1564d4a782b1a6f24"
+    }, 
+    {
+      "isInfluential": true, 
+      "paperId": "0ee55d807739092d52b13787d8ba010f15ea928b", 
+      "title": "High Order Regularization for Semi-Supervised Learning of Structured Output Problems", 
+      "url": "https://www.semanticscholar.org/paper/0ee55d807739092d52b13787d8ba010f15ea928b"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "999b7fb97db581965106b8a45bd103e3c330a3ca", 
+      "title": "Text as Strategic Choice", 
+      "url": "https://www.semanticscholar.org/paper/999b7fb97db581965106b8a45bd103e3c330a3ca"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "160351baa49dac8a3daffef7b66c7ffe09f857cf", 
+      "title": "Estimation from Indirect Supervision with Linear Moments", 
+      "url": "https://www.semanticscholar.org/paper/160351baa49dac8a3daffef7b66c7ffe09f857cf"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "7f35bc58a5e99fe0e921822d8d60f4cd42c7255b", 
+      "title": "Coupling Semi-Supervised Learning of Categories and Relations", 
+      "url": "https://www.semanticscholar.org/paper/7f35bc58a5e99fe0e921822d8d60f4cd42c7255b"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "6e6735e290216cc5f294fe76e9211e5263e7a7fd", 
+      "title": "Deep Feature Learning Using Target Priors with Applications in ECoG Signal Decoding for BCI", 
+      "url": "https://www.semanticscholar.org/paper/6e6735e290216cc5f294fe76e9211e5263e7a7fd"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "826f19a5583b76138a9daaf65db00947701b51fd", 
+      "title": "Projecting the Knowledge Graph to Syntactic Parsing", 
+      "url": "https://www.semanticscholar.org/paper/826f19a5583b76138a9daaf65db00947701b51fd"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "9310c3aaf2a35dd1c67748c64ed82d27bf9f7e9a", 
+      "title": "Constructing Reference Sets from Unstructured, Ungrammatical Text", 
+      "url": "https://www.semanticscholar.org/paper/9310c3aaf2a35dd1c67748c64ed82d27bf9f7e9a"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "4bcab0314e1780f2095c9596280c3107993a252a", 
+      "title": "Multi-View Hierarchical Semi-supervised Learning by Optimal Assignment of Sets of Labels to Instances", 
+      "url": "https://www.semanticscholar.org/paper/4bcab0314e1780f2095c9596280c3107993a252a"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "93f5c00cecaba7326a2135f7d4c47e72494b4643", 
+      "title": "Regularized Bayesian Inference and Infinite Latent SVMs Bayesian Inference with Posterior Regularization and applications to Infinite Latent SVMs", 
+      "url": "https://www.semanticscholar.org/paper/93f5c00cecaba7326a2135f7d4c47e72494b4643"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "6d5bb7de88c71c35744ac67216705219b907d985", 
+      "title": "Consistency-Aware Search for Word Alignment", 
+      "url": "https://www.semanticscholar.org/paper/6d5bb7de88c71c35744ac67216705219b907d985"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "55b4c86b204a20513c5ef566de0ca38cf2620b3e", 
+      "title": "Multi-Task Active Learning with Output Constraints", 
+      "url": "https://www.semanticscholar.org/paper/55b4c86b204a20513c5ef566de0ca38cf2620b3e"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "155828a9960507e6a8006fd5ad27918d25cd51b6", 
+      "title": "Unsupervised Declarative Knowledge Induction for Constraint-Based Learning of Information Structure in Scientific Documents", 
+      "url": "https://www.semanticscholar.org/paper/155828a9960507e6a8006fd5ad27918d25cd51b6"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "b6c06051ffa45d4e6e1e72e3fbdbf624ae5b7fc4", 
+      "title": "Predicting Structures in NLP Constrained Conditional Models and Integer Linear Programming", 
+      "url": "https://www.semanticscholar.org/paper/b6c06051ffa45d4e6e1e72e3fbdbf624ae5b7fc4"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "6a4abe061e465c712282a4f7d5c0136cc217af6a", 
+      "title": "Ontological Smoothing for Relation Extraction", 
+      "url": "https://www.semanticscholar.org/paper/6a4abe061e465c712282a4f7d5c0136cc217af6a"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "1ba2cacc572b1be0406fbed97317e09e9fc0c6fc", 
+      "title": "Using Universal Linguistic Knowledge to Guide Grammar Induction", 
+      "url": "https://www.semanticscholar.org/paper/1ba2cacc572b1be0406fbed97317e09e9fc0c6fc"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "0a9bb3c90394dd31b10ffb01a6ca0f398310c271", 
+      "title": "Homotopy-Based Semi-Supervised Hidden Markov Models for Sequence Labeling", 
+      "url": "https://www.semanticscholar.org/paper/0a9bb3c90394dd31b10ffb01a6ca0f398310c271"
+    }, 
+    {
+      "isInfluential": true, 
+      "paperId": "0e7607195f9a46dcd1ee55b7410fbf836d9f09a5", 
+      "title": "Sequential Labeling Using Deep-Structured Conditional Random Fields", 
+      "url": "https://www.semanticscholar.org/paper/0e7607195f9a46dcd1ee55b7410fbf836d9f09a5"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "5d319198da642bab64f0c4aed2dc7d8d93539a7d", 
+      "title": "Injecting Logical Background Knowledge into Embeddings for Relation Extraction", 
+      "url": "https://www.semanticscholar.org/paper/5d319198da642bab64f0c4aed2dc7d8d93539a7d"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "405c51da20ff107771b3fef00d71c8af28a88d7b", 
+      "title": "In-domain Relation Discovery with Meta-constraints via Posterior Regularization", 
+      "url": "https://www.semanticscholar.org/paper/405c51da20ff107771b3fef00d71c8af28a88d7b"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "db9fcfaf5158db0e7d648395216bf1b4d29dc0c9", 
+      "title": "Survey on the Use of Typological Information in Natural Language Processing", 
+      "url": "https://www.semanticscholar.org/paper/db9fcfaf5158db0e7d648395216bf1b4d29dc0c9"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "6a877e897eaaa6dca88e5708d0335818353cb96f", 
+      "title": "Incorporating Prior Knowledge into Task Decomposition for Large-Scale Patent Classification", 
+      "url": "https://www.semanticscholar.org/paper/6a877e897eaaa6dca88e5708d0335818353cb96f"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "2fbf64078b16107cdaba75508527ea9bcd2aaba1", 
+      "title": "Learning with Relaxed Supervision", 
+      "url": "https://www.semanticscholar.org/paper/2fbf64078b16107cdaba75508527ea9bcd2aaba1"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "a2a20bc2e7cea9ecdd950fa8aa4133005b1c1949", 
+      "title": "Integer Linear Programming in Nlp Constrained Conditional Models Nice to Meet You", 
+      "url": "https://www.semanticscholar.org/paper/a2a20bc2e7cea9ecdd950fa8aa4133005b1c1949"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "b62c81269e1d13bcae9c15db335887db990e5860", 
+      "title": "Generalized Expectation Criteria for Semi-Supervised Learning with Weakly Labeled Data", 
+      "url": "https://www.semanticscholar.org/paper/b62c81269e1d13bcae9c15db335887db990e5860"
+    }, 
+    {
+      "isInfluential": true, 
+      "paperId": "54d2be3b053c36b7b8fb928926c19da609143be2", 
+      "title": "Active Learning by Labeling Features", 
+      "url": "https://www.semanticscholar.org/paper/54d2be3b053c36b7b8fb928926c19da609143be2"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "2a27d4c259331ccbb909cddeb9f9a9149dbb3912", 
+      "title": "Learning from labeled features using generalized expectation criteria", 
+      "url": "https://www.semanticscholar.org/paper/2a27d4c259331ccbb909cddeb9f9a9149dbb3912"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "7a991cefd5d6b0ee180239cc4103b28026a3e14c", 
+      "title": "Weakly supervised parsing with rules", 
+      "url": "https://www.semanticscholar.org/paper/7a991cefd5d6b0ee180239cc4103b28026a3e14c"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "fbc467a5fee73383ff403fa4167ae753e5cff926", 
+      "title": "Reserved Self-training: A Semi-supervised Sentiment Classification Method for Chinese Microblogs", 
+      "url": "https://www.semanticscholar.org/paper/fbc467a5fee73383ff403fa4167ae753e5cff926"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "68711fe2a5d89e3f13855e6e9a83f735b3d6dfab", 
+      "title": "End-user feature labeling: Supervised and semi-supervised approaches based on locally-weighted logistic regression", 
+      "url": "https://www.semanticscholar.org/paper/68711fe2a5d89e3f13855e6e9a83f735b3d6dfab"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "2e9c0ad377b295e679167b6317615f0302746277", 
+      "title": "Unsupervised Constraint Driven Learning For Transliteration Discovery", 
+      "url": "https://www.semanticscholar.org/paper/2e9c0ad377b295e679167b6317615f0302746277"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "2d208d551ff9000ca189034fa683edb826f4c941", 
+      "title": "Coupled semi-supervised learning for information extraction", 
+      "url": "https://www.semanticscholar.org/paper/2d208d551ff9000ca189034fa683edb826f4c941"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "5170245417b68932273597c2cdc0b796d8ba1cc2", 
+      "title": "Prior Knowledge Driven Domain Adaptation", 
+      "url": "https://www.semanticscholar.org/paper/5170245417b68932273597c2cdc0b796d8ba1cc2"
+    }, 
+    {
+      "isInfluential": true, 
+      "paperId": "6c703e453ec4a279333f6968347a2ed008b06897", 
+      "title": "High-Performance Semi-Supervised Learning using Discriminatively Constrained Generative Models", 
+      "url": "https://www.semanticscholar.org/paper/6c703e453ec4a279333f6968347a2ed008b06897"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "130d02b4767018cafd20fd7ebfb0a374d41e7d52", 
+      "title": "Confidence Driven Unsupervised Semantic Parsing", 
+      "url": "https://www.semanticscholar.org/paper/130d02b4767018cafd20fd7ebfb0a374d41e7d52"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "25acff8641959a612224db56de2b50e8cf2bb75e", 
+      "title": "Bootstrapping Image Classification with Sample Evaluation", 
+      "url": "https://www.semanticscholar.org/paper/25acff8641959a612224db56de2b50e8cf2bb75e"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "3dc5425ddfbc6018b19dfd369a0fe7ff05508dae", 
+      "title": "Semi-supervised Knowledge Extraction for Detection of Drugs and Their Effects", 
+      "url": "https://www.semanticscholar.org/paper/3dc5425ddfbc6018b19dfd369a0fe7ff05508dae"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "17c793acb4729b132c8a201529a37df10839595f", 
+      "title": "Constrained conditional models for information fusion", 
+      "url": "https://www.semanticscholar.org/paper/17c793acb4729b132c8a201529a37df10839595f"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "1a1fa8e5cce8f8cd9f14b82c3ee76ee55b000d23", 
+      "title": "Minimally-Supervised Extraction of Entities from Text Advertisements", 
+      "url": "https://www.semanticscholar.org/paper/1a1fa8e5cce8f8cd9f14b82c3ee76ee55b000d23"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "37c90dae3e6faf3ec3e683b6b6378b058a039d79", 
+      "title": "Knowledge as a Constraint on Uncertainty for Unsupervised Classification: A Study in Part-of-Speech Tagging", 
+      "url": "https://www.semanticscholar.org/paper/37c90dae3e6faf3ec3e683b6b6378b058a039d79"
+    }, 
+    {
+      "isInfluential": true, 
+      "paperId": "21f3626185519f49617c55ee26cccfaffd08c243", 
+      "title": "Posterior Regularization for Structured Latent Varaible Models", 
+      "url": "https://www.semanticscholar.org/paper/21f3626185519f49617c55ee26cccfaffd08c243"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "d24fd1b77d139350031b6b3836b4ff70dae7c9b1", 
+      "title": "Biased Representation Learning for Domain Adaptation", 
+      "url": "https://www.semanticscholar.org/paper/d24fd1b77d139350031b6b3836b4ff70dae7c9b1"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "10e2f54b87786086ebe043bcffa7a6f27d2c8425", 
+      "title": "Labeling the Languages of Words in Mixed-Language Documents using Weakly Supervised Methods", 
+      "url": "https://www.semanticscholar.org/paper/10e2f54b87786086ebe043bcffa7a6f27d2c8425"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "2db7160ade8868b4613448f55682fcee28b160d2", 
+      "title": "Training dependency parsers by jointly optimizing multiple objectives", 
+      "url": "https://www.semanticscholar.org/paper/2db7160ade8868b4613448f55682fcee28b160d2"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "5f6a49fa6879eaf0e3997a39377b99193d8d3585", 
+      "title": "Evaluating machine-assisted annotation in under-resourced settings", 
+      "url": "https://www.semanticscholar.org/paper/5f6a49fa6879eaf0e3997a39377b99193d8d3585"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "78ea47cc21447cc904e2718101272c751bde0bb8", 
+      "title": "Transfer Learning for Low-resource Natural Language Analysis", 
+      "url": "https://www.semanticscholar.org/paper/78ea47cc21447cc904e2718101272c751bde0bb8"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "855c18bb7465aa4fa5a01bd0ee0b8e51d77fe520", 
+      "title": "Background Knowledge in Learning-based Relation Extraction", 
+      "url": "https://www.semanticscholar.org/paper/855c18bb7465aa4fa5a01bd0ee0b8e51d77fe520"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "e3879a6d8e9fae63b53fe6c07c826aeeffe251f7", 
+      "title": "Joint multilingual learning for coreference resolution", 
+      "url": "https://www.semanticscholar.org/paper/e3879a6d8e9fae63b53fe6c07c826aeeffe251f7"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "5dd22c5c16e721bc18a5cfcc8567736265db4bd4", 
+      "title": "Building a Lightweight Semantic Model for Unsupervised Information Extraction on Short Listings", 
+      "url": "https://www.semanticscholar.org/paper/5dd22c5c16e721bc18a5cfcc8567736265db4bd4"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "2e8ba0f434a20100ea8cd536cefa34755a0d2a78", 
+      "title": "Contrastive Pessimistic Likelihood Estimation for Semi-Supervised Classification", 
+      "url": "https://www.semanticscholar.org/paper/2e8ba0f434a20100ea8cd536cefa34755a0d2a78"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "044490c14a54471055564043c19d23434b29da2d", 
+      "title": "Crosslingual Induction of Semantic Roles", 
+      "url": "https://www.semanticscholar.org/paper/044490c14a54471055564043c19d23434b29da2d"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "274d113612f71926be33c536cf2dd3c5bae7242f", 
+      "title": "Bootstrapping Semantic Role Labelers from Parallel Data", 
+      "url": "https://www.semanticscholar.org/paper/274d113612f71926be33c536cf2dd3c5bae7242f"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "43fcc8efef27bc8efcc6f5a4afe818f7c7e049e6", 
+      "title": "Latent Constrained Correlation Filters for Object Localization", 
+      "url": "https://www.semanticscholar.org/paper/43fcc8efef27bc8efcc6f5a4afe818f7c7e049e6"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "873bba61863cf582bd770abc7ad6b1e1fe5c3e6d", 
+      "title": "Computational modelling of word sense sentiment", 
+      "url": "https://www.semanticscholar.org/paper/873bba61863cf582bd770abc7ad6b1e1fe5c3e6d"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "080f0f1a3f3b33f04f6a0393d137e046971dc6b1", 
+      "title": "Cross-lingual Transfer of Semantic Role Labeling Models", 
+      "url": "https://www.semanticscholar.org/paper/080f0f1a3f3b33f04f6a0393d137e046971dc6b1"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "3a3207d33d5b757ea5f597e416610f647c8cc10d", 
+      "title": "Improved Information Structure Analysis of Scientific Documents Through Discourse and Lexical Constraints", 
+      "url": "https://www.semanticscholar.org/paper/3a3207d33d5b757ea5f597e416610f647c8cc10d"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "03078fa4b572431ce33e5c2d9961a7796bbf963d", 
+      "title": "Structured prediction with indirect supervision", 
+      "url": "https://www.semanticscholar.org/paper/03078fa4b572431ce33e5c2d9961a7796bbf963d"
+    }, 
+    {
+      "isInfluential": true, 
+      "paperId": "e2d4df61a787210c67041929f6a43203bee99edf", 
+      "title": "Cross-lingual Pseudo-Projected Expectation Regularization for Weakly Supervised Learning", 
+      "url": "https://www.semanticscholar.org/paper/e2d4df61a787210c67041929f6a43203bee99edf"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "2610c7c6d5ed4065798d88cf81a6880ba11f8a7e", 
+      "title": "Ontological Smoothing for Relation Extraction with Minimal Supervision", 
+      "url": "https://www.semanticscholar.org/paper/2610c7c6d5ed4065798d88cf81a6880ba11f8a7e"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "89ec55e7f4c4aa567c1da52c071cec633e123d9d", 
+      "title": "Exploiting Partial Annotations with EM Training", 
+      "url": "https://www.semanticscholar.org/paper/89ec55e7f4c4aa567c1da52c071cec633e123d9d"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "779ea45eefbafe4cca5fcee2ed3e204dde539b61", 
+      "title": "Structured learning with constrained conditional models", 
+      "url": "https://www.semanticscholar.org/paper/779ea45eefbafe4cca5fcee2ed3e204dde539b61"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "8ce79fb6014607d7efcd476b1aa750ca0a6677c5", 
+      "title": "Unified Expectation Maximization", 
+      "url": "https://www.semanticscholar.org/paper/8ce79fb6014607d7efcd476b1aa750ca0a6677c5"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "3b67fa28e54222215faa87622366c7b80d3681ea", 
+      "title": "Cross-lingual Projected Expectation Regularization for Weakly Supervised Learning", 
+      "url": "https://www.semanticscholar.org/paper/3b67fa28e54222215faa87622366c7b80d3681ea"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "70279a13410b21e37abe25f267781fbc8d503362", 
+      "title": "Aspect-augmented Adversarial Networks for Domain Adaptation", 
+      "url": "https://www.semanticscholar.org/paper/70279a13410b21e37abe25f267781fbc8d503362"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "307ac4d6ba13083ad024188829dd9c3c27830453", 
+      "title": "Learning from measurements in exponential families", 
+      "url": "https://www.semanticscholar.org/paper/307ac4d6ba13083ad024188829dd9c3c27830453"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "8fa16fdd1720a4d927d8a062fccb4473e40f3982", 
+      "title": "Multi-Event Extraction Guided by Global Constraints", 
+      "url": "https://www.semanticscholar.org/paper/8fa16fdd1720a4d927d8a062fccb4473e40f3982"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "7c346777169c60dcf04f24af5b58dc0db1e78901", 
+      "title": "Punctuation: Making a Point in Unsupervised Dependency Parsing", 
+      "url": "https://www.semanticscholar.org/paper/7c346777169c60dcf04f24af5b58dc0db1e78901"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "1abf21cce494f2a3b2f0a1d118abb500cb2c23ac", 
+      "title": "Generalized Expectation Criteria for Bootstrapping Extractors using Record-Text Alignment", 
+      "url": "https://www.semanticscholar.org/paper/1abf21cce494f2a3b2f0a1d118abb500cb2c23ac"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "0b3dbac74b73c65b5f377e92398a615d5a4a1034", 
+      "title": "Extension of TSVM to Multi-Class and Hierarchical Text Classification Problems With General Losses", 
+      "url": "https://www.semanticscholar.org/paper/0b3dbac74b73c65b5f377e92398a615d5a4a1034"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "0c637a43493d30bd32783a8fbbb11d41dbce42dc", 
+      "title": "Reducing Annotation Effort using Generalized Expectation Criteria", 
+      "url": "https://www.semanticscholar.org/paper/0c637a43493d30bd32783a8fbbb11d41dbce42dc"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "2442260e60a72862f8a958837dd0390640b871bd", 
+      "title": "Guided Self Training for Sentiment Classification", 
+      "url": "https://www.semanticscholar.org/paper/2442260e60a72862f8a958837dd0390640b871bd"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "db550f7af299157c67d7f1874bf784dca10ce4a9", 
+      "title": "Modeling Relations and Their Mentions without Labeled Text", 
+      "url": "https://www.semanticscholar.org/paper/db550f7af299157c67d7f1874bf784dca10ce4a9"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "131524710adc4d1e7473c453aeb41b97daa64883", 
+      "title": "Inferring latent attributes of Twitter users with label regularization", 
+      "url": "https://www.semanticscholar.org/paper/131524710adc4d1e7473c453aeb41b97daa64883"
+    }, 
+    {
+      "isInfluential": true, 
+      "paperId": "138fda7e6a92ce0be455901bdfc41c9b76d6e060", 
+      "title": "Iterative parameter mixing for distributed large-margin training of structured predictors for natural language processing", 
+      "url": "https://www.semanticscholar.org/paper/138fda7e6a92ce0be455901bdfc41c9b76d6e060"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "7d3081d9be243b3d45c06073ab2bf1e65e3992a2", 
+      "title": "Rich Prior Knowledge in Learning for Natural Language Processing", 
+      "url": "https://www.semanticscholar.org/paper/7d3081d9be243b3d45c06073ab2bf1e65e3992a2"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "e6af4a8431694fcf4fc6fa67f07fba0602726149", 
+      "title": "Leveraging Existing Resources using Generalized Expectation Criteria", 
+      "url": "https://www.semanticscholar.org/paper/e6af4a8431694fcf4fc6fa67f07fba0602726149"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "393ced7f7aec43aa24dbf9343d97b8f77bbe08e3", 
+      "title": "Aspect Guided Text Categorization with Unobserved Labels", 
+      "url": "https://www.semanticscholar.org/paper/393ced7f7aec43aa24dbf9343d97b8f77bbe08e3"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "4d41cc1729ef2a4920554770ead6029dd6f8c60a", 
+      "title": "Structured Probabilistic Models for Natural Language Semantics", 
+      "url": "https://www.semanticscholar.org/paper/4d41cc1729ef2a4920554770ead6029dd6f8c60a"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "d2c97a2ed5f540e68169b7a0969f6807699b9faf", 
+      "title": "A survey on instance selection for active learning", 
+      "url": "https://www.semanticscholar.org/paper/d2c97a2ed5f540e68169b7a0969f6807699b9faf"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "2c196bf832070d6e3e4683c17bb0557057726c48", 
+      "title": "Estimating Accuracy from Unlabeled Data", 
+      "url": "https://www.semanticscholar.org/paper/2c196bf832070d6e3e4683c17bb0557057726c48"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "37c4865fb09cab8205d1356421668db058c12795", 
+      "title": "Named entity recognition using conditional random fields with non-local relational constraints", 
+      "url": "https://www.semanticscholar.org/paper/37c4865fb09cab8205d1356421668db058c12795"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "6362ffdf8acffd49960ac058dcc492e4ce649617", 
+      "title": "Training Structured Prediction Models with Extrinsic Loss Functions", 
+      "url": "https://www.semanticscholar.org/paper/6362ffdf8acffd49960ac058dcc492e4ce649617"
+    }, 
+    {
+      "isInfluential": true, 
+      "paperId": "2b8b9ea2a79f46fea76a8b383cad66bf5c16184b", 
+      "title": "Transductive Learning of Structural SVMs via Prior Knowledge Constraints", 
+      "url": "https://www.semanticscholar.org/paper/2b8b9ea2a79f46fea76a8b383cad66bf5c16184b"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "43b2314c1454458cf4b0a787099eab9c96c00f46", 
+      "title": "On Amortizing Inference Cost for Structured Prediction", 
+      "url": "https://www.semanticscholar.org/paper/43b2314c1454458cf4b0a787099eab9c96c00f46"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "731558cea69cfa5fa4eea6b12fc5a3df3682fc2c", 
+      "title": "Discourse Constraints for Document Compression", 
+      "url": "https://www.semanticscholar.org/paper/731558cea69cfa5fa4eea6b12fc5a3df3682fc2c"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "c0c03a01e77bfc69773077fffc59815f2240bb38", 
+      "title": "Training Dependency Parser Using Light Feedback", 
+      "url": "https://www.semanticscholar.org/paper/c0c03a01e77bfc69773077fffc59815f2240bb38"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "2926746d8844f736fc865c83f42f2f0affceaa5a", 
+      "title": "Multi-Source Transfer of Delexicalized Dependency Parsers", 
+      "url": "https://www.semanticscholar.org/paper/2926746d8844f736fc865c83f42f2f0affceaa5a"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "66866d43c8e0e170869031875744f4f54503540c", 
+      "title": "A Loss-Augmented Approach to Training Syntactic Machine Translation Systems", 
+      "url": "https://www.semanticscholar.org/paper/66866d43c8e0e170869031875744f4f54503540c"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "c952a957e06014176f65315eebc2e5f816ee6660", 
+      "title": "Populating Ontologies by Semi-automatically Inducing Information Extraction Wrappers for Lists in OCRed Documents", 
+      "url": "https://www.semanticscholar.org/paper/c952a957e06014176f65315eebc2e5f816ee6660"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "4c3c47ac37cd1c50ea1ee9e09bb2ab7e046cf698", 
+      "title": "Robustly Leveraging Prior Knowledge in Text Classification", 
+      "url": "https://www.semanticscholar.org/paper/4c3c47ac37cd1c50ea1ee9e09bb2ab7e046cf698"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "cf76c1da776ac22c1a55c41ee472fe3d1e1e2b37", 
+      "title": "Using Soft Constraints in Joint Inference for Clinical Concept Recognition", 
+      "url": "https://www.semanticscholar.org/paper/cf76c1da776ac22c1a55c41ee472fe3d1e1e2b37"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "7b08deb4c11392b5d69f3fea0fb2684aac607d83", 
+      "title": "Lateen EM: Unsupervised Training with Multiple Objectives, Applied to Dependency Grammar Induction", 
+      "url": "https://www.semanticscholar.org/paper/7b08deb4c11392b5d69f3fea0fb2684aac607d83"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "b0406069f7120480a5f20151d3dc0ea27a4505f7", 
+      "title": "Constraint Driven Transliteration Discovery", 
+      "url": "https://www.semanticscholar.org/paper/b0406069f7120480a5f20151d3dc0ea27a4505f7"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "c18ce30521a089f89345f3459d665ada45e4abc2", 
+      "title": "Generalized isotonic conditional random fields", 
+      "url": "https://www.semanticscholar.org/paper/c18ce30521a089f89345f3459d665ada45e4abc2"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "115b9f522a73c579ccf80bbf279320ee20bb1f54", 
+      "title": "Constraints as Prior Knowledge", 
+      "url": "https://www.semanticscholar.org/paper/115b9f522a73c579ccf80bbf279320ee20bb1f54"
+    }
+  ], 
+  "doi": null, 
+  "influentialCitationCount": 13, 
+  "paperId": "4e0056d12d92532317774057c013f8b5d1045b77", 
+  "references": [
+    {
+      "isInfluential": false, 
+      "paperId": "1e026a8f6995465d1bdadae02a6139ee08ea5863", 
+      "title": "Exploiting dictionaries in named entity extraction: combining semi-Markov extraction processes and data integration methods", 
+      "url": "https://www.semanticscholar.org/paper/1e026a8f6995465d1bdadae02a6139ee08ea5863"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "3b8e7c8220d3883d54960d896a73045f3c70ac17", 
+      "title": "Discriminative Training Methods For Hidden Markov Models: Theory And Experiments With Perceptron Algorithms", 
+      "url": "https://www.semanticscholar.org/paper/3b8e7c8220d3883d54960d896a73045f3c70ac17"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "2ba92d274d99106e029cf7d38c9e840888c09d7b", 
+      "title": "Constraint-Based Entity Matching", 
+      "url": "https://www.semanticscholar.org/paper/2ba92d274d99106e029cf7d38c9e840888c09d7b"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "24770585a6aa3dead91b5ad42bb151b1ae70b316", 
+      "title": "Maximum Entropy Markov Models for Information Extraction and Segmentation", 
+      "url": "https://www.semanticscholar.org/paper/24770585a6aa3dead91b5ad42bb151b1ae70b316"
+    }, 
+    {
+      "isInfluential": true, 
+      "paperId": "6d3577027ef1fd485d982761181226f2e00d3fc3", 
+      "title": "Prototype-Driven Learning for Sequence Models", 
+      "url": "https://www.semanticscholar.org/paper/6d3577027ef1fd485d982761181226f2e00d3fc3"
+    }, 
+    {
+      "isInfluential": true, 
+      "paperId": "8168075428a12bbff17931cf4bfe0fe514caea6b", 
+      "title": "Unsupervised Learning of Field Segmentation Models for Information Extraction", 
+      "url": "https://www.semanticscholar.org/paper/8168075428a12bbff17931cf4bfe0fe514caea6b"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "58196b1fa3183491bcfcf525fd730d95ebf6cb1e", 
+      "title": "A Bootstrapping Method For Learning Semantic Lexicons Using Extraction Pattern Contexts", 
+      "url": "https://www.semanticscholar.org/paper/58196b1fa3183491bcfcf525fd730d95ebf6cb1e"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "1a0a415178d20754418987e312681f3fb0b40257", 
+      "title": "Unsupervised Models For Named Entity Classification", 
+      "url": "https://www.semanticscholar.org/paper/1a0a415178d20754418987e312681f3fb0b40257"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "29c34a034f6f35915a141dac98cabf625bea2b3c", 
+      "title": "Contrastive Estimation: Training Log-Linear Models on Unlabeled Data", 
+      "url": "https://www.semanticscholar.org/paper/29c34a034f6f35915a141dac98cabf625bea2b3c"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "33be1def7b3b4905e7220eee64e3dbf156579360", 
+      "title": "Integer linear programming inference for conditional random fields", 
+      "url": "https://www.semanticscholar.org/paper/33be1def7b3b4905e7220eee64e3dbf156579360"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "03a52216777990f504d95e0d30cc53573055d07c", 
+      "title": "Joint Learning Improves Semantic Role Labeling", 
+      "url": "https://www.semanticscholar.org/paper/03a52216777990f504d95e0d30cc53573055d07c"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "ca732052b6893b87c1c13c9f1f70809af39f55d1", 
+      "title": "Learning in Natural Language", 
+      "url": "https://www.semanticscholar.org/paper/ca732052b6893b87c1c13c9f1f70809af39f55d1"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "64141d2e7a3cab0be864bbe2d5c7e0212fb17d27", 
+      "title": "Learning and Inference over Constrained Output", 
+      "url": "https://www.semanticscholar.org/paper/64141d2e7a3cab0be864bbe2d5c7e0212fb17d27"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "c7788fe99735eceff2bcc37401fc02d2825f739a", 
+      "title": "Text Classification from Labeled and Unlabeled Documents using EM", 
+      "url": "https://www.semanticscholar.org/paper/c7788fe99735eceff2bcc37401fc02d2825f739a"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "425f192dc51bc00051aacd48ee82ce8c1e03a3dd", 
+      "title": "Effective Self-Training for Parsing", 
+      "url": "https://www.semanticscholar.org/paper/425f192dc51bc00051aacd48ee82ce8c1e03a3dd"
+    }
+  ], 
+  "title": "Guiding Semi-Supervision with Constraint-Driven Learning", 
+  "url": "https://www.semanticscholar.org/paper/4e0056d12d92532317774057c013f8b5d1045b77", 
+  "venue": "ACL"
+}

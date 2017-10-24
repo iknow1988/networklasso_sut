@@ -1,0 +1,936 @@
+{
+  "authors": [
+    {
+      "authorId": "2556289", 
+      "name": "Oscar T\u00e4ckstr\u00f6m", 
+      "url": "https://www.semanticscholar.org/author/2556289"
+    }, 
+    {
+      "authorId": "1886512", 
+      "name": "Ryan T. McDonald", 
+      "url": "https://www.semanticscholar.org/author/1886512"
+    }, 
+    {
+      "authorId": "2440663", 
+      "name": "Jakob Uszkoreit", 
+      "url": "https://www.semanticscholar.org/author/2440663"
+    }
+  ], 
+  "citationVelocity": 28, 
+  "citations": [
+    {
+      "isInfluential": false, 
+      "paperId": "666b639aadcd2a8a11d24b36bae6a4f07e802b34", 
+      "title": "Tailoring Continuous Word Representations for Dependency Parsing", 
+      "url": "https://www.semanticscholar.org/paper/666b639aadcd2a8a11d24b36bae6a4f07e802b34"
+    }, 
+    {
+      "isInfluential": true, 
+      "paperId": "47144fc8961f6d981afcf09101711983c0fed973", 
+      "title": "Word Clustering for Data Sparsity: A Literature Survey", 
+      "url": "https://www.semanticscholar.org/paper/47144fc8961f6d981afcf09101711983c0fed973"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "004f8fa723015b310853613213014f756f443b3b", 
+      "title": "Rediscovering Annotation Projection for Cross-Lingual Parser Induction", 
+      "url": "https://www.semanticscholar.org/paper/004f8fa723015b310853613213014f756f443b3b"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "3066a1534da49d11ed43837588010030a690371b", 
+      "title": "Transfer learning for speech and language processing", 
+      "url": "https://www.semanticscholar.org/paper/3066a1534da49d11ed43837588010030a690371b"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "ac87a78eec7521880fb5d47d68729f48d32f9176", 
+      "title": "An Empirical Etudy of Non-Lexical Extensions to Delexicalized Transfer", 
+      "url": "https://www.semanticscholar.org/paper/ac87a78eec7521880fb5d47d68729f48d32f9176"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "912c1b866c001d98f7091f8a28335f83d42e4856", 
+      "title": "Broadly Improving User Classification via Communication-Based Name and Location Clustering on Twitter", 
+      "url": "https://www.semanticscholar.org/paper/912c1b866c001d98f7091f8a28335f83d42e4856"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "2201948e1cdba5a6c2d29cc717834cd65c1300d4", 
+      "title": "Cross-lingual Model Transfer Using Feature Representation Projection", 
+      "url": "https://www.semanticscholar.org/paper/2201948e1cdba5a6c2d29cc717834cd65c1300d4"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "125e3b2a9aa9892e780b2ae3c2cf475047d897eb", 
+      "title": "Cross-lingual transfer parsing from Hindi to Bengali using delexicalization and chunking", 
+      "url": "https://www.semanticscholar.org/paper/125e3b2a9aa9892e780b2ae3c2cf475047d897eb"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "fd534a8e5c7370c7ff264b538fc9c8b735807c56", 
+      "title": "Synthetic Treebanking for Cross-Lingual Dependency Parsing", 
+      "url": "https://www.semanticscholar.org/paper/fd534a8e5c7370c7ff264b538fc9c8b735807c56"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "359c7024b1696392e702a249820fd8db3b0643d9", 
+      "title": "Nudging the Envelope of Direct Transfer Methods for Multilingual Named Entity Recognition", 
+      "url": "https://www.semanticscholar.org/paper/359c7024b1696392e702a249820fd8db3b0643d9"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "3687b7c70bfc0dc108a1881a287ed7353ca190b1", 
+      "title": "An Empirical Investigation of Word Class-Based Features for Natural Language Understanding", 
+      "url": "https://www.semanticscholar.org/paper/3687b7c70bfc0dc108a1881a287ed7353ca190b1"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "5feac39a50e5bf240a64f42dbc881a16e8f8e659", 
+      "title": "Simple task-specific bilingual word embeddings", 
+      "url": "https://www.semanticscholar.org/paper/5feac39a50e5bf240a64f42dbc881a16e8f8e659"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "06e6f22e0a22a03763f24fcaaf7d982638b7c3a8", 
+      "title": "Sharing Network Parameters for Crosslingual Named Entity Recognition", 
+      "url": "https://www.semanticscholar.org/paper/06e6f22e0a22a03763f24fcaaf7d982638b7c3a8"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "980fb72b8c4ae4eca12c1ec10218ab7f84721e98", 
+      "title": "An Information Theoretic Approach to Bilingual Word Clustering", 
+      "url": "https://www.semanticscholar.org/paper/980fb72b8c4ae4eca12c1ec10218ab7f84721e98"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "3f2e3fd46d955ed16ad79b95974184b0fd2d931d", 
+      "title": "Multilingual Dependency Parsing: Using Machine Translated Texts instead of Parallel Corpora", 
+      "url": "https://www.semanticscholar.org/paper/3f2e3fd46d955ed16ad79b95974184b0fd2d931d"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "ff6ae5d947f93a79717f3177e6380c5ae549f9af", 
+      "title": "\"Translation can't change a name\": Using Multilingual Data for Named Entity Recognition", 
+      "url": "https://www.semanticscholar.org/paper/ff6ae5d947f93a79717f3177e6380c5ae549f9af"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "42636e49faeb9d8eefac065979115c685fec1bab", 
+      "title": "Learning Crosslingual Word Embeddings without Bilingual Corpora", 
+      "url": "https://www.semanticscholar.org/paper/42636e49faeb9d8eefac065979115c685fec1bab"
+    }, 
+    {
+      "isInfluential": true, 
+      "paperId": "59cecfb2ba6a527bd410ec2c256401b1ed15ed3f", 
+      "title": "Cross-lingual Transfer for Unsupervised Dependency Parsing Without Parallel Data", 
+      "url": "https://www.semanticscholar.org/paper/59cecfb2ba6a527bd410ec2c256401b1ed15ed3f"
+    }, 
+    {
+      "isInfluential": true, 
+      "paperId": "666f6bbb513e43c69ecd7c8ea8f38c894e093478", 
+      "title": "Cross-lingual Dependency Parsing Based on Distributed Representations", 
+      "url": "https://www.semanticscholar.org/paper/666f6bbb513e43c69ecd7c8ea8f38c894e093478"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "c94c9e051897c00cfde5fafd696a67c7e0c951e1", 
+      "title": "Enriching a massively multilingual database of interlinear glossed text", 
+      "url": "https://www.semanticscholar.org/paper/c94c9e051897c00cfde5fafd696a67c7e0c951e1"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "0ad9e1f04af6a9727ea7a21d0e9e3cf062ca6d75", 
+      "title": "Many Languages, One Parser", 
+      "url": "https://www.semanticscholar.org/paper/0ad9e1f04af6a9727ea7a21d0e9e3cf062ca6d75"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "7763d6179ec22c6c06b7b8fe9dd49d2df1ed28e8", 
+      "title": "Development of a Bengali parser by cross-lingual transfer from Hindi", 
+      "url": "https://www.semanticscholar.org/paper/7763d6179ec22c6c06b7b8fe9dd49d2df1ed28e8"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "5069e93603c00d14cf67d86b536c9eca0193969b", 
+      "title": "Cross-lingual Dependency Parsing of Related Languages with Rich Morphosyntactic Tagsets", 
+      "url": "https://www.semanticscholar.org/paper/5069e93603c00d14cf67d86b536c9eca0193969b"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "da39001a15422c6a307b8ca68d65ae01f7bf2e84", 
+      "title": "Cross-Lingual Dependency Parsing with Universal Dependencies and Predicted PoS Labels", 
+      "url": "https://www.semanticscholar.org/paper/da39001a15422c6a307b8ca68d65ae01f7bf2e84"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "f89724bb41f971950cc6fc84861ffc9272821aaa", 
+      "title": "On WordNet Semantic Classes and Dependency Parsing", 
+      "url": "https://www.semanticscholar.org/paper/f89724bb41f971950cc6fc84861ffc9272821aaa"
+    }, 
+    {
+      "isInfluential": true, 
+      "paperId": "ba1b6373159222d6c4bd837e1911072804d83fa0", 
+      "title": "Annotation Projection-based Representation Learning for Cross-lingual Dependency Parsing", 
+      "url": "https://www.semanticscholar.org/paper/ba1b6373159222d6c4bd837e1911072804d83fa0"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "208651177457ec7e07be9f3985e8ead6a343fd61", 
+      "title": "Using Conceptual Class Attributes to Characterize Social Media Users", 
+      "url": "https://www.semanticscholar.org/paper/208651177457ec7e07be9f3985e8ead6a343fd61"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "4291fd9987414f546fafa477edd718dffdcb2ebd", 
+      "title": "Cross-Lingual Morphological Tagging for Low-Resource Languages", 
+      "url": "https://www.semanticscholar.org/paper/4291fd9987414f546fafa477edd718dffdcb2ebd"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "4f01498d7fde3dec23cba8f4498e72d47e44b5c3", 
+      "title": "Cross-Lingual Syntactic Transfer with Limited Resources", 
+      "url": "https://www.semanticscholar.org/paper/4f01498d7fde3dec23cba8f4498e72d47e44b5c3"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "87fa55d4c1a5946648dca8ef002174726eb46209", 
+      "title": "Cross-Lingual Discriminative Learning of Sequence Models with Posterior Regularization", 
+      "url": "https://www.semanticscholar.org/paper/87fa55d4c1a5946648dca8ef002174726eb46209"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "dcdc2ef9684edc68f69096d0e7fcc2a76e4a2527", 
+      "title": "Universal Dependencies Parsing for Colloquial Singaporean English", 
+      "url": "https://www.semanticscholar.org/paper/dcdc2ef9684edc68f69096d0e7fcc2a76e4a2527"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "a4d4223efaac0c8e9845e11fd1240e523c8da802", 
+      "title": "SMARTies: Sentiment Models for Arabic Target Entities", 
+      "url": "https://www.semanticscholar.org/paper/a4d4223efaac0c8e9845e11fd1240e523c8da802"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "aedf17dd90a675eb97966fc4c5ebd59961af483e", 
+      "title": "A Universal Framework for Inductive Transfer Parsing across Multi-typed Treebanks", 
+      "url": "https://www.semanticscholar.org/paper/aedf17dd90a675eb97966fc4c5ebd59961af483e"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "1a08e135ac11db0249c6afb4540672c5a349495e", 
+      "title": "Efficient Non-parametric Estimation of Multiple Embeddings per Word in Vector Space", 
+      "url": "https://www.semanticscholar.org/paper/1a08e135ac11db0249c6afb4540672c5a349495e"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "08f011dd54e17d60aeede1ab0ea4e4c283e7bfe1", 
+      "title": "Findings of the VarDial Evaluation Campaign 2017", 
+      "url": "https://www.semanticscholar.org/paper/08f011dd54e17d60aeede1ab0ea4e4c283e7bfe1"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "5dd32ffe9c54829f7ad58a1d5dee1e5ce99b6ace", 
+      "title": "A Neural Network Model for Low-Resource Universal Dependency Parsing", 
+      "url": "https://www.semanticscholar.org/paper/5dd32ffe9c54829f7ad58a1d5dee1e5ce99b6ace"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "706e4c305a34db7b93ef000ab41f5990cd8b4122", 
+      "title": "Transliteration in Any Language with Surrogate Languages", 
+      "url": "https://www.semanticscholar.org/paper/706e4c305a34db7b93ef000ab41f5990cd8b4122"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "38b05dd89874130b9999f09a48fce341d907a4fe", 
+      "title": "Parsing Natural Language Sentences by Semi-supervised Methods", 
+      "url": "https://www.semanticscholar.org/paper/38b05dd89874130b9999f09a48fce341d907a4fe"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "16b269a5ec42374c01871ae93b73ff4356a38697", 
+      "title": "A Fast and Simple Online Synchronous Context Free Grammar Extractor", 
+      "url": "https://www.semanticscholar.org/paper/16b269a5ec42374c01871ae93b73ff4356a38697"
+    }, 
+    {
+      "isInfluential": true, 
+      "paperId": "080f0f1a3f3b33f04f6a0393d137e046971dc6b1", 
+      "title": "Cross-lingual Transfer of Semantic Role Labeling Models", 
+      "url": "https://www.semanticscholar.org/paper/080f0f1a3f3b33f04f6a0393d137e046971dc6b1"
+    }, 
+    {
+      "isInfluential": true, 
+      "paperId": "3eac0acc4547c5d9d759459efe294bf5e219fb07", 
+      "title": "A Distributed Representation-Based Framework for Cross-Lingual Transfer Parsing", 
+      "url": "https://www.semanticscholar.org/paper/3eac0acc4547c5d9d759459efe294bf5e219fb07"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "b254f2c0a95a320fbcebef310de6280bdfabfcc0", 
+      "title": "Slavic Forest, Norwegian Wood", 
+      "url": "https://www.semanticscholar.org/paper/b254f2c0a95a320fbcebef310de6280bdfabfcc0"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "2c8576adba7910bdf8dc70b3f4b6dfc1ee79e736", 
+      "title": "Improving Vector Space Word Representations Using Multilingual Correlation", 
+      "url": "https://www.semanticscholar.org/paper/2c8576adba7910bdf8dc70b3f4b6dfc1ee79e736"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "518a4411247f97658f981357bda4ffcf011bb1f3", 
+      "title": "A simple but potentially powerful approach for multilingual parsing", 
+      "url": "https://www.semanticscholar.org/paper/518a4411247f97658f981357bda4ffcf011bb1f3"
+    }, 
+    {
+      "isInfluential": true, 
+      "paperId": "4b9635ed7c9ddec5a17c992d1a01080353b4934a", 
+      "title": "Syntactic Transfer Using a Bilingual Lexicon", 
+      "url": "https://www.semanticscholar.org/paper/4b9635ed7c9ddec5a17c992d1a01080353b4934a"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "5a395268c946ea92443286c7b98bd5f5cc618087", 
+      "title": "Massively Multilingual Word Embeddings", 
+      "url": "https://www.semanticscholar.org/paper/5a395268c946ea92443286c7b98bd5f5cc618087"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "26abf542b3bee4611bb96abe06f5ec6bc3aea249", 
+      "title": "Diverse Context for Learning Word Representations", 
+      "url": "https://www.semanticscholar.org/paper/26abf542b3bee4611bb96abe06f5ec6bc3aea249"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "57362d02c1fec8ebf8104eac91aaa5cf421961c7", 
+      "title": "Unsupervised Induction of Cross-Lingual Semantic Relations", 
+      "url": "https://www.semanticscholar.org/paper/57362d02c1fec8ebf8104eac91aaa5cf421961c7"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "0714fc731c473384b439eb694362645dd1a38174", 
+      "title": "Morpho-syntactic Lexicon Generation Using Graph-based Semi-supervised Learning", 
+      "url": "https://www.semanticscholar.org/paper/0714fc731c473384b439eb694362645dd1a38174"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "8b3795e70f583ebe30e6bfc403a94b5220e9f985", 
+      "title": "A Representation Learning Framework for Multi-Source Transfer Parsing", 
+      "url": "https://www.semanticscholar.org/paper/8b3795e70f583ebe30e6bfc403a94b5220e9f985"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "1f35c710e23195fa6ddbdd2af21b50d7923afc10", 
+      "title": "A House United: Bridging the Script and Lexical Barrier between Hindi and Urdu", 
+      "url": "https://www.semanticscholar.org/paper/1f35c710e23195fa6ddbdd2af21b50d7923afc10"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "9a70d00748496d1db8b460245b0af6c37bd87178", 
+      "title": "Cross-Language Authorship Attribution", 
+      "url": "https://www.semanticscholar.org/paper/9a70d00748496d1db8b460245b0af6c37bd87178"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "7615b1ab5a55ea8b051504d5c75b2732b67b5abd", 
+      "title": "Soft Cross-lingual Syntax Projection for Dependency Parsing", 
+      "url": "https://www.semanticscholar.org/paper/7615b1ab5a55ea8b051504d5c75b2732b67b5abd"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "2d807b626d01db8e06f3791acbbf0690f83c6721", 
+      "title": "BIRA: Improved Predictive Exchange Word Clustering", 
+      "url": "https://www.semanticscholar.org/paper/2d807b626d01db8e06f3791acbbf0690f83c6721"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "6445fda7289746853f2a8631ba9c47e9ddc7d198", 
+      "title": "Illinois Cross-Lingual Wikifier: Grounding Entities in Many Languages to the English Wikipedia", 
+      "url": "https://www.semanticscholar.org/paper/6445fda7289746853f2a8631ba9c47e9ddc7d198"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "3ff9b56229c04a4426e532b37d26f02610c533fb", 
+      "title": "Thesis Proposal: Beyond the Distributional Hypothesis", 
+      "url": "https://www.semanticscholar.org/paper/3ff9b56229c04a4426e532b37d26f02610c533fb"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "aa4fca4b589cf43924f8492502845bf6a3d3d079", 
+      "title": "An extracting model for constructing actions with improved part-of-speech tagging from social networking texts", 
+      "url": "https://www.semanticscholar.org/paper/aa4fca4b589cf43924f8492502845bf6a3d3d079"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "050c998a5efcc4b9d392149414960be2d2023217", 
+      "title": "Improving the Cross-Lingual Projection of Syntactic Dependencies", 
+      "url": "https://www.semanticscholar.org/paper/050c998a5efcc4b9d392149414960be2d2023217"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "12afdf53b61d4a511ab1996a7b01881a282290cb", 
+      "title": "Token and Type Constraints for Cross-Lingual Part-of-Speech Tagging", 
+      "url": "https://www.semanticscholar.org/paper/12afdf53b61d4a511ab1996a7b01881a282290cb"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "db9fcfaf5158db0e7d648395216bf1b4d29dc0c9", 
+      "title": "Survey on the Use of Typological Information in Natural Language Processing", 
+      "url": "https://www.semanticscholar.org/paper/db9fcfaf5158db0e7d648395216bf1b4d29dc0c9"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "0a0bb7f534f73354944fe6e4464d0dc6f96946be", 
+      "title": "Improved Part-of-Speech Tagging for Online Conversational Text with Word Clusters", 
+      "url": "https://www.semanticscholar.org/paper/0a0bb7f534f73354944fe6e4464d0dc6f96946be"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "8e3f0f7a761f18cb91c11764d8d6cb3b1e9c5731", 
+      "title": "Polyglot: Distributed Word Representations for Multilingual NLP", 
+      "url": "https://www.semanticscholar.org/paper/8e3f0f7a761f18cb91c11764d8d6cb3b1e9c5731"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "2702c6b2cfa78fb5c978f7cf2fe4988ab3deab3b", 
+      "title": "Cross-lingual alignment transfer: a chicken-and-egg story?", 
+      "url": "https://www.semanticscholar.org/paper/2702c6b2cfa78fb5c978f7cf2fe4988ab3deab3b"
+    }, 
+    {
+      "isInfluential": true, 
+      "paperId": "4cc80844af0a9f72ef94283869504b995c122ab3", 
+      "title": "Distributed Word Representation Learning for Cross-Lingual Dependency Parsing", 
+      "url": "https://www.semanticscholar.org/paper/4cc80844af0a9f72ef94283869504b995c122ab3"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "01e525c982f5019ff631c87233127bbd73922005", 
+      "title": "Inducing Crosslingual Distributed Representations of Words", 
+      "url": "https://www.semanticscholar.org/paper/01e525c982f5019ff631c87233127bbd73922005"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "65f6baff675ea2d94ad457ec157f8a066a2c3e48", 
+      "title": "From neighborhood to parenthood: the advantages of dependency representation over bigrams in Brown clustering", 
+      "url": "https://www.semanticscholar.org/paper/65f6baff675ea2d94ad457ec157f8a066a2c3e48"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "1f1adbc5a2497102aca3cc28b2382f7e417a17fa", 
+      "title": "Deep Multilingual Correlation for Improved Word Embeddings", 
+      "url": "https://www.semanticscholar.org/paper/1f1adbc5a2497102aca3cc28b2382f7e417a17fa"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "49121b3b9bcf7e55046efea91683bb38ab56e6a9", 
+      "title": "Compound Embedding Features for Semi-supervised Learning", 
+      "url": "https://www.semanticscholar.org/paper/49121b3b9bcf7e55046efea91683bb38ab56e6a9"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "23bc5b2e74f6fcc57d84b4e477de1270c53573aa", 
+      "title": "Cross-lingual Models of Word Embeddings: An Empirical Comparison", 
+      "url": "https://www.semanticscholar.org/paper/23bc5b2e74f6fcc57d84b4e477de1270c53573aa"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "257cedcbbd78a9bf281d758a3761f897a7a73f1c", 
+      "title": "Bilingually-Guided Monolingual Dependency Grammar Induction", 
+      "url": "https://www.semanticscholar.org/paper/257cedcbbd78a9bf281d758a3761f897a7a73f1c"
+    }, 
+    {
+      "isInfluential": true, 
+      "paperId": "5250c4e0d530e03c2157ec2ba3c367d425a149fe", 
+      "title": "The Haves and the Have-Nots: Leveraging Unlabelled Corpora for Sentiment Analysis", 
+      "url": "https://www.semanticscholar.org/paper/5250c4e0d530e03c2157ec2ba3c367d425a149fe"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "c887209b87aff1877420346dc89cdef64ca82910", 
+      "title": "Improving Text Normalization via Unsupervised Model and Discriminative Reranking", 
+      "url": "https://www.semanticscholar.org/paper/c887209b87aff1877420346dc89cdef64ca82910"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "279e7e401958452d00643bf0f49b384fad1c7bad", 
+      "title": "Ensembles of Diverse Clustering-based Discriminative Dependency Parsers", 
+      "url": "https://www.semanticscholar.org/paper/279e7e401958452d00643bf0f49b384fad1c7bad"
+    }, 
+    {
+      "isInfluential": true, 
+      "paperId": "3aa5464d626a69e6c0aa63f04d61c85d257f456c", 
+      "title": "Cross-lingual Projections between Languages from Different Families", 
+      "url": "https://www.semanticscholar.org/paper/3aa5464d626a69e6c0aa63f04d61c85d257f456c"
+    }, 
+    {
+      "isInfluential": true, 
+      "paperId": "1df6f4a19cdf00062ae8400846686400ba76b1f1", 
+      "title": "Weakly Supervised Cross-Lingual Named Entity Recognition via Effective Annotation and Representation Projection", 
+      "url": "https://www.semanticscholar.org/paper/1df6f4a19cdf00062ae8400846686400ba76b1f1"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "314721dc5c8c5a33a39d8ef367d4d1926591950e", 
+      "title": "Eigenwords: spectral word embeddings", 
+      "url": "https://www.semanticscholar.org/paper/314721dc5c8c5a33a39d8ef367d4d1926591950e"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "97b62114bec9a1514fa0cbe984c5853dd7322948", 
+      "title": "Improving Transition-Based Dependency Parsing of Hindi and Urdu by Modeling Syntactically Relevant Phenomena", 
+      "url": "https://www.semanticscholar.org/paper/97b62114bec9a1514fa0cbe984c5853dd7322948"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "d69143bab38de85bde751407fcbdc535f918b991", 
+      "title": "Enriching Word Sense Embeddings with Translational Context", 
+      "url": "https://www.semanticscholar.org/paper/d69143bab38de85bde751407fcbdc535f918b991"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "af6953a6c2dcbdf8aeaece14f345470b1df53399", 
+      "title": "Hierarchical clustering of word class distributions", 
+      "url": "https://www.semanticscholar.org/paper/af6953a6c2dcbdf8aeaece14f345470b1df53399"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "7c0e45e79dd7fe664a020712f7ac697f60c1567d", 
+      "title": "Target Language Adaptation of Discriminative Transfer Parsers", 
+      "url": "https://www.semanticscholar.org/paper/7c0e45e79dd7fe664a020712f7ac697f60c1567d"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "0811c59c17be59d933a99fa24a04ae2d8a91a293", 
+      "title": "Enhancing Medical Named Entity Recognition with Features Derived from Unsupervised Methods", 
+      "url": "https://www.semanticscholar.org/paper/0811c59c17be59d933a99fa24a04ae2d8a91a293"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "951cc6de4b7612f8b7894a60f44c2d8794ad9bf0", 
+      "title": "Cross-Lingual POS Tagging through Ambiguous Learning: First Experiments (Apprentissage partiellement supervis\u00e9 d'un \u00e9tiqueteur morpho-syntaxique par transfert cross-lingue) [in French]", 
+      "url": "https://www.semanticscholar.org/paper/951cc6de4b7612f8b7894a60f44c2d8794ad9bf0"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "5068d09bb8ce6166fc6f4ca79363b37359082ac6", 
+      "title": "Unsupervised and Lightly Supervised Part-of-Speech Tagging Using Recurrent Neural Networks", 
+      "url": "https://www.semanticscholar.org/paper/5068d09bb8ce6166fc6f4ca79363b37359082ac6"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "01f75cbff2795a3f51beedaf9da684316f01f0aa", 
+      "title": "Multilingual Training of Crosslingual Word Embeddings", 
+      "url": "https://www.semanticscholar.org/paper/01f75cbff2795a3f51beedaf9da684316f01f0aa"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "31299844001b0322b4262c3f840ecd1d6a98149c", 
+      "title": "Cross-lingual Transfer of Named Entity Recognizers without Parallel Corpora", 
+      "url": "https://www.semanticscholar.org/paper/31299844001b0322b4262c3f840ecd1d6a98149c"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "18b40ba9fb241dd61dfca9a72914683adc94623b", 
+      "title": "Exploiting Multi-typed Treebanks for Parsing with Deep Multi-task Learning", 
+      "url": "https://www.semanticscholar.org/paper/18b40ba9fb241dd61dfca9a72914683adc94623b"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "48f2e524f0aa3038ed4075f18a2a01f8000f6ab6", 
+      "title": "Effective Selectional Restrictions for Unsupervised Relation Extraction", 
+      "url": "https://www.semanticscholar.org/paper/48f2e524f0aa3038ed4075f18a2a01f8000f6ab6"
+    }, 
+    {
+      "isInfluential": true, 
+      "paperId": "14da3e857afacc4e8ce701cc69cc754f65f68dfa", 
+      "title": "Cross-Lingual Named Entity Recognition via Wikification", 
+      "url": "https://www.semanticscholar.org/paper/14da3e857afacc4e8ce701cc69cc754f65f68dfa"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "3bf1b6fbc9b64a1fe81c484aded98b1be31561fd", 
+      "title": "Bilingual Learning of Multi-sense Embeddings with Discrete Autoencoders", 
+      "url": "https://www.semanticscholar.org/paper/3bf1b6fbc9b64a1fe81c484aded98b1be31561fd"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "c158923f83d23245e28c5e91f68f445035075144", 
+      "title": "Developing language technology tools and resources for a resource-poor language: Sindhi", 
+      "url": "https://www.semanticscholar.org/paper/c158923f83d23245e28c5e91f68f445035075144"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "1a49d1e77bd7815c5bdb39c1728dae66fcf80256", 
+      "title": "Treebank Translation for Cross-Lingual Parser Induction", 
+      "url": "https://www.semanticscholar.org/paper/1a49d1e77bd7815c5bdb39c1728dae66fcf80256"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "02767de3381742fe5ad6ed6249eca0841bd00124", 
+      "title": "Inducing Multilingual Text Analysis Tools Using Bidirectional Recurrent Neural Networks", 
+      "url": "https://www.semanticscholar.org/paper/02767de3381742fe5ad6ed6249eca0841bd00124"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "662a302c49356f3808cdc51a7fd01c60cb4c7650", 
+      "title": "Fine-Grained Entity Type Classification by Jointly Learning Representations and Label Embeddings", 
+      "url": "https://www.semanticscholar.org/paper/662a302c49356f3808cdc51a7fd01c60cb4c7650"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "bddc487be805900878969cba1910f9fd8050f8bd", 
+      "title": "Cross-lingual Dataless Classification for Languages with Small Wikipedia Presence", 
+      "url": "https://www.semanticscholar.org/paper/bddc487be805900878969cba1910f9fd8050f8bd"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "c66103e3f32141736076eb64a4ba7ee23d2124b8", 
+      "title": "Joint UD Parsing of Norwegian Bokma\u030al and Nynorsk", 
+      "url": "https://www.semanticscholar.org/paper/c66103e3f32141736076eb64a4ba7ee23d2124b8"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "f34108224d6d2048b339f0495b49bf07a1303190", 
+      "title": "Hierarchical clustering of word class distributions", 
+      "url": "https://www.semanticscholar.org/paper/f34108224d6d2048b339f0495b49bf07a1303190"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "fe4f3850a084ee18a61eaf7537f21d7f4b4c2703", 
+      "title": "Advances in Spectral Learning with Applications to Text Analysis and Brain Imaging", 
+      "url": "https://www.semanticscholar.org/paper/fe4f3850a084ee18a61eaf7537f21d7f4b4c2703"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "39d3e95fc7263a67f8343be0566c7cec233ab121", 
+      "title": "Aligned-Parallel-Corpora Based Semi-Supervised Learning for Arabic Mention Detection", 
+      "url": "https://www.semanticscholar.org/paper/39d3e95fc7263a67f8343be0566c7cec233ab121"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "014179152e66160b2160980cf80bb20cb8d846ee", 
+      "title": "Transferring Coreference Resolvers with Posterior Regularization", 
+      "url": "https://www.semanticscholar.org/paper/014179152e66160b2160980cf80bb20cb8d846ee"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "6a3c39a1641a6a82d0a4edd540e4b170fcf09463", 
+      "title": "Hidden Markov tree models for semantic class induction", 
+      "url": "https://www.semanticscholar.org/paper/6a3c39a1641a6a82d0a4edd540e4b170fcf09463"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "27a0e99fa23e39418836e777fc92f5101b5e8031", 
+      "title": "Transliteration normalization for Information Extraction and Machine Translation", 
+      "url": "https://www.semanticscholar.org/paper/27a0e99fa23e39418836e777fc92f5101b5e8031"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "b8deacde8425a6df15d157ccb68e21311dc84cbe", 
+      "title": "Estimating Word Alignment Quality for SMT Reordering Tasks", 
+      "url": "https://www.semanticscholar.org/paper/b8deacde8425a6df15d157ccb68e21311dc84cbe"
+    }
+  ], 
+  "doi": null, 
+  "influentialCitationCount": 12, 
+  "paperId": "08a776d595a4087b9269e7a07a1c1a974a8c9b0d", 
+  "references": [
+    {
+      "isInfluential": false, 
+      "paperId": "d156fcd29ea1287852d9df6b541e67ac6f6bda4a", 
+      "title": "The Penn Chinese TreeBank: Phrase structure annotation of a large corpus", 
+      "url": "https://www.semanticscholar.org/paper/d156fcd29ea1287852d9df6b541e67ac6f6bda4a"
+    }, 
+    {
+      "isInfluential": true, 
+      "paperId": "28d9c89f946a39d3c4146bf32ddff546845e1801", 
+      "title": "Simple Semi-supervised Dependency Parsing", 
+      "url": "https://www.semanticscholar.org/paper/28d9c89f946a39d3c4146bf32ddff546845e1801"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "c1d96c0f421f8b519cafdbb4e499faa1c797ed9b", 
+      "title": "Transition-based Dependency Parsing with Rich Non-local Features", 
+      "url": "https://www.semanticscholar.org/paper/c1d96c0f421f8b519cafdbb4e499faa1c797ed9b"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "ab503a34d67b75b1660d17131a29c66ac117c1c8", 
+      "title": "Shared Logistic Normal Distributions for Soft Parameter Tying in Unsupervised Grammar Induction", 
+      "url": "https://www.semanticscholar.org/paper/ab503a34d67b75b1660d17131a29c66ac117c1c8"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "b5e12de7d3f2a66bfcf10a510f9ac80afb3541c1", 
+      "title": "Phrase Clustering for Discriminative Learning", 
+      "url": "https://www.semanticscholar.org/paper/b5e12de7d3f2a66bfcf10a510f9ac80afb3541c1"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "0cb7f7f642fe21515797ab3e35486706a4db1494", 
+      "title": "Dependency Parsing", 
+      "url": "https://www.semanticscholar.org/paper/0cb7f7f642fe21515797ab3e35486706a4db1494"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "ef45ad6f228fcc8b2d05b93749b4e163dce3f528", 
+      "title": "Trained Named Entity Recognition using Distributional Clusters", 
+      "url": "https://www.semanticscholar.org/paper/ef45ad6f228fcc8b2d05b93749b4e163dce3f528"
+    }, 
+    {
+      "isInfluential": true, 
+      "paperId": "4713c119d9fdbf3b3fd7e02fcb64c78df4c9f5d4", 
+      "title": "Model-Based Aligner Combination Using Dual Decomposition", 
+      "url": "https://www.semanticscholar.org/paper/4713c119d9fdbf3b3fd7e02fcb64c78df4c9f5d4"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "0b44fcbeea9415d400c5f5789d6b892b6f98daff", 
+      "title": "Building a Large Annotated Corpus of English: The Penn Treebank", 
+      "url": "https://www.semanticscholar.org/paper/0b44fcbeea9415d400c5f5789d6b892b6f98daff"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "7b08deb4c11392b5d69f3fea0fb2684aac607d83", 
+      "title": "Lateen EM: Unsupervised Training with Multiple Objectives, Applied to Dependency Grammar Induction", 
+      "url": "https://www.semanticscholar.org/paper/7b08deb4c11392b5d69f3fea0fb2684aac607d83"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "b0827dd2bd0b76693cb2d73237b4d19a1192bd75", 
+      "title": "Linguistic Structure Prediction", 
+      "url": "https://www.semanticscholar.org/paper/b0827dd2bd0b76693cb2d73237b4d19a1192bd75"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "92997b1b2096835c5aab4a2ef0d2585f939fd941", 
+      "title": "Phylogenetic Grammar Induction", 
+      "url": "https://www.semanticscholar.org/paper/92997b1b2096835c5aab4a2ef0d2585f939fd941"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "343733a063e491d234a36d3e1090a739318b3566", 
+      "title": "Unsupervised Part-of-Speech Tagging with Bilingual Graph-Based Projections", 
+      "url": "https://www.semanticscholar.org/paper/343733a063e491d234a36d3e1090a739318b3566"
+    }, 
+    {
+      "isInfluential": true, 
+      "paperId": "4c15b129a8da55127e4e2fe47f54799d0a313367", 
+      "title": "Word Representations: A Simple and General Method for Semi-Supervised Learning", 
+      "url": "https://www.semanticscholar.org/paper/4c15b129a8da55127e4e2fe47f54799d0a313367"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "40036d9304488a29d7642fbac23c46fc89a8fbe0", 
+      "title": "An Ensemble Model that Combines Syntactic and Semantic Clustering for Discriminative Dependency Parsing", 
+      "url": "https://www.semanticscholar.org/paper/40036d9304488a29d7642fbac23c46fc89a8fbe0"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "555e1d6ecc7af031f29b0225bdca06d4a6da77ed", 
+      "title": "Clause Restructuring for Statistical Machine Translation", 
+      "url": "https://www.semanticscholar.org/paper/555e1d6ecc7af031f29b0225bdca06d4a6da77ed"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "262572b669e83092187a9418c362b2b4ed34c1d1", 
+      "title": "Sparsity in Dependency Grammar Induction", 
+      "url": "https://www.semanticscholar.org/paper/262572b669e83092187a9418c362b2b4ed34c1d1"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "1a1647f8723fca094b15e25ab344e46a835b6aef", 
+      "title": "Three new graphical models for statistical language modelling", 
+      "url": "https://www.semanticscholar.org/paper/1a1647f8723fca094b15e25ab344e46a835b6aef"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "4a20be7840c238ce931d0d285f757e9485d21bf4", 
+      "title": "An Algorithm that Learns What's in a Name", 
+      "url": "https://www.semanticscholar.org/paper/4a20be7840c238ce931d0d285f757e9485d21bf4"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "6b1683c7f8f80df92d32bf97c8400e77a46fdccd", 
+      "title": "A Hierarchical Phrase-Based Model for Statistical Machine Translation", 
+      "url": "https://www.semanticscholar.org/paper/6b1683c7f8f80df92d32bf97c8400e77a46fdccd"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "01425ee02723ec84fb21485a3bb069cd57e1da98", 
+      "title": "A Syntactically and Semantically Tagged Corpus of Russian: State of the Art and Prospects", 
+      "url": "https://www.semanticscholar.org/paper/01425ee02723ec84fb21485a3bb069cd57e1da98"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "2926746d8844f736fc865c83f42f2f0affceaa5a", 
+      "title": "Multi-Source Transfer of Delexicalized Dependency Parsers", 
+      "url": "https://www.semanticscholar.org/paper/2926746d8844f736fc865c83f42f2f0affceaa5a"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "3760df1c9e01d7944f15fac5e077e9ce4520f33e", 
+      "title": "Opinion Mining and Sentiment Analysis", 
+      "url": "https://www.semanticscholar.org/paper/3760df1c9e01d7944f15fac5e077e9ce4520f33e"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "24beb987b722d4a25d3157a43000e685aa8f8874", 
+      "title": "A Maximum Entropy Model For Part-Of-Speech Tagging", 
+      "url": "https://www.semanticscholar.org/paper/24beb987b722d4a25d3157a43000e685aa8f8874"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "60fb8a5c95a51bbb6d2683a3c38a9305f04ea32d", 
+      "title": "Unsupervised Structure Prediction with Non-Parallel Multilingual Guidance", 
+      "url": "https://www.semanticscholar.org/paper/60fb8a5c95a51bbb6d2683a3c38a9305f04ea32d"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "1ba2cacc572b1be0406fbed97317e09e9fc0c6fc", 
+      "title": "Using Universal Linguistic Knowledge to Guide Grammar Induction", 
+      "url": "https://www.semanticscholar.org/paper/1ba2cacc572b1be0406fbed97317e09e9fc0c6fc"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "fefeb377ba53c2fcc43280608aa6ccd00aa5257a", 
+      "title": "A Fast, Effective, Non-Projective, Semantically-Enriched Parser", 
+      "url": "https://www.semanticscholar.org/paper/fefeb377ba53c2fcc43280608aa6ccd00aa5257a"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "2958b3aab3b9860f0d14ba439ca96b95a1a0c8d3", 
+      "title": "Development and Evaluation of a Korean Treebank and its Application to NLP", 
+      "url": "https://www.semanticscholar.org/paper/2958b3aab3b9860f0d14ba439ca96b95a1a0c8d3"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "4b429dbf5efbd41a95690bee7c8ec28edbbd75e5", 
+      "title": "Enriching a French Treebank", 
+      "url": "https://www.semanticscholar.org/paper/4b429dbf5efbd41a95690bee7c8ec28edbbd75e5"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "00ae51ba9340abc30d36804f9b51ab83b81cec23", 
+      "title": "Distributed Word Clustering for Large Scale Class-Based Language Modeling in Machine Translation", 
+      "url": "https://www.semanticscholar.org/paper/00ae51ba9340abc30d36804f9b51ab83b81cec23"
+    }, 
+    {
+      "isInfluential": true, 
+      "paperId": "32a437ecdc20cc76c01e37c08920317ea18fde50", 
+      "title": "Generating Typed Dependency Parses from Phrase Structure Parses", 
+      "url": "https://www.semanticscholar.org/paper/32a437ecdc20cc76c01e37c08920317ea18fde50"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "ad269ba941949a1d66b6649a71d752784c576dc3", 
+      "title": "Name Tagging with Word Clusters and Discriminative Training", 
+      "url": "https://www.semanticscholar.org/paper/ad269ba941949a1d66b6649a71d752784c576dc3"
+    }, 
+    {
+      "isInfluential": true, 
+      "paperId": "5e68cb9d432e733d97923a549eaab227205329d5", 
+      "title": "Training and Evaluating a German Named Entity Recognizer with Semantic Generalization", 
+      "url": "https://www.semanticscholar.org/paper/5e68cb9d432e733d97923a549eaab227205329d5"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "1deed1a4a03e07aee3b8b8e4716f35033c715a57", 
+      "title": "CoNLL-X Shared Task on Multilingual Dependency Parsing", 
+      "url": "https://www.semanticscholar.org/paper/1deed1a4a03e07aee3b8b8e4716f35033c715a57"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "78e77bebc95cf392a12ae7b33df256df99b3444c", 
+      "title": "Algorithms for Deterministic Incremental Dependency Parsing", 
+      "url": "https://www.semanticscholar.org/paper/78e77bebc95cf392a12ae7b33df256df99b3444c"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "4e14aa89e2a0d9ac2e6e80f9d618b2fdf07defd4", 
+      "title": "Bootstrapping parsers via syntactic projection across parallel texts", 
+      "url": "https://www.semanticscholar.org/paper/4e14aa89e2a0d9ac2e6e80f9d618b2fdf07defd4"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "ad1181d188f730b7917a95ae452efb48f830c90a", 
+      "title": "A Tale of Two Parsers: Investigating and Combining Graph-based and Transition-based Dependency Parsing", 
+      "url": "https://www.semanticscholar.org/paper/ad1181d188f730b7917a95ae452efb48f830c90a"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "c5be25e2c679564b84b71f4052c13aeae727b713", 
+      "title": "Dependency Treebank for Russian: Concept, Tools, Types of Information", 
+      "url": "https://www.semanticscholar.org/paper/c5be25e2c679564b84b71f4052c13aeae727b713"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "443cd550c6f980076bced2092394b2126acb36be", 
+      "title": "An Efficient Method for Determining Bilingual Word Classes", 
+      "url": "https://www.semanticscholar.org/paper/443cd550c6f980076bced2092394b2126acb36be"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "3d8c9e6af31a0f4cd3cd47706a8735167ca95b0b", 
+      "title": "Multi-View Learning of Word Embeddings via CCA", 
+      "url": "https://www.semanticscholar.org/paper/3d8c9e6af31a0f4cd3cd47706a8735167ca95b0b"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "ae85bd785dac1b2384220e854fd12061b556bf20", 
+      "title": "Statistical French Dependency Parsing: Treebank Conversion and First Results", 
+      "url": "https://www.semanticscholar.org/paper/ae85bd785dac1b2384220e854fd12061b556bf20"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "1a07186bc10592f0330655519ad91652125cd907", 
+      "title": "A unified architecture for natural language processing: deep neural networks with multitask learning", 
+      "url": "https://www.semanticscholar.org/paper/1a07186bc10592f0330655519ad91652125cd907"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "a6ef63c46ac24cd4f22b6598693fc89fca997f40", 
+      "title": "Data point selection for cross-language adaptation of dependency parsers", 
+      "url": "https://www.semanticscholar.org/paper/a6ef63c46ac24cd4f22b6598693fc89fca997f40"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "1cd2289bf1ea95ab0b316ba4aee927b6c1406c0f", 
+      "title": "Combining Distributional and Morphological Information for Part of Speech Induction", 
+      "url": "https://www.semanticscholar.org/paper/1cd2289bf1ea95ab0b316ba4aee927b6c1406c0f"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "10007391361e17f41aa92f3430c00830dff3be6a", 
+      "title": "Three Generative, Lexicalised Models for Statistical Parsing", 
+      "url": "https://www.semanticscholar.org/paper/10007391361e17f41aa92f3430c00830dff3be6a"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "c136869e701f5e46f9736d09b57a225f1fdc0596", 
+      "title": "Cross-Language Parser Adaptation between Related Languages", 
+      "url": "https://www.semanticscholar.org/paper/c136869e701f5e46f9736d09b57a225f1fdc0596"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "1680eaa31f30911e7460ff694b51794391bc7514", 
+      "title": "Corpus-Based Induction of Syntactic Structure: Models of Dependency and Constituency", 
+      "url": "https://www.semanticscholar.org/paper/1680eaa31f30911e7460ff694b51794391bc7514"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "10a9abb4c78f0be5cc85847f248d3e8277b3c810", 
+      "title": "The CoNLL 2007 Shared Task on Dependency Parsing", 
+      "url": "https://www.semanticscholar.org/paper/10a9abb4c78f0be5cc85847f248d3e8277b3c810"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "7f0eb2cb332a8ce5fafaa7c280b5c5ab9c7ca95a", 
+      "title": "A Universal Part-of-Speech Tagset", 
+      "url": "https://www.semanticscholar.org/paper/7f0eb2cb332a8ce5fafaa7c280b5c5ab9c7ca95a"
+    }
+  ], 
+  "title": "Cross-lingual Word Clusters for Direct Transfer of Linguistic Structure", 
+  "url": "https://www.semanticscholar.org/paper/08a776d595a4087b9269e7a07a1c1a974a8c9b0d", 
+  "venue": "HLT-NAACL"
+}

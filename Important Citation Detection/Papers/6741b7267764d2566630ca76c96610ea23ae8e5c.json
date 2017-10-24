@@ -1,0 +1,693 @@
+{
+  "authors": [
+    {
+      "authorId": "1779654", 
+      "name": "Oren Kurland", 
+      "url": "https://www.semanticscholar.org/author/1779654"
+    }
+  ], 
+  "citationVelocity": 0, 
+  "citations": [
+    {
+      "isInfluential": false, 
+      "paperId": "9b087350cfa1d07bc97329ddbf73b8cd0dc616ab", 
+      "title": "Document Retrieval Using Entity-Based Language Models", 
+      "url": "https://www.semanticscholar.org/paper/9b087350cfa1d07bc97329ddbf73b8cd0dc616ab", 
+      "venue": "SIGIR", 
+      "year": 2016
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "1f04f291f6f2ecab68d97b18861301f586b666b1", 
+      "title": "Inducing Word Senses to Improve Web Search Result Clustering", 
+      "url": "https://www.semanticscholar.org/paper/1f04f291f6f2ecab68d97b18861301f586b666b1", 
+      "venue": "EMNLP", 
+      "year": 2010
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "01146f3f8e6d591796d79379a96b26539688b00d", 
+      "title": "Using statistical decision theory and relevance models for query-performance prediction", 
+      "url": "https://www.semanticscholar.org/paper/01146f3f8e6d591796d79379a96b26539688b00d", 
+      "venue": "SIGIR", 
+      "year": 2010
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "95ae9867d2be28e3d4f96ac2444b26911bc1fb55", 
+      "title": "Query revision during cluster based search on large unstructured corpora", 
+      "url": "https://www.semanticscholar.org/paper/95ae9867d2be28e3d4f96ac2444b26911bc1fb55", 
+      "venue": "2014 IEEE International Conference on Big Data (Big Data)", 
+      "year": 2014
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "099c0a572aa84961d4bb18935b79ebb5423097da", 
+      "title": "The optimum clustering framework: implementing the cluster hypothesis", 
+      "url": "https://www.semanticscholar.org/paper/099c0a572aa84961d4bb18935b79ebb5423097da", 
+      "venue": "Information Retrieval", 
+      "year": 2011
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "3e506b7e75fe994b1e4145e1e10435218f0b79e0", 
+      "title": "Selective Cluster-Based Document Retrieval", 
+      "url": "https://www.semanticscholar.org/paper/3e506b7e75fe994b1e4145e1e10435218f0b79e0", 
+      "venue": "CIKM", 
+      "year": 2016
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "27625dfa2bc85873242bfa2a481bb0f2b607f000", 
+      "title": "Cluster-based fusion of retrieved lists", 
+      "url": "https://www.semanticscholar.org/paper/27625dfa2bc85873242bfa2a481bb0f2b607f000", 
+      "venue": "SIGIR", 
+      "year": 2011
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "1fe3833a07b81cf262f093b65ce05e95e870ab35", 
+      "title": "Keyword search over RDF graphs", 
+      "url": "https://www.semanticscholar.org/paper/1fe3833a07b81cf262f093b65ce05e95e870ab35", 
+      "venue": "CIKM", 
+      "year": 2011
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "0d52101fe366cd99189355e3eff9ce16efc56424", 
+      "title": "A Cluster Based Pseudo Feedback Technique Which Exploits Good and Bad Clusters", 
+      "url": "https://www.semanticscholar.org/paper/0d52101fe366cd99189355e3eff9ce16efc56424", 
+      "venue": "CAEPIA", 
+      "year": 2011
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "4da8648a5e24588f931e7c235d5df5f1885f2c0c", 
+      "title": "A rank-aggregation approach to searching for optimal query-specific clusters", 
+      "url": "https://www.semanticscholar.org/paper/4da8648a5e24588f931e7c235d5df5f1885f2c0c", 
+      "venue": "SIGIR", 
+      "year": 2008
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "9bd17f42be18d21fbc026694d2fe45d500201d0f", 
+      "title": "Ranking document clusters using markov random fields", 
+      "url": "https://www.semanticscholar.org/paper/9bd17f42be18d21fbc026694d2fe45d500201d0f", 
+      "venue": "SIGIR", 
+      "year": 2013
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "3911cd655ff06c2d81252a61abe1b770d55cc516", 
+      "title": "A query model based on normalized log-likelihood", 
+      "url": "https://www.semanticscholar.org/paper/3911cd655ff06c2d81252a61abe1b770d55cc516", 
+      "venue": "CIKM", 
+      "year": 2009
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "2362f844f23320c961dd5fcb3f2abd46a1313e38", 
+      "title": "Mining document, concept, and term associations for effective biomedical retrieval: introducing MeSH-enhanced retrieval models", 
+      "url": "https://www.semanticscholar.org/paper/2362f844f23320c961dd5fcb3f2abd46a1313e38", 
+      "venue": "Information Retrieval Journal", 
+      "year": 2015
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "0e05f2fe6a3e71139565b643f648537ec088ac85", 
+      "title": "Exploring the cluster hypothesis, and cluster-based retrieval, over the web", 
+      "url": "https://www.semanticscholar.org/paper/0e05f2fe6a3e71139565b643f648537ec088ac85", 
+      "venue": "CIKM", 
+      "year": 2012
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "dceabb8304d67cdd48dc93140f3c2d5d48b86064", 
+      "title": "Result diversification based on query-specific cluster ranking", 
+      "url": "https://www.semanticscholar.org/paper/dceabb8304d67cdd48dc93140f3c2d5d48b86064", 
+      "venue": "JASIST", 
+      "year": 2011
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "1e2dbb17eab615038f1c4f3031759db33d112d77", 
+      "title": "Exploring Topic Structure - Coherence, Diversity and Relatedness", 
+      "url": "https://www.semanticscholar.org/paper/1e2dbb17eab615038f1c4f3031759db33d112d77", 
+      "venue": "SIKS dissertation series", 
+      "year": 2011
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "00c98f76a1f24cd445cd5c7932f01f887f59c44c", 
+      "title": "Clustering and Diversifying Web Search Results with Graph-Based Word Sense Induction", 
+      "url": "https://www.semanticscholar.org/paper/00c98f76a1f24cd445cd5c7932f01f887f59c44c", 
+      "venue": "Computational Linguistics", 
+      "year": 2013
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "dfcae501b6d574d00c2414b29aec7f1e7b8817ac", 
+      "title": "Adaptive Dual Control of Topic-Based Information Retrieval", 
+      "url": "https://www.semanticscholar.org/paper/dfcae501b6d574d00c2414b29aec7f1e7b8817ac", 
+      "venue": "", 
+      "year": 2010
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "87bd04a6c4a1c2538c818b0457e4ae0432134bc8", 
+      "title": "Utilizing inter-passage and inter-document similarities for re-ranking search results", 
+      "url": "https://www.semanticscholar.org/paper/87bd04a6c4a1c2538c818b0457e4ae0432134bc8", 
+      "venue": "CIKM", 
+      "year": 2009
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "33452b0d52ee99ba7ce878a423c055767f00ddd0", 
+      "title": "Clustering Web Search Results with Maximum Spanning Trees", 
+      "url": "https://www.semanticscholar.org/paper/33452b0d52ee99ba7ce878a423c055767f00ddd0", 
+      "venue": "AI*IA", 
+      "year": 2011
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "10923f7afd290c98c7e64748228b95e442523b9a", 
+      "title": "Conceptual language models for domain-specific retrieval", 
+      "url": "https://www.semanticscholar.org/paper/10923f7afd290c98c7e64748228b95e442523b9a", 
+      "venue": "Inf. Process. Manage.", 
+      "year": 2010
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "1f98a81a78038c1f1ae2c399f367e27e29908d6d", 
+      "title": "On identifying representative relevant documents", 
+      "url": "https://www.semanticscholar.org/paper/1f98a81a78038c1f1ae2c399f367e27e29908d6d", 
+      "venue": "CIKM", 
+      "year": 2010
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "6302f5497f0fcb68c6e2db0f1de889be0bb3b49f", 
+      "title": "Learning Asymmetric Co-Relevance", 
+      "url": "https://www.semanticscholar.org/paper/6302f5497f0fcb68c6e2db0f1de889be0bb3b49f", 
+      "venue": "ICTIR", 
+      "year": 2015
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "129529b2fb471561d28ea43bf7dc26010a039d5f", 
+      "title": "Suggesting Topic-Based Query Terms as You Type", 
+      "url": "https://www.semanticscholar.org/paper/129529b2fb471561d28ea43bf7dc26010a039d5f", 
+      "venue": "2010 12th International Asia-Pacific Web Conference", 
+      "year": 2010
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "629606edf75b41f875675a4f991bdcf1d268b724", 
+      "title": "Increasing Classifier Ensemble Efficiency using KSBC Algorithm", 
+      "url": "https://www.semanticscholar.org/paper/629606edf75b41f875675a4f991bdcf1d268b724", 
+      "venue": "", 
+      "year": 2013
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "c69acee86e9ee82e6deff0826c9f9f3b843c2f8b", 
+      "title": "The correlation between cluster hypothesis tests and the effectiveness of cluster-based retrieval", 
+      "url": "https://www.semanticscholar.org/paper/c69acee86e9ee82e6deff0826c9f9f3b843c2f8b", 
+      "venue": "SIGIR", 
+      "year": 2014
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "7820be603ec91cef633a1d92c041fcb0955e941f", 
+      "title": "Improving Difficult Queries by Leveraging Clusters in Term Graph", 
+      "url": "https://www.semanticscholar.org/paper/7820be603ec91cef633a1d92c041fcb0955e941f", 
+      "venue": "AIRS", 
+      "year": 2015
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "365054438e180167d4ae34c63aff24a87abc746b", 
+      "title": "Query-performance prediction and cluster ranking: two sides of the same coin", 
+      "url": "https://www.semanticscholar.org/paper/365054438e180167d4ae34c63aff24a87abc746b", 
+      "venue": "CIKM", 
+      "year": 2012
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "cae8423685c994ac2e9cc01da488fae76fc2fdf5", 
+      "title": "Re-ranking search results using language models of query-specific clusters", 
+      "url": "https://www.semanticscholar.org/paper/cae8423685c994ac2e9cc01da488fae76fc2fdf5", 
+      "venue": "Information Retrieval", 
+      "year": 2008
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "0024a4d3e79d025efa798d0641637cf9fa75cdfa", 
+      "title": "Hybrid Indexing for Versioned Document Search with Cluster-based Retrieval", 
+      "url": "https://www.semanticscholar.org/paper/0024a4d3e79d025efa798d0641637cf9fa75cdfa", 
+      "venue": "CIKM", 
+      "year": 2016
+    }
+  ], 
+  "doi": "10.1145/1390334.1390366", 
+  "influentialCitationCount": 0, 
+  "paperId": "6741b7267764d2566630ca76c96610ea23ae8e5c", 
+  "references": [
+    {
+      "isInfluential": false, 
+      "paperId": "cae8423685c994ac2e9cc01da488fae76fc2fdf5", 
+      "title": "Re-ranking search results using language models of query-specific clusters", 
+      "url": "https://www.semanticscholar.org/paper/cae8423685c994ac2e9cc01da488fae76fc2fdf5", 
+      "venue": "Information Retrieval", 
+      "year": 2008
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "0b4726173cfac508ca91ab4bf8759575da5b9dc3", 
+      "title": "The effect of document retrieval quality on factoid question answering performance", 
+      "url": "https://www.semanticscholar.org/paper/0b4726173cfac508ca91ab4bf8759575da5b9dc3", 
+      "venue": "SIGIR", 
+      "year": 2004
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "33151c9905102c47d431f59fc9a5a7667960507a", 
+      "title": "A Language Modeling Approach to Information Retrieval", 
+      "url": "https://www.semanticscholar.org/paper/33151c9905102c47d431f59fc9a5a7667960507a", 
+      "venue": "SIGIR", 
+      "year": 1998
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "fc7d5f12f168429a7e81c8fa2cefd8bca767188b", 
+      "title": "A model of cluster searching bases on classification", 
+      "url": "https://www.semanticscholar.org/paper/fc7d5f12f168429a7e81c8fa2cefd8bca767188b", 
+      "venue": "Inf. Syst.", 
+      "year": 1980
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "4f6fea3f5111830279735e5f85ec878a4a669a1c", 
+      "title": "Topic based language models for ad hoc information retrieval", 
+      "url": "https://www.semanticscholar.org/paper/4f6fea3f5111830279735e5f85ec878a4a669a1c", 
+      "venue": "2004 IEEE International Joint Conference on Neural Networks (IEEE Cat. No.04CH37541)", 
+      "year": 2004
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "153604d2e5276bbdf7286fa669d5db04673b242e", 
+      "title": "PageRank without hyperlinks: Structural reranking using links induced by language models", 
+      "url": "https://www.semanticscholar.org/paper/153604d2e5276bbdf7286fa669d5db04673b242e", 
+      "venue": "ACM Trans. Inf. Syst.", 
+      "year": 2005
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "1d0d8262d824e152cd8bef111986a78c0a15a15c", 
+      "title": "Respect My Authority! HITS Without Hyperlinks, Utilizing Cluster-Based Language Models", 
+      "url": "https://www.semanticscholar.org/paper/1d0d8262d824e152cd8bef111986a78c0a15a15c", 
+      "venue": "SIGIR", 
+      "year": 2006
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "22add44f5c69f266a57b13a20321a1c3b9767e55", 
+      "title": "Geometric representations for multiple documents", 
+      "url": "https://www.semanticscholar.org/paper/22add44f5c69f266a57b13a20321a1c3b9767e55", 
+      "venue": "SIGIR", 
+      "year": 2010
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "0ef311acf523d4d0e2cc5f747a6508af2c89c5f7", 
+      "title": "LDA-based document models for ad-hoc retrieval", 
+      "url": "https://www.semanticscholar.org/paper/0ef311acf523d4d0e2cc5f747a6508af2c89c5f7", 
+      "venue": "SIGIR", 
+      "year": 2006
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "1cc7013247056e45264de9817171d72690181692", 
+      "title": "A language modeling framework for resource selection and results merging", 
+      "url": "https://www.semanticscholar.org/paper/1cc7013247056e45264de9817171d72690181692", 
+      "venue": "CIKM", 
+      "year": 2002
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "e0434e4bd524d0fa463758bd5fd4ef8793347cbe", 
+      "title": "Testing the cluster hypothesis in distributed information retrieval", 
+      "url": "https://www.semanticscholar.org/paper/e0434e4bd524d0fa463758bd5fd4ef8793347cbe", 
+      "venue": "Inf. Process. Manage.", 
+      "year": 2006
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "55350454ca7d41f0a5c900bccbe4d0225986281e", 
+      "title": "Cluster-based retrieval using language models", 
+      "url": "https://www.semanticscholar.org/paper/55350454ca7d41f0a5c900bccbe4d0225986281e", 
+      "venue": "SIGIR", 
+      "year": 2004
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "c45bf731b2064afbda2d67309a2add6559b8c5a5", 
+      "title": "Re-ranking method based on inter-document distances", 
+      "url": "https://www.semanticscholar.org/paper/c45bf731b2064afbda2d67309a2add6559b8c5a5", 
+      "venue": "Inf. Process. Manage.", 
+      "year": 2005
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "2d55ae70466fc0fb927c17310446fd95ab09cd74", 
+      "title": "Demonstration of hierarchical document clustering of digital library retrieval results", 
+      "url": "https://www.semanticscholar.org/paper/2d55ae70466fc0fb927c17310446fd95ab09cd74", 
+      "venue": "JCDL", 
+      "year": 2001
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "0678c73ff855c93f238538735fcecc1ee6bc8379", 
+      "title": "Graph-Based Ranking Algorithms For Sentence Extraction, Applied To Text Summarization", 
+      "url": "https://www.semanticscholar.org/paper/0678c73ff855c93f238538735fcecc1ee6bc8379", 
+      "venue": "", 
+      "year": 2004
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "167573f73625ef20a4b15c044d7f551e3be4a622", 
+      "title": "Improving the estimation of relevance models using large external corpora", 
+      "url": "https://www.semanticscholar.org/paper/167573f73625ef20a4b15c044d7f551e3be4a622", 
+      "venue": "SIGIR", 
+      "year": 2006
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "88e5cd43d6fb9abc87a943b023d092fdff74c9c4", 
+      "title": "Regularized estimation of mixture models for robust pseudo-relevance feedback", 
+      "url": "https://www.semanticscholar.org/paper/88e5cd43d6fb9abc87a943b023d092fdff74c9c4", 
+      "venue": "SIGIR", 
+      "year": 2006
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "7859071375af210096a2003f355df17817297173", 
+      "title": "Automatic Query Expansion Using SMART: TREC 3", 
+      "url": "https://www.semanticscholar.org/paper/7859071375af210096a2003f355df17817297173", 
+      "venue": "TREC", 
+      "year": 1994
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "2be0d0ce3f5729661e19774f4ec9eed8932aab2f", 
+      "title": "The Anatomy of a Large-Scale Hypertextual Web Search Engine", 
+      "url": "https://www.semanticscholar.org/paper/2be0d0ce3f5729661e19774f4ec9eed8932aab2f", 
+      "venue": "", 
+      "year": 1998
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "182f6ab4f0aac513472e357f7a9cce80db3a7a45", 
+      "title": "Language Model-Based Document Clustering Using Random Walks", 
+      "url": "https://www.semanticscholar.org/paper/182f6ab4f0aac513472e357f7a9cce80db3a7a45", 
+      "venue": "HLT-NAACL", 
+      "year": 2006
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "962ec64f876c657c278fb1143dee7cc98f2affb0", 
+      "title": "Automatically labeling hierarchical clusters", 
+      "url": "https://www.semanticscholar.org/paper/962ec64f876c657c278fb1143dee7cc98f2affb0", 
+      "venue": "DG.O", 
+      "year": 2006
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "824d95ba9b2c7e65fed5a7bd55f27c1acc8cada5", 
+      "title": "Clairvoyance Corporation Experiments in the TREC 2003 High Accuracy Retrieval from Douments (HARD) Track", 
+      "url": "https://www.semanticscholar.org/paper/824d95ba9b2c7e65fed5a7bd55f27c1acc8cada5", 
+      "venue": "TREC", 
+      "year": 2003
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "3ddfd50029798ffb1400639a10c3bbcfab0c5ab9", 
+      "title": "The Cluster Hypothesis Revisited", 
+      "url": "https://www.semanticscholar.org/paper/3ddfd50029798ffb1400639a10c3bbcfab0c5ab9", 
+      "venue": "SIGIR", 
+      "year": 1985
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "75414663a147a87daa63069a73954d33313e290e", 
+      "title": "A study of smoothing methods for language models applied to ad hoc information retrieval", 
+      "url": "https://www.semanticscholar.org/paper/75414663a147a87daa63069a73954d33313e290e", 
+      "venue": "Proceedings of SIGIR", 
+      "year": 2001
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "ded8696ee99a568f45e73fce4da6c24995de1458", 
+      "title": "Evaluating a Visual Navigation System for a Digital Library", 
+      "url": "https://www.semanticscholar.org/paper/ded8696ee99a568f45e73fce4da6c24995de1458", 
+      "venue": "ECDL", 
+      "year": 1998
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "9e51babaf392f2e5fc56861166a7f3331614e1fe", 
+      "title": "Regularizing ad hoc retrieval scores", 
+      "url": "https://www.semanticscholar.org/paper/9e51babaf392f2e5fc56861166a7f3331614e1fe", 
+      "venue": "CIKM", 
+      "year": 2005
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "7b95d389bc6affe6a127d53b04bcfd68138f1a1a", 
+      "title": "TextRank: Bringing Order Into Texts", 
+      "url": "https://www.semanticscholar.org/paper/7b95d389bc6affe6a127d53b04bcfd68138f1a1a", 
+      "venue": "", 
+      "year": 2004
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "48eab60bc6a736e2e6c85144ce520b67540e3a33", 
+      "title": "Cluster Generation and Cluster Labelling for Web Snippets", 
+      "url": "https://www.semanticscholar.org/paper/48eab60bc6a736e2e6c85144ce520b67540e3a33", 
+      "venue": "", 
+      "year": 2006
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "e4f19754e0470b5cce73f8255e220b53a082a722", 
+      "title": "Experiments on Retrieval of Optimal Clusters", 
+      "url": "https://www.semanticscholar.org/paper/e4f19754e0470b5cce73f8255e220b53a082a722", 
+      "venue": "", 
+      "year": 2006
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "2b3e1b56736c3e4081e7d5fc5993d35aaf27fe18", 
+      "title": "UMass at TREC 2004: Novelty and HARD", 
+      "url": "https://www.semanticscholar.org/paper/2b3e1b56736c3e4081e7d5fc5993d35aaf27fe18", 
+      "venue": "TREC", 
+      "year": 2004
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "d0f86a08875f365f3158127016de31f510320e9b", 
+      "title": "Language Model Information Retrieval with Document Expansion", 
+      "url": "https://www.semanticscholar.org/paper/d0f86a08875f365f3158127016de31f510320e9b", 
+      "venue": "HLT-NAACL", 
+      "year": 2006
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "dde5239559bb72072992697f9d12e7b9729d251e", 
+      "title": "Document re-ranking using cluster validation and label propagation", 
+      "url": "https://www.semanticscholar.org/paper/dde5239559bb72072992697f9d12e7b9729d251e", 
+      "venue": "CIKM", 
+      "year": 2006
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "5f4c05ba08fac9cde40235ebd4eb9abc6ed2d712", 
+      "title": "Authoritative Sources in a Hyperlinked Environment", 
+      "url": "https://www.semanticscholar.org/paper/5f4c05ba08fac9cde40235ebd4eb9abc6ed2d712", 
+      "venue": "", 
+      "year": 1998
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "f3f79d10e21cfbd41c5f7e6bf655f39263206add", 
+      "title": "The NRRC reliable information access (RIA) workshop", 
+      "url": "https://www.semanticscholar.org/paper/f3f79d10e21cfbd41c5f7e6bf655f39263206add", 
+      "venue": "SIGIR", 
+      "year": 2004
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "84c4d7c8457ef5a39a264f65fe04e0b7d914e6bb", 
+      "title": "Evaluating Text Representations for Retrieval of the Best Group of Documents", 
+      "url": "https://www.semanticscholar.org/paper/84c4d7c8457ef5a39a264f65fe04e0b7d914e6bb", 
+      "venue": "ECIR", 
+      "year": 2008
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "20073d0d6394f6dd29cde5bb7d9be87b0dc3ff8f", 
+      "title": "Using Random Walks for Question-focused Sentence Retrieval", 
+      "url": "https://www.semanticscholar.org/paper/20073d0d6394f6dd29cde5bb7d9be87b0dc3ff8f", 
+      "venue": "HLT/EMNLP", 
+      "year": 2005
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "16945d893e887e21cfda336ef51c6c2484cf337f", 
+      "title": "Evaluating Document Clustering for Interactive Information Retrieval", 
+      "url": "https://www.semanticscholar.org/paper/16945d893e887e21cfda336ef51c6c2484cf337f", 
+      "venue": "CIKM", 
+      "year": 2001
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "69ab8fe2bdc2b1ea63d86c7fd64142e5d3ed88ec", 
+      "title": "Relevance-Based Language Models", 
+      "url": "https://www.semanticscholar.org/paper/69ab8fe2bdc2b1ea63d86c7fd64142e5d3ed88ec", 
+      "venue": "SIGIR", 
+      "year": 2001
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "0d8bf6be792deb9b7e499b361a8332f0dce68089", 
+      "title": "Overview of the TREC 2002 Question Answering Track", 
+      "url": "https://www.semanticscholar.org/paper/0d8bf6be792deb9b7e499b361a8332f0dce68089", 
+      "venue": "TREC", 
+      "year": 2001
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "24abf1f292dd8355b26d448113f007e78ccf760f", 
+      "title": "Web Document Clustering: A Feasibility Demonstration", 
+      "url": "https://www.semanticscholar.org/paper/24abf1f292dd8355b26d448113f007e78ccf760f", 
+      "venue": "SIGIR", 
+      "year": 1998
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "30e6ff76eb5ba028128984c3b15eb38bf191c69d", 
+      "title": "Reexamining the Cluster Hypothesis: Scatter/Gather on Retrieval Results", 
+      "url": "https://www.semanticscholar.org/paper/30e6ff76eb5ba028128984c3b15eb38bf191c69d", 
+      "venue": "SIGIR", 
+      "year": 1996
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "682988d3cc614c122745d0e87ad9df0f44c3e432", 
+      "title": "Automatic labeling of multinomial topic models", 
+      "url": "https://www.semanticscholar.org/paper/682988d3cc614c122745d0e87ad9df0f44c3e432", 
+      "venue": "KDD", 
+      "year": 2007
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "e6a4c9c918a4d8154b08bbdc3673da6a6eaeba3c", 
+      "title": "LexPageRank: Prestige in Multi-Document Text Summarization", 
+      "url": "https://www.semanticscholar.org/paper/e6a4c9c918a4d8154b08bbdc3673da6a6eaeba3c", 
+      "venue": "EMNLP", 
+      "year": 2004
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "4da8648a5e24588f931e7c235d5df5f1885f2c0c", 
+      "title": "A rank-aggregation approach to searching for optimal query-specific clusters", 
+      "url": "https://www.semanticscholar.org/paper/4da8648a5e24588f931e7c235d5df5f1885f2c0c", 
+      "venue": "SIGIR", 
+      "year": 2008
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "346fe785a122f3c389a4a366fc247cba458233bf", 
+      "title": "Using interdocument similarity information in document retrieval systems", 
+      "url": "https://www.semanticscholar.org/paper/346fe785a122f3c389a4a366fc247cba458233bf", 
+      "venue": "JASIS", 
+      "year": 1986
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "789596ba7ded6f3a3db539f2c6de0075a98a4601", 
+      "title": "Relevance Models for Topic Detection and Tracking", 
+      "url": "https://www.semanticscholar.org/paper/789596ba7ded6f3a3db539f2c6de0075a98a4601", 
+      "venue": "", 
+      "year": 2002
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "4942f8ddd28921c52f5b524d846684946219c3e0", 
+      "title": "Why current IR engines fail", 
+      "url": "https://www.semanticscholar.org/paper/4942f8ddd28921c52f5b524d846684946219c3e0", 
+      "venue": "Information Retrieval", 
+      "year": 2004
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "5ee554a77fba87b1dff7e77adcdd97e3bbc87309", 
+      "title": "Corpus structure, language models, and ad hoc information retrieval", 
+      "url": "https://www.semanticscholar.org/paper/5ee554a77fba87b1dff7e77adcdd97e3bbc87309", 
+      "venue": "SIGIR", 
+      "year": 2004
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "0b8a6aed79f0630e938ea65c683f045cf1336677", 
+      "title": "Query Expansion Using Local and Global Document Analysis", 
+      "url": "https://www.semanticscholar.org/paper/0b8a6aed79f0630e938ea65c683f045cf1336677", 
+      "venue": "SIGIR", 
+      "year": 1996
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "a10f2ad32f8d8f9a1db4a28d22305d549b116ad2", 
+      "title": "A Generative Theory of Relevance", 
+      "url": "https://www.semanticscholar.org/paper/a10f2ad32f8d8f9a1db4a28d22305d549b116ad2", 
+      "venue": "A Generative Theory of Relevance", 
+      "year": 2004
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "03a8cb23b78ae1e8662b226d96e4a0ac2bf5d3fd", 
+      "title": "Document Language Models, Query Models, and Risk Minimization for Information Retrieval", 
+      "url": "https://www.semanticscholar.org/paper/03a8cb23b78ae1e8662b226d96e4a0ac2bf5d3fd", 
+      "venue": "SIGIR", 
+      "year": 2001
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "1d8cfed22ce933298b9aeef7757062816f626ba8", 
+      "title": "Inter-document Similarities, Language Models, and Ad Hoc Information Retrieval", 
+      "url": "https://www.semanticscholar.org/paper/1d8cfed22ce933298b9aeef7757062816f626ba8", 
+      "venue": "", 
+      "year": 2006
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "b9ff89f9678361b96c48fa4cf63a7c6f3ee0cf7a", 
+      "title": "Using Biased Random Walks for Focused Summarization", 
+      "url": "https://www.semanticscholar.org/paper/b9ff89f9678361b96c48fa4cf63a7c6f3ee0cf7a", 
+      "venue": "", 
+      "year": 2006
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "2a390357826457b0a20b28d6c39def2550550ec8", 
+      "title": "Representing clusters for retrieval", 
+      "url": "https://www.semanticscholar.org/paper/2a390357826457b0a20b28d6c39def2550550ec8", 
+      "venue": "SIGIR", 
+      "year": 2006
+    }
+  ], 
+  "title": "The opposite of smoothing: a language model approach to ranking query-specific document clusters", 
+  "url": "https://www.semanticscholar.org/paper/6741b7267764d2566630ca76c96610ea23ae8e5c", 
+  "venue": "SIGIR", 
+  "year": 2008
+}

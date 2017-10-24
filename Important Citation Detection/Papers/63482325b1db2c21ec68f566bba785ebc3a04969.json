@@ -1,0 +1,628 @@
+{
+  "authors": [
+    {
+      "authorId": "1727899", 
+      "name": "Hai Zhao", 
+      "url": "https://www.semanticscholar.org/author/1727899"
+    }, 
+    {
+      "authorId": "2227579", 
+      "name": "Changning Huang", 
+      "url": "https://www.semanticscholar.org/author/2227579"
+    }, 
+    {
+      "authorId": "1701799", 
+      "name": "Mu Li", 
+      "url": "https://www.semanticscholar.org/author/1701799"
+    }, 
+    {
+      "authorId": "1715839", 
+      "name": "Bao-Liang Lu", 
+      "url": "https://www.semanticscholar.org/author/1715839"
+    }
+  ], 
+  "citationVelocity": 0, 
+  "citations": [
+    {
+      "isInfluential": false, 
+      "paperId": "4503c3b75bf515098184d993790639c26f75da3a", 
+      "title": "A Joint Graph Model for Pinyin-to-Chinese Conversion with Typo Correction", 
+      "url": "https://www.semanticscholar.org/paper/4503c3b75bf515098184d993790639c26f75da3a", 
+      "venue": "ACL", 
+      "year": 2014
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "7542f0ee5bae687f27b407e38962c1efa68905db", 
+      "title": "The Discovery of Natural Typing Annotations: User-produced Potential Chinese Word Delimiters", 
+      "url": "https://www.semanticscholar.org/paper/7542f0ee5bae687f27b407e38962c1efa68905db", 
+      "venue": "ACL", 
+      "year": 2015
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "95ab9a45575d27f8caa537b4bca91c4d4ca23bac", 
+      "title": "Automated Extraction of Lexicon Applied both to Chinese and Japanese Corpora", 
+      "url": "https://www.semanticscholar.org/paper/95ab9a45575d27f8caa537b4bca91c4d4ca23bac", 
+      "venue": "2012 International Conference on Advanced Computer Science Applications and Technologies (ACSAT)", 
+      "year": 2012
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "14e7c7932bf8717a51e155e4ed224359be70d24f", 
+      "title": "Semi-supervised Chinese Word Segmentation based on Bilingual Information", 
+      "url": "https://www.semanticscholar.org/paper/14e7c7932bf8717a51e155e4ed224359be70d24f", 
+      "venue": "EMNLP", 
+      "year": 2015
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "42a178bd0685c28839bb2028d4437134fadb1a52", 
+      "title": "Multi-combined Features Text Mining of TCM Medical Cases with CRF", 
+      "url": "https://www.semanticscholar.org/paper/42a178bd0685c28839bb2028d4437134fadb1a52", 
+      "venue": "2016 8th International Conference on Information Technology in Medicine and Education (ITME)", 
+      "year": 2016
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "42b2ec4c3884d514a982529633804e843c9b5a23", 
+      "title": "Enhancing of chemical compound and drug name recognition using representative tag scheme and fine-grained tokenization", 
+      "url": "https://www.semanticscholar.org/paper/42b2ec4c3884d514a982529633804e843c9b5a23", 
+      "venue": "J. Cheminformatics", 
+      "year": 2015
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "394e61a39d86789b7939a387907663875f2b15d8", 
+      "title": "Improving Chinese Word Segmentation and POS Tagging with Semi-supervised Methods Using Large Auto-Analyzed Data", 
+      "url": "https://www.semanticscholar.org/paper/394e61a39d86789b7939a387907663875f2b15d8", 
+      "venue": "IJCNLP", 
+      "year": 2011
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "257c366456b9e2c96829e87c3a46ee7d5268cf3a", 
+      "title": "Framework for Tagging Software in Web Application", 
+      "url": "https://www.semanticscholar.org/paper/257c366456b9e2c96829e87c3a46ee7d5268cf3a", 
+      "venue": "", 
+      "year": 2013
+    }, 
+    {
+      "isInfluential": true, 
+      "paperId": "405872b6c6c1a53c2ede41ccb7c9de6d4207d9be", 
+      "title": "Integrating Surface and Abstract Features for Robust Cross-Domain Chinese Word Segmentation", 
+      "url": "https://www.semanticscholar.org/paper/405872b6c6c1a53c2ede41ccb7c9de6d4207d9be", 
+      "venue": "COLING", 
+      "year": 2012
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "47594458d19edcc0cec630a673d3da460963c48a", 
+      "title": "Domain Adaptation for CRF-based Chinese Word Segmentation using Free Annotations", 
+      "url": "https://www.semanticscholar.org/paper/47594458d19edcc0cec630a673d3da460963c48a", 
+      "venue": "EMNLP", 
+      "year": 2014
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "45aaea263dc1f10c3ddd6881ff70e2a7deff6a46", 
+      "title": "Drug Name Recognition: Approaches and Resources", 
+      "url": "https://www.semanticscholar.org/paper/45aaea263dc1f10c3ddd6881ff70e2a7deff6a46", 
+      "venue": "Information", 
+      "year": 2015
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "4081acc0e798ef315ed50f3a464b502bf9730784", 
+      "title": "Transfer Learning for Low-Resource Chinese Word Segmentation with a Novel Neural Network", 
+      "url": "https://www.semanticscholar.org/paper/4081acc0e798ef315ed50f3a464b502bf9730784", 
+      "venue": "ArXiv", 
+      "year": 2017
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "2a7f426427e243fc03db19a1a518a05950899740", 
+      "title": "A Hybrid Model for Chinese Spelling Check", 
+      "url": "https://www.semanticscholar.org/paper/2a7f426427e243fc03db19a1a518a05950899740", 
+      "venue": "ACM Trans. Asian & Low-Resource Lang. Inf. Process.", 
+      "year": 2017
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "38480ac0147061ecdce8ae4fa1607b8427dccd80", 
+      "title": "Feature-Frequency-Adaptive On-line Training for Fast and Accurate Natural Language Processing", 
+      "url": "https://www.semanticscholar.org/paper/38480ac0147061ecdce8ae4fa1607b8427dccd80", 
+      "venue": "Computational Linguistics", 
+      "year": 2014
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "1f625fc14f770c84ea01bb0c28d8dd014a307ee0", 
+      "title": "A Study of the Effectiveness of Suffixes for Chinese Word Segmentation", 
+      "url": "https://www.semanticscholar.org/paper/1f625fc14f770c84ea01bb0c28d8dd014a307ee0", 
+      "venue": "PACLIC", 
+      "year": 2013
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "edee9d15b32bc7e01b6bf71951825c3849062519", 
+      "title": "Learning Word Reorderings for Hierarchical Phrase-based Statistical Machine Translation", 
+      "url": "https://www.semanticscholar.org/paper/edee9d15b32bc7e01b6bf71951825c3849062519", 
+      "venue": "ACL", 
+      "year": 2015
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "2d3af2d6d9923f6dd66adc2e8a9cccb0d07be4bc", 
+      "title": "Enhancement of unsupervised feature selection for conditional random fields learning in Chinese word segmentation", 
+      "url": "https://www.semanticscholar.org/paper/2d3af2d6d9923f6dd66adc2e8a9cccb0d07be4bc", 
+      "venue": "2011 7th International Conference on Natural Language Processing and Knowledge Engineering", 
+      "year": 2011
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "e137a00f0b13f6cfc5c9ef87ef237c74723cafa0", 
+      "title": "A Unified Model for Solving the OOV Problem of Chinese Word Segmentation", 
+      "url": "https://www.semanticscholar.org/paper/e137a00f0b13f6cfc5c9ef87ef237c74723cafa0", 
+      "venue": "ACM Trans. Asian & Low-Resource Lang. Inf. Process.", 
+      "year": 2015
+    }, 
+    {
+      "isInfluential": true, 
+      "paperId": "b5b4e36aa2b4397ece0e1be79dc2f77ba819885f", 
+      "title": "Enhancement of Feature Engineering for Conditional Random Field Learning in Chinese Word Segmentation Using Unlabeled Data", 
+      "url": "https://www.semanticscholar.org/paper/b5b4e36aa2b4397ece0e1be79dc2f77ba819885f", 
+      "venue": "IJCLCLP", 
+      "year": 2012
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "7f6f431b56ef6dc565572d77c9d607ae81373fae", 
+      "title": "An Empirical Study Of Semi-Supervised Chinese Word Segmentation Using Co-Training", 
+      "url": "https://www.semanticscholar.org/paper/7f6f431b56ef6dc565572d77c9d607ae81373fae", 
+      "venue": "EMNLP", 
+      "year": 2013
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "299605e353fa610eedf9145130400cd2ffb773ad", 
+      "title": "Integrating Generative and Discriminative Character-Based Models for Chinese Word Segmentation", 
+      "url": "https://www.semanticscholar.org/paper/299605e353fa610eedf9145130400cd2ffb773ad", 
+      "venue": "ACM Trans. Asian Lang. Inf. Process.", 
+      "year": 2012
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "b7785df7c36cffe8e669859a9482ab1adf7471bf", 
+      "title": "A Bilingual Graph-Based Semantic Model for Statistical Machine Translation", 
+      "url": "https://www.semanticscholar.org/paper/b7785df7c36cffe8e669859a9482ab1adf7471bf", 
+      "venue": "IJCAI", 
+      "year": 2016
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "1564d52657d3ca4d70f9175143a8c4bc7fa44345", 
+      "title": "Word Segmentation for Burmese (Myanmar)", 
+      "url": "https://www.semanticscholar.org/paper/1564d52657d3ca4d70f9175143a8c4bc7fa44345", 
+      "venue": "ACM Trans. Asian & Low-Resource Lang. Inf. Process.", 
+      "year": 2016
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "3bb19ced5fcc1620be0050524b707b1b74465b63", 
+      "title": "Fast Online Training with Frequency-Adaptive Learning Rates for Chinese Word Segmentation and New Word Detection", 
+      "url": "https://www.semanticscholar.org/paper/3bb19ced5fcc1620be0050524b707b1b74465b63", 
+      "venue": "ACL", 
+      "year": 2012
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "5a742b7eddeb3cd1c4a5249459a19ddcc3acdc76", 
+      "title": "Learning Hierarchical Translation Spans", 
+      "url": "https://www.semanticscholar.org/paper/5a742b7eddeb3cd1c4a5249459a19ddcc3acdc76", 
+      "venue": "EMNLP", 
+      "year": 2014
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "6f15cd9493461b038338747875f5ac8171e63b6f", 
+      "title": "The Left and Right Context of a Word: Overlapping Chinese Syllable Word Segmentation with Minimal Context", 
+      "url": "https://www.semanticscholar.org/paper/6f15cd9493461b038338747875f5ac8171e63b6f", 
+      "venue": "ACM Trans. Asian Lang. Inf. Process.", 
+      "year": 2013
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "11b142ccc70ce769147ab2392f383552ea17e37c", 
+      "title": "XLike - D2.3.1 on Informal Language Processing", 
+      "url": "https://www.semanticscholar.org/paper/11b142ccc70ce769147ab2392f383552ea17e37c", 
+      "venue": "", 
+      "year": 2013
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "4ef0f399e62d0edd457efc8bfddf1cfb64552f2d", 
+      "title": "Context-Based Chinese Word Segmentation using SVM Machine-Learning Algorithm without Dictionary Support", 
+      "url": "https://www.semanticscholar.org/paper/4ef0f399e62d0edd457efc8bfddf1cfb64552f2d", 
+      "venue": "IJCNLP", 
+      "year": 2013
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "102ec9502c83e5e663bd834d5abc8cf6d93c2f28", 
+      "title": "Neural Word Segmentation Learning for Chinese", 
+      "url": "https://www.semanticscholar.org/paper/102ec9502c83e5e663bd834d5abc8cf6d93c2f28", 
+      "venue": "ACL", 
+      "year": 2016
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "1e0b165d10704d0d9be4aa55ae89ab566f919758", 
+      "title": "Fast and Accurate Neural Word Segmentation for Chinese", 
+      "url": "https://www.semanticscholar.org/paper/1e0b165d10704d0d9be4aa55ae89ab566f919758", 
+      "venue": "ACL", 
+      "year": 2017
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "325e918672ef37fddb3ebb8fc426c2ce41f7f7a0", 
+      "title": "Learning Distributed Word Representations For Bidirectional LSTM Recurrent Neural Network", 
+      "url": "https://www.semanticscholar.org/paper/325e918672ef37fddb3ebb8fc426c2ce41f7f7a0", 
+      "venue": "HLT-NAACL", 
+      "year": 2016
+    }, 
+    {
+      "isInfluential": true, 
+      "paperId": "22ca3465b96cf0e88f30149ea91339a39e144aea", 
+      "title": "Unsupervised Overlapping Feature Selection for Conditional Random Fields Learning in Chinese Word Segmentation", 
+      "url": "https://www.semanticscholar.org/paper/22ca3465b96cf0e88f30149ea91339a39e144aea", 
+      "venue": "ROCLING", 
+      "year": 2011
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "d46cf088055a3af9d665b52f35e28072cb01fef3", 
+      "title": "An Improved Graph Model for Chinese Spell Checking", 
+      "url": "https://www.semanticscholar.org/paper/d46cf088055a3af9d665b52f35e28072cb01fef3", 
+      "venue": "", 
+      "year": 2014
+    }
+  ], 
+  "doi": "10.1145/1781134.1781135", 
+  "influentialCitationCount": 3, 
+  "paperId": "63482325b1db2c21ec68f566bba785ebc3a04969", 
+  "references": [
+    {
+      "isInfluential": false, 
+      "paperId": "0c232e4695abd4227e60558a889c50e59beaf9bb", 
+      "title": "Transformation-Based Error-Driven Learning and Natural Language Processing: A Case Study in Part-of-Speech Tagging", 
+      "url": "https://www.semanticscholar.org/paper/0c232e4695abd4227e60558a889c50e59beaf9bb", 
+      "venue": "Computational Linguistics", 
+      "year": 1995
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "29acef2f42b9ef9b4292cea14efc8f13de9ab46d", 
+      "title": "A Hybrid Approach to Word Segmentation", 
+      "url": "https://www.semanticscholar.org/paper/29acef2f42b9ef9b4292cea14efc8f13de9ab46d", 
+      "venue": "", 
+      "year": 2010
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "5ff5cc161a031e782fdd04c061106c3ed9e34f2e", 
+      "title": "On Closed Task Of Chinese Word Segmentation: An Improved CRF Model Coupled With Character Clustering And Automatically Generated Template Matching", 
+      "url": "https://www.semanticscholar.org/paper/5ff5cc161a031e782fdd04c061106c3ed9e34f2e", 
+      "venue": "", 
+      "year": 2006
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "75b59b6d80dbff989c163e994caee656b1ec20f2", 
+      "title": "Chinese Word Segmentation in ICT-NLP", 
+      "url": "https://www.semanticscholar.org/paper/75b59b6d80dbff989c163e994caee656b1ec20f2", 
+      "venue": "", 
+      "year": 2005
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "048e5924bc6a26d62b697ba84d02268b3630489c", 
+      "title": "Unsupervised Training For Overlapping Ambiguity Resolution In Chinese Word Segmentation", 
+      "url": "https://www.semanticscholar.org/paper/048e5924bc6a26d62b697ba84d02268b3630489c", 
+      "venue": "", 
+      "year": 2003
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "73b29852c4f7d4a074ea0ae5b6ec63964f21e653", 
+      "title": "Adaptive Chinese Word Segmentation", 
+      "url": "https://www.semanticscholar.org/paper/73b29852c4f7d4a074ea0ae5b6ec63964f21e653", 
+      "venue": "ACL", 
+      "year": 2004
+    }, 
+    {
+      "isInfluential": true, 
+      "paperId": "2be27cacce938647ed48c9bc6e2b891b5ece2884", 
+      "title": "BMM-Based Chinese Word Segmentor With Word Support Model For The SIGHAN Bakeoff 2006", 
+      "url": "https://www.semanticscholar.org/paper/2be27cacce938647ed48c9bc6e2b891b5ece2884", 
+      "venue": "", 
+      "year": 2006
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "7bcf91cb1c11fd0662322abe3ce1ab617e4b26da", 
+      "title": "Chinese Word Segmentation With Maximum Entropy And N-Gram Language Model", 
+      "url": "https://www.semanticscholar.org/paper/7bcf91cb1c11fd0662322abe3ce1ab617e4b26da", 
+      "venue": "", 
+      "year": 2006
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "4de296483421d72eeeae0df297331090e86d202b", 
+      "title": "Chinese Word Segmentation and Named Entity Recognition: A Pragmatic Approach", 
+      "url": "https://www.semanticscholar.org/paper/4de296483421d72eeeae0df297331090e86d202b", 
+      "venue": "Computational Linguistics", 
+      "year": 2005
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "eeddb72f0e0df52c063e7a48b5ac6915ad834cf0", 
+      "title": "Corpus-Based Methods in Chinese Morphology and Phonology", 
+      "url": "https://www.semanticscholar.org/paper/eeddb72f0e0df52c063e7a48b5ac6915ad834cf0", 
+      "venue": "", 
+      "year": 2001
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "5b31e43f8b0490779d8013e0705ae4df8f0488c9", 
+      "title": "Shallow Parsing with Conditional Random Fields", 
+      "url": "https://www.semanticscholar.org/paper/5b31e43f8b0490779d8013e0705ae4df8f0488c9", 
+      "venue": "HLT-NAACL", 
+      "year": 2003
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "0c7f52c753a65ceaf3755e20b906ffd0c05c994a", 
+      "title": "Conditional Random Fields: Probabilistic Models for Segmenting and Labeling Sequence Data", 
+      "url": "https://www.semanticscholar.org/paper/0c7f52c753a65ceaf3755e20b906ffd0c05c994a", 
+      "venue": "ICML", 
+      "year": 2001
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "97c87344c462d2a8bbce0e9ba3c9b9a138c85c5b", 
+      "title": "Combining Segmenter And Chunker For Chinese Word Segmentation", 
+      "url": "https://www.semanticscholar.org/paper/97c87344c462d2a8bbce0e9ba3c9b9a138c85c5b", 
+      "venue": "", 
+      "year": 2003
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "52bf1cf78ef2ac675882282735b81ab332c8fa19", 
+      "title": "Chinese Word Segmentation And Named Entity Recognition Based On A Context-Dependent Mutual Information Independence Model", 
+      "url": "https://www.semanticscholar.org/paper/52bf1cf78ef2ac675882282735b81ab332c8fa19", 
+      "venue": "", 
+      "year": 2006
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "7260161cae4ba84f730aa1828a8996de7367b5c1", 
+      "title": "The Morphology of Chinese A Linguistic and Cognitive Approach", 
+      "url": "https://www.semanticscholar.org/paper/7260161cae4ba84f730aa1828a8996de7367b5c1", 
+      "venue": "", 
+      "year": 2001
+    }, 
+    {
+      "isInfluential": true, 
+      "paperId": "1297074f0e7d6c663c55f7580ca603473842eec9", 
+      "title": "A Conditional Random Field Word Segmenter for Sighan Bakeoff 2005", 
+      "url": "https://www.semanticscholar.org/paper/1297074f0e7d6c663c55f7580ca603473842eec9", 
+      "venue": "", 
+      "year": 2005
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "65e90d9f6754d32db464f635e7fdec672fad9ccf", 
+      "title": "The Second International Chinese Word Segmentation Bakeoff", 
+      "url": "https://www.semanticscholar.org/paper/65e90d9f6754d32db464f635e7fdec672fad9ccf", 
+      "venue": "", 
+      "year": 2005
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "326a1b8f8401bb6b8b6dbcbeae4357ce7bbb2e53", 
+      "title": "Two-Phase LMR-RC Tagging for Chinese Word Segmentation", 
+      "url": "https://www.semanticscholar.org/paper/326a1b8f8401bb6b8b6dbcbeae4357ce7bbb2e53", 
+      "venue": "", 
+      "year": 2005
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "24cd014beac97708f5acdc4355ce52dd40bd57e8", 
+      "title": "Measures of Diversity in Classifier Ensembles and Their Relationship with the Ensemble Accuracy", 
+      "url": "https://www.semanticscholar.org/paper/24cd014beac97708f5acdc4355ce52dd40bd57e8", 
+      "venue": "Machine Learning", 
+      "year": 2003
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "54e985fb5b0af022ed4ef6fd19f920ca3d79b51e", 
+      "title": "A Stochastic Finite-State Word-Segmentation Algorithm for Chinese", 
+      "url": "https://www.semanticscholar.org/paper/54e985fb5b0af022ed4ef6fd19f920ca3d79b51e", 
+      "venue": "ACL", 
+      "year": 1994
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "6b34c1235bc02a31ee4161f9912fa0cadfa292bc", 
+      "title": "A Chunking Strategy Towards Unknown Word Detection in Chinese Word Segmentation", 
+      "url": "https://www.semanticscholar.org/paper/6b34c1235bc02a31ee4161f9912fa0cadfa292bc", 
+      "venue": "IJCNLP", 
+      "year": 2005
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "551a5860d54eb9eb65bd7e3aad3468356a201f1f", 
+      "title": "A Maximum Entropy Approach to Chinese Word Segmentation", 
+      "url": "https://www.semanticscholar.org/paper/551a5860d54eb9eb65bd7e3aad3468356a201f1f", 
+      "venue": "", 
+      "year": 2005
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "d838bb8bf9bd7f9b8f3a222f660ef252abe05a78", 
+      "title": "Subword-based Tagging by Conditional Random Fields for Chinese Word Segmentation", 
+      "url": "https://www.semanticscholar.org/paper/d838bb8bf9bd7f9b8f3a222f660ef252abe05a78", 
+      "venue": "HLT-NAACL", 
+      "year": 2006
+    }, 
+    {
+      "isInfluential": true, 
+      "paperId": "021eded7ffb6fe9224a41c50ba00aaa31bf29765", 
+      "title": "Chinese Segmentation and New Word Detection using Conditional Random Fields", 
+      "url": "https://www.semanticscholar.org/paper/021eded7ffb6fe9224a41c50ba00aaa31bf29765", 
+      "venue": "COLING", 
+      "year": 2004
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "48cbb076efeb3ffaf271f67198c602bf30f64de7", 
+      "title": "Chinese Lexical Analysis Using Hierarchical Hidden Markov Model", 
+      "url": "https://www.semanticscholar.org/paper/48cbb076efeb3ffaf271f67198c602bf30f64de7", 
+      "venue": "", 
+      "year": 2003
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "1c2381e357c6829c551baee403650e6022ae6c40", 
+      "title": "Semi-Supervised Learning for Natural Language", 
+      "url": "https://www.semanticscholar.org/paper/1c2381e357c6829c551baee403650e6022ae6c40", 
+      "venue": "", 
+      "year": 2005
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "05acf28b5c99b585bbeb1ea1013a3c8458968849", 
+      "title": "Chinese Work Segmentation without Using Lexicon and Hand-crafted Training Data", 
+      "url": "https://www.semanticscholar.org/paper/05acf28b5c99b585bbeb1ea1013a3c8458968849", 
+      "venue": "COLING-ACL", 
+      "year": 1998
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "6cd6f5683f71a4f9e24c6faa3f743482ecb2e6ff", 
+      "title": "Scaling Conditional Random Fields Using Error-Correcting Codes", 
+      "url": "https://www.semanticscholar.org/paper/6cd6f5683f71a4f9e24c6faa3f743482ecb2e6ff", 
+      "venue": "ACL", 
+      "year": 2005
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "3731d2c8ac50f7c294a15393cfa27d1f2efe1da2", 
+      "title": "A Trainable Rule-based Algorithm for Word Segmentation", 
+      "url": "https://www.semanticscholar.org/paper/3731d2c8ac50f7c294a15393cfa27d1f2efe1da2", 
+      "venue": "ACL", 
+      "year": 1997
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "1e202312a53a3ae246f30c93088792d6f32667fa", 
+      "title": "Chinese Word Segmentation As LMR Tagging", 
+      "url": "https://www.semanticscholar.org/paper/1e202312a53a3ae246f30c93088792d6f32667fa", 
+      "venue": "", 
+      "year": 2003
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "35640547b3ba7989b5abbb9d269055e736d9dff3", 
+      "title": "Chinese Part-of-Speech Tagging: One-at-a-Time or All-at-Once? Word-Based or Character-Based?", 
+      "url": "https://www.semanticscholar.org/paper/35640547b3ba7989b5abbb9d269055e736d9dff3", 
+      "venue": "EMNLP", 
+      "year": 2004
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "67d0e055b2de82743e2c9ea6eece65bf4a03b248", 
+      "title": "Chinese Word Segmentation as Character Tagging", 
+      "url": "https://www.semanticscholar.org/paper/67d0e055b2de82743e2c9ea6eece65bf4a03b248", 
+      "venue": "IJCLCLP", 
+      "year": 2003
+    }, 
+    {
+      "isInfluential": true, 
+      "paperId": "34c5d1c646ad3ba3f2ed3cdb3276b338a525bf2f", 
+      "title": "Designing Special Post-Processing Rules For SVM-Based Chinese Word Segmentation", 
+      "url": "https://www.semanticscholar.org/paper/34c5d1c646ad3ba3f2ed3cdb3276b338a525bf2f", 
+      "venue": "", 
+      "year": 2006
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "4794a0009bdf58a18f8a3b9910093cc9f5d7e144", 
+      "title": "Chinese Word Segmentation Using Minimal Linguistic Knowledge", 
+      "url": "https://www.semanticscholar.org/paper/4794a0009bdf58a18f8a3b9910093cc9f5d7e144", 
+      "venue": "Journal of Chinese Language and Computing", 
+      "year": 2003
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "5e336c17edee95f2cdceee626b33506592c59519", 
+      "title": "Statistically-Enhanced New Word Identification In A Rule-Based Chinese System", 
+      "url": "https://www.semanticscholar.org/paper/5e336c17edee95f2cdceee626b33506592c59519", 
+      "venue": "", 
+      "year": 2000
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "6adc52de3d32a8844a31d9c56c9105ebead5e6e6", 
+      "title": "A Systematic Cross-Comparison of Sequence Classifiers", 
+      "url": "https://www.semanticscholar.org/paper/6adc52de3d32a8844a31d9c56c9105ebead5e6e6", 
+      "venue": "SDM", 
+      "year": 2006
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "78b749a481d33b752b0d2ca3ecc18f00337cfc09", 
+      "title": "Covering Ambiguity Resolution in Chinese Word Segmentation Based on Contextual Information", 
+      "url": "https://www.semanticscholar.org/paper/78b749a481d33b752b0d2ca3ecc18f00337cfc09", 
+      "venue": "COLING", 
+      "year": 2002
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "063e2ac0b3c4eb00ebfa0cc1b75fc520793fb3ab", 
+      "title": "Introduction to Probability", 
+      "url": "https://www.semanticscholar.org/paper/063e2ac0b3c4eb00ebfa0cc1b75fc520793fb3ab", 
+      "venue": "", 
+      "year": 1997
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "5640d71a2322f2a6852f46cda40263b06aa54803", 
+      "title": "The First International Chinese Word Segmentation Bakeoff", 
+      "url": "https://www.semanticscholar.org/paper/5640d71a2322f2a6852f46cda40263b06aa54803", 
+      "venue": "", 
+      "year": 2003
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "5d0bd002856e62ed138ef972d7069c74c0ee516f", 
+      "title": "Chinese Word Segmentation by Classification of Characters", 
+      "url": "https://www.semanticscholar.org/paper/5d0bd002856e62ed138ef972d7069c74c0ee516f", 
+      "venue": "IJCLCLP", 
+      "year": 2004
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "a1adf7e00a0c4134dbae5ad26662fa78e2ece055", 
+      "title": "The Third International Chinese Language Processing Bakeoff: Word Segmentation And Named Entity Recognition", 
+      "url": "https://www.semanticscholar.org/paper/a1adf7e00a0c4134dbae5ad26662fa78e2ece055", 
+      "venue": "", 
+      "year": 2006
+    }
+  ], 
+  "title": "A Unified Character-Based Tagging Framework for Chinese Word Segmentation", 
+  "url": "https://www.semanticscholar.org/paper/63482325b1db2c21ec68f566bba785ebc3a04969", 
+  "venue": "ACM Trans. Asian Lang. Inf. Process.", 
+  "year": 2010
+}

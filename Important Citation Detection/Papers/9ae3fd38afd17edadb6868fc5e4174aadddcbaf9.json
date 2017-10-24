@@ -1,0 +1,986 @@
+{
+  "authors": [
+    {
+      "authorId": "1829342", 
+      "name": "Christian Biemann", 
+      "url": "https://www.semanticscholar.org/author/1829342"
+    }, 
+    {
+      "authorId": "2897915", 
+      "name": "Martin Riedl", 
+      "url": "https://www.semanticscholar.org/author/2897915"
+    }
+  ], 
+  "citationVelocity": 32, 
+  "citations": [
+    {
+      "isInfluential": false, 
+      "paperId": "f48f9735e2f15c657c1294e00e916172ac88ea7a", 
+      "title": "From Global to Local Similarities: A Graph-Based Contextualization Method using Distributional Thesauri", 
+      "url": "https://www.semanticscholar.org/paper/f48f9735e2f15c657c1294e00e916172ac88ea7a", 
+      "venue": "TextGraphs@EMNLP", 
+      "year": 2013
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "fc17b61c59ca70feda8c338766ea0047ad67a295", 
+      "title": "IITPB at SemEval-2017 Task 5: Sentiment Prediction in Financial Text", 
+      "url": "https://www.semanticscholar.org/paper/fc17b61c59ca70feda8c338766ea0047ad67a295", 
+      "venue": "SemEval@ACL", 
+      "year": 2017
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "fb2789e1deffdce5ea422d3133ead54ee347b792", 
+      "title": "Metaheuristic Approaches to Lexical Substitution and Simplification", 
+      "url": "https://www.semanticscholar.org/paper/fb2789e1deffdce5ea422d3133ead54ee347b792", 
+      "venue": "EACL", 
+      "year": 2017
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "e2983c8cb7595f175d31880d22a383cdfe55bbd1", 
+      "title": "Using Linked Disambiguated Distributional Networks for Word Sense Disambiguation", 
+      "url": "https://www.semanticscholar.org/paper/e2983c8cb7595f175d31880d22a383cdfe55bbd1", 
+      "venue": "", 
+      "year": 2017
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "bf37d2c9185c0b90feb7a1bf872090f747d0fb6e", 
+      "title": "Unsupervised Does Not Mean Uninterpretable: The Case for Word Sense Induction and Disambiguation", 
+      "url": "https://www.semanticscholar.org/paper/bf37d2c9185c0b90feb7a1bf872090f747d0fb6e", 
+      "venue": "EACL", 
+      "year": 2017
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "de0920e3b55eb45e7b713caac94143eb2a3b8500", 
+      "title": "Scalable Construction of High-Quality Web Corpora", 
+      "url": "https://www.semanticscholar.org/paper/de0920e3b55eb45e7b713caac94143eb2a3b8500", 
+      "venue": "JLCL", 
+      "year": 2013
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "84e326929dc059e8492f59a6e458cb96714ffdd3", 
+      "title": "Using Pseudowords for Algorithm Comparison: An Evaluation Framework for Graph-based Word Sense Induction", 
+      "url": "https://www.semanticscholar.org/paper/84e326929dc059e8492f59a6e458cb96714ffdd3", 
+      "venue": "", 
+      "year": 2017
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "37e451bb0d29e616e2323dd54840b890644508b4", 
+      "title": "Lexical Substitution for the Medical Domain", 
+      "url": "https://www.semanticscholar.org/paper/37e451bb0d29e616e2323dd54840b890644508b4", 
+      "venue": "EMNLP", 
+      "year": 2014
+    }, 
+    {
+      "isInfluential": true, 
+      "paperId": "8030ee6992d6f485d2e93ba8f7061e06cde8fad7", 
+      "title": "Scoring Disease-Medication Associations using Advanced NLP, Ma- chine Learning, and Multiple Content Sources", 
+      "url": "https://www.semanticscholar.org/paper/8030ee6992d6f485d2e93ba8f7061e06cde8fad7", 
+      "venue": "", 
+      "year": 2016
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "9ce205c003a838ee636a91871c86d312b4fab07e", 
+      "title": "Replacing OOV Words For Dependency Parsing With Distributional Semantics", 
+      "url": "https://www.semanticscholar.org/paper/9ce205c003a838ee636a91871c86d312b4fab07e", 
+      "venue": "", 
+      "year": 2017
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "3d48e2eb2b9920eaae5963c4b94641e1a7a229d4", 
+      "title": "Modeling Word Meaning in Context with Substitute Vectors", 
+      "url": "https://www.semanticscholar.org/paper/3d48e2eb2b9920eaae5963c4b94641e1a7a229d4", 
+      "venue": "HLT-NAACL", 
+      "year": 2015
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "faceff76a196c3de520e0080bfb51e1cb10a6ee1", 
+      "title": "Rule-based Dependency Parse Collapsing and Propagation for German and English", 
+      "url": "https://www.semanticscholar.org/paper/faceff76a196c3de520e0080bfb51e1cb10a6ee1", 
+      "venue": "GSCL", 
+      "year": 2015
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "51c49cc4654dbce3c3de2919800da1e7477d88b3", 
+      "title": "Do Supervised Distributional Methods Really Learn Lexical Inference Relations?", 
+      "url": "https://www.semanticscholar.org/paper/51c49cc4654dbce3c3de2919800da1e7477d88b3", 
+      "venue": "HLT-NAACL", 
+      "year": 2015
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "7c352100fd336a07f5fd2d90216a87fe20c268ec", 
+      "title": "Evaluating GeoContext: A system for creating geographical topics from a social media stream", 
+      "url": "https://www.semanticscholar.org/paper/7c352100fd336a07f5fd2d90216a87fe20c268ec", 
+      "venue": "UEMCON", 
+      "year": 2016
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "14902901667d81106e47cfc3245e84630b486aae", 
+      "title": "A Single Word is not Enough: Ranking Multiword Expressions Using Distributional Semantics", 
+      "url": "https://www.semanticscholar.org/paper/14902901667d81106e47cfc3245e84630b486aae", 
+      "venue": "EMNLP", 
+      "year": 2015
+    }, 
+    {
+      "isInfluential": true, 
+      "paperId": "7fead81d3655f52a221ef8738216ab8826019897", 
+      "title": "A Simple Word Embedding Model for Lexical Substitution", 
+      "url": "https://www.semanticscholar.org/paper/7fead81d3655f52a221ef8738216ab8826019897", 
+      "venue": "VS@HLT-NAACL", 
+      "year": 2015
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "c557daf8de9cf916d9340f63ecf0067dd0320ac4", 
+      "title": "A WordNet-Based Parameter Configuration Assistance Technology in Simulation Application", 
+      "url": "https://www.semanticscholar.org/paper/c557daf8de9cf916d9340f63ecf0067dd0320ac4", 
+      "venue": "2015 IEEE/ACM 19th International Symposium on Distributed Simulation and Real Time Applications (DS-RT)", 
+      "year": 2015
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "030bd4b2334231bd28db39b1d0378fb920d956bd", 
+      "title": "word2vec or JoBimText?: A Comparison for Lexical Expansion of Hindi Words", 
+      "url": "https://www.semanticscholar.org/paper/030bd4b2334231bd28db39b1d0378fb920d956bd", 
+      "venue": "FIRE", 
+      "year": 2015
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "629efeb8968c2c60658376992d88bba208b33f42", 
+      "title": "Best of Both Worlds: Making Word Sense Embeddings Interpretable", 
+      "url": "https://www.semanticscholar.org/paper/629efeb8968c2c60658376992d88bba208b33f42", 
+      "venue": "LREC", 
+      "year": 2016
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "a0815aaba81ebae012fc8a163dd78895049eb821", 
+      "title": "Vectors or Graphs? On Differences of Representations for Distributional Semantic Models", 
+      "url": "https://www.semanticscholar.org/paper/a0815aaba81ebae012fc8a163dd78895049eb821", 
+      "venue": "", 
+      "year": 2016
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "15b76c81d63accc2668ce4acd1f299e394b1d21f", 
+      "title": "JoBimText Visualizer: A Graph-based Approach to Contextualizing Distributional Similarity", 
+      "url": "https://www.semanticscholar.org/paper/15b76c81d63accc2668ce4acd1f299e394b1d21f", 
+      "venue": "TextGraphs@EMNLP", 
+      "year": 2013
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "36c8d5f70306d567d71a1956138b60b5c1d8ca75", 
+      "title": "Scaling to Large3 Data: An Efficient and Effective Method to Compute Distributional Thesauri", 
+      "url": "https://www.semanticscholar.org/paper/36c8d5f70306d567d71a1956138b60b5c1d8ca75", 
+      "venue": "EMNLP", 
+      "year": 2013
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "8e83ab4acbe353a18b70d231668533554feeb4f2", 
+      "title": "Citius at SemEval-2017 Task 2: Cross-Lingual Similarity from Comparable Corpora and Dependency-Based Contexts", 
+      "url": "https://www.semanticscholar.org/paper/8e83ab4acbe353a18b70d231668533554feeb4f2", 
+      "venue": "SemEval@ACL", 
+      "year": 2017
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "01dd4b9046db4b5a3768b9beb6ab128857598d84", 
+      "title": "Ambient Search: A Document Retrieval System for Speech Streams", 
+      "url": "https://www.semanticscholar.org/paper/01dd4b9046db4b5a3768b9beb6ab128857598d84", 
+      "venue": "COLING", 
+      "year": 2016
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "5c42890b073eb8e69c53bc8ec387e9bd78f6f7e3", 
+      "title": "Towards a resource based on users' knowledge to overcome the Tip of the Tongue problem", 
+      "url": "https://www.semanticscholar.org/paper/5c42890b073eb8e69c53bc8ec387e9bd78f6f7e3", 
+      "venue": "", 
+      "year": 2016
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "327a80953bddb5278983ced5e953c5a8cca5f875", 
+      "title": "Unsupervised Compound Splitting With Distributional Semantics Rivals Supervised Methods", 
+      "url": "https://www.semanticscholar.org/paper/327a80953bddb5278983ced5e953c5a8cca5f875", 
+      "venue": "HLT-NAACL", 
+      "year": 2016
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "ae652c07fe14a5cf3b2363f36e98bb2f07f2a638", 
+      "title": "STS-UHH at SemEval-2017 Task 1: Scoring Semantic Textual Similarity Using Supervised and Unsupervised Ensemble", 
+      "url": "https://www.semanticscholar.org/paper/ae652c07fe14a5cf3b2363f36e98bb2f07f2a638", 
+      "venue": "SemEval@ACL", 
+      "year": 2017
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "e0f9e8fb44636ddd7f62d8d7c233ebb5b2189b59", 
+      "title": "Using Lexical Expansion to Learn Inference Rules from Sparse Data", 
+      "url": "https://www.semanticscholar.org/paper/e0f9e8fb44636ddd7f62d8d7c233ebb5b2189b59", 
+      "venue": "ACL", 
+      "year": 2013
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "f4fc336700ff190254826950b24dbcb5efb53c01", 
+      "title": "SemRelData \u2015 Multilingual Contextual Annotation of Semantic Relations between Nominals: Dataset and Guidelines", 
+      "url": "https://www.semanticscholar.org/paper/f4fc336700ff190254826950b24dbcb5efb53c01", 
+      "venue": "LREC", 
+      "year": 2016
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "34f59228f6773affd2b0e5cca3e371f09c25c3ab", 
+      "title": "Linked Disambiguated Distributional Semantic Networks", 
+      "url": "https://www.semanticscholar.org/paper/34f59228f6773affd2b0e5cca3e371f09c25c3ab", 
+      "venue": "International Semantic Web Conference", 
+      "year": 2016
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "82cd68cd5cb9727614c1fc5e7ea7d3efa1edcb66", 
+      "title": "GeoContext: Discovering geographical topics from social media", 
+      "url": "https://www.semanticscholar.org/paper/82cd68cd5cb9727614c1fc5e7ea7d3efa1edcb66", 
+      "venue": "2016 IEEE/ACM International Conference on Advances in Social Networks Analysis and Mining (ASONAM)", 
+      "year": 2016
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "56a3f4fbe7af467fc64019a22c502854d2d9d75d", 
+      "title": "Mobile Context Recommendations from Social Media through Geotopical Clustering", 
+      "url": "https://www.semanticscholar.org/paper/56a3f4fbe7af467fc64019a22c502854d2d9d75d", 
+      "venue": "", 
+      "year": 2015
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "3e75a3457fe050ba324a7650ec74b943fb7ca527", 
+      "title": "IIT-TUDA at SemEval-2016 Task 5: Beyond Sentiment Lexicon: Combining Domain Dependency and Distributional Semantics Features for Aspect Based Sentiment Analysis", 
+      "url": "https://www.semanticscholar.org/paper/3e75a3457fe050ba324a7650ec74b943fb7ca527", 
+      "venue": "SemEval@NAACL-HLT", 
+      "year": 2016
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "e57f6c64981d97763bf94c513563ffa362fe3fcd", 
+      "title": "Automatic Induction of Synsets from a Graph of Synonyms", 
+      "url": "https://www.semanticscholar.org/paper/e57f6c64981d97763bf94c513563ffa362fe3fcd", 
+      "venue": "ACL", 
+      "year": 2017
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "6459c5b81e01e6e90c58fc800c4d40fedbf3fda6", 
+      "title": "Combining Supervised and Unsupervised Parsing for Distributional Similarity", 
+      "url": "https://www.semanticscholar.org/paper/6459c5b81e01e6e90c58fc800c4d40fedbf3fda6", 
+      "venue": "COLING", 
+      "year": 2014
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "cd3b85ac0d3f0c65a40ce9e5c19396303cfb3c80", 
+      "title": "EmpiriST: AIPHES - Robust Tokenization and POS-Tagging for Different Genres", 
+      "url": "https://www.semanticscholar.org/paper/cd3b85ac0d3f0c65a40ce9e5c19396303cfb3c80", 
+      "venue": "", 
+      "year": 2016
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "96dfc8cb724c4d0bebbf758e2c83721e2a0600a7", 
+      "title": "A Scalable Framework for Data-Driven Ontology Evaluation", 
+      "url": "https://www.semanticscholar.org/paper/96dfc8cb724c4d0bebbf758e2c83721e2a0600a7", 
+      "venue": "WM", 
+      "year": 2017
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "b2503144ed2152830f6c64a9f797ab3c5a34fee5", 
+      "title": "GermaNER: Free Open German Named Entity Recognition Tool", 
+      "url": "https://www.semanticscholar.org/paper/b2503144ed2152830f6c64a9f797ab3c5a34fee5", 
+      "venue": "GSCL", 
+      "year": 2015
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "3337bdf0c93aa2d111644355be00f8a192430f5f", 
+      "title": "Narrowing the Loop: Integration of Resources and Linguistic Dataset Development with Interactive Machine Learning", 
+      "url": "https://www.semanticscholar.org/paper/3337bdf0c93aa2d111644355be00f8a192430f5f", 
+      "venue": "HLT-NAACL", 
+      "year": 2015
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "6b35accf82211e8a84488e730ed376919d3e00de", 
+      "title": "Unsupervised, Knowledge-Free, and Interpretable Word Sense Disambiguation", 
+      "url": "https://www.semanticscholar.org/paper/6b35accf82211e8a84488e730ed376919d3e00de", 
+      "venue": "ArXiv", 
+      "year": 2017
+    }, 
+    {
+      "isInfluential": true, 
+      "paperId": "89de77656d635fde52e38dc48e591556247fdd7c", 
+      "title": "Analysing domain suitability of a sentiment lexicon by identifying distributionally bipolar words", 
+      "url": "https://www.semanticscholar.org/paper/89de77656d635fde52e38dc48e591556247fdd7c", 
+      "venue": "WASSA@EMNLP", 
+      "year": 2015
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "813ae059a9e35c0a809a707c456c6bd0380a5d00", 
+      "title": "Data-driven Paraphrasing and Stylistic Harmonization", 
+      "url": "https://www.semanticscholar.org/paper/813ae059a9e35c0a809a707c456c6bd0380a5d00", 
+      "venue": "SRW@HLT-NAACL", 
+      "year": 2016
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "1896bc566fe95db8ddb1fe2ca8ecc0d69a7d80de", 
+      "title": "Towards Automatic Scoring of Cloze Items by Selecting Low-Ambiguity Contexts", 
+      "url": "https://www.semanticscholar.org/paper/1896bc566fe95db8ddb1fe2ca8ecc0d69a7d80de", 
+      "venue": "", 
+      "year": 2014
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "9bfc7de4036b7949160fa9e0329f116b3987f756", 
+      "title": "Interactive activation and competition models and semantic context: From behavioral to brain data.", 
+      "url": "https://www.semanticscholar.org/paper/9bfc7de4036b7949160fa9e0329f116b3987f756", 
+      "venue": "Neuroscience and biobehavioral reviews", 
+      "year": 2014
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "3a3660d4e394c6c19e6601f9488831c514d47220", 
+      "title": "UKPDIPF: Lexical Semantic Approach to Sentiment Polarity Prediction in Twitter Data", 
+      "url": "https://www.semanticscholar.org/paper/3a3660d4e394c6c19e6601f9488831c514d47220", 
+      "venue": "SemEval@COLING", 
+      "year": 2014
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "e2d55a4893c8133a96a1d66d56add0170079c32f", 
+      "title": "Distributional Semantics for Resolving Bridging Mentions", 
+      "url": "https://www.semanticscholar.org/paper/e2d55a4893c8133a96a1d66d56add0170079c32f", 
+      "venue": "RANLP", 
+      "year": 2015
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "6f2a0d80186dd52ef74872db72c90e370a792584", 
+      "title": "Unsupervised Relation Extraction of In-Domain Data from Focused Crawls", 
+      "url": "https://www.semanticscholar.org/paper/6f2a0d80186dd52ef74872db72c90e370a792584", 
+      "venue": "EACL", 
+      "year": 2014
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "aad81f43c29ea06b902932fa79655e529dd40928", 
+      "title": "Adapting predominant and novel sense discovery algorithms for identifying corpus-specific sense differences", 
+      "url": "https://www.semanticscholar.org/paper/aad81f43c29ea06b902932fa79655e529dd40928", 
+      "venue": "", 
+      "year": 2017
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "2bff4e2a6b7a84d82936f53f06bc02f291631ed3", 
+      "title": "Dynamic Generative model for Diachronic Sense Emergence Detection", 
+      "url": "https://www.semanticscholar.org/paper/2bff4e2a6b7a84d82936f53f06bc02f291631ed3", 
+      "venue": "COLING", 
+      "year": 2016
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "4cf090824b89b4fddebc659f09ddca4aafafcdd7", 
+      "title": "Ranking Entities for Web Queries Through Text and Knowledge", 
+      "url": "https://www.semanticscholar.org/paper/4cf090824b89b4fddebc659f09ddca4aafafcdd7", 
+      "venue": "CIKM", 
+      "year": 2015
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "15406f6bcd78da91524b861ec2a3724da59ab8c6", 
+      "title": "Language Transfer Learning for Supervised Lexical Substitution", 
+      "url": "https://www.semanticscholar.org/paper/15406f6bcd78da91524b861ec2a3724da59ab8c6", 
+      "venue": "ACL", 
+      "year": 2016
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "12a651b0e0a088333b056c8e3d86e75bf4241f8d", 
+      "title": "Making Sense of Word Embeddings", 
+      "url": "https://www.semanticscholar.org/paper/12a651b0e0a088333b056c8e3d86e75bf4241f8d", 
+      "venue": "", 
+      "year": 2016
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "5719932d8c194439dd08403bdb9df5ee30826e87", 
+      "title": "TAXI at SemEval-2016 Task 13: a Taxonomy Induction Method based on Lexico-Syntactic Patterns, Substrings and Focused Crawling", 
+      "url": "https://www.semanticscholar.org/paper/5719932d8c194439dd08403bdb9df5ee30826e87", 
+      "venue": "SemEval@NAACL-HLT", 
+      "year": 2016
+    }, 
+    {
+      "isInfluential": true, 
+      "paperId": "5fccae841cbe4f5d0d2782d1284bd30ec989f2c4", 
+      "title": "Nothing like Good Old Frequency: Studying Context Filters for Distributional Thesauri", 
+      "url": "https://www.semanticscholar.org/paper/5fccae841cbe4f5d0d2782d1284bd30ec989f2c4", 
+      "venue": "EMNLP", 
+      "year": 2014
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "6e9b9b4b86fe461cf466530dbc4cd2614a6837a5", 
+      "title": "Exploring Diachronic Lexical Semantics with JeSemE", 
+      "url": "https://www.semanticscholar.org/paper/6e9b9b4b86fe461cf466530dbc4cd2614a6837a5", 
+      "venue": "ACL", 
+      "year": 2017
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "bb43660d89fa8b89746ed7ce9f0aada0c9a34d0a", 
+      "title": "JoBimViz: A Web-based Visualization for Graph-based Distributional Semantic Models", 
+      "url": "https://www.semanticscholar.org/paper/bb43660d89fa8b89746ed7ce9f0aada0c9a34d0a", 
+      "venue": "ACL", 
+      "year": 2015
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "a2acca10f63f7e78d7620e1400833f41f1bf9fdb", 
+      "title": "The ContrastMedium Algorithm: Taxonomy Induction From Noisy Knowledge Graphs With Just A Few Links", 
+      "url": "https://www.semanticscholar.org/paper/a2acca10f63f7e78d7620e1400833f41f1bf9fdb", 
+      "venue": "EACL", 
+      "year": 2017
+    }
+  ], 
+  "doi": "10.15398/jlm.v1i1.60", 
+  "influentialCitationCount": 4, 
+  "paperId": "9ae3fd38afd17edadb6868fc5e4174aadddcbaf9", 
+  "references": [
+    {
+      "isInfluential": false, 
+      "paperId": "1521ddb27860cc8834f8a82e62665bf983c8ad2c", 
+      "title": "The Word-Space Model Using distributional analysis to represent syntagmatic and paradigmatic relations between words in high-dimensional vector spaces", 
+      "url": "https://www.semanticscholar.org/paper/1521ddb27860cc8834f8a82e62665bf983c8ad2c", 
+      "venue": "", 
+      "year": 2006
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "3a0e788268fafb23ab20da0e98bb578b06830f7d", 
+      "title": "From Frequency to Meaning: Vector Space Models of Semantics", 
+      "url": "https://www.semanticscholar.org/paper/3a0e788268fafb23ab20da0e98bb578b06830f7d", 
+      "venue": "J. Artif. Intell. Res.", 
+      "year": 2010
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "3cd9fd8a36c8feb74bb20ae25817edb9c6a0518c", 
+      "title": "Automatic Word Sense Discrimination", 
+      "url": "https://www.semanticscholar.org/paper/3cd9fd8a36c8feb74bb20ae25817edb9c6a0518c", 
+      "venue": "Computational Linguistics", 
+      "year": 1998
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "76e4e034c20bea86edcc6e71bbaddb47fafeecbc", 
+      "title": "Automatic sense disambiguation using machine readable dictionaries: how to tell a pine cone from an ice cream cone", 
+      "url": "https://www.semanticscholar.org/paper/76e4e034c20bea86edcc6e71bbaddb47fafeecbc", 
+      "venue": "SIGDOC", 
+      "year": 1986
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "0b44fcbeea9415d400c5f5789d6b892b6f98daff", 
+      "title": "Building a Large Annotated Corpus of English: The Penn Treebank", 
+      "url": "https://www.semanticscholar.org/paper/0b44fcbeea9415d400c5f5789d6b892b6f98daff", 
+      "venue": "Computational Linguistics", 
+      "year": 1993
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "0eb7f8ccf96f714998245a8cb1a35690a3adbafb", 
+      "title": "Scaling Distributional Similarity to Large Corpora", 
+      "url": "https://www.semanticscholar.org/paper/0eb7f8ccf96f714998245a8cb1a35690a3adbafb", 
+      "venue": "ACL", 
+      "year": 2006
+    }, 
+    {
+      "isInfluential": true, 
+      "paperId": "21dbd7c2b7f87ed057608be5108586025159c801", 
+      "title": "Distributional Memory: A General Framework for Corpus-Based Semantics", 
+      "url": "https://www.semanticscholar.org/paper/21dbd7c2b7f87ed057608be5108586025159c801", 
+      "venue": "Computational Linguistics", 
+      "year": 2010
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "515cbb8feea7c9951291ee63437139a891dc45c3", 
+      "title": "In Search of Semantic Compositionality in Vector Spaces", 
+      "url": "https://www.semanticscholar.org/paper/515cbb8feea7c9951291ee63437139a891dc45c3", 
+      "venue": "ICCS", 
+      "year": 2009
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "1e56ed3d2c855f848ffd91baa90f661772a279e1", 
+      "title": "Latent Dirichlet Allocation", 
+      "url": "https://www.semanticscholar.org/paper/1e56ed3d2c855f848ffd91baa90f661772a279e1", 
+      "venue": "Journal of Machine Learning Research", 
+      "year": 2003
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "7fcc26868fe349601589e341b804e2b6f16216ef", 
+      "title": "From distributional to semantic similarity", 
+      "url": "https://www.semanticscholar.org/paper/7fcc26868fe349601589e341b804e2b6f16216ef", 
+      "venue": "", 
+      "year": 2004
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "6a640dab65eebadec03f8bb704081b6ec323d860", 
+      "title": "A Scalable Distributed Syntactic, Semantic, and Lexical Language Model", 
+      "url": "https://www.semanticscholar.org/paper/6a640dab65eebadec03f8bb704081b6ec323d860", 
+      "venue": "Computational Linguistics", 
+      "year": 2012
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "87d907a114409755ecd3c6886585de26a4e17ffe", 
+      "title": "Probabilistic Latent Semantic Indexing", 
+      "url": "https://www.semanticscholar.org/paper/87d907a114409755ecd3c6886585de26a4e17ffe", 
+      "venue": "SIGIR", 
+      "year": 1999
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "8900e2343c9d026fe71cc586cd35cbf01bd78e8e", 
+      "title": "Distributional Semantics and Compositionality 2011: Shared Task Description and Results", 
+      "url": "https://www.semanticscholar.org/paper/8900e2343c9d026fe71cc586cd35cbf01bd78e8e", 
+      "venue": "", 
+      "year": 2011
+    }, 
+    {
+      "isInfluential": true, 
+      "paperId": "9549f6ff4cb30a719d99267c3ecaced55a6f98ab", 
+      "title": "The English lexical substitution task", 
+      "url": "https://www.semanticscholar.org/paper/9549f6ff4cb30a719d99267c3ecaced55a6f98ab", 
+      "venue": "Language Resources and Evaluation", 
+      "year": 2009
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "aa5900e684d89dedaba080acbd382aff50a1ecde", 
+      "title": "Word Space", 
+      "url": "https://www.semanticscholar.org/paper/aa5900e684d89dedaba080acbd382aff50a1ecde", 
+      "venue": "NIPS", 
+      "year": 1992
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "9353d28b498c8b8932d216344ae96bcfd058405a", 
+      "title": "Measures of Distributional Similarity", 
+      "url": "https://www.semanticscholar.org/paper/9353d28b498c8b8932d216344ae96bcfd058405a", 
+      "venue": "ACL", 
+      "year": 1999
+    }, 
+    {
+      "isInfluential": true, 
+      "paperId": "277c68718ebdf79be1d79cb957ac468fa4519277", 
+      "title": "Error bounds for convolutional codes and an asymptotically optimum decoding algorithm", 
+      "url": "https://www.semanticscholar.org/paper/277c68718ebdf79be1d79cb957ac468fa4519277", 
+      "venue": "IEEE Trans. Information Theory", 
+      "year": 1967
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "0541d5338adc48276b3b8cd3a141d799e2d40150", 
+      "title": "MapReduce: Simplified Data Processing on Large Clusters", 
+      "url": "https://www.semanticscholar.org/paper/0541d5338adc48276b3b8cd3a141d799e2d40150", 
+      "venue": "OSDI", 
+      "year": 2004
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "c62d3689e7ee20611bb8073f4dcec9fe05b05c66", 
+      "title": "ASV Toolbox: a Modular Collection of Language Exploration Tools", 
+      "url": "https://www.semanticscholar.org/paper/c62d3689e7ee20611bb8073f4dcec9fe05b05c66", 
+      "venue": "LREC", 
+      "year": 2008
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "474f2533aab6f20c09d682767e35be06b806eba1", 
+      "title": "Co-clustering documents and words using bipartite spectral graph partitioning", 
+      "url": "https://www.semanticscholar.org/paper/474f2533aab6f20c09d682767e35be06b806eba1", 
+      "venue": "KDD", 
+      "year": 2001
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "3b739e887b9f85c4274bf0a6d007ef5613102eb8", 
+      "title": "Data-Intensive Text Processing with MapReduce", 
+      "url": "https://www.semanticscholar.org/paper/3b739e887b9f85c4274bf0a6d007ef5613102eb8", 
+      "venue": "Data-Intensive Text Processing with MapReduce", 
+      "year": 2009
+    }, 
+    {
+      "isInfluential": true, 
+      "paperId": "2a6626dadb6b624011c39270cc7678ac98e162a3", 
+      "title": "Semi-supervised condensed nearest neighbor for part-of-speech tagging", 
+      "url": "https://www.semanticscholar.org/paper/2a6626dadb6b624011c39270cc7678ac98e162a3", 
+      "venue": "ACL", 
+      "year": 2011
+    }, 
+    {
+      "isInfluential": true, 
+      "paperId": "ea8aef299ad7adb1cab2eb4a9279e177e6f9ed82", 
+      "title": "Ensemble Methods For Automatic Thesaurus Extraction", 
+      "url": "https://www.semanticscholar.org/paper/ea8aef299ad7adb1cab2eb4a9279e177e6f9ed82", 
+      "venue": "", 
+      "year": 2002
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "52fb0dc2d7f7bd56883404d147fb1492088c2424", 
+      "title": "Using Distributional Similarity for Lexical Expansion in Knowledge-based Word Sense Disambiguation", 
+      "url": "https://www.semanticscholar.org/paper/52fb0dc2d7f7bd56883404d147fb1492088c2424", 
+      "venue": "COLING", 
+      "year": 2012
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "32a437ecdc20cc76c01e37c08920317ea18fde50", 
+      "title": "Generating Typed Dependency Parses from Phrase Structure Parses", 
+      "url": "https://www.semanticscholar.org/paper/32a437ecdc20cc76c01e37c08920317ea18fde50", 
+      "venue": "", 
+      "year": 2006
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "00ab8d58aef326267a47d1d724f6ed9bf1f6561f", 
+      "title": "The Sketch Engine", 
+      "url": "https://www.semanticscholar.org/paper/00ab8d58aef326267a47d1d724f6ed9bf1f6561f", 
+      "venue": "", 
+      "year": 2004
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "32cbd065ac9405530ce0b1832a9a58c7444ba305", 
+      "title": "Part-of-Speech Tagging for Twitter: Annotation, Features, and Experiments", 
+      "url": "https://www.semanticscholar.org/paper/32cbd065ac9405530ce0b1832a9a58c7444ba305", 
+      "venue": "ACL", 
+      "year": 2011
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "abb11d7e4daed7d3d75e44a9c7191a50d30a3016", 
+      "title": "A Comparison of Co-occurrence and Similarity Measures as Simulations of Context", 
+      "url": "https://www.semanticscholar.org/paper/abb11d7e4daed7d3d75e44a9c7191a50d30a3016", 
+      "venue": "CICLing", 
+      "year": 2008
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "98f4a8d8407f3918f98ee2889347b11191cf411c", 
+      "title": "A Structured Vector Space Model for Word Meaning in Context", 
+      "url": "https://www.semanticscholar.org/paper/98f4a8d8407f3918f98ee2889347b11191cf411c", 
+      "venue": "EMNLP", 
+      "year": 2008
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "0c7f52c753a65ceaf3755e20b906ffd0c05c994a", 
+      "title": "Conditional Random Fields: Probabilistic Models for Segmenting and Labeling Sequence Data", 
+      "url": "https://www.semanticscholar.org/paper/0c7f52c753a65ceaf3755e20b906ffd0c05c994a", 
+      "venue": "ICML", 
+      "year": 2001
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "1145859ba17172d517cdffe2a5f00a16366c5765", 
+      "title": "Indexing by Latent Semantic Analysis", 
+      "url": "https://www.semanticscholar.org/paper/1145859ba17172d517cdffe2a5f00a16366c5765", 
+      "venue": "JASIS", 
+      "year": 1990
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "9238de967f7bd30d5fb5b2a9450e42023add7910", 
+      "title": "Calculating the Singular Values and Pseudo-inverse of a Matrix*", 
+      "url": "https://www.semanticscholar.org/paper/9238de967f7bd30d5fb5b2a9450e42023add7910", 
+      "venue": "", 
+      "year": 2013
+    }, 
+    {
+      "isInfluential": true, 
+      "paperId": "11157109b8f3a098c5c3f801ba9acbffd2aa49b1", 
+      "title": "Automatic Retrieval and Clustering of Similar Words", 
+      "url": "https://www.semanticscholar.org/paper/11157109b8f3a098c5c3f801ba9acbffd2aa49b1", 
+      "venue": "COLING-ACL", 
+      "year": 1998
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "0602a179593a238a5cc4ef6f8d6df5d37296e391", 
+      "title": "Syntactic Topic Models", 
+      "url": "https://www.semanticscholar.org/paper/0602a179593a238a5cc4ef6f8d6df5d37296e391", 
+      "venue": "NIPS", 
+      "year": 2008
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "24c5e9a1d7d5822bf2383a7a33b1e9c6c5db9025", 
+      "title": "Corpus-based Learning of Analogies and Semantic Relations", 
+      "url": "https://www.semanticscholar.org/paper/24c5e9a1d7d5822bf2383a7a33b1e9c6c5db9025", 
+      "venue": "Machine Learning", 
+      "year": 2005
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "20ad0ba7e187e6f335a08c59a4e53da4e4b027ec", 
+      "title": "Automatic Acquisition of Hyponyms from Large Text Corpora", 
+      "url": "https://www.semanticscholar.org/paper/20ad0ba7e187e6f335a08c59a4e53da4e4b027ec", 
+      "venue": "COLING", 
+      "year": 1992
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "bdd05c56ade7794b65024d79b7e72eac7b8ed544", 
+      "title": "Computing Semantic Compositionality in Distributional Semantics", 
+      "url": "https://www.semanticscholar.org/paper/bdd05c56ade7794b65024d79b7e72eac7b8ed544", 
+      "venue": "IWCS", 
+      "year": 2011
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "03bf8de9ee5a0e00942655e7a51f1142483fd82e", 
+      "title": "Vector-based Models of Semantic Composition", 
+      "url": "https://www.semanticscholar.org/paper/03bf8de9ee5a0e00942655e7a51f1142483fd82e", 
+      "venue": "ACL", 
+      "year": 2008
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "41a84f10cbfcf917a0e42b11f903e5a15c114b39", 
+      "title": "Sketch Algorithms for Estimating Point Queries in NLP", 
+      "url": "https://www.semanticscholar.org/paper/41a84f10cbfcf917a0e42b11f903e5a15c114b39", 
+      "venue": "EMNLP-CoNLL", 
+      "year": 2012
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "0b8703b9368cb6f22e6687a6aca498caf6193025", 
+      "title": "A Graph Model for Unsupervised Lexical Acquisition", 
+      "url": "https://www.semanticscholar.org/paper/0b8703b9368cb6f22e6687a6aca498caf6193025", 
+      "venue": "COLING", 
+      "year": 2002
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "7ef3ac14cdb484aaa2b039850093febd5cf73a21", 
+      "title": "Contextual correlates of synonymy", 
+      "url": "https://www.semanticscholar.org/paper/7ef3ac14cdb484aaa2b039850093febd5cf73a21", 
+      "venue": "Commun. ACM", 
+      "year": 1965
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "b886387123e049660e6878444ed18bfd47c0115f", 
+      "title": "The Statistics of Word Cooccurrences Word Pairs and Collocations", 
+      "url": "https://www.semanticscholar.org/paper/b886387123e049660e6878444ed18bfd47c0115f", 
+      "venue": "", 
+      "year": 2004
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "37efe2ef1b9d27cc598361a8013ec888a6f7c4d8", 
+      "title": "Nouns are Vectors, Adjectives are Matrices: Representing Adjective-Noun Constructions in Semantic Space", 
+      "url": "https://www.semanticscholar.org/paper/37efe2ef1b9d27cc598361a8013ec888a6f7c4d8", 
+      "venue": "EMNLP", 
+      "year": 2010
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "2f3f866dd8e4a187c033e55fc8d31b6be77afd2d", 
+      "title": "Identifying Synonyms among Distributionally Similar Words", 
+      "url": "https://www.semanticscholar.org/paper/2f3f866dd8e4a187c033e55fc8d31b6be77afd2d", 
+      "venue": "IJCAI", 
+      "year": 2003
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "2b3d6b1a6f3107b90e406838197c3930b853596d", 
+      "title": "Course in General Linguistics", 
+      "url": "https://www.semanticscholar.org/paper/2b3d6b1a6f3107b90e406838197c3930b853596d", 
+      "venue": "", 
+      "year": 2013
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "040a6d4542111c1b6161533aa0818c0b025505a0", 
+      "title": "Predication", 
+      "url": "https://www.semanticscholar.org/paper/040a6d4542111c1b6161533aa0818c0b025505a0", 
+      "venue": "Cognitive Science", 
+      "year": 2001
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "10988a30e80eb6daacacec39def79847dffe2ec9", 
+      "title": "Quantifying Semantics using Complex Network Analysis", 
+      "url": "https://www.semanticscholar.org/paper/10988a30e80eb6daacacec39def79847dffe2ec9", 
+      "venue": "COLING", 
+      "year": 2012
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "fde98e6b1e96ed7f40c9b40063203fff810a35e8", 
+      "title": "Supervised All-Words Lexical Substitution using Delexicalized Features", 
+      "url": "https://www.semanticscholar.org/paper/fde98e6b1e96ed7f40c9b40063203fff810a35e8", 
+      "venue": "HLT-NAACL", 
+      "year": 2013
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "6e0b2b32aa3eed696aa868386d485321a63ccebb", 
+      "title": "Word Association Norms, Mutual Information and Lexicography", 
+      "url": "https://www.semanticscholar.org/paper/6e0b2b32aa3eed696aa868386d485321a63ccebb", 
+      "venue": "ACL", 
+      "year": 1989
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "025464b73f805e76689a7a20a48a9e9c0f4ff3ef", 
+      "title": "Accurate Methods for the Statistics of Surprise and Coincidence", 
+      "url": "https://www.semanticscholar.org/paper/025464b73f805e76689a7a20a48a9e9c0f4ff3ef", 
+      "venue": "Computational Linguistics", 
+      "year": 1993
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "0b47b6ffe714303973f40851d975c042ff4fcde1", 
+      "title": "Distributional Clustering of English Words", 
+      "url": "https://www.semanticscholar.org/paper/0b47b6ffe714303973f40851d975c042ff4fcde1", 
+      "venue": "ACL", 
+      "year": 1993
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "6a4272d495e492f958bac34cf4cc3b4b5debb92f", 
+      "title": "Word Meaning in Context: A Simple and Effective Vector Model", 
+      "url": "https://www.semanticscholar.org/paper/6a4272d495e492f958bac34cf4cc3b4b5debb92f", 
+      "venue": "IJCNLP", 
+      "year": 2011
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "7441116c5b5a745708a9d7c5aa0ecf04e0c76c93", 
+      "title": "Dependency-Based Construction of Semantic Space Models", 
+      "url": "https://www.semanticscholar.org/paper/7441116c5b5a745708a9d7c5aa0ecf04e0c76c93", 
+      "venue": "Computational Linguistics", 
+      "year": 2007
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "fb8b0c56bad2d3952ad1a71ed479b1679e0963eb", 
+      "title": "Measures and applications of lexical distributional similarity", 
+      "url": "https://www.semanticscholar.org/paper/fb8b0c56bad2d3952ad1a71ed479b1679e0963eb", 
+      "venue": "", 
+      "year": 2003
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "3b8e7c8220d3883d54960d896a73045f3c70ac17", 
+      "title": "Discriminative Training Methods For Hidden Markov Models: Theory And Experiments With Perceptron Algorithms", 
+      "url": "https://www.semanticscholar.org/paper/3b8e7c8220d3883d54960d896a73045f3c70ac17", 
+      "venue": "", 
+      "year": 2002
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "8f810616c21538e07efcd9109f4011bde58327ea", 
+      "title": "Co-Occurrence Cluster Features for Lexical Substitutions in Context", 
+      "url": "https://www.semanticscholar.org/paper/8f810616c21538e07efcd9109f4011bde58327ea", 
+      "venue": "", 
+      "year": 2010
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "2ae6014a451801671d41b6171f86e657d8b1fbaf", 
+      "title": "WordNet: : Similarity - Measuring the Relatedness of Concepts", 
+      "url": "https://www.semanticscholar.org/paper/2ae6014a451801671d41b6171f86e657d8b1fbaf", 
+      "venue": "AAAI", 
+      "year": 2004
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "639b4cac06148e9f91736ba36ad4a1b97fcdfd6a", 
+      "title": "Scaling to Very Very Large Corpora for Natural Language Disambiguation", 
+      "url": "https://www.semanticscholar.org/paper/639b4cac06148e9f91736ba36ad4a1b97fcdfd6a", 
+      "venue": "ACL", 
+      "year": 2001
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "46c782301c10549e2e20d3a4e3a7934b9b45f8b2", 
+      "title": "Experiments on Linguistically-Based Term Associations", 
+      "url": "https://www.semanticscholar.org/paper/46c782301c10549e2e20d3a4e3a7934b9b45f8b2", 
+      "venue": "Inf. Process. Manage.", 
+      "year": 1991
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "343d2492caa5265467884d7c172c658a680b7d3d", 
+      "title": "Improvements in Part-of-speech Tagging with an Application to German", 
+      "url": "https://www.semanticscholar.org/paper/343d2492caa5265467884d7c172c658a680b7d3d", 
+      "venue": "", 
+      "year": 1995
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "40f616fe271de6908b87f04a4d39f75aba41c3bc", 
+      "title": "Word Sense Discovery Based on Sense Descriptor Dissimilarity", 
+      "url": "https://www.semanticscholar.org/paper/40f616fe271de6908b87f04a4d39f75aba41c3bc", 
+      "venue": "", 
+      "year": 2003
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "796d05ce87157661bc14c4af87066a338893a2a8", 
+      "title": "FreDist : Automatic construction of distributional thesauri for French", 
+      "url": "https://www.semanticscholar.org/paper/796d05ce87157661bc14c4af87066a338893a2a8", 
+      "venue": "", 
+      "year": 2011
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "397412aa673416d2589711f8844504f7f0f82c94", 
+      "title": "Exploiting the Leipzig Corpora Collection", 
+      "url": "https://www.semanticscholar.org/paper/397412aa673416d2589711f8844504f7f0f82c94", 
+      "venue": "", 
+      "year": 2006
+    }
+  ], 
+  "title": "Text: now in 2D! A framework for lexical expansion with contextual similarity", 
+  "url": "https://www.semanticscholar.org/paper/9ae3fd38afd17edadb6868fc5e4174aadddcbaf9", 
+  "venue": "J. Language Modelling", 
+  "year": 2013
+}

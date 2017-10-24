@@ -1,0 +1,929 @@
+{
+  "authors": [
+    {
+      "authorId": "2096895", 
+      "name": "Jeffrey Flanigan", 
+      "url": "https://www.semanticscholar.org/author/2096895"
+    }, 
+    {
+      "authorId": "22577977", 
+      "name": "Sam Thomson", 
+      "url": "https://www.semanticscholar.org/author/22577977"
+    }, 
+    {
+      "authorId": "1707929", 
+      "name": "Jaime G. Carbonell", 
+      "url": "https://www.semanticscholar.org/author/1707929"
+    }, 
+    {
+      "authorId": "1745899", 
+      "name": "Chris Dyer", 
+      "url": "https://www.semanticscholar.org/author/1745899"
+    }, 
+    {
+      "authorId": "1685669", 
+      "name": "Noah A. Smith", 
+      "url": "https://www.semanticscholar.org/author/1685669"
+    }
+  ], 
+  "citationVelocity": 38, 
+  "citations": [
+    {
+      "isInfluential": true, 
+      "paperId": "1cdab4d7c427b8a22273babe2518af37241e0ed5", 
+      "title": "Improving Event Detection with Abstract Meaning Representation", 
+      "url": "https://www.semanticscholar.org/paper/1cdab4d7c427b8a22273babe2518af37241e0ed5", 
+      "venue": "", 
+      "year": 2015
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "406fd41b360bb02c0aaabff54055193fb5d9d7f1", 
+      "title": "Deep Multitask Learning for Semantic Dependency Parsing", 
+      "url": "https://www.semanticscholar.org/paper/406fd41b360bb02c0aaabff54055193fb5d9d7f1", 
+      "venue": "ACL", 
+      "year": 2017
+    }, 
+    {
+      "isInfluential": true, 
+      "paperId": "59be5099779b6f133d0692a7d48f003ad2f5068c", 
+      "title": "Unsupervised AMR-Dependency Parse Alignment", 
+      "url": "https://www.semanticscholar.org/paper/59be5099779b6f133d0692a7d48f003ad2f5068c", 
+      "venue": "EACL", 
+      "year": 2017
+    }, 
+    {
+      "isInfluential": true, 
+      "paperId": "0b8e48c31bfefe6e65cf811a96d7dfeafe2195a0", 
+      "title": "Lexical Semantic Analysis in Natural Language Text", 
+      "url": "https://www.semanticscholar.org/paper/0b8e48c31bfefe6e65cf811a96d7dfeafe2195a0", 
+      "venue": "", 
+      "year": 2012
+    }, 
+    {
+      "isInfluential": true, 
+      "paperId": "3c6283c180a266bd63fc3ae4ef12f741f1241d23", 
+      "title": "Neural Semantic Parsing by Character-based Translation: Experiments with Abstract Meaning Representations", 
+      "url": "https://www.semanticscholar.org/paper/3c6283c180a266bd63fc3ae4ef12f741f1241d23", 
+      "venue": "ArXiv", 
+      "year": 2017
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "65d415f5c3c0f05deb0dc3d45bf5109bab2bd724", 
+      "title": "Parser for Abstract Meaning Representation using Learning to Search", 
+      "url": "https://www.semanticscholar.org/paper/65d415f5c3c0f05deb0dc3d45bf5109bab2bd724", 
+      "venue": "", 
+      "year": 2015
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "63ffc824c39e293c2ce6f000b35953c8bc2dee67", 
+      "title": "Lisbon: Evaluating TurboSemanticParser on Multiple Languages and Out-of-Domain Data", 
+      "url": "https://www.semanticscholar.org/paper/63ffc824c39e293c2ce6f000b35953c8bc2dee67", 
+      "venue": "SemEval@NAACL-HLT", 
+      "year": 2015
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "2161c8b180b8b80be278908dc7de81760ffbfa46", 
+      "title": "Learning Structured Natural Language Representations for Semantic Parsing", 
+      "url": "https://www.semanticscholar.org/paper/2161c8b180b8b80be278908dc7de81760ffbfa46", 
+      "venue": "ACL", 
+      "year": 2017
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "21a82bdf47fddf900e86fb4ab6a823290e171bd5", 
+      "title": "CMU at SemEval-2016 Task 8: Graph-based AMR Parsing with Infinite Ramp Loss", 
+      "url": "https://www.semanticscholar.org/paper/21a82bdf47fddf900e86fb4ab6a823290e171bd5", 
+      "venue": "SemEval@NAACL-HLT", 
+      "year": 2016
+    }, 
+    {
+      "isInfluential": true, 
+      "paperId": "a6edd80de2329c77febceecdc1ea874cb08254b4", 
+      "title": "Transition-Based Generation from Abstract Meaning Representations", 
+      "url": "https://www.semanticscholar.org/paper/a6edd80de2329c77febceecdc1ea874cb08254b4", 
+      "venue": "ArXiv", 
+      "year": 2017
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "117e2d82746f432f880155aaacec2796e29a8910", 
+      "title": "Thesis Proposal: Mapping Natural Language to and from the Abstract Meaning Representation", 
+      "url": "https://www.semanticscholar.org/paper/117e2d82746f432f880155aaacec2796e29a8910", 
+      "venue": "", 
+      "year": 2016
+    }, 
+    {
+      "isInfluential": true, 
+      "paperId": "603b76953d976da70ee7ea4749aa3337741f9630", 
+      "title": "Learning to Map Dependency Parses to Abstract Meaning Representations", 
+      "url": "https://www.semanticscholar.org/paper/603b76953d976da70ee7ea4749aa3337741f9630", 
+      "venue": "ACL", 
+      "year": 2015
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "2b8a4d97e2d54ec7f147f0c3dc8ad0eb0d40595b", 
+      "title": "Towards a Catalogue of Linguistic Graph Banks", 
+      "url": "https://www.semanticscholar.org/paper/2b8a4d97e2d54ec7f147f0c3dc8ad0eb0d40595b", 
+      "venue": "Computational Linguistics", 
+      "year": 2016
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "0e367d898c9701f09ec3205b39bb19aa677c751f", 
+      "title": "AMR-to-text generation as a Traveling Salesman Problem", 
+      "url": "https://www.semanticscholar.org/paper/0e367d898c9701f09ec3205b39bb19aa677c751f", 
+      "venue": "EMNLP", 
+      "year": 2016
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "50467d764ae1ff1db970c8c396c4a2cef6d1d128", 
+      "title": "Unsupervised Entity Linking with Abstract Meaning Representation", 
+      "url": "https://www.semanticscholar.org/paper/50467d764ae1ff1db970c8c396c4a2cef6d1d128", 
+      "venue": "HLT-NAACL", 
+      "year": 2015
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "3895da207a2188bb9ee44bb89e67e3041732762b", 
+      "title": "Conceptual Annotations Preserve Structure Across Translations: A French-English Case Study", 
+      "url": "https://www.semanticscholar.org/paper/3895da207a2188bb9ee44bb89e67e3041732762b", 
+      "venue": "", 
+      "year": 2015
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "edfafee79e4fc5c291792c5de48679d1c8ea4d52", 
+      "title": "CU-NLP at SemEval-2016 Task 8: AMR Parsing using LSTM-based Recurrent Neural Networks", 
+      "url": "https://www.semanticscholar.org/paper/edfafee79e4fc5c291792c5de48679d1c8ea4d52", 
+      "venue": "SemEval@NAACL-HLT", 
+      "year": 2016
+    }, 
+    {
+      "isInfluential": true, 
+      "paperId": "b9e0d839a2b04be6f32d8fb2f3a02822e48aaaad", 
+      "title": "A Transition-based Algorithm for AMR Parsing", 
+      "url": "https://www.semanticscholar.org/paper/b9e0d839a2b04be6f32d8fb2f3a02822e48aaaad", 
+      "venue": "HLT-NAACL", 
+      "year": 2015
+    }, 
+    {
+      "isInfluential": true, 
+      "paperId": "63023347e8c9215ef8dc346af24394450241472f", 
+      "title": "Robust Subgraph Generation Improves Abstract Meaning Representation Parsing", 
+      "url": "https://www.semanticscholar.org/paper/63023347e8c9215ef8dc346af24394450241472f", 
+      "venue": "ACL", 
+      "year": 2015
+    }, 
+    {
+      "isInfluential": true, 
+      "paperId": "779cbb350c11a5b24a8a17114cff0c26fe3747e6", 
+      "title": "Parsing English into Abstract Meaning Representation Using Syntax-Based Machine Translation", 
+      "url": "https://www.semanticscholar.org/paper/779cbb350c11a5b24a8a17114cff0c26fe3747e6", 
+      "venue": "EMNLP", 
+      "year": 2015
+    }, 
+    {
+      "isInfluential": true, 
+      "paperId": "6aca12359abca70eefce7f0c95b186b5332ab3f5", 
+      "title": "AMRICA: an AMR Inspector for Cross-language Alignments", 
+      "url": "https://www.semanticscholar.org/paper/6aca12359abca70eefce7f0c95b186b5332ab3f5", 
+      "venue": "HLT-NAACL", 
+      "year": 2015
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "000944768ec52e7cb5110ee5b10e88433768b791", 
+      "title": "Addressing a Question Answering Challenge by Combining Statistical Methods with Inductive Rule Learning and Reasoning", 
+      "url": "https://www.semanticscholar.org/paper/000944768ec52e7cb5110ee5b10e88433768b791", 
+      "venue": "AAAI", 
+      "year": 2016
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "29cf22d5f8876d861eac0f157945d8ee8139a296", 
+      "title": "Priberam: A Turbo Semantic Parser with Second Order Features", 
+      "url": "https://www.semanticscholar.org/paper/29cf22d5f8876d861eac0f157945d8ee8139a296", 
+      "venue": "SemEval@COLING", 
+      "year": 2014
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "4a20c069a98e13f4bb93f27a829a87a75925d0e5", 
+      "title": "SPICE: Semantic Propositional Image Caption Evaluation", 
+      "url": "https://www.semanticscholar.org/paper/4a20c069a98e13f4bb93f27a829a87a75925d0e5", 
+      "venue": "ECCV", 
+      "year": 2016
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "6c94762f0a3be75d664ca063841a9d9c709153d8", 
+      "title": "Aligning English Strings with Abstract Meaning Representation Graphs", 
+      "url": "https://www.semanticscholar.org/paper/6c94762f0a3be75d664ca063841a9d9c709153d8", 
+      "venue": "EMNLP", 
+      "year": 2014
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "5af9ab65d186e4e1e0b1cef1962ca15336f37931", 
+      "title": "A New Corpus and Imitation Learning Framework for Context-Dependent Semantic Parsing", 
+      "url": "https://www.semanticscholar.org/paper/5af9ab65d186e4e1e0b1cef1962ca15336f37931", 
+      "venue": "TACL", 
+      "year": 2014
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "2e107b544461cc10bcdaf39e506e35faf1af172b", 
+      "title": "Machine Comprehension using Rich Semantic Representations", 
+      "url": "https://www.semanticscholar.org/paper/2e107b544461cc10bcdaf39e506e35faf1af172b", 
+      "venue": "ACL", 
+      "year": 2016
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "3d01fa12d5d18ca671b81e36ec336881af462cc4", 
+      "title": "Toward Abstractive Summarization Using Semantic Representations", 
+      "url": "https://www.semanticscholar.org/paper/3d01fa12d5d18ca671b81e36ec336881af462cc4", 
+      "venue": "HLT-NAACL", 
+      "year": 2015
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "0d13180af2bbe4f58dcd5130fa67aca728a0f184", 
+      "title": "Cross-lingual Abstract Meaning Representation Parsing", 
+      "url": "https://www.semanticscholar.org/paper/0d13180af2bbe4f58dcd5130fa67aca728a0f184", 
+      "venue": "ArXiv", 
+      "year": 2017
+    }, 
+    {
+      "isInfluential": true, 
+      "paperId": "1b2cb533cd9fa9db044d19dee60895c43b50db16", 
+      "title": "Neural AMR: Sequence-to-Sequence Models for Parsing and Generation", 
+      "url": "https://www.semanticscholar.org/paper/1b2cb533cd9fa9db044d19dee60895c43b50db16", 
+      "venue": "ACL", 
+      "year": 2017
+    }, 
+    {
+      "isInfluential": true, 
+      "paperId": "06f136fb5a0eb4f43968facdae4dd364968707dd", 
+      "title": "Addressing the Data Sparsity Issue in Neural AMR Parsing", 
+      "url": "https://www.semanticscholar.org/paper/06f136fb5a0eb4f43968facdae4dd364968707dd", 
+      "venue": "EACL", 
+      "year": 2017
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "3ef1ba400712a657a8a0a4c6b76195e0853abebd", 
+      "title": "Semantic construction with graph grammars", 
+      "url": "https://www.semanticscholar.org/paper/3ef1ba400712a657a8a0a4c6b76195e0853abebd", 
+      "venue": "IWCS", 
+      "year": 2015
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "93495a52e1845bbe25205a45c9dd5fe2efc747e2", 
+      "title": "SemEval-2017 Task 9: Abstract Meaning Representation Parsing and Generation", 
+      "url": "https://www.semanticscholar.org/paper/93495a52e1845bbe25205a45c9dd5fe2efc747e2", 
+      "venue": "SemEval@ACL", 
+      "year": 2017
+    }, 
+    {
+      "isInfluential": true, 
+      "paperId": "7fd36c11aee785663ba82b0d9e3cde82b7c78072", 
+      "title": "Boosting Transition-based AMR Parsing with Refined Actions and Auxiliary Analyzers", 
+      "url": "https://www.semanticscholar.org/paper/7fd36c11aee785663ba82b0d9e3cde82b7c78072", 
+      "venue": "ACL", 
+      "year": 2015
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "40ddd9d91fa121158a0d349bd6c5ac6cf7624d35", 
+      "title": "Universal Semantic Parsing", 
+      "url": "https://www.semanticscholar.org/paper/40ddd9d91fa121158a0d349bd6c5ac6cf7624d35", 
+      "venue": "ArXiv", 
+      "year": 2017
+    }, 
+    {
+      "isInfluential": true, 
+      "paperId": "573e5fc0b579511b11b387fc0dd41368a4a611d1", 
+      "title": "Semantic Structure Analysis of Noun Phrases using Abstract Meaning Representation", 
+      "url": "https://www.semanticscholar.org/paper/573e5fc0b579511b11b387fc0dd41368a4a611d1", 
+      "venue": "ACL", 
+      "year": 2015
+    }, 
+    {
+      "isInfluential": true, 
+      "paperId": "65378ad66e7e69663baade2780d15d5d6a87bd71", 
+      "title": "Noise reduction and targeted exploration in imitation learning for Abstract Meaning Representation parsing", 
+      "url": "https://www.semanticscholar.org/paper/65378ad66e7e69663baade2780d15d5d6a87bd71", 
+      "venue": "ACL", 
+      "year": 2016
+    }, 
+    {
+      "isInfluential": true, 
+      "paperId": "11db74171df92a50d64bd88d569454415878c63a", 
+      "title": "Using Syntax-Based Machine Translation to Parse English into Abstract Meaning Representation", 
+      "url": "https://www.semanticscholar.org/paper/11db74171df92a50d64bd88d569454415878c63a", 
+      "venue": "ArXiv", 
+      "year": 2015
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "4658c87f099cf001ef53c47e5b88b758e4e2b050", 
+      "title": "AMR-to-text Generation with Synchronous Node Replacement Grammar", 
+      "url": "https://www.semanticscholar.org/paper/4658c87f099cf001ef53c47e5b88b758e4e2b050", 
+      "venue": "ACL", 
+      "year": 2017
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "b41e774fc2a41982a94d41d4f6c1c75658c2cefa", 
+      "title": "Abstractive News Summarization based on Event Semantic Link Network", 
+      "url": "https://www.semanticscholar.org/paper/b41e774fc2a41982a94d41d4f6c1c75658c2cefa", 
+      "venue": "COLING", 
+      "year": 2016
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "2ccaf6c72040651631feaf93f334ca58047aad24", 
+      "title": "ICL-HD at SemEval-2016 Task 8: Meaning Representation Parsing - Augmenting AMR Parsing with a Preposition Semantic Role Labeling Neural Network", 
+      "url": "https://www.semanticscholar.org/paper/2ccaf6c72040651631feaf93f334ca58047aad24", 
+      "venue": "SemEval@NAACL-HLT", 
+      "year": 2016
+    }, 
+    {
+      "isInfluential": true, 
+      "paperId": "1b851480af4ae7d0162d64edf3e46e3c1b7c3f61", 
+      "title": "A Synchronous Hyperedge Replacement Grammar based approach for AMR parsing", 
+      "url": "https://www.semanticscholar.org/paper/1b851480af4ae7d0162d64edf3e46e3c1b7c3f61", 
+      "venue": "CoNLL", 
+      "year": 2015
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "3431fd3fa081747ce2e0d31667d1105df602d21f", 
+      "title": "Supervised Syntax-based Alignment between English Sentences and Abstract Meaning Representation Graphs", 
+      "url": "https://www.semanticscholar.org/paper/3431fd3fa081747ce2e0d31667d1105df602d21f", 
+      "venue": "ArXiv", 
+      "year": 2016
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "6a9c0bf49d4af58b5c1194a739e3443105e05a9b", 
+      "title": "L2F/INESC-ID at SemEval-2017 Tasks 1 and 2: Lexical and semantic features in word and textual similarity", 
+      "url": "https://www.semanticscholar.org/paper/6a9c0bf49d4af58b5c1194a739e3443105e05a9b", 
+      "venue": "SemEval@ACL", 
+      "year": 2017
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "027ced58a1fb3600f438c856b9cc4e1ac24cb0a6", 
+      "title": "Getting More Out Of Syntax with PropS", 
+      "url": "https://www.semanticscholar.org/paper/027ced58a1fb3600f438c856b9cc4e1ac24cb0a6", 
+      "venue": "ArXiv", 
+      "year": 2016
+    }, 
+    {
+      "isInfluential": true, 
+      "paperId": "c7721386279bb2fee9bfb2698b97b7a32ec47e76", 
+      "title": "Accurate Deep Syntactic Parsing of Graphs: The Case of French", 
+      "url": "https://www.semanticscholar.org/paper/c7721386279bb2fee9bfb2698b97b7a32ec47e76", 
+      "venue": "LREC", 
+      "year": 2016
+    }, 
+    {
+      "isInfluential": true, 
+      "paperId": "028e4b329db3537075d7afdfe93f192fb9820c5a", 
+      "title": "An Incremental Parser for Abstract Meaning Representation", 
+      "url": "https://www.semanticscholar.org/paper/028e4b329db3537075d7afdfe93f192fb9820c5a", 
+      "venue": "EACL", 
+      "year": 2017
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "e5378d9725ec0ad0c77eecd6fbdaf29c7a24591a", 
+      "title": "UIT-DANGNT-CLNLP at SemEval-2017 Task 9: Building Scientific Concept Fixing Patterns for Improving CAMR", 
+      "url": "https://www.semanticscholar.org/paper/e5378d9725ec0ad0c77eecd6fbdaf29c7a24591a", 
+      "venue": "SemEval@ACL", 
+      "year": 2017
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "dcfc4cbb5cf1c05a4b17440941383262aac686f2", 
+      "title": "Domain Transfer for Deep Natural Language Generation from Abstract Meaning Representations", 
+      "url": "https://www.semanticscholar.org/paper/dcfc4cbb5cf1c05a4b17440941383262aac686f2", 
+      "venue": "IEEE Computational Intelligence Magazine", 
+      "year": 2017
+    }, 
+    {
+      "isInfluential": true, 
+      "paperId": "c80fc10ed74d7d36d49a7d2b93a4f0a52b6ef646", 
+      "title": "SemEval-2016 Task 8: Meaning Representation Parsing", 
+      "url": "https://www.semanticscholar.org/paper/c80fc10ed74d7d36d49a7d2b93a4f0a52b6ef646", 
+      "venue": "SemEval@NAACL-HLT", 
+      "year": 2016
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "21e8986e32ed2f1362c1433f7852186dd385513a", 
+      "title": "Annotating the Little Prince with Chinese AMRs", 
+      "url": "https://www.semanticscholar.org/paper/21e8986e32ed2f1362c1433f7852186dd385513a", 
+      "venue": "LAW@ACL", 
+      "year": 2016
+    }, 
+    {
+      "isInfluential": true, 
+      "paperId": "08fb7b77caf5c6d381afca7460e7aafaac184a79", 
+      "title": "Text Summarization using Abstract Meaning Representation", 
+      "url": "https://www.semanticscholar.org/paper/08fb7b77caf5c6d381afca7460e7aafaac184a79", 
+      "venue": "ArXiv", 
+      "year": 2017
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "a103cf359db606ba79c792a080e3c9f95056c8da", 
+      "title": "Because Syntax Does Matter: Improving Predicate-Argument Structures Parsing with Syntactic Features", 
+      "url": "https://www.semanticscholar.org/paper/a103cf359db606ba79c792a080e3c9f95056c8da", 
+      "venue": "HLT-NAACL", 
+      "year": 2015
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "9ebb12faa38a9c7e2a43da932abe907a92933000", 
+      "title": "Overview of TAC-KBP2014 Entity Discovery and Linking Tasks", 
+      "url": "https://www.semanticscholar.org/paper/9ebb12faa38a9c7e2a43da932abe907a92933000", 
+      "venue": "", 
+      "year": 2015
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "5dd9306a4dd9c2c1fc2fb28f88da6f0c01081dff", 
+      "title": "Deterministic natural language generation from meaning representations for machine translation", 
+      "url": "https://www.semanticscholar.org/paper/5dd9306a4dd9c2c1fc2fb28f88da6f0c01081dff", 
+      "venue": "", 
+      "year": 2016
+    }, 
+    {
+      "isInfluential": true, 
+      "paperId": "2606e6a5759c030e259ebf3f4261b9c04a36a609", 
+      "title": "Generating Semantically Precise Scene Graphs from Textual Descriptions for Improved Image Retrieval", 
+      "url": "https://www.semanticscholar.org/paper/2606e6a5759c030e259ebf3f4261b9c04a36a609", 
+      "venue": "", 
+      "year": 2015
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "9ca95a09c8bf2d7d28234ff37ece182836dd8632", 
+      "title": "UCL+Sheffield at SemEval-2016 Task 8: Imitation learning for AMR parsing with an alpha-bound", 
+      "url": "https://www.semanticscholar.org/paper/9ca95a09c8bf2d7d28234ff37ece182836dd8632", 
+      "venue": "SemEval@NAACL-HLT", 
+      "year": 2016
+    }, 
+    {
+      "isInfluential": true, 
+      "paperId": "9751e451b5bff6775f785887876517cb457d996c", 
+      "title": "RIGA at SemEval-2016 Task 8: Impact of Smatch Extensions and Character-Level Neural Translation on AMR Parsing Accuracy", 
+      "url": "https://www.semanticscholar.org/paper/9751e451b5bff6775f785887876517cb457d996c", 
+      "venue": "SemEval@NAACL-HLT", 
+      "year": 2016
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "4697052d5eb48b40700bdc25045fdd21ceb5a5a0", 
+      "title": "Transforming Dependency Structures to Logical Forms for Semantic Parsing", 
+      "url": "https://www.semanticscholar.org/paper/4697052d5eb48b40700bdc25045fdd21ceb5a5a0", 
+      "venue": "TACL", 
+      "year": 2016
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "f5fd5e0e5da36b1a1e7f1a66d4292ba22e53429b", 
+      "title": "Graph parsing with s-graph grammars", 
+      "url": "https://www.semanticscholar.org/paper/f5fd5e0e5da36b1a1e7f1a66d4292ba22e53429b", 
+      "venue": "ACL", 
+      "year": 2015
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "0729515f62042d1274c131360c33a121df71c856", 
+      "title": "Generation from Abstract Meaning Representation using Tree Transducers", 
+      "url": "https://www.semanticscholar.org/paper/0729515f62042d1274c131360c33a121df71c856", 
+      "venue": "HLT-NAACL", 
+      "year": 2016
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "feb1bb0b41d0492ef42f8985b315bb0dd878173a", 
+      "title": "Building a Fine-Grained Entity Typing System Overnight for a New X (X = Language, Domain, Genre)", 
+      "url": "https://www.semanticscholar.org/paper/feb1bb0b41d0492ef42f8985b315bb0dd878173a", 
+      "venue": "ArXiv", 
+      "year": 2016
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "231c2b18c377e9c3fa353b94735c47933ea544b6", 
+      "title": "Round trips with meaning stopovers", 
+      "url": "https://www.semanticscholar.org/paper/231c2b18c377e9c3fa353b94735c47933ea544b6", 
+      "venue": "", 
+      "year": 2015
+    }, 
+    {
+      "isInfluential": true, 
+      "paperId": "ac5af1749381b4ebd9dd354c235f0ec7764298d8", 
+      "title": "CAMR at SemEval-2016 Task 8: An Extended Transition-based AMR Parser", 
+      "url": "https://www.semanticscholar.org/paper/ac5af1749381b4ebd9dd354c235f0ec7764298d8", 
+      "venue": "SemEval@NAACL-HLT", 
+      "year": 2016
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "8f34d465a938410ab894e741f894ae13fe9d38ad", 
+      "title": "Towards Addressing the Winograd Schema Challenge - Building and Using a Semantic Parser and a Knowledge Hunting Module", 
+      "url": "https://www.semanticscholar.org/paper/8f34d465a938410ab894e741f894ae13fe9d38ad", 
+      "venue": "IJCAI", 
+      "year": 2015
+    }, 
+    {
+      "isInfluential": true, 
+      "paperId": "72fa7c095870dcbb0580d6ef1a9f4f9dcefd12d8", 
+      "title": "Abstract Meaning Representation Parsing using LSTM Recurrent Neural Networks", 
+      "url": "https://www.semanticscholar.org/paper/72fa7c095870dcbb0580d6ef1a9f4f9dcefd12d8", 
+      "venue": "ACL", 
+      "year": 2017
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "cb7bbb65dd470c6120b12bb5d9c7e63080be48e6", 
+      "title": "Extracting Biomolecular Interactions Using Semantic Parsing of Biomedical Text", 
+      "url": "https://www.semanticscholar.org/paper/cb7bbb65dd470c6120b12bb5d9c7e63080be48e6", 
+      "venue": "AAAI", 
+      "year": 2016
+    }, 
+    {
+      "isInfluential": true, 
+      "paperId": "5ee7f2e3eb6d93077350e229341254fd26617c5d", 
+      "title": "UofR at SemEval-2016 Task 8: Learning Synchronous Hyperedge Replacement Grammar for AMR Parsing", 
+      "url": "https://www.semanticscholar.org/paper/5ee7f2e3eb6d93077350e229341254fd26617c5d", 
+      "venue": "SemEval@NAACL-HLT", 
+      "year": 2016
+    }, 
+    {
+      "isInfluential": true, 
+      "paperId": "63e8d6f26707f78ddd56dc93cc25414527740bf0", 
+      "title": "Broad-coverage CCG Semantic Parsing with AMR", 
+      "url": "https://www.semanticscholar.org/paper/63e8d6f26707f78ddd56dc93cc25414527740bf0", 
+      "venue": "EMNLP", 
+      "year": 2015
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "2b2cbaa1ecfae7dcd0fae00fb68abdcf6d719106", 
+      "title": "An AMR parser for English, French, German, Spanish and Japanese and a new AMR-annotated corpus", 
+      "url": "https://www.semanticscholar.org/paper/2b2cbaa1ecfae7dcd0fae00fb68abdcf6d719106", 
+      "venue": "HLT-NAACL", 
+      "year": 2015
+    }, 
+    {
+      "isInfluential": true, 
+      "paperId": "f6bab2ae3bb22d6b91f76d819ac514eb638213e2", 
+      "title": "AMR Parsing with an Incremental Joint Model", 
+      "url": "https://www.semanticscholar.org/paper/f6bab2ae3bb22d6b91f76d819ac514eb638213e2", 
+      "venue": "EMNLP", 
+      "year": 2016
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "a177674ccb899b2c371bcc7c832cc01bccc84d89", 
+      "title": "Neural Shift-Reduce CCG Semantic Parsing", 
+      "url": "https://www.semanticscholar.org/paper/a177674ccb899b2c371bcc7c832cc01bccc84d89", 
+      "venue": "EMNLP", 
+      "year": 2016
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "25370a5cd20e08ad1013989ea33de4d64143d856", 
+      "title": "A Transition-Based Directed Acyclic Graph Parser for UCCA", 
+      "url": "https://www.semanticscholar.org/paper/25370a5cd20e08ad1013989ea33de4d64143d856", 
+      "venue": "ACL", 
+      "year": 2017
+    }, 
+    {
+      "isInfluential": true, 
+      "paperId": "8c6775a9bf82bde0cb97d698b212fa60d1028f33", 
+      "title": "AMR Parsing using Stack-LSTMs", 
+      "url": "https://www.semanticscholar.org/paper/8c6775a9bf82bde0cb97d698b212fa60d1028f33", 
+      "venue": "ArXiv", 
+      "year": 2017
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "88b22926a205a531bccf29ddc00bdc5febeec4eb", 
+      "title": "Oxford at SemEval-2017 Task 9: Neural AMR Parsing with Pointer-Augmented Attention", 
+      "url": "https://www.semanticscholar.org/paper/88b22926a205a531bccf29ddc00bdc5febeec4eb", 
+      "venue": "SemEval@ACL", 
+      "year": 2017
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "c27cff0fca6d12ef1d6390d4a27f34103c478472", 
+      "title": "M2L at SemEval-2016 Task 8: AMR Parsing with Neural Networks", 
+      "url": "https://www.semanticscholar.org/paper/c27cff0fca6d12ef1d6390d4a27f34103c478472", 
+      "venue": "SemEval@NAACL-HLT", 
+      "year": 2016
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "731213ebb8d9c678647a9253cfe1d683801b1f39", 
+      "title": "Semantics-Driven Statistical Machine Translation", 
+      "url": "https://www.semanticscholar.org/paper/731213ebb8d9c678647a9253cfe1d683801b1f39", 
+      "venue": "", 
+      "year": 2015
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "9a3b39ae5ed3fbcdb8befc28d5037bb8674e4d35", 
+      "title": "Solving Geometry Problems: Combining Text and Diagram Interpretation", 
+      "url": "https://www.semanticscholar.org/paper/9a3b39ae5ed3fbcdb8befc28d5037bb8674e4d35", 
+      "venue": "EMNLP", 
+      "year": 2015
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "0fbb91a2cf65642eff21a884f02f3e004aa519d8", 
+      "title": "CMU: Arc-Factored, Discriminative Semantic Dependency Parsing", 
+      "url": "https://www.semanticscholar.org/paper/0fbb91a2cf65642eff21a884f02f3e004aa519d8", 
+      "venue": "SemEval@COLING", 
+      "year": 2014
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "f139c88103d5795e057a32dbaaa78967560ef763", 
+      "title": "Identifying Various Kinds of Event Mentions in K-Parser Output", 
+      "url": "https://www.semanticscholar.org/paper/f139c88103d5795e057a32dbaaa78967560ef763", 
+      "venue": "", 
+      "year": 2015
+    }
+  ], 
+  "doi": null, 
+  "influentialCitationCount": 29, 
+  "paperId": "132d223bcce50334a83a789a13f2abbe7029e210", 
+  "references": [
+    {
+      "isInfluential": false, 
+      "paperId": "37ca75f5f6664fc9ed835a53b48258ec92eb73cd", 
+      "title": "Learning Dependency-Based Compositional Semantics", 
+      "url": "https://www.semanticscholar.org/paper/37ca75f5f6664fc9ed835a53b48258ec92eb73cd", 
+      "venue": "ACL", 
+      "year": 2011
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "1cd59678309fea8018e7ff8230359af24ce4a4ae", 
+      "title": "Inducing Probabilistic CCG Grammars from Logical Form with Higher-Order Unification", 
+      "url": "https://www.semanticscholar.org/paper/1cd59678309fea8018e7ff8230359af24ce4a4ae", 
+      "venue": "EMNLP", 
+      "year": 2010
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "04a8d271bc4384dbfbb417bfb625feb01cb44666", 
+      "title": "Automatic Labeling of Semantic Roles", 
+      "url": "https://www.semanticscholar.org/paper/04a8d271bc4384dbfbb417bfb625feb01cb44666", 
+      "venue": "Computational Linguistics", 
+      "year": 2000
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "e0d1429717d6be45b64b66de28fd918d8cbe0355", 
+      "title": "A Hybrid Markov/Semi-Markov Conditional Random Field for Sequence Segmentation", 
+      "url": "https://www.semanticscholar.org/paper/e0d1429717d6be45b64b66de28fd918d8cbe0355", 
+      "venue": "EMNLP", 
+      "year": 2006
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "3b8e7c8220d3883d54960d896a73045f3c70ac17", 
+      "title": "Discriminative Training Methods For Hidden Markov Models: Theory And Experiments With Perceptron Algorithms", 
+      "url": "https://www.semanticscholar.org/paper/3b8e7c8220d3883d54960d896a73045f3c70ac17", 
+      "venue": "", 
+      "year": 2002
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "c4a3af54ae1c2c390cbd59c4efb2399328bdbe9d", 
+      "title": "Smatch: an Evaluation Metric for Semantic Feature Structures", 
+      "url": "https://www.semanticscholar.org/paper/c4a3af54ae1c2c390cbd59c4efb2399328bdbe9d", 
+      "venue": "ACL", 
+      "year": 2013
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "7b9ec476f706db60ed07dc6886227e89e3c533df", 
+      "title": "An Exact Dual Decomposition Algorithm for Shallow Semantic Parsing with Constraints", 
+      "url": "https://www.semanticscholar.org/paper/7b9ec476f706db60ed07dc6886227e89e3c533df", 
+      "venue": "*SEM@NAACL-HLT", 
+      "year": 2012
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "9844e45cd6fa9d4dea0bac5d62ba88fafaac8062", 
+      "title": "The KANT Perspective: A Critique of Pure Transfer (and Pure Interlingua, Pure Statistics, ...)", 
+      "url": "https://www.semanticscholar.org/paper/9844e45cd6fa9d4dea0bac5d62ba88fafaac8062", 
+      "venue": "", 
+      "year": 2015
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "18b534c7207a1376fa92e87fe0d2cfb358d98c51", 
+      "title": "Accurate Unlexicalized Parsing", 
+      "url": "https://www.semanticscholar.org/paper/18b534c7207a1376fa92e87fe0d2cfb358d98c51", 
+      "venue": "ACL", 
+      "year": 2003
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "1969a39db6f322a8e3f204fdc8c781bec5cf26d6", 
+      "title": "Learning to Map Sentences to Logical Form: Structured Classification with Probabilistic Categorial Grammars", 
+      "url": "https://www.semanticscholar.org/paper/1969a39db6f322a8e3f204fdc8c781bec5cf26d6", 
+      "venue": "UAI", 
+      "year": 2005
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "27891ad3fbd8420c1a5a7459bf72b2e299487aab", 
+      "title": "Incremental Integer Linear Programming for Non-projective Dependency Parsing", 
+      "url": "https://www.semanticscholar.org/paper/27891ad3fbd8420c1a5a7459bf72b2e299487aab", 
+      "venue": "EMNLP", 
+      "year": 2006
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "c40cb6c1d9423e8f61925e496bda53beb3fa7117", 
+      "title": "A Thematic Hierarchy for Efficient Generation from Lexical-Conceptual Structure", 
+      "url": "https://www.semanticscholar.org/paper/c40cb6c1d9423e8f61925e496bda53beb3fa7117", 
+      "venue": "AMTA", 
+      "year": 1998
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "7bfbabdc800f70eb4efa60e64b91044aad23c4a8", 
+      "title": "Online Learning of Approximate Dependency Parsing Algorithms", 
+      "url": "https://www.semanticscholar.org/paper/7bfbabdc800f70eb4efa60e64b91044aad23c4a8", 
+      "venue": "EACL", 
+      "year": 2006
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "7bef4d04939a8553e4d424d98899153fe8786022", 
+      "title": "Abstract Meaning Representation for Sembanking", 
+      "url": "https://www.semanticscholar.org/paper/7bef4d04939a8553e4d424d98899153fe8786022", 
+      "venue": "LAW@ACL", 
+      "year": 2013
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "3571dcf348c7db7818c51561d9c8aab0149d8f8a", 
+      "title": "Non-Projective Dependency Parsing using Spanning Tree Algorithms", 
+      "url": "https://www.semanticscholar.org/paper/3571dcf348c7db7818c51561d9c8aab0149d8f8a", 
+      "venue": "HLT/EMNLP", 
+      "year": 2005
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "1c9df99cce1903d34c53025e86e72331bbfbe08f", 
+      "title": "Learning to Parse Database Queries Using Inductive Logic Programming", 
+      "url": "https://www.semanticscholar.org/paper/1c9df99cce1903d34c53025e86e72331bbfbe08f", 
+      "venue": "AAAI/IAAI, Vol. 2", 
+      "year": 1996
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "27496a2ee337db705e7c611dea1fd8e6f41437c2", 
+      "title": "Design Challenges and Misconceptions in Named Entity Recognition", 
+      "url": "https://www.semanticscholar.org/paper/27496a2ee337db705e7c611dea1fd8e6f41437c2", 
+      "venue": "CoNLL", 
+      "year": 2009
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "4e5915da87fe4906e961a02ad868cff1f03e424f", 
+      "title": "Semantics-Based Machine Translation with Hyperedge Replacement Grammars", 
+      "url": "https://www.semanticscholar.org/paper/4e5915da87fe4906e961a02ad868cff1f03e424f", 
+      "venue": "COLING", 
+      "year": 2012
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "1fa0d9f8aa84356a4808f4bb8a5285e9eda12b1f", 
+      "title": "Hyperedge Replacement, Graph Grammars", 
+      "url": "https://www.semanticscholar.org/paper/1fa0d9f8aa84356a4808f4bb8a5285e9eda12b1f", 
+      "venue": "Handbook of Graph Grammars", 
+      "year": 1997
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "32a437ecdc20cc76c01e37c08920317ea18fde50", 
+      "title": "Generating Typed Dependency Parses from Phrase Structure Parses", 
+      "url": "https://www.semanticscholar.org/paper/32a437ecdc20cc76c01e37c08920317ea18fde50", 
+      "venue": "", 
+      "year": 2006
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "674ec285ce3a2d0a28d5dbf555f9885764bb6b45", 
+      "title": "Online Learning of Relaxed CCG Grammars for Parsing to Logical Form", 
+      "url": "https://www.semanticscholar.org/paper/674ec285ce3a2d0a28d5dbf555f9885764bb6b45", 
+      "venue": "EMNLP-CoNLL", 
+      "year": 2007
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "92266ad5bf1aba1257053d805df40a599fe99205", 
+      "title": "Deterministic Statistical Mapping of Sentences to Underspecified Semantics", 
+      "url": "https://www.semanticscholar.org/paper/92266ad5bf1aba1257053d805df40a599fe99205", 
+      "venue": "IWCS", 
+      "year": 2011
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "2466d675f9a8b07cc8295bf075a4bab7e8b7c5b2", 
+      "title": "Turning on the Turbo: Fast Third-Order Non-Projective Turbo Parsers", 
+      "url": "https://www.semanticscholar.org/paper/2466d675f9a8b07cc8295bf075a4bab7e8b7c5b2", 
+      "venue": "ACL", 
+      "year": 2013
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "60df78bc14265d4b87ae5993d6b5781ccf7ec5d8", 
+      "title": "Concise Integer Linear Programming Formulations for Dependency Parsing", 
+      "url": "https://www.semanticscholar.org/paper/60df78bc14265d4b87ae5993d6b5781ccf7ec5d8", 
+      "venue": "ACL/IJCNLP", 
+      "year": 2009
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "05aba481e8a221df5d8775a3bb749001e7f2525e", 
+      "title": "Adaptive Subgradient Methods for Online Learning and Stochastic Optimization", 
+      "url": "https://www.semanticscholar.org/paper/05aba481e8a221df5d8775a3bb749001e7f2525e", 
+      "venue": "COLT", 
+      "year": 2010
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "60e43fc5350522ae2753246317c2166bf3a057fa", 
+      "title": "Parsing Graphs with Hyperedge Replacement Grammars", 
+      "url": "https://www.semanticscholar.org/paper/60e43fc5350522ae2753246317c2166bf3a057fa", 
+      "venue": "ACL", 
+      "year": 2013
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "5d0038216002037affbe86711220eeda3a4903d1", 
+      "title": "A Tutorial on Dual Decomposition and Lagrangian Relaxation for Inference in Natural Language Processing", 
+      "url": "https://www.semanticscholar.org/paper/5d0038216002037affbe86711220eeda3a4903d1", 
+      "venue": "J. Artif. Intell. Res.", 
+      "year": 2012
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "1454c2f35dd729083f7e3715d8e6c4a00e9f55bb", 
+      "title": "Dual Decomposition with Many Overlapping Components", 
+      "url": "https://www.semanticscholar.org/paper/1454c2f35dd729083f7e3715d8e6c4a00e9f55bb", 
+      "venue": "EMNLP", 
+      "year": 2011
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "8dd9fd6a45afd266d48255c398429e01ea4fd6db", 
+      "title": "Learning to Transform Natural to Formal Languages", 
+      "url": "https://www.semanticscholar.org/paper/8dd9fd6a45afd266d48255c398429e01ea4fd6db", 
+      "venue": "AAAI", 
+      "year": 2005
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "85701003162f5907f24a614ff6b21cfb731560c7", 
+      "title": "The Importance of Syntactic Parsing and Inference in Semantic Role Labeling", 
+      "url": "https://www.semanticscholar.org/paper/85701003162f5907f24a614ff6b21cfb731560c7", 
+      "venue": "Computational Linguistics", 
+      "year": 2008
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "1dc370fd0e1a37fb3db3cee4a35a2037577771b8", 
+      "title": "Frame-Semantic Parsing", 
+      "url": "https://www.semanticscholar.org/paper/1dc370fd0e1a37fb3db3cee4a35a2037577771b8", 
+      "venue": "Computational Linguistics", 
+      "year": 2014
+    }
+  ], 
+  "title": "A Discriminative Graph-Based Parser for the Abstract Meaning Representation", 
+  "url": "https://www.semanticscholar.org/paper/132d223bcce50334a83a789a13f2abbe7029e210", 
+  "venue": "ACL", 
+  "year": 2014
+}

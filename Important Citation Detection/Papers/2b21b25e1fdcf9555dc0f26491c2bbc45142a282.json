@@ -1,0 +1,409 @@
+{
+  "authors": [
+    {
+      "authorId": "2813927", 
+      "name": "Silvia Necsulescu", 
+      "url": "https://www.semanticscholar.org/author/2813927"
+    }, 
+    {
+      "authorId": "1934278", 
+      "name": "Sara Mendes", 
+      "url": "https://www.semanticscholar.org/author/1934278"
+    }, 
+    {
+      "authorId": "3046220", 
+      "name": "David Jurgens", 
+      "url": "https://www.semanticscholar.org/author/3046220"
+    }, 
+    {
+      "authorId": "1742458", 
+      "name": "N\u00faria Bel", 
+      "url": "https://www.semanticscholar.org/author/1742458"
+    }, 
+    {
+      "authorId": "1733928", 
+      "name": "Roberto Navigli", 
+      "url": "https://www.semanticscholar.org/author/1733928"
+    }
+  ], 
+  "citationVelocity": 0, 
+  "citations": [
+    {
+      "isInfluential": false, 
+      "paperId": "206b368218608bc1ea64f4028809809e1cd9fab3", 
+      "title": "Mapping Unseen Words to Task-Trained Embedding Spaces", 
+      "url": "https://www.semanticscholar.org/paper/206b368218608bc1ea64f4028809809e1cd9fab3", 
+      "venue": "ArXiv", 
+      "year": 2015
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "ef46f9faaf24965d0334fadb2251461048fa43b1", 
+      "title": "How Well Can We Predict Hypernyms from Word Embeddings? A Dataset-Centric Analysis", 
+      "url": "https://www.semanticscholar.org/paper/ef46f9faaf24965d0334fadb2251461048fa43b1", 
+      "venue": "EACL", 
+      "year": 2017
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "8a3db9f9308122a726673c1e588a084cde51e916", 
+      "title": "Towards producing bilingual lexica from monolingual corpora", 
+      "url": "https://www.semanticscholar.org/paper/8a3db9f9308122a726673c1e588a084cde51e916", 
+      "venue": "LREC", 
+      "year": 2016
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "8892a117606fbac35153738bfc4cc66fed2d8697", 
+      "title": "A Vector Space for Distributional Semantics for Entailment", 
+      "url": "https://www.semanticscholar.org/paper/8892a117606fbac35153738bfc4cc66fed2d8697", 
+      "venue": "ACL", 
+      "year": 2016
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "731031a349efc5fe6606270112f6b14698a6e906", 
+      "title": "CogALex-V Shared Task: LexNET - Integrated Path-based and Distributional Method for the Identification of Semantic Relations", 
+      "url": "https://www.semanticscholar.org/paper/731031a349efc5fe6606270112f6b14698a6e906", 
+      "venue": "ArXiv", 
+      "year": 2016
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "ac0fcfdd742d9e89b06b4442ac09148f10bd9553", 
+      "title": "Predicting the Evocation Relation between Lexicalized Concepts", 
+      "url": "https://www.semanticscholar.org/paper/ac0fcfdd742d9e89b06b4442ac09148f10bd9553", 
+      "venue": "COLING", 
+      "year": 2016
+    }, 
+    {
+      "isInfluential": true, 
+      "paperId": "42830b96a3ee6c875cf6c4ca9bbe32ed6ec27470", 
+      "title": "Path-based vs. Distributional Information in Recognizing Lexical Semantic Relations", 
+      "url": "https://www.semanticscholar.org/paper/42830b96a3ee6c875cf6c4ca9bbe32ed6ec27470", 
+      "venue": "", 
+      "year": 2016
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "0078d5081f6f1f00dff019bac7ffad4da1d512ff", 
+      "title": "The Roles of Path-based and Distributional Information in Recognizing Lexical Semantic Relations", 
+      "url": "https://www.semanticscholar.org/paper/0078d5081f6f1f00dff019bac7ffad4da1d512ff", 
+      "venue": "ArXiv", 
+      "year": 2016
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "d9293a4942798856d41e77fa7c392b0638a25851", 
+      "title": "Classifying Lexical-semantic Relationships by Exploiting Sense/Concept Representations", 
+      "url": "https://www.semanticscholar.org/paper/d9293a4942798856d41e77fa7c392b0638a25851", 
+      "venue": "", 
+      "year": 2017
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "3d8325b74e7cba84acbfe619cd1d7ed469f6eade", 
+      "title": "Take and Took, Gaggle and Goose, Book and Read: Evaluating the Utility of Vector Differences for Lexical Relation Learning", 
+      "url": "https://www.semanticscholar.org/paper/3d8325b74e7cba84acbfe619cd1d7ed469f6eade", 
+      "venue": "ACL", 
+      "year": 2016
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "c10752c9373c19581db0e0ba5c9ebe80489cb77b", 
+      "title": "KnowYourNyms? A Game of Semantic Relationships", 
+      "url": "https://www.semanticscholar.org/paper/c10752c9373c19581db0e0ba5c9ebe80489cb77b", 
+      "venue": "", 
+      "year": 2017
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "220f202bfc186a21231b25bc71ce976a3a881be3", 
+      "title": "Negative Sampling Improves Hypernymy Extraction Based on Projection Learning", 
+      "url": "https://www.semanticscholar.org/paper/220f202bfc186a21231b25bc71ce976a3a881be3", 
+      "venue": "EACL", 
+      "year": 2017
+    }
+  ], 
+  "doi": null, 
+  "influentialCitationCount": 1, 
+  "paperId": "2b21b25e1fdcf9555dc0f26491c2bbc45142a282", 
+  "references": [
+    {
+      "isInfluential": false, 
+      "paperId": "20ad0ba7e187e6f335a08c59a4e53da4e4b027ec", 
+      "title": "Automatic Acquisition of Hyponyms from Large Text Corpora", 
+      "url": "https://www.semanticscholar.org/paper/20ad0ba7e187e6f335a08c59a4e53da4e4b027ec", 
+      "venue": "COLING", 
+      "year": 1992
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "446489f50fe45bbe7af63ddc9ddab1c1e505be9c", 
+      "title": "Strategies for training large scale neural network language models", 
+      "url": "https://www.semanticscholar.org/paper/446489f50fe45bbe7af63ddc9ddab1c1e505be9c", 
+      "venue": "ASRU", 
+      "year": 2011
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "e58e0c28e1ea142b7ed6b0f88fc2b01b711abc3b", 
+      "title": "How we BLESSed distributional semantic evaluation", 
+      "url": "https://www.semanticscholar.org/paper/e58e0c28e1ea142b7ed6b0f88fc2b01b711abc3b", 
+      "venue": "", 
+      "year": 2011
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "2a2e6bc31198ff35d55f6d3753ea21e2c849655b", 
+      "title": "Finding Parts in Very Large Corpora", 
+      "url": "https://www.semanticscholar.org/paper/2a2e6bc31198ff35d55f6d3753ea21e2c849655b", 
+      "venue": "ACL", 
+      "year": 1999
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "8f8139b63a2fc0b3ae8413acaef47acd35a356e0", 
+      "title": "Distant supervision for relation extraction without labeled data", 
+      "url": "https://www.semanticscholar.org/paper/8f8139b63a2fc0b3ae8413acaef47acd35a356e0", 
+      "venue": "ACL/IJCNLP", 
+      "year": 2009
+    }, 
+    {
+      "isInfluential": true, 
+      "paperId": "2d02141fd8c263d9c9a05d704c2d3e38525a7167", 
+      "title": "Learning Syntactic Patterns for Automatic Hypernym Discovery", 
+      "url": "https://www.semanticscholar.org/paper/2d02141fd8c263d9c9a05d704c2d3e38525a7167", 
+      "venue": "NIPS", 
+      "year": 2004
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "d1fa8485ad749d51e7470d801bc1931706597601", 
+      "title": "Fast Training of Support Vector Machines using Sequential Minimal Optimization", 
+      "url": "https://www.semanticscholar.org/paper/d1fa8485ad749d51e7470d801bc1931706597601", 
+      "venue": "", 
+      "year": 2000
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "235317b7ce64b4b3aefe57c1304e8157a4832d2c", 
+      "title": "Don't count, predict! A systematic comparison of context-counting vs. context-predicting semantic vectors", 
+      "url": "https://www.semanticscholar.org/paper/235317b7ce64b4b3aefe57c1304e8157a4832d2c", 
+      "venue": "ACL", 
+      "year": 2014
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "0b8703b9368cb6f22e6687a6aca498caf6193025", 
+      "title": "A Graph Model for Unsupervised Lexical Acquisition", 
+      "url": "https://www.semanticscholar.org/paper/0b8703b9368cb6f22e6687a6aca498caf6193025", 
+      "venue": "COLING", 
+      "year": 2002
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "70aaf258cab562550197b92143a46e26f1e757f2", 
+      "title": "Similarity of Semantic Relations", 
+      "url": "https://www.semanticscholar.org/paper/70aaf258cab562550197b92143a46e26f1e757f2", 
+      "venue": "Computational Linguistics", 
+      "year": 2006
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "3dadcfaf9740958c99ff88d05ce13b217e7cfb76", 
+      "title": "Efficient Unsupervised Discovery of Word Categories Using Symmetric Patterns and High Frequency Words", 
+      "url": "https://www.semanticscholar.org/paper/3dadcfaf9740958c99ff88d05ce13b217e7cfb76", 
+      "venue": "ACL", 
+      "year": 2006
+    }, 
+    {
+      "isInfluential": true, 
+      "paperId": "0183b3e9d84c15c7048e6c2149ed86257ccdc6cb", 
+      "title": "Dependency-Based Word Embeddings", 
+      "url": "https://www.semanticscholar.org/paper/0183b3e9d84c15c7048e6c2149ed86257ccdc6cb", 
+      "venue": "ACL", 
+      "year": 2014
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "966f28e435e6a5315e3d7918d3cdf2269f7fa3c8", 
+      "title": "Automatic Discovery of Part-Whole Relations", 
+      "url": "https://www.semanticscholar.org/paper/966f28e435e6a5315e3d7918d3cdf2269f7fa3c8", 
+      "venue": "Computational Linguistics", 
+      "year": 2006
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "6d8c9fcce8177d6f8d122d653c7d32d7624d6714", 
+      "title": "The WEKA data mining software: an update", 
+      "url": "https://www.semanticscholar.org/paper/6d8c9fcce8177d6f8d122d653c7d32d7624d6714", 
+      "venue": "SIGKDD Explorations", 
+      "year": 2009
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "458f729741a0004912029c31b8e93815572c2853", 
+      "title": "Using Lexical and Relational Similarity to Classify Semantic Relations", 
+      "url": "https://www.semanticscholar.org/paper/458f729741a0004912029c31b8e93815572c2853", 
+      "venue": "EACL", 
+      "year": 2009
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "a2218c7c0044552047d706317210633cb293307b", 
+      "title": "Combining Heterogeneous Models for Measuring Relational Similarity", 
+      "url": "https://www.semanticscholar.org/paper/a2218c7c0044552047d706317210633cb293307b", 
+      "venue": "HLT-NAACL", 
+      "year": 2013
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "1a92b80f7389d83e9e66d7e61f9c8ae5196ed195", 
+      "title": "SemEval-2012 Task 2: Measuring Degrees of Relational Similarity", 
+      "url": "https://www.semanticscholar.org/paper/1a92b80f7389d83e9e66d7e61f9c8ae5196ed195", 
+      "venue": "SemEval@NAACL-HLT", 
+      "year": 2012
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "357e4b72243447302b1d6b265d6e85864f4c22b2", 
+      "title": "Expressing Implicit Semantic Relations without Supervision", 
+      "url": "https://www.semanticscholar.org/paper/357e4b72243447302b1d6b265d6e85864f4c22b2", 
+      "venue": "ACL", 
+      "year": 2006
+    }, 
+    {
+      "isInfluential": true, 
+      "paperId": "22eff4a1cd15d76b4e89ff3111713607a348816a", 
+      "title": "Linguistic Regularities in Sparse and Explicit Word Representations", 
+      "url": "https://www.semanticscholar.org/paper/22eff4a1cd15d76b4e89ff3111713607a348816a", 
+      "venue": "CoNLL", 
+      "year": 2014
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "d333fdfcc56483336f0428e48bc11cd26cac28d8", 
+      "title": "Learning Word-Class Lattices for Definition and Hypernym Extraction", 
+      "url": "https://www.semanticscholar.org/paper/d333fdfcc56483336f0428e48bc11cd26cac28d8", 
+      "venue": "ACL", 
+      "year": 2010
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "a9a5b40e179ed22e3d59b7823bffc9d3aaa65474", 
+      "title": "SemEval-2013 Task 9 : Extraction of Drug-Drug Interactions from Biomedical Texts (DDIExtraction 2013)", 
+      "url": "https://www.semanticscholar.org/paper/a9a5b40e179ed22e3d59b7823bffc9d3aaa65474", 
+      "venue": "SemEval@NAACL-HLT", 
+      "year": 2013
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "e62a13aabc28b33f8784d80325eb9eaa4b99b1f6", 
+      "title": "A Semi-Supervised Method to Learn and Construct Taxonomies Using the Web", 
+      "url": "https://www.semanticscholar.org/paper/e62a13aabc28b33f8784d80325eb9eaa4b99b1f6", 
+      "venue": "EMNLP", 
+      "year": 2010
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "2085a47587c385a6c310ebc96da780662d66d363", 
+      "title": "The Latent Relation Mapping Engine: Algorithm and Experiments", 
+      "url": "https://www.semanticscholar.org/paper/2085a47587c385a6c310ebc96da780662d66d363", 
+      "venue": "J. Artif. Intell. Res.", 
+      "year": 2008
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "28a4aeca6b6fdc55eb3fab9ffe1a9e08d8dc9dff", 
+      "title": "BagPack: A general framework to represent semantic relations", 
+      "url": "https://www.semanticscholar.org/paper/28a4aeca6b6fdc55eb3fab9ffe1a9e08d8dc9dff", 
+      "venue": "ArXiv", 
+      "year": 2009
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "110e531a0792a99f9842084f175e2222f762b32c", 
+      "title": "Using LSA and Noun Coordination Information to Improve the Precision and Recall of Automatic Hyponymy Extraction", 
+      "url": "https://www.semanticscholar.org/paper/110e531a0792a99f9842084f175e2222f762b32c", 
+      "venue": "", 
+      "year": 2003
+    }, 
+    {
+      "isInfluential": true, 
+      "paperId": "4afa6c2eb552ceef0e396fbfe449932492873034", 
+      "title": "Efficient Estimation of Word Representations in Vector Space", 
+      "url": "https://www.semanticscholar.org/paper/4afa6c2eb552ceef0e396fbfe449932492873034", 
+      "venue": "ArXiv", 
+      "year": 2013
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "2c146a4ec3578f951e895d6c2fe3386860433f0b", 
+      "title": "SemEval-2010 Task 8: Multi-Way Classification of Semantic Relations between Pairs of Nominals", 
+      "url": "https://www.semanticscholar.org/paper/2c146a4ec3578f951e895d6c2fe3386860433f0b", 
+      "venue": "SemEval@ACL", 
+      "year": 2009
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "25c731735a77a0a26589f5ae35d2c09a56edb0f6", 
+      "title": "WORDNET: A Lexical Database for English", 
+      "url": "https://www.semanticscholar.org/paper/25c731735a77a0a26589f5ae35d2c09a56edb0f6", 
+      "venue": "HLT", 
+      "year": 1992
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "3c210709e9c0d46841997b2a34ee44afa1c68908", 
+      "title": "Learning Semantic Hierarchies via Word Embeddings", 
+      "url": "https://www.semanticscholar.org/paper/3c210709e9c0d46841997b2a34ee44afa1c68908", 
+      "venue": "ACL", 
+      "year": 2014
+    }, 
+    {
+      "isInfluential": true, 
+      "paperId": "762b63d2eb86f8fd0de98a08561b77527ae8f165", 
+      "title": "Distributed Representations of Words and Phrases and their Compositionality", 
+      "url": "https://www.semanticscholar.org/paper/762b63d2eb86f8fd0de98a08561b77527ae8f165", 
+      "venue": "NIPS", 
+      "year": 2013
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "2f5102ec3f70d0dea98c957cc2cab4d15d83a2da", 
+      "title": "The Stanford CoreNLP Natural Language Processing Toolkit", 
+      "url": "https://www.semanticscholar.org/paper/2f5102ec3f70d0dea98c957cc2cab4d15d83a2da", 
+      "venue": "ACL", 
+      "year": 2014
+    }, 
+    {
+      "isInfluential": true, 
+      "paperId": "4b88329392a75287942d85f42012f47f356a2714", 
+      "title": "A Uniform Approach to Analogies, Synonyms, Antonyms, and Associations", 
+      "url": "https://www.semanticscholar.org/paper/4b88329392a75287942d85f42012f47f356a2714", 
+      "venue": "COLING", 
+      "year": 2008
+    }, 
+    {
+      "isInfluential": true, 
+      "paperId": "0826c98d1b1513aa2f45e6654bb5075a58b64649", 
+      "title": "Linguistic Regularities in Continuous Space Word Representations", 
+      "url": "https://www.semanticscholar.org/paper/0826c98d1b1513aa2f45e6654bb5075a58b64649", 
+      "venue": "HLT-NAACL", 
+      "year": 2013
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "249b7517a746b1389991e10fd618cad62e66c4df", 
+      "title": "Graph Based Similarity Measures for Synonym Extraction from Parsed Text", 
+      "url": "https://www.semanticscholar.org/paper/249b7517a746b1389991e10fd618cad62e66c4df", 
+      "venue": "TextGraphs@ACL", 
+      "year": 2012
+    }
+  ], 
+  "title": "Reading Between the Lines: Overcoming Data Sparsity for Accurate Classification of Lexical Relationships", 
+  "url": "https://www.semanticscholar.org/paper/2b21b25e1fdcf9555dc0f26491c2bbc45142a282", 
+  "venue": "*SEM@NAACL-HLT", 
+  "year": 2015
+}

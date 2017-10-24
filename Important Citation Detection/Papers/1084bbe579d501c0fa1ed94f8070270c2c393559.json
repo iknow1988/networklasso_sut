@@ -1,0 +1,996 @@
+{
+  "authors": [
+    {
+      "authorId": "22392571", 
+      "name": "Yan Liu", 
+      "url": "https://www.semanticscholar.org/author/22392571"
+    }, 
+    {
+      "authorId": "1739581", 
+      "name": "John Lafferty", 
+      "url": "https://www.semanticscholar.org/author/1739581"
+    }, 
+    {
+      "authorId": "1752601", 
+      "name": "Eric P. Xing", 
+      "url": "https://www.semanticscholar.org/author/1752601"
+    }, 
+    {
+      "authorId": "1765073", 
+      "name": "Vanathi Gopalakrishnan", 
+      "url": "https://www.semanticscholar.org/author/1765073"
+    }
+  ], 
+  "citationVelocity": 0, 
+  "citations": [
+    {
+      "isInfluential": false, 
+      "paperId": "f20fe36e4e31fa4d60996713fa73bc90c7ef3b88", 
+      "title": "Time Evolving Undirected Graphical Model for Protein-Protein Interaction Networks", 
+      "url": "https://www.semanticscholar.org/paper/f20fe36e4e31fa4d60996713fa73bc90c7ef3b88", 
+      "venue": "", 
+      "year": 2017
+    }
+  ], 
+  "doi": null, 
+  "influentialCitationCount": 0, 
+  "paperId": "1084bbe579d501c0fa1ed94f8070270c2c393559", 
+  "references": [
+    {
+      "isInfluential": false, 
+      "paperId": "8139d39324d4450df8ebe11098871c42bf021d88", 
+      "title": "De novo protein design: fully automated sequence selection.", 
+      "url": "https://www.semanticscholar.org/paper/8139d39324d4450df8ebe11098871c42bf021d88", 
+      "venue": "Science", 
+      "year": 1997
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "19afbc441907949a3a0275dbc9dc58b3dc7bcde4", 
+      "title": "2D Conditional Random Fields for Web information extraction", 
+      "url": "https://www.semanticscholar.org/paper/19afbc441907949a3a0275dbc9dc58b3dc7bcde4", 
+      "venue": "ICML", 
+      "year": 2005
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "aad910e3918ad97c145e91d0141933718846ed25", 
+      "title": "Redefining the goals of protein secondary structure prediction.", 
+      "url": "https://www.semanticscholar.org/paper/aad910e3918ad97c145e91d0141933718846ed25", 
+      "venue": "Journal of molecular biology", 
+      "year": 1994
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "df8aed9b3fcdea36eefece60c1a4ef6b63cb8bf9", 
+      "title": "Prediction of quaternary structure from primary structure", 
+      "url": "https://www.semanticscholar.org/paper/df8aed9b3fcdea36eefece60c1a4ef6b63cb8bf9", 
+      "venue": "Bioinformatics", 
+      "year": 2001
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "819a2bbd4467192dbbc9e833eb4ca6653ad791aa", 
+      "title": "Conditional Random Fields for Object Recognition", 
+      "url": "https://www.semanticscholar.org/paper/819a2bbd4467192dbbc9e833eb4ca6653ad791aa", 
+      "venue": "NIPS", 
+      "year": 2004
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "5cd62f3e6457cc71e221558fc95bd7c5ded38d93", 
+      "title": "Protein secondary structure: entropy, correlations and prediction.", 
+      "url": "https://www.semanticscholar.org/paper/5cd62f3e6457cc71e221558fc95bd7c5ded38d93", 
+      "venue": "Bioinformatics", 
+      "year": 2004
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "042a5c25b5dc77cc5e1053261c38e7fbe67ffd5a", 
+      "title": "Application of multiple sequence alignment profiles to improve protein secondary structure prediction.", 
+      "url": "https://www.semanticscholar.org/paper/042a5c25b5dc77cc5e1053261c38e7fbe67ffd5a", 
+      "venue": "Proteins", 
+      "year": 2000
+    }, 
+    {
+      "isInfluential": true, 
+      "paperId": "5ef2cf7b7aa6f7e44488d5db5409ef7f76b9ef9a", 
+      "title": "SCOP: a structural classification of proteins database for the investigation of sequences and structures.", 
+      "url": "https://www.semanticscholar.org/paper/5ef2cf7b7aa6f7e44488d5db5409ef7f76b9ef9a", 
+      "venue": "Journal of molecular biology", 
+      "year": 1995
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "644a99fc5e115997a94e773c95d67f7083d56a65", 
+      "title": "Decision tree-based formation of consensus protein secondary structure prediction", 
+      "url": "https://www.semanticscholar.org/paper/644a99fc5e115997a94e773c95d67f7083d56a65", 
+      "venue": "Bioinformatics", 
+      "year": 1999
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "03a3bbcc91a003423aa620776f3a70516d3e5585", 
+      "title": "Bayesian Segmentation of Protein Secondary Structure", 
+      "url": "https://www.semanticscholar.org/paper/03a3bbcc91a003423aa620776f3a70516d3e5585", 
+      "venue": "Journal of Computational Biology", 
+      "year": 2000
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "a0328b2c94b85fa0677c23e54e227ba44bbb58a5", 
+      "title": "Bayesian Learning in Undirected Graphical Models: Approximate MCMC Algorithms", 
+      "url": "https://www.semanticscholar.org/paper/a0328b2c94b85fa0677c23e54e227ba44bbb58a5", 
+      "venue": "UAI", 
+      "year": 2004
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "1ba31f4777ef75cd32104908945ce4afa01601dc", 
+      "title": "Comparison of probabilistic combination methods for protein secondary structure prediction", 
+      "url": "https://www.semanticscholar.org/paper/1ba31f4777ef75cd32104908945ce4afa01601dc", 
+      "venue": "Bioinformatics", 
+      "year": 2004
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "85ed8c9aecdb48faac0b05d425c37d380ffe33b4", 
+      "title": "High accuracy prediction of beta-turns and their types using propensities and multiple alignments.", 
+      "url": "https://www.semanticscholar.org/paper/85ed8c9aecdb48faac0b05d425c37d380ffe33b4", 
+      "venue": "Proteins", 
+      "year": 2005
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "3d83ee53251cfff0ea5592b5c24b84dd4ad2c159", 
+      "title": "New domain motif: the structure of pectate lyase C, a secreted plant virulence factor.", 
+      "url": "https://www.semanticscholar.org/paper/3d83ee53251cfff0ea5592b5c24b84dd4ad2c159", 
+      "venue": "Science", 
+      "year": 1993
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "2069f72ddf34fac3ca7574225dccbf46a1328578", 
+      "title": "A machine learning information retrieval approach to protein fold recognition", 
+      "url": "https://www.semanticscholar.org/paper/2069f72ddf34fac3ca7574225dccbf46a1328578", 
+      "venue": "Bioinformatics", 
+      "year": 2006
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "75d01d7479c4ef575381014559aaa4b4338f8a1c", 
+      "title": "Markov Networks for Detecting Overlapping Elements in Sequence Data", 
+      "url": "https://www.semanticscholar.org/paper/75d01d7479c4ef575381014559aaa4b4338f8a1c", 
+      "venue": "", 
+      "year": 2005
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "119bb251cff0292cbf6bed27acdcad424ed9f9d0", 
+      "title": "An Introduction to Variational Methods for Graphical Models", 
+      "url": "https://www.semanticscholar.org/paper/119bb251cff0292cbf6bed27acdcad424ed9f9d0", 
+      "venue": "Machine Learning", 
+      "year": 1999
+    }, 
+    {
+      "isInfluential": true, 
+      "paperId": "6c0f105bd664bd41ed8e0c4a9784a98b6953026a", 
+      "title": "Protein secondary structure prediction based on position-specific scoring matrices.", 
+      "url": "https://www.semanticscholar.org/paper/6c0f105bd664bd41ed8e0c4a9784a98b6953026a", 
+      "venue": "Journal of molecular biology", 
+      "year": 1999
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "023225d739460b96a32cecab31db777fe353dc64", 
+      "title": "Accelerated training of conditional random fields with stochastic gradient methods", 
+      "url": "https://www.semanticscholar.org/paper/023225d739460b96a32cecab31db777fe353dc64", 
+      "venue": "ICML", 
+      "year": 2006
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "85a9b36065e36f8e1ac7d086c22f572b167aa438", 
+      "title": "Improving the prediction of protein secondary structure in three and eight classes using recurrent neural networks and profiles.", 
+      "url": "https://www.semanticscholar.org/paper/85a9b36065e36f8e1ac7d086c22f572b167aa438", 
+      "venue": "Proteins", 
+      "year": 2002
+    }, 
+    {
+      "isInfluential": true, 
+      "paperId": "6873a4db9703c9bf38ddabf9abed17ac5b673b59", 
+      "title": "A Tutorial on Hidden Markov Models and Selected Applications in Speech Recognition", 
+      "url": "https://www.semanticscholar.org/paper/6873a4db9703c9bf38ddabf9abed17ac5b673b59", 
+      "venue": "", 
+      "year": 1989
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "0104063400e6d69294edc95fb14c7e8fac347f6a", 
+      "title": "Max-Margin Markov Networks", 
+      "url": "https://www.semanticscholar.org/paper/0104063400e6d69294edc95fb14c7e8fac347f6a", 
+      "venue": "NIPS", 
+      "year": 2003
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "190e733f9081d96fe8c72d7365c547170899e4b2", 
+      "title": "Protein structural topology: Automated analysis and diagrammatic representation.", 
+      "url": "https://www.semanticscholar.org/paper/190e733f9081d96fe8c72d7365c547170899e4b2", 
+      "venue": "Protein science : a publication of the Protein Society", 
+      "year": 1999
+    }, 
+    {
+      "isInfluential": true, 
+      "paperId": "b7b5bea7b4d40003a6887794652ea07196a97134", 
+      "title": "A New Learning Algorithm for Mean Field Boltzmann Machines", 
+      "url": "https://www.semanticscholar.org/paper/b7b5bea7b4d40003a6887794652ea07196a97134", 
+      "venue": "ICANN", 
+      "year": 2002
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "23c6c94534378c204c0ee21fdaebd23fd4691bcf", 
+      "title": "Support vector machine learning for interdependent and structured output spaces", 
+      "url": "https://www.semanticscholar.org/paper/23c6c94534378c204c0ee21fdaebd23fd4691bcf", 
+      "venue": "ICML", 
+      "year": 2004
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "4477a7902f86c6c1354eaa5d77cafc5ab50b94c7", 
+      "title": "Bayesian Conditional Random Fields", 
+      "url": "https://www.semanticscholar.org/paper/4477a7902f86c6c1354eaa5d77cafc5ab50b94c7", 
+      "venue": "AISTATS", 
+      "year": 2005
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "bf25ff5dc96655a4ff7ebac0553c0e748b0074d6", 
+      "title": "Coupled prediction of protein secondary and tertiary structure.", 
+      "url": "https://www.semanticscholar.org/paper/bf25ff5dc96655a4ff7ebac0553c0e748b0074d6", 
+      "venue": "Proceedings of the National Academy of Sciences of the United States of America", 
+      "year": 2003
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "3979cf5a013063e98ad0caf2e7110c2686cf1640", 
+      "title": "Basic local alignment search tool.", 
+      "url": "https://www.semanticscholar.org/paper/3979cf5a013063e98ad0caf2e7110c2686cf1640", 
+      "venue": "Journal of molecular biology", 
+      "year": 1990
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "af5365f6cb73ef11e79857d723ec83a76874407e", 
+      "title": "Hidden Markov models in computational biology. Applications to protein modeling.", 
+      "url": "https://www.semanticscholar.org/paper/af5365f6cb73ef11e79857d723ec83a76874407e", 
+      "venue": "Journal of molecular biology", 
+      "year": 1994
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "144a0f13ea5fedcc6f142b9845fc99e61fd99eb3", 
+      "title": "Multi-class protein fold recognition using support vector machines and neural networks", 
+      "url": "https://www.semanticscholar.org/paper/144a0f13ea5fedcc6f142b9845fc99e61fd99eb3", 
+      "venue": "Bioinformatics", 
+      "year": 2001
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "b1f0a78bcdaf644d1990a1fd41b93d3975ce97bc", 
+      "title": "Bias learning, knowledge sharing", 
+      "url": "https://www.semanticscholar.org/paper/b1f0a78bcdaf644d1990a1fd41b93d3975ce97bc", 
+      "venue": "IEEE Trans. Neural Networks", 
+      "year": 2000
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "0529133c67cd1326bf2ee67b7cb963b4d93bc584", 
+      "title": "Generalized Belief Propagation", 
+      "url": "https://www.semanticscholar.org/paper/0529133c67cd1326bf2ee67b7cb963b4d93bc584", 
+      "venue": "NIPS", 
+      "year": 2000
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "83a551727ee999886fe13b347780478123cd44f9", 
+      "title": "Conditional models for contextual human motion recognition", 
+      "url": "https://www.semanticscholar.org/paper/83a551727ee999886fe13b347780478123cd44f9", 
+      "venue": "Tenth IEEE International Conference on Computer Vision (ICCV'05) Volume 1", 
+      "year": 2005
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "f5653389328cdd9a7562cedf4a4f41b209038c6a", 
+      "title": "1 An Introduction to Conditional Random Fields for Relational Learning", 
+      "url": "https://www.semanticscholar.org/paper/f5653389328cdd9a7562cedf4a4f41b209038c6a", 
+      "venue": "", 
+      "year": 2006
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "8a91242723dfb77721b595003556d657e8572510", 
+      "title": "Classification of protein quaternary structure with support vector machine", 
+      "url": "https://www.semanticscholar.org/paper/8a91242723dfb77721b595003556d657e8572510", 
+      "venue": "Bioinformatics", 
+      "year": 2003
+    }, 
+    {
+      "isInfluential": true, 
+      "paperId": "c5158406d08d2782cec995d24588ce435051b1c0", 
+      "title": "Prediction of strand pairing in antiparallel and parallel beta-sheets using information theory.", 
+      "url": "https://www.semanticscholar.org/paper/c5158406d08d2782cec995d24588ce435051b1c0", 
+      "venue": "Proteins", 
+      "year": 2002
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "26309d2ab0a9fd6312063b171c0a46742ca6fc00", 
+      "title": "Dynamic conditional random fields: factorized probabilistic models for labeling and segmenting sequence data", 
+      "url": "https://www.semanticscholar.org/paper/26309d2ab0a9fd6312063b171c0a46742ca6fc00", 
+      "venue": "ICML", 
+      "year": 2004
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "0065f9c08115a12f69dc66e41df26f71003e786f", 
+      "title": "Cascaded multiple classifiers for secondary structure prediction.", 
+      "url": "https://www.semanticscholar.org/paper/0065f9c08115a12f69dc66e41df26f71003e786f", 
+      "venue": "Protein science : a publication of the Protein Society", 
+      "year": 2000
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "057158cd15c2716411bcf7c5a28ef403a1e23009", 
+      "title": "Learning structured prediction models: a large margin approach", 
+      "url": "https://www.semanticscholar.org/paper/057158cd15c2716411bcf7c5a28ef403a1e23009", 
+      "venue": "ICML", 
+      "year": 2005
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "cbca30d30435c57a7e2e73ee61c5200fae48b5f0", 
+      "title": "Protein Secondary-Structure Modeling with Probabilistic Networks", 
+      "url": "https://www.semanticscholar.org/paper/cbca30d30435c57a7e2e73ee61c5200fae48b5f0", 
+      "venue": "ISMB", 
+      "year": 1993
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "de70246f9b5fb75d12bfe56da8a149393bf13f50", 
+      "title": "Protein motifs. 3. The parallel beta helix and other coiled folds.", 
+      "url": "https://www.semanticscholar.org/paper/de70246f9b5fb75d12bfe56da8a149393bf13f50", 
+      "venue": "FASEB journal : official publication of the Federation of American Societies for Experimental Biology", 
+      "year": 1995
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "06088e91172728a03f62d9cd8352014356c10e47", 
+      "title": "Fitting a mixture model by expectation maximization to discover motifs in biopolymers", 
+      "url": "https://www.semanticscholar.org/paper/06088e91172728a03f62d9cd8352014356c10e47", 
+      "venue": "", 
+      "year": 1994
+    }, 
+    {
+      "isInfluential": true, 
+      "paperId": "19bea3cc0260337809a33dfb89695b508ecfedbd", 
+      "title": "The protein data bank", 
+      "url": "https://www.semanticscholar.org/paper/19bea3cc0260337809a33dfb89695b508ecfedbd", 
+      "venue": "Genetica", 
+      "year": 2000
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "9523039913a58531bfc7cbd3b0bc49a817090d30", 
+      "title": "Prediction of protein secondary structure by combining nearest-neighbor algorithms and multiple sequence alignments.", 
+      "url": "https://www.semanticscholar.org/paper/9523039913a58531bfc7cbd3b0bc49a817090d30", 
+      "venue": "Journal of molecular biology", 
+      "year": 1995
+    }, 
+    {
+      "isInfluential": true, 
+      "paperId": "a8946a1a1b666edb4fc1b1b4d69a59b2c80015c5", 
+      "title": "Evaluation and improvement of multiple sequence methods for protein secondary structure prediction.", 
+      "url": "https://www.semanticscholar.org/paper/a8946a1a1b666edb4fc1b1b4d69a59b2c80015c5", 
+      "venue": "Proteins", 
+      "year": 1999
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "025fea3994dc31d66a835155d90e063c206dcf7d", 
+      "title": "Approximate Inference and Protein-Folding", 
+      "url": "https://www.semanticscholar.org/paper/025fea3994dc31d66a835155d90e063c206dcf7d", 
+      "venue": "NIPS", 
+      "year": 2002
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "2fcda810f3f43cd1aaeea04782ae4234cb61a3f8", 
+      "title": "Dictionary of protein secondary structure: pattern recognition of hydrogen-bonded and geometrical features.", 
+      "url": "https://www.semanticscholar.org/paper/2fcda810f3f43cd1aaeea04782ae4234cb61a3f8", 
+      "venue": "Biopolymers", 
+      "year": 1983
+    }, 
+    {
+      "isInfluential": true, 
+      "paperId": "3c4df07fa711316479540d64e68fafcadc37115e", 
+      "title": "Biological Sequence Analysis: Probabilistic Models of Proteins and Nucleic Acids", 
+      "url": "https://www.semanticscholar.org/paper/3c4df07fa711316479540d64e68fafcadc37115e", 
+      "venue": "", 
+      "year": 1998
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "4129ca03b51daf549eadc71717002ebe35b67df7", 
+      "title": "Beta-helix core packing within the triple-stranded oligomerization domain of the P22 tailspike.", 
+      "url": "https://www.semanticscholar.org/paper/4129ca03b51daf549eadc71717002ebe35b67df7", 
+      "venue": "Protein science : a publication of the Protein Society", 
+      "year": 2000
+    }, 
+    {
+      "isInfluential": true, 
+      "paperId": "42594b9f50d5855b1a8c6d4e2b71ca66e04bcacd", 
+      "title": "Identification and application of the concepts important for accurate and reliable protein secondary structure prediction.", 
+      "url": "https://www.semanticscholar.org/paper/42594b9f50d5855b1a8c6d4e2b71ca66e04bcacd", 
+      "venue": "Protein science : a publication of the Protein Society", 
+      "year": 1996
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "434bc6e9b1aed420f16e279467a551b0df70f20f", 
+      "title": "A Generalized Mean Field Algorithm for Variational Inference in Exponential Families", 
+      "url": "https://www.semanticscholar.org/paper/434bc6e9b1aed420f16e279467a551b0df70f20f", 
+      "venue": "UAI", 
+      "year": 2003
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "97950a42a665e04d551e5534ef148cb39cf65407", 
+      "title": "Improved performance in protein secondary structure prediction by inhomogeneous score combination", 
+      "url": "https://www.semanticscholar.org/paper/97950a42a665e04d551e5534ef148cb39cf65407", 
+      "venue": "Bioinformatics", 
+      "year": 1999
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "54614ec1816d61fc3ca8404195cca2f85b343124", 
+      "title": "Trilogy: discovery of sequence-structure patterns across diverse proteins", 
+      "url": "https://www.semanticscholar.org/paper/54614ec1816d61fc3ca8404195cca2f85b343124", 
+      "venue": "RECOMB", 
+      "year": 2002
+    }, 
+    {
+      "isInfluential": true, 
+      "paperId": "0ae932529fd1e41f814fca7ff1b9d72ac29a8da5", 
+      "title": "Predicting the beta-helix fold from protein sequence data", 
+      "url": "https://www.semanticscholar.org/paper/0ae932529fd1e41f814fca7ff1b9d72ac29a8da5", 
+      "venue": "RECOMB", 
+      "year": 2001
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "1edb8be93eaf19ea4c1640a2a2dfcada9612c53e", 
+      "title": "A graphical model for protein secondary structure prediction", 
+      "url": "https://www.semanticscholar.org/paper/1edb8be93eaf19ea4c1640a2a2dfcada9612c53e", 
+      "venue": "ICML", 
+      "year": 2004
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "90bc31648343340cbbbfa57fc883224594a9da41", 
+      "title": "A modified definition of Sov, a segment-based measure for protein secondary structure prediction assessment.", 
+      "url": "https://www.semanticscholar.org/paper/90bc31648343340cbbbfa57fc883224594a9da41", 
+      "venue": "Proteins", 
+      "year": 1999
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "45da7dcb67f1f1570f35f882cbb683eb81cf5ffe", 
+      "title": "Semiparametric latent factor models", 
+      "url": "https://www.semanticscholar.org/paper/45da7dcb67f1f1570f35f882cbb683eb81cf5ffe", 
+      "venue": "AISTATS", 
+      "year": 2005
+    }, 
+    {
+      "isInfluential": true, 
+      "paperId": "f69cfb18be396344fe9fa806a0b93e1fcbc18872", 
+      "title": "Does common architecture reveal a viral lineage spanning all three domains of life?", 
+      "url": "https://www.semanticscholar.org/paper/f69cfb18be396344fe9fa806a0b93e1fcbc18872", 
+      "venue": "Molecular cell", 
+      "year": 2004
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "768f11392aec0b6a2414c79e7e9c13a019800c26", 
+      "title": "Assessment of progress over the CASP experiments.", 
+      "url": "https://www.semanticscholar.org/paper/768f11392aec0b6a2414c79e7e9c13a019800c26", 
+      "venue": "Proteins", 
+      "year": 2003
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "363b56f85e12389017ba8894056a1b309e46a5f7", 
+      "title": "Multiscale conditional random fields for image labeling", 
+      "url": "https://www.semanticscholar.org/paper/363b56f85e12389017ba8894056a1b309e46a5f7", 
+      "venue": "Proceedings of the 2004 IEEE Computer Society Conference on Computer Vision and Pattern Recognition, 2004. CVPR 2004.", 
+      "year": 2004
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "0af75728bec67f698a8c619645165de13780c2fa", 
+      "title": "Learning Multiple Tasks with Kernel Methods", 
+      "url": "https://www.semanticscholar.org/paper/0af75728bec67f698a8c619645165de13780c2fa", 
+      "venue": "Journal of Machine Learning Research", 
+      "year": 2005
+    }, 
+    {
+      "isInfluential": true, 
+      "paperId": "0c7f52c753a65ceaf3755e20b906ffd0c05c994a", 
+      "title": "Conditional Random Fields: Probabilistic Models for Segmenting and Labeling Sequence Data", 
+      "url": "https://www.semanticscholar.org/paper/0c7f52c753a65ceaf3755e20b906ffd0c05c994a", 
+      "venue": "ICML", 
+      "year": 2001
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "135687fa2e5573037748dcf44d1c3d6766809f57", 
+      "title": "Learning Gaussian processes from multiple tasks", 
+      "url": "https://www.semanticscholar.org/paper/135687fa2e5573037748dcf44d1c3d6766809f57", 
+      "venue": "ICML", 
+      "year": 2005
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "b358a62d650e3e90a1b4e86dc57ca3c19707916a", 
+      "title": "Prediction of interface residues in protein-protein complexes by a consensus neural network method: test against NMR data.", 
+      "url": "https://www.semanticscholar.org/paper/b358a62d650e3e90a1b4e86dc57ca3c19707916a", 
+      "venue": "Proteins", 
+      "year": 2005
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "446d6b48f79fce24cb12f293e3b161112be261a6", 
+      "title": "Empirical Bayes for Learning to Learn", 
+      "url": "https://www.semanticscholar.org/paper/446d6b48f79fce24cb12f293e3b161112be261a6", 
+      "venue": "ICML", 
+      "year": 2000
+    }, 
+    {
+      "isInfluential": true, 
+      "paperId": "22bc35974df6d1ff6a7b3e46494ae27d8580b985", 
+      "title": "Gaussian process classification for segmenting and annotating sequences", 
+      "url": "https://www.semanticscholar.org/paper/22bc35974df6d1ff6a7b3e46494ae27d8580b985", 
+      "venue": "ICML", 
+      "year": 2004
+    }, 
+    {
+      "isInfluential": true, 
+      "paperId": "24770585a6aa3dead91b5ad42bb151b1ae70b316", 
+      "title": "Maximum Entropy Markov Models for Information Extraction and Segmentation", 
+      "url": "https://www.semanticscholar.org/paper/24770585a6aa3dead91b5ad42bb151b1ae70b316", 
+      "venue": "ICML", 
+      "year": 2000
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "29c34a034f6f35915a141dac98cabf625bea2b3c", 
+      "title": "Contrastive Estimation: Training Log-Linear Models on Unlabeled Data", 
+      "url": "https://www.semanticscholar.org/paper/29c34a034f6f35915a141dac98cabf625bea2b3c", 
+      "venue": "ACL", 
+      "year": 2005
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "ae4c7c83701e9cab89c512d9e235aee7e3d7afad", 
+      "title": "Bayesian phylogenetic model selection using reversible jump Markov chain Monte Carlo.", 
+      "url": "https://www.semanticscholar.org/paper/ae4c7c83701e9cab89c512d9e235aee7e3d7afad", 
+      "venue": "Molecular biology and evolution", 
+      "year": 2004
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "0c42fa6c81f2ab567a0c2160724eb3219a7a99a4", 
+      "title": "The Pfam protein families database", 
+      "url": "https://www.semanticscholar.org/paper/0c42fa6c81f2ab567a0c2160724eb3219a7a99a4", 
+      "venue": "Nucleic Acids Research", 
+      "year": 2000
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "727e1e16ede6eaad241bad11c525da07b154c688", 
+      "title": "A Model of Inductive Bias Learning", 
+      "url": "https://www.semanticscholar.org/paper/727e1e16ede6eaad241bad11c525da07b154c688", 
+      "venue": "J. Artif. Intell. Res.", 
+      "year": 2000
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "3a34699b0a2fb1fd1a9d57b6a4a12e3783d50005", 
+      "title": "Predicting Location and Structure Of beta-Sheet Regions Using Stochastic Tree Grammars", 
+      "url": "https://www.semanticscholar.org/paper/3a34699b0a2fb1fd1a9d57b6a4a12e3783d50005", 
+      "venue": "ISMB", 
+      "year": 1994
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "0f4996a27479b2c60ad06f574aaed4d93e62a1f7", 
+      "title": "A triple beta-spiral in the adenovirus fibre shaft reveals a new structural motif for a fibrous protein.", 
+      "url": "https://www.semanticscholar.org/paper/0f4996a27479b2c60ad06f574aaed4d93e62a1f7", 
+      "venue": "Nature", 
+      "year": 1999
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "3b8e7c8220d3883d54960d896a73045f3c70ac17", 
+      "title": "Discriminative Training Methods For Hidden Markov Models: Theory And Experiments With Perceptron Algorithms", 
+      "url": "https://www.semanticscholar.org/paper/3b8e7c8220d3883d54960d896a73045f3c70ac17", 
+      "venue": "", 
+      "year": 2002
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "00bbbf3af78f80651e9f955209ee72711fa5d412", 
+      "title": "On Discriminative vs. Generative Classifiers: A comparison of logistic regression and naive Bayes", 
+      "url": "https://www.semanticscholar.org/paper/00bbbf3af78f80651e9f955209ee72711fa5d412", 
+      "venue": "NIPS", 
+      "year": 2001
+    }, 
+    {
+      "isInfluential": true, 
+      "paperId": "5f78a0b69d3f7df4800ba4e473faaf057b04ad1a", 
+      "title": "Discriminative Random Fields: A Discriminative Framework for Contextual Interaction in Classification", 
+      "url": "https://www.semanticscholar.org/paper/5f78a0b69d3f7df4800ba4e473faaf057b04ad1a", 
+      "venue": "ICCV", 
+      "year": 2003
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "572dd2d5d75227bb878430c9375b9be92cc7e6e9", 
+      "title": "Statistical learning theory", 
+      "url": "https://www.semanticscholar.org/paper/572dd2d5d75227bb878430c9375b9be92cc7e6e9", 
+      "venue": "", 
+      "year": 1998
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "f37ac5e687e2de5a9bf03750c0e55a982b9d184e", 
+      "title": "Reversible Jump MCMC Simulated Annealing for Neural Networks", 
+      "url": "https://www.semanticscholar.org/paper/f37ac5e687e2de5a9bf03750c0e55a982b9d184e", 
+      "venue": "UAI", 
+      "year": 2000
+    }, 
+    {
+      "isInfluential": true, 
+      "paperId": "fc8f0f1fa26be5393a141b242841f587d873a893", 
+      "title": "CLUSTAL W: improving the sensitivity of progressive multiple sequence alignment through sequence weighting, position-specific gap penalties and weight matrix choice.", 
+      "url": "https://www.semanticscholar.org/paper/fc8f0f1fa26be5393a141b242841f587d873a893", 
+      "venue": "Nucleic acids research", 
+      "year": 1994
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "f0ddbcb32e50514de5c89c8ceca58345c5a43948", 
+      "title": "Bayesian Classification With Gaussian Processes", 
+      "url": "https://www.semanticscholar.org/paper/f0ddbcb32e50514de5c89c8ceca58345c5a43948", 
+      "venue": "IEEE Trans. Pattern Anal. Mach. Intell.", 
+      "year": 1998
+    }, 
+    {
+      "isInfluential": true, 
+      "paperId": "0033a0c1a842acbf89e5fa9b3b6b84d7e3545c6d", 
+      "title": "Gapped BLAST and PSI-BLAST: a new generation of protein database search programs.", 
+      "url": "https://www.semanticscholar.org/paper/0033a0c1a842acbf89e5fa9b3b6b84d7e3545c6d", 
+      "venue": "Nucleic acids research", 
+      "year": 1997
+    }, 
+    {
+      "isInfluential": true, 
+      "paperId": "86b47dcfd5f1d9d7f08c88d82e6098080435c4d1", 
+      "title": "A revised set of potentials for beta-turn formation in proteins.", 
+      "url": "https://www.semanticscholar.org/paper/86b47dcfd5f1d9d7f08c88d82e6098080435c4d1", 
+      "venue": "Protein science : a publication of the Protein Society", 
+      "year": 1994
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "5df0326a3be36de17503200f75176f0c0e2f7932", 
+      "title": "Efficient Training of Conditional Random Fields", 
+      "url": "https://www.semanticscholar.org/paper/5df0326a3be36de17503200f75176f0c0e2f7932", 
+      "venue": "", 
+      "year": 2002
+    }, 
+    {
+      "isInfluential": true, 
+      "paperId": "75351b116c7dca0f0b9c9d86583cde91fa451a0a", 
+      "title": "CE-MC: a multiple protein structure alignment server", 
+      "url": "https://www.semanticscholar.org/paper/75351b116c7dca0f0b9c9d86583cde91fa451a0a", 
+      "venue": "Nucleic Acids Research", 
+      "year": 2004
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "557aea3df5407a0533916051873c6559cd6bb026", 
+      "title": "The dead-end elimination theorem and its use in protein side-chain positioning.", 
+      "url": "https://www.semanticscholar.org/paper/557aea3df5407a0533916051873c6559cd6bb026", 
+      "venue": "Nature", 
+      "year": 1992
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "2c4f1bbaa1eac7bc1e0b8a662ff295ce4963532d", 
+      "title": "Hidden Conditional Random Fields for Gesture Recognition", 
+      "url": "https://www.semanticscholar.org/paper/2c4f1bbaa1eac7bc1e0b8a662ff295ce4963532d", 
+      "venue": "2006 IEEE Computer Society Conference on Computer Vision and Pattern Recognition (CVPR'06)", 
+      "year": 2006
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "79a26e72cddadcf788e7dbcd4edc2758d8744f46", 
+      "title": "Prediction of multimolecular assemblies by multiple docking.", 
+      "url": "https://www.semanticscholar.org/paper/79a26e72cddadcf788e7dbcd4edc2758d8744f46", 
+      "venue": "Journal of molecular biology", 
+      "year": 2005
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "077b2215a7cb17e2191727287de415bd02027ed4", 
+      "title": "Review: protein secondary structure prediction continues to rise.", 
+      "url": "https://www.semanticscholar.org/paper/077b2215a7cb17e2191727287de415bd02027ed4", 
+      "venue": "Journal of structural biology", 
+      "year": 2001
+    }, 
+    {
+      "isInfluential": true, 
+      "paperId": "c440ea3bbb7fc8dcaa069ea550011ea65ac33fd4", 
+      "title": "Reversible jump Markov chain Monte Carlo computation and Bayesian model determination", 
+      "url": "https://www.semanticscholar.org/paper/c440ea3bbb7fc8dcaa069ea550011ea65ac33fd4", 
+      "venue": "", 
+      "year": 1995
+    }, 
+    {
+      "isInfluential": true, 
+      "paperId": "16f555ce0839358116264b406b5a3c9e85d67866", 
+      "title": "Protein secondary structure prediction based on an improved support vector machines approach.", 
+      "url": "https://www.semanticscholar.org/paper/16f555ce0839358116264b406b5a3c9e85d67866", 
+      "venue": "Protein engineering", 
+      "year": 2003
+    }, 
+    {
+      "isInfluential": true, 
+      "paperId": "307ca35f2f5adf75937d8efee79a2024e925431c", 
+      "title": "CATH--a hierarchic classification of protein domain structures.", 
+      "url": "https://www.semanticscholar.org/paper/307ca35f2f5adf75937d8efee79a2024e925431c", 
+      "venue": "Structure", 
+      "year": 1997
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "cc6c9b073127518347a4ecf3aef896895ec861c3", 
+      "title": "Predicting protein quaternary structure by pseudo amino acid composition.", 
+      "url": "https://www.semanticscholar.org/paper/cc6c9b073127518347a4ecf3aef896895ec861c3", 
+      "venue": "Proteins", 
+      "year": 2003
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "0a589f872b6fb9c452c2cbd6502915264c3f7a7e", 
+      "title": "Training conditional random fields via gradient tree boosting", 
+      "url": "https://www.semanticscholar.org/paper/0a589f872b6fb9c452c2cbd6502915264c3f7a7e", 
+      "venue": "ICML", 
+      "year": 2004
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "80bc11bd4ba5328ffb18328d4b6b17d33492d02c", 
+      "title": "HMMSTR: a hidden Markov model for local sequence-structure correlations in proteins.", 
+      "url": "https://www.semanticscholar.org/paper/80bc11bd4ba5328ffb18328d4b6b17d33492d02c", 
+      "venue": "Journal of molecular biology", 
+      "year": 2000
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "19908640236767427ebf0524dc3a4bb09d65145e", 
+      "title": "Loopy Belief Propagation for Approximate Inference: An Empirical Study", 
+      "url": "https://www.semanticscholar.org/paper/19908640236767427ebf0524dc3a4bb09d65145e", 
+      "venue": "UAI", 
+      "year": 1999
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "1c6b5c2678301c32e3fd6e3a8b6d38a3a2dfbd5f", 
+      "title": "The leucine-rich repeat: a versatile binding motif.", 
+      "url": "https://www.semanticscholar.org/paper/1c6b5c2678301c32e3fd6e3a8b6d38a3a2dfbd5f", 
+      "venue": "Trends in biochemical sciences", 
+      "year": 1994
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "a19944507019b3ffd6c23a8e369f413cc988fc51", 
+      "title": "A new approach to protein fold recognition.", 
+      "url": "https://www.semanticscholar.org/paper/a19944507019b3ffd6c23a8e369f413cc988fc51", 
+      "venue": "Nature", 
+      "year": 1992
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "0c1f6f5acb751554a0152406aed98c98931bcecd", 
+      "title": "Structured Prediction via the Extragradient Method", 
+      "url": "https://www.semanticscholar.org/paper/0c1f6f5acb751554a0152406aed98c98931bcecd", 
+      "venue": "NIPS", 
+      "year": 2005
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "3b5c2d9fed54f0c67e156c3f37e6174e5369f0fa", 
+      "title": "Segmentation Conditional Random Fields (SCRFs): A New Approach for Protein Fold Recognition", 
+      "url": "https://www.semanticscholar.org/paper/3b5c2d9fed54f0c67e156c3f37e6174e5369f0fa", 
+      "venue": "RECOMB", 
+      "year": 2005
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "33be1def7b3b4905e7220eee64e3dbf156579360", 
+      "title": "Integer linear programming inference for conditional random fields", 
+      "url": "https://www.semanticscholar.org/paper/33be1def7b3b4905e7220eee64e3dbf156579360", 
+      "venue": "ICML", 
+      "year": 2005
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "a229828542fb82fca845a01ac42ae124b908f241", 
+      "title": "Predicting the Triple Beta-Spiral Fold from Primary Sequence Data", 
+      "url": "https://www.semanticscholar.org/paper/a229828542fb82fca845a01ac42ae124b908f241", 
+      "venue": "", 
+      "year": 2004
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "01f26e75c80dd17349fcf88061b02da4585260d9", 
+      "title": "Survey of the geometric association of domain-domain interfaces.", 
+      "url": "https://www.semanticscholar.org/paper/01f26e75c80dd17349fcf88061b02da4585260d9", 
+      "venue": "Proteins", 
+      "year": 2005
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "592a23080c372b8d72dbd88ae33e96e251522bf4", 
+      "title": "Tutorial on variational approximation methods", 
+      "url": "https://www.semanticscholar.org/paper/592a23080c372b8d72dbd88ae33e96e251522bf4", 
+      "venue": "", 
+      "year": 2000
+    }, 
+    {
+      "isInfluential": true, 
+      "paperId": "6e5950cea430c2e12624083e2c33bd59b2042a3f", 
+      "title": "Prediction of protein secondary structure at better than 70% accuracy.", 
+      "url": "https://www.semanticscholar.org/paper/6e5950cea430c2e12624083e2c33bd59b2042a3f", 
+      "venue": "Journal of molecular biology", 
+      "year": 1993
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "47bd308b5ee2b5182bcff5a424f969976909b419", 
+      "title": "Chain graphs for learning", 
+      "url": "https://www.semanticscholar.org/paper/47bd308b5ee2b5182bcff5a424f969976909b419", 
+      "venue": "UAI", 
+      "year": 1995
+    }, 
+    {
+      "isInfluential": true, 
+      "paperId": "5b31e43f8b0490779d8013e0705ae4df8f0488c9", 
+      "title": "Shallow Parsing with Conditional Random Fields", 
+      "url": "https://www.semanticscholar.org/paper/5b31e43f8b0490779d8013e0705ae4df8f0488c9", 
+      "venue": "HLT-NAACL", 
+      "year": 2003
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "6bc471c32d7eb452e9cc0fa975d55ec2e2c51cd0", 
+      "title": "The Layout Consistent Random Field for Recognizing and Segmenting Partially Occluded Objects", 
+      "url": "https://www.semanticscholar.org/paper/6bc471c32d7eb452e9cc0fa975d55ec2e2c51cd0", 
+      "venue": "2006 IEEE Computer Society Conference on Computer Vision and Pattern Recognition (CVPR'06)", 
+      "year": 2006
+    }, 
+    {
+      "isInfluential": true, 
+      "paperId": "c3b8194158531eb2e49bc2b26baa255acc9abce6", 
+      "title": "Table Extraction Using Conditional Random Fields", 
+      "url": "https://www.semanticscholar.org/paper/c3b8194158531eb2e49bc2b26baa255acc9abce6", 
+      "venue": "", 
+      "year": 2003
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "0e785b4d666158c58fdd1885b8af4908b8e23eed", 
+      "title": "Kernel conditional random fields: representation and clique selection", 
+      "url": "https://www.semanticscholar.org/paper/0e785b4d666158c58fdd1885b8af4908b8e23eed", 
+      "venue": "ICML", 
+      "year": 2004
+    }, 
+    {
+      "isInfluential": true, 
+      "paperId": "066739494bb41644d5ddca1dcbfe66e19bf4181d", 
+      "title": "UniProt archive", 
+      "url": "https://www.semanticscholar.org/paper/066739494bb41644d5ddca1dcbfe66e19bf4181d", 
+      "venue": "Bioinformatics", 
+      "year": 2004
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "32821c2048ccc13f88bfc770a54a78950a29e981", 
+      "title": "A novel method for protein secondary structure prediction using dual-layer SVM and profiles.", 
+      "url": "https://www.semanticscholar.org/paper/32821c2048ccc13f88bfc770a54a78950a29e981", 
+      "venue": "Proteins", 
+      "year": 2004
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "1fdb65e2b5dcf9607795a0b823966e13da7e5ead", 
+      "title": "Hidden Markov models for detecting remote protein homologies", 
+      "url": "https://www.semanticscholar.org/paper/1fdb65e2b5dcf9607795a0b823966e13da7e5ead", 
+      "venue": "Bioinformatics", 
+      "year": 1998
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "04292450d593fc79c2303d3eb15d054a473e7176", 
+      "title": "Contextual Models for Object Detection Using Boosted Random Fields", 
+      "url": "https://www.semanticscholar.org/paper/04292450d593fc79c2303d3eb15d054a473e7176", 
+      "venue": "NIPS", 
+      "year": 2004
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "6e3d91086165693e41057b82b941f579d2586e4d", 
+      "title": "CONTRAlign: Discriminative Training for Protein Sequence Alignment", 
+      "url": "https://www.semanticscholar.org/paper/6e3d91086165693e41057b82b941f579d2586e4d", 
+      "venue": "RECOMB", 
+      "year": 2006
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "31e26d486543a5e07a270fad398a803764bd8813", 
+      "title": "CONTRAfold: RNA secondary structure prediction without physics-based models", 
+      "url": "https://www.semanticscholar.org/paper/31e26d486543a5e07a270fad398a803764bd8813", 
+      "venue": "ISMB", 
+      "year": 2006
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "135ace829b6ad2ec9db040d8e5fd137034e83665", 
+      "title": "Semi-Markov Conditional Random Fields for Information Extraction", 
+      "url": "https://www.semanticscholar.org/paper/135ace829b6ad2ec9db040d8e5fd137034e83665", 
+      "venue": "NIPS", 
+      "year": 2004
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "36b70f613cbd5667829e934ff5b61dc7a88c378f", 
+      "title": "A novel method of protein secondary structure prediction with high segment overlap measure: support vector machine approach.", 
+      "url": "https://www.semanticscholar.org/paper/36b70f613cbd5667829e934ff5b61dc7a88c378f", 
+      "venue": "Journal of molecular biology", 
+      "year": 2001
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "e6294b2bddfbbe985b276485fd6a71b16302de89", 
+      "title": "Rapid automatic detection and alignment of repeats in protein sequences.", 
+      "url": "https://www.semanticscholar.org/paper/e6294b2bddfbbe985b276485fd6a71b16302de89", 
+      "venue": "Proteins", 
+      "year": 2000
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "56dfa7b09295f6bd79d1b81bfacc156fa7171aa4", 
+      "title": "Kernel Logistic Regression and the Import Vector Machine", 
+      "url": "https://www.semanticscholar.org/paper/56dfa7b09295f6bd79d1b81bfacc156fa7171aa4", 
+      "venue": "NIPS", 
+      "year": 2001
+    }
+  ], 
+  "title": "Conditional Graphical Models for Protein Structure Prediction", 
+  "url": "https://www.semanticscholar.org/paper/1084bbe579d501c0fa1ed94f8070270c2c393559", 
+  "venue": "", 
+  "year": 2005
+}

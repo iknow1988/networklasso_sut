@@ -1,0 +1,658 @@
+{
+  "authors": [
+    {
+      "authorId": "1743129", 
+      "name": "Jie Zhou", 
+      "url": "https://www.semanticscholar.org/author/1743129"
+    }, 
+    {
+      "authorId": "1723992", 
+      "name": "Wei Xu", 
+      "url": "https://www.semanticscholar.org/author/1723992"
+    }
+  ], 
+  "citationVelocity": 0, 
+  "citations": [
+    {
+      "isInfluential": false, 
+      "paperId": "e8f7e63ef52e6c19a0933cf7d920fcc2ad60eab7", 
+      "title": "Learning for Biomedical Information Extraction: Methodological Review of Recent Advances", 
+      "url": "https://www.semanticscholar.org/paper/e8f7e63ef52e6c19a0933cf7d920fcc2ad60eab7", 
+      "venue": "ArXiv", 
+      "year": 2016
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "0891ed6ed64fb461bc03557b28c686f87d880c9a", 
+      "title": "Neural Architectures for Named Entity Recognition", 
+      "url": "https://www.semanticscholar.org/paper/0891ed6ed64fb461bc03557b28c686f87d880c9a", 
+      "venue": "HLT-NAACL", 
+      "year": 2016
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "aafff859cad24a7bfa37aa5f9cf83b660c3508b0", 
+      "title": "A Unified Architecture for Semantic Role Labeling and Relation Classification", 
+      "url": "https://www.semanticscholar.org/paper/aafff859cad24a7bfa37aa5f9cf83b660c3508b0", 
+      "venue": "COLING", 
+      "year": 2016
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "999e79111daaabaceb9e474624571398608b82c4", 
+      "title": "Neural Network-Based Model for Japanese Predicate Argument Structure Analysis", 
+      "url": "https://www.semanticscholar.org/paper/999e79111daaabaceb9e474624571398608b82c4", 
+      "venue": "ACL", 
+      "year": 2016
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "3fc79dfbc36c9b64ee82dc897d6cf5442d652c5c", 
+      "title": "End-to-End Learning for Structured Prediction Energy Networks", 
+      "url": "https://www.semanticscholar.org/paper/3fc79dfbc36c9b64ee82dc897d6cf5442d652c5c", 
+      "venue": "ICML", 
+      "year": 2017
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "ec4baf1d2855120ad3884e7897c72ecd5d374a7c", 
+      "title": "YZU-NLP Team at SemEval-2016 Task 4: Ordinal Sentiment Classification Using a Recurrent Convolutional Network", 
+      "url": "https://www.semanticscholar.org/paper/ec4baf1d2855120ad3884e7897c72ecd5d374a7c", 
+      "venue": "SemEval@NAACL-HLT", 
+      "year": 2016
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "2e62e24319c1c0d6a61a81a17cc6f2e4d057115c", 
+      "title": "Situation Recognition with Graph Neural Networks", 
+      "url": "https://www.semanticscholar.org/paper/2e62e24319c1c0d6a61a81a17cc6f2e4d057115c", 
+      "venue": "", 
+      "year": 2017
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "2aaea2e1447e98f96b8f13f096db09a6d7927637", 
+      "title": "Introducing Explorer of Taxon Concepts with a case study on spider measurement matrix building", 
+      "url": "https://www.semanticscholar.org/paper/2aaea2e1447e98f96b8f13f096db09a6d7927637", 
+      "venue": "BMC Bioinformatics", 
+      "year": 2016
+    }, 
+    {
+      "isInfluential": true, 
+      "paperId": "18fa452beeb2826f989f053758d007d1e3a78012", 
+      "title": "Exploiting Mutual Benefits between Syntax and Semantic Roles using Neural Network", 
+      "url": "https://www.semanticscholar.org/paper/18fa452beeb2826f989f053758d007d1e3a78012", 
+      "venue": "EMNLP", 
+      "year": 2016
+    }, 
+    {
+      "isInfluential": true, 
+      "paperId": "1fc7ad620a1d638b07e0d51b0b568833bfeea925", 
+      "title": "A Simple and Accurate Syntax-Agnostic Neural Model for Dependency-based Semantic Role Labeling", 
+      "url": "https://www.semanticscholar.org/paper/1fc7ad620a1d638b07e0d51b0b568833bfeea925", 
+      "venue": "CoNLL", 
+      "year": 2017
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "f14a86307b62232aa2cf68177c24bd71d010615f", 
+      "title": "Analyzing Linguistic Knowledge in Sequential Model of Sentence", 
+      "url": "https://www.semanticscholar.org/paper/f14a86307b62232aa2cf68177c24bd71d010615f", 
+      "venue": "EMNLP", 
+      "year": 2016
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "7bc98a44fa7238db2471f4f73253bb21382f28e9", 
+      "title": "Leveraging Knowledge Bases in LSTMs for Improving Machine Reading", 
+      "url": "https://www.semanticscholar.org/paper/7bc98a44fa7238db2471f4f73253bb21382f28e9", 
+      "venue": "ACL", 
+      "year": 2017
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "5ad5c56391bcf29aa797e736d62f077bc66baad1", 
+      "title": "Frame-Semantic Parsing with Softmax-Margin Segmental RNNs and a Syntactic Scaffold", 
+      "url": "https://www.semanticscholar.org/paper/5ad5c56391bcf29aa797e736d62f077bc66baad1", 
+      "venue": "ArXiv", 
+      "year": 2017
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "72fa7c095870dcbb0580d6ef1a9f4f9dcefd12d8", 
+      "title": "Abstract Meaning Representation Parsing using LSTM Recurrent Neural Networks", 
+      "url": "https://www.semanticscholar.org/paper/72fa7c095870dcbb0580d6ef1a9f4f9dcefd12d8", 
+      "venue": "ACL", 
+      "year": 2017
+    }, 
+    {
+      "isInfluential": true, 
+      "paperId": "64749a0087485f9106b3e9a4337d2b19436f9178", 
+      "title": "Neural Modeling of Multi-Predicate Interactions for Japanese Predicate Argument Structure Analysis", 
+      "url": "https://www.semanticscholar.org/paper/64749a0087485f9106b3e9a4337d2b19436f9178", 
+      "venue": "ACL", 
+      "year": 2017
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "6745710034803993433dd42001a860d70c99f75c", 
+      "title": "Deep Recurrent Models with Fast-Forward Connections for Neural Machine Translation", 
+      "url": "https://www.semanticscholar.org/paper/6745710034803993433dd42001a860d70c99f75c", 
+      "venue": "TACL", 
+      "year": 2016
+    }, 
+    {
+      "isInfluential": true, 
+      "paperId": "0a12ccca04f6f418ab48f3aa1b4791f5ada7405f", 
+      "title": "Encoding Sentences with Graph Convolutional Networks for Semantic Role Labeling", 
+      "url": "https://www.semanticscholar.org/paper/0a12ccca04f6f418ab48f3aa1b4791f5ada7405f", 
+      "venue": "ArXiv", 
+      "year": 2017
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "21bb36c7d4f7e5ce15f83a1caf2a9637393b03be", 
+      "title": "Right-truncatable Neural Word Embeddings", 
+      "url": "https://www.semanticscholar.org/paper/21bb36c7d4f7e5ce15f83a1caf2a9637393b03be", 
+      "venue": "HLT-NAACL", 
+      "year": 2016
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "ea283a7e935d0a4a313b07db2dfb25780b5b3b79", 
+      "title": "Experiment on automatic functional requirements analysis with the EFRF's semantic cases", 
+      "url": "https://www.semanticscholar.org/paper/ea283a7e935d0a4a313b07db2dfb25780b5b3b79", 
+      "venue": "2016 International Conference on Progress in Informatics and Computing (PIC)", 
+      "year": 2016
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "48cc672ad0f18b919e0c95ccbed340a0d71bddbd", 
+      "title": "Semantic Role Labeling with Neural Network Factors", 
+      "url": "https://www.semanticscholar.org/paper/48cc672ad0f18b919e0c95ccbed340a0d71bddbd", 
+      "venue": "EMNLP", 
+      "year": 2015
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "ca556b7c086d0ffc0a3d79922d5ddcbbe2939904", 
+      "title": "Chinese Semantic Role Labeling with Bidirectional Recurrent Neural Networks", 
+      "url": "https://www.semanticscholar.org/paper/ca556b7c086d0ffc0a3d79922d5ddcbbe2939904", 
+      "venue": "EMNLP", 
+      "year": 2015
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "1d00075feb9f2fecc1d035897b98eb2f45461b2e", 
+      "title": "Semantic Parsing with Semi-Supervised Sequential Autoencoders", 
+      "url": "https://www.semanticscholar.org/paper/1d00075feb9f2fecc1d035897b98eb2f45461b2e", 
+      "venue": "EMNLP", 
+      "year": 2016
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "90086a2c847c2e2bc50354404adb8f0cd84712ca", 
+      "title": "Spatial role labeling with convolutional neural networks", 
+      "url": "https://www.semanticscholar.org/paper/90086a2c847c2e2bc50354404adb8f0cd84712ca", 
+      "venue": "GIR", 
+      "year": 2015
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "0a73a15bf53da196363058196961cd21bc262e8f", 
+      "title": "context2vec: Learning Generic Context Embedding with Bidirectional LSTM", 
+      "url": "https://www.semanticscholar.org/paper/0a73a15bf53da196363058196961cd21bc262e8f", 
+      "venue": "CoNLL", 
+      "year": 2016
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "c9d36e6f06aacc1307bbfe0f5737f0c502fcd34d", 
+      "title": "Assessing the Corpus Size vs. Similarity Trade-off for Word Embeddings in Clinical NLP", 
+      "url": "https://www.semanticscholar.org/paper/c9d36e6f06aacc1307bbfe0f5737f0c502fcd34d", 
+      "venue": "", 
+      "year": 2016
+    }, 
+    {
+      "isInfluential": true, 
+      "paperId": "edfafee79e4fc5c291792c5de48679d1c8ea4d52", 
+      "title": "CU-NLP at SemEval-2016 Task 8: AMR Parsing using LSTM-based Recurrent Neural Networks", 
+      "url": "https://www.semanticscholar.org/paper/edfafee79e4fc5c291792c5de48679d1c8ea4d52", 
+      "venue": "SemEval@NAACL-HLT", 
+      "year": 2016
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "779ea6e2ae1ebcca69db2739dab487f1608c00e6", 
+      "title": "Semi Supervised Preposition-Sense Disambiguation using Multilingual Data", 
+      "url": "https://www.semanticscholar.org/paper/779ea6e2ae1ebcca69db2739dab487f1608c00e6", 
+      "venue": "COLING", 
+      "year": 2016
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "874af385fc7ed8c5c611aebaa0e50425f13b84f8", 
+      "title": "A Mention-Ranking Model for Abstract Anaphora Resolution", 
+      "url": "https://www.semanticscholar.org/paper/874af385fc7ed8c5c611aebaa0e50425f13b84f8", 
+      "venue": "ArXiv", 
+      "year": 2017
+    }, 
+    {
+      "isInfluential": true, 
+      "paperId": "66f8672691f72bf2074aacae31be3d603b831982", 
+      "title": "A Study of Imitation Learning Methods for Semantic Role Labeling", 
+      "url": "https://www.semanticscholar.org/paper/66f8672691f72bf2074aacae31be3d603b831982", 
+      "venue": "", 
+      "year": 2016
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "15367f1e036e47a2539f9a5ea6fe80b56bfade12", 
+      "title": "Neural Semantic Role Labeling with Dependency Path Embeddings", 
+      "url": "https://www.semanticscholar.org/paper/15367f1e036e47a2539f9a5ea6fe80b56bfade12", 
+      "venue": "ACL", 
+      "year": 2016
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "6cf591e74d20e098b8ddf0edf359b3fee7314741", 
+      "title": "Improving sentence compression by learning to predict gaze", 
+      "url": "https://www.semanticscholar.org/paper/6cf591e74d20e098b8ddf0edf359b3fee7314741", 
+      "venue": "HLT-NAACL", 
+      "year": 2016
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "29c19276b8fff231717c3e342cb24144d2b77726", 
+      "title": "Multilingual Part-of-Speech Tagging with Bidirectional Long Short-Term Memory Models and Auxiliary Loss", 
+      "url": "https://www.semanticscholar.org/paper/29c19276b8fff231717c3e342cb24144d2b77726", 
+      "venue": "ACL", 
+      "year": 2016
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "3669cded8d2158cf47cb519ae1d2a5facb122ea6", 
+      "title": "Neural Network for Heterogeneous Annotations", 
+      "url": "https://www.semanticscholar.org/paper/3669cded8d2158cf47cb519ae1d2a5facb122ea6", 
+      "venue": "EMNLP", 
+      "year": 2016
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "10e4925012e635bf0c9763e54b584de6106be811", 
+      "title": "Knock knock: who's there? package delivery at the right address", 
+      "url": "https://www.semanticscholar.org/paper/10e4925012e635bf0c9763e54b584de6106be811", 
+      "venue": "EDB", 
+      "year": 2016
+    }, 
+    {
+      "isInfluential": true, 
+      "paperId": "14f0287f8603b7ce8cc28e60abfbc8f0650a04be", 
+      "title": "Recent Trends in Deep Learning Based Natural Language Processing", 
+      "url": "https://www.semanticscholar.org/paper/14f0287f8603b7ce8cc28e60abfbc8f0650a04be", 
+      "venue": "", 
+      "year": 2017
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "6e84da9f173ae8e058c676339f5fc0e4e2649abb", 
+      "title": "Classifying Semantic Clause Types: Modeling Context and Genre Characteristics with Recurrent Neural Networks and Attention", 
+      "url": "https://www.semanticscholar.org/paper/6e84da9f173ae8e058c676339f5fc0e4e2649abb", 
+      "venue": "*SEM", 
+      "year": 2017
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "37007671b5cf61651e3dd69f92125960e119e457", 
+      "title": "Multi-view and multi-task training of RST discourse parsers", 
+      "url": "https://www.semanticscholar.org/paper/37007671b5cf61651e3dd69f92125960e119e457", 
+      "venue": "COLING", 
+      "year": 2016
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "2a6cdc7ffdae4b75f11677f91d4b437cde069f43", 
+      "title": "Syntax Aware LSTM Model for Chinese Semantic Role Labeling", 
+      "url": "https://www.semanticscholar.org/paper/2a6cdc7ffdae4b75f11677f91d4b437cde069f43", 
+      "venue": "ArXiv", 
+      "year": 2017
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "0d74913dbaed92f5518d55c382226d1e9a5cd570", 
+      "title": "Leveraging Sentence-level Information with Encoder LSTM for Semantic Slot Filling", 
+      "url": "https://www.semanticscholar.org/paper/0d74913dbaed92f5518d55c382226d1e9a5cd570", 
+      "venue": "EMNLP", 
+      "year": 2016
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "81af4e14050c410e2afee226be583088a9791ddf", 
+      "title": "Multiplicative Representations for Unsupervised Semantic Role Induction", 
+      "url": "https://www.semanticscholar.org/paper/81af4e14050c410e2afee226be583088a9791ddf", 
+      "venue": "ACL", 
+      "year": 2016
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "3f8005e94e39836bb3667bbe0ff6a24f21fcf3ca", 
+      "title": "Grounded Semantic Role Labeling", 
+      "url": "https://www.semanticscholar.org/paper/3f8005e94e39836bb3667bbe0ff6a24f21fcf3ca", 
+      "venue": "HLT-NAACL", 
+      "year": 2016
+    }, 
+    {
+      "isInfluential": true, 
+      "paperId": "a3ccff7ad63c2805078b34b8514fa9eab80d38e9", 
+      "title": "Deep Semantic Role Labeling: What Works and What's Next", 
+      "url": "https://www.semanticscholar.org/paper/a3ccff7ad63c2805078b34b8514fa9eab80d38e9", 
+      "venue": "ACL", 
+      "year": 2017
+    }
+  ], 
+  "doi": null, 
+  "influentialCitationCount": 8, 
+  "paperId": "c34e41312b47f60986458759d5cc546c2b53f748", 
+  "references": [
+    {
+      "isInfluential": false, 
+      "paperId": "289e3e6b84982eb65aea8e3a64f2f6916c98e87e", 
+      "title": "Grammar as a Foreign Language", 
+      "url": "https://www.semanticscholar.org/paper/289e3e6b84982eb65aea8e3a64f2f6916c98e87e", 
+      "venue": "NIPS", 
+      "year": 2015
+    }, 
+    {
+      "isInfluential": true, 
+      "paperId": "0d97cbb7a79db7cee196df18e76e6916060917c1", 
+      "title": "Semantic Role Chunking Combining Complementary Syntactic Views", 
+      "url": "https://www.semanticscholar.org/paper/0d97cbb7a79db7cee196df18e76e6916060917c1", 
+      "venue": "CoNLL", 
+      "year": 2005
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "0ecb33ced5b0976accdf13817151f80568b6fdcb", 
+      "title": "Coarse-to-Fine n-Best Parsing and MaxEnt Discriminative Reranking", 
+      "url": "https://www.semanticscholar.org/paper/0ecb33ced5b0976accdf13817151f80568b6fdcb", 
+      "venue": "ACL", 
+      "year": 2005
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "154728875d4668065ca6ba9fa2f5d2a1bcfc4a6e", 
+      "title": "Sequence to Sequence Learning with Neural Networks", 
+      "url": "https://www.semanticscholar.org/paper/154728875d4668065ca6ba9fa2f5d2a1bcfc4a6e", 
+      "venue": "NIPS", 
+      "year": 2014
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "e7b5f85be8d7d1da2cf937b9000492a559988c43", 
+      "title": "Open Domain Information Extraction via Automatic Semantic Labeling", 
+      "url": "https://www.semanticscholar.org/paper/e7b5f85be8d7d1da2cf937b9000492a559988c43", 
+      "venue": "FLAIRS Conference", 
+      "year": 2003
+    }, 
+    {
+      "isInfluential": true, 
+      "paperId": "a94e4fe6f475e047be5dcc9077f445e496240852", 
+      "title": "Towards Robust Linguistic Analysis using OntoNotes", 
+      "url": "https://www.semanticscholar.org/paper/a94e4fe6f475e047be5dcc9077f445e496240852", 
+      "venue": "CoNLL", 
+      "year": 2013
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "6926c4a61777fdd45399b59ca03d9a7fae410c75", 
+      "title": "A Maximum-Entropy-Inspired Parser", 
+      "url": "https://www.semanticscholar.org/paper/6926c4a61777fdd45399b59ca03d9a7fae410c75", 
+      "venue": "ANLP", 
+      "year": 2000
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "5999282fc3cd947d4ed480e61781d936c5feee52", 
+      "title": "Memory Networks", 
+      "url": "https://www.semanticscholar.org/paper/5999282fc3cd947d4ed480e61781d936c5feee52", 
+      "venue": "ArXiv", 
+      "year": 2014
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "6462e79a978d5aaee026d16e18b792c458afaf2e", 
+      "title": "Textual Inference and Meaning Representation in Human Robot Interaction", 
+      "url": "https://www.semanticscholar.org/paper/6462e79a978d5aaee026d16e18b792c458afaf2e", 
+      "venue": "", 
+      "year": 2013
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "165db9e093be270d38ac4a264efff7507518727e", 
+      "title": "Towards AI-Complete Question Answering: A Set of Prerequisite Toy Tasks", 
+      "url": "https://www.semanticscholar.org/paper/165db9e093be270d38ac4a264efff7507518727e", 
+      "venue": "ArXiv", 
+      "year": 2015
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "1b179d6890c3055cea12bc65337dcebc3167d436", 
+      "title": "Neural Probabilistic Language Model for System Combination", 
+      "url": "https://www.semanticscholar.org/paper/1b179d6890c3055cea12bc65337dcebc3167d436", 
+      "venue": "", 
+      "year": 2012
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "18d04fa815cbc9e7a2eeab189a4d7388cb43b0cb", 
+      "title": "Using Predicate-Argument Structures for Information Extraction", 
+      "url": "https://www.semanticscholar.org/paper/18d04fa815cbc9e7a2eeab189a4d7388cb43b0cb", 
+      "venue": "ACL", 
+      "year": 2003
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "85701003162f5907f24a614ff6b21cfb731560c7", 
+      "title": "The Importance of Syntactic Parsing and Inference in Semantic Role Labeling", 
+      "url": "https://www.semanticscholar.org/paper/85701003162f5907f24a614ff6b21cfb731560c7", 
+      "venue": "Computational Linguistics", 
+      "year": 2008
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "ba18247cd3ce9f711eecc7296f1c3561dbfb6cc2", 
+      "title": "Learning long-term dependencies with gradient descent is difficult", 
+      "url": "https://www.semanticscholar.org/paper/ba18247cd3ce9f711eecc7296f1c3561dbfb6cc2", 
+      "venue": "IEEE Trans. Neural Networks", 
+      "year": 1994
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "178631e0f0e624b1607c7a7a2507ed30d4e83a42", 
+      "title": "Speech recognition with deep recurrent neural networks", 
+      "url": "https://www.semanticscholar.org/paper/178631e0f0e624b1607c7a7a2507ed30d4e83a42", 
+      "venue": "2013 IEEE International Conference on Acoustics, Speech and Signal Processing", 
+      "year": 2013
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "1379019778ff40ebeaf62795edf17d973047c29e", 
+      "title": "Learning word embeddings efficiently with noise-contrastive estimation", 
+      "url": "https://www.semanticscholar.org/paper/1379019778ff40ebeaf62795edf17d973047c29e", 
+      "venue": "NIPS", 
+      "year": 2013
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "155baea065396a150f0f8875e088355800fa9449", 
+      "title": "Head-Driven Statistical Models for Natural Language Parsing", 
+      "url": "https://www.semanticscholar.org/paper/155baea065396a150f0f8875e088355800fa9449", 
+      "venue": "Computational Linguistics", 
+      "year": 2003
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "dd33893e418363b4c17ed600e858f286a4582deb", 
+      "title": "A Global Joint Model for Semantic Role Labeling", 
+      "url": "https://www.semanticscholar.org/paper/dd33893e418363b4c17ed600e858f286a4582deb", 
+      "venue": "Computational Linguistics", 
+      "year": 2008
+    }, 
+    {
+      "isInfluential": true, 
+      "paperId": "2657c90083861166d07d538a1632e98efa490a1d", 
+      "title": "Efficient Inference and Structured Learning for Semantic Role Labeling", 
+      "url": "https://www.semanticscholar.org/paper/2657c90083861166d07d538a1632e98efa490a1d", 
+      "venue": "TACL", 
+      "year": 2015
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "1336146e7f95b295bb73c7659c6af4befd86cbdd", 
+      "title": "Text Understanding from Scratch", 
+      "url": "https://www.semanticscholar.org/paper/1336146e7f95b295bb73c7659c6af4befd86cbdd", 
+      "venue": "ArXiv", 
+      "year": 2015
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "4902805fe1e2f292f6beed7593154e686d7f6dc2", 
+      "title": "A Novel Connectionist System for Unconstrained Handwriting Recognition", 
+      "url": "https://www.semanticscholar.org/paper/4902805fe1e2f292f6beed7593154e686d7f6dc2", 
+      "venue": "IEEE Transactions on Pattern Analysis and Machine Intelligence", 
+      "year": 2009
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "497d62697a8b42f81ca4b57c3e6da6df3deb4749", 
+      "title": "Text Categorization Using Predicate\u2013Argument Structures", 
+      "url": "https://www.semanticscholar.org/paper/497d62697a8b42f81ca4b57c3e6da6df3deb4749", 
+      "venue": "", 
+      "year": 2009
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "6eedf0a4fe861335f7f7664c14de7f71c00b7932", 
+      "title": "Neural Turing Machines", 
+      "url": "https://www.semanticscholar.org/paper/6eedf0a4fe861335f7f7664c14de7f71c00b7932", 
+      "venue": "ArXiv", 
+      "year": 2014
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "398dee13b3aaaefdf14c78cc1e00dcf265795fd3", 
+      "title": "Convolutional Neural Networks for Sentence Classification", 
+      "url": "https://www.semanticscholar.org/paper/398dee13b3aaaefdf14c78cc1e00dcf265795fd3", 
+      "venue": "EMNLP", 
+      "year": 2014
+    }, 
+    {
+      "isInfluential": true, 
+      "paperId": "2538e3eb24d26f31482c479d95d2e26c0e79b990", 
+      "title": "Natural Language Processing (almost) from Scratch", 
+      "url": "https://www.semanticscholar.org/paper/2538e3eb24d26f31482c479d95d2e26c0e79b990", 
+      "venue": "Journal of Machine Learning Research", 
+      "year": 2011
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "162d958ff885f1462aeda91cd72582323fd6a1f4", 
+      "title": "Gradient-based Learning Applied to Document Recognition", 
+      "url": "https://www.semanticscholar.org/paper/162d958ff885f1462aeda91cd72582323fd6a1f4", 
+      "venue": "", 
+      "year": 1998
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "8a93cd1b6fbf7c8c86637bae18d979dafeb9a7c1", 
+      "title": "Factor-based Compositional Embedding Models", 
+      "url": "https://www.semanticscholar.org/paper/8a93cd1b6fbf7c8c86637bae18d979dafeb9a7c1", 
+      "venue": "", 
+      "year": 2014
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "3eba31e8d7000476f9fed392fff2e140137c7e23", 
+      "title": "Using Semantic Roles to Improve Question Answering", 
+      "url": "https://www.semanticscholar.org/paper/3eba31e8d7000476f9fed392fff2e140137c7e23", 
+      "venue": "EMNLP-CoNLL", 
+      "year": 2007
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "4e88de2930a4435f737c3996287a90ff87b95c59", 
+      "title": "Improved Semantic Representations From Tree-Structured Long Short-Term Memory Networks", 
+      "url": "https://www.semanticscholar.org/paper/4e88de2930a4435f737c3996287a90ff87b95c59", 
+      "venue": "ACL", 
+      "year": 2015
+    }, 
+    {
+      "isInfluential": true, 
+      "paperId": "06c6efc834e745a5106b0a3d9a1025276d38dda4", 
+      "title": "Combination Strategies for Semantic Role Labeling", 
+      "url": "https://www.semanticscholar.org/paper/06c6efc834e745a5106b0a3d9a1025276d38dda4", 
+      "venue": "J. Artif. Intell. Res.", 
+      "year": 2007
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "1a07186bc10592f0330655519ad91652125cd907", 
+      "title": "A unified architecture for natural language processing: deep neural networks with multitask learning", 
+      "url": "https://www.semanticscholar.org/paper/1a07186bc10592f0330655519ad91652125cd907", 
+      "venue": "ICML", 
+      "year": 2008
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "1aec04aa64f165bb075cc4ce6ad79d36c89d62b6", 
+      "title": "Long Short-Term Memory", 
+      "url": "https://www.semanticscholar.org/paper/1aec04aa64f165bb075cc4ce6ad79d36c89d62b6", 
+      "venue": "Neural Computation", 
+      "year": 1997
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "762b63d2eb86f8fd0de98a08561b77527ae8f165", 
+      "title": "Distributed Representations of Words and Phrases and their Compositionality", 
+      "url": "https://www.semanticscholar.org/paper/762b63d2eb86f8fd0de98a08561b77527ae8f165", 
+      "venue": "NIPS", 
+      "year": 2013
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "e23c34414e66118ecd9b08cf0cd4d016f59b0b85", 
+      "title": "Bidirectional recurrent neural networks", 
+      "url": "https://www.semanticscholar.org/paper/e23c34414e66118ecd9b08cf0cd4d016f59b0b85", 
+      "venue": "IEEE Trans. Signal Processing", 
+      "year": 1997
+    }, 
+    {
+      "isInfluential": true, 
+      "paperId": "15fad23ab1f03b39aeeee0fed24803e98c47c28d", 
+      "title": "Generalized Inference with Multiple Semantic Role Labeling Systems", 
+      "url": "https://www.semanticscholar.org/paper/15fad23ab1f03b39aeeee0fed24803e98c47c28d", 
+      "venue": "CoNLL", 
+      "year": 2005
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "27211ed68a7a00f1df0121fa1890a1b2acdd1a88", 
+      "title": "A Neural Probabilistic Language Model", 
+      "url": "https://www.semanticscholar.org/paper/27211ed68a7a00f1df0121fa1890a1b2acdd1a88", 
+      "venue": "Journal of Machine Learning Research", 
+      "year": 2000
+    }, 
+    {
+      "isInfluential": true, 
+      "paperId": "0c7f52c753a65ceaf3755e20b906ffd0c05c994a", 
+      "title": "Conditional Random Fields: Probabilistic Models for Segmenting and Labeling Sequence Data", 
+      "url": "https://www.semanticscholar.org/paper/0c7f52c753a65ceaf3755e20b906ffd0c05c994a", 
+      "venue": "ICML", 
+      "year": 2001
+    }
+  ], 
+  "title": "End-to-end learning of semantic role labeling using recurrent neural networks", 
+  "url": "https://www.semanticscholar.org/paper/c34e41312b47f60986458759d5cc546c2b53f748", 
+  "venue": "ACL", 
+  "year": 2015
+}

@@ -1,0 +1,781 @@
+{
+  "authors": [
+    {
+      "authorId": null, 
+      "name": "MIYAO Yusuke", 
+      "url": null
+    }
+  ], 
+  "citationVelocity": 0, 
+  "citations": [
+    {
+      "isInfluential": false, 
+      "paperId": "9fe809099b989852e416703c396f3517d7ecfbde", 
+      "title": "Maximum Entropy Models with Inequality Constraints: A Case Study on Text Categorization", 
+      "url": "https://www.semanticscholar.org/paper/9fe809099b989852e416703c396f3517d7ecfbde", 
+      "venue": "Machine Learning", 
+      "year": 2005
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "187472239f4bba71af51cc405a88c15f7a6cbd8b", 
+      "title": "Partial Training for a Lexicalized-Grammar Parser", 
+      "url": "https://www.semanticscholar.org/paper/187472239f4bba71af51cc405a88c15f7a6cbd8b", 
+      "venue": "HLT-NAACL", 
+      "year": 2006
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "ada80a1b6fe2621545a1e3d2fb56fc57eccf39a8", 
+      "title": "Parsing With Soft And Hard Constraints On Dependency Length", 
+      "url": "https://www.semanticscholar.org/paper/ada80a1b6fe2621545a1e3d2fb56fc57eccf39a8", 
+      "venue": "", 
+      "year": 2005
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "516ef09baa2f9e8a98d8efbbdaf42b5667770141", 
+      "title": "Fast and Scalable HPSG Parsing", 
+      "url": "https://www.semanticscholar.org/paper/516ef09baa2f9e8a98d8efbbdaf42b5667770141", 
+      "venue": "", 
+      "year": 2006
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "9a5345a89d9449b1a191d17de9abb810dad9a6ab", 
+      "title": "A Rule-based Language Model for Speech Recognition", 
+      "url": "https://www.semanticscholar.org/paper/9a5345a89d9449b1a191d17de9abb810dad9a6ab", 
+      "venue": "", 
+      "year": 2009
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "6c0eedf3a367b90866f22855d7dd39f6d68d9b2c", 
+      "title": "Supervised Learning of German Qualia Relations", 
+      "url": "https://www.semanticscholar.org/paper/6c0eedf3a367b90866f22855d7dd39f6d68d9b2c", 
+      "venue": "", 
+      "year": 2012
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "42c5266076bc84a2fe58e5ed9c319ca0d7ae91ff", 
+      "title": "Large-Scale Corpus-Driven PCFG Approximation of an HPSG", 
+      "url": "https://www.semanticscholar.org/paper/42c5266076bc84a2fe58e5ed9c319ca0d7ae91ff", 
+      "venue": "IWPT", 
+      "year": 2011
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "90c67031bf008a257507ecc62c3611bb22b3875d", 
+      "title": "From Linguistic Theory to Syntactic Analysis: Corpus-Oriented Grammar Development and Feature Forest Model", 
+      "url": "https://www.semanticscholar.org/paper/90c67031bf008a257507ecc62c3611bb22b3875d", 
+      "venue": "", 
+      "year": 2006
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "bc8385057fdb8a9e95f9c01cf4f3bf590f8c4af4", 
+      "title": "Efficient And Robust LFG Parsing: SxLFG", 
+      "url": "https://www.semanticscholar.org/paper/bc8385057fdb8a9e95f9c01cf4f3bf590f8c4af4", 
+      "venue": "", 
+      "year": 2005
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "1d301c11c94fc2df95be50c89bb2f0faf4397669", 
+      "title": "Learning for Semantic Parsing Using Statistical Machine Translation Techniques", 
+      "url": "https://www.semanticscholar.org/paper/1d301c11c94fc2df95be50c89bb2f0faf4397669", 
+      "venue": "", 
+      "year": 2005
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "84a39bb6b51e219ab0f5a91fd742170090283526", 
+      "title": "Natural Language Generation with Tree Conditional Random Fields", 
+      "url": "https://www.semanticscholar.org/paper/84a39bb6b51e219ab0f5a91fd742170090283526", 
+      "venue": "EMNLP", 
+      "year": 2009
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "acc05b4412f3dceb49ee20f36dfe7cc6507af775", 
+      "title": "At Last Parsing Is Now Operational", 
+      "url": "https://www.semanticscholar.org/paper/acc05b4412f3dceb49ee20f36dfe7cc6507af775", 
+      "venue": "", 
+      "year": 2006
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "c90f9f5ea5e9ac8108104dbf9eb92fe08b4e1c3b", 
+      "title": "Robust deep linguistic processing", 
+      "url": "https://www.semanticscholar.org/paper/c90f9f5ea5e9ac8108104dbf9eb92fe08b4e1c3b", 
+      "venue": "", 
+      "year": 2008
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "7938c9b56de70eb641d946353b9c0fa255f48b4f", 
+      "title": "PhD Depth Examination Report Algebraic Foundation of Statistical Parsing Semiring Parsing", 
+      "url": "https://www.semanticscholar.org/paper/7938c9b56de70eb641d946353b9c0fa255f48b4f", 
+      "venue": "", 
+      "year": 2004
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "cdbaefc0e56ab10bf5b60fd794ecbafa47681784", 
+      "title": "Computational Models for Event Type Classification in Context", 
+      "url": "https://www.semanticscholar.org/paper/cdbaefc0e56ab10bf5b60fd794ecbafa47681784", 
+      "venue": "LREC", 
+      "year": 2008
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "5fa2c546fa734927a93ca6b5d639de4ec47a2514", 
+      "title": "Climbing The Path To Grammar: A Maximum Entropy Model Of Subject/Object Learning", 
+      "url": "https://www.semanticscholar.org/paper/5fa2c546fa734927a93ca6b5d639de4ec47a2514", 
+      "venue": "", 
+      "year": 2005
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "b61eed282bf525914a5d21cc5c125e8526084e97", 
+      "title": "Extremely Lexicalized Models for Accurate and Fast HPSG Parsing", 
+      "url": "https://www.semanticscholar.org/paper/b61eed282bf525914a5d21cc5c125e8526084e97", 
+      "venue": "EMNLP", 
+      "year": 2006
+    }, 
+    {
+      "isInfluential": true, 
+      "paperId": "b9eea85e590f6e522e3681b8e45012684c60b0fd", 
+      "title": "Parsing the WSJ Using CCG and Log-Linear Models", 
+      "url": "https://www.semanticscholar.org/paper/b9eea85e590f6e522e3681b8e45012684c60b0fd", 
+      "venue": "ACL", 
+      "year": 2004
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "d67ec99aa280ba3c83a208dceed80e7b3373c1f5", 
+      "title": "Treebank-Based Acquisition of LFG Parsing Resources for French", 
+      "url": "https://www.semanticscholar.org/paper/d67ec99aa280ba3c83a208dceed80e7b3373c1f5", 
+      "venue": "LREC", 
+      "year": 2008
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "444df53782bcea3ecb0d251537490677aaa5579d", 
+      "title": "Combinatory Categorial Grammar Parsing With One Structure", 
+      "url": "https://www.semanticscholar.org/paper/444df53782bcea3ecb0d251537490677aaa5579d", 
+      "venue": "", 
+      "year": 2010
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "ff682d0cb5dd6e85458203096c2b5c9d9cac390a", 
+      "title": "Polynomial to Linear: Efficient Classification with Conjunctive Features", 
+      "url": "https://www.semanticscholar.org/paper/ff682d0cb5dd6e85458203096c2b5c9d9cac390a", 
+      "venue": "EMNLP", 
+      "year": 2009
+    }, 
+    {
+      "isInfluential": true, 
+      "paperId": "2a086d739f5c391fdc04d6e5c5c363a07d7b1e97", 
+      "title": "Efficacy Of Beam Thresholding, Unification Filtering And Hybrid Parsing In Probabilistic HPSG Parsing", 
+      "url": "https://www.semanticscholar.org/paper/2a086d739f5c391fdc04d6e5c5c363a07d7b1e97", 
+      "venue": "", 
+      "year": 2005
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "56a21c060668d32fef1e94aca92efd9feb5ce2d2", 
+      "title": "Semi-supervised Training of a Statistical Parser from Unlabeled Partially-Bracketed Data", 
+      "url": "https://www.semanticscholar.org/paper/56a21c060668d32fef1e94aca92efd9feb5ce2d2", 
+      "venue": "Trends in Parsing Technology", 
+      "year": 2007
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "66bbbe333a7c91d25052b73f5c9def1b5616a413", 
+      "title": "Evaluating the Impact of Re-training a Lexical Disambiguation Model on Domain Adaptation of an HPSG Parser", 
+      "url": "https://www.semanticscholar.org/paper/66bbbe333a7c91d25052b73f5c9def1b5616a413", 
+      "venue": "Trends in Parsing Technology", 
+      "year": 2007
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "c6526409a1849f60f418aec9ed8d60000589deda", 
+      "title": "Efficiency in Unification-Based N-Best Parsing", 
+      "url": "https://www.semanticscholar.org/paper/c6526409a1849f60f418aec9ed8d60000589deda", 
+      "venue": "Trends in Parsing Technology", 
+      "year": 2007
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "0c9fb603e92754fffb276ad1c962b48ae3638625", 
+      "title": "Dynamic programming for parsing and estimation of stochastic unification-based grammars", 
+      "url": "https://www.semanticscholar.org/paper/0c9fb603e92754fffb276ad1c962b48ae3638625", 
+      "venue": "ACL", 
+      "year": 2002
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "eb757b4d78501e04cca4b093ec9cf33b32214981", 
+      "title": "Biomedical Relation Extraction: From Binary to Complex", 
+      "url": "https://www.semanticscholar.org/paper/eb757b4d78501e04cca4b093ec9cf33b32214981", 
+      "venue": "Comp. Math. Methods in Medicine", 
+      "year": 2014
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "500e5f7c23fd05c2cbc860b91f63b1f9fcb728b4", 
+      "title": "Evaluating the Impact of Alternative Dependency Graph Encodings on Solving Event Extraction Tasks", 
+      "url": "https://www.semanticscholar.org/paper/500e5f7c23fd05c2cbc860b91f63b1f9fcb728b4", 
+      "venue": "EMNLP", 
+      "year": 2010
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "64403eececa39909dd4d9d1b37367e540a3cbf4d", 
+      "title": "A Hybrid Tree Framework for Semantic Parsing and Natural Language Generation", 
+      "url": "https://www.semanticscholar.org/paper/64403eececa39909dd4d9d1b37367e540a3cbf4d", 
+      "venue": "", 
+      "year": 2009
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "ef49698f4931d19320489343fac62b342e6cbb73", 
+      "title": "Programme for \"exemplar Based Models of Language Acquisition and Use\"", 
+      "url": "https://www.semanticscholar.org/paper/ef49698f4931d19320489343fac62b342e6cbb73", 
+      "venue": "", 
+      "year": 2007
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "1826fbbf12e399024296c1dfcc5758c1c810574c", 
+      "title": "Max-Margin Parsing", 
+      "url": "https://www.semanticscholar.org/paper/1826fbbf12e399024296c1dfcc5758c1c810574c", 
+      "venue": "EMNLP", 
+      "year": 2004
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "0fa5798d51036aa8e014a6c072cfa9aec7c11ef8", 
+      "title": "Mildly context sensitive grammars for estimating maximum entropy parsing models", 
+      "url": "https://www.semanticscholar.org/paper/0fa5798d51036aa8e014a6c072cfa9aec7c11ef8", 
+      "venue": "", 
+      "year": 2003
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "c80d53bfe295150ca96e0128fe9a88cbc9dbc9e3", 
+      "title": "Statistical Parsing", 
+      "url": "https://www.semanticscholar.org/paper/c80d53bfe295150ca96e0128fe9a88cbc9dbc9e3", 
+      "venue": "", 
+      "year": 2012
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "8cdf5239efce5ca7e830bbac39fcf46a92a1fd76", 
+      "title": "C-structures and F-structures for the British National Corpus", 
+      "url": "https://www.semanticscholar.org/paper/8cdf5239efce5ca7e830bbac39fcf46a92a1fd76", 
+      "venue": "", 
+      "year": 2007
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "ff9c7fffb56f85fbb842837bd7623df65e83b978", 
+      "title": "Machine Learning Based English-to-Korean Transliteration Using Grapheme and Phoneme Information", 
+      "url": "https://www.semanticscholar.org/paper/ff9c7fffb56f85fbb842837bd7623df65e83b978", 
+      "venue": "IEICE Transactions", 
+      "year": 2005
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "cc4babf9a754f3906d3464184e4939abd1a3da69", 
+      "title": "A machine transliteration model based on correspondence between graphemes and phonemes", 
+      "url": "https://www.semanticscholar.org/paper/cc4babf9a754f3906d3464184e4939abd1a3da69", 
+      "venue": "ACM Trans. Asian Lang. Inf. Process.", 
+      "year": 2006
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "29899547c993f30a9afcc3514ef55358d45d6b97", 
+      "title": "Speed and Accuracy in Shallow and Deep Stochastic Parsing", 
+      "url": "https://www.semanticscholar.org/paper/29899547c993f30a9afcc3514ef55358d45d6b97", 
+      "venue": "HLT-NAACL", 
+      "year": 2004
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "e6d5bde4c3a0a569cb56b9c201a530f1749168e0", 
+      "title": "Accurate Maximum-Margin Training for Parsing With Context-Free Grammars", 
+      "url": "https://www.semanticscholar.org/paper/e6d5bde4c3a0a569cb56b9c201a530f1749168e0", 
+      "venue": "IEEE Transactions on Neural Networks and Learning Systems", 
+      "year": 2017
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "97ad9e4e2ebdf32a711bab14e3043a091871ba5b", 
+      "title": "Wide-Coverage Deep Statistical Parsing Using Automatic Dependency Structure Annotation", 
+      "url": "https://www.semanticscholar.org/paper/97ad9e4e2ebdf32a711bab14e3043a091871ba5b", 
+      "venue": "Computational Linguistics", 
+      "year": 2008
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "4699cd53e9e600d08183fc7e6f8389889378192c", 
+      "title": "High Efficiency Realization for a Wide-Coverage Unification Grammar", 
+      "url": "https://www.semanticscholar.org/paper/4699cd53e9e600d08183fc7e6f8389889378192c", 
+      "venue": "IJCNLP", 
+      "year": 2005
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "940104238955660a6d4ce053c76118bdda888c8f", 
+      "title": "Probing The Space Of Grammatical Variation: Induction Of Cross-Lingual Grammatical Constraints From Treebanks", 
+      "url": "https://www.semanticscholar.org/paper/940104238955660a6d4ce053c76118bdda888c8f", 
+      "venue": "", 
+      "year": 2006
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "58098668754348dd53681ad452871e361dcc4b95", 
+      "title": "New Perspectives of Linguistic Study", 
+      "url": "https://www.semanticscholar.org/paper/58098668754348dd53681ad452871e361dcc4b95", 
+      "venue": "", 
+      "year": 2003
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "18f747cfca874808f26ab75c65066657a0f0a229", 
+      "title": "Learning for Semantic Parsing with Statistical Machine Translation", 
+      "url": "https://www.semanticscholar.org/paper/18f747cfca874808f26ab75c65066657a0f0a229", 
+      "venue": "HLT-NAACL", 
+      "year": 2006
+    }, 
+    {
+      "isInfluential": true, 
+      "paperId": "0e66293eec64e5157ddb368a9f68f6b9e4bbe162", 
+      "title": "Improving the Scalability of Semi-Markov Conditional Random Fields for Named Entity Recognition", 
+      "url": "https://www.semanticscholar.org/paper/0e66293eec64e5157ddb368a9f68f6b9e4bbe162", 
+      "venue": "ACL", 
+      "year": 2006
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "4de3d428e2ad8a20de688fa6f26ade80280592e6", 
+      "title": "Evaluation And Extension Of Maximum Entropy Models With Inequality Constraints", 
+      "url": "https://www.semanticscholar.org/paper/4de3d428e2ad8a20de688fa6f26ade80280592e6", 
+      "venue": "", 
+      "year": 2003
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "4d920bde096e2a9d9a6c689a9fbbaddaba1aa452", 
+      "title": "Learning a Compositional Semantic Parser using an Existing Syntactic Parser", 
+      "url": "https://www.semanticscholar.org/paper/4d920bde096e2a9d9a6c689a9fbbaddaba1aa452", 
+      "venue": "ACL/IJCNLP", 
+      "year": 2009
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "558607678e7cf51da31840e4e173fb00f77f664c", 
+      "title": "Towards a Machine-Learning Architecture for Lexical Functional Grammar Parsing", 
+      "url": "https://www.semanticscholar.org/paper/558607678e7cf51da31840e4e173fb00f77f664c", 
+      "venue": "", 
+      "year": 2008
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "5fd5ab03ca26ff796d6c17db5aa49dc4caa31c70", 
+      "title": "Probabilistic Models of Nonprojective Dependency Trees", 
+      "url": "https://www.semanticscholar.org/paper/5fd5ab03ca26ff796d6c17db5aa49dc4caa31c70", 
+      "venue": "EMNLP-CoNLL", 
+      "year": 2007
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "86e32c9c7fcf7646b7097e6bd724211194bf118b", 
+      "title": "HPSG-DOP: Towards Exemplar-based HPSG", 
+      "url": "https://www.semanticscholar.org/paper/86e32c9c7fcf7646b7097e6bd724211194bf118b", 
+      "venue": "", 
+      "year": null
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "7f711e69b6cde1bb512bb03ea16771228de2bd3b", 
+      "title": "Filling Statistics with Linguistics -- Property Design for the Disambiguation of German LFG Parses", 
+      "url": "https://www.semanticscholar.org/paper/7f711e69b6cde1bb512bb03ea16771228de2bd3b", 
+      "venue": "", 
+      "year": 2007
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "4a694a2420b7fa424d270c034d1901b0087934ae", 
+      "title": "Constituent Parsing By Classification", 
+      "url": "https://www.semanticscholar.org/paper/4a694a2420b7fa424d270c034d1901b0087934ae", 
+      "venue": "", 
+      "year": 2005
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "3612c48660a358a83157cb6adc8d48869d096eb6", 
+      "title": "Designing Features for Parse Disambiguation and Realisation Ranking", 
+      "url": "https://www.semanticscholar.org/paper/3612c48660a358a83157cb6adc8d48869d096eb6", 
+      "venue": "", 
+      "year": 2007
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "76d31267ebdd8a444469ca4f13fda14506a782cd", 
+      "title": "Forest-based Algorithms in Natural Language Processing", 
+      "url": "https://www.semanticscholar.org/paper/76d31267ebdd8a444469ca4f13fda14506a782cd", 
+      "venue": "", 
+      "year": 2008
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "947008b1937ffcc66555a44ac0858e85b46858f6", 
+      "title": "Learning and Parsing Stochastic Unification-Based Grammars", 
+      "url": "https://www.semanticscholar.org/paper/947008b1937ffcc66555a44ac0858e85b46858f6", 
+      "venue": "COLT", 
+      "year": 2003
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "658b941c4bfc057827fda6c1651532389afd6273", 
+      "title": "DCU 250 Arabic Dependency Bank: An LFG Gold Standard Resource for the Arabic Penn Treebank", 
+      "url": "https://www.semanticscholar.org/paper/658b941c4bfc057827fda6c1651532389afd6273", 
+      "venue": "", 
+      "year": 2007
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "091cdd32871b028bd601ec5186e3d0c38013d8b1", 
+      "title": "Perceptron Training for a Wide-Coverage Lexicalized-Grammar Parser", 
+      "url": "https://www.semanticscholar.org/paper/091cdd32871b028bd601ec5186e3d0c38013d8b1", 
+      "venue": "", 
+      "year": 2007
+    }, 
+    {
+      "isInfluential": true, 
+      "paperId": "2696abf09a8144e3d236deb307e70485c4d20a2d", 
+      "title": "A log-linear model with an n-gram reference distribution for accurate HPSG parsing", 
+      "url": "https://www.semanticscholar.org/paper/2696abf09a8144e3d236deb307e70485c4d20a2d", 
+      "venue": "", 
+      "year": 2007
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "3d1959192b2f731d4961d3a63a595839ca5e541d", 
+      "title": "Adapting a Probabilistic Disambiguation Model of an HPSG Parser to a New Domain", 
+      "url": "https://www.semanticscholar.org/paper/3d1959192b2f731d4961d3a63a595839ca5e541d", 
+      "venue": "IJCNLP", 
+      "year": 2005
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "103d31750a77230630e4251053675f0bb3ef501f", 
+      "title": "A Data-Oriented Parsing Model for HPSG", 
+      "url": "https://www.semanticscholar.org/paper/103d31750a77230630e4251053675f0bb3ef501f", 
+      "venue": "", 
+      "year": 2007
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "ba592caaf6bc54628e7febcee9619f00d36535bc", 
+      "title": "A model of syntactic disambiguation based on lexicalized grammars", 
+      "url": "https://www.semanticscholar.org/paper/ba592caaf6bc54628e7febcee9619f00d36535bc", 
+      "venue": "CoNLL", 
+      "year": 2003
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "352831f915ce0aa6353dadf92f530d3dbadd78d1", 
+      "title": "Shift-Reduce CCG Parsing with a Dependency Model", 
+      "url": "https://www.semanticscholar.org/paper/352831f915ce0aa6353dadf92f530d3dbadd78d1", 
+      "venue": "ACL", 
+      "year": 2014
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "888eb2711fb0c68436cc8d90d414476de71fbbb9", 
+      "title": "Corpus-Oriented Development of Japanese HPSG Parsers", 
+      "url": "https://www.semanticscholar.org/paper/888eb2711fb0c68436cc8d90d414476de71fbbb9", 
+      "venue": "ACL", 
+      "year": 2005
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "3558746a15f0f33219c0e1f0a5736a227db8a5ed", 
+      "title": "Multilabel Tagging of Discourse Relations in Ambiguous Temporal Connectives", 
+      "url": "https://www.semanticscholar.org/paper/3558746a15f0f33219c0e1f0a5736a227db8a5ed", 
+      "venue": "RANLP", 
+      "year": 2011
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "63115b85305724e6f3d5097aea14f29e9bc58dcf", 
+      "title": "Efficient Extraction Of Grammatical Relations", 
+      "url": "https://www.semanticscholar.org/paper/63115b85305724e6f3d5097aea14f29e9bc58dcf", 
+      "venue": "", 
+      "year": 2005
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "4f0c91ec7227902075faf518b8d6acd1e8d7894d", 
+      "title": "Features for Phrase-Structure Reranking from Dependency Parses", 
+      "url": "https://www.semanticscholar.org/paper/4f0c91ec7227902075faf518b8d6acd1e8d7894d", 
+      "venue": "IWPT", 
+      "year": 2011
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "c9a68d9f11de142d3d456e33c04e8f77817b1d98", 
+      "title": "Title of Thesis: Learning Structured Classifiers for Statistical Dependency Parsing Learning Structured Classifiers for Statistical Dependency Parsing", 
+      "url": "https://www.semanticscholar.org/paper/c9a68d9f11de142d3d456e33c04e8f77817b1d98", 
+      "venue": "", 
+      "year": 2007
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "03001cea1ef5aadd0330544acb6fcbaa68825697", 
+      "title": "Wide-Coverage Efficient Statistical Parsing with CCG and Log-Linear Models", 
+      "url": "https://www.semanticscholar.org/paper/03001cea1ef5aadd0330544acb6fcbaa68825697", 
+      "venue": "Computational Linguistics", 
+      "year": 2007
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "1e8240fd04e5db10797d9a0de91f68f4c8ad4078", 
+      "title": "Rule-based Syntactic Preprocessing for Syntax-based Machine Translation", 
+      "url": "https://www.semanticscholar.org/paper/1e8240fd04e5db10797d9a0de91f68f4c8ad4078", 
+      "venue": "SSST@EMNLP", 
+      "year": 2014
+    }, 
+    {
+      "isInfluential": true, 
+      "paperId": "3261e3ee299e0f35e870638b415f46a5f758619e", 
+      "title": "Deterministic shift-reduce parsing for unification-based grammars", 
+      "url": "https://www.semanticscholar.org/paper/3261e3ee299e0f35e870638b415f46a5f758619e", 
+      "venue": "Natural Language Engineering", 
+      "year": 2009
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "b3781722002f389b9446500396685125bb0aa069", 
+      "title": "Searching treebanks for functional constraints: cross-lingual experiments in grammatical relation assignment", 
+      "url": "https://www.semanticscholar.org/paper/b3781722002f389b9446500396685125bb0aa069", 
+      "venue": "", 
+      "year": 2006
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "16e6c530ea2538991310301437e19e2a88d6d6fd", 
+      "title": "Knowledge Sources for Constituent Parsing of German, a Morphologically Rich and Less-Configurational Language", 
+      "url": "https://www.semanticscholar.org/paper/16e6c530ea2538991310301437e19e2a88d6d6fd", 
+      "venue": "Computational Linguistics", 
+      "year": 2013
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "20164aaff56d0edca267fd9471fee3631fc960e3", 
+      "title": "Deep Linguistic Analysis for the Accurate Identification of Predicate-Argument Relations", 
+      "url": "https://www.semanticscholar.org/paper/20164aaff56d0edca267fd9471fee3631fc960e3", 
+      "venue": "COLING", 
+      "year": 2004
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "29c34a034f6f35915a141dac98cabf625bea2b3c", 
+      "title": "Contrastive Estimation: Training Log-Linear Models on Unlabeled Data", 
+      "url": "https://www.semanticscholar.org/paper/29c34a034f6f35915a141dac98cabf625bea2b3c", 
+      "venue": "ACL", 
+      "year": 2005
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "29b4a2b9665f97528efddb046dde87698b762244", 
+      "title": "Learning Semantic Parsers Using Statistical Syntactic Parsing Techniques", 
+      "url": "https://www.semanticscholar.org/paper/29b4a2b9665f97528efddb046dde87698b762244", 
+      "venue": "", 
+      "year": 2006
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "055c183c8bf3d8e9e5222e5e0c23d405d1cb14c0", 
+      "title": "Review Article Biomedical Relation Extraction: From Binary to Complex", 
+      "url": "https://www.semanticscholar.org/paper/055c183c8bf3d8e9e5222e5e0c23d405d1cb14c0", 
+      "venue": "", 
+      "year": 2014
+    }, 
+    {
+      "isInfluential": true, 
+      "paperId": "19da3a7bc4fd32b697bab29fdbc6fe27bf3b33fb", 
+      "title": "Log-Linear Models For Wide-Coverage CCG Parsing", 
+      "url": "https://www.semanticscholar.org/paper/19da3a7bc4fd32b697bab29fdbc6fe27bf3b33fb", 
+      "venue": "", 
+      "year": 2003
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "2466a9810b6716ed2e8377063ed8f658fc98a59f", 
+      "title": "Scalable Discriminative Parsing for German", 
+      "url": "https://www.semanticscholar.org/paper/2466a9810b6716ed2e8377063ed8f658fc98a59f", 
+      "venue": "IWPT", 
+      "year": 2009
+    }, 
+    {
+      "isInfluential": true, 
+      "paperId": "7e88338e7fe7208aba79a18523179d6cd98c6c8c", 
+      "title": "Feature Forest Models for Probabilistic HPSG Parsing", 
+      "url": "https://www.semanticscholar.org/paper/7e88338e7fe7208aba79a18523179d6cd98c6c8c", 
+      "venue": "Computational Linguistics", 
+      "year": 2008
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "6e9f4338f7b50ca9bb6d7dd23cefb6bfbfabc37f", 
+      "title": "Probabilistic Disambiguation Models for Wide-Coverage HPSG Parsing", 
+      "url": "https://www.semanticscholar.org/paper/6e9f4338f7b50ca9bb6d7dd23cefb6bfbfabc37f", 
+      "venue": "ACL", 
+      "year": 2005
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "262f1dc36b73d1d720e04d456c0e928241960f21", 
+      "title": "Word Sense Disambiguation for All Words using Tree-Structured Conditional Random Fields", 
+      "url": "https://www.semanticscholar.org/paper/262f1dc36b73d1d720e04d456c0e928241960f21", 
+      "venue": "COLING", 
+      "year": 2008
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "def843f91c3da6b88111baa722fa1a7c00df2332", 
+      "title": "An ensemble of transliteration models for information retrieval", 
+      "url": "https://www.semanticscholar.org/paper/def843f91c3da6b88111baa722fa1a7c00df2332", 
+      "venue": "Inf. Process. Manage.", 
+      "year": 2006
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "22acadaec4a735a24353bb0dbcc3230e0283f2a5", 
+      "title": "Optimising the speed and accuracy of a statistical GLR parser", 
+      "url": "https://www.semanticscholar.org/paper/22acadaec4a735a24353bb0dbcc3230e0283f2a5", 
+      "venue": "", 
+      "year": 2008
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "8f4dafaa68ea4bc702e1f13cdb932e566236b0c0", 
+      "title": "Guiding Unsupervised Grammar Induction Using Contrastive Estimation\u2217", 
+      "url": "https://www.semanticscholar.org/paper/8f4dafaa68ea4bc702e1f13cdb932e566236b0c0", 
+      "venue": "", 
+      "year": 2005
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "f77e56c5c1a46c2f136154d75292cf3f9b0f6518", 
+      "title": "Yet More Efficient EM Learning for Parameterized Logic Programs by Inter-Goal Sharing", 
+      "url": "https://www.semanticscholar.org/paper/f77e56c5c1a46c2f136154d75292cf3f9b0f6518", 
+      "venue": "ECAI", 
+      "year": 2004
+    }
+  ], 
+  "doi": null, 
+  "influentialCitationCount": 7, 
+  "paperId": "51836a978517a4fdd6b68f69d3821c0d1a339e09", 
+  "references": [
+    {
+      "isInfluential": false, 
+      "paperId": "265417f56725dbd057809257bd704d77d9faac1d", 
+      "title": "Stochastic Attribute-Value Grammars", 
+      "url": "https://www.semanticscholar.org/paper/265417f56725dbd057809257bd704d77d9faac1d", 
+      "venue": "Computational Linguistics", 
+      "year": 1997
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "59ce9cdbde13affc05a6c1f48a51ee7b0fcb154b", 
+      "title": "The Penn Treebank: Annotating Predicate Argument Structure", 
+      "url": "https://www.semanticscholar.org/paper/59ce9cdbde13affc05a6c1f48a51ee7b0fcb154b", 
+      "venue": "HLT", 
+      "year": 1994
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "0f9b608cd19afeb083e0244df4cd0db1a00e029b", 
+      "title": "Inducing Features of Random Fields", 
+      "url": "https://www.semanticscholar.org/paper/0f9b608cd19afeb083e0244df4cd0db1a00e029b", 
+      "venue": "IEEE Trans. Pattern Anal. Mach. Intell.", 
+      "year": 1997
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "463dbd690d912b23d29b7581fb6b253b36f50394", 
+      "title": "Estimators for Stochastic \"Unification-Based\" Grammars", 
+      "url": "https://www.semanticscholar.org/paper/463dbd690d912b23d29b7581fb6b253b36f50394", 
+      "venue": "ACL", 
+      "year": 1999
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "e9ab9d7bf23e1b5c27a1355bcffa312ec3a2607c", 
+      "title": "A Maximum Entropy Tagger with Unsupervised Hidden Markov Models", 
+      "url": "https://www.semanticscholar.org/paper/e9ab9d7bf23e1b5c27a1355bcffa312ec3a2607c", 
+      "venue": "NLPRS", 
+      "year": 2001
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "0c9fb603e92754fffb276ad1c962b48ae3638625", 
+      "title": "Dynamic programming for parsing and estimation of stochastic unification-based grammars", 
+      "url": "https://www.semanticscholar.org/paper/0c9fb603e92754fffb276ad1c962b48ae3638625", 
+      "venue": "ACL", 
+      "year": 2002
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "54c846ee00c6132d70429cc279e8577f63ed05e4", 
+      "title": "A Linear Observed Time Statistical Parser Based on Maximum Entropy Models", 
+      "url": "https://www.semanticscholar.org/paper/54c846ee00c6132d70429cc279e8577f63ed05e4", 
+      "venue": "ArXiv", 
+      "year": 1997
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "0c7f52c753a65ceaf3755e20b906ffd0c05c994a", 
+      "title": "Conditional Random Fields: Probabilistic Models for Segmenting and Labeling Sequence Data", 
+      "url": "https://www.semanticscholar.org/paper/0c7f52c753a65ceaf3755e20b906ffd0c05c994a", 
+      "venue": "ICML", 
+      "year": 2001
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "aa10525fc138340ef6015b171f3d61175c814617", 
+      "title": "A Whole Sentence Maximum Entropy Language Model", 
+      "url": "https://www.semanticscholar.org/paper/aa10525fc138340ef6015b171f3d61175c814617", 
+      "venue": "", 
+      "year": 1997
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "24beb987b722d4a25d3157a43000e685aa8f8874", 
+      "title": "A Maximum Entropy Model For Part-Of-Speech Tagging", 
+      "url": "https://www.semanticscholar.org/paper/24beb987b722d4a25d3157a43000e685aa8f8874", 
+      "venue": "", 
+      "year": 1996
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "4af182338ee63754d4569c26cb6a5c3bbdd8cf2a", 
+      "title": "A Maximum Entropy Approach to Natural Language Processing", 
+      "url": "https://www.semanticscholar.org/paper/4af182338ee63754d4569c26cb6a5c3bbdd8cf2a", 
+      "venue": "Computational Linguistics", 
+      "year": 1996
+    }
+  ], 
+  "title": "Maximum Entropy Estimation for Feature Forests", 
+  "url": "https://www.semanticscholar.org/paper/51836a978517a4fdd6b68f69d3821c0d1a339e09", 
+  "venue": "", 
+  "year": 2002
+}

@@ -1,0 +1,917 @@
+{
+  "authors": [
+    {
+      "authorId": "1788579", 
+      "name": "Stanley F. Chen", 
+      "url": "https://www.semanticscholar.org/author/1788579"
+    }
+  ], 
+  "citationVelocity": 0, 
+  "citations": [
+    {
+      "isInfluential": false, 
+      "paperId": "5ffe28da9dd002b60a8c7bc0bf5fba14f6e6a750", 
+      "title": "Grapheme-to-phoneme conversion using Long Short-Term Memory recurrent neural networks", 
+      "url": "https://www.semanticscholar.org/paper/5ffe28da9dd002b60a8c7bc0bf5fba14f6e6a750", 
+      "venue": "2015 IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP)", 
+      "year": 2015
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "cf172ec4afe421d12c1c7a37988fa58b763f1f43", 
+      "title": "Using web text to improve keyword spotting in speech", 
+      "url": "https://www.semanticscholar.org/paper/cf172ec4afe421d12c1c7a37988fa58b763f1f43", 
+      "venue": "ASRU", 
+      "year": 2013
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "82aa9e16c08093ed74647c7d5eaa08ff7f5ce553", 
+      "title": "Combination of Multiple Speech Transcription Methods for Vocabulary Independent Search", 
+      "url": "https://www.semanticscholar.org/paper/82aa9e16c08093ed74647c7d5eaa08ff7f5ce553", 
+      "venue": "", 
+      "year": 2008
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "9ed7a2a4f0250a858cb5d1528539a02175090a04", 
+      "title": "Adapting grapheme-to-phoneme conversion for name recognition", 
+      "url": "https://www.semanticscholar.org/paper/9ed7a2a4f0250a858cb5d1528539a02175090a04", 
+      "venue": "ASRU", 
+      "year": 2007
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "a20f11ef9f56a5af3ca22eb343941392758d72c0", 
+      "title": "Crowd-supervised training of spoken language systems", 
+      "url": "https://www.semanticscholar.org/paper/a20f11ef9f56a5af3ca22eb343941392758d72c0", 
+      "venue": "", 
+      "year": 2012
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "6f981408453e4fa512785fab6432116d783b6ec8", 
+      "title": "A Pointwise Approach to Pronunciation Estimation for a TTS Front-End", 
+      "url": "https://www.semanticscholar.org/paper/6f981408453e4fa512785fab6432116d783b6ec8", 
+      "venue": "INTERSPEECH", 
+      "year": 2011
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "2b8c536d4f47badc63147d3266bd964248e1522d", 
+      "title": "Using Graphone Models in Automatic Speech Recognition", 
+      "url": "https://www.semanticscholar.org/paper/2b8c536d4f47badc63147d3266bd964248e1522d", 
+      "venue": "", 
+      "year": 2009
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "11ebcf560c039ab56071b150313771b1fd65a80d", 
+      "title": "Improved Reconstruction of Protolanguage Word Forms", 
+      "url": "https://www.semanticscholar.org/paper/11ebcf560c039ab56071b150313771b1fd65a80d", 
+      "venue": "HLT-NAACL", 
+      "year": 2009
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "02700fa2badbc60f3185dd11f991c066ab576bd2", 
+      "title": "Learning Out-of-Vocabulary Words in Automatic Speech Recognition", 
+      "url": "https://www.semanticscholar.org/paper/02700fa2badbc60f3185dd11f991c066ab576bd2", 
+      "venue": "", 
+      "year": 2013
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "1d69754b3b0b4e6cfeaac5d30ae6b8f018950804", 
+      "title": "OOV Detection and Recovery Using Hybrid Models with Different Fragments", 
+      "url": "https://www.semanticscholar.org/paper/1d69754b3b0b4e6cfeaac5d30ae6b8f018950804", 
+      "venue": "INTERSPEECH", 
+      "year": 2011
+    }, 
+    {
+      "isInfluential": true, 
+      "paperId": "1dfa52be865043b936f021edc382071fabb66eeb", 
+      "title": "Painless Unsupervised Learning with Features", 
+      "url": "https://www.semanticscholar.org/paper/1dfa52be865043b936f021edc382071fabb66eeb", 
+      "venue": "HLT-NAACL", 
+      "year": 2010
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "0ee0059b629d3eb435d352ee9e3578318e3a1102", 
+      "title": "Probabilistic deduction of symbol mappings for extension of lexicons", 
+      "url": "https://www.semanticscholar.org/paper/0ee0059b629d3eb435d352ee9e3578318e3a1102", 
+      "venue": "INTERSPEECH", 
+      "year": 2007
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "9998ade720e69d6124eba43e29287a53537a00b1", 
+      "title": "Grapheme-to-phoneme conversion based on adaptive regularization of weight vectors", 
+      "url": "https://www.semanticscholar.org/paper/9998ade720e69d6124eba43e29287a53537a00b1", 
+      "venue": "INTERSPEECH", 
+      "year": 2013
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "746574ceb2f77f25d38f40cee12fb71bbb10c7ce", 
+      "title": "Matching Criteria for Vocabulary-Independent Search", 
+      "url": "https://www.semanticscholar.org/paper/746574ceb2f77f25d38f40cee12fb71bbb10c7ce", 
+      "venue": "IEEE Transactions on Audio, Speech, and Language Processing", 
+      "year": 2012
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "2e29eb333558b5bb05f397e1dca8a91ea7cc71c7", 
+      "title": "Speech and Language Processing: an Introduction to Natural Language Processing, Computational Linguistics, and Speech Recognition. 8 Speech Synthesis", 
+      "url": "https://www.semanticscholar.org/paper/2e29eb333558b5bb05f397e1dca8a91ea7cc71c7", 
+      "venue": "", 
+      "year": 2006
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "1596e3cb20ba3b9aefe440e30660c2a9f035f683", 
+      "title": "Learning Sub-Word Units for Open Vocabulary Speech Recognition", 
+      "url": "https://www.semanticscholar.org/paper/1596e3cb20ba3b9aefe440e30660c2a9f035f683", 
+      "venue": "ACL", 
+      "year": 2011
+    }, 
+    {
+      "isInfluential": true, 
+      "paperId": "a277a74a2aabb2eb5ef38e831f2e72f5aadd844b", 
+      "title": "Sequence-to-Sequence Neural Net Models for Grapheme-to-Phoneme Conversion", 
+      "url": "https://www.semanticscholar.org/paper/a277a74a2aabb2eb5ef38e831f2e72f5aadd844b", 
+      "venue": "INTERSPEECH", 
+      "year": 2015
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "203e85f64572623a8b5960a313436ebbf70582ff", 
+      "title": "Phonological Constraints and Morphological Preprocessing for Grapheme-to-Phoneme Conversion", 
+      "url": "https://www.semanticscholar.org/paper/203e85f64572623a8b5960a313436ebbf70582ff", 
+      "venue": "ACL", 
+      "year": 2007
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "7db2fd7e389a1b547eb47cf68ec81332655e2eda", 
+      "title": "WordNet Based Sindhi Text to Speech Synthesis System", 
+      "url": "https://www.semanticscholar.org/paper/7db2fd7e389a1b547eb47cf68ec81332655e2eda", 
+      "venue": "2010 Second International Conference on Computer Research and Development", 
+      "year": 2010
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "5662c0bf3e9acf8f40bcdc64a963c6bc3f51bee4", 
+      "title": "Stochastic Pronunciation Modelling for Out-of-Vocabulary Spoken Term Detection", 
+      "url": "https://www.semanticscholar.org/paper/5662c0bf3e9acf8f40bcdc64a963c6bc3f51bee4", 
+      "venue": "", 
+      "year": 2010
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "6c74b290e8f7f479e5385911e1a75d045fdf73f4", 
+      "title": "Learning better lexical properties for recurrent OOV words", 
+      "url": "https://www.semanticscholar.org/paper/6c74b290e8f7f479e5385911e1a75d045fdf73f4", 
+      "venue": "ASRU", 
+      "year": 2013
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "5896786dfddf798dca64ea9c3904fe8bd599afa3", 
+      "title": "A Cross-Lingual Spoken Content Search System", 
+      "url": "https://www.semanticscholar.org/paper/5896786dfddf798dca64ea9c3904fe8bd599afa3", 
+      "venue": "INTERSPEECH", 
+      "year": 2011
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "0453cc4868b4a8c512fec243f371a53167bf404e", 
+      "title": "Improving letter-to-sound conversion performance with automatically generated new words", 
+      "url": "https://www.semanticscholar.org/paper/0453cc4868b4a8c512fec243f371a53167bf404e", 
+      "venue": "2008 IEEE International Conference on Acoustics, Speech and Signal Processing", 
+      "year": 2008
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "10dddf1a1637351dbdc8a3c2d9464e2179d0709e", 
+      "title": "An MDL-based approach to extracting subword units for grapheme-to-phoneme conversion", 
+      "url": "https://www.semanticscholar.org/paper/10dddf1a1637351dbdc8a3c2d9464e2179d0709e", 
+      "venue": "HLT-NAACL", 
+      "year": 2010
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "45366ed8a07d2efba75092edd6e9ee78a78c45de", 
+      "title": "Department of Signal Theory and Communications Signal Processing Group Building a Grapheme-to- Phoneme Converter Supervisors: Student", 
+      "url": "https://www.semanticscholar.org/paper/45366ed8a07d2efba75092edd6e9ee78a78c45de", 
+      "venue": "", 
+      "year": 2004
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "36e6f890f1a2d5fef96b0426de2b6f164ace23b4", 
+      "title": "Structured soft margin confidence weighted learning for grapheme-to-phoneme conversion", 
+      "url": "https://www.semanticscholar.org/paper/36e6f890f1a2d5fef96b0426de2b6f164ace23b4", 
+      "venue": "INTERSPEECH", 
+      "year": 2014
+    }, 
+    {
+      "isInfluential": true, 
+      "paperId": "91af71ba70456a5c6615e5c404918515a14f81e7", 
+      "title": "Encoding linear models as weighted finite-state transducers", 
+      "url": "https://www.semanticscholar.org/paper/91af71ba70456a5c6615e5c404918515a14f81e7", 
+      "venue": "INTERSPEECH", 
+      "year": 2014
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "026283092679ea5ad05e8ed7d8c3ff7862810d26", 
+      "title": "Online discriminative training for grapheme-to-phoneme conversion", 
+      "url": "https://www.semanticscholar.org/paper/026283092679ea5ad05e8ed7d8c3ff7862810d26", 
+      "venue": "INTERSPEECH", 
+      "year": 2009
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "166aa2ae0e07ba3a0c4c11caf83ac23f88d25db9", 
+      "title": "Towards a Semantic Annotation of English Television News - Building and Evaluating a Constraint Grammar FrameNet", 
+      "url": "https://www.semanticscholar.org/paper/166aa2ae0e07ba3a0c4c11caf83ac23f88d25db9", 
+      "venue": "PACLIC", 
+      "year": 2012
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "6a9b08583ec17ee3d42f25486a62efa2c03b84a1", 
+      "title": "A spoken term detection framework for recovering out-of-vocabulary words using the web", 
+      "url": "https://www.semanticscholar.org/paper/6a9b08583ec17ee3d42f25486a62efa2c03b84a1", 
+      "venue": "INTERSPEECH", 
+      "year": 2010
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "9f45069b9396e6d6317012c4b3b8135d137c861d", 
+      "title": "Discriminative training for improving letter-to-sound conversion performance", 
+      "url": "https://www.semanticscholar.org/paper/9f45069b9396e6d6317012c4b3b8135d137c861d", 
+      "venue": "2008 IEEE International Conference on Acoustics, Speech and Signal Processing", 
+      "year": 2008
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "9a3451f94494a79eb107771ac406a0f69557e787", 
+      "title": "A Multi-stage Method for Text-To-Pronunciation Conversion", 
+      "url": "https://www.semanticscholar.org/paper/9a3451f94494a79eb107771ac406a0f69557e787", 
+      "venue": "", 
+      "year": 2006
+    }, 
+    {
+      "isInfluential": true, 
+      "paperId": "5d5d6e72af4bdf8a6321083e20f7cd9bda07edd2", 
+      "title": "Monotone string-to-string translation for NLU and ASR tasks", 
+      "url": "https://www.semanticscholar.org/paper/5d5d6e72af4bdf8a6321083e20f7cd9bda07edd2", 
+      "venue": "", 
+      "year": 2015
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "88c944275a50e67f2a37783e09efb4b990863c96", 
+      "title": "Comparison of Grapheme-to-Phoneme Methods on Large Pronunciation Dictionaries and LVCSR Tasks", 
+      "url": "https://www.semanticscholar.org/paper/88c944275a50e67f2a37783e09efb4b990863c96", 
+      "venue": "INTERSPEECH", 
+      "year": 2012
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "261e841c8e0175586fb193b1a199cefaa8ecf169", 
+      "title": "Weighting Finite-State Transductions With Neural Context", 
+      "url": "https://www.semanticscholar.org/paper/261e841c8e0175586fb193b1a199cefaa8ecf169", 
+      "venue": "HLT-NAACL", 
+      "year": 2016
+    }, 
+    {
+      "isInfluential": true, 
+      "paperId": "94f85d279b63d0da53e9f1279d7bd1195ba685de", 
+      "title": "Combining open vocabulary recognition and word confusion networks", 
+      "url": "https://www.semanticscholar.org/paper/94f85d279b63d0da53e9f1279d7bd1195ba685de", 
+      "venue": "2008 IEEE International Conference on Acoustics, Speech and Signal Processing", 
+      "year": 2008
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "85fc4e5653a0ab4c845c5eb944d2b9a4b5b6964a", 
+      "title": "TransPhoner: automated mnemonic keyword generation", 
+      "url": "https://www.semanticscholar.org/paper/85fc4e5653a0ab4c845c5eb944d2b9a4b5b6964a", 
+      "venue": "CHI", 
+      "year": 2014
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "2461d569bdf340a6939076b5da251f05abf91ffb", 
+      "title": "Initial and Evaluations of an Open Source WFST-based Phoneticizer", 
+      "url": "https://www.semanticscholar.org/paper/2461d569bdf340a6939076b5da251f05abf91ffb", 
+      "venue": "", 
+      "year": 2011
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "43c516384674ad3391963575483c9187a01cee08", 
+      "title": "A new method for OOV detection using hybrid word/fragment system", 
+      "url": "https://www.semanticscholar.org/paper/43c516384674ad3391963575483c9187a01cee08", 
+      "venue": "2009 IEEE International Conference on Acoustics, Speech and Signal Processing", 
+      "year": 2009
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "adf33c1bb847a83d11b87e88975240d37bdd6cbf", 
+      "title": "Statistical Grapheme to Phoneme Conversion using Language Origin", 
+      "url": "https://www.semanticscholar.org/paper/adf33c1bb847a83d11b87e88975240d37bdd6cbf", 
+      "venue": "", 
+      "year": 2006
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "1035a55762eebf3b1ef02b6c9b56bf0ac1a83fcd", 
+      "title": "Stochastic pronunciation modelling for spoken term detection", 
+      "url": "https://www.semanticscholar.org/paper/1035a55762eebf3b1ef02b6c9b56bf0ac1a83fcd", 
+      "venue": "INTERSPEECH", 
+      "year": 2009
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "098d2de05f7579f305b828facb4d222aca8b780c", 
+      "title": "Letter-to-Phoneme Conversion for a German Text-to-Speech System", 
+      "url": "https://www.semanticscholar.org/paper/098d2de05f7579f305b828facb4d222aca8b780c", 
+      "venue": "", 
+      "year": 2006
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "0b369e9b4abc9cb88627e4cf125c2e2e45f9a7f2", 
+      "title": "Improving LVCSR with hidden conditional random fields for grapheme-to-phoneme conversion", 
+      "url": "https://www.semanticscholar.org/paper/0b369e9b4abc9cb88627e4cf125c2e2e45f9a7f2", 
+      "venue": "INTERSPEECH", 
+      "year": 2013
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "03b5f54ed6d6a668b2292ed8549c50559ded3b74", 
+      "title": "Balancing false alarms and hits in Spoken Term Detection", 
+      "url": "https://www.semanticscholar.org/paper/03b5f54ed6d6a668b2292ed8549c50559ded3b74", 
+      "venue": "2010 IEEE International Conference on Acoustics, Speech and Signal Processing", 
+      "year": 2010
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "0bae016641fbd2d53d672435b51805e05a864edb", 
+      "title": "Online spelling correction for query completion", 
+      "url": "https://www.semanticscholar.org/paper/0bae016641fbd2d53d672435b51805e05a864edb", 
+      "venue": "WWW", 
+      "year": 2011
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "46862eec845a7e88a150217733d133a4277efe06", 
+      "title": "New word acquisition using subword modeling", 
+      "url": "https://www.semanticscholar.org/paper/46862eec845a7e88a150217733d133a4277efe06", 
+      "venue": "INTERSPEECH", 
+      "year": 2007
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "e0b29c2ac3f5ed2030452f3a380321c51b236f44", 
+      "title": "Fix it where it fails: Pronunciation learning by mining error corrections from speech logs", 
+      "url": "https://www.semanticscholar.org/paper/e0b29c2ac3f5ed2030452f3a380321c51b236f44", 
+      "venue": "2015 IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP)", 
+      "year": 2015
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "4de98f44037aeb308df6dea6182839a6c2b9e2d5", 
+      "title": "Letter-to-Sound Pronunciation Prediction Using Conditional Random Fields", 
+      "url": "https://www.semanticscholar.org/paper/4de98f44037aeb308df6dea6182839a6c2b9e2d5", 
+      "venue": "IEEE Signal Processing Letters", 
+      "year": 2011
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "3ed2cc956d03a8b5ec6707653bfdc7efe4a7464b", 
+      "title": "On letter to sound conversion for Romanian: A comparison of five algorithms", 
+      "url": "https://www.semanticscholar.org/paper/3ed2cc956d03a8b5ec6707653bfdc7efe4a7464b", 
+      "venue": "2013 7th Conference on Speech Technology and Human - Computer Dialogue (SpeD)", 
+      "year": 2013
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "0848f4e83c27b1863982bc82aae04bfbc4813110", 
+      "title": "Example-based grapheme-to-phoneme conversion for Thai", 
+      "url": "https://www.semanticscholar.org/paper/0848f4e83c27b1863982bc82aae04bfbc4813110", 
+      "venue": "INTERSPEECH", 
+      "year": 2006
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "c41b724472fe1c6ecd86379fbd514a2c5ce57275", 
+      "title": "Example-Based Grapheme-to-Phon", 
+      "url": "https://www.semanticscholar.org/paper/c41b724472fe1c6ecd86379fbd514a2c5ce57275", 
+      "venue": "", 
+      "year": 2006
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "6ffe82b820ea45ce627fd5a4ec53fb7a6c7b9782", 
+      "title": "Building a vocabulary self-learning speech recognition system", 
+      "url": "https://www.semanticscholar.org/paper/6ffe82b820ea45ce627fd5a4ec53fb7a6c7b9782", 
+      "venue": "INTERSPEECH", 
+      "year": 2014
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "c3718d29002ebc18612430f7a5e00ad0a0f93c49", 
+      "title": "Linguistically-motivated sub-word modeling with applications to speech recognition", 
+      "url": "https://www.semanticscholar.org/paper/c3718d29002ebc18612430f7a5e00ad0a0f93c49", 
+      "venue": "", 
+      "year": 2008
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "766f582bf4e2f164d17ceebdd286f14e232a3995", 
+      "title": "Low-resource grapheme-to-phoneme conversion using recurrent neural networks", 
+      "url": "https://www.semanticscholar.org/paper/766f582bf4e2f164d17ceebdd286f14e232a3995", 
+      "venue": "2017 IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP)", 
+      "year": 2017
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "2fa1449df67a59063b63f38948922aa985238120", 
+      "title": "Japanese Pronunciation Prediction as Phrasal Statistical Machine Translation", 
+      "url": "https://www.semanticscholar.org/paper/2fa1449df67a59063b63f38948922aa985238120", 
+      "venue": "IJCNLP", 
+      "year": 2011
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "2f369845ae7191196d65310210db2485feb3aa86", 
+      "title": "Narrow Adaptive Regularization of weights for grapheme-to-phoneme conversion", 
+      "url": "https://www.semanticscholar.org/paper/2f369845ae7191196d65310210db2485feb3aa86", 
+      "venue": "2014 IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP)", 
+      "year": 2014
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "452693e033ab33e9e5d357d16d42e56e7c008b23", 
+      "title": "Learning Lexicons From Speech Using a Pronunciation Mixture Model", 
+      "url": "https://www.semanticscholar.org/paper/452693e033ab33e9e5d357d16d42e56e7c008b23", 
+      "venue": "IEEE Transactions on Audio, Speech, and Language Processing", 
+      "year": 2013
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "648b91f7b62b36ee5cad04b7d354d948f070db9c", 
+      "title": "A Probabilistic Approach to Pronunciation by Analogy", 
+      "url": "https://www.semanticscholar.org/paper/648b91f7b62b36ee5cad04b7d354d948f070db9c", 
+      "venue": "Computer Speech & Language", 
+      "year": 2013
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "2494601a8c6f98a2c71035978fac4d50e60fea86", 
+      "title": "Automatic lexical pronunciations generation and update", 
+      "url": "https://www.semanticscholar.org/paper/2494601a8c6f98a2c71035978fac4d50e60fea86", 
+      "venue": "ASRU", 
+      "year": 2007
+    }, 
+    {
+      "isInfluential": true, 
+      "paperId": "f428279df0ba02ccdb1022294f5c699174469591", 
+      "title": "Automatic Syllabification with Structured SVMs for Letter-to-Phoneme Conversion", 
+      "url": "https://www.semanticscholar.org/paper/f428279df0ba02ccdb1022294f5c699174469591", 
+      "venue": "ACL", 
+      "year": 2008
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "64322235ab1d5941d652baf40d9169d0e49385ec", 
+      "title": "Stochastic Pronunciation Modeling for Out-of-Vocabulary Spoken Term Detection", 
+      "url": "https://www.semanticscholar.org/paper/64322235ab1d5941d652baf40d9169d0e49385ec", 
+      "venue": "IEEE Transactions on Audio, Speech, and Language Processing", 
+      "year": 2011
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "34fda1b4eb71a6e48f48b67b5b89660f54d601a7", 
+      "title": "Acoustic data-driven grapheme-to-phoneme conversion in the probabilistic lexical modeling framework", 
+      "url": "https://www.semanticscholar.org/paper/34fda1b4eb71a6e48f48b67b5b89660f54d601a7", 
+      "venue": "Speech Communication", 
+      "year": 2016
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "31335e7b91f979db3b6cb173f4775734dfaa45c7", 
+      "title": "Controlling Complexity in Part-of-Speech Induction", 
+      "url": "https://www.semanticscholar.org/paper/31335e7b91f979db3b6cb173f4775734dfaa45c7", 
+      "venue": "J. Artif. Intell. Res.", 
+      "year": 2011
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "7efebbdb5cf26a090562ab60d5bc96288a0935ea", 
+      "title": "Perception of syllables pitch contour in Sindhi language", 
+      "url": "https://www.semanticscholar.org/paper/7efebbdb5cf26a090562ab60d5bc96288a0935ea", 
+      "venue": "2009 International Conference on Natural Language Processing and Knowledge Engineering", 
+      "year": 2009
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "9ae8383b46b8f62e920177bd1ffaa601ccf5d698", 
+      "title": "Combining linguistic knowledge and acoustic information in automatic pronunciation lexicon generation", 
+      "url": "https://www.semanticscholar.org/paper/9ae8383b46b8f62e920177bd1ffaa601ccf5d698", 
+      "venue": "INTERSPEECH", 
+      "year": 2004
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "06988c9227cd8328ce54fc243c77797d40976020", 
+      "title": "THE JOHNS HOPKINS UNIVERSITY Sub-Lexical and Contextual Modeling of Out-of-Vocabulary Words in Speech Recognition", 
+      "url": "https://www.semanticscholar.org/paper/06988c9227cd8328ce54fc243c77797d40976020", 
+      "venue": "", 
+      "year": 2013
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "51259fe67a7fdfe6c3762ad7a28cd5c9a38d381e", 
+      "title": "Failure transitions for joint n-gram models and G2p conversion", 
+      "url": "https://www.semanticscholar.org/paper/51259fe67a7fdfe6c3762ad7a28cd5c9a38d381e", 
+      "venue": "INTERSPEECH", 
+      "year": 2013
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "07097ec8618c8c92d410f2aa3782015e8ee13b12", 
+      "title": "Phonetic query expansion for spoken document retrieval", 
+      "url": "https://www.semanticscholar.org/paper/07097ec8618c8c92d410f2aa3782015e8ee13b12", 
+      "venue": "INTERSPEECH", 
+      "year": 2008
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "6a3c541b92ec5f224d24963c33dc35d6c3819b69", 
+      "title": "Learning new word pronunciations from spoken examples", 
+      "url": "https://www.semanticscholar.org/paper/6a3c541b92ec5f224d24963c33dc35d6c3819b69", 
+      "venue": "INTERSPEECH", 
+      "year": 2010
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "49a524c24de5ba9f7a65511697eae228b667ef55", 
+      "title": "Using Graphone Models in Automatic Speech Recognition S-co-supervisor Jul 2 0 2009 Libraries Using Graphone Models in Automatic Speech Recognition", 
+      "url": "https://www.semanticscholar.org/paper/49a524c24de5ba9f7a65511697eae228b667ef55", 
+      "venue": "", 
+      "year": 2009
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "236734228a0f2d555c14c637ccc05335d3684d83", 
+      "title": "Applying log linear model based context dependent machine translation techniques to grapheme-to-phoneme conversion", 
+      "url": "https://www.semanticscholar.org/paper/236734228a0f2d555c14c637ccc05335d3684d83", 
+      "venue": "2010 IEEE International Conference on Acoustics, Speech and Signal Processing", 
+      "year": 2010
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "3df552175c58c7642f21dc34c06e1d70d8a01b7d", 
+      "title": "Discriminative graph training for ultra-fast low-footprint speech indexing", 
+      "url": "https://www.semanticscholar.org/paper/3df552175c58c7642f21dc34c06e1d70d8a01b7d", 
+      "venue": "INTERSPEECH", 
+      "year": 2008
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "9b1ef8ba17a4786af5823ad36b48cb28c615195e", 
+      "title": "Probabilistic Lexical Modeling and Grapheme-based Automatic Speech Recognition", 
+      "url": "https://www.semanticscholar.org/paper/9b1ef8ba17a4786af5823ad36b48cb28c615195e", 
+      "venue": "", 
+      "year": 2013
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "5774a894c6fec8e6412eba12521f778606bce2a5", 
+      "title": "Vocabulary independent spoken term detection", 
+      "url": "https://www.semanticscholar.org/paper/5774a894c6fec8e6412eba12521f778606bce2a5", 
+      "venue": "SIGIR", 
+      "year": 2007
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "64806e26045233f73d9c315f7005e953e43e3eae", 
+      "title": "Jointly learning to align and convert graphemes to phonemes with neural attention models", 
+      "url": "https://www.semanticscholar.org/paper/64806e26045233f73d9c315f7005e953e43e3eae", 
+      "venue": "SLT", 
+      "year": 2016
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "44487121ca400b5e0485b4fd645d3b23724e7845", 
+      "title": "A New Phonetic Candidate Generator for Improving Search Query Efficiency", 
+      "url": "https://www.semanticscholar.org/paper/44487121ca400b5e0485b4fd645d3b23724e7845", 
+      "venue": "INTERSPEECH", 
+      "year": 2011
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "1ad9817a18a2eba3dd13ae1cf2c4a2967f7c1808", 
+      "title": "On statistical machine translation method for lexicon refinement in speech recognition", 
+      "url": "https://www.semanticscholar.org/paper/1ad9817a18a2eba3dd13ae1cf2c4a2967f7c1808", 
+      "venue": "2015 IEEE China Summit and International Conference on Signal and Information Processing (ChinaSIP)", 
+      "year": 2015
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "25086f204ebb3e1ce1033ebdbbc10dc2495eb613", 
+      "title": "Integrating Joint n-gram Features into a Discriminative Training Framework", 
+      "url": "https://www.semanticscholar.org/paper/25086f204ebb3e1ce1033ebdbbc10dc2495eb613", 
+      "venue": "HLT-NAACL", 
+      "year": 2010
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "a2f47d71797f9693913fdd2f7b39618e615ac77c", 
+      "title": "Hidden Markov models for grapheme to phoneme conversion", 
+      "url": "https://www.semanticscholar.org/paper/a2f47d71797f9693913fdd2f7b39618e615ac77c", 
+      "venue": "INTERSPEECH", 
+      "year": 2005
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "46a9b119975c293b44e1dbee30c9db97950f60d6", 
+      "title": "Read, Attend and Pronounce: An Attention-Based Approach for Grapheme-To-Phoneme Conversion", 
+      "url": "https://www.semanticscholar.org/paper/46a9b119975c293b44e1dbee30c9db97950f60d6", 
+      "venue": "", 
+      "year": 2016
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "282a1a1ad00bf0300752a419824816a6c4cdaa6c", 
+      "title": "Direct posterior confidence for out-of-vocabulary spoken term detection", 
+      "url": "https://www.semanticscholar.org/paper/282a1a1ad00bf0300752a419824816a6c4cdaa6c", 
+      "venue": "ACM Trans. Inf. Syst.", 
+      "year": 2010
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "c1df8a5f9eac156cc3210017d9b099ea900bd175", 
+      "title": "A Comparison of Different Machine Transliteration Models", 
+      "url": "https://www.semanticscholar.org/paper/c1df8a5f9eac156cc3210017d9b099ea900bd175", 
+      "venue": "J. Artif. Intell. Res.", 
+      "year": 2006
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "352cde884facea2667f8d26f48a63c6a66b495db", 
+      "title": "Mispronunciation Detection and Diagnosis in L2 English Speech Using Multidistribution Deep Neural Networks", 
+      "url": "https://www.semanticscholar.org/paper/352cde884facea2667f8d26f48a63c6a66b495db", 
+      "venue": "IEEE/ACM Transactions on Audio, Speech, and Language Processing", 
+      "year": 2014
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "325e90957eb2797e6a0e9f85331e19bc59b077a4", 
+      "title": "Open vocabulary speech recognition with flat hybrid models", 
+      "url": "https://www.semanticscholar.org/paper/325e90957eb2797e6a0e9f85331e19bc59b077a4", 
+      "venue": "INTERSPEECH", 
+      "year": 2005
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "2ca5c48f77b59c67871190e49869d4bf50f0510b", 
+      "title": "Towards using hybrid word and fragment units for vocabulary independent LVCSR systems", 
+      "url": "https://www.semanticscholar.org/paper/2ca5c48f77b59c67871190e49869d4bf50f0510b", 
+      "venue": "INTERSPEECH", 
+      "year": 2009
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "66a07bc51a53d1d2a85c465a79f9da867a1e383c", 
+      "title": "Automated reconstruction of ancient languages using probabilistic models of sound change.", 
+      "url": "https://www.semanticscholar.org/paper/66a07bc51a53d1d2a85c465a79f9da867a1e383c", 
+      "venue": "Proceedings of the National Academy of Sciences of the United States of America", 
+      "year": 2013
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "d02cf062b4e2d4a7f03fc0fb2f980f3a9b5c7e9b", 
+      "title": "Query-by-example Spoken Term Detection For OOV terms", 
+      "url": "https://www.semanticscholar.org/paper/d02cf062b4e2d4a7f03fc0fb2f980f3a9b5c7e9b", 
+      "venue": "ASRU", 
+      "year": 2009
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "12afdf53b61d4a511ab1996a7b01881a282290cb", 
+      "title": "Token and Type Constraints for Cross-Lingual Part-of-Speech Tagging", 
+      "url": "https://www.semanticscholar.org/paper/12afdf53b61d4a511ab1996a7b01881a282290cb", 
+      "venue": "TACL", 
+      "year": 2013
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "0de01a96c95060e6652e623153452ce82ba143f9", 
+      "title": "Pronunciation Learning from Continuous Speech", 
+      "url": "https://www.semanticscholar.org/paper/0de01a96c95060e6652e623153452ce82ba143f9", 
+      "venue": "INTERSPEECH", 
+      "year": 2011
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "48a4bec59eaef8d0834f5c40853203dbfa06ba76", 
+      "title": "Joint-sequence models for grapheme-to-phoneme conversion", 
+      "url": "https://www.semanticscholar.org/paper/48a4bec59eaef8d0834f5c40853203dbfa06ba76", 
+      "venue": "Speech Communication", 
+      "year": 2008
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "e676368db3e6e992a4c647382075729288928eaf", 
+      "title": "Structured Adaptive Regularization of Weight Vectors for a Robust Grapheme-to-Phoneme Conversion Model", 
+      "url": "https://www.semanticscholar.org/paper/e676368db3e6e992a4c647382075729288928eaf", 
+      "venue": "IEICE Transactions", 
+      "year": 2014
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "ca36ab22ec67bc422e297ba7b547a5175a963057", 
+      "title": "Phonemic variability and confusability in pronunciation modeling for automatic speech recognition", 
+      "url": "https://www.semanticscholar.org/paper/ca36ab22ec67bc422e297ba7b547a5175a963057", 
+      "venue": "", 
+      "year": 2013
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "860f259e452df215ef531f18025d4e40c2434f8b", 
+      "title": "OOV Word Detection using Hybrid Models with Mixed Types of Fragments", 
+      "url": "https://www.semanticscholar.org/paper/860f259e452df215ef531f18025d4e40c2434f8b", 
+      "venue": "INTERSPEECH", 
+      "year": 2012
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "2cebeb87d15fb3004dd2650ab69f22b55eba74e7", 
+      "title": "Phonemic Similarity Metrics to Compare Pronunciation Methods", 
+      "url": "https://www.semanticscholar.org/paper/2cebeb87d15fb3004dd2650ab69f22b55eba74e7", 
+      "venue": "INTERSPEECH", 
+      "year": 2011
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "ae5bae15ee5ec1acef30f5924d80fd40a6a7dcd3", 
+      "title": "Wiki-ly Supervised Part-of-Speech Tagging", 
+      "url": "https://www.semanticscholar.org/paper/ae5bae15ee5ec1acef30f5924d80fd40a6a7dcd3", 
+      "venue": "EMNLP-CoNLL", 
+      "year": 2012
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "9d5e905f4bb589763f1591fbbd3b1940fc92a7dc", 
+      "title": "Probabilistic Models of Evolution and Language Change", 
+      "url": "https://www.semanticscholar.org/paper/9d5e905f4bb589763f1591fbbd3b1940fc92a7dc", 
+      "venue": "", 
+      "year": 2010
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "62ac088d966d4a9122959f13301759c6bbda6c36", 
+      "title": "Latent-Variable Modeling of String Transductions with Finite-State Methods", 
+      "url": "https://www.semanticscholar.org/paper/62ac088d966d4a9122959f13301759c6bbda6c36", 
+      "venue": "EMNLP", 
+      "year": 2008
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "3012f4a925cc7b8fa1731a89b1a07639163c6dc8", 
+      "title": "Contextual Information Improves OOV Detection in Speech", 
+      "url": "https://www.semanticscholar.org/paper/3012f4a925cc7b8fa1731a89b1a07639163c6dc8", 
+      "venue": "HLT-NAACL", 
+      "year": 2010
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "b683ed92473df83b45b4492ac78b8f61309a2a91", 
+      "title": "Predicting Word Pronunciation in Japanese", 
+      "url": "https://www.semanticscholar.org/paper/b683ed92473df83b45b4492ac78b8f61309a2a91", 
+      "venue": "CICLing", 
+      "year": 2011
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "752cf4c5b614a5fb3049213ebff78cf1799f5e3f", 
+      "title": "Acoustic data-driven pronunciation lexicon generation for logographic languages", 
+      "url": "https://www.semanticscholar.org/paper/752cf4c5b614a5fb3049213ebff78cf1799f5e3f", 
+      "venue": "2016 IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP)", 
+      "year": 2016
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "a3381742cd58594d46e29ac2bbedcaff40b7028d", 
+      "title": "Unsupervised Analysis of Structured Human Artifacts", 
+      "url": "https://www.semanticscholar.org/paper/a3381742cd58594d46e29ac2bbedcaff40b7028d", 
+      "venue": "", 
+      "year": 2015
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "470af1ac3e2e4f0a83ba147801adf39f095572e9", 
+      "title": "Hybrid approach to grapheme to phoneme conversion for Korean", 
+      "url": "https://www.semanticscholar.org/paper/470af1ac3e2e4f0a83ba147801adf39f095572e9", 
+      "venue": "INTERSPEECH", 
+      "year": 2009
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "061a329eb3cc346decb6ea1fcb8a339b19fafc26", 
+      "title": "Statistical Method of Building Dialect Language Models for ASR Systems", 
+      "url": "https://www.semanticscholar.org/paper/061a329eb3cc346decb6ea1fcb8a339b19fafc26", 
+      "venue": "COLING", 
+      "year": 2012
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "a5794010f831f6676db81354e2c611e908b1aaec", 
+      "title": "Evaluations of an Open Source WFST-based Phoneticizer", 
+      "url": "https://www.semanticscholar.org/paper/a5794010f831f6676db81354e2c611e908b1aaec", 
+      "venue": "", 
+      "year": 2011
+    }
+  ], 
+  "doi": null, 
+  "influentialCitationCount": 6, 
+  "paperId": "2645c31036cca939485ba2f8a7ea66f700504b36", 
+  "references": [
+    {
+      "isInfluential": false, 
+      "paperId": "19fc24a2893858087ef2eca7f0c4c1d031570fd7", 
+      "title": "Letter to Sound Rules for Accented Lexicon Compression", 
+      "url": "https://www.semanticscholar.org/paper/19fc24a2893858087ef2eca7f0c4c1d031570fd7", 
+      "venue": "ICSLP", 
+      "year": 1998
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "21d6baca37dbcb35cf263dd93ce306f6013a1ff5", 
+      "title": "Issues in building general letter to sound rules", 
+      "url": "https://www.semanticscholar.org/paper/21d6baca37dbcb35cf263dd93ce306f6013a1ff5", 
+      "venue": "SSW", 
+      "year": 1998
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "2bcb7c4c7985648775a47b2ffa0af9cb82bd8742", 
+      "title": "Investigations on joint-multigram models for grapheme-to-phoneme conversion", 
+      "url": "https://www.semanticscholar.org/paper/2bcb7c4c7985648775a47b2ffa0af9cb82bd8742", 
+      "venue": "INTERSPEECH", 
+      "year": 2002
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "0bc915aed1e0dbbbe5f3c708c0f77383eee441ad", 
+      "title": "Improvements on a trainable letter-to-sound converter", 
+      "url": "https://www.semanticscholar.org/paper/0bc915aed1e0dbbbe5f3c708c0f77383eee441ad", 
+      "venue": "EUROSPEECH", 
+      "year": 1997
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "7e9e66b55476bb0c58f23695c9a6554b6e74d906", 
+      "title": "A survey of smoothing techniques for ME models", 
+      "url": "https://www.semanticscholar.org/paper/7e9e66b55476bb0c58f23695c9a6554b6e74d906", 
+      "venue": "IEEE Trans. Speech and Audio Processing", 
+      "year": 2000
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "154c56e7f18cae59ab497f915bd7c3e4473023a5", 
+      "title": "Bi-directional conversion between graphemes and phonemes using a joint N-gram model", 
+      "url": "https://www.semanticscholar.org/paper/154c56e7f18cae59ab497f915bd7c3e4473023a5", 
+      "venue": "SSW", 
+      "year": 2001
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "4bec0a4a2fd1d072b9857a1c9513582c5886a741", 
+      "title": "A Multi-Strategy Approach to Improving Pronunciation by Analogy", 
+      "url": "https://www.semanticscholar.org/paper/4bec0a4a2fd1d072b9857a1c9513582c5886a741", 
+      "venue": "Computational Linguistics", 
+      "year": 2000
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "4af182338ee63754d4569c26cb6a5c3bbdd8cf2a", 
+      "title": "A Maximum Entropy Approach to Natural Language Processing", 
+      "url": "https://www.semanticscholar.org/paper/4af182338ee63754d4569c26cb6a5c3bbdd8cf2a", 
+      "venue": "Computational Linguistics", 
+      "year": 1996
+    }
+  ], 
+  "title": "Conditional and joint models for grapheme-to-phoneme conversion", 
+  "url": "https://www.semanticscholar.org/paper/2645c31036cca939485ba2f8a7ea66f700504b36", 
+  "venue": "INTERSPEECH", 
+  "year": 2003
+}

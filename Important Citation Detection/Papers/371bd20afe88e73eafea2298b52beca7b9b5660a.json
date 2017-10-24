@@ -1,0 +1,942 @@
+{
+  "authors": [
+    {
+      "authorId": "1886512", 
+      "name": "Ryan T. McDonald", 
+      "url": "https://www.semanticscholar.org/author/1886512"
+    }, 
+    {
+      "authorId": "2400916", 
+      "name": "Keith B. Hall", 
+      "url": "https://www.semanticscholar.org/author/2400916"
+    }, 
+    {
+      "authorId": "3147021", 
+      "name": "Gideon Mann", 
+      "url": "https://www.semanticscholar.org/author/3147021"
+    }
+  ], 
+  "citationVelocity": 26, 
+  "citations": [
+    {
+      "isInfluential": false, 
+      "paperId": "52a5f494f15846837dbbbbb6f29832e82dc0e22b", 
+      "title": "A fast parallel SGD for matrix factorization in shared memory systems", 
+      "url": "https://www.semanticscholar.org/paper/52a5f494f15846837dbbbbb6f29832e82dc0e22b"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "1163f911d5515e13dc1a141fb6501af756af39f9", 
+      "title": "Optimal and Syntactically-Informed Decoding for Monolingual Phrase-Based Alignment", 
+      "url": "https://www.semanticscholar.org/paper/1163f911d5515e13dc1a141fb6501af756af39f9"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "d192c32acab207b89fb11df88ef79c6ce5a69411", 
+      "title": "Large-scale machine learning at twitter", 
+      "url": "https://www.semanticscholar.org/paper/d192c32acab207b89fb11df88ef79c6ce5a69411"
+    }, 
+    {
+      "isInfluential": true, 
+      "paperId": "875e5ae1f3519b0901f53ea5cb1a8430abeb3591", 
+      "title": "Optimized Online Rank Learning for Machine Translation", 
+      "url": "https://www.semanticscholar.org/paper/875e5ae1f3519b0901f53ea5cb1a8430abeb3591"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "ec9570dec8f4c979e31d4d6c619366c9aaace6c9", 
+      "title": "Comunication-Efficient Algorithms for Statistical Optimization", 
+      "url": "https://www.semanticscholar.org/paper/ec9570dec8f4c979e31d4d6c619366c9aaace6c9"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "4aef5ba0196372a06959e12f8179a317679041d2", 
+      "title": "Advanced architectures distributed systems for the implementation of neural networks", 
+      "url": "https://www.semanticscholar.org/paper/4aef5ba0196372a06959e12f8179a317679041d2"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "6180c1e8046e7b131d83ae8d725a606ce3bc64e3", 
+      "title": "Optimized Zero False Positives Perceptron Training for Malware Detection", 
+      "url": "https://www.semanticscholar.org/paper/6180c1e8046e7b131d83ae8d725a606ce3bc64e3"
+    }, 
+    {
+      "isInfluential": true, 
+      "paperId": "3cad59ed9faf5194c499ae8a3d57caece152360f", 
+      "title": "HadoopPerceptron: a Toolkit for Distributed Perceptron Training and Prediction with MapReduce", 
+      "url": "https://www.semanticscholar.org/paper/3cad59ed9faf5194c499ae8a3d57caece152360f"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "86c896dfe7690a760381117827ffdfac179ec5f2", 
+      "title": "Joint Feature Selection in Distributed Stochastic Learning for Large-Scale Discriminative Training in SMT", 
+      "url": "https://www.semanticscholar.org/paper/86c896dfe7690a760381117827ffdfac179ec5f2"
+    }, 
+    {
+      "isInfluential": true, 
+      "paperId": "138fda7e6a92ce0be455901bdfc41c9b76d6e060", 
+      "title": "Iterative parameter mixing for distributed large-margin training of structured predictors for natural language processing", 
+      "url": "https://www.semanticscholar.org/paper/138fda7e6a92ce0be455901bdfc41c9b76d6e060"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "0ddf04c292a17a26a271af8b07ceb6c029dd8e56", 
+      "title": "Optimization for Large-Scale Machine Learning with Distributed Features and Observations", 
+      "url": "https://www.semanticscholar.org/paper/0ddf04c292a17a26a271af8b07ceb6c029dd8e56"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "f7a02ef779a42258557528d0eb72ec2995aa9563", 
+      "title": "Event Extraction using Structured Learning and Rich Domain Knowledge: Application across Domains and Data Sources", 
+      "url": "https://www.semanticscholar.org/paper/f7a02ef779a42258557528d0eb72ec2995aa9563"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "a39b8f1fd15774e3e34035c4a55a8335f4aafa1a", 
+      "title": "Advances in discriminative dependency parsing", 
+      "url": "https://www.semanticscholar.org/paper/a39b8f1fd15774e3e34035c4a55a8335f4aafa1a"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "25a08b31f4eb4bb99a647b7f397cef5a9a4f73e7", 
+      "title": "Lock-Free Parallel Perceptron for Graph-based Dependency Parsing", 
+      "url": "https://www.semanticscholar.org/paper/25a08b31f4eb4bb99a647b7f397cef5a9a4f73e7"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "9b30bc452348d7de0ba5904d04f80331ed2ace64", 
+      "title": "Regularized Structured Perceptron: A Case Study on Chinese Word Segmentation, POS Tagging and Parsing", 
+      "url": "https://www.semanticscholar.org/paper/9b30bc452348d7de0ba5904d04f80331ed2ace64"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "18f431a66df3dab70c401eb4b0c9d17393f1f736", 
+      "title": "Recent Advances of Large-Scale Linear Classification", 
+      "url": "https://www.semanticscholar.org/paper/18f431a66df3dab70c401eb4b0c9d17393f1f736"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "24dbaf93c13c0f47e7df8f8a61bdac1e6b30e66e", 
+      "title": "Training a Natural Language Generator From Unaligned Data", 
+      "url": "https://www.semanticscholar.org/paper/24dbaf93c13c0f47e7df8f8a61bdac1e6b30e66e"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "d566099eb8ef03451703ada9e116f261914038b5", 
+      "title": "Communication-Efficient Distributed Online Prediction using Dynamic Model Synchronizations", 
+      "url": "https://www.semanticscholar.org/paper/d566099eb8ef03451703ada9e116f261914038b5"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "84e1fa952bd250f3c872494edaea15d9f9840321", 
+      "title": "Margin Infused Relaxed Algorithm for Moses", 
+      "url": "https://www.semanticscholar.org/paper/84e1fa952bd250f3c872494edaea15d9f9840321"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "b32466245aaf9c0d1ba6a0c279aa14e948df31d0", 
+      "title": "Scalable Probabilistic Entity-Topic Modeling", 
+      "url": "https://www.semanticscholar.org/paper/b32466245aaf9c0d1ba6a0c279aa14e948df31d0"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "2e991c17d083532af50222a5249238558f7ae6ec", 
+      "title": "Confusion-based Statistical Language Modeling for Machine Translation and Speech Recognition", 
+      "url": "https://www.semanticscholar.org/paper/2e991c17d083532af50222a5249238558f7ae6ec"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "2dc2d10033721dca368e75da82c4d22bd7b6d286", 
+      "title": "Referential Translation Machines for Predicting Translation Quality and Related Statistics", 
+      "url": "https://www.semanticscholar.org/paper/2dc2d10033721dca368e75da82c4d22bd7b6d286"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "283b4c4e165181a71028328c4cedbfa1a74b238c", 
+      "title": "Hope and Fear for Discriminative Training of Statistical Translation Models", 
+      "url": "https://www.semanticscholar.org/paper/283b4c4e165181a71028328c4cedbfa1a74b238c"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "5111ecb77fbe6b8d9b372b2f60ec7ffc652a83c9", 
+      "title": "Referential Translation Machines for Predicting Translation Quality", 
+      "url": "https://www.semanticscholar.org/paper/5111ecb77fbe6b8d9b372b2f60ec7ffc652a83c9"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "24243f15240c2908b62d380f7bcc33626f1633c0", 
+      "title": "Optimization Strategies for Online Large-Margin Learning in Machine Translation", 
+      "url": "https://www.semanticscholar.org/paper/24243f15240c2908b62d380f7bcc33626f1633c0"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "573804a3618fb90437a9c0a98bcd2de9f69a42cc", 
+      "title": "Large-Scale Distributed Bayesian Matrix Factorization using Stochastic Gradient MCMC", 
+      "url": "https://www.semanticscholar.org/paper/573804a3618fb90437a9c0a98bcd2de9f69a42cc"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "1185cbc0f267b3c879081879343dd19a7a469dfc", 
+      "title": "Refr: an open-source reranker framework", 
+      "url": "https://www.semanticscholar.org/paper/1185cbc0f267b3c879081879343dd19a7a469dfc"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "0eb20cfd5104c1210ec1c951599b85513c3e7de7", 
+      "title": "Unsupervised Learning of Lexical Information for Language Processing Systems", 
+      "url": "https://www.semanticscholar.org/paper/0eb20cfd5104c1210ec1c951599b85513c3e7de7"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "2ef38e3cde92b6f9a3f6e98bb0658fc32206bd7d", 
+      "title": "Multi-Task Learning for Improved Discriminative Training in SMT", 
+      "url": "https://www.semanticscholar.org/paper/2ef38e3cde92b6f9a3f6e98bb0658fc32206bd7d"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "fa7e2308ee039b8db35a41c860374ba5939520a2", 
+      "title": "The Role of the Underground Economy in Social Network Spam and Abuse", 
+      "url": "https://www.semanticscholar.org/paper/fa7e2308ee039b8db35a41c860374ba5939520a2"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "082388e4ad2f8aec9a5fce77fd25d73c41613a35", 
+      "title": "SampleRank Training for Phrase-Based Machine Translation", 
+      "url": "https://www.semanticscholar.org/paper/082388e4ad2f8aec9a5fce77fd25d73c41613a35"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "952cad8e15e8b5c33699bdfa13aba0def168a269", 
+      "title": "Chinese Handwriting Recognition: An Algorithmic Perspective", 
+      "url": "https://www.semanticscholar.org/paper/952cad8e15e8b5c33699bdfa13aba0def168a269"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "75d7d4f30fa3890ad29fa5af2aefbb57d436e584", 
+      "title": "Field-aware Factorization Machines in a Real-world Online Advertising System", 
+      "url": "https://www.semanticscholar.org/paper/75d7d4f30fa3890ad29fa5af2aefbb57d436e584"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "3015d86fa225c5a2bedcdf51d09f55c327f17b64", 
+      "title": "Optimality guarantees for distributed statistical estimation", 
+      "url": "https://www.semanticscholar.org/paper/3015d86fa225c5a2bedcdf51d09f55c327f17b64"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "4f1af2faae505f6efcb8862461daaf6d70218d56", 
+      "title": "Scalable optimization algorithms for recommender systems", 
+      "url": "https://www.semanticscholar.org/paper/4f1af2faae505f6efcb8862461daaf6d70218d56"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "6dfb7cba3ab7d5090b88cf23865c76742473e381", 
+      "title": "A Fast Parallel Stochastic Gradient Method for Matrix Factorization in Shared Memory Systems", 
+      "url": "https://www.semanticscholar.org/paper/6dfb7cba3ab7d5090b88cf23865c76742473e381"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "136bd3374e2c8cf2170762af3968c46c14dcada3", 
+      "title": "Distributed Methods for High-Dimensional and Large-Scale Tensor Factorization", 
+      "url": "https://www.semanticscholar.org/paper/136bd3374e2c8cf2170762af3968c46c14dcada3"
+    }, 
+    {
+      "isInfluential": true, 
+      "paperId": "7bf6a4145ea4b7360630da9beeb6da0d6119b0b0", 
+      "title": "Making Deep Belief Networks effective for large vocabulary continuous speech recognition", 
+      "url": "https://www.semanticscholar.org/paper/7bf6a4145ea4b7360630da9beeb6da0d6119b0b0"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "ab5eb780a3b43e3b6eb71a3db182b7ff9a9e3e67", 
+      "title": "Communication-Efficient Distributed Online Prediction by Dynamic Model Synchronization", 
+      "url": "https://www.semanticscholar.org/paper/ab5eb780a3b43e3b6eb71a3db182b7ff9a9e3e67"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "6d4c64ca6936f868d793e1b164ddaf19243c19a7", 
+      "title": "Scalable Linear Visual Feature Learning via Online Parallel Nonnegative Matrix Factorization", 
+      "url": "https://www.semanticscholar.org/paper/6d4c64ca6936f868d793e1b164ddaf19243c19a7"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "773e752ab6dc04b43aaf984bcbdd4895c9ab8c2f", 
+      "title": "Large vocabulary continuous speech recognition using WFST-based linear classifier for structured data", 
+      "url": "https://www.semanticscholar.org/paper/773e752ab6dc04b43aaf984bcbdd4895c9ab8c2f"
+    }, 
+    {
+      "isInfluential": true, 
+      "paperId": "62d588d2200ab2cbee153a8998a7fa98c30cf7bb", 
+      "title": "Exponential Moving Average Model in Parallel Speech Recognition Training", 
+      "url": "https://www.semanticscholar.org/paper/62d588d2200ab2cbee153a8998a7fa98c30cf7bb"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "07d138a54c441d6ae9bff073025f8f5eeaac4da4", 
+      "title": "Performance Modeling and Scalability Optimization of Distributed Deep Learning Systems", 
+      "url": "https://www.semanticscholar.org/paper/07d138a54c441d6ae9bff073025f8f5eeaac4da4"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "a6ba0b7dad2f87af1c954b555feb97fd557d7227", 
+      "title": "The Effect of Higher-Order Dependency Features in Discriminative Phrase-Structure Parsing", 
+      "url": "https://www.semanticscholar.org/paper/a6ba0b7dad2f87af1c954b555feb97fd557d7227"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "0e9bac6a2b51e93e73f7f5045d4252972db10b5a", 
+      "title": "Large-scale matrix factorization with distributed stochastic gradient descent", 
+      "url": "https://www.semanticscholar.org/paper/0e9bac6a2b51e93e73f7f5045d4252972db10b5a"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "fbf56c149ef3e84c70667ae88ccc967616c4c5ae", 
+      "title": "Adversarial Structured Output Prediction", 
+      "url": "https://www.semanticscholar.org/paper/fbf56c149ef3e84c70667ae88ccc967616c4c5ae"
+    }, 
+    {
+      "isInfluential": true, 
+      "paperId": "06a91b24c1b18a064f52abf64f05f927a21bf97c", 
+      "title": "Fully Scalable Methods for Distributed Tensor Factorization", 
+      "url": "https://www.semanticscholar.org/paper/06a91b24c1b18a064f52abf64f05f927a21bf97c"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "40a89d893a6adbc0aa4b70efa4d1add79c355cac", 
+      "title": "Parallel Online Learning", 
+      "url": "https://www.semanticscholar.org/paper/40a89d893a6adbc0aa4b70efa4d1add79c355cac"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "21f77087cb26ef0c9c1338c84fb632e427c13fb0", 
+      "title": "Efficient Protocols for Distributed Classification and Optimization", 
+      "url": "https://www.semanticscholar.org/paper/21f77087cb26ef0c9c1338c84fb632e427c13fb0"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "63f0e9ab7ebddfa358883f11d0e0afb46a6d2940", 
+      "title": "Efficient Learning and Inference for Big and Complex Data", 
+      "url": "https://www.semanticscholar.org/paper/63f0e9ab7ebddfa358883f11d0e0afb46a6d2940"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "261f32bbc560ea5fc33b767e800d88742434f3ba", 
+      "title": "Robust Distributed Training of Linear Classifiers Based on Divergence Minimization Principle", 
+      "url": "https://www.semanticscholar.org/paper/261f32bbc560ea5fc33b767e800d88742434f3ba"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "29cd90afafaf30ee149c2fce032a4ef1e12ff6d9", 
+      "title": "Distributed Training of Structured SVM", 
+      "url": "https://www.semanticscholar.org/paper/29cd90afafaf30ee149c2fce032a4ef1e12ff6d9"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "256c8a789167fb10b752abd1b4df732f9adb4993", 
+      "title": "Distributed Learning-to-Rank on Streaming Data using Alternating Direction Method of Multipliers", 
+      "url": "https://www.semanticscholar.org/paper/256c8a789167fb10b752abd1b4df732f9adb4993"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "0607c1e5ed0fa225a9f2d20ae7ae526397adf96b", 
+      "title": "A Functional Approximation Based Distributed Learning Algorithm", 
+      "url": "https://www.semanticscholar.org/paper/0607c1e5ed0fa225a9f2d20ae7ae526397adf96b"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "322f77a5d2e3917fcc1ca56f5ee1cbc55b2468e7", 
+      "title": "Practical Optimizations for Perceptron Algorithms in Large Malware Dataset", 
+      "url": "https://www.semanticscholar.org/paper/322f77a5d2e3917fcc1ca56f5ee1cbc55b2468e7"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "2c8637e9c0c6e156b1c74e51fdfe0b2ecd9b5fc9", 
+      "title": "Distributed Dual Averaging In Networks", 
+      "url": "https://www.semanticscholar.org/paper/2c8637e9c0c6e156b1c74e51fdfe0b2ecd9b5fc9"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "51006f395255a3c5bed1f418a1b838b2f24b7b38", 
+      "title": "Malicious URL Detection using Machine Learning: A Survey", 
+      "url": "https://www.semanticscholar.org/paper/51006f395255a3c5bed1f418a1b838b2f24b7b38"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "3157ed1fbad482520ca87045b308446d8adbdedb", 
+      "title": "Communication-Efficient Learning of Deep Networks from Decentralized Data", 
+      "url": "https://www.semanticscholar.org/paper/3157ed1fbad482520ca87045b308446d8adbdedb"
+    }, 
+    {
+      "isInfluential": true, 
+      "paperId": "d8ac60d5dce313ebedc3e51d41327a70ed03c667", 
+      "title": "Making the most of a distributed perceptron for NLP", 
+      "url": "https://www.semanticscholar.org/paper/d8ac60d5dce313ebedc3e51d41327a70ed03c667"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "384cbd6f6afd25276b0fa9a0412249b1923ece4e", 
+      "title": "A Distributed Data Mining Framework Accelerated with Graphics Processing Units", 
+      "url": "https://www.semanticscholar.org/paper/384cbd6f6afd25276b0fa9a0412249b1923ece4e"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "7d9110ac4a883966102886dba9c628d2337a7fce", 
+      "title": "User Demographics and Language in an Implicit Social Network", 
+      "url": "https://www.semanticscholar.org/paper/7d9110ac4a883966102886dba9c628d2337a7fce"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "02e5ae9a58e16f56c816c18a2a376b9035e10dd3", 
+      "title": "An efficient distributed learning algorithm based on effective local functional approximations", 
+      "url": "https://www.semanticscholar.org/paper/02e5ae9a58e16f56c816c18a2a376b9035e10dd3"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "30b29d3d65fae00849a1d00983a0ac4b464db776", 
+      "title": "Efficient discriminative training of long-span language models", 
+      "url": "https://www.semanticscholar.org/paper/30b29d3d65fae00849a1d00983a0ac4b464db776"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "4c91493294591fc96fef702c87ecc9713a0380d2", 
+      "title": "Dynamic Privacy For Distributed Machine Learning Over Network", 
+      "url": "https://www.semanticscholar.org/paper/4c91493294591fc96fef702c87ecc9713a0380d2"
+    }, 
+    {
+      "isInfluential": true, 
+      "paperId": "9555b613d0dbb5148f9c6af6522065d1be5f6a26", 
+      "title": "Optimization for Statistical Machine Translation: A Survey", 
+      "url": "https://www.semanticscholar.org/paper/9555b613d0dbb5148f9c6af6522065d1be5f6a26"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "62fae24c26aee6ebc445ddab10609aa56314cd45", 
+      "title": "A Database-Hadoop Hybrid Approach to Scalable Machine Learning", 
+      "url": "https://www.semanticscholar.org/paper/62fae24c26aee6ebc445ddab10609aa56314cd45"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "4dfd7cfc82dd80011b39173d77b298fb419924b0", 
+      "title": "Shared-memory and shared-nothing stochastic gradient descent algorithms for matrix completion", 
+      "url": "https://www.semanticscholar.org/paper/4dfd7cfc82dd80011b39173d77b298fb419924b0"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "5a445856add9aaf891ee651e87da24587411c9d5", 
+      "title": "Distributed Matrix Completion", 
+      "url": "https://www.semanticscholar.org/paper/5a445856add9aaf891ee651e87da24587411c9d5"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "afbc30ec8c690c52f0ada4b64a2eaf88679de233", 
+      "title": "Is Good Enough?", 
+      "url": "https://www.semanticscholar.org/paper/afbc30ec8c690c52f0ada4b64a2eaf88679de233"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "84cfd498d393f4a1ea4115e56c2a986c90423c83", 
+      "title": "Sentence Compression by Deletion with LSTMs", 
+      "url": "https://www.semanticscholar.org/paper/84cfd498d393f4a1ea4115e56c2a986c90423c83"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "3a3aa5fb618d977e17e062bb71a58073546d97db", 
+      "title": "Batch Tuning Strategies for Statistical Machine Translation", 
+      "url": "https://www.semanticscholar.org/paper/3a3aa5fb618d977e17e062bb71a58073546d97db"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "b1154d1d4040d91f6613a56bb2b144957e6f270c", 
+      "title": "MapReduce is Good Enough? If All You Have is a Hammer, Throw Away Everything That's Not a Nail!", 
+      "url": "https://www.semanticscholar.org/paper/b1154d1d4040d91f6613a56bb2b144957e6f270c"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "70c25a7b3b285d90dbe3d528d96638f6208279ca", 
+      "title": "Dynamic Differential Privacy for ADMM-Based Distributed Classification Learning", 
+      "url": "https://www.semanticscholar.org/paper/70c25a7b3b285d90dbe3d528d96638f6208279ca"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "31aa9fb7a1251e40b741293542ec4720ad97cb69", 
+      "title": "Experiments on Parallel Training of Deep Neural Network using Model Averaging", 
+      "url": "https://www.semanticscholar.org/paper/31aa9fb7a1251e40b741293542ec4720ad97cb69"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "4deed6be728296fc6d8b5e410d6958923e25426a", 
+      "title": "RoBox: CCG with Structured Perceptron for Supervised Semantic Parsing of Robotic Spatial Commands", 
+      "url": "https://www.semanticscholar.org/paper/4deed6be728296fc6d8b5e410d6958923e25426a"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "0d136e0c6b1e1cebc2be39e5ee8e9b5a7c6285c7", 
+      "title": "Minibatch and Parallelization for Online Large Margin Structured Learning", 
+      "url": "https://www.semanticscholar.org/paper/0d136e0c6b1e1cebc2be39e5ee8e9b5a7c6285c7"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "9d31b95f8ddf9abaa189b4fc9aa3e0c00d4a42ee", 
+      "title": "Accelerated Estimation of Conditional Random Fields using a Pseudo-Likelihood-inspired Perceptron Variant", 
+      "url": "https://www.semanticscholar.org/paper/9d31b95f8ddf9abaa189b4fc9aa3e0c00d4a42ee"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "4d2069788d8041e50f0107db060e14b196747602", 
+      "title": "Communication/Computation Tradeoffs in Consensus-Based Distributed Optimization", 
+      "url": "https://www.semanticscholar.org/paper/4d2069788d8041e50f0107db060e14b196747602"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "80842a0f6e9d10cfd2abef2020218ad1604bc7ec", 
+      "title": "On Distributed Deep Network for Processing Large-Scale Sets of Complex Data", 
+      "url": "https://www.semanticscholar.org/paper/80842a0f6e9d10cfd2abef2020218ad1604bc7ec"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "16853ca775c4274c5e72a95792594cbca6609ff1", 
+      "title": "A primal-dual method for conic constrained distributed optimization problems", 
+      "url": "https://www.semanticscholar.org/paper/16853ca775c4274c5e72a95792594cbca6609ff1"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "47a71a537b077524f5b9602f9a587ece5a98be0f", 
+      "title": "Global Model for Hierarchical Multi-Label Text Classification", 
+      "url": "https://www.semanticscholar.org/paper/47a71a537b077524f5b9602f9a587ece5a98be0f"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "1efdc57bd62551a3b65658a68a94e3345526fdab", 
+      "title": "Consensus-Based Modelling using Distributed Feature Construction", 
+      "url": "https://www.semanticscholar.org/paper/1efdc57bd62551a3b65658a68a94e3345526fdab"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "01f588b8080cab224db9f7856af822a99816d5c4", 
+      "title": "On the Feasibility of Distributed Kernel Regression for Big Data", 
+      "url": "https://www.semanticscholar.org/paper/01f588b8080cab224db9f7856af822a99816d5c4"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "d33e7bf55377c0db9482545da199ae46aa1e6428", 
+      "title": "Partitioning Large Scale Deep Belief Networks Using Dropout", 
+      "url": "https://www.semanticscholar.org/paper/d33e7bf55377c0db9482545da199ae46aa1e6428"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "99d6dc86ad8eb50883d33cfb8721c74caf7fcce1", 
+      "title": "A Partially Linear Framework for Massive Heterogeneous Data.", 
+      "url": "https://www.semanticscholar.org/paper/99d6dc86ad8eb50883d33cfb8721c74caf7fcce1"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "d5edf2af4c37d47ccaf3281a3d7102edb1d1495f", 
+      "title": "Para-active learning", 
+      "url": "https://www.semanticscholar.org/paper/d5edf2af4c37d47ccaf3281a3d7102edb1d1495f"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "1dbc1238409549ae6872a744b7b2ff1da5822053", 
+      "title": "A reliable effective terascale linear learning system", 
+      "url": "https://www.semanticscholar.org/paper/1dbc1238409549ae6872a744b7b2ff1da5822053"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "e68778fa60c5b4762e89611e2a956fa900ad141f", 
+      "title": "Experiments on Phrasal Chunking in Nlp Using Exponentiated Gradient for Structured Prediction", 
+      "url": "https://www.semanticscholar.org/paper/e68778fa60c5b4762e89611e2a956fa900ad141f"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "31fce638fbc92fa3c841473d4653d2e0779bb8e8", 
+      "title": "Divide and Conquer Kernel Ridge Regression", 
+      "url": "https://www.semanticscholar.org/paper/31fce638fbc92fa3c841473d4653d2e0779bb8e8"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "6b8f40376b59b9e1759ca34150aa00b1d04daccb", 
+      "title": "Backoff inspired features for maximum entropy language models", 
+      "url": "https://www.semanticscholar.org/paper/6b8f40376b59b9e1759ca34150aa00b1d04daccb"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "2645a136bb1f0af81a526f04a1c9eb2b28dccb1b", 
+      "title": "Communication-efficient algorithms for statistical optimization", 
+      "url": "https://www.semanticscholar.org/paper/2645a136bb1f0af81a526f04a1c9eb2b28dccb1b"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "37007af698b990a3ea8592b11d264b14d39c843f", 
+      "title": "DCMSVM: Distributed parallel training for single-machine multiclass classifiers", 
+      "url": "https://www.semanticscholar.org/paper/37007af698b990a3ea8592b11d264b14d39c843f"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "6b9abcf8755a3e56bf4a34a6c41769c9f7fc5bc6", 
+      "title": "Building a practical and reliable classifier for malware detection", 
+      "url": "https://www.semanticscholar.org/paper/6b9abcf8755a3e56bf4a34a6c41769c9f7fc5bc6"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "453e195c38e61d9914c5cc414d9fc98875f1337a", 
+      "title": "Sources of Variability in Large-scale Machine Learning Systems", 
+      "url": "https://www.semanticscholar.org/paper/453e195c38e61d9914c5cc414d9fc98875f1337a"
+    }, 
+    {
+      "isInfluential": true, 
+      "paperId": "8c8690406427e651503da0b07d293e91e6fa6e42", 
+      "title": "Large-scale discriminative language model reranking for voice-search", 
+      "url": "https://www.semanticscholar.org/paper/8c8690406427e651503da0b07d293e91e6fa6e42"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "0b8cfdf47a625a5444d925a1182cf311f86063e4", 
+      "title": "Divide and conquer kernel ridge regression: a distributed algorithm with minimax optimal rates", 
+      "url": "https://www.semanticscholar.org/paper/0b8cfdf47a625a5444d925a1182cf311f86063e4"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "7bf216e7b5449f91f3e3ddfd3c7b44f88ae96b19", 
+      "title": "An Asynchronous Distributed Proximal Gradient Method for Composite Convex Optimization", 
+      "url": "https://www.semanticscholar.org/paper/7bf216e7b5449f91f3e3ddfd3c7b44f88ae96b19"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "0122e063ca5f0f9fb9d144d44d41421503252010", 
+      "title": "Large Scale Distributed Deep Networks", 
+      "url": "https://www.semanticscholar.org/paper/0122e063ca5f0f9fb9d144d44d41421503252010"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "6e36af92dd8a32910e424206ad6934e5618fc3ee", 
+      "title": "Deep networks with stochastic depth for acoustic modelling", 
+      "url": "https://www.semanticscholar.org/paper/6e36af92dd8a32910e424206ad6934e5618fc3ee"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "7f2b46fa1499d06c1324684fb1f41c0c96969e1a", 
+      "title": "Deep LSTM for Large Vocabulary Continuous Speech Recognition", 
+      "url": "https://www.semanticscholar.org/paper/7f2b46fa1499d06c1324684fb1f41c0c96969e1a"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "5536b61896dd4be21f4ea1ed486b7c9950b23527", 
+      "title": "Scalable training of deep learning machines by incremental block training with intra-block parallel optimization and blockwise model-update filtering", 
+      "url": "https://www.semanticscholar.org/paper/5536b61896dd4be21f4ea1ed486b7c9950b23527"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "5693ee61b198a04c1c2a78eb97da3405cd9e423c", 
+      "title": "Finding The Best Model Among Representative Compositional Models", 
+      "url": "https://www.semanticscholar.org/paper/5693ee61b198a04c1c2a78eb97da3405cd9e423c"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "2caa23fb5e8d4d866b8209865c09d849e8f6eb9f", 
+      "title": "Bag-of-Words Forced Decoding for Cross-Lingual Information Retrieval", 
+      "url": "https://www.semanticscholar.org/paper/2caa23fb5e8d4d866b8209865c09d849e8f6eb9f"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "1dc8e6c4a32040c68887ef49faddc610ee25d641", 
+      "title": "Scaling big data mining infrastructure: the twitter experience", 
+      "url": "https://www.semanticscholar.org/paper/1dc8e6c4a32040c68887ef49faddc610ee25d641"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "044b502e5a00b5eeff1dd078ea03f491ca2c37bf", 
+      "title": "Structural Classification Methods Based on Weighted Finite-State Transducers for Automatic Speech Recognition", 
+      "url": "https://www.semanticscholar.org/paper/044b502e5a00b5eeff1dd078ea03f491ca2c37bf"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "13d229c8233ee18d0298af4884d0766c4e31ea55", 
+      "title": "Convergence of Distributed Asynchronous Learning Vector Quantization Algorithms", 
+      "url": "https://www.semanticscholar.org/paper/13d229c8233ee18d0298af4884d0766c4e31ea55"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "3664afc0363ea024446997896ae31df145c8338c", 
+      "title": "Scaling the mobile millennium system in the cloud", 
+      "url": "https://www.semanticscholar.org/paper/3664afc0363ea024446997896ae31df145c8338c"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "a2478fae681f94702c44be41316baa517adc6617", 
+      "title": "A Supervised Classification Approach for Detecting Packets Originated in a HTTP-based Botnet", 
+      "url": "https://www.semanticscholar.org/paper/a2478fae681f94702c44be41316baa517adc6617"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "f57e0130f74c1e510071fe8d778e5ba13a340ba6", 
+      "title": "Weak consistency and stochastic environments: harmonization of replicated machine learning models", 
+      "url": "https://www.semanticscholar.org/paper/f57e0130f74c1e510071fe8d778e5ba13a340ba6"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "15550158604e148f14872768ef9a8416a7d827b0", 
+      "title": "Assuming Facts Are Expressed More Than Once", 
+      "url": "https://www.semanticscholar.org/paper/15550158604e148f14872768ef9a8416a7d827b0"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "d65cec2f749b585d96526043d67d3baaf9188094", 
+      "title": "MapReduce/Bigtable for Distributed Optimization", 
+      "url": "https://www.semanticscholar.org/paper/d65cec2f749b585d96526043d67d3baaf9188094"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "2830246be09bbd376cd7f2ed9ae150110dcb08cf", 
+      "title": "Design and Evaluation of a Real-Time URL Spam Filtering Service", 
+      "url": "https://www.semanticscholar.org/paper/2830246be09bbd376cd7f2ed9ae150110dcb08cf"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "3240c5b8526768f697884528f66f6e950e54bf49", 
+      "title": "A Named Entity Recognition Method based on Decomposition and Concatenation of Word Chunks", 
+      "url": "https://www.semanticscholar.org/paper/3240c5b8526768f697884528f66f6e950e54bf49"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "23f2acc4c4af3a21a648d91d37546aa002d3c34c", 
+      "title": "Multi-core Structural SVM Training", 
+      "url": "https://www.semanticscholar.org/paper/23f2acc4c4af3a21a648d91d37546aa002d3c34c"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "22ffc81e14095f721eb51f5823301fd5d3f6a21e", 
+      "title": "Coreference Resolution with ILP-based Weighted Abduction", 
+      "url": "https://www.semanticscholar.org/paper/22ffc81e14095f721eb51f5823301fd5d3f6a21e"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "b950fe3a4a5b19bc297894828c031898501f88c0", 
+      "title": "Cross-lingual Semantic Parsing with Categorial Grammars", 
+      "url": "https://www.semanticscholar.org/paper/b950fe3a4a5b19bc297894828c031898501f88c0"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "146824b99523839251bae4b95717a071e2404e9a", 
+      "title": "Protocols for Learning Classifiers on Distributed Data", 
+      "url": "https://www.semanticscholar.org/paper/146824b99523839251bae4b95717a071e2404e9a"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "8f3b13e5bde35a8eb21337c3b9f60e3ef89659f7", 
+      "title": "A Generic Online Parallel Learning Framework for Large Margin Models", 
+      "url": "https://www.semanticscholar.org/paper/8f3b13e5bde35a8eb21337c3b9f60e3ef89659f7"
+    }, 
+    {
+      "isInfluential": true, 
+      "paperId": "e2542380542a73e75a9b28171f8fe5c381125fda", 
+      "title": "Translation-based ranking in cross-language information retrieval", 
+      "url": "https://www.semanticscholar.org/paper/e2542380542a73e75a9b28171f8fe5c381125fda"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "4f0416d99404fd55d61a36136274f60ccfe93136", 
+      "title": "Concept-to-text Generation via Discriminative Reranking", 
+      "url": "https://www.semanticscholar.org/paper/4f0416d99404fd55d61a36136274f60ccfe93136"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "48a48e01a53cc10c558ef556e447f6198b0f4c4d", 
+      "title": "Improved video categorization from text metadata and user comments", 
+      "url": "https://www.semanticscholar.org/paper/48a48e01a53cc10c558ef556e447f6198b0f4c4d"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "0d53d2dc3a3420b6e7141b8eca015be8c21e4632", 
+      "title": "Referential Translation Machines for Quality Estimation", 
+      "url": "https://www.semanticscholar.org/paper/0d53d2dc3a3420b6e7141b8eca015be8c21e4632"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "e33f036549c0aed1dc3a4485effa8a0a5b4428c6", 
+      "title": "Confidence-Weighted Linear Classification for Text Categorization", 
+      "url": "https://www.semanticscholar.org/paper/e33f036549c0aed1dc3a4485effa8a0a5b4428c6"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "79cd660c697d1f628b0083c09051d9ec39f40148", 
+      "title": "Paraphrase-Driven Learning for Open Question Answering", 
+      "url": "https://www.semanticscholar.org/paper/79cd660c697d1f628b0083c09051d9ec39f40148"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "06829a4e3a4e5ae2ef90b9c76f8514a26ad0f327", 
+      "title": "A Dual Perturbation Approach for Differential Private ADMM-Based Distributed Empirical Risk Minimization", 
+      "url": "https://www.semanticscholar.org/paper/06829a4e3a4e5ae2ef90b9c76f8514a26ad0f327"
+    }, 
+    {
+      "isInfluential": true, 
+      "paperId": "86e723dc589659cd837d44c23c6b17044fe15313", 
+      "title": "Distributed discriminative language models for Google voice-search", 
+      "url": "https://www.semanticscholar.org/paper/86e723dc589659cd837d44c23c6b17044fe15313"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "3106b4845cad399a15983363f36d27db7a90c4af", 
+      "title": "ParMAC: distributed optimisation of nested functions, with application to learning binary autoencoders", 
+      "url": "https://www.semanticscholar.org/paper/3106b4845cad399a15983363f36d27db7a90c4af"
+    }
+  ], 
+  "doi": null, 
+  "influentialCitationCount": 11, 
+  "paperId": "371bd20afe88e73eafea2298b52beca7b9b5660a", 
+  "references": [
+    {
+      "isInfluential": false, 
+      "paperId": "ad1181d188f730b7917a95ae452efb48f830c90a", 
+      "title": "A Tale of Two Parsers: Investigating and Combining Graph-based and Transition-based Dependency Parsing", 
+      "url": "https://www.semanticscholar.org/paper/ad1181d188f730b7917a95ae452efb48f830c90a"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "7bfbabdc800f70eb4efa60e64b91044aad23c4a8", 
+      "title": "Online Learning of Approximate Dependency Parsing Algorithms", 
+      "url": "https://www.semanticscholar.org/paper/7bfbabdc800f70eb4efa60e64b91044aad23c4a8"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "73ac6148ba0cd57b953bb3d2840e08434d3a9acf", 
+      "title": "Mapreduce Simplified Data Processing on Large Clusters", 
+      "url": "https://www.semanticscholar.org/paper/73ac6148ba0cd57b953bb3d2840e08434d3a9acf"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "3cb63a11b3eb3bf89c9f5678efb63c5dcf7600c5", 
+      "title": "Large Margin Classification Using the Perceptron Algorithm", 
+      "url": "https://www.semanticscholar.org/paper/3cb63a11b3eb3bf89c9f5678efb63c5dcf7600c5"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "84b81aa5baf439a24ed52a96c22ffd78a63bb754", 
+      "title": "Efficient, Feature-based, Conditional Random Field Parsing", 
+      "url": "https://www.semanticscholar.org/paper/84b81aa5baf439a24ed52a96c22ffd78a63bb754"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "1deed1a4a03e07aee3b8b8e4716f35033c715a57", 
+      "title": "CoNLL-X Shared Task on Multilingual Dependency Parsing", 
+      "url": "https://www.semanticscholar.org/paper/1deed1a4a03e07aee3b8b8e4716f35033c715a57"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "846a3c8833e809810f2b5f8ea7982b95e8bb42d1", 
+      "title": "Online Large-Margin Training of Dependency Parsers", 
+      "url": "https://www.semanticscholar.org/paper/846a3c8833e809810f2b5f8ea7982b95e8bb42d1"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "41828fc3dab24784f95e6976e8aaa73f68e1840e", 
+      "title": "Incremental Parsing with the Perceptron Algorithm", 
+      "url": "https://www.semanticscholar.org/paper/41828fc3dab24784f95e6976e8aaa73f68e1840e"
+    }, 
+    {
+      "isInfluential": true, 
+      "paperId": "0c7f52c753a65ceaf3755e20b906ffd0c05c994a", 
+      "title": "Conditional Random Fields: Probabilistic Models for Segmenting and Labeling Sequence Data", 
+      "url": "https://www.semanticscholar.org/paper/0c7f52c753a65ceaf3755e20b906ffd0c05c994a"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "08743d09f3ec33ab1f188d4c5f8f5550c312ace0", 
+      "title": "Online Passive-Aggressive Algorithms", 
+      "url": "https://www.semanticscholar.org/paper/08743d09f3ec33ab1f188d4c5f8f5550c312ace0"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "e33f036549c0aed1dc3a4485effa8a0a5b4428c6", 
+      "title": "Confidence-Weighted Linear Classification for Text Categorization", 
+      "url": "https://www.semanticscholar.org/paper/e33f036549c0aed1dc3a4485effa8a0a5b4428c6"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "2688969848b75336891b1e58a2b6ee433343867c", 
+      "title": "The perceptron: a probabilistic model for information storage and organization in the brain.", 
+      "url": "https://www.semanticscholar.org/paper/2688969848b75336891b1e58a2b6ee433343867c"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "1c57660029b1d5a5e2a08af21b856d169200401b", 
+      "title": "Web-scale named entity recognition", 
+      "url": "https://www.semanticscholar.org/paper/1c57660029b1d5a5e2a08af21b856d169200401b"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "2d66dac85b819503ce6d311d37770e31bdf36692", 
+      "title": "Map-Reduce for Machine Learning on Multicore", 
+      "url": "https://www.semanticscholar.org/paper/2d66dac85b819503ce6d311d37770e31bdf36692"
+    }, 
+    {
+      "isInfluential": true, 
+      "paperId": "3b8e7c8220d3883d54960d896a73045f3c70ac17", 
+      "title": "Discriminative Training Methods For Hidden Markov Models: Theory And Experiments With Perceptron Algorithms", 
+      "url": "https://www.semanticscholar.org/paper/3b8e7c8220d3883d54960d896a73045f3c70ac17"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "046b7f6b48e4d9fcf173dea0a0802d7e87b383e1", 
+      "title": "Bagging Predictors", 
+      "url": "https://www.semanticscholar.org/paper/046b7f6b48e4d9fcf173dea0a0802d7e87b383e1"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "7482365482febecf45916a7d8fd9dddb5da15870", 
+      "title": "Distributed Asynchronous Deterministic and . . .", 
+      "url": "https://www.semanticscholar.org/paper/7482365482febecf45916a7d8fd9dddb5da15870"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "63850680d286548b70d245ace4b5398cd716be4b", 
+      "title": "An end-to-end discriminative approach to machine translation", 
+      "url": "https://www.semanticscholar.org/paper/63850680d286548b70d245ace4b5398cd716be4b"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "23c6c94534378c204c0ee21fdaebd23fd4691bcf", 
+      "title": "Support vector machine learning for interdependent and structured output spaces", 
+      "url": "https://www.semanticscholar.org/paper/23c6c94534378c204c0ee21fdaebd23fd4691bcf"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "3c029e72f5c75c8dd87a6acd43d05f23407e39cf", 
+      "title": "Slow Learners are Fast", 
+      "url": "https://www.semanticscholar.org/paper/3c029e72f5c75c8dd87a6acd43d05f23407e39cf"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "0104063400e6d69294edc95fb14c7e8fac347f6a", 
+      "title": "Max-Margin Markov Networks", 
+      "url": "https://www.semanticscholar.org/paper/0104063400e6d69294edc95fb14c7e8fac347f6a"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "0ef7d9e618cbb507d69f8ebcdc60b8a1f3135bff", 
+      "title": "Solving large scale linear prediction problems using stochastic gradient descent algorithms", 
+      "url": "https://www.semanticscholar.org/paper/0ef7d9e618cbb507d69f8ebcdc60b8a1f3135bff"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "b5017a49387663ba7fc58cba20ae0c131426af88", 
+      "title": "Efficient Learning using Forward-Backward Splitting", 
+      "url": "https://www.semanticscholar.org/paper/b5017a49387663ba7fc58cba20ae0c131426af88"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "aba73791f06d86992bb45a4baac2448906d11211", 
+      "title": "On-line Learning with Delayed Label Feedback", 
+      "url": "https://www.semanticscholar.org/paper/aba73791f06d86992bb45a4baac2448906d11211"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "48215210c7adbe39063af6b46ac116b0aa22a2b0", 
+      "title": "Efficient Large-Scale Distributed Training of Conditional Maximum Entropy Models", 
+      "url": "https://www.semanticscholar.org/paper/48215210c7adbe39063af6b46ac116b0aa22a2b0"
+    }
+  ], 
+  "title": "Distributed Training Strategies for the Structured Perceptron", 
+  "url": "https://www.semanticscholar.org/paper/371bd20afe88e73eafea2298b52beca7b9b5660a", 
+  "venue": "HLT-NAACL"
+}

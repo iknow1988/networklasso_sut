@@ -1,0 +1,988 @@
+{
+  "authors": [
+    {
+      "authorId": "1690956", 
+      "name": "Dekang Lin", 
+      "url": "https://www.semanticscholar.org/author/1690956"
+    }, 
+    {
+      "authorId": "2175604", 
+      "name": "Shaojun Zhao", 
+      "url": "https://www.semanticscholar.org/author/2175604"
+    }, 
+    {
+      "authorId": "6836289", 
+      "name": "Lijuan Qin", 
+      "url": "https://www.semanticscholar.org/author/6836289"
+    }, 
+    {
+      "authorId": "21259705", 
+      "name": "Ming Zhou", 
+      "url": "https://www.semanticscholar.org/author/21259705"
+    }
+  ], 
+  "citationVelocity": 14, 
+  "citations": [
+    {
+      "isInfluential": true, 
+      "paperId": "bf52bef19bd4f592317aad32b8c56ac0ec242d9e", 
+      "title": "A Minimally Supervised Approach for Synonym Extraction with Word Embeddings", 
+      "url": "https://www.semanticscholar.org/paper/bf52bef19bd4f592317aad32b8c56ac0ec242d9e", 
+      "venue": "", 
+      "year": 2016
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "1a32e87958491044b9ae40544ce044fb11ae23bc", 
+      "title": "Symmetric Patterns and Coordinations: Fast and Enhanced Representations of Verbs and Adjectives", 
+      "url": "https://www.semanticscholar.org/paper/1a32e87958491044b9ae40544ce044fb11ae23bc", 
+      "venue": "HLT-NAACL", 
+      "year": 2016
+    }, 
+    {
+      "isInfluential": true, 
+      "paperId": "26183f24a7c9a594577f45178a9a10674120f408", 
+      "title": "Learning Antonyms with Paraphrases and a Morphology-Aware Neural Network", 
+      "url": "https://www.semanticscholar.org/paper/26183f24a7c9a594577f45178a9a10674120f408", 
+      "venue": "*SEM", 
+      "year": 2017
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "0c9d3e77653d2604024a600fd09ba6ae915a73cf", 
+      "title": "Automated Thesaurus Generation", 
+      "url": "https://www.semanticscholar.org/paper/0c9d3e77653d2604024a600fd09ba6ae915a73cf", 
+      "venue": "", 
+      "year": 2008
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "05c1c8aa079fb7df1d1597a581ef85d94db3cee2", 
+      "title": "Mining for and from the Semantic Web", 
+      "url": "https://www.semanticscholar.org/paper/05c1c8aa079fb7df1d1597a581ef85d94db3cee2", 
+      "venue": "", 
+      "year": 2004
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "92d8349540408bdee31af0df2051c4b7d547af12", 
+      "title": "A Combined Pattern-based and Distributional Approach for Automatic Hypernym Detection in Dutch", 
+      "url": "https://www.semanticscholar.org/paper/92d8349540408bdee31af0df2051c4b7d547af12", 
+      "venue": "RANLP", 
+      "year": 2013
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "48a2d2dbb6514f55902139a4f40eb6942f82eef9", 
+      "title": "Minimally Supervised Method for Multilingual Paraphrase Extraction from Definition Sentences on the Web", 
+      "url": "https://www.semanticscholar.org/paper/48a2d2dbb6514f55902139a4f40eb6942f82eef9", 
+      "venue": "HLT-NAACL", 
+      "year": 2013
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "16465a791cc40c75cd1169a1095c2673e54dd0e8", 
+      "title": "Characterising Measures of Lexical Distributional Similarity", 
+      "url": "https://www.semanticscholar.org/paper/16465a791cc40c75cd1169a1095c2673e54dd0e8", 
+      "venue": "COLING", 
+      "year": 2004
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "782bb1cca8c4f81fcb2bc51cf2ab591a8aa12423", 
+      "title": "Multi-Prototype Vector-Space Models of Word Meaning", 
+      "url": "https://www.semanticscholar.org/paper/782bb1cca8c4f81fcb2bc51cf2ab591a8aa12423", 
+      "venue": "HLT-NAACL", 
+      "year": 2010
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "1117fde26282773f21492c9817fe7af47545ca6a", 
+      "title": "Finding Synonyms Using Automatic Word Alignment and Measures of Distributional Similarity", 
+      "url": "https://www.semanticscholar.org/paper/1117fde26282773f21492c9817fe7af47545ca6a", 
+      "venue": "ACL", 
+      "year": 2006
+    }, 
+    {
+      "isInfluential": true, 
+      "paperId": "01e0b215b190f2df531d78e0ee67e9182cc90261", 
+      "title": "Symmetric Pattern Based Word Embeddings for Improved Word Similarity Prediction", 
+      "url": "https://www.semanticscholar.org/paper/01e0b215b190f2df531d78e0ee67e9182cc90261", 
+      "venue": "CoNLL", 
+      "year": 2015
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "1fc2c0530e2f30c10ee65983e82efa06696ae1d0", 
+      "title": "Bilingual Synonym Identification with Spelling Variations", 
+      "url": "https://www.semanticscholar.org/paper/1fc2c0530e2f30c10ee65983e82efa06696ae1d0", 
+      "venue": "IJCNLP", 
+      "year": 2008
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "451078679dfe13876342a7616d0ee6e55698c3d8", 
+      "title": "PLSA-Based Query Expansion", 
+      "url": "https://www.semanticscholar.org/paper/451078679dfe13876342a7616d0ee6e55698c3d8", 
+      "venue": "2009 Eighth IEEE/ACIS International Conference on Computer and Information Science", 
+      "year": 2009
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "1a32359ceeda1c172bf1fbcab9b1b6c7611b74f6", 
+      "title": "Using context-window overlapping in synonym discovery and ontology extension", 
+      "url": "https://www.semanticscholar.org/paper/1a32359ceeda1c172bf1fbcab9b1b6c7611b74f6", 
+      "venue": "", 
+      "year": 2005
+    }, 
+    {
+      "isInfluential": true, 
+      "paperId": "2158fc465ff9cfd5cc03d712081189462fcbdb2d", 
+      "title": "Distinguishing Antonyms and Synonyms in a Pattern-based Neural Network", 
+      "url": "https://www.semanticscholar.org/paper/2158fc465ff9cfd5cc03d712081189462fcbdb2d", 
+      "venue": "EACL", 
+      "year": 2017
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "a45526c07c70998e919da1323cd1d13df7a4661f", 
+      "title": "Metaphor Interpretation Using Paraphrases Extracted from the Web", 
+      "url": "https://www.semanticscholar.org/paper/a45526c07c70998e919da1323cd1d13df7a4661f", 
+      "venue": "PloS one", 
+      "year": 2013
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "ad2b04774dbd266507b62057d31446e312cc9838", 
+      "title": "Taking Antonymy Mask off in Vector Space", 
+      "url": "https://www.semanticscholar.org/paper/ad2b04774dbd266507b62057d31446e312cc9838", 
+      "venue": "PACLIC", 
+      "year": 2014
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "0a41bd9a485c81d3983a4985fe8e7f01b94396fc", 
+      "title": "Extracting Attributes and Synonymous Attributes from Online Encyclopedias", 
+      "url": "https://www.semanticscholar.org/paper/0a41bd9a485c81d3983a4985fe8e7f01b94396fc", 
+      "venue": "2014 IEEE/WIC/ACM International Joint Conferences on Web Intelligence (WI) and Intelligent Agent Technologies (IAT)", 
+      "year": 2014
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "de6fb71ab8e82cfc99bebda6f5fcff26671b5198", 
+      "title": "Utilizing ARM Technique in Mining Textual Data", 
+      "url": "https://www.semanticscholar.org/paper/de6fb71ab8e82cfc99bebda6f5fcff26671b5198", 
+      "venue": "", 
+      "year": 2004
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "1df2f7bb7dfa9ff6bf58ac0456c2c2e63f4366a9", 
+      "title": "Using Distributional Similarity to Organise BioMedical Terminology", 
+      "url": "https://www.semanticscholar.org/paper/1df2f7bb7dfa9ff6bf58ac0456c2c2e63f4366a9", 
+      "venue": "", 
+      "year": 2017
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "c9421324fad07fc25b691878a5098f1da4ed8ae5", 
+      "title": "Revisiting Word Embedding for Contrasting Meaning", 
+      "url": "https://www.semanticscholar.org/paper/c9421324fad07fc25b691878a5098f1da4ed8ae5", 
+      "venue": "ACL", 
+      "year": 2015
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "76b59c26c7214de45d1a3ee9ac9d27cff276e0f7", 
+      "title": "Lexical inference as a spatial reasoning problem", 
+      "url": "https://www.semanticscholar.org/paper/76b59c26c7214de45d1a3ee9ac9d27cff276e0f7", 
+      "venue": "", 
+      "year": 2015
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "62a4a6abc2a52889db51b56ef082d02784266985", 
+      "title": "Semantic Taxonomy Induction from Heterogenous Evidence", 
+      "url": "https://www.semanticscholar.org/paper/62a4a6abc2a52889db51b56ef082d02784266985", 
+      "venue": "ACL", 
+      "year": 2006
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "4b88329392a75287942d85f42012f47f356a2714", 
+      "title": "A Uniform Approach to Analogies, Synonyms, Antonyms, and Associations", 
+      "url": "https://www.semanticscholar.org/paper/4b88329392a75287942d85f42012f47f356a2714", 
+      "venue": "COLING", 
+      "year": 2008
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "3e27ee7eb45dc2269fe2364f31f88b35fcd16cfc", 
+      "title": "Word Semantic Representations using Bayesian Probabilistic Tensor Factorization", 
+      "url": "https://www.semanticscholar.org/paper/3e27ee7eb45dc2269fe2364f31f88b35fcd16cfc", 
+      "venue": "EMNLP", 
+      "year": 2014
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "6124ac3f9a8d3763f25459ed394eee9c05bea1a9", 
+      "title": "Using Lexical Patterns for Extracting Hyponyms from the Web", 
+      "url": "https://www.semanticscholar.org/paper/6124ac3f9a8d3763f25459ed394eee9c05bea1a9", 
+      "venue": "MICAI", 
+      "year": 2007
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "5cc5fc824d0d703c0bb14c8547ceaf9741fb4096", 
+      "title": "Rule based synonyms for entity extraction from noisy text", 
+      "url": "https://www.semanticscholar.org/paper/5cc5fc824d0d703c0bb14c8547ceaf9741fb4096", 
+      "venue": "AND", 
+      "year": 2008
+    }, 
+    {
+      "isInfluential": true, 
+      "paperId": "4f63dbf042db3f4b75277af691492f082762e5ad", 
+      "title": "Normalization and Similarity Recognition of Complex Predicate Phrases Based on Linguistically-Motivated Evidence", 
+      "url": "https://www.semanticscholar.org/paper/4f63dbf042db3f4b75277af691492f082762e5ad", 
+      "venue": "", 
+      "year": 2016
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "7a01a0f2747346de9998a83319551fbd98dae93f", 
+      "title": "Generating More-Positive and More-Negative Text", 
+      "url": "https://www.semanticscholar.org/paper/7a01a0f2747346de9998a83319551fbd98dae93f", 
+      "venue": "Computing Attitude and Affect in Text", 
+      "year": 2006
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "fd9a3c701f9fd004db17fa74de0126b244d8946c", 
+      "title": "Automatic Extraction of Medical Term Variants from Mutilingual Parallel Translations", 
+      "url": "https://www.semanticscholar.org/paper/fd9a3c701f9fd004db17fa74de0126b244d8946c", 
+      "venue": "", 
+      "year": 2010
+    }, 
+    {
+      "isInfluential": true, 
+      "paperId": "1277fa879c4ac2be8025de3aa7e13db7309b0fa4", 
+      "title": "Polarity Inducing Latent Semantic Analysis", 
+      "url": "https://www.semanticscholar.org/paper/1277fa879c4ac2be8025de3aa7e13db7309b0fa4", 
+      "venue": "EMNLP-CoNLL", 
+      "year": 2012
+    }, 
+    {
+      "isInfluential": true, 
+      "paperId": "ecb1c27befdaeb51281511404723d113b0365b50", 
+      "title": "Uncovering Distributional Differences between Synonyms and Antonyms in a Word Space Model", 
+      "url": "https://www.semanticscholar.org/paper/ecb1c27befdaeb51281511404723d113b0365b50", 
+      "venue": "IJCNLP", 
+      "year": 2013
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "3143ff7f28539d929e87beee336932c39204e051", 
+      "title": "Automatic discovery of word semantic relations using paraphrase alignment and distributional lexical semantics analysis", 
+      "url": "https://www.semanticscholar.org/paper/3143ff7f28539d929e87beee336932c39204e051", 
+      "venue": "Natural Language Engineering", 
+      "year": 2010
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "65388af776ac7b2f3926e05620527dc49858bded", 
+      "title": "Search with Synonyms: Problems and Solutions", 
+      "url": "https://www.semanticscholar.org/paper/65388af776ac7b2f3926e05620527dc49858bded", 
+      "venue": "COLING", 
+      "year": 2010
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "a7a6231444eddb84c8ae24b17f48e5c8d9352250", 
+      "title": "Cleaning noisy wordnets", 
+      "url": "https://www.semanticscholar.org/paper/a7a6231444eddb84c8ae24b17f48e5c8d9352250", 
+      "venue": "LREC", 
+      "year": 2012
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "bb5678d24fecea354a3813c8f4f9a77462a832b5", 
+      "title": "Learning to Negate Adjectives with Bilinear Models", 
+      "url": "https://www.semanticscholar.org/paper/bb5678d24fecea354a3813c8f4f9a77462a832b5", 
+      "venue": "EACL", 
+      "year": 2017
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "71b8856678de99a355ec94ec30b1e34f7f7c4fef", 
+      "title": "Semi-compositional Method for Synonym Extraction of Multi-Word Terms", 
+      "url": "https://www.semanticscholar.org/paper/71b8856678de99a355ec94ec30b1e34f7f7c4fef", 
+      "venue": "LREC", 
+      "year": 2014
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "85ac1ec43034e38e285615ac45d7a71fb7b68cab", 
+      "title": "Grounded Knowledge Bases for Scientific Domains", 
+      "url": "https://www.semanticscholar.org/paper/85ac1ec43034e38e285615ac45d7a71fb7b68cab", 
+      "venue": "", 
+      "year": 2015
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "2682995fd3e251bb04c11f3e7b80f61ede3f749d", 
+      "title": "CS 224N Class Project Automatic Hypernym Classification", 
+      "url": "https://www.semanticscholar.org/paper/2682995fd3e251bb04c11f3e7b80f61ede3f749d", 
+      "venue": "", 
+      "year": 2004
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "71cdebf873055f4295e3252b90d5cf11423b2cfc", 
+      "title": "Computing Word-Pair Antonymy", 
+      "url": "https://www.semanticscholar.org/paper/71cdebf873055f4295e3252b90d5cf11423b2cfc", 
+      "venue": "EMNLP", 
+      "year": 2008
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "c9903fa06128d8f24208388c7e4abc785d9a8917", 
+      "title": "Various Approaches in Text Pre-processing", 
+      "url": "https://www.semanticscholar.org/paper/c9903fa06128d8f24208388c7e4abc785d9a8917", 
+      "venue": "", 
+      "year": 2004
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "6ac937d068e073e9d8ebba0934fbf454d60bb082", 
+      "title": "A Metric-based Framework for Automatic Taxonomy Induction", 
+      "url": "https://www.semanticscholar.org/paper/6ac937d068e073e9d8ebba0934fbf454d60bb082", 
+      "venue": "ACL/IJCNLP", 
+      "year": 2009
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "b8e25c66778e6f7ce85d411c17db5f91dc753a00", 
+      "title": "Pattern-Based Distinction of Paradigmatic Relations for German Nouns, Verbs, Adjectives", 
+      "url": "https://www.semanticscholar.org/paper/b8e25c66778e6f7ce85d411c17db5f91dc753a00", 
+      "venue": "GSCL", 
+      "year": 2013
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "1753246e459fcefd4cfedf4183722a9fb92953e3", 
+      "title": "Acquiring Synonyms from Monolingual Comparable Texts", 
+      "url": "https://www.semanticscholar.org/paper/1753246e459fcefd4cfedf4183722a9fb92953e3", 
+      "venue": "IJCNLP", 
+      "year": 2005
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "0b9f02dc03e7dfe36f8e543dbf5b1fe930adfd52", 
+      "title": "Combining Word Patterns and Discourse Markers for Paradigmatic Relation Classification", 
+      "url": "https://www.semanticscholar.org/paper/0b9f02dc03e7dfe36f8e543dbf5b1fe930adfd52", 
+      "venue": "ACL", 
+      "year": 2014
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "4fb2f200c65b739bc175f0ee1c21d3ff40be626d", 
+      "title": "Filtering Antonymous, Trend-Contrasting, and Polarity-Dissimilar Distributional Paraphrases for Improving Statistical Machine Translation", 
+      "url": "https://www.semanticscholar.org/paper/4fb2f200c65b739bc175f0ee1c21d3ff40be626d", 
+      "venue": "", 
+      "year": 2011
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "d6b9604ed53be2dd9e8af133a83631954b62e5f0", 
+      "title": "Constructing word similarities in Meroitic as an aid to decipherment", 
+      "url": "https://www.semanticscholar.org/paper/d6b9604ed53be2dd9e8af133a83631954b62e5f0", 
+      "venue": "ArXiv", 
+      "year": 2008
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "4e99f465a520e26f70280aef75e9966bca03e3b0", 
+      "title": "Personal Ontology Learning a Thesis Proposal Submitted to the Department of Computer Science and the Committee on Graduate Studies of Carnegie Mellon University in Partial Fulfillment of the Requirements for the Degree of Doctor of Philosophy", 
+      "url": "https://www.semanticscholar.org/paper/4e99f465a520e26f70280aef75e9966bca03e3b0", 
+      "venue": "", 
+      "year": 2009
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "0556c681d2b7a635d0f15832f15bfd7933a1705c", 
+      "title": "Counter-fitting Word Vectors to Linguistic Constraints", 
+      "url": "https://www.semanticscholar.org/paper/0556c681d2b7a635d0f15832f15bfd7933a1705c", 
+      "venue": "HLT-NAACL", 
+      "year": 2016
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "d081506cab748e8df83601ad3dcd77d3572147b9", 
+      "title": "Identifying Japanese-Chinese Bilingual Synonymous Technical Terms from Patent Families", 
+      "url": "https://www.semanticscholar.org/paper/d081506cab748e8df83601ad3dcd77d3572147b9", 
+      "venue": "", 
+      "year": 2015
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "3e333c0b40d6f92907dd5e6c2e0c7473fafb024d", 
+      "title": "Multiple Alternative Sentence Compressions and Word-Pair Antonymy for Automatic Text Summarization and Recognizing Textual Entailment", 
+      "url": "https://www.semanticscholar.org/paper/3e333c0b40d6f92907dd5e6c2e0c7473fafb024d", 
+      "venue": "TAC", 
+      "year": 2008
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "3c802de1c9e4ab4ffc4669eb7e39093c73b4d708", 
+      "title": "Computing Lexical Contrast", 
+      "url": "https://www.semanticscholar.org/paper/3c802de1c9e4ab4ffc4669eb7e39093c73b4d708", 
+      "venue": "Computational Linguistics", 
+      "year": 2013
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "8613fad9ceb29c2486878a6e2d269d5c8cd1a5f7", 
+      "title": "Unsupervised Semantic Similarity Computation between Terms Using Web Documents", 
+      "url": "https://www.semanticscholar.org/paper/8613fad9ceb29c2486878a6e2d269d5c8cd1a5f7", 
+      "venue": "IEEE Transactions on Knowledge and Data Engineering", 
+      "year": 2010
+    }, 
+    {
+      "isInfluential": true, 
+      "paperId": "4274016dfe32971fcb5bb2043b35555f6fcf91c9", 
+      "title": "Building and Using a Lexical Knowledge Base of Near-Synonym Differences", 
+      "url": "https://www.semanticscholar.org/paper/4274016dfe32971fcb5bb2043b35555f6fcf91c9", 
+      "venue": "Computational Linguistics", 
+      "year": 2006
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "c1d525967c636f897a20b2571bc44b8f8c798a63", 
+      "title": "Context-Based Machine Translation", 
+      "url": "https://www.semanticscholar.org/paper/c1d525967c636f897a20b2571bc44b8f8c798a63", 
+      "venue": "", 
+      "year": 2006
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "4977eeb02d4e869dc9482353307dd166ea7d7044", 
+      "title": "Unsupervised Phrasal Near-Synonym Generation from Text Corpora", 
+      "url": "https://www.semanticscholar.org/paper/4977eeb02d4e869dc9482353307dd166ea7d7044", 
+      "venue": "AAAI", 
+      "year": 2015
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "2a0d8a3b1dfb06f584931fbbcf872a804b30c360", 
+      "title": "Integrating Distributional Lexical Contrast into Word Embeddings for Antonym-Synonym Distinction", 
+      "url": "https://www.semanticscholar.org/paper/2a0d8a3b1dfb06f584931fbbcf872a804b30c360", 
+      "venue": "ACL", 
+      "year": 2016
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "0d747ca85f3906b88d5fedefae9a1c8e5e3b693e", 
+      "title": "Using a Treebank for Finding Opposites", 
+      "url": "https://www.semanticscholar.org/paper/0d747ca85f3906b88d5fedefae9a1c8e5e3b693e", 
+      "venue": "", 
+      "year": 2010
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "18524003036773156eb839faf677ee0549ea606d", 
+      "title": "Web-scale table census and classification", 
+      "url": "https://www.semanticscholar.org/paper/18524003036773156eb839faf677ee0549ea606d", 
+      "venue": "WSDM", 
+      "year": 2011
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "b99fdd99b0a3f9bfa3eeb2ebbb4b3f7fdc4154cb", 
+      "title": "LEDIR: An Unsupervised Algorithm for Learning Directionality of Inference Rules", 
+      "url": "https://www.semanticscholar.org/paper/b99fdd99b0a3f9bfa3eeb2ebbb4b3f7fdc4154cb", 
+      "venue": "EMNLP-CoNLL", 
+      "year": 2007
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "0bbfba429e99184c3ffd73a89b79a35baedbea44", 
+      "title": "Using Mined Coreference Chains as a Resource for a Semantic Task", 
+      "url": "https://www.semanticscholar.org/paper/0bbfba429e99184c3ffd73a89b79a35baedbea44", 
+      "venue": "EMNLP", 
+      "year": 2014
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "614781a57be7f8d8c81dbc004d4df50b7e445657", 
+      "title": "The CogALex-V Shared Task on the Corpus-Based Identification of Semantic Relations", 
+      "url": "https://www.semanticscholar.org/paper/614781a57be7f8d8c81dbc004d4df50b7e445657", 
+      "venue": "", 
+      "year": 2016
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "4c2853c68c073c5aab8550558bb4fe626d367431", 
+      "title": "Automated Extension of Narrative Planning Domains with Antonymic Operators", 
+      "url": "https://www.semanticscholar.org/paper/4c2853c68c073c5aab8550558bb4fe626d367431", 
+      "venue": "AAMAS", 
+      "year": 2015
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "dce28ab0ca69edde227bd2f685e9c4333b334846", 
+      "title": "Finding Medical Term Variations using Parallel Corpora and Distributional Similarity", 
+      "url": "https://www.semanticscholar.org/paper/dce28ab0ca69edde227bd2f685e9c4333b334846", 
+      "venue": "", 
+      "year": 2010
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "188510f42564de6e9b75519fc0bc3bc288f70653", 
+      "title": "Automatic Relation Extraction \u2013 Can Synonym Extraction Benefit from Antonym Knowledge?", 
+      "url": "https://www.semanticscholar.org/paper/188510f42564de6e9b75519fc0bc3bc288f70653", 
+      "venue": "", 
+      "year": 2009
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "d4b6def9310e3cbc237e848ee2566f898e785e45", 
+      "title": "A Graph Model for Words and their Meanings", 
+      "url": "https://www.semanticscholar.org/paper/d4b6def9310e3cbc237e848ee2566f898e785e45", 
+      "venue": "", 
+      "year": 2006
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "462af80ff9ce3e2e2c597f8ad01ced4490b31174", 
+      "title": "Reranking Bilingually Extracted Paraphrases Using Monolingual Distributional Similarity", 
+      "url": "https://www.semanticscholar.org/paper/462af80ff9ce3e2e2c597f8ad01ced4490b31174", 
+      "venue": "", 
+      "year": 2011
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "12b94335831f620f5baa7d6cf2ea0cd03a923cb2", 
+      "title": "Exploring patterns in dictionary definitions for synonym extraction", 
+      "url": "https://www.semanticscholar.org/paper/12b94335831f620f5baa7d6cf2ea0cd03a923cb2", 
+      "venue": "Natural Language Engineering", 
+      "year": 2012
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "d06285cee599a2ad9d3cb4d347ddab9d5d52f271", 
+      "title": "Refining non-taxonomic relation labels with external structured data to support ontology learning", 
+      "url": "https://www.semanticscholar.org/paper/d06285cee599a2ad9d3cb4d347ddab9d5d52f271", 
+      "venue": "Data Knowl. Eng.", 
+      "year": 2010
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "9495368353f96514ab21a600c4433b980a7930e4", 
+      "title": "Grounded Discovery of Coordinate Term Relationships between Software Entities", 
+      "url": "https://www.semanticscholar.org/paper/9495368353f96514ab21a600c4433b980a7930e4", 
+      "venue": "ArXiv", 
+      "year": 2015
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "bc35da2bf80b79ccf387a2a6b92f541e12abb413", 
+      "title": "Regional Variation Of Domain-Specific Lexical Items: Toward A Pan-Chinese Lexical Resource", 
+      "url": "https://www.semanticscholar.org/paper/bc35da2bf80b79ccf387a2a6b92f541e12abb413", 
+      "venue": "", 
+      "year": 2006
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "f787657191d657d890a57f1f1f4048038c91a7bd", 
+      "title": "Crowdsourcing the Creation of a Word\u2013Emotion Association Lexicon", 
+      "url": "https://www.semanticscholar.org/paper/f787657191d657d890a57f1f1f4048038c91a7bd", 
+      "venue": "", 
+      "year": 2010
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "caba6383086dce29905041c326a74279ae21d92e", 
+      "title": "Comparing Distributional and Mirror Translation Similarities for Extracting Synonyms", 
+      "url": "https://www.semanticscholar.org/paper/caba6383086dce29905041c326a74279ae21d92e", 
+      "venue": "Canadian Conference on AI", 
+      "year": 2011
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "82b4f044edb9115bd7d95ad20a69913bd09ee478", 
+      "title": "Synonym Discovery for Structured Entities on Heterogeneous Graphs", 
+      "url": "https://www.semanticscholar.org/paper/82b4f044edb9115bd7d95ad20a69913bd09ee478", 
+      "venue": "WWW", 
+      "year": 2015
+    }, 
+    {
+      "isInfluential": true, 
+      "paperId": "29c34fc2bc9d1672c231255a9ff67ef203239c8c", 
+      "title": "Using Hidden Markov Random Fields to Combine Distributional and Pattern-Based Word Clustering", 
+      "url": "https://www.semanticscholar.org/paper/29c34fc2bc9d1672c231255a9ff67ef203239c8c", 
+      "venue": "COLING", 
+      "year": 2008
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "74f79144075c86d8c414c2c60ef369010be65bb2", 
+      "title": "Distributional Measures of Semantic Distance: A Survey", 
+      "url": "https://www.semanticscholar.org/paper/74f79144075c86d8c414c2c60ef369010be65bb2", 
+      "venue": "ArXiv", 
+      "year": 2012
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "590abf4a5b9e77abdac2ec4a75e90eae3437473b", 
+      "title": "Cscr004: First Year Report", 
+      "url": "https://www.semanticscholar.org/paper/590abf4a5b9e77abdac2ec4a75e90eae3437473b", 
+      "venue": "", 
+      "year": 2004
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "6c51c3ea753e8ba0765782be22d5c82d10dd2463", 
+      "title": "Document Refinement Based On Semantic Query Expansion", 
+      "url": "https://www.semanticscholar.org/paper/6c51c3ea753e8ba0765782be22d5c82d10dd2463", 
+      "venue": "", 
+      "year": 2004
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "a43bd9e909370b5bffaef236bf6d5440a7e31ae2", 
+      "title": "Contradiction Detection with Contradiction-Specific Word Embedding", 
+      "url": "https://www.semanticscholar.org/paper/a43bd9e909370b5bffaef236bf6d5440a7e31ae2", 
+      "venue": "Algorithms", 
+      "year": 2017
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "307d3771efe70a1701b4026abe637b64caefcd89", 
+      "title": "Discovering Subsumption Relationships for Web-Based Ontologies", 
+      "url": "https://www.semanticscholar.org/paper/307d3771efe70a1701b4026abe637b64caefcd89", 
+      "venue": "WebDB", 
+      "year": 2015
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "eb8837f3fc19272abad1e0d9a4823a8c81fc3031", 
+      "title": "Automatic Annotation of Co-Occurrence Relations", 
+      "url": "https://www.semanticscholar.org/paper/eb8837f3fc19272abad1e0d9a4823a8c81fc3031", 
+      "venue": "LREC", 
+      "year": 2010
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "2dae2546b7c73b943e3036a608ea01f8fc3db217", 
+      "title": "Automatic Synonym Discovery with Knowledge Bases", 
+      "url": "https://www.semanticscholar.org/paper/2dae2546b7c73b943e3036a608ea01f8fc3db217", 
+      "venue": "KDD", 
+      "year": 2017
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "d5a0ee38f985e19c11186ee9074f85ccf3339175", 
+      "title": "How Effective Is Query Expansion for Finding Novel Information?", 
+      "url": "https://www.semanticscholar.org/paper/d5a0ee38f985e19c11186ee9074f85ccf3339175", 
+      "venue": "IJCNLP", 
+      "year": 2004
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "4ede0a7ec282076ab952a79f859718b0dd9a5c65", 
+      "title": "Emotions Evoked by Common Words and Phrases: Using Mechanical Turk to Create an Emotion Lexicon", 
+      "url": "https://www.semanticscholar.org/paper/4ede0a7ec282076ab952a79f859718b0dd9a5c65", 
+      "venue": "", 
+      "year": 2010
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "74c75fbdcb496f8847305ccfc74e30e3e57d9e6a", 
+      "title": "Domain Independent Sentiment Classification with Many Lexicons", 
+      "url": "https://www.semanticscholar.org/paper/74c75fbdcb496f8847305ccfc74e30e3e57d9e6a", 
+      "venue": "2011 IEEE Workshops of International Conference on Advanced Information Networking and Applications", 
+      "year": 2011
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "04c82b4969140cda10f05513351a8fd89d0234e0", 
+      "title": "Co-occurrence Retrieval: A Flexible Framework for Lexical Distributional Similarity", 
+      "url": "https://www.semanticscholar.org/paper/04c82b4969140cda10f05513351a8fd89d0234e0", 
+      "venue": "Computational Linguistics", 
+      "year": 2005
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "6178e1f19fb32dd668c2cbe815096020413b53af", 
+      "title": "Semi-Automatic Identification of Bilingual Synonymous Technical Terms from Phrase Tables and Parallel Patent Sentences", 
+      "url": "https://www.semanticscholar.org/paper/6178e1f19fb32dd668c2cbe815096020413b53af", 
+      "venue": "PACLIC", 
+      "year": 2011
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "69fc89ce4a60c9b25be7c24e575c56308a8f10eb", 
+      "title": "Unsupervised identification of synonymous query intent templates for attribute intents", 
+      "url": "https://www.semanticscholar.org/paper/69fc89ce4a60c9b25be7c24e575c56308a8f10eb", 
+      "venue": "CIKM", 
+      "year": 2013
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "2edcdf384c641150dc0e0cbd651a7176867e8188", 
+      "title": "Constructing a Corpus of Japanese Predicate Phrases for Synonym/Antonym Relations", 
+      "url": "https://www.semanticscholar.org/paper/2edcdf384c641150dc0e0cbd651a7176867e8188", 
+      "venue": "LREC", 
+      "year": 2014
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "79547f6c29cae828ed765188eda28e44cb9434a8", 
+      "title": "Automatically Generating Term Frequency Induced Taxonomies", 
+      "url": "https://www.semanticscholar.org/paper/79547f6c29cae828ed765188eda28e44cb9434a8", 
+      "venue": "ACL", 
+      "year": 2010
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "98a3439840259621e9923e8e27568f066ffd7de7", 
+      "title": "Comparing Word Relatedness Measures Based on Google $n$-grams", 
+      "url": "https://www.semanticscholar.org/paper/98a3439840259621e9923e8e27568f066ffd7de7", 
+      "venue": "COLING", 
+      "year": 2012
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "39d21c550727ca7f0c4feb61eb0090cdda4fbf20", 
+      "title": "Integrating Pattern-Based and Distributional Similarity Methods for Lexical Entailment Acquisition", 
+      "url": "https://www.semanticscholar.org/paper/39d21c550727ca7f0c4feb61eb0090cdda4fbf20", 
+      "venue": "ACL", 
+      "year": 2006
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "0c739b915d633cc3c162e4ef1e57b796c2dc2217", 
+      "title": "VerbOcean: Mining the Web for Fine-Grained Semantic Verb Relations", 
+      "url": "https://www.semanticscholar.org/paper/0c739b915d633cc3c162e4ef1e57b796c2dc2217", 
+      "venue": "EMNLP", 
+      "year": 2004
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "27d4b0e5c43edf116ce2909ae009cc27a1546f09", 
+      "title": "Inclusive yet Selective: Supervised Distributional Hypernymy Detection", 
+      "url": "https://www.semanticscholar.org/paper/27d4b0e5c43edf116ce2909ae009cc27a1546f09", 
+      "venue": "COLING", 
+      "year": 2014
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "9ae3fd38afd17edadb6868fc5e4174aadddcbaf9", 
+      "title": "Text: now in 2D! A framework for lexical expansion with contextual similarity", 
+      "url": "https://www.semanticscholar.org/paper/9ae3fd38afd17edadb6868fc5e4174aadddcbaf9", 
+      "venue": "J. Language Modelling", 
+      "year": 2013
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "b26034c18915009d7e90c4121ad28d35d80dca6c", 
+      "title": "Not just dissimilar, but opposite: An algorithm for measuring similarity and oppositeness between words", 
+      "url": "https://www.semanticscholar.org/paper/b26034c18915009d7e90c4121ad28d35d80dca6c", 
+      "venue": "2016 International Conference on Data Science and Engineering (ICDSE)", 
+      "year": 2016
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "0744d75512f70e155e6fe4aff9849251ca091b10", 
+      "title": "Table classification using both structure and content information: A case study of financial documents", 
+      "url": "https://www.semanticscholar.org/paper/0744d75512f70e155e6fe4aff9849251ca091b10", 
+      "venue": "2016 IEEE International Conference on Big Data (Big Data)", 
+      "year": 2016
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "3673cea5182d1306ed0a5322748cfa56629c34e9", 
+      "title": "Mining entity attribute synonyms via compact clustering", 
+      "url": "https://www.semanticscholar.org/paper/3673cea5182d1306ed0a5322748cfa56629c34e9", 
+      "venue": "CIKM", 
+      "year": 2013
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "f3357e331cc56b046a485772f8a00a0d711cd5cb", 
+      "title": "Validating Contradiction in Texts Using Online Co-Mention Pattern Checking", 
+      "url": "https://www.semanticscholar.org/paper/f3357e331cc56b046a485772f8a00a0d711cd5cb", 
+      "venue": "ACM Trans. Asian Lang. Inf. Process.", 
+      "year": 2012
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "f60f0119104a4882d85f1a8f93b54da22d7b6e48", 
+      "title": "Combining dependency information and generalization in a pattern-based approach to the classification of lexical-semantic relation instances", 
+      "url": "https://www.semanticscholar.org/paper/f60f0119104a4882d85f1a8f93b54da22d7b6e48", 
+      "venue": "LREC", 
+      "year": 2014
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "060fa6c722a1b702c21cb852a80570dee9651ea3", 
+      "title": "Cross-cutting Models of Distributional Lexical Semantics", 
+      "url": "https://www.semanticscholar.org/paper/060fa6c722a1b702c21cb852a80570dee9651ea3", 
+      "venue": "", 
+      "year": 2010
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "6fa7e52c2f7ece487602279f75f5d65439217095", 
+      "title": "Automatic labeling of troponymy for Chinese verbs", 
+      "url": "https://www.semanticscholar.org/paper/6fa7e52c2f7ece487602279f75f5d65439217095", 
+      "venue": "ROCLING", 
+      "year": 2008
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "a950e3a9eedcecd16e983ccfe17b26f9ead794f6", 
+      "title": "Extraction of Hyponymy, Meronymy, and Antonymy Relation Pairs: a Brief Survey", 
+      "url": "https://www.semanticscholar.org/paper/a950e3a9eedcecd16e983ccfe17b26f9ead794f6", 
+      "venue": "", 
+      "year": 2017
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "4513ade434ac24913852d4fd74e31b91920f8029", 
+      "title": "Finding Word Substitutions Using a Distributional Similarity Baseline and Immediate Context Overlap", 
+      "url": "https://www.semanticscholar.org/paper/4513ade434ac24913852d4fd74e31b91920f8029", 
+      "venue": "EACL", 
+      "year": 2009
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "fefe768dcfbd4a2ec5ff2560c729007159b57520", 
+      "title": "Analogy perception applied to seven tests of word comprehension", 
+      "url": "https://www.semanticscholar.org/paper/fefe768dcfbd4a2ec5ff2560c729007159b57520", 
+      "venue": "J. Exp. Theor. Artif. Intell.", 
+      "year": 2011
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "b12f92d9d19415fefe9e7f1a08aa454f22425b6a", 
+      "title": "Designing a Database of GermaNet-based Semantic Relation Pairs involving Coherent Mini-Networks", 
+      "url": "https://www.semanticscholar.org/paper/b12f92d9d19415fefe9e7f1a08aa454f22425b6a", 
+      "venue": "", 
+      "year": 2012
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "74f854c252dd494101737c7c5324c421c0197648", 
+      "title": "Automatic Extraction of Synonyms for German Particle Verbs from Parallel Data with Distributional Similarity as a Re-Ranking Feature", 
+      "url": "https://www.semanticscholar.org/paper/74f854c252dd494101737c7c5324c421c0197648", 
+      "venue": "LREC", 
+      "year": 2014
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "55fb5e0493314d0b9f3834d8826f58300bb16e7a", 
+      "title": "A statistical model for near-synonym choice", 
+      "url": "https://www.semanticscholar.org/paper/55fb5e0493314d0b9f3834d8826f58300bb16e7a", 
+      "venue": "TSLP", 
+      "year": 2007
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "2103dc71d3954fd40809f32a58fe7093884f7fd3", 
+      "title": "Speech and Language Processing: an Introduction to Natural Language Processing, Computational Linguistics, and Speech Recognition. Computational Lexical Semantics 19.1 Word Sense Disambiguation: Overview", 
+      "url": "https://www.semanticscholar.org/paper/2103dc71d3954fd40809f32a58fe7093884f7fd3", 
+      "venue": "", 
+      "year": 2006
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "2bd2ef10209d629c314036baa4445511054a6075", 
+      "title": "Using Cooccurrence Statistics and the Web to Discover Synonyms in a Technical Language", 
+      "url": "https://www.semanticscholar.org/paper/2bd2ef10209d629c314036baa4445511054a6075", 
+      "venue": "LREC", 
+      "year": 2004
+    }
+  ], 
+  "doi": null, 
+  "influentialCitationCount": 9, 
+  "paperId": "2f3f866dd8e4a187c033e55fc8d31b6be77afd2d", 
+  "references": [
+    {
+      "isInfluential": false, 
+      "paperId": "5b31e43f8b0490779d8013e0705ae4df8f0488c9", 
+      "title": "Shallow Parsing with Conditional Random Fields", 
+      "url": "https://www.semanticscholar.org/paper/5b31e43f8b0490779d8013e0705ae4df8f0488c9", 
+      "venue": "HLT-NAACL", 
+      "year": 2003
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "3b8e7c8220d3883d54960d896a73045f3c70ac17", 
+      "title": "Discriminative Training Methods For Hidden Markov Models: Theory And Experiments With Perceptron Algorithms", 
+      "url": "https://www.semanticscholar.org/paper/3b8e7c8220d3883d54960d896a73045f3c70ac17", 
+      "venue": "", 
+      "year": 2002
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "1e026a8f6995465d1bdadae02a6139ee08ea5863", 
+      "title": "Exploiting dictionaries in named entity extraction: combining semi-Markov extraction processes and data integration methods", 
+      "url": "https://www.semanticscholar.org/paper/1e026a8f6995465d1bdadae02a6139ee08ea5863", 
+      "venue": "KDD", 
+      "year": 2004
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "0c7f52c753a65ceaf3755e20b906ffd0c05c994a", 
+      "title": "Conditional Random Fields: Probabilistic Models for Segmenting and Labeling Sequence Data", 
+      "url": "https://www.semanticscholar.org/paper/0c7f52c753a65ceaf3755e20b906ffd0c05c994a", 
+      "venue": "ICML", 
+      "year": 2001
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "7a26384ed2433a04203f209afef8c8910af67cfd", 
+      "title": "\"Understanding Natural Language, \" by T. Winograd (Book Review)", 
+      "url": "https://www.semanticscholar.org/paper/7a26384ed2433a04203f209afef8c8910af67cfd", 
+      "venue": "International Journal of Man-Machine Studies", 
+      "year": 1974
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "1b3942196a5b4e737e618fda91bc925c465faead", 
+      "title": "Corpus-Based Robotics: A Route Instruction Example", 
+      "url": "https://www.semanticscholar.org/paper/1b3942196a5b4e737e618fda91bc925c465faead", 
+      "venue": "", 
+      "year": 2003
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "b7400eafd4c2cfbd97671862c3e80cb87a32e28a", 
+      "title": "Spatial language for human-robot dialogs", 
+      "url": "https://www.semanticscholar.org/paper/b7400eafd4c2cfbd97671862c3e80cb87a32e28a", 
+      "venue": "IEEE Trans. Systems, Man, and Cybernetics, Part C", 
+      "year": 2004
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "4006e68770e09d3160a5088365ab408a79b9710c", 
+      "title": "Exponentiated Gradient Algorithms for Large-margin Structured Classification", 
+      "url": "https://www.semanticscholar.org/paper/4006e68770e09d3160a5088365ab408a79b9710c", 
+      "venue": "NIPS", 
+      "year": 2004
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "8c899de236336aa5635de4d3c0fd651e57b94fb6", 
+      "title": "Semiotic schemas: A framework for grounding language in action and perception", 
+      "url": "https://www.semanticscholar.org/paper/8c899de236336aa5635de4d3c0fd651e57b94fb6", 
+      "venue": "Artif. Intell.", 
+      "year": 2005
+    }
+  ], 
+  "title": "Identifying Synonyms among Distributionally Similar Words", 
+  "url": "https://www.semanticscholar.org/paper/2f3f866dd8e4a187c033e55fc8d31b6be77afd2d", 
+  "venue": "IJCAI", 
+  "year": 2003
+}

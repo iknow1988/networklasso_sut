@@ -1,0 +1,834 @@
+{
+  "authors": [
+    {
+      "authorId": "1738540", 
+      "name": "Hong Yu", 
+      "url": "https://www.semanticscholar.org/author/1738540"
+    }, 
+    {
+      "authorId": "1685296", 
+      "name": "Eugene Agichtein", 
+      "url": "https://www.semanticscholar.org/author/1685296"
+    }
+  ], 
+  "citationVelocity": 0, 
+  "citations": [
+    {
+      "isInfluential": false, 
+      "paperId": "b92cb5f752e2a72254af47e662588a81c1586714", 
+      "title": "Developing an NLP and IR-based algorithm for analyzing gene-disease relationships.", 
+      "url": "https://www.semanticscholar.org/paper/b92cb5f752e2a72254af47e662588a81c1586714", 
+      "venue": "Methods of information in medicine", 
+      "year": 2006
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "199d4b10bd5cbf47e8c2e2fcbf2c7b82aa17db6d", 
+      "title": "Text Mining: the Search for Novelty in Text 1 Text Mining", 
+      "url": "https://www.semanticscholar.org/paper/199d4b10bd5cbf47e8c2e2fcbf2c7b82aa17db6d", 
+      "venue": "", 
+      "year": null
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "d93de0dcc96db02d7b10d54b6df0ada58c79cd50", 
+      "title": "Accessing bioscience images from abstract sentences", 
+      "url": "https://www.semanticscholar.org/paper/d93de0dcc96db02d7b10d54b6df0ada58c79cd50", 
+      "venue": "ISMB", 
+      "year": 2006
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "d07748e7fbaed5568b88f140709395f8b797d005", 
+      "title": "Terminologies and Ontologies in Biomedicine: Can text mining help?", 
+      "url": "https://www.semanticscholar.org/paper/d07748e7fbaed5568b88f140709395f8b797d005", 
+      "venue": "", 
+      "year": 2005
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "2ec1e4db85fb2e9d53f60dd6e97ff50f9c361029", 
+      "title": "Recognition of Patient-Related Named Entities in Noisy Tele-Health Texts", 
+      "url": "https://www.semanticscholar.org/paper/2ec1e4db85fb2e9d53f60dd6e97ff50f9c361029", 
+      "venue": "ACM TIST", 
+      "year": 2015
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "2b885c9574cefd36891b06b5bdbc8a71e17d577a", 
+      "title": "Semi-Supervised Bootstrapping of Relationship Extractors with Distributional Semantics", 
+      "url": "https://www.semanticscholar.org/paper/2b885c9574cefd36891b06b5bdbc8a71e17d577a", 
+      "venue": "EMNLP", 
+      "year": 2015
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "2cdeefcf0fd06e8c76d019b880d3749ad4133fd1", 
+      "title": "D\u00e9pister efficacement de l'information dans une banque documentaire : L'exemple de MEDLINE", 
+      "url": "https://www.semanticscholar.org/paper/2cdeefcf0fd06e8c76d019b880d3749ad4133fd1", 
+      "venue": "INFORSID", 
+      "year": 2006
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "b7f9598466cb37a03285ce73dc1a8b59715466d7", 
+      "title": "An IR-Aided Machine Learning Framework for the BioCreative II.5 Challenge", 
+      "url": "https://www.semanticscholar.org/paper/b7f9598466cb37a03285ce73dc1a8b59715466d7", 
+      "venue": "IEEE/ACM Transactions on Computational Biology and Bioinformatics", 
+      "year": 2010
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "e844534ff4d5726a695c7cc5fdcbc2abc82ac249", 
+      "title": "Research Paper: Quantitative Assessment of Dictionary-based Protein Named Entity Tagging", 
+      "url": "https://www.semanticscholar.org/paper/e844534ff4d5726a695c7cc5fdcbc2abc82ac249", 
+      "venue": "JAMIA", 
+      "year": 2006
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "67e1c5e94494880f01ea7336d48d1bcba1b8a866", 
+      "title": "A tool for gene expression based PubMed search through combining data sources", 
+      "url": "https://www.semanticscholar.org/paper/67e1c5e94494880f01ea7336d48d1bcba1b8a866", 
+      "venue": "Bioinformatics", 
+      "year": 2004
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "09133d9f244d0894f845605cb14dd1e9cc1e5051", 
+      "title": "Grounding Gene Mentions with Respect to Gene Database Identifiers", 
+      "url": "https://www.semanticscholar.org/paper/09133d9f244d0894f845605cb14dd1e9cc1e5051", 
+      "venue": "", 
+      "year": 2004
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "83536fbcedf1a1a7a0b46b5df30f07e1af6de9d6", 
+      "title": "Diversifiable Bootstrapping for Acquiring High-Coverage Paraphrase Resource", 
+      "url": "https://www.semanticscholar.org/paper/83536fbcedf1a1a7a0b46b5df30f07e1af6de9d6", 
+      "venue": "LREC", 
+      "year": 2012
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "15182c6e680c7543f445bbe8de449afa912eacd4", 
+      "title": "Overview of BioNLP Shared Task 2011", 
+      "url": "https://www.semanticscholar.org/paper/15182c6e680c7543f445bbe8de449afa912eacd4", 
+      "venue": "", 
+      "year": 2011
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "0eb97871c90ade70ffbc53b11ab1b01ffeff33c3", 
+      "title": "Automatically annotating documents with normalized gene lists", 
+      "url": "https://www.semanticscholar.org/paper/0eb97871c90ade70ffbc53b11ab1b01ffeff33c3", 
+      "venue": "BMC Bioinformatics", 
+      "year": 2005
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "a55b0767cbd2e60606b1d05ec0a7d3d36dfb6bf4", 
+      "title": "Automatic extraction of mutations from Medline and cross-validation with OMIM.", 
+      "url": "https://www.semanticscholar.org/paper/a55b0767cbd2e60606b1d05ec0a7d3d36dfb6bf4", 
+      "venue": "Nucleic acids research", 
+      "year": 2004
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "21fa460ae0e890d64c6cae521197d70c951eecac", 
+      "title": "AZuRE, a scalable system for automated term disambiguation of gene and protein names", 
+      "url": "https://www.semanticscholar.org/paper/21fa460ae0e890d64c6cae521197d70c951eecac", 
+      "venue": "Proceedings. 2004 IEEE Computational Systems Bioinformatics Conference, 2004. CSB 2004.", 
+      "year": 2004
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "063a2d086ca1d9659ef81d4d4cad1ebace435ee0", 
+      "title": "Combining information extraction and text mining for cancer biomarker detection", 
+      "url": "https://www.semanticscholar.org/paper/063a2d086ca1d9659ef81d4d4cad1ebace435ee0", 
+      "venue": "2013 IEEE/ACM International Conference on Advances in Social Networks Analysis and Mining (ASONAM 2013)", 
+      "year": 2013
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "95e47b336bd15ffc4d495256c1a2611ffc9efa6d", 
+      "title": "02 Information about Principal Investigators/project Directors(pi/pd) and Co-principal Investigators/co-project Directors Do Not Include This Form with Any of the Other Copies of Your Proposal as This May Compromise the Confidentiality of the Information", 
+      "url": "https://www.semanticscholar.org/paper/95e47b336bd15ffc4d495256c1a2611ffc9efa6d", 
+      "venue": "", 
+      "year": 2005
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "1204abb8a9eb9b07149c2519b2bd20a21fc20d28", 
+      "title": "Extracting structure from HTML documents for language visualization and analysis", 
+      "url": "https://www.semanticscholar.org/paper/1204abb8a9eb9b07149c2519b2bd20a21fc20d28", 
+      "venue": "", 
+      "year": 2003
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "8db67bad9b1e7793ef08d743553118a34de00f6d", 
+      "title": "Adapting the tf idf vector-space model to domain specific information retrieval", 
+      "url": "https://www.semanticscholar.org/paper/8db67bad9b1e7793ef08d743553118a34de00f6d", 
+      "venue": "SAC", 
+      "year": 2010
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "5af8ae5cc30067487abdeb77fc2157580c0a6346", 
+      "title": "Unsupervised Discovery of Negative Categories in Lexicon Bootstrapping", 
+      "url": "https://www.semanticscholar.org/paper/5af8ae5cc30067487abdeb77fc2157580c0a6346", 
+      "venue": "EMNLP", 
+      "year": 2010
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "d665f0b73bc7366324827995d851f12a76af41cd", 
+      "title": "DIMACS at the TREC 2004 Genomics Track", 
+      "url": "https://www.semanticscholar.org/paper/d665f0b73bc7366324827995d851f12a76af41cd", 
+      "venue": "TREC", 
+      "year": 2004
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "ea0c93bfee51b743626a04e43ffd7ebccb070455", 
+      "title": "A Machine Learning Approach to Clinical Terms Normalization", 
+      "url": "https://www.semanticscholar.org/paper/ea0c93bfee51b743626a04e43ffd7ebccb070455", 
+      "venue": "", 
+      "year": 2016
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "e644933a4ba0a132d1d4dd6069dac32965cd21b0", 
+      "title": "Comparison of Mapping Techniques", 
+      "url": "https://www.semanticscholar.org/paper/e644933a4ba0a132d1d4dd6069dac32965cd21b0", 
+      "venue": "", 
+      "year": 2008
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "5239fad428edbbf817ea0a56003d8a483eb9630a", 
+      "title": "Report on the TREC 2006 Genomics Experiment", 
+      "url": "https://www.semanticscholar.org/paper/5239fad428edbbf817ea0a56003d8a483eb9630a", 
+      "venue": "TREC", 
+      "year": 2006
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "ebd3be48882f45b8bef84c815015ae976d30348d", 
+      "title": "Information Extraction and Sentence Classification applied to Clinical Trial MEDLINE Abstracts", 
+      "url": "https://www.semanticscholar.org/paper/ebd3be48882f45b8bef84c815015ae976d30348d", 
+      "venue": "", 
+      "year": 2005
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "1849e8cc4e2fd6b56f60e2f1d9745574524543b2", 
+      "title": "Overcoming Semantic Drift in Information Extraction", 
+      "url": "https://www.semanticscholar.org/paper/1849e8cc4e2fd6b56f60e2f1d9745574524543b2", 
+      "venue": "EDBT", 
+      "year": 2014
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "5827cc8093d0670811782ff6ff379e1b1a54c912", 
+      "title": "Dynamic NLP : A model for language bootstrapping and lifelong learning", 
+      "url": "https://www.semanticscholar.org/paper/5827cc8093d0670811782ff6ff379e1b1a54c912", 
+      "venue": "", 
+      "year": 2014
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "10a977c99549e46f9ecc2430b7cfc39f651a618a", 
+      "title": "Synonym extraction and abbreviation expansion with ensembles of semantic spaces", 
+      "url": "https://www.semanticscholar.org/paper/10a977c99549e46f9ecc2430b7cfc39f651a618a", 
+      "venue": "J. Biomedical Semantics", 
+      "year": 2014
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "857c215f0c6acea8dcd2fa8d1be85925a49f926e", 
+      "title": "Reducing Semantic Drift with Bagging and Distributional Similarity", 
+      "url": "https://www.semanticscholar.org/paper/857c215f0c6acea8dcd2fa8d1be85925a49f926e", 
+      "venue": "ACL/IJCNLP", 
+      "year": 2009
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "2726d37fda99a19e1e735c6bd92bb5686e6390dc", 
+      "title": "Connecting the Dots between PubMed Abstracts", 
+      "url": "https://www.semanticscholar.org/paper/2726d37fda99a19e1e735c6bd92bb5686e6390dc", 
+      "venue": "PloS one", 
+      "year": 2012
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "abc63256796ed4662ec1180e7b432e9e5fe7f842", 
+      "title": "Expanding a dictionary of marker words for uncertainty and negation using distributional semantics", 
+      "url": "https://www.semanticscholar.org/paper/abc63256796ed4662ec1180e7b432e9e5fe7f842", 
+      "venue": "", 
+      "year": 2015
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "9854d3ce48428e4524ba72ca3965391ba0f1c06d", 
+      "title": "A large scale, corpus-based approach for automatically disambiguating biomedical abbreviations", 
+      "url": "https://www.semanticscholar.org/paper/9854d3ce48428e4524ba72ca3965391ba0f1c06d", 
+      "venue": "ACM Trans. Inf. Syst.", 
+      "year": 2006
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "67e54dd64aa72b639c4e8b3fe9332896d5970084", 
+      "title": "Extracting Clinical Trial Design Information from MEDLINE Abstracts", 
+      "url": "https://www.semanticscholar.org/paper/67e54dd64aa72b639c4e8b3fe9332896d5970084", 
+      "venue": "New Generation Computing", 
+      "year": 2007
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "5949feab42d12ec7dd18a219361e5bf5c6613f32", 
+      "title": "Development, implementation, and a cognitive evaluation of a definitional question answering system for physicians", 
+      "url": "https://www.semanticscholar.org/paper/5949feab42d12ec7dd18a219361e5bf5c6613f32", 
+      "venue": "Journal of Biomedical Informatics", 
+      "year": 2007
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "0b27f865944994e21ea2316ac5f949b4e2d5df42", 
+      "title": "Openknowledge Deliverable 3.1.: Dynamic Ontology Matching: a Survey", 
+      "url": "https://www.semanticscholar.org/paper/0b27f865944994e21ea2316ac5f949b4e2d5df42", 
+      "venue": "", 
+      "year": 2006
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "f82d902c0eebf50e678e82573bb051407f2d7089", 
+      "title": "Mining and Ranking Biomedical Synonym Candidates from Wikipedia", 
+      "url": "https://www.semanticscholar.org/paper/f82d902c0eebf50e678e82573bb051407f2d7089", 
+      "venue": "", 
+      "year": 2015
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "26b47ab38e6faba7664b6e7e20a318d527354fa4", 
+      "title": "Contextual weighting for Support Vector Machines in literature mining: an application to gene versus protein name disambiguation", 
+      "url": "https://www.semanticscholar.org/paper/26b47ab38e6faba7664b6e7e20a318d527354fa4", 
+      "venue": "BMC Bioinformatics", 
+      "year": 2004
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "b1558d0d23ce3393de06041d0d8de111be7c6c10", 
+      "title": "Extraction of biological interaction networks from scientific literature", 
+      "url": "https://www.semanticscholar.org/paper/b1558d0d23ce3393de06041d0d8de111be7c6c10", 
+      "venue": "Briefings in Bioinformatics", 
+      "year": 2005
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "2947d33373bd44be9637c7df676b27e2f58c1b22", 
+      "title": "Identification of related gene/protein names based on an HMM of name variations", 
+      "url": "https://www.semanticscholar.org/paper/2947d33373bd44be9637c7df676b27e2f58c1b22", 
+      "venue": "Computational Biology and Chemistry", 
+      "year": 2004
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "31449a0c4e88ad406603ec086a407b747689384a", 
+      "title": "Term identification in the biomedical literature", 
+      "url": "https://www.semanticscholar.org/paper/31449a0c4e88ad406603ec086a407b747689384a", 
+      "venue": "Journal of Biomedical Informatics", 
+      "year": 2004
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "7994e56e2525ccc0034cbb6b9119e33dbb222d16", 
+      "title": "Ontology Refinement for Improved Information Retrieval in the Biomedical Domain", 
+      "url": "https://www.semanticscholar.org/paper/7994e56e2525ccc0034cbb6b9119e33dbb222d16", 
+      "venue": "", 
+      "year": 2008
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "52e372a868f747442268e5eac41d57ae7a937c40", 
+      "title": "Text Detective: a rule-based system for gene annotation in biomedical texts", 
+      "url": "https://www.semanticscholar.org/paper/52e372a868f747442268e5eac41d57ae7a937c40", 
+      "venue": "BMC Bioinformatics", 
+      "year": 2005
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "4fdb1c2f5b89aa29cb832a8522200318b06cd4b1", 
+      "title": "Developing a hybrid dictionary-based bio-entity recognition technique", 
+      "url": "https://www.semanticscholar.org/paper/4fdb1c2f5b89aa29cb832a8522200318b06cd4b1", 
+      "venue": "BMC Med. Inf. & Decision Making", 
+      "year": 2015
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "72aadcab815e71861cb2afe353581fbdcb1643ba", 
+      "title": "Evaluation of Stemming, Query Expansion and Manual Indexing Approaches for the Genomic Task", 
+      "url": "https://www.semanticscholar.org/paper/72aadcab815e71861cb2afe353581fbdcb1643ba", 
+      "venue": "TREC", 
+      "year": 2005
+    }, 
+    {
+      "isInfluential": true, 
+      "paperId": "2e7e94ffebfe73e0fed32afc8fc442e8d8622b51", 
+      "title": "Nrc Publications Archive (nparc) Archives Des Publications Du Cnrc (nparc) Pattern-based Approaches to Semantic Relation Extraction : a State- Of-the-art", 
+      "url": "https://www.semanticscholar.org/paper/2e7e94ffebfe73e0fed32afc8fc442e8d8622b51", 
+      "venue": "", 
+      "year": 2011
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "1ea2e42c8f918290112fa55e337b6725387443a9", 
+      "title": "Expansion of medical vocabularies using distributional semantics on Japanese patient blogs", 
+      "url": "https://www.semanticscholar.org/paper/1ea2e42c8f918290112fa55e337b6725387443a9", 
+      "venue": "J. Biomedical Semantics", 
+      "year": 2016
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "8e981efa38d7a5bfed423bf01e91ae0ba669948e", 
+      "title": "Event-based Information Extraction for the biomedical domain: the Caderige project", 
+      "url": "https://www.semanticscholar.org/paper/8e981efa38d7a5bfed423bf01e91ae0ba669948e", 
+      "venue": "ArXiv", 
+      "year": 2004
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "a25df8fce85cdce10e25c3a0b3f59721d2ba940e", 
+      "title": "Corpus-Driven Terminology Development: Populating Swedish SNOMED CT with Synonyms Extracted from Electronic Health Records", 
+      "url": "https://www.semanticscholar.org/paper/a25df8fce85cdce10e25c3a0b3f59721d2ba940e", 
+      "venue": "", 
+      "year": 2013
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "7b72c097e38c6435977bb4d3798458364cb04751", 
+      "title": "Weighted Mutual Exclusion Bootstrapping for Domain Independent Lexicon and Template Acquisition", 
+      "url": "https://www.semanticscholar.org/paper/7b72c097e38c6435977bb4d3798458364cb04751", 
+      "venue": "", 
+      "year": 2008
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "6bbd4a299e686aa002e809ae97bfb65e5fa1b11d", 
+      "title": "An Approach to Mine Textual Information From Pubmed Database", 
+      "url": "https://www.semanticscholar.org/paper/6bbd4a299e686aa002e809ae97bfb65e5fa1b11d", 
+      "venue": "", 
+      "year": 2012
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "8349795bdda165b75f66832259ddf8e4966fffe7", 
+      "title": "A survey of current work in biomedical text mining", 
+      "url": "https://www.semanticscholar.org/paper/8349795bdda165b75f66832259ddf8e4966fffe7", 
+      "venue": "Briefings in Bioinformatics", 
+      "year": 2005
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "70ef2e3c77b08d243cc618cbe535e15b15940c35", 
+      "title": "Recherche d'information dans MEDLINE", 
+      "url": "https://www.semanticscholar.org/paper/70ef2e3c77b08d243cc618cbe535e15b15940c35", 
+      "venue": "Document Num\u00e9rique", 
+      "year": 2007
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "0c5b5fb6b814a61d92de61e4cca6b8a167c41918", 
+      "title": "A multi-agent system with reinforcement learning agents for biomedical text mining", 
+      "url": "https://www.semanticscholar.org/paper/0c5b5fb6b814a61d92de61e4cca6b8a167c41918", 
+      "venue": "BCB", 
+      "year": 2015
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "f177c9ca65a3647f9f123f5abbf9bf821f51a395", 
+      "title": "IR-Specific Searches at TREC 2007: Genomics & Blog Experiments", 
+      "url": "https://www.semanticscholar.org/paper/f177c9ca65a3647f9f123f5abbf9bf821f51a395", 
+      "venue": "TREC", 
+      "year": 2007
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "09dee3dbb99db567a37fb805634d85ffb1b0323d", 
+      "title": "Literature extraction of protein functions using sentence pattern mining", 
+      "url": "https://www.semanticscholar.org/paper/09dee3dbb99db567a37fb805634d85ffb1b0323d", 
+      "venue": "IEEE Transactions on Knowledge and Data Engineering", 
+      "year": 2005
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "1c80a716d5e52f3500e3b8b7caeae3b3ebd88211", 
+      "title": "Facts from Text\u2014Is Text Mining Ready to Deliver?", 
+      "url": "https://www.semanticscholar.org/paper/1c80a716d5e52f3500e3b8b7caeae3b3ebd88211", 
+      "venue": "PLoS biology", 
+      "year": 2005
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "b67fe2f1203426db6242f2cefbf8e1874c32b8d0", 
+      "title": "Quantitative Assessment of Dictionary-based Protein Named Entity Tagging", 
+      "url": "https://www.semanticscholar.org/paper/b67fe2f1203426db6242f2cefbf8e1874c32b8d0", 
+      "venue": "", 
+      "year": 2006
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "daf2fa242019352a4e74d28375b5a635f141e006", 
+      "title": "Paraphrase Pattern Acquisition by Diversifiable Bootstrapping", 
+      "url": "https://www.semanticscholar.org/paper/daf2fa242019352a4e74d28375b5a635f141e006", 
+      "venue": "", 
+      "year": 2012
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "f4846feebdc1a1ede736bb0d62be8d6cdfd2c829", 
+      "title": "Extracting Clinical Findings from Swedish Health Record Text", 
+      "url": "https://www.semanticscholar.org/paper/f4846feebdc1a1ede736bb0d62be8d6cdfd2c829", 
+      "venue": "", 
+      "year": 2014
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "9ee1be7fc85b7c293b695aef385ba397c2cacb0c", 
+      "title": "Dimacs at the Trec 2004 Genomics", 
+      "url": "https://www.semanticscholar.org/paper/9ee1be7fc85b7c293b695aef385ba397c2cacb0c", 
+      "venue": "", 
+      "year": 2004
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "faedd02cb83639eddcff490d9560b387a0e0338c", 
+      "title": "DisArticle: a web server for SVM-based discrimination of articles on traditional medicine", 
+      "url": "https://www.semanticscholar.org/paper/faedd02cb83639eddcff490d9560b387a0e0338c", 
+      "venue": "BMC complementary and alternative medicine", 
+      "year": 2017
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "c22ded0b171b10c27c85eb381e75310f37eaf306", 
+      "title": "Unsupervised Gene/Protein Named Entity Normalization Using Automatically Extracted Dictionaries", 
+      "url": "https://www.semanticscholar.org/paper/c22ded0b171b10c27c85eb381e75310f37eaf306", 
+      "venue": "", 
+      "year": 2005
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "b33cf9f634bc8e301159075df21d111c6cd5e30c", 
+      "title": "Adaptive String Similarity Metrics For Biomedical Reference Resolution", 
+      "url": "https://www.semanticscholar.org/paper/b33cf9f634bc8e301159075df21d111c6cd5e30c", 
+      "venue": "", 
+      "year": 2005
+    }
+  ], 
+  "doi": null, 
+  "influentialCitationCount": 1, 
+  "paperId": "2281398b8127adcedbdd70342d64c2fe6b3cceac", 
+  "references": [
+    {
+      "isInfluential": false, 
+      "paperId": "53c9105121eae65e4aa2e38895b626bb0d452273", 
+      "title": "Tagging gene and protein names in biomedical text", 
+      "url": "https://www.semanticscholar.org/paper/53c9105121eae65e4aa2e38895b626bb0d452273", 
+      "venue": "Bioinformatics", 
+      "year": 2002
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "acec622ca4fb7e01a56116522d35ded149969d0a", 
+      "title": "Automatically Generating Extraction Patterns from Untagged Text", 
+      "url": "https://www.semanticscholar.org/paper/acec622ca4fb7e01a56116522d35ded149969d0a", 
+      "venue": "AAAI/IAAI, Vol. 2", 
+      "year": 1996
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "15a3ed7dfc005aa6f84f1e1fb81ef6d54ce3d8aa", 
+      "title": "Combining Labeled and Unlabeled Data with Co-Training", 
+      "url": "https://www.semanticscholar.org/paper/15a3ed7dfc005aa6f84f1e1fb81ef6d54ce3d8aa", 
+      "venue": "", 
+      "year": 1998
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "11157109b8f3a098c5c3f801ba9acbffd2aa49b1", 
+      "title": "Automatic Retrieval and Clustering of Similar Words", 
+      "url": "https://www.semanticscholar.org/paper/11157109b8f3a098c5c3f801ba9acbffd2aa49b1", 
+      "venue": "COLING-ACL", 
+      "year": 1998
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "00bbba51721dee6e0b1cd2a5b614ab46f33abab6", 
+      "title": "Using Information Content to Evaluate Semantic Similarity in a Taxonomy", 
+      "url": "https://www.semanticscholar.org/paper/00bbba51721dee6e0b1cd2a5b614ab46f33abab6", 
+      "venue": "IJCAI", 
+      "year": 1995
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "16f8c3572a9d48aa0248c27dd2618e64a31419e8", 
+      "title": "Is It the Right Answer? Exploiting Web Redundancy for Answer Validation", 
+      "url": "https://www.semanticscholar.org/paper/16f8c3572a9d48aa0248c27dd2618e64a31419e8", 
+      "venue": "ACL", 
+      "year": 2002
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "c74caeb8d2838b483ee357ab8e30f3186a357dd8", 
+      "title": "Learning information extraction rules for semistructured and free text", 
+      "url": "https://www.semanticscholar.org/paper/c74caeb8d2838b483ee357ab8e30f3186a357dd8", 
+      "venue": "Machine Learning", 
+      "year": 1999
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "0028683b16a98c356abbedab7adc7b1e23477527", 
+      "title": "Automatic extraction of gene and protein synonyms from MEDLINE and journal articles", 
+      "url": "https://www.semanticscholar.org/paper/0028683b16a98c356abbedab7adc7b1e23477527", 
+      "venue": "AMIA", 
+      "year": 2002
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "0bcc98f1b2fe1e9fedd10444e0aefdd7346bc45a", 
+      "title": "Detecting Gene Symbols and Names in Biological Texts: A First Step toward Pertinent Information Extraction", 
+      "url": "https://www.semanticscholar.org/paper/0bcc98f1b2fe1e9fedd10444e0aefdd7346bc45a", 
+      "venue": "", 
+      "year": 1998
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "507da9473d1b7cf69357e9d987b71cf7b5623b4d", 
+      "title": "GENIES: a natural-language processing system for the extraction of molecular pathways from journal articles", 
+      "url": "https://www.semanticscholar.org/paper/507da9473d1b7cf69357e9d987b71cf7b5623b4d", 
+      "venue": "ISMB", 
+      "year": 2001
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "2276c52c3ba47936e97d6fb3755f363a02157445", 
+      "title": "A Simple Algorithm for Identifying Abbreviation Definitions in Biomedical Text", 
+      "url": "https://www.semanticscholar.org/paper/2276c52c3ba47936e97d6fb3755f363a02157445", 
+      "venue": "Pacific Symposium on Biocomputing", 
+      "year": 2003
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "20ad0ba7e187e6f335a08c59a4e53da4e4b027ec", 
+      "title": "Automatic Acquisition of Hyponyms from Large Text Corpora", 
+      "url": "https://www.semanticscholar.org/paper/20ad0ba7e187e6f335a08c59a4e53da4e4b027ec", 
+      "venue": "COLING", 
+      "year": 1992
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "9c9e61a72f9863621f7823e0776ff9107c9996b1", 
+      "title": "Automatic extraction of protein interactions from scientific abstracts.", 
+      "url": "https://www.semanticscholar.org/paper/9c9e61a72f9863621f7823e0776ff9107c9996b1", 
+      "venue": "Pacific Symposium on Biocomputing. Pacific Symposium on Biocomputing", 
+      "year": 2000
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "669b4d7cf907479f0697305b8e11cb3700cca86a", 
+      "title": "Snowball: extracting relations from large plain-text collections", 
+      "url": "https://www.semanticscholar.org/paper/669b4d7cf907479f0697305b8e11cb3700cca86a", 
+      "venue": "ACM DL", 
+      "year": 2000
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "2349a7ccdd242ec0d02dfaaf39dae34fcb0eb988", 
+      "title": "PNAD-CSS: a workbench for constructing a protein name abbreviation dictionary", 
+      "url": "https://www.semanticscholar.org/paper/2349a7ccdd242ec0d02dfaaf39dae34fcb0eb988", 
+      "venue": "Bioinformatics", 
+      "year": 2000
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "29c65b0d6e744bedfa462159cf786c83aa389bb4", 
+      "title": "Word Clustering and Disambiguat ion Based on Co-occurrence Data", 
+      "url": "https://www.semanticscholar.org/paper/29c65b0d6e744bedfa462159cf786c83aa389bb4", 
+      "venue": "", 
+      "year": 1998
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "16bd1fbe3694173eda4ad4338a85f8288d19bf02", 
+      "title": "Relational Learning of Pattern-Match Rules for Information Extraction", 
+      "url": "https://www.semanticscholar.org/paper/16bd1fbe3694173eda4ad4338a85f8288d19bf02", 
+      "venue": "CoNLL", 
+      "year": 1997
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "57b219132b634d1b4c634c92e58b9a1c8b3f60ce", 
+      "title": "Extracting Patterns and Relations from the World Wide Web", 
+      "url": "https://www.semanticscholar.org/paper/57b219132b634d1b4c634c92e58b9a1c8b3f60ce", 
+      "venue": "WebDB", 
+      "year": 1998
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "a5713b9ba18a5eb133521bc694d8ae9b78709f78", 
+      "title": "EDGAR: extraction of drugs, genes and relations from the biomedical literature.", 
+      "url": "https://www.semanticscholar.org/paper/a5713b9ba18a5eb133521bc694d8ae9b78709f78", 
+      "venue": "Pacific Symposium on Biocomputing. Pacific Symposium on Biocomputing", 
+      "year": 2000
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "d65dd6aa2af060497a0daef47de576477772b67e", 
+      "title": "Wordnet. an Electronic Lexical Database. Edited by Christiane Fellbaum, with a Preface By", 
+      "url": "https://www.semanticscholar.org/paper/d65dd6aa2af060497a0daef47de576477772b67e", 
+      "venue": "", 
+      "year": 2003
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "f673e2b1d125ab30c7b27612b941fa9b3787c3e8", 
+      "title": "Hybrid Text Mining For Finding Abbreviations And Their Definitions", 
+      "url": "https://www.semanticscholar.org/paper/f673e2b1d125ab30c7b27612b941fa9b3787c3e8", 
+      "venue": "", 
+      "year": 2001
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "3922545120fd7df8392e6ed8173da6a92e496876", 
+      "title": "Semi-Supervised Maximum Entropy Based Approach to Acronym and Abbreviation Normalization in Medical Texts", 
+      "url": "https://www.semanticscholar.org/paper/3922545120fd7df8392e6ed8173da6a92e496876", 
+      "venue": "ACL", 
+      "year": 2002
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "10522ee9873135e3dd120b7c97a1019012930891", 
+      "title": "Mining Terminological Knowledge in Large Biomedical Corpora", 
+      "url": "https://www.semanticscholar.org/paper/10522ee9873135e3dd120b7c97a1019012930891", 
+      "venue": "Pacific Symposium on Biocomputing", 
+      "year": 2003
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "f46d4bc4d4981830f66588a73b65cb630a02c9fd", 
+      "title": "Mapping abbreviations to full forms in biomedical articles.", 
+      "url": "https://www.semanticscholar.org/paper/f46d4bc4d4981830f66588a73b65cb630a02c9fd", 
+      "venue": "Journal of the American Medical Informatics Association : JAMIA", 
+      "year": 2002
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "5211c32fb5849a14855a91a7ab16cfb83483cc1d", 
+      "title": "Unsupervised Word Sense Disambiguation Rivaling Supervised Methods", 
+      "url": "https://www.semanticscholar.org/paper/5211c32fb5849a14855a91a7ab16cfb83483cc1d", 
+      "venue": "ACL", 
+      "year": 1995
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "24a11795ee847c3f75cc1c6bcd2678152ac8a5ae", 
+      "title": "Toward information extraction: identifying protein names from biological papers.", 
+      "url": "https://www.semanticscholar.org/paper/24a11795ee847c3f75cc1c6bcd2678152ac8a5ae", 
+      "venue": "Pacific Symposium on Biocomputing. Pacific Symposium on Biocomputing", 
+      "year": 1998
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "1a0a415178d20754418987e312681f3fb0b40257", 
+      "title": "Unsupervised Models For Named Entity Classification", 
+      "url": "https://www.semanticscholar.org/paper/1a0a415178d20754418987e312681f3fb0b40257", 
+      "venue": "", 
+      "year": 1999
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "41e936981f5a2d55bfec0143e9a15e23ad96436b", 
+      "title": "Learning Dictionaries for Information Extraction by Multi-Level Bootstrapping", 
+      "url": "https://www.semanticscholar.org/paper/41e936981f5a2d55bfec0143e9a15e23ad96436b", 
+      "venue": "AAAI/IAAI", 
+      "year": 1999
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "468551f91b4cb34ba1de8f13b3b1ba9b06a8af4e", 
+      "title": "Disambiguating proteins, genes, and RNA in text: a machine learning approach", 
+      "url": "https://www.semanticscholar.org/paper/468551f91b4cb34ba1de8f13b3b1ba9b06a8af4e", 
+      "venue": "ISMB", 
+      "year": 2001
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "c8d0bbb9cfaf417baf33daaa94f2980df1cd7e4b", 
+      "title": "STALKER: Learning Wrappers for Semistructured, Web-based Information Sources", 
+      "url": "https://www.semanticscholar.org/paper/c8d0bbb9cfaf417baf33daaa94f2980df1cd7e4b", 
+      "venue": "", 
+      "year": 1998
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "04965011d0523b829ebba3677e8c066b67fdb1b7", 
+      "title": "Unsupervised Discovery of Scenario-Level Patterns for Information Extraction", 
+      "url": "https://www.semanticscholar.org/paper/04965011d0523b829ebba3677e8c066b67fdb1b7", 
+      "venue": "ANLP", 
+      "year": 2000
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "617a3d763d0b86db58d9bd6663e83a79241d5ebb", 
+      "title": "Discovering missed synonyms in a large concept-oriented metathesaurus", 
+      "url": "https://www.semanticscholar.org/paper/617a3d763d0b86db58d9bd6663e83a79241d5ebb", 
+      "venue": "Proceedings of the AMIA Symposium", 
+      "year": 2000
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "9a0f213d0cc3e18b9ecb4adff4f4b8638f9e9541", 
+      "title": "NYU: Description Of The Proteus/PET System As Used For MUC-7 ST", 
+      "url": "https://www.semanticscholar.org/paper/9a0f213d0cc3e18b9ecb4adff4f4b8638f9e9541", 
+      "venue": "", 
+      "year": 1998
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "2959e8489704ada612130fc608ce59a3973dba4b", 
+      "title": "Contextual Word Similarity and Estimation from Sparse Data", 
+      "url": "https://www.semanticscholar.org/paper/2959e8489704ada612130fc608ce59a3973dba4b", 
+      "venue": "ACL", 
+      "year": 1993
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "a0456c27cdd58f197032c1c8b4f304f09d4c9bc5", 
+      "title": "Ensemble Methods in Machine Learning", 
+      "url": "https://www.semanticscholar.org/paper/a0456c27cdd58f197032c1c8b4f304f09d4c9bc5", 
+      "venue": "Multiple Classifier Systems", 
+      "year": 2000
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "90fe4ffbe69a8b8dee37c145766e0073dc3e6901", 
+      "title": "Of truth and pathways: chasing bits of information through myriads of articles", 
+      "url": "https://www.semanticscholar.org/paper/90fe4ffbe69a8b8dee37c145766e0073dc3e6901", 
+      "venue": "ISMB", 
+      "year": 2002
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "0b6fcefe9d52b8cd6e663ff3e388dc6ecb8559b2", 
+      "title": "Wrapper Induction for Information Extraction", 
+      "url": "https://www.semanticscholar.org/paper/0b6fcefe9d52b8cd6e663ff3e388dc6ecb8559b2", 
+      "venue": "IJCAI", 
+      "year": 1997
+    }
+  ], 
+  "title": "Extracting synonymous gene and protein terms from biological literature", 
+  "url": "https://www.semanticscholar.org/paper/2281398b8127adcedbdd70342d64c2fe6b3cceac", 
+  "venue": "ISMB", 
+  "year": 2003
+}

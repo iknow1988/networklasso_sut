@@ -1,0 +1,505 @@
+{
+  "authors": [
+    {
+      "authorId": "1736067", 
+      "name": "Isabelle Augenstein", 
+      "url": "https://www.semanticscholar.org/author/1736067"
+    }, 
+    {
+      "authorId": "21685551", 
+      "name": "Mrinal Das", 
+      "url": "https://www.semanticscholar.org/author/21685551"
+    }, 
+    {
+      "authorId": "8956060", 
+      "name": "Sebastian Riedel", 
+      "url": "https://www.semanticscholar.org/author/8956060"
+    }, 
+    {
+      "authorId": "10704743", 
+      "name": "Lakshmi Vikraman", 
+      "url": "https://www.semanticscholar.org/author/10704743"
+    }, 
+    {
+      "authorId": "1735747", 
+      "name": "Andrew McCallum", 
+      "url": "https://www.semanticscholar.org/author/1735747"
+    }
+  ], 
+  "citationVelocity": 0, 
+  "citations": [
+    {
+      "isInfluential": false, 
+      "paperId": "51dc23dc1d4133145623e73294ed9b06015a44fd", 
+      "title": "A Supervised Approach to Extractive Summarisation of Scientific Papers", 
+      "url": "https://www.semanticscholar.org/paper/51dc23dc1d4133145623e73294ed9b06015a44fd", 
+      "venue": "CoNLL", 
+      "year": 2017
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "61ba2aeddae7a2ca06e82cf06f0477bd28489625", 
+      "title": "TTI-COIN at SemEval-2017 Task 10: Investigating Embeddings for End-to-End Relation Extraction from Scientific Papers", 
+      "url": "https://www.semanticscholar.org/paper/61ba2aeddae7a2ca06e82cf06f0477bd28489625", 
+      "venue": "SemEval@ACL", 
+      "year": 2017
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "534ebcf49f834da3aa84aec04ac932a58c0cbb7b", 
+      "title": "SZTE-NLP at SemEval-2017 Task 10: A High Precision Sequence Model for Keyphrase Extraction Utilizing Sparse Coding for Feature Generation", 
+      "url": "https://www.semanticscholar.org/paper/534ebcf49f834da3aa84aec04ac932a58c0cbb7b", 
+      "venue": "SemEval@ACL", 
+      "year": 2017
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "2264e14e35dc5a3db93437bc408a03171af8c59d", 
+      "title": "The AI2 system at SemEval-2017 Task 10 (ScienceIE): semi-supervised end-to-end entity and relation extraction", 
+      "url": "https://www.semanticscholar.org/paper/2264e14e35dc5a3db93437bc408a03171af8c59d", 
+      "venue": "SemEval@ACL", 
+      "year": 2017
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "8c43cf593531013ebb819f3fb9a4c45453a23657", 
+      "title": "LIPN at SemEval-2017 Task 10: Filtering Candidate Keyphrases from Scientific Publications with Part-of-Speech Tag Sequences to Train a Sequence Labeling Model", 
+      "url": "https://www.semanticscholar.org/paper/8c43cf593531013ebb819f3fb9a4c45453a23657", 
+      "venue": "SemEval@ACL", 
+      "year": 2017
+    }, 
+    {
+      "isInfluential": true, 
+      "paperId": "56633dc22c697c959573cef6e8626f42ee36c786", 
+      "title": "EELECTION at SemEval-2017 Task 10: Ensemble of nEural Learners for kEyphrase ClassificaTION", 
+      "url": "https://www.semanticscholar.org/paper/56633dc22c697c959573cef6e8626f42ee36c786", 
+      "venue": "SemEval@ACL", 
+      "year": 2017
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "01bfcb0770b0487eb8c246bb7debf5b8b76db340", 
+      "title": "LABDA at SemEval-2017 Task 10: Extracting Keyphrases from Scientific Publications by combining the BANNER tool and the UMLS Semantic Network", 
+      "url": "https://www.semanticscholar.org/paper/01bfcb0770b0487eb8c246bb7debf5b8b76db340", 
+      "venue": "SemEval@ACL", 
+      "year": 2017
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "07719766e6f3caf1765997d83985d3eb849f945b", 
+      "title": "NTNU-1$@$ScienceIE at SemEval-2017 Task 10: Identifying and Labelling Keyphrases with Conditional Random Fields", 
+      "url": "https://www.semanticscholar.org/paper/07719766e6f3caf1765997d83985d3eb849f945b", 
+      "venue": "SemEval@ACL", 
+      "year": 2017
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "d4ed00cc2e7fc128ae5ed527077db712ace92e56", 
+      "title": "PKU_ICL at SemEval-2017 Task 10: Keyphrase Extraction with Model Ensemble and External Knowledge", 
+      "url": "https://www.semanticscholar.org/paper/d4ed00cc2e7fc128ae5ed527077db712ace92e56", 
+      "venue": "SemEval@ACL", 
+      "year": 2017
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "e5f7c5d5f3569b7b7bf8a40760aa3eabe3d1900b", 
+      "title": "MIT at SemEval-2017 Task 10: Relation Extraction with Convolutional Neural Networks", 
+      "url": "https://www.semanticscholar.org/paper/e5f7c5d5f3569b7b7bf8a40760aa3eabe3d1900b", 
+      "venue": "SemEval@ACL", 
+      "year": 2017
+    }, 
+    {
+      "isInfluential": true, 
+      "paperId": "be35ff462fadc7803086661e64dacf100b396a83", 
+      "title": "Pre\u0301sentation du premier Atelier sur l\u2019Extraction et la Mode\u0301lisation de Connaissances a\u0300 partir de Textes Scientifiques", 
+      "url": "https://www.semanticscholar.org/paper/be35ff462fadc7803086661e64dacf100b396a83", 
+      "venue": "", 
+      "year": 2017
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "4a0db09d0c19dfeb78900164d46d4b06cd3fc9f3", 
+      "title": "Multi-Task Learning of Keyphrase Boundary Classification", 
+      "url": "https://www.semanticscholar.org/paper/4a0db09d0c19dfeb78900164d46d4b06cd3fc9f3", 
+      "venue": "ACL", 
+      "year": 2017
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "97006e9c3b14ce512b7e1de63e40c6b4347240d8", 
+      "title": "WING-NUS at SemEval-2017 Task 10: Keyphrase Identification and Classification as Joint Sequence Labeling", 
+      "url": "https://www.semanticscholar.org/paper/97006e9c3b14ce512b7e1de63e40c6b4347240d8", 
+      "venue": "", 
+      "year": 2017
+    }, 
+    {
+      "isInfluential": true, 
+      "paperId": "7f807ac6d6391e669172ff7043e40bf84492bebe", 
+      "title": "LABDA at SemEval-2017 Task 10: Relation Classification between keyphrases via Convolutional Neural Network", 
+      "url": "https://www.semanticscholar.org/paper/7f807ac6d6391e669172ff7043e40bf84492bebe", 
+      "venue": "SemEval@ACL", 
+      "year": 2017
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "2790ef0bf76d500312e5fbfea926486c5c1e54aa", 
+      "title": "NTNU-2 at SemEval-2017 Task 10: Identifying Synonym and Hyponym Relations among Keyphrases in Scientific Documents", 
+      "url": "https://www.semanticscholar.org/paper/2790ef0bf76d500312e5fbfea926486c5c1e54aa", 
+      "venue": "SemEval@ACL", 
+      "year": 2017
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "c835221cbed94f94ee5c84e2fd35c74ad361fd85", 
+      "title": "The NTNU System at SemEval-2017 Task 10: Extracting Keyphrases and Relations from Scientific Publications Using Multiple Conditional Random Fields", 
+      "url": "https://www.semanticscholar.org/paper/c835221cbed94f94ee5c84e2fd35c74ad361fd85", 
+      "venue": "SemEval@ACL", 
+      "year": 2017
+    }, 
+    {
+      "isInfluential": true, 
+      "paperId": "94e70c26b0ebb5a357d551ca3329b90fe9e2fdaf", 
+      "title": "MayoNLP at SemEval 2017 Task 10: Word Embedding Distance Pattern for Keyphrase Classification in Scientific Publications", 
+      "url": "https://www.semanticscholar.org/paper/94e70c26b0ebb5a357d551ca3329b90fe9e2fdaf", 
+      "venue": "SemEval@ACL", 
+      "year": 2017
+    }
+  ], 
+  "doi": "10.18653/v1/S17-2091", 
+  "influentialCitationCount": 4, 
+  "paperId": "71007219617d0f5e2419c5c1ab1a0d6d0bc40b7e", 
+  "references": [
+    {
+      "isInfluential": false, 
+      "paperId": "1bcb0d197554534702640626e57b085051747fce", 
+      "title": "Noun Homograph Disambiguation Using Local Context in Large Text Corpora", 
+      "url": "https://www.semanticscholar.org/paper/1bcb0d197554534702640626e57b085051747fce", 
+      "venue": "", 
+      "year": 1991
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "37ded3193329e89229529ced271034d15ca04d4c", 
+      "title": "Evaluating N-gram based Evaluation Metrics for Automatic Keyphrase Extraction", 
+      "url": "https://www.semanticscholar.org/paper/37ded3193329e89229529ced271034d15ca04d4c", 
+      "venue": "COLING", 
+      "year": 2010
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "0f30ac444ea152a96a940f8f8907239a4e7dea74", 
+      "title": "A Utility Model of Authors in the Scientific Community", 
+      "url": "https://www.semanticscholar.org/paper/0f30ac444ea152a96a940f8f8907239a4e7dea74", 
+      "venue": "EMNLP", 
+      "year": 2015
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "193ad334f669737f421b58198f787470d506e698", 
+      "title": "Joint inference of entities, relations, and coreference", 
+      "url": "https://www.semanticscholar.org/paper/193ad334f669737f421b58198f787470d506e698", 
+      "venue": "AKBC@CIKM", 
+      "year": 2013
+    }, 
+    {
+      "isInfluential": true, 
+      "paperId": "e5f7c5d5f3569b7b7bf8a40760aa3eabe3d1900b", 
+      "title": "MIT at SemEval-2017 Task 10: Relation Extraction with Convolutional Neural Networks", 
+      "url": "https://www.semanticscholar.org/paper/e5f7c5d5f3569b7b7bf8a40760aa3eabe3d1900b", 
+      "venue": "SemEval@ACL", 
+      "year": 2017
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "d4ed00cc2e7fc128ae5ed527077db712ace92e56", 
+      "title": "PKU_ICL at SemEval-2017 Task 10: Keyphrase Extraction with Model Ensemble and External Knowledge", 
+      "url": "https://www.semanticscholar.org/paper/d4ed00cc2e7fc128ae5ed527077db712ace92e56", 
+      "venue": "SemEval@ACL", 
+      "year": 2017
+    }, 
+    {
+      "isInfluential": true, 
+      "paperId": "7f807ac6d6391e669172ff7043e40bf84492bebe", 
+      "title": "LABDA at SemEval-2017 Task 10: Relation Classification between keyphrases via Convolutional Neural Network", 
+      "url": "https://www.semanticscholar.org/paper/7f807ac6d6391e669172ff7043e40bf84492bebe", 
+      "venue": "SemEval@ACL", 
+      "year": 2017
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "0025b0c655e678688ebd204b24f4d1be8490bdbc", 
+      "title": "EMNLP versus ACL: Analyzing NLP research over time", 
+      "url": "https://www.semanticscholar.org/paper/0025b0c655e678688ebd204b24f4d1be8490bdbc", 
+      "venue": "EMNLP", 
+      "year": 2015
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "5358924a48392d24e28afe850fa6849eaa1665d9", 
+      "title": "Argumentative Zoning for Improved Citation Indexing", 
+      "url": "https://www.semanticscholar.org/paper/5358924a48392d24e28afe850fa6849eaa1665d9", 
+      "venue": "Computing Attitude and Affect in Text", 
+      "year": 2006
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "2b5aadb2586707433beb21121677289d196e6144", 
+      "title": "brat: a Web-based Tool for NLP-Assisted Text Annotation", 
+      "url": "https://www.semanticscholar.org/paper/2b5aadb2586707433beb21121677289d196e6144", 
+      "venue": "EACL", 
+      "year": 2012
+    }, 
+    {
+      "isInfluential": true, 
+      "paperId": "2790ef0bf76d500312e5fbfea926486c5c1e54aa", 
+      "title": "NTNU-2 at SemEval-2017 Task 10: Identifying Synonym and Hyponym Relations among Keyphrases in Scientific Documents", 
+      "url": "https://www.semanticscholar.org/paper/2790ef0bf76d500312e5fbfea926486c5c1e54aa", 
+      "venue": "SemEval@ACL", 
+      "year": 2017
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "4f74bd69c6d2ffd179e3b64646178f84fe883ba6", 
+      "title": "Know-Center at SemEval-2017 Task 10: Sequence Classification with the CODE Annotator", 
+      "url": "https://www.semanticscholar.org/paper/4f74bd69c6d2ffd179e3b64646178f84fe883ba6", 
+      "venue": "SemEval@ACL", 
+      "year": 2017
+    }, 
+    {
+      "isInfluential": true, 
+      "paperId": "01bfcb0770b0487eb8c246bb7debf5b8b76db340", 
+      "title": "LABDA at SemEval-2017 Task 10: Extracting Keyphrases from Scientific Publications by combining the BANNER tool and the UMLS Semantic Network", 
+      "url": "https://www.semanticscholar.org/paper/01bfcb0770b0487eb8c246bb7debf5b8b76db340", 
+      "venue": "SemEval@ACL", 
+      "year": 2017
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "0a386ce12cc4ac26f5af5d43232bf307761f5c25", 
+      "title": "Extraction and generalisation of variables from scientific publications", 
+      "url": "https://www.semanticscholar.org/paper/0a386ce12cc4ac26f5af5d43232bf307761f5c25", 
+      "venue": "EMNLP", 
+      "year": 2015
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "a67f1f0dac9eab51f444a1c22215ebc972b05fa1", 
+      "title": "Rediscovering ACL Discoveries Through the Lens of ACL Anthology Network Citing Sentences", 
+      "url": "https://www.semanticscholar.org/paper/a67f1f0dac9eab51f444a1c22215ebc972b05fa1", 
+      "venue": "", 
+      "year": 2012
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "23385241580e80036a901b762c5ad34f416fdeb8", 
+      "title": "Automatic Keyphrase Extraction: A Survey of the State of the Art", 
+      "url": "https://www.semanticscholar.org/paper/23385241580e80036a901b762c5ad34f416fdeb8", 
+      "venue": "ACL", 
+      "year": 2014
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "07758cdac245ac96bf772538633a5eaa69a9654b", 
+      "title": "Joint Entity and Relation Extraction Using Card-Pyramid Parsing", 
+      "url": "https://www.semanticscholar.org/paper/07758cdac245ac96bf772538633a5eaa69a9654b", 
+      "venue": "CoNLL", 
+      "year": 2010
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "2d02141fd8c263d9c9a05d704c2d3e38525a7167", 
+      "title": "Learning Syntactic Patterns for Automatic Hypernym Discovery", 
+      "url": "https://www.semanticscholar.org/paper/2d02141fd8c263d9c9a05d704c2d3e38525a7167", 
+      "venue": "NIPS", 
+      "year": 2004
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "00dc2bd799a58aa1631d7e5a27c1f4c5ff315030", 
+      "title": "Approximate Matching for Evaluating Keyphrase Extraction", 
+      "url": "https://www.semanticscholar.org/paper/00dc2bd799a58aa1631d7e5a27c1f4c5ff315030", 
+      "venue": "RANLP", 
+      "year": 2009
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "2d2e53746269594ba3c6f677f6f2f19d6bf03dc5", 
+      "title": "Extracting Relations between Non-Standard Entities using Distant Supervision and Imitation Learning", 
+      "url": "https://www.semanticscholar.org/paper/2d2e53746269594ba3c6f677f6f2f19d6bf03dc5", 
+      "venue": "EMNLP", 
+      "year": 2015
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "4a0db09d0c19dfeb78900164d46d4b06cd3fc9f3", 
+      "title": "Multi-Task Learning of Keyphrase Boundary Classification", 
+      "url": "https://www.semanticscholar.org/paper/4a0db09d0c19dfeb78900164d46d4b06cd3fc9f3", 
+      "venue": "ACL", 
+      "year": 2017
+    }, 
+    {
+      "isInfluential": true, 
+      "paperId": "c835221cbed94f94ee5c84e2fd35c74ad361fd85", 
+      "title": "The NTNU System at SemEval-2017 Task 10: Extracting Keyphrases and Relations from Scientific Publications Using Multiple Conditional Random Fields", 
+      "url": "https://www.semanticscholar.org/paper/c835221cbed94f94ee5c84e2fd35c74ad361fd85", 
+      "venue": "SemEval@ACL", 
+      "year": 2017
+    }, 
+    {
+      "isInfluential": true, 
+      "paperId": "534ebcf49f834da3aa84aec04ac932a58c0cbb7b", 
+      "title": "SZTE-NLP at SemEval-2017 Task 10: A High Precision Sequence Model for Keyphrase Extraction Utilizing Sparse Coding for Feature Generation", 
+      "url": "https://www.semanticscholar.org/paper/534ebcf49f834da3aa84aec04ac932a58c0cbb7b", 
+      "venue": "SemEval@ACL", 
+      "year": 2017
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "155828a9960507e6a8006fd5ad27918d25cd51b6", 
+      "title": "Unsupervised Declarative Knowledge Induction for Constraint-Based Learning of Information Structure in Scientific Documents", 
+      "url": "https://www.semanticscholar.org/paper/155828a9960507e6a8006fd5ad27918d25cd51b6", 
+      "venue": "TACL", 
+      "year": 2015
+    }, 
+    {
+      "isInfluential": true, 
+      "paperId": "2264e14e35dc5a3db93437bc408a03171af8c59d", 
+      "title": "The AI2 system at SemEval-2017 Task 10 (ScienceIE): semi-supervised end-to-end entity and relation extraction", 
+      "url": "https://www.semanticscholar.org/paper/2264e14e35dc5a3db93437bc408a03171af8c59d", 
+      "venue": "SemEval@ACL", 
+      "year": 2017
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "1eb11097acd3ded87ce4f6a159e1df499d79988b", 
+      "title": "Unsupervised learning of rhetorical structure with un-topic models", 
+      "url": "https://www.semanticscholar.org/paper/1eb11097acd3ded87ce4f6a159e1df499d79988b", 
+      "venue": "COLING", 
+      "year": 2014
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "8f8139b63a2fc0b3ae8413acaef47acd35a356e0", 
+      "title": "Distant supervision for relation extraction without labeled data", 
+      "url": "https://www.semanticscholar.org/paper/8f8139b63a2fc0b3ae8413acaef47acd35a356e0", 
+      "venue": "ACL/IJCNLP", 
+      "year": 2009
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "415da1c6e0c872b434df0d334e5a6dfad4bd0786", 
+      "title": "Posterior regularization for Joint Modelling of Multiple Structured Prediction Tasks with Soft Constraints", 
+      "url": "https://www.semanticscholar.org/paper/415da1c6e0c872b434df0d334e5a6dfad4bd0786", 
+      "venue": "", 
+      "year": 2016
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "56633dc22c697c959573cef6e8626f42ee36c786", 
+      "title": "EELECTION at SemEval-2017 Task 10: Ensemble of nEural Learners for kEyphrase ClassificaTION", 
+      "url": "https://www.semanticscholar.org/paper/56633dc22c697c959573cef6e8626f42ee36c786", 
+      "venue": "SemEval@ACL", 
+      "year": 2017
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "0cda68237d8ba29bd320c729e6b0855313aa9e7b", 
+      "title": "Analyzing the Dynamics of Research by Extracting Key Aspects of Scientific Papers", 
+      "url": "https://www.semanticscholar.org/paper/0cda68237d8ba29bd320c729e6b0855313aa9e7b", 
+      "venue": "IJCNLP", 
+      "year": 2011
+    }, 
+    {
+      "isInfluential": true, 
+      "paperId": "61ba2aeddae7a2ca06e82cf06f0477bd28489625", 
+      "title": "TTI-COIN at SemEval-2017 Task 10: Investigating Embeddings for End-to-End Relation Extraction from Scientific Papers", 
+      "url": "https://www.semanticscholar.org/paper/61ba2aeddae7a2ca06e82cf06f0477bd28489625", 
+      "venue": "SemEval@ACL", 
+      "year": 2017
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "e380e7b459fdc78006ad91cb868da5e0f2341cff", 
+      "title": "Corpus for Coreference Resolution on Scientific Papers", 
+      "url": "https://www.semanticscholar.org/paper/e380e7b459fdc78006ad91cb868da5e0f2341cff", 
+      "venue": "LREC", 
+      "year": 2014
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "5577e077d1c91f68cc1c4c611f5af2b421fe1d41", 
+      "title": "Accurate Information Extraction from Research Papers using Conditional Random Fields", 
+      "url": "https://www.semanticscholar.org/paper/5577e077d1c91f68cc1c4c611f5af2b421fe1d41", 
+      "venue": "HLT-NAACL", 
+      "year": 2004
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "8bff6e1f82f74462ed70b145ad65d7e7b6a1c5a1", 
+      "title": "Annotation of Computer Science Papers for Semantic Relation Extrac-tion", 
+      "url": "https://www.semanticscholar.org/paper/8bff6e1f82f74462ed70b145ad65d7e7b6a1c5a1", 
+      "venue": "LREC", 
+      "year": 2014
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "0b59cbda5ee07196f36c0e888af9191d803b2091", 
+      "title": "SemEval-2010 Task 5 : Automatic Keyphrase Extraction from Scientific Articles", 
+      "url": "https://www.semanticscholar.org/paper/0b59cbda5ee07196f36c0e888af9191d803b2091", 
+      "venue": "SemEval@ACL", 
+      "year": 2010
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "47a7a9053d232647260d41e3311a7d882f140918", 
+      "title": "WING-NUS at SemEval-2017 Task 10: Keyphrase Extraction and Classification as Joint Sequence Labeling", 
+      "url": "https://www.semanticscholar.org/paper/47a7a9053d232647260d41e3311a7d882f140918", 
+      "venue": "SemEval@ACL", 
+      "year": 2017
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "443a5a215ee52c983fcde5d1ce71c1882af379ed", 
+      "title": "Automatic Extraction of Citation Contexts for Research Paper Summarization: A Coreference-chain based Approach", 
+      "url": "https://www.semanticscholar.org/paper/443a5a215ee52c983fcde5d1ce71c1882af379ed", 
+      "venue": "", 
+      "year": 2009
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "4446055e5d6d762ec970476ed3f3ccf200877b60", 
+      "title": "Supervised Keyphrase Extraction as Positive Unlabeled Learning", 
+      "url": "https://www.semanticscholar.org/paper/4446055e5d6d762ec970476ed3f3ccf200877b60", 
+      "venue": "EMNLP", 
+      "year": 2016
+    }, 
+    {
+      "isInfluential": true, 
+      "paperId": "33ee713508c2a3007c10fe00f684cf43ef2a05b6", 
+      "title": "The ACL RD-TEC 2.0: A Language Resource for Evaluating Term Extraction and Entity Recognition Methods", 
+      "url": "https://www.semanticscholar.org/paper/33ee713508c2a3007c10fe00f684cf43ef2a05b6", 
+      "venue": "LREC", 
+      "year": 2016
+    }, 
+    {
+      "isInfluential": true, 
+      "paperId": "8c43cf593531013ebb819f3fb9a4c45453a23657", 
+      "title": "LIPN at SemEval-2017 Task 10: Filtering Candidate Keyphrases from Scientific Publications with Part-of-Speech Tag Sequences to Train a Sequence Labeling Model", 
+      "url": "https://www.semanticscholar.org/paper/8c43cf593531013ebb819f3fb9a4c45453a23657", 
+      "venue": "SemEval@ACL", 
+      "year": 2017
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "762b63d2eb86f8fd0de98a08561b77527ae8f165", 
+      "title": "Distributed Representations of Words and Phrases and their Compositionality", 
+      "url": "https://www.semanticscholar.org/paper/762b63d2eb86f8fd0de98a08561b77527ae8f165", 
+      "venue": "NIPS", 
+      "year": 2013
+    }
+  ], 
+  "title": "SemEval 2017 Task 10: ScienceIE - Extracting Keyphrases and Relations from Scientific Publications", 
+  "url": "https://www.semanticscholar.org/paper/71007219617d0f5e2419c5c1ab1a0d6d0bc40b7e", 
+  "venue": "SemEval@ACL", 
+  "year": 2017
+}

@@ -1,0 +1,798 @@
+{
+  "authors": [
+    {
+      "authorId": "1965861", 
+      "name": "Anthony Fader", 
+      "url": "https://www.semanticscholar.org/author/1965861"
+    }, 
+    {
+      "authorId": "1982950", 
+      "name": "Luke S. Zettlemoyer", 
+      "url": "https://www.semanticscholar.org/author/1982950"
+    }, 
+    {
+      "authorId": "1741101", 
+      "name": "Oren Etzioni", 
+      "url": "https://www.semanticscholar.org/author/1741101"
+    }
+  ], 
+  "citationVelocity": 37, 
+  "citations": [
+    {
+      "isInfluential": false, 
+      "paperId": "6e565308c8081e807709cb4a917443b737e6cdb4", 
+      "title": "Large-scale Simple Question Answering with Memory Networks", 
+      "url": "https://www.semanticscholar.org/paper/6e565308c8081e807709cb4a917443b737e6cdb4"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "41866f1c6e5b92d1f73749c5de1394447aa72fc5", 
+      "title": "Cross-domain Semantic Parsing via Paraphrasing", 
+      "url": "https://www.semanticscholar.org/paper/41866f1c6e5b92d1f73749c5de1394447aa72fc5"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "35a95eb8d849713639c88453500007e496fd0f9c", 
+      "title": "An Overview of Microsoft Deep QA System on Stanford WebQuestions Benchmark", 
+      "url": "https://www.semanticscholar.org/paper/35a95eb8d849713639c88453500007e496fd0f9c"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "4ffaafba55aa26d9abe788b21703220ea5baccd3", 
+      "title": "Harvesting Parallel News Streams to Generate Paraphrases of Event Relations", 
+      "url": "https://www.semanticscholar.org/paper/4ffaafba55aa26d9abe788b21703220ea5baccd3"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "9d2bfb28ea197ec1a0f4266aefde2f9129638193", 
+      "title": "Hybrid Question Answering over Knowledge Base and Free Text", 
+      "url": "https://www.semanticscholar.org/paper/9d2bfb28ea197ec1a0f4266aefde2f9129638193"
+    }, 
+    {
+      "isInfluential": true, 
+      "paperId": "44af8277ff808092bff799a0cfb7fa64bbeea8ca", 
+      "title": "A Corpus of Word-Aligned Asked and Anticipated Questions in a Virtual Patient Dialogue System", 
+      "url": "https://www.semanticscholar.org/paper/44af8277ff808092bff799a0cfb7fa64bbeea8ca"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "86d11ebf438fc9d5d91d9daa9b7184c814602efb", 
+      "title": "Nerdle: Topic-Specific Question Answering Using Wikia Seeds", 
+      "url": "https://www.semanticscholar.org/paper/86d11ebf438fc9d5d91d9daa9b7184c814602efb"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "cc115da44e53a17657296f56986f8c880430b1de", 
+      "title": "Survey of Reasoning using Neural networks", 
+      "url": "https://www.semanticscholar.org/paper/cc115da44e53a17657296f56986f8c880430b1de"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "6d35949dac3d64ce087c54d200463b3908932832", 
+      "title": "Convolutional Neural Network for Sentence Classification", 
+      "url": "https://www.semanticscholar.org/paper/6d35949dac3d64ce087c54d200463b3908932832"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "4e0a4b7b66227b720e593acb81537be38674470b", 
+      "title": "Semantic Search on Text and Knowledge Bases", 
+      "url": "https://www.semanticscholar.org/paper/4e0a4b7b66227b720e593acb81537be38674470b"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "9222c69ca851b26e8338b0082dfafbc663d1be50", 
+      "title": "A Graph Traversal Based Approach to Answer Non-Aggregation Questions Over DBpedia", 
+      "url": "https://www.semanticscholar.org/paper/9222c69ca851b26e8338b0082dfafbc663d1be50"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "4bd4eae119925d6e690741ee0c42f1fb5a1e79bd", 
+      "title": "Answering Natural Language Questions with Intui3", 
+      "url": "https://www.semanticscholar.org/paper/4bd4eae119925d6e690741ee0c42f1fb5a1e79bd"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "c2a9db214f2954109a1d45885a0fd87efb624685", 
+      "title": "Learning to Extract Conditional Knowledge for Question Answering using Dialogue", 
+      "url": "https://www.semanticscholar.org/paper/c2a9db214f2954109a1d45885a0fd87efb624685"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "62a6cf246c9bec56babab9424fa36bfc9d4a47e8", 
+      "title": "CFO: Conditional Focused Neural Question Answering with Large-scale Knowledge Bases", 
+      "url": "https://www.semanticscholar.org/paper/62a6cf246c9bec56babab9424fa36bfc9d4a47e8"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "091d0c7b3576fd6f3bb2bec344deb8f81fc1f7c6", 
+      "title": "Yin and Yang: Balancing and Answering Binary Visual Questions", 
+      "url": "https://www.semanticscholar.org/paper/091d0c7b3576fd6f3bb2bec344deb8f81fc1f7c6"
+    }, 
+    {
+      "isInfluential": true, 
+      "paperId": "5999282fc3cd947d4ed480e61781d936c5feee52", 
+      "title": "Memory Networks", 
+      "url": "https://www.semanticscholar.org/paper/5999282fc3cd947d4ed480e61781d936c5feee52"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "0730efeacf9bfd6d65ca6c2fa659b396f48d5659", 
+      "title": "Large-scale Semantic Parsing without Question-Answer Pairs", 
+      "url": "https://www.semanticscholar.org/paper/0730efeacf9bfd6d65ca6c2fa659b396f48d5659"
+    }, 
+    {
+      "isInfluential": true, 
+      "paperId": "6fba4968f1b39d490bf95fe4030e3d385f167074", 
+      "title": "Machine Learning with World Knowledge: The Position and Survey", 
+      "url": "https://www.semanticscholar.org/paper/6fba4968f1b39d490bf95fe4030e3d385f167074"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "4eedc969cdefd3daf213b56958d41dc23e910858", 
+      "title": "HARPY: Hypernyms and Alignment of Relational Paraphrases", 
+      "url": "https://www.semanticscholar.org/paper/4eedc969cdefd3daf213b56958d41dc23e910858"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "bcf16c08a41009d9f9174c6f72b2ff534232c147", 
+      "title": "Sequence-based Structured Prediction for Semantic Parsing", 
+      "url": "https://www.semanticscholar.org/paper/bcf16c08a41009d9f9174c6f72b2ff534232c147"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "5947dc60639810c1afeecf1020036930d95694be", 
+      "title": "LSTM-based Mixture-of-Experts for Knowledge-Aware Dialogues", 
+      "url": "https://www.semanticscholar.org/paper/5947dc60639810c1afeecf1020036930d95694be"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "ac67d83ef24bb3d425a8fa5d28fa25c1f27f3bc5", 
+      "title": "Multi-Field Structural Decomposition for Question Answering", 
+      "url": "https://www.semanticscholar.org/paper/ac67d83ef24bb3d425a8fa5d28fa25c1f27f3bc5"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "2253a140c49855b6d09fef6655760ef045b092b5", 
+      "title": "Parsing Paraphrases with Joint Inference", 
+      "url": "https://www.semanticscholar.org/paper/2253a140c49855b6d09fef6655760ef045b092b5"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "dc59fd5b66f652afcf49bc49a68c817ec4c7f16c", 
+      "title": "Spotting Knowledge Base Facts in Web Texts", 
+      "url": "https://www.semanticscholar.org/paper/dc59fd5b66f652afcf49bc49a68c817ec4c7f16c"
+    }, 
+    {
+      "isInfluential": true, 
+      "paperId": "413c3382088698bcb80ef547fa12d407c130dfd7", 
+      "title": "Content-Based Table Retrieval for Web Queries", 
+      "url": "https://www.semanticscholar.org/paper/413c3382088698bcb80ef547fa12d407c130dfd7"
+    }, 
+    {
+      "isInfluential": true, 
+      "paperId": "a129f612a9eff903d9133244a6f0914ef3cbda72", 
+      "title": "Semantic Parsing for Single-Relation Question Answering", 
+      "url": "https://www.semanticscholar.org/paper/a129f612a9eff903d9133244a6f0914ef3cbda72"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "1225a5ab0a7d2f7a415917a7e5bb8f0580d715a2", 
+      "title": "Speech and Language Processing. Question Answering William Wilkinson's \" an Account of the Principal- Ities of Wallachia and Moldovia \" Inspired This Au- Thor's Most Famous Novel 1", 
+      "url": "https://www.semanticscholar.org/paper/1225a5ab0a7d2f7a415917a7e5bb8f0580d715a2"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "0e04c49e6ced2be382b7abd27f7e3e53471bb0d9", 
+      "title": "Information Extraction over Structured Data: Question Answering with Freebase", 
+      "url": "https://www.semanticscholar.org/paper/0e04c49e6ced2be382b7abd27f7e3e53471bb0d9"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "dc4cbf25503ece9707cd0fa9c6fe992a74495f57", 
+      "title": "Question Answering over Knowledge Base using Factual Memory Networks", 
+      "url": "https://www.semanticscholar.org/paper/dc4cbf25503ece9707cd0fa9c6fe992a74495f57"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "29ee8ee055a15d76fc0f00f545fd5fddf5a6d90d", 
+      "title": "Ask the Right Questions: Active Question Reformulation with Reinforcement Learning", 
+      "url": "https://www.semanticscholar.org/paper/29ee8ee055a15d76fc0f00f545fd5fddf5a6d90d"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "76f43ca313f2619af0ce55f5a29425e26918ae11", 
+      "title": "POLY: Mining Relational Paraphrases from Multilingual Sentences", 
+      "url": "https://www.semanticscholar.org/paper/76f43ca313f2619af0ce55f5a29425e26918ae11"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "034d203e58f294f01f77ff12b0f339030aca72ba", 
+      "title": "Macro Grammars and Holistic Triggering for Efficient Semantic Parsing", 
+      "url": "https://www.semanticscholar.org/paper/034d203e58f294f01f77ff12b0f339030aca72ba"
+    }, 
+    {
+      "isInfluential": true, 
+      "paperId": "6424692589789300de8160f932f54bbd0b52a6bd", 
+      "title": "Neural Paraphrase Identification of Questions with Noisy Pretraining", 
+      "url": "https://www.semanticscholar.org/paper/6424692589789300de8160f932f54bbd0b52a6bd"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "0a80cfdcca92f0b6c5f3fd1569c92f3b2d08b4db", 
+      "title": "Understanding Instructions on Large Scale for Human-Robot Interaction", 
+      "url": "https://www.semanticscholar.org/paper/0a80cfdcca92f0b6c5f3fd1569c92f3b2d08b4db"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "2fc760267d7e052e584cf55b641539e913df55ef", 
+      "title": "Joint Relational Embeddings for Knowledge-based Question Answering", 
+      "url": "https://www.semanticscholar.org/paper/2fc760267d7e052e584cf55b641539e913df55ef"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "3adf41984ca96649adedc1fa4d3c69cc8404d00f", 
+      "title": "Scaling Semantic Parsers with On-the-Fly Ontology Matching", 
+      "url": "https://www.semanticscholar.org/paper/3adf41984ca96649adedc1fa4d3c69cc8404d00f"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "0ac3f9bb8204afa4cbb85e0483b358d2b345410e", 
+      "title": "Paraphrasing Revisited with Neural Machine Translation", 
+      "url": "https://www.semanticscholar.org/paper/0ac3f9bb8204afa4cbb85e0483b358d2b345410e"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "4db2330c32989a7f4e392980fc61a4773e1b0e32", 
+      "title": "How to Build Templates for RDF Question/Answering: An Uncertain Graph Similarity Join Approach", 
+      "url": "https://www.semanticscholar.org/paper/4db2330c32989a7f4e392980fc61a4773e1b0e32"
+    }, 
+    {
+      "isInfluential": true, 
+      "paperId": "ae250b50d9dd8ec3a1ff5600e0f5dd3836b9f9bc", 
+      "title": "A World Knowledge as Indirect Supervision for Document Clustering", 
+      "url": "https://www.semanticscholar.org/paper/ae250b50d9dd8ec3a1ff5600e0f5dd3836b9f9bc"
+    }, 
+    {
+      "isInfluential": true, 
+      "paperId": "3cfff5153817eb73898060e4d7df4393cbd096a3", 
+      "title": "Orthogonality regularizer for question answering", 
+      "url": "https://www.semanticscholar.org/paper/3cfff5153817eb73898060e4d7df4393cbd096a3"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "25369f56a933e3bfb1d8e1588cdc6c50df93ecae", 
+      "title": "Building a Semantic Parser Overnight", 
+      "url": "https://www.semanticscholar.org/paper/25369f56a933e3bfb1d8e1588cdc6c50df93ecae"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "a79c34b4655a30673eeabdb4e1d48c8b351c3e29", 
+      "title": "Learning Embeddings to lexicalise RDF Properties", 
+      "url": "https://www.semanticscholar.org/paper/a79c34b4655a30673eeabdb4e1d48c8b351c3e29"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "cd230fc05e6d97e75943dfd3e0fcb387afb88d62", 
+      "title": "Polarity Classification of Short Product Reviews via Multiple Cluster-based SVM Classifiers", 
+      "url": "https://www.semanticscholar.org/paper/cd230fc05e6d97e75943dfd3e0fcb387afb88d62"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "113522286ece46e43f3b2c7020a8b6a09f776be0", 
+      "title": "Paraphrase Generation from Latent-Variable PCFGs for Semantic Parsing", 
+      "url": "https://www.semanticscholar.org/paper/113522286ece46e43f3b2c7020a8b6a09f776be0"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "1e4cfe280c97d4dc6cb69138cc370e9d81c13d17", 
+      "title": "Learning a Compositional Semantics for Freebase with an Open Predicate Vocabulary", 
+      "url": "https://www.semanticscholar.org/paper/1e4cfe280c97d4dc6cb69138cc370e9d81c13d17"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "08eb8cf435b490b6928adbfa99edd725f62f0b79", 
+      "title": "Ripple Down Rules for Question Answering", 
+      "url": "https://www.semanticscholar.org/paper/08eb8cf435b490b6928adbfa99edd725f62f0b79"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "51b4ff56b0cf1905f17684a12f9f35860c2d8f4c", 
+      "title": "Idest: Learning a Distributed Representation for Event Patterns", 
+      "url": "https://www.semanticscholar.org/paper/51b4ff56b0cf1905f17684a12f9f35860c2d8f4c"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "62a5b47def8d21825d06f7407a505ff0b64ecb1a", 
+      "title": "Semantic Parsing of Ambiguous Input through Paraphrasing and Verification", 
+      "url": "https://www.semanticscholar.org/paper/62a5b47def8d21825d06f7407a505ff0b64ecb1a"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "a967f69696220b7d51f7e5c2a87fe011ad646283", 
+      "title": "Survey on Challenges of Question Answering in the Semantic Web", 
+      "url": "https://www.semanticscholar.org/paper/a967f69696220b7d51f7e5c2a87fe011ad646283"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "635e9373437478477fd4e93740addb39620f446b", 
+      "title": "A Continuously Growing Dataset of Sentential Paraphrases", 
+      "url": "https://www.semanticscholar.org/paper/635e9373437478477fd4e93740addb39620f446b"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "719802b67b3e1c2ab9d6889eab06f0606041b4ed", 
+      "title": "Attentive Memory Networks: Efficient Machine Reading for Conversational Search", 
+      "url": "https://www.semanticscholar.org/paper/719802b67b3e1c2ab9d6889eab06f0606041b4ed"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "418279823c763349c891ba858fbf86718bcddcaf", 
+      "title": "Large-Scale Question Answering with Joint Embedding and Proof Tree Decoding", 
+      "url": "https://www.semanticscholar.org/paper/418279823c763349c891ba858fbf86718bcddcaf"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "7e5955481e9d197cc1cd1b64a90fbd245b88c886", 
+      "title": "Modeling of the Question Answering Task in the YodaQA System", 
+      "url": "https://www.semanticscholar.org/paper/7e5955481e9d197cc1cd1b64a90fbd245b88c886"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "6b2deaeb529ce8e7da51989e0b43bfee2c5c4e38", 
+      "title": "From Paraphrase Database to Compositional Paraphrase Model and Back", 
+      "url": "https://www.semanticscholar.org/paper/6b2deaeb529ce8e7da51989e0b43bfee2c5c4e38"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "41ab97376fcbd67d05bad648b40d92d96a3f1c1c", 
+      "title": "Compositional Semantic Parsing on Semi-Structured Tables", 
+      "url": "https://www.semanticscholar.org/paper/41ab97376fcbd67d05bad648b40d92d96a3f1c1c"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "1b0b64473e3dad669e04af2b7b6e2c4e4a318e6d", 
+      "title": "Question Answering with Knowledge Base, Web and Beyond", 
+      "url": "https://www.semanticscholar.org/paper/1b0b64473e3dad669e04af2b7b6e2c4e4a318e6d"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "6ece46f3e277cd3fa81f5cbce1a2fe4436e27a2a", 
+      "title": "Data-driven Approaches for Paraphrasing across Language Variations", 
+      "url": "https://www.semanticscholar.org/paper/6ece46f3e277cd3fa81f5cbce1a2fe4436e27a2a"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "33261d252218007147a71e40f8367ed152fa2fe0", 
+      "title": "Question Answering with Subgraph Embeddings", 
+      "url": "https://www.semanticscholar.org/paper/33261d252218007147a71e40f8367ed152fa2fe0"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "caf912b716905ccbf46d6d00d6a0b622834a7cd9", 
+      "title": "Measuring Machine Intelligence Through Visual Question Answering", 
+      "url": "https://www.semanticscholar.org/paper/caf912b716905ccbf46d6d00d6a0b622834a7cd9"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "45cdd1cafdc9e64dc06a8ed1ea570ed24f2ace2f", 
+      "title": "Character-Level Question Answering with Attention", 
+      "url": "https://www.semanticscholar.org/paper/45cdd1cafdc9e64dc06a8ed1ea570ed24f2ace2f"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "3490d0610484b676b0270a3136e3ca819ea22d79", 
+      "title": "CASIA@QALD-3: A Question Answering System over Linked Data", 
+      "url": "https://www.semanticscholar.org/paper/3490d0610484b676b0270a3136e3ca819ea22d79"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "0662db8ec063f14507b43e4f93884c0d0e051d68", 
+      "title": "Neural Paraphrase Generation with Stacked Residual LSTM Networks", 
+      "url": "https://www.semanticscholar.org/paper/0662db8ec063f14507b43e4f93884c0d0e051d68"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "ff57957cf91c64e05e787d27b2933d19b6ba09f3", 
+      "title": "Symmetry-Based Semantic Parsing", 
+      "url": "https://www.semanticscholar.org/paper/ff57957cf91c64e05e787d27b2933d19b6ba09f3"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "042db0977555fcd7d5eac67b26695cd918ecb44c", 
+      "title": "Semantic Parsing on Freebase from Question-Answer Pairs", 
+      "url": "https://www.semanticscholar.org/paper/042db0977555fcd7d5eac67b26695cd918ecb44c"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "91e9387c92b7c9d295c1188719d30dd179cc81e8", 
+      "title": "DocChat: An Information Retrieval Approach for Chatbot Engines Using Unstructured Documents", 
+      "url": "https://www.semanticscholar.org/paper/91e9387c92b7c9d295c1188719d30dd179cc81e8"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "4357417bf7b53688dbf1454cf59b96e0838377dd", 
+      "title": "Improved Neural Relation Detection for Knowledge Base Question Answering", 
+      "url": "https://www.semanticscholar.org/paper/4357417bf7b53688dbf1454cf59b96e0838377dd"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "a8b90f255017220fc51fd694e9b461cec0625b2b", 
+      "title": "Question Answering over Linked Data Using First-order Logic", 
+      "url": "https://www.semanticscholar.org/paper/a8b90f255017220fc51fd694e9b461cec0625b2b"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "1e14be498f5a5618d671375b59e19c00bb67125e", 
+      "title": "Cross-Lingual Question Answering Using Common Semantic Space", 
+      "url": "https://www.semanticscholar.org/paper/1e14be498f5a5618d671375b59e19c00bb67125e"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "9e1c59495a0141f94e4d1fe711972abf9722e7f1", 
+      "title": "Repr\u00e9sentation s\u00e9mantique de questions pour interroger le Web s\u00e9mantique", 
+      "url": "https://www.semanticscholar.org/paper/9e1c59495a0141f94e4d1fe711972abf9722e7f1"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "1d5e12466b33532a4e1cadabb959cc74ff21ebaa", 
+      "title": "Knowledge-Based Question Answering as Machine Translation", 
+      "url": "https://www.semanticscholar.org/paper/1d5e12466b33532a4e1cadabb959cc74ff21ebaa"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "68360b9c1bd438ff9038fa5e344e9422d5299f68", 
+      "title": "Learning three-way affinity embeddings for knowledge base completion", 
+      "url": "https://www.semanticscholar.org/paper/68360b9c1bd438ff9038fa5e344e9422d5299f68"
+    }, 
+    {
+      "isInfluential": true, 
+      "paperId": "2230816965e900ba76f3fe75a9575a927b3466d5", 
+      "title": "Automated Template Generation for Question Answering over Knowledge Graphs", 
+      "url": "https://www.semanticscholar.org/paper/2230816965e900ba76f3fe75a9575a927b3466d5"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "8b336cacfcc0eb1c18174f8fb264ce0eb5d0307c", 
+      "title": "Annotating Relation Inference in Context via Question Answering", 
+      "url": "https://www.semanticscholar.org/paper/8b336cacfcc0eb1c18174f8fb264ce0eb5d0307c"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "6396ab37641d36be4c26420e58adeb8665914c3b", 
+      "title": "Modeling Biological Processes for Reading Comprehension", 
+      "url": "https://www.semanticscholar.org/paper/6396ab37641d36be4c26420e58adeb8665914c3b"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "d385bad15843ace4068a623fbc9bf3623e1745c6", 
+      "title": "Inferring Paraphrases for a Highly Inflected Language from a Monolingual Corpus", 
+      "url": "https://www.semanticscholar.org/paper/d385bad15843ace4068a623fbc9bf3623e1745c6"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "23defb2176a8f2898dd4963b74c9c765f27702f0", 
+      "title": "Overcoming Challenges of Semantic Question Answering in the Semantic Web", 
+      "url": "https://www.semanticscholar.org/paper/23defb2176a8f2898dd4963b74c9c765f27702f0"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "40eb9fb2dc89e2de7762ef5d5d77741fba571459", 
+      "title": "Answering Questions with Complex Semantic Constraints on Open Knowledge Bases", 
+      "url": "https://www.semanticscholar.org/paper/40eb9fb2dc89e2de7762ef5d5d77741fba571459"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "147154a3719197d921eda6d6b533e44b3f8c28f3", 
+      "title": "Answering Complex Questions Using Open Information Extraction", 
+      "url": "https://www.semanticscholar.org/paper/147154a3719197d921eda6d6b533e44b3f8c28f3"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "1ef01e7bfab2041bc0c0a56a57906964df9fc985", 
+      "title": "Question Answering over Freebase with Multi-Column Convolutional Neural Networks", 
+      "url": "https://www.semanticscholar.org/paper/1ef01e7bfab2041bc0c0a56a57906964df9fc985"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "db0c79ae2e668b41f4ac9e4d39b7c9f1dc4f911e", 
+      "title": "PaCCSS-IT: A Parallel Corpus of Complex-Simple Sentences for Automatic Text Simplification", 
+      "url": "https://www.semanticscholar.org/paper/db0c79ae2e668b41f4ac9e4d39b7c9f1dc4f911e"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "529887205fa3840b8fd25662103caac5b3ebf543", 
+      "title": "World Knowledge as Indirect Supervision for Document Clustering", 
+      "url": "https://www.semanticscholar.org/paper/529887205fa3840b8fd25662103caac5b3ebf543"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "c8cc5439967bf1a1941bc33782360cd23bc5b593", 
+      "title": "Question Answering over Knowledge Bases", 
+      "url": "https://www.semanticscholar.org/paper/c8cc5439967bf1a1941bc33782360cd23bc5b593"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "182decbce0f4abbe590d2809940dbc2d4a9ce710", 
+      "title": "Simple Question Answering by Attentive Convolutional Neural Network", 
+      "url": "https://www.semanticscholar.org/paper/182decbce0f4abbe590d2809940dbc2d4a9ce710"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "8e95526a02d6ddbadd11612baed19c78f504915b", 
+      "title": "Open question answering over curated and extracted knowledge bases", 
+      "url": "https://www.semanticscholar.org/paper/8e95526a02d6ddbadd11612baed19c78f504915b"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "b5199f1dc8fa8644f49a91f7b0e5daa5e5ff31e1", 
+      "title": "Lexicon propagation for learning a large-scale semantic parser", 
+      "url": "https://www.semanticscholar.org/paper/b5199f1dc8fa8644f49a91f7b0e5daa5e5ff31e1"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "cc91fde7904d03a0b47de89ccbd0157312682ba4", 
+      "title": "Understanding Task Design Trade-offs in Crowdsourced Paraphrase Collection", 
+      "url": "https://www.semanticscholar.org/paper/cc91fde7904d03a0b47de89ccbd0157312682ba4"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "165db9e093be270d38ac4a264efff7507518727e", 
+      "title": "Towards AI-Complete Question Answering: A Set of Prerequisite Toy Tasks", 
+      "url": "https://www.semanticscholar.org/paper/165db9e093be270d38ac4a264efff7507518727e"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "733ab0a2c81a55a41734e5171f1ac16882ecca6c", 
+      "title": "Occam's Gates", 
+      "url": "https://www.semanticscholar.org/paper/733ab0a2c81a55a41734e5171f1ac16882ecca6c"
+    }, 
+    {
+      "isInfluential": true, 
+      "paperId": "097665e66a05d316ad0e649fec374db44a485bda", 
+      "title": "Semantic Parsing via Paraphrasing", 
+      "url": "https://www.semanticscholar.org/paper/097665e66a05d316ad0e649fec374db44a485bda"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "03af3188946d88f44c1bb2b9a99530fececf23f0", 
+      "title": "Parsing Paraphrases with Joint Inference (extended Version)", 
+      "url": "https://www.semanticscholar.org/paper/03af3188946d88f44c1bb2b9a99530fececf23f0"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "00d7f652c4147163dbfd3aa60c97471e7afa4861", 
+      "title": "Question Answering on Freebase via Relation Extraction and Textual Evidence", 
+      "url": "https://www.semanticscholar.org/paper/00d7f652c4147163dbfd3aa60c97471e7afa4861"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "a584211768d49f80192f13b8ed2fda9c058dec34", 
+      "title": "Open Question Answering with Weakly Supervised Embedding Models", 
+      "url": "https://www.semanticscholar.org/paper/a584211768d49f80192f13b8ed2fda9c058dec34"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "0e27493639268ecd35356e5e08d45e5d0dcd7fd8", 
+      "title": "Table Cell Search for Question Answering", 
+      "url": "https://www.semanticscholar.org/paper/0e27493639268ecd35356e5e08d45e5d0dcd7fd8"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "97dfe25b09b2e96663c3a3c62bacfe2be9cf081d", 
+      "title": "Answering Reading Comprehension Using Memory Networks", 
+      "url": "https://www.semanticscholar.org/paper/97dfe25b09b2e96663c3a3c62bacfe2be9cf081d"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "84f134f0472b43f998cba05162ff6b41c12659c3", 
+      "title": "Open Domain Question Answering via Semantic Enrichment", 
+      "url": "https://www.semanticscholar.org/paper/84f134f0472b43f998cba05162ff6b41c12659c3"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "bdf6b428187940c034c4b8ed57cf9c8ce526d832", 
+      "title": "A Natural Language Interface Concordant with a Knowledge Base", 
+      "url": "https://www.semanticscholar.org/paper/bdf6b428187940c034c4b8ed57cf9c8ce526d832"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "842fb6bcbc404d713d182472364ce0e8e559132c", 
+      "title": "Sentence Rewriting for Semantic Parsing", 
+      "url": "https://www.semanticscholar.org/paper/842fb6bcbc404d713d182472364ce0e8e559132c"
+    }
+  ], 
+  "doi": null, 
+  "influentialCitationCount": 10, 
+  "paperId": "79cd660c697d1f628b0083c09051d9ec39f40148", 
+  "references": [
+    {
+      "isInfluential": false, 
+      "paperId": "8f8139b63a2fc0b3ae8413acaef47acd35a356e0", 
+      "title": "Distant supervision for relation extraction without labeled data", 
+      "url": "https://www.semanticscholar.org/paper/8f8139b63a2fc0b3ae8413acaef47acd35a356e0"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "eeaf889a4ab0c67e7f187c655912db41d35ed621", 
+      "title": "TEAM: An Experiment in the Design of Transportable Natural-Language Interfaces", 
+      "url": "https://www.semanticscholar.org/paper/eeaf889a4ab0c67e7f187c655912db41d35ed621"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "498bb0efad6ec15dd09d941fb309aa18d6df9f5f", 
+      "title": "Open Information Extraction from the Web", 
+      "url": "https://www.semanticscholar.org/paper/498bb0efad6ec15dd09d941fb309aa18d6df9f5f"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "5460589117407a323cae0ea08623ef855d5dca26", 
+      "title": "Unsupervised Relation Discovery with Sense Disambiguation", 
+      "url": "https://www.semanticscholar.org/paper/5460589117407a323cae0ea08623ef855d5dca26"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "0796f6cd7f0403a854d67d525e9b32af3b277331", 
+      "title": "Identifying Relations for Open Information Extraction", 
+      "url": "https://www.semanticscholar.org/paper/0796f6cd7f0403a854d67d525e9b32af3b277331"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "db550f7af299157c67d7f1874bf784dca10ce4a9", 
+      "title": "Modeling Relations and Their Mentions without Labeled Text", 
+      "url": "https://www.semanticscholar.org/paper/db550f7af299157c67d7f1874bf784dca10ce4a9"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "c9214ebe91454e6369720136ab7dd990d52a07d4", 
+      "title": "Improved Statistical Alignment Models", 
+      "url": "https://www.semanticscholar.org/paper/c9214ebe91454e6369720136ab7dd990d52a07d4"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "371bd20afe88e73eafea2298b52beca7b9b5660a", 
+      "title": "Distributed Training Strategies for the Structured Perceptron", 
+      "url": "https://www.semanticscholar.org/paper/371bd20afe88e73eafea2298b52beca7b9b5660a"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "3b8e7c8220d3883d54960d896a73045f3c70ac17", 
+      "title": "Discriminative Training Methods For Hidden Markov Models: Theory And Experiments With Perceptron Algorithms", 
+      "url": "https://www.semanticscholar.org/paper/3b8e7c8220d3883d54960d896a73045f3c70ac17"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "88976f41c902556c39a44ebe9abd583c885417dc", 
+      "title": "Natural Language Questions for the Web of Data", 
+      "url": "https://www.semanticscholar.org/paper/88976f41c902556c39a44ebe9abd583c885417dc"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "d48edf9e81653f4c3da716b037b0b50d54c5b034", 
+      "title": "Knowledge-Based Weak Supervision for Information Extraction of Overlapping Relations", 
+      "url": "https://www.semanticscholar.org/paper/d48edf9e81653f4c3da716b037b0b50d54c5b034"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "368f3dea4f12c77dfc9b7203f3ab2b9efaecb635", 
+      "title": "Statistical Phrase-Based Translation", 
+      "url": "https://www.semanticscholar.org/paper/368f3dea4f12c77dfc9b7203f3ab2b9efaecb635"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "1969a39db6f322a8e3f204fdc8c781bec5cf26d6", 
+      "title": "Learning to Map Sentences to Logical Form: Structured Classification with Probabilistic Categorial Grammars", 
+      "url": "https://www.semanticscholar.org/paper/1969a39db6f322a8e3f204fdc8c781bec5cf26d6"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "5411341ae8dd943be9f553f96b568421ed750b41", 
+      "title": "Monolingual Machine Translation for Paraphrase Generation", 
+      "url": "https://www.semanticscholar.org/paper/5411341ae8dd943be9f553f96b568421ed750b41"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "37ca75f5f6664fc9ed835a53b48258ec92eb73cd", 
+      "title": "Learning Dependency-Based Compositional Semantics", 
+      "url": "https://www.semanticscholar.org/paper/37ca75f5f6664fc9ed835a53b48258ec92eb73cd"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "3c0d94608ce09f481cb9532f0784e76bec3e2993", 
+      "title": "An Analysis Of The AskMSR Question-Answering System", 
+      "url": "https://www.semanticscholar.org/paper/3c0d94608ce09f481cb9532f0784e76bec3e2993"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "1c9df99cce1903d34c53025e86e72331bbfbe08f", 
+      "title": "Learning to Parse Database Queries Using Inductive Logic Programming", 
+      "url": "https://www.semanticscholar.org/paper/1c9df99cce1903d34c53025e86e72331bbfbe08f"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "20e26166dd4449846d74c09ac92e80ec6e44b908", 
+      "title": "Syntactic Constraints on Paraphrases Extracted from Parallel Corpora", 
+      "url": "https://www.semanticscholar.org/paper/20e26166dd4449846d74c09ac92e80ec6e44b908"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "44e74d06c5e9670cada7bf53ecfc81a67c8ea0a7", 
+      "title": "Parallel Implementations of Word Alignment Tool", 
+      "url": "https://www.semanticscholar.org/paper/44e74d06c5e9670cada7bf53ecfc81a67c8ea0a7"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "a116b1875959d4473c9a684293cb503f319ad2e9", 
+      "title": "Driving Semantic Parsing from the World's Response", 
+      "url": "https://www.semanticscholar.org/paper/a116b1875959d4473c9a684293cb503f319ad2e9"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "4fe6ad64037814d86c3e11ef311e5958ef31319e", 
+      "title": "Annotating the World Wide Web using Natural Language", 
+      "url": "https://www.semanticscholar.org/paper/4fe6ad64037814d86c3e11ef311e5958ef31319e"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "016e9cc85c658c6a69710b4c617609ad2a5d3a74", 
+      "title": "Scaling question answering to the web", 
+      "url": "https://www.semanticscholar.org/paper/016e9cc85c658c6a69710b4c617609ad2a5d3a74"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "154c8868ba517e6f844428ac42a8ee3fa7e7847f", 
+      "title": "Learning 5000 Relational Extractors", 
+      "url": "https://www.semanticscholar.org/paper/154c8868ba517e6f844428ac42a8ee3fa7e7847f"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "05dba74b1ecf7e40b2a904e2d797768ef79832d3", 
+      "title": "Improved Statistical Machine Translation Using Monolingually-Derived Paraphrases", 
+      "url": "https://www.semanticscholar.org/paper/05dba74b1ecf7e40b2a904e2d797768ef79832d3"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "b52c1b64ba302460aad5dbb2e0ba239be55f5e38", 
+      "title": "Template-based question answering over RDF data", 
+      "url": "https://www.semanticscholar.org/paper/b52c1b64ba302460aad5dbb2e0ba239be55f5e38"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "80c2d8c691b09f8b4e53f512b9d2641b49fda935", 
+      "title": "Large-scale Semantic Parsing via Schema Matching and Lexicon Extension", 
+      "url": "https://www.semanticscholar.org/paper/80c2d8c691b09f8b4e53f512b9d2641b49fda935"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "f60d8dd8ca3a7dfa7d0a14988af73084ad93619d", 
+      "title": "Using Multiple Clause Constructors in Inductive Logic Programming for Semantic Parsing", 
+      "url": "https://www.semanticscholar.org/paper/f60d8dd8ca3a7dfa7d0a14988af73084ad93619d"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "36e8b8b35e51e5b39fcafdb5c2bc763796d0672e", 
+      "title": "Paraphrasing with Bilingual Parallel Corpora", 
+      "url": "https://www.semanticscholar.org/paper/36e8b8b35e51e5b39fcafdb5c2bc763796d0672e"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "c1213cb01ada6376574677566ada9379f8c5732d", 
+      "title": "Modern Natural Language Interfaces to Databases: Composing Statistical Parsing with Semantic Tractability", 
+      "url": "https://www.semanticscholar.org/paper/c1213cb01ada6376574677566ada9379f8c5732d"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "78e6c496bb2a264a093302d60a71c08ce5ef6e26", 
+      "title": "Learning to Paraphrase: An Unsupervised Approach Using Multiple-Sequence Alignment", 
+      "url": "https://www.semanticscholar.org/paper/78e6c496bb2a264a093302d60a71c08ce5ef6e26"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "6feb388081f456f8967e1c975a26f15df56556e1", 
+      "title": "Extracting Paraphrases from a Parallel Corpus", 
+      "url": "https://www.semanticscholar.org/paper/6feb388081f456f8967e1c975a26f15df56556e1"
+    }
+  ], 
+  "title": "Paraphrase-Driven Learning for Open Question Answering", 
+  "url": "https://www.semanticscholar.org/paper/79cd660c697d1f628b0083c09051d9ec39f40148", 
+  "venue": "ACL"
+}

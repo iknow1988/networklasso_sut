@@ -1,0 +1,962 @@
+{
+  "authors": [
+    {
+      "authorId": "1807386", 
+      "name": "Andrew I. Schein", 
+      "url": "https://www.semanticscholar.org/author/1807386"
+    }, 
+    {
+      "authorId": "1717822", 
+      "name": "Lyle H. Ungar", 
+      "url": "https://www.semanticscholar.org/author/1717822"
+    }
+  ], 
+  "citationVelocity": 17, 
+  "citations": [
+    {
+      "isInfluential": false, 
+      "paperId": "f45711e385327f9b27933f89f7d267c50e313418", 
+      "title": "Abstract\u2014Extracting information from a training data set for predictive inference is a fundamental task in data mining", 
+      "url": "https://www.semanticscholar.org/paper/f45711e385327f9b27933f89f7d267c50e313418", 
+      "venue": "", 
+      "year": 2015
+    }, 
+    {
+      "isInfluential": true, 
+      "paperId": "98fdd61ec0ba23b12d12b67a23d998554365fa16", 
+      "title": "Stability-Based Stopping Criterion for Active Learning", 
+      "url": "https://www.semanticscholar.org/paper/98fdd61ec0ba23b12d12b67a23d998554365fa16", 
+      "venue": "2014 IEEE International Conference on Data Mining", 
+      "year": 2014
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "6751cacaba7d4cb403ac0601acca787121e0a34b", 
+      "title": "Annotating named entities in clinical text by combining pre-annotation and active learning", 
+      "url": "https://www.semanticscholar.org/paper/6751cacaba7d4cb403ac0601acca787121e0a34b", 
+      "venue": "ACL", 
+      "year": 2013
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "7423773a03f0ddb65326ba335d907d7869620450", 
+      "title": "Active Learning for Chinese Word Sense Disambiguation", 
+      "url": "https://www.semanticscholar.org/paper/7423773a03f0ddb65326ba335d907d7869620450", 
+      "venue": "2009 Fourth International Conference on Innovative Computing, Information and Control (ICICIC)", 
+      "year": 2009
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "b6285e6f570db03f0f01979a44f5b5496ebf34d3", 
+      "title": "Abstract\u2014since Dealing with High Dimensional Data Is", 
+      "url": "https://www.semanticscholar.org/paper/b6285e6f570db03f0f01979a44f5b5496ebf34d3", 
+      "venue": "", 
+      "year": 2010
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "2b94b7b41d79f6beb838c8455b1e893edd0147cd", 
+      "title": "Active semi-supervised learning using particle competition and cooperation in networks", 
+      "url": "https://www.semanticscholar.org/paper/2b94b7b41d79f6beb838c8455b1e893edd0147cd", 
+      "venue": "The 2013 International Joint Conference on Neural Networks (IJCNN)", 
+      "year": 2013
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "d2689297a09946fcf9608a8d2fda731da466d913", 
+      "title": "Clustering based active learning for biomedical Named Entity Recognition", 
+      "url": "https://www.semanticscholar.org/paper/d2689297a09946fcf9608a8d2fda731da466d913", 
+      "venue": "2016 International Joint Conference on Neural Networks (IJCNN)", 
+      "year": 2016
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "83c3456db7b191429038e5d282859d87aa383ff5", 
+      "title": "Reducing the Annotation Effort for Letter-to-Phoneme Conversion", 
+      "url": "https://www.semanticscholar.org/paper/83c3456db7b191429038e5d282859d87aa383ff5", 
+      "venue": "ACL/IJCNLP", 
+      "year": 2009
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "9f39d53abb641060e617e0964b0d2766a578e887", 
+      "title": "Bayesian Optimal Active Search and Surveying", 
+      "url": "https://www.semanticscholar.org/paper/9f39d53abb641060e617e0964b0d2766a578e887", 
+      "venue": "ICML", 
+      "year": 2012
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "0ed8a8fd238f1e9e78638c599cd8b3de8c326ad6", 
+      "title": "How to select information that matters: a comparative study on active learning strategies for classification", 
+      "url": "https://www.semanticscholar.org/paper/0ed8a8fd238f1e9e78638c599cd8b3de8c326ad6", 
+      "venue": "I-KNOW", 
+      "year": 2015
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "1c9db776b03c46c1c68f2041b82c9a860dfddaa3", 
+      "title": "Active Bias: Training a More Accurate Neural Network by Emphasizing High Variance Samples", 
+      "url": "https://www.semanticscholar.org/paper/1c9db776b03c46c1c68f2041b82c9a860dfddaa3", 
+      "venue": "ArXiv", 
+      "year": 2017
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "9352c6392ede673f7feb9569865053bd87dc2bb5", 
+      "title": "Active Learning with Amazon Mechanical Turk", 
+      "url": "https://www.semanticscholar.org/paper/9352c6392ede673f7feb9569865053bd87dc2bb5", 
+      "venue": "EMNLP", 
+      "year": 2011
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "3653be0cf0eafea9a43388e1be93e5520f0ad898", 
+      "title": "Batch Mode Active Learning for Regression With Expected Model Change", 
+      "url": "https://www.semanticscholar.org/paper/3653be0cf0eafea9a43388e1be93e5520f0ad898", 
+      "venue": "IEEE Transactions on Neural Networks and Learning Systems", 
+      "year": 2017
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "294acd706c5611de04fcee7191e8e370235f8213", 
+      "title": "A Data Management Approach for Dataset Selection Using Human Computation", 
+      "url": "https://www.semanticscholar.org/paper/294acd706c5611de04fcee7191e8e370235f8213", 
+      "venue": "ArXiv", 
+      "year": 2013
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "6c3741284668606320344e3fe925daef1c697d47", 
+      "title": "Active learning of inverse models with intrinsically motivated goal exploration in robots", 
+      "url": "https://www.semanticscholar.org/paper/6c3741284668606320344e3fe925daef1c697d47", 
+      "venue": "Robotics and Autonomous Systems", 
+      "year": 2013
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "c5341a088752595c97bb9478ed81d728009bbfdb", 
+      "title": "Deciding when to stop: efficient experimentation to learn to predict drug-target interactions", 
+      "url": "https://www.semanticscholar.org/paper/c5341a088752595c97bb9478ed81d728009bbfdb", 
+      "venue": "BMC Bioinformatics", 
+      "year": 2015
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "051487a968813978e205791a9f0b97d224815e15", 
+      "title": "Active Learning for Phenotyping Tasks", 
+      "url": "https://www.semanticscholar.org/paper/051487a968813978e205791a9f0b97d224815e15", 
+      "venue": "", 
+      "year": 2013
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "300374abc279714edc8a660807d53f5a14262f2e", 
+      "title": "Automatic playtesting for game parameter tuning via active learning", 
+      "url": "https://www.semanticscholar.org/paper/300374abc279714edc8a660807d53f5a14262f2e", 
+      "venue": "FDG", 
+      "year": 2014
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "048c39c5d7891e3a3a8a8c604de275889b139a4a", 
+      "title": "Activized Learning: Transforming Passive to Active with Improved Label Complexity", 
+      "url": "https://www.semanticscholar.org/paper/048c39c5d7891e3a3a8a8c604de275889b139a4a", 
+      "venue": "Journal of Machine Learning Research", 
+      "year": 2012
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "4a7a5cde01cf650f4da9a4ca0277267b8839eff2", 
+      "title": "Guest Editorial Active Learning and Intrinsically Motivated Exploration in Robots: Advances and Challenges", 
+      "url": "https://www.semanticscholar.org/paper/4a7a5cde01cf650f4da9a4ca0277267b8839eff2", 
+      "venue": "", 
+      "year": 2010
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "038b36e3104f23b57a443329379262c18d451c56", 
+      "title": "Optimised probabilistic active learning (OPAL)", 
+      "url": "https://www.semanticscholar.org/paper/038b36e3104f23b57a443329379262c18d451c56", 
+      "venue": "Machine Learning", 
+      "year": 2015
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "570cb76745ea310127dcd536b7c9480b123d11e2", 
+      "title": "Active learning for constrained regression using kernel beta regression models", 
+      "url": "https://www.semanticscholar.org/paper/570cb76745ea310127dcd536b7c9480b123d11e2", 
+      "venue": "", 
+      "year": 2009
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "c2602a699889afa89f04e1cf1b198d60b8dd2a5b", 
+      "title": "Extending Active Learning for Improved Long-Term Return On Investment of Learning Systems Ph.D. Thesis", 
+      "url": "https://www.semanticscholar.org/paper/c2602a699889afa89f04e1cf1b198d60b8dd2a5b", 
+      "venue": "", 
+      "year": 2014
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "6770a5d6975a143d5914411b6785879bafa14d42", 
+      "title": "Semi-supervised and Active Training of Conditional Random Fields for Activity Recognition", 
+      "url": "https://www.semanticscholar.org/paper/6770a5d6975a143d5914411b6785879bafa14d42", 
+      "venue": "", 
+      "year": 2007
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "4aeb61e268462017ccde1abc894b36f9ae8a709b", 
+      "title": "Active Learning based Survival Regression for Censored Data", 
+      "url": "https://www.semanticscholar.org/paper/4aeb61e268462017ccde1abc894b36f9ae8a709b", 
+      "venue": "CIKM", 
+      "year": 2014
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "51d0935136e710a9cea2ab345a822566daa06346", 
+      "title": "Pool-based active learning in approximate linear regression", 
+      "url": "https://www.semanticscholar.org/paper/51d0935136e710a9cea2ab345a822566daa06346", 
+      "venue": "Machine Learning", 
+      "year": 2009
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "fd04a3d127b0a51ee3874c0a5fcf4be5c9071109", 
+      "title": "Identification of Recurrent Neural Networks by Bayesian Interrogation Techniques", 
+      "url": "https://www.semanticscholar.org/paper/fd04a3d127b0a51ee3874c0a5fcf4be5c9071109", 
+      "venue": "Journal of Machine Learning Research", 
+      "year": 2009
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "4dadfa46858d580aba27d79c51a586026cbeb3c8", 
+      "title": "Personalized Active Learning for Activity Classification Using Wireless Wearable Sensors", 
+      "url": "https://www.semanticscholar.org/paper/4dadfa46858d580aba27d79c51a586026cbeb3c8", 
+      "venue": "IEEE Journal of Selected Topics in Signal Processing", 
+      "year": 2016
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "818826f356444f3daa3447755bf63f171f39ec47", 
+      "title": "Active Learning Literature Survey", 
+      "url": "https://www.semanticscholar.org/paper/818826f356444f3daa3447755bf63f171f39ec47", 
+      "venue": "", 
+      "year": 2009
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "d150a250b0e8db7bdca02562cf85ded9d8cac000", 
+      "title": "Bayesian inference and experimental design for large generalised linear models", 
+      "url": "https://www.semanticscholar.org/paper/d150a250b0e8db7bdca02562cf85ded9d8cac000", 
+      "venue": "", 
+      "year": 2010
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "b61999f621e5a714b619c6e8c14f29c04e0184b9", 
+      "title": "Addressing Covariate Shift in Active Learning with Adversarial Prediction", 
+      "url": "https://www.semanticscholar.org/paper/b61999f621e5a714b619c6e8c14f29c04e0184b9", 
+      "venue": "", 
+      "year": 2015
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "449628e1812edc8d0884d27aa51abfcf3ad0c5b3", 
+      "title": "Uncertainty-based active learning with instability estimation for text classification", 
+      "url": "https://www.semanticscholar.org/paper/449628e1812edc8d0884d27aa51abfcf3ad0c5b3", 
+      "venue": "TSLP", 
+      "year": 2012
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "e7ec3d6254761156f69e367d9880b04f736fb141", 
+      "title": "The Knowledge Gradient for Sequential Decision Making with Stochastic Binary Feedbacks", 
+      "url": "https://www.semanticscholar.org/paper/e7ec3d6254761156f69e367d9880b04f736fb141", 
+      "venue": "ICML", 
+      "year": 2016
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "e411fe5f564d48c6fa4c61a8c1537e2e5802f6ca", 
+      "title": "Sequential Sampling Enhanced Composite Likelihood Approach to Estimation of Social Intercorrelations in Large-Scale Networks", 
+      "url": "https://www.semanticscholar.org/paper/e411fe5f564d48c6fa4c61a8c1537e2e5802f6ca", 
+      "venue": "", 
+      "year": 2014
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "6f23573e3540617c34782964b4e53fd0f7c090d7", 
+      "title": "Inactive learning?: difficulties employing active learning in practice", 
+      "url": "https://www.semanticscholar.org/paper/6f23573e3540617c34782964b4e53fd0f7c090d7", 
+      "venue": "SIGKDD Explorations", 
+      "year": 2010
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "2a84c9f7849a620c216f0c0d8fe2a77a8e279a71", 
+      "title": "Combined Active and Semi-supervised Learning Using Particle Walking Temporal Dynamics", 
+      "url": "https://www.semanticscholar.org/paper/2a84c9f7849a620c216f0c0d8fe2a77a8e279a71", 
+      "venue": "2013 BRICS Congress on Computational Intelligence and 11th Brazilian Congress on Computational Intelligence", 
+      "year": 2013
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "5aab76f4c4913054ab1ee2b294dd9f16cc771f21", 
+      "title": "Learning to combine discriminative classifiers: confidence based", 
+      "url": "https://www.semanticscholar.org/paper/5aab76f4c4913054ab1ee2b294dd9f16cc771f21", 
+      "venue": "KDD", 
+      "year": 2010
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "34309e524cc3d84bb47da34c1a0037e243e6afee", 
+      "title": "Active Learning with Distributional Estimates", 
+      "url": "https://www.semanticscholar.org/paper/34309e524cc3d84bb47da34c1a0037e243e6afee", 
+      "venue": "UAI", 
+      "year": 2012
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "1e347d24e42c70c5b891ba39ba078a272c4dcb33", 
+      "title": "Active learning using uncertainty information", 
+      "url": "https://www.semanticscholar.org/paper/1e347d24e42c70c5b891ba39ba078a272c4dcb33", 
+      "venue": "ICPR", 
+      "year": 2016
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "c0bfe8ec3da211fc013652576f7ae3b0e1797a02", 
+      "title": "User-Based Active Learning", 
+      "url": "https://www.semanticscholar.org/paper/c0bfe8ec3da211fc013652576f7ae3b0e1797a02", 
+      "venue": "2010 IEEE International Conference on Data Mining Workshops", 
+      "year": 2010
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "af11e2e1bef4b45c53517b1c860b13f5ae5eb2ce", 
+      "title": "Active Learning With Sampling by Uncertainty and Density for Data Annotations", 
+      "url": "https://www.semanticscholar.org/paper/af11e2e1bef4b45c53517b1c860b13f5ae5eb2ce", 
+      "venue": "IEEE Transactions on Audio, Speech, and Language Processing", 
+      "year": 2010
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "5a6163f17b4d961eec39aa0d44d1d65171c7f1f7", 
+      "title": "A Variance Maximization Criterion for Active Learning", 
+      "url": "https://www.semanticscholar.org/paper/5a6163f17b4d961eec39aa0d44d1d65171c7f1f7", 
+      "venue": "ArXiv", 
+      "year": 2017
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "1358c3517f976d28f82bf59a920592cd69571512", 
+      "title": "Handling expensive optimization with large noise", 
+      "url": "https://www.semanticscholar.org/paper/1358c3517f976d28f82bf59a920592cd69571512", 
+      "venue": "FOGA", 
+      "year": 2011
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "ec62a6eef916c223720e0942378af90ffb03cffe", 
+      "title": "Confidence-based stopping criteria for active learning for data annotation", 
+      "url": "https://www.semanticscholar.org/paper/ec62a6eef916c223720e0942378af90ffb03cffe", 
+      "venue": "TSLP", 
+      "year": 2010
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "56f467f6ac7ad0940fa3e7dd701433150f08254f", 
+      "title": "Active learning: an empirical study of common baselines", 
+      "url": "https://www.semanticscholar.org/paper/56f467f6ac7ad0940fa3e7dd701433150f08254f", 
+      "venue": "Data Mining and Knowledge Discovery", 
+      "year": 2016
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "8aeb962c73eb9a5ccff4f9e38f9a69cb8570de2c", 
+      "title": "Active Learning: A Survey", 
+      "url": "https://www.semanticscholar.org/paper/8aeb962c73eb9a5ccff4f9e38f9a69cb8570de2c", 
+      "venue": "Data Classification: Algorithms and Applications", 
+      "year": 2014
+    }, 
+    {
+      "isInfluential": true, 
+      "paperId": "fdf34530d250d2230d85b5d3ec79600e0204bff0", 
+      "title": "Efficient Active Learning of Halfspaces via Query Synthesis", 
+      "url": "https://www.semanticscholar.org/paper/fdf34530d250d2230d85b5d3ec79600e0204bff0", 
+      "venue": "AAAI", 
+      "year": 2015
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "824c7cf3d4a1df0d399851b0e99a7c07e43542ff", 
+      "title": "Multi-Criteria-Based Strategy to Stop Active Learning for Data Annotation", 
+      "url": "https://www.semanticscholar.org/paper/824c7cf3d4a1df0d399851b0e99a7c07e43542ff", 
+      "venue": "COLING", 
+      "year": 2008
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "90a0657536806c1cdc19d757b76e7b6a1b15dd4d", 
+      "title": "Just Sort It! A Simple and Effective Approach to Active Preference Learning", 
+      "url": "https://www.semanticscholar.org/paper/90a0657536806c1cdc19d757b76e7b6a1b15dd4d", 
+      "venue": "ICML", 
+      "year": 2017
+    }, 
+    {
+      "isInfluential": true, 
+      "paperId": "4c29940ef7665ed5a6d9be72260eba488473461d", 
+      "title": "Selective Data Acquisition for Machine Learning", 
+      "url": "https://www.semanticscholar.org/paper/4c29940ef7665ed5a6d9be72260eba488473461d", 
+      "venue": "", 
+      "year": 2010
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "44220ec088d4fa1e368c7f50ebf2074b2e48efef", 
+      "title": "Active Learning for Graph Embedding", 
+      "url": "https://www.semanticscholar.org/paper/44220ec088d4fa1e368c7f50ebf2074b2e48efef", 
+      "venue": "ArXiv", 
+      "year": 2017
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "75d612329f77b54e502fef8016dce8164d913251", 
+      "title": "Good Seed Makes a Good Crop: Accelerating Active Learning Using Language Modeling", 
+      "url": "https://www.semanticscholar.org/paper/75d612329f77b54e502fef8016dce8164d913251", 
+      "venue": "ACL", 
+      "year": 2011
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "d01324aefdb2801ab145f61151f8fcfc3d9d94be", 
+      "title": "On Proper Unit Selection in Active Learning: Co-Selection Effects for Named Entity Recognition", 
+      "url": "https://www.semanticscholar.org/paper/d01324aefdb2801ab145f61151f8fcfc3d9d94be", 
+      "venue": "", 
+      "year": 2009
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "61278b4c861a85ffb46b3924d20fcc1ae8ff33d6", 
+      "title": "A Bayesian Approach for Policy Learning from Trajectory Preference Queries", 
+      "url": "https://www.semanticscholar.org/paper/61278b4c861a85ffb46b3924d20fcc1ae8ff33d6", 
+      "venue": "NIPS", 
+      "year": 2012
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "072d496525290af93164b6d0c50857e8e70fdc2b", 
+      "title": "Shift-Pessimistic Active Learning Using Robust Bias-Aware Prediction", 
+      "url": "https://www.semanticscholar.org/paper/072d496525290af93164b6d0c50857e8e70fdc2b", 
+      "venue": "AAAI", 
+      "year": 2015
+    }, 
+    {
+      "isInfluential": true, 
+      "paperId": "a87f7d9e06847b7c055665e906c75e2878b29d31", 
+      "title": "Targeting Optimal Active Learning via Example Quality", 
+      "url": "https://www.semanticscholar.org/paper/a87f7d9e06847b7c055665e906c75e2878b29d31", 
+      "venue": "ArXiv", 
+      "year": 2014
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "15a11a6158d7974f89ca95fb991cebb5eb5a1c3c", 
+      "title": "Active Learning with Sampling by Uncertainty and Density for Word Sense Disambiguation and Text Classification", 
+      "url": "https://www.semanticscholar.org/paper/15a11a6158d7974f89ca95fb991cebb5eb5a1c3c", 
+      "venue": "COLING", 
+      "year": 2008
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "4266548363e8c7a51d80d520e32ebfec7fb68275", 
+      "title": "Selective harvesting over networks", 
+      "url": "https://www.semanticscholar.org/paper/4266548363e8c7a51d80d520e32ebfec7fb68275", 
+      "venue": "Data Mining and Knowledge Discovery", 
+      "year": 2017
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "6d5870acbd169beb00a391793ff243b989bbdbb9", 
+      "title": "LogUCB: an explore-exploit algorithm for comments recommendation", 
+      "url": "https://www.semanticscholar.org/paper/6d5870acbd169beb00a391793ff243b989bbdbb9", 
+      "venue": "CIKM", 
+      "year": 2012
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "66b7118ea23f2c28bf6f2046475dc14b7a2927df", 
+      "title": "Active Learning in Context-Driven Stream Mining With an Application to Image Mining", 
+      "url": "https://www.semanticscholar.org/paper/66b7118ea23f2c28bf6f2046475dc14b7a2927df", 
+      "venue": "IEEE Transactions on Image Processing", 
+      "year": 2015
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "6a64285a5d6c16b38ac0f8b471559cf8484a3078", 
+      "title": "Active Learning for Networked Data", 
+      "url": "https://www.semanticscholar.org/paper/6a64285a5d6c16b38ac0f8b471559cf8484a3078", 
+      "venue": "ICML", 
+      "year": 2010
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "e94845b501020f1df60445610e8bde5e39ba71d5", 
+      "title": "Guest Editorial Active Learning and Intrinsically Motivated Exploration in Robots: Advances and Challenges", 
+      "url": "https://www.semanticscholar.org/paper/e94845b501020f1df60445610e8bde5e39ba71d5", 
+      "venue": "IEEE Trans. Autonomous Mental Development", 
+      "year": 2010
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "b08a57febda753e1fe24db86d9d1ff4f5b19319d", 
+      "title": "Generative Adversarial Active Learning", 
+      "url": "https://www.semanticscholar.org/paper/b08a57febda753e1fe24db86d9d1ff4f5b19319d", 
+      "venue": "ArXiv", 
+      "year": 2017
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "3baba47d36a8a05b9c4fb2074e888242fcc037fb", 
+      "title": "Bayesian Optimal Active Search on Graphs", 
+      "url": "https://www.semanticscholar.org/paper/3baba47d36a8a05b9c4fb2074e888242fcc037fb", 
+      "venue": "", 
+      "year": 2011
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "0bd0f8d1918f78e26e3c1c732759b92381b859ba", 
+      "title": "Bilingual Active Learning for Relation Classification via Pseudo Parallel Corpora", 
+      "url": "https://www.semanticscholar.org/paper/0bd0f8d1918f78e26e3c1c732759b92381b859ba", 
+      "venue": "ACL", 
+      "year": 2014
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "1cc48cfbcc7fcc6cd81eb55a5afe447cf6230eab", 
+      "title": "Asymptotic Analysis of Objectives based on Fisher Information in Active Learning", 
+      "url": "https://www.semanticscholar.org/paper/1cc48cfbcc7fcc6cd81eb55a5afe447cf6230eab", 
+      "venue": "ArXiv", 
+      "year": 2016
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "37f21d9a331480fd2c2d6cdbe280a6bfefe130e9", 
+      "title": "Convex variational Bayesian inference for large scale generalized linear models", 
+      "url": "https://www.semanticscholar.org/paper/37f21d9a331480fd2c2d6cdbe280a6bfefe130e9", 
+      "venue": "ICML", 
+      "year": 2009
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "78cd3beb8a56a7b3c2260a68f7a76ca0ae30cb1a", 
+      "title": "Text Representation for Efficient Document Annotation", 
+      "url": "https://www.semanticscholar.org/paper/78cd3beb8a56a7b3c2260a68f7a76ca0ae30cb1a", 
+      "venue": "J. UCS", 
+      "year": 2013
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "611b6fb73d951795a9b751d618ae68442b58d7de", 
+      "title": "Online Appendix for: Active Learning in Context-Driven Stream Mining with an Application to Image Mining", 
+      "url": "https://www.semanticscholar.org/paper/611b6fb73d951795a9b751d618ae68442b58d7de", 
+      "venue": "", 
+      "year": 2015
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "4a7f9f81ef3b145582c4518bc235636771361a25", 
+      "title": "Active learning of visual descriptors for grasping using non-parametric smoothed beta distributions", 
+      "url": "https://www.semanticscholar.org/paper/4a7f9f81ef3b145582c4518bc235636771361a25", 
+      "venue": "Robotics and Autonomous Systems", 
+      "year": 2012
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "b092abaeb7346ae37cf23af71b7bc817ab0142dc", 
+      "title": "Curious Machines: Active Learning with Structured Instances Table of Contents", 
+      "url": "https://www.semanticscholar.org/paper/b092abaeb7346ae37cf23af71b7bc817ab0142dc", 
+      "venue": "", 
+      "year": 2008
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "49074fbb5360be6af3889eee61e8e1726f28cebc", 
+      "title": "Activized Learning: Transforming Passive to Active with Improved Label Complexity\u2217 Working Notes: Updated January 2011", 
+      "url": "https://www.semanticscholar.org/paper/49074fbb5360be6af3889eee61e8e1726f28cebc", 
+      "venue": "", 
+      "year": 2011
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "588fdc5ae7c498dc2421f4844ae8fe1725f9e87e", 
+      "title": "Autonomously Learning to Visually Detect Where Manipulation Will Succeed", 
+      "url": "https://www.semanticscholar.org/paper/588fdc5ae7c498dc2421f4844ae8fe1725f9e87e", 
+      "venue": "Auton. Robots", 
+      "year": 2014
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "c72985efba920b23c0cb68c173d4d4fba21f9fa7", 
+      "title": "Active Learning for Coreference Resolution", 
+      "url": "https://www.semanticscholar.org/paper/c72985efba920b23c0cb68c173d4d4fba21f9fa7", 
+      "venue": "", 
+      "year": 2012
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "546257cf2909b19032ed8a8323672b32010cad48", 
+      "title": "Evaluating the Impact of Coder Errors on Active Learning", 
+      "url": "https://www.semanticscholar.org/paper/546257cf2909b19032ed8a8323672b32010cad48", 
+      "venue": "ACL", 
+      "year": 2011
+    }, 
+    {
+      "isInfluential": true, 
+      "paperId": "d38cb33e31984e4f9042fb387ef77f8f8b872cc0", 
+      "title": "A Benchmark and Comparison of Active Learning for Logistic Regression", 
+      "url": "https://www.semanticscholar.org/paper/d38cb33e31984e4f9042fb387ef77f8f8b872cc0", 
+      "venue": "", 
+      "year": 2016
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "877c8697a5ef1d9881fd1a8396a7867d31aa6b5e", 
+      "title": "Memory-based active learning for French broadcast news", 
+      "url": "https://www.semanticscholar.org/paper/877c8697a5ef1d9881fd1a8396a7867d31aa6b5e", 
+      "venue": "INTERSPEECH", 
+      "year": 2010
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "9575854f04145e26bb95022e2233c4894200643d", 
+      "title": "From Theories to Queries", 
+      "url": "https://www.semanticscholar.org/paper/9575854f04145e26bb95022e2233c4894200643d", 
+      "venue": "Active Learning and Experimental Design @ AISTATS", 
+      "year": 2011
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "b300fa4a86eb1e79bad6ff6260062ca70ceeae51", 
+      "title": "Efficient algorithms and user interaction for metadata extraction from historical maps", 
+      "url": "https://www.semanticscholar.org/paper/b300fa4a86eb1e79bad6ff6260062ca70ceeae51", 
+      "venue": "SIGSPATIAL PhD Symposium", 
+      "year": 2015
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "e4b836c10a3ede8d56c66fcfd98ad74f33474368", 
+      "title": "Active Learning for Autonomous Intelligent Agents: Exploration, Curiosity, and Interaction", 
+      "url": "https://www.semanticscholar.org/paper/e4b836c10a3ede8d56c66fcfd98ad74f33474368", 
+      "venue": "ArXiv", 
+      "year": 2014
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "07ec980a5a9d27171b8ac20d1f403f583de08c96", 
+      "title": "Guest Editorial Active Learning and Intrinsically Motivated Exploration in Robots: Advances and Challenges", 
+      "url": "https://www.semanticscholar.org/paper/07ec980a5a9d27171b8ac20d1f403f583de08c96", 
+      "venue": "", 
+      "year": 2010
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "35eb60e57a06a2d28a3860f316017dae870f306d", 
+      "title": "Batch-Mode Active Learning via Error Bound Minimization", 
+      "url": "https://www.semanticscholar.org/paper/35eb60e57a06a2d28a3860f316017dae870f306d", 
+      "venue": "UAI", 
+      "year": 2014
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "6dcbaa44f67308e5620b223d8ce2f3c71bfe452f", 
+      "title": "Efficiently learning the preferences of people", 
+      "url": "https://www.semanticscholar.org/paper/6dcbaa44f67308e5620b223d8ce2f3c71bfe452f", 
+      "venue": "Machine Learning", 
+      "year": 2012
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "bd49995e31f5246ed14a9d920437763d0156d12c", 
+      "title": "A design of experiments approach to validation sampling for logistic regression modeling with error-prone medical records", 
+      "url": "https://www.semanticscholar.org/paper/bd49995e31f5246ed14a9d920437763d0156d12c", 
+      "venue": "JAMIA", 
+      "year": 2016
+    }
+  ], 
+  "doi": "10.1007/s10994-007-5019-5", 
+  "influentialCitationCount": 5, 
+  "paperId": "14b441f618d72ab839bbd8a2c7c6ae5a9cff52ad", 
+  "references": [
+    {
+      "isInfluential": false, 
+      "paperId": "6960026bafd31775813e2512360d9460b75f4a2c", 
+      "title": "Diverse ensembles for active learning", 
+      "url": "https://www.semanticscholar.org/paper/6960026bafd31775813e2512360d9460b75f4a2c", 
+      "venue": "ICML", 
+      "year": 2004
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "14aa73f7aa00fc2309045cff7d65eed60df581b2", 
+      "title": "A Comparison of Algorithms for Maximum Entropy Parameter Estimation", 
+      "url": "https://www.semanticscholar.org/paper/14aa73f7aa00fc2309045cff7d65eed60df581b2", 
+      "venue": "CoNLL", 
+      "year": 2002
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "6bf451994a94f008d7499a9fdb85cabbab312128", 
+      "title": "Example Selection for Bootstrapping Statistical Parsers", 
+      "url": "https://www.semanticscholar.org/paper/6bf451994a94f008d7499a9fdb85cabbab312128", 
+      "venue": "HLT-NAACL", 
+      "year": 2003
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "656859af2ed88cfa23f2bd063c1816a8fc04c47e", 
+      "title": "Using Maximum Entropy for Text Classification", 
+      "url": "https://www.semanticscholar.org/paper/656859af2ed88cfa23f2bd063c1816a8fc04c47e", 
+      "venue": "", 
+      "year": 1999
+    }, 
+    {
+      "isInfluential": true, 
+      "paperId": "2c97f1df53a7c7978d9f72325555eaf5c47b00b3", 
+      "title": "A Sequential Algorithm for Training Text Classifiers", 
+      "url": "https://www.semanticscholar.org/paper/2c97f1df53a7c7978d9f72325555eaf5c47b00b3", 
+      "venue": "SIGIR", 
+      "year": 1994
+    }, 
+    {
+      "isInfluential": true, 
+      "paperId": "0c96979a9b624245b43bad0e87a8b31bbb7926e9", 
+      "title": "Neural Network Exploration Using Optimal Experiment Design", 
+      "url": "https://www.semanticscholar.org/paper/0c96979a9b624245b43bad0e87a8b31bbb7926e9", 
+      "venue": "NIPS", 
+      "year": 1993
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "2f29f4f62d5b2c621dc0d9752ec536b4ef56496f", 
+      "title": "A Faster Iterative Scaling Algorithm for Conditional Exponential Model", 
+      "url": "https://www.semanticscholar.org/paper/2f29f4f62d5b2c621dc0d9752ec536b4ef56496f", 
+      "venue": "ICML", 
+      "year": 2003
+    }, 
+    {
+      "isInfluential": true, 
+      "paperId": "2ae40898406df0a3732acc54f147c1d377f54e2a", 
+      "title": "Query by Committee", 
+      "url": "https://www.semanticscholar.org/paper/2ae40898406df0a3732acc54f147c1d377f54e2a", 
+      "venue": "COLT", 
+      "year": 1992
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "75384c46660bebd5d49fe9d5edce1d3c94a2caad", 
+      "title": "Query Learning Strategies Using Boosting and Bagging", 
+      "url": "https://www.semanticscholar.org/paper/75384c46660bebd5d49fe9d5edce1d3c94a2caad", 
+      "venue": "ICML", 
+      "year": 1998
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "08e39912a54fc46f25f9e79bfa06ee44311b051a", 
+      "title": "Active Learning for Statistical Natural Language Parsing", 
+      "url": "https://www.semanticscholar.org/paper/08e39912a54fc46f25f9e79bfa06ee44311b051a", 
+      "venue": "ACL", 
+      "year": 2002
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "8a36cadf3e5f3a7de907804e934bf790dd234179", 
+      "title": "Active Learning for Class Probability Estimation and Ranking", 
+      "url": "https://www.semanticscholar.org/paper/8a36cadf3e5f3a7de907804e934bf790dd234179", 
+      "venue": "IJCAI", 
+      "year": 2001
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "2c036c77ec94ad8ac693f95f296b4cf7b13f0e85", 
+      "title": "Kernel Query By Committee (KQBC)", 
+      "url": "https://www.semanticscholar.org/paper/2c036c77ec94ad8ac693f95f296b4cf7b13f0e85", 
+      "venue": "", 
+      "year": 2003
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "4af182338ee63754d4569c26cb6a5c3bbdd8cf2a", 
+      "title": "A Maximum Entropy Approach to Natural Language Processing", 
+      "url": "https://www.semanticscholar.org/paper/4af182338ee63754d4569c26cb6a5c3bbdd8cf2a", 
+      "venue": "Computational Linguistics", 
+      "year": 1996
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "1bdfdd4205c0ace6f0d5bb09dd606021a110cf36", 
+      "title": "The Evidence Framework Applied to Classification Networks", 
+      "url": "https://www.semanticscholar.org/paper/1bdfdd4205c0ace6f0d5bb09dd606021a110cf36", 
+      "venue": "Neural Computation", 
+      "year": 1992
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "5f78d6f79b3ef103cb2d8d170632eb74d9496412", 
+      "title": "Committee-Based Sampling For Training Probabilistic Classifiers", 
+      "url": "https://www.semanticscholar.org/paper/5f78d6f79b3ef103cb2d8d170632eb74d9496412", 
+      "venue": "ICML", 
+      "year": 1995
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "08e1a25f913cc53d03eded02cf9282ad28edc726", 
+      "title": "Generalized Linear Models: An Applied Approach", 
+      "url": "https://www.semanticscholar.org/paper/08e1a25f913cc53d03eded02cf9282ad28edc726", 
+      "venue": "Technometrics", 
+      "year": 2005
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "0a81a86b4486cd1c863860ebe933b47090d55386", 
+      "title": "Learning to construct knowledge bases from the World Wide Web", 
+      "url": "https://www.semanticscholar.org/paper/0a81a86b4486cd1c863860ebe933b47090d55386", 
+      "venue": "Artif. Intell.", 
+      "year": 2000
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "0a20a309deda54fe14580007759c9c7623c58694", 
+      "title": "Toward Optimal Active Learning through Sampling Estimation of Error Reduction", 
+      "url": "https://www.semanticscholar.org/paper/0a20a309deda54fe14580007759c9c7623c58694", 
+      "venue": "ICML", 
+      "year": 2001
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "34476ea50536c47b45c30da2ba35c527cbab9427", 
+      "title": "Neural net algorithms that learn in polynomial time from examples and queries", 
+      "url": "https://www.semanticscholar.org/paper/34476ea50536c47b45c30da2ba35c527cbab9427", 
+      "venue": "IEEE Trans. Neural Networks", 
+      "year": 1991
+    }, 
+    {
+      "isInfluential": true, 
+      "paperId": "480679765e02c5d4f73237928290e7db6cfec02e", 
+      "title": "Selective Sampling Using the Query by Committee Algorithm", 
+      "url": "https://www.semanticscholar.org/paper/480679765e02c5d4f73237928290e7db6cfec02e", 
+      "venue": "Machine Learning", 
+      "year": 1997
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "1304bf0f0d051f05d7c667bf38557388f9894f56", 
+      "title": "Minimizing Statistical Bias with Queries", 
+      "url": "https://www.semanticscholar.org/paper/1304bf0f0d051f05d7c667bf38557388f9894f56", 
+      "venue": "NIPS", 
+      "year": 1996
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "81dac434667a988ada1435fab320d88e304ebdcf", 
+      "title": "Sample Selection for Statistical Parsing", 
+      "url": "https://www.semanticscholar.org/paper/81dac434667a988ada1435fab320d88e304ebdcf", 
+      "venue": "Computational Linguistics", 
+      "year": 2004
+    }, 
+    {
+      "isInfluential": true, 
+      "paperId": "046b7f6b48e4d9fcf173dea0a0802d7e87b383e1", 
+      "title": "Bagging Predictors", 
+      "url": "https://www.semanticscholar.org/paper/046b7f6b48e4d9fcf173dea0a0802d7e87b383e1", 
+      "venue": "Machine Learning", 
+      "year": 1996
+    }, 
+    {
+      "isInfluential": true, 
+      "paperId": "a4cc98eb60ebee49459bf75aa25c1ce8d849d94c", 
+      "title": "Letter Recognition Using Holland-Style Adaptive Classifiers", 
+      "url": "https://www.semanticscholar.org/paper/a4cc98eb60ebee49459bf75aa25c1ce8d849d94c", 
+      "venue": "Machine Learning", 
+      "year": 1991
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "0f051e46f16f1be8c0cddb66cf4c22442728d7f6", 
+      "title": "An Empirical Study of the Behavior of Active Learning for Word Sense Disambiguation", 
+      "url": "https://www.semanticscholar.org/paper/0f051e46f16f1be8c0cddb66cf4c22442728d7f6", 
+      "venue": "HLT-NAACL", 
+      "year": 2006
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "aa6b5f149c220ca660a26f2f66bde3f3dfc15da3", 
+      "title": "Learning Regular Sets from Queries and Counterexamples", 
+      "url": "https://www.semanticscholar.org/paper/aa6b5f149c220ca660a26f2f66bde3f3dfc15da3", 
+      "venue": "Inf. Comput.", 
+      "year": 1987
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "271d9fa1a3a4691582777eaf080b87d2b8117412", 
+      "title": "Designing Optimal Sequential Experiments for a Bayesian Classifier", 
+      "url": "https://www.semanticscholar.org/paper/271d9fa1a3a4691582777eaf080b87d2b8117412", 
+      "venue": "IEEE Trans. Pattern Anal. Mach. Intell.", 
+      "year": 1999
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "639b4cac06148e9f91736ba36ad4a1b97fcdfd6a", 
+      "title": "Scaling to Very Very Large Corpora for Natural Language Disambiguation", 
+      "url": "https://www.semanticscholar.org/paper/639b4cac06148e9f91736ba36ad4a1b97fcdfd6a", 
+      "venue": "ACL", 
+      "year": 2001
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "58ceeb151558c1f322b9f6273b47e90e9c04e6b1", 
+      "title": "Neural Networks and the Bias/Variance Dilemma", 
+      "url": "https://www.semanticscholar.org/paper/58ceeb151558c1f322b9f6273b47e90e9c04e6b1", 
+      "venue": "Neural Computation", 
+      "year": 1992
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "0c7f52c753a65ceaf3755e20b906ffd0c05c994a", 
+      "title": "Conditional Random Fields: Probabilistic Models for Segmenting and Labeling Sequence Data", 
+      "url": "https://www.semanticscholar.org/paper/0c7f52c753a65ceaf3755e20b906ffd0c05c994a", 
+      "venue": "ICML", 
+      "year": 2001
+    }, 
+    {
+      "isInfluential": true, 
+      "paperId": "cdd62db3817f0d80edf602973059d2b6b39e7235", 
+      "title": "Methods of combining multiple classifiers and their applications to handwriting recognition", 
+      "url": "https://www.semanticscholar.org/paper/cdd62db3817f0d80edf602973059d2b6b39e7235", 
+      "venue": "IEEE Trans. Systems, Man, and Cybernetics", 
+      "year": 1992
+    }, 
+    {
+      "isInfluential": true, 
+      "paperId": "ace27050f87453c583cbc7703087dd50e96c26f1", 
+      "title": "Employing EM and Pool-Based Active Learning for Text Classification", 
+      "url": "https://www.semanticscholar.org/paper/ace27050f87453c583cbc7703087dd50e96c26f1", 
+      "venue": "ICML", 
+      "year": 1998
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "771ffe15acf34e18f9323aedc0b8c12abb741c67", 
+      "title": "Active Learning for Logistic Regression", 
+      "url": "https://www.semanticscholar.org/paper/771ffe15acf34e18f9323aedc0b8c12abb741c67", 
+      "venue": "", 
+      "year": 2005
+    }
+  ], 
+  "title": "Active learning for logistic regression: an evaluation", 
+  "url": "https://www.semanticscholar.org/paper/14b441f618d72ab839bbd8a2c7c6ae5a9cff52ad", 
+  "venue": "Machine Learning", 
+  "year": 2007
+}

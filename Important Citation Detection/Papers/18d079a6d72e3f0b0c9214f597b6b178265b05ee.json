@@ -1,0 +1,923 @@
+{
+  "authors": [
+    {
+      "authorId": "1947267", 
+      "name": "Michel Galley", 
+      "url": "https://www.semanticscholar.org/author/1947267"
+    }, 
+    {
+      "authorId": "1727037", 
+      "name": "Kathleen McKeown", 
+      "url": "https://www.semanticscholar.org/author/1727037"
+    }, 
+    {
+      "authorId": "1784850", 
+      "name": "Julia Hirschberg", 
+      "url": "https://www.semanticscholar.org/author/1784850"
+    }, 
+    {
+      "authorId": "9494962", 
+      "name": "Elizabeth Shriberg", 
+      "url": "https://www.semanticscholar.org/author/9494962"
+    }
+  ], 
+  "citationVelocity": 0, 
+  "citations": [
+    {
+      "isInfluential": false, 
+      "paperId": "531d5d696d23333eff0d37e63451b1d6a6a3a4b9", 
+      "title": "Exploiting Emotions in Social Interactions to Detect Online Social Communities", 
+      "url": "https://www.semanticscholar.org/paper/531d5d696d23333eff0d37e63451b1d6a6a3a4b9"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "a44765ab3dab92dbcb0f5c90d6b5e240a101939c", 
+      "title": "Information extraction for multi-participant, task-oriented, synchronous, computer-mediated communication: a corpus study of chat data\u2217", 
+      "url": "https://www.semanticscholar.org/paper/a44765ab3dab92dbcb0f5c90d6b5e240a101939c"
+    }, 
+    {
+      "isInfluential": true, 
+      "paperId": "5ff96b72a5c1978e08adc61c5b6c5445ea11c480", 
+      "title": "I Couldn't Agree More: The Role of Conversational Structure in Agreement and Disagreement Detection in Online Discussions", 
+      "url": "https://www.semanticscholar.org/paper/5ff96b72a5c1978e08adc61c5b6c5445ea11c480"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "2671f3fbd7d703fc010c2eaed99266fecec77cc0", 
+      "title": "Predicting Continuous Conflict Perceptionwith Bayesian Gaussian Processes", 
+      "url": "https://www.semanticscholar.org/paper/2671f3fbd7d703fc010c2eaed99266fecec77cc0"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "0f3566a429be662090ae4ee3e01d556448b4ead7", 
+      "title": "Bridging the Gap between Social Animal and Unsocial Machine: A Survey of Social Signal Processing", 
+      "url": "https://www.semanticscholar.org/paper/0f3566a429be662090ae4ee3e01d556448b4ead7"
+    }, 
+    {
+      "isInfluential": true, 
+      "paperId": "45c8e0448e3d32481101c963907d074791263c30", 
+      "title": "Agents for educational games and simulations", 
+      "url": "https://www.semanticscholar.org/paper/45c8e0448e3d32481101c963907d074791263c30"
+    }, 
+    {
+      "isInfluential": true, 
+      "paperId": "a270a4245849d96be40189174d467c1c9b769361", 
+      "title": "Agreement/Disagreement Classification: Exploiting Unlabeled Data using Contrast Classifiers", 
+      "url": "https://www.semanticscholar.org/paper/a270a4245849d96be40189174d467c1c9b769361"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "27381ae0b5369ad4d58f93c7e374361488f0dff7", 
+      "title": "Survey on mining subjective data on the web", 
+      "url": "https://www.semanticscholar.org/paper/27381ae0b5369ad4d58f93c7e374361488f0dff7"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "df66d4097bb2e82ced6ffa73322e210a9ac0473a", 
+      "title": "Detecting Influencers in Multiple Online Genres", 
+      "url": "https://www.semanticscholar.org/paper/df66d4097bb2e82ced6ffa73322e210a9ac0473a"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "5e79a1e62332aac31fe6d2264ca22ccf4dd886f1", 
+      "title": "Abstractive Summarization of Voice Communications", 
+      "url": "https://www.semanticscholar.org/paper/5e79a1e62332aac31fe6d2264ca22ccf4dd886f1"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "1740ba3b5ade0dbc9044a4f6583de9a4239ab272", 
+      "title": "Detecting Subgroups in Online Discussions by Modeling Positive and Negative Relations among Participants", 
+      "url": "https://www.semanticscholar.org/paper/1740ba3b5ade0dbc9044a4f6583de9a4239ab272"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "2b13449cfc54a4df5c66f4dbccac9eb33b077dc7", 
+      "title": "Resolving \u201cYou\u201d in Multi-Party Dialog\u2217", 
+      "url": "https://www.semanticscholar.org/paper/2b13449cfc54a4df5c66f4dbccac9eb33b077dc7"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "2a096cdcc3bf78eafdc8b0ff5345e91d8e46e9b2", 
+      "title": "Hierarchical Conversation Structure Prediction in Multi-Party Chat", 
+      "url": "https://www.semanticscholar.org/paper/2a096cdcc3bf78eafdc8b0ff5345e91d8e46e9b2"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "68c7106b55e43eb7a4b3513605af4dbe40bed7e3", 
+      "title": "Identifying Controversial Wikipedia Articles Using Editor Collaboration Networks", 
+      "url": "https://www.semanticscholar.org/paper/68c7106b55e43eb7a4b3513605af4dbe40bed7e3"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "3d631a77afe4a1bebbbe1dd71d1306ef66250363", 
+      "title": "Research Experience", 
+      "url": "https://www.semanticscholar.org/paper/3d631a77afe4a1bebbbe1dd71d1306ef66250363"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "36f31f9f1404a67f126108aa925352715a226281", 
+      "title": "How Do Ordinary Japanese Reach Consensus in Group Decision Making? : Identifying and Analyzing \"Nai\u0308ve Negotiation\"", 
+      "url": "https://www.semanticscholar.org/paper/36f31f9f1404a67f126108aa925352715a226281"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "1992d9277e77e020987f6bb0ddd94fc000289444", 
+      "title": "Peer review in online forums: Classifying feedback-sentiment", 
+      "url": "https://www.semanticscholar.org/paper/1992d9277e77e020987f6bb0ddd94fc000289444"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "73390efca0e763cfa031f528db8289b87ba67bbe", 
+      "title": "Transfer cross entropy for fast sociometric inference in longitudinal collections of multi-party conversation", 
+      "url": "https://www.semanticscholar.org/paper/73390efca0e763cfa031f528db8289b87ba67bbe"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "087b0bc1e50358a32cdc64fed707a15974b0ea8d", 
+      "title": "Computational Linguistics: Human Language Technologies Proceedings of the Workshop on Evaluation Metrics and System Comparison for Automatic Summarization", 
+      "url": "https://www.semanticscholar.org/paper/087b0bc1e50358a32cdc64fed707a15974b0ea8d"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "a7c6ccaea10239a4beb0e2ded63b4af373141a65", 
+      "title": "Automatic argumentative analysis for interaction mining", 
+      "url": "https://www.semanticscholar.org/paper/a7c6ccaea10239a4beb0e2ded63b4af373141a65"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "b457b113ce2e2cc1cf74cb6785e80b46cd20c7e1", 
+      "title": "Modeling hidden dynamics of multimodal cues for spontaneous agreement and disagreement recognition", 
+      "url": "https://www.semanticscholar.org/paper/b457b113ce2e2cc1cf74cb6785e80b46cd20c7e1"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "8d7cc5b826f65da3b191192a8e24c04cc7700cf9", 
+      "title": "Identification of relations between answers with global constraints for Community-based Question Answering services", 
+      "url": "https://www.semanticscholar.org/paper/8d7cc5b826f65da3b191192a8e24c04cc7700cf9"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "c3e325b2c63db7139b82e7ea19831cf46f672f77", 
+      "title": "Accessing speech data using strategic fixation", 
+      "url": "https://www.semanticscholar.org/paper/c3e325b2c63db7139b82e7ea19831cf46f672f77"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "f887f0b7a4d6aec9243a061bae292968f0cd46d4", 
+      "title": "What Decisions Have You Made?: Automatic Decision Detection in Meeting Conversations", 
+      "url": "https://www.semanticscholar.org/paper/f887f0b7a4d6aec9243a061bae292968f0cd46d4"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "59d65d5aa09d789408fd9fd3c009a1b070ff5859", 
+      "title": "Using the Omega Index for Evaluating Abstractive Community Detection", 
+      "url": "https://www.semanticscholar.org/paper/59d65d5aa09d789408fd9fd3c009a1b070ff5859"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "481a118e4399c2f394cb205a962088a646d0cd2e", 
+      "title": "Who is \"You\"? Combining Linguistic and Gaze Features to Resolve Second-Person References in Dialogue", 
+      "url": "https://www.semanticscholar.org/paper/481a118e4399c2f394cb205a962088a646d0cd2e"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "a8173a796365b9a0714762a88ba497e7b2ddeb06", 
+      "title": "Unsupervised discovery of opposing opinion networks from forum discussions", 
+      "url": "https://www.semanticscholar.org/paper/a8173a796365b9a0714762a88ba497e7b2ddeb06"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "144df682b294324c56e8adc3a553873feb6e96b7", 
+      "title": "Collaborative and Argumentative Models of Meeting Discussions", 
+      "url": "https://www.semanticscholar.org/paper/144df682b294324c56e8adc3a553873feb6e96b7"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "df26102fa53dba696838a801506cd0181c8b3d15", 
+      "title": "Contrasting the Interaction Structure of an Email and a Telephone Corpus: A Machine Learning Approach to Annotation of Dialogue Function Units", 
+      "url": "https://www.semanticscholar.org/paper/df26102fa53dba696838a801506cd0181c8b3d15"
+    }, 
+    {
+      "isInfluential": true, 
+      "paperId": "6626e8e6d4f733af4e2a623b2cf9ea34a1d3db09", 
+      "title": "Topic Independent Identification of Agreement and Disagreement in Social Media Dialogue", 
+      "url": "https://www.semanticscholar.org/paper/6626e8e6d4f733af4e2a623b2cf9ea34a1d3db09"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "bc3c13f463bb066fea66d16b52c7e73947b8b623", 
+      "title": "Bayesian Estimation of an Open Economy DSGE Model with Incomplete Pass-Through.\u201d Sveriges Riksbank Working Paper Series 179", 
+      "url": "https://www.semanticscholar.org/paper/bc3c13f463bb066fea66d16b52c7e73947b8b623"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "208b02e3d91357720050829037cfbe9774c954b4", 
+      "title": "Pro-active meeting assistants: attention please!", 
+      "url": "https://www.semanticscholar.org/paper/208b02e3d91357720050829037cfbe9774c954b4"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "584c40041bdb9577df38f1eab8c244bd0e613cb7", 
+      "title": "Toward Summarization of Communicative Activities in Spoken Conversation", 
+      "url": "https://www.semanticscholar.org/paper/584c40041bdb9577df38f1eab8c244bd0e613cb7"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "39d091bd1908229ba0b2490f762b23a8c7050693", 
+      "title": "Automatic Fight Detection in Surveillance Videos", 
+      "url": "https://www.semanticscholar.org/paper/39d091bd1908229ba0b2490f762b23a8c7050693"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "83bce397ca0aaa9e47bde4511fe84d5ebda80210", 
+      "title": "A Skip-Chain Conditional Random Field for Ranking Meeting Utterances by Importance", 
+      "url": "https://www.semanticscholar.org/paper/83bce397ca0aaa9e47bde4511fe84d5ebda80210"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "1ab430a961e2074d03f195833b2ade4998f402a2", 
+      "title": "From text to speech summarization", 
+      "url": "https://www.semanticscholar.org/paper/1ab430a961e2074d03f195833b2ade4998f402a2"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "bd3c9ed2b85ffdb5e09334c066b9b7dd15dfab88", 
+      "title": "Integrating natural language processing and pragmatic argumentation theories for argumentation support", 
+      "url": "https://www.semanticscholar.org/paper/bd3c9ed2b85ffdb5e09334c066b9b7dd15dfab88"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "16438d83c72272b9d80cb0c3d871e2d5455473b9", 
+      "title": "Annotations and Subjective Machines", 
+      "url": "https://www.semanticscholar.org/paper/16438d83c72272b9d80cb0c3d871e2d5455473b9"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "0c3516df85162b5ac010ca6810ec0c24defe455b", 
+      "title": "Second-person Pronoun Resolution Second-person Pronoun Resolution in Multi-party Spoken English Dialogue *", 
+      "url": "https://www.semanticscholar.org/paper/0c3516df85162b5ac010ca6810ec0c24defe455b"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "4e4ef3270abf62570db73633de0600f540229b5a", 
+      "title": "Detection of Agreement and Disagreement in Broadcast Conversations", 
+      "url": "https://www.semanticscholar.org/paper/4e4ef3270abf62570db73633de0600f540229b5a"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "091bb1fa1e76a09ed1e888309b8ff6f45a526844", 
+      "title": "Decision Detection Using Hierarchical Graphical Models", 
+      "url": "https://www.semanticscholar.org/paper/091bb1fa1e76a09ed1e888309b8ff6f45a526844"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "33febb26eec1c90cead6730cb9b456f35459e870", 
+      "title": "\u6539\u826f\u8a9e\u53e5\u6a21\u578b\u6280\u8853\u65bc\u7bc0\u9304\u5f0f\u8a9e\u97f3\u6458\u8981\u4e4b\u7814\u7a76 (Improved Sentence Modeling Techniques for Extractive Speech Summarization) [In Chinese]", 
+      "url": "https://www.semanticscholar.org/paper/33febb26eec1c90cead6730cb9b456f35459e870"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "6c900509286f02d42696a201562a709ec51a9d87", 
+      "title": "Automatic argumentative analysis for interaction mining", 
+      "url": "https://www.semanticscholar.org/paper/6c900509286f02d42696a201562a709ec51a9d87"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "9a965844b19956032699015fc12f13ecdb277533", 
+      "title": "How can NLP Tasks Mutually Benefit Sentiment Analysis? A Holistic Approach to Sentiment Analysis", 
+      "url": "https://www.semanticscholar.org/paper/9a965844b19956032699015fc12f13ecdb277533"
+    }, 
+    {
+      "isInfluential": true, 
+      "paperId": "370702b927a78128c390e10ab92a8149dd8b1ca4", 
+      "title": "Squibs: Reliability Measurement without Limits", 
+      "url": "https://www.semanticscholar.org/paper/370702b927a78128c390e10ab92a8149dd8b1ca4"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "8fcc6095fe69c0b11de9b2a00c036d1c34f8c790", 
+      "title": "Automatic Summarization of Conversational Multi-party Speech Ph.D. Thesis Proposal", 
+      "url": "https://www.semanticscholar.org/paper/8fcc6095fe69c0b11de9b2a00c036d1c34f8c790"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "56e8eb75f16b97a609a7f3309570577db98b7835", 
+      "title": "Analyzing conversations using rich phrase patterns", 
+      "url": "https://www.semanticscholar.org/paper/56e8eb75f16b97a609a7f3309570577db98b7835"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "7ac8df3aa3a75574207964f112f680a06bbc9d4d", 
+      "title": "Mining Subjective Data on the Web", 
+      "url": "https://www.semanticscholar.org/paper/7ac8df3aa3a75574207964f112f680a06bbc9d4d"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "24551c92410be6842bdb050f7eb272f38062d79c", 
+      "title": "Modeling Review Comments", 
+      "url": "https://www.semanticscholar.org/paper/24551c92410be6842bdb050f7eb272f38062d79c"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "b28ec0f3a9b8ad9d15d6efb519c23021ddfa131e", 
+      "title": "Pragmatic Rejection", 
+      "url": "https://www.semanticscholar.org/paper/b28ec0f3a9b8ad9d15d6efb519c23021ddfa131e"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "b1c5077200ebe0424a67e6a8c6620fca5b4bd347", 
+      "title": "More to Meetings: Challenges in Using Speech-Based Technology to Support Meetings", 
+      "url": "https://www.semanticscholar.org/paper/b1c5077200ebe0424a67e6a8c6620fca5b4bd347"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "f63c52ec65c74a3baba866aa5b5276860c2b561d", 
+      "title": "Agreement and disagreement classification of dyadic interactions using vocal and gestural cues", 
+      "url": "https://www.semanticscholar.org/paper/f63c52ec65c74a3baba866aa5b5276860c2b561d"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "cafab6c214eb9bbc74b0be3499adce13eba7e92a", 
+      "title": "Cue Phrase Selection Methods for Textual Classification Problems", 
+      "url": "https://www.semanticscholar.org/paper/cafab6c214eb9bbc74b0be3499adce13eba7e92a"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "160dad9419affce45becae58ee88cc401468d0b0", 
+      "title": "Using multiple sources of agreement information for sentiment classification of political transcripts", 
+      "url": "https://www.semanticscholar.org/paper/160dad9419affce45becae58ee88cc401468d0b0"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "32b7def677027d0d536c6cf7f39e8b1e763b209f", 
+      "title": "Improving Agreement and Disagreement Identification in Online Discussions with A Socially-Tuned Sentiment Lexicon", 
+      "url": "https://www.semanticscholar.org/paper/32b7def677027d0d536c6cf7f39e8b1e763b209f"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "3239d3fe4fd82e29723cdd1aa5b0f93b8bae79cc", 
+      "title": "Discovering User Interactions in Ideological Discussions", 
+      "url": "https://www.semanticscholar.org/paper/3239d3fe4fd82e29723cdd1aa5b0f93b8bae79cc"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "43eac90c68634949c80e98c4b25e8112a10f7512", 
+      "title": "Agreement and Disagreement: Comparison of Points of View in the Political Domain", 
+      "url": "https://www.semanticscholar.org/paper/43eac90c68634949c80e98c4b25e8112a10f7512"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "d8f9bd8c4fc1f10de358b1a2aabc06e013001fbe", 
+      "title": "A Piece of My Mind: A Sentiment Analysis Approach for Online Dispute Detection", 
+      "url": "https://www.semanticscholar.org/paper/d8f9bd8c4fc1f10de358b1a2aabc06e013001fbe"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "82a31b9cb5e2b1e7c48e0e167f83ffa437461054", 
+      "title": "A comparison of addressee detection methods for multiparty conversations", 
+      "url": "https://www.semanticscholar.org/paper/82a31b9cb5e2b1e7c48e0e167f83ffa437461054"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "5c2355b8c21e11804eff17acf540a3b1d1e70350", 
+      "title": "Public Dialogue: Analysis of Tolerance in Online Discussions", 
+      "url": "https://www.semanticscholar.org/paper/5c2355b8c21e11804eff17acf540a3b1d1e70350"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "16283a51fcb4537bd7e53cbde16ebac15ec99a30", 
+      "title": "Conflicting views analysis algorithms", 
+      "url": "https://www.semanticscholar.org/paper/16283a51fcb4537bd7e53cbde16ebac15ec99a30"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "9f4e1e65cf32dd5bbdc2cacb8e26157808742a4d", 
+      "title": "Structured Output Learning with Polynomial Kernel", 
+      "url": "https://www.semanticscholar.org/paper/9f4e1e65cf32dd5bbdc2cacb8e26157808742a4d"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "c4795befdb71728e94651a575ec72ce2e91744b2", 
+      "title": "A Latent Variable Model for Viewpoint Discovery from Threaded Forum Posts", 
+      "url": "https://www.semanticscholar.org/paper/c4795befdb71728e94651a575ec72ce2e91744b2"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "5d780b106ac3e0884aafb4f5fc738b581d9eaec5", 
+      "title": "Use of affect based interaction classification for continuous emotion tracking", 
+      "url": "https://www.semanticscholar.org/paper/5d780b106ac3e0884aafb4f5fc738b581d9eaec5"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "8a60d0ef84e2fbd13ca0fdf15d6bbb9c19292e01", 
+      "title": "On the Summarization of Dynamically Introduced Information: Online Discussions and Blogs", 
+      "url": "https://www.semanticscholar.org/paper/8a60d0ef84e2fbd13ca0fdf15d6bbb9c19292e01"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "19c90891fb5fe779ceef9dff40b98ddee9f7e60c", 
+      "title": "Detecting Arguing and Sentiment in Meetings", 
+      "url": "https://www.semanticscholar.org/paper/19c90891fb5fe779ceef9dff40b98ddee9f7e60c"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "4d0e563291cf3956ed302fb594479f2fdb403a31", 
+      "title": "Automatic Summarization of Conversational Multi-Party Speech", 
+      "url": "https://www.semanticscholar.org/paper/4d0e563291cf3956ed302fb594479f2fdb403a31"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "7ee04a7bf19161a932781892496403e2a69c88de", 
+      "title": "Extracting Decisions from Multi-Party Dialogue Using Directed Graphical Models and Semantic Similarity", 
+      "url": "https://www.semanticscholar.org/paper/7ee04a7bf19161a932781892496403e2a69c88de"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "2b8b59a74d815a70bbb31892ce484510480be6fe", 
+      "title": "Analyzing Argumentative Discourse Units in Online Interactions", 
+      "url": "https://www.semanticscholar.org/paper/2b8b59a74d815a70bbb31892ce484510480be6fe"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "196ad61b8c64ac18d55aedbe6f6f3681d0589456", 
+      "title": "An Integrated Model for User Attribute Discovery: A Case Study on Political Affiliation Identification", 
+      "url": "https://www.semanticscholar.org/paper/196ad61b8c64ac18d55aedbe6f6f3681d0589456"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "75cf8f25ef566982eb423dee71228b6b62c63cf9", 
+      "title": "Detecting actionable items in meetings by convolutional deep structured semantic models", 
+      "url": "https://www.semanticscholar.org/paper/75cf8f25ef566982eb423dee71228b6b62c63cf9"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "7209e97fdb8a8c3d13900ef03d8d2815a4fdd6e8", 
+      "title": "Automatic Annotation of Interactions in Meetings Using Semi-supervised Learning Techniques", 
+      "url": "https://www.semanticscholar.org/paper/7209e97fdb8a8c3d13900ef03d8d2815a4fdd6e8"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "742f96018f2c6cdd19c8c608138722c8c4b073af", 
+      "title": "Leveraging editor collaboration patterns in wikipedia", 
+      "url": "https://www.semanticscholar.org/paper/742f96018f2c6cdd19c8c608138722c8c4b073af"
+    }, 
+    {
+      "isInfluential": true, 
+      "paperId": "4f47b5e515043216324c71d34b34271c3ba45f2c", 
+      "title": "Blogs are Echo Chambers: Blogs are Echo Chambers", 
+      "url": "https://www.semanticscholar.org/paper/4f47b5e515043216324c71d34b34271c3ba45f2c"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "268857f94994b908446d3aa74de32161c4bcf80d", 
+      "title": "Support or Oppose? Classifying Positions in Online Debates from Reply Activities and Opinion Expressions", 
+      "url": "https://www.semanticscholar.org/paper/268857f94994b908446d3aa74de32161c4bcf80d"
+    }, 
+    {
+      "isInfluential": true, 
+      "paperId": "15da71a6ae73a3f6e17b17109e01c6110e933412", 
+      "title": "Detecting targets of alignment moves in multiparty discussions", 
+      "url": "https://www.semanticscholar.org/paper/15da71a6ae73a3f6e17b17109e01c6110e933412"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "21616992c2a37fad0d1192392830c638f96ba02f", 
+      "title": "Modelling and Detecting Decisions in Multi-party Dialogue", 
+      "url": "https://www.semanticscholar.org/paper/21616992c2a37fad0d1192392830c638f96ba02f"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "6ca0874e1757fbd1d0fa01759429d3999ba13202", 
+      "title": "Summarising the points made in online political debates", 
+      "url": "https://www.semanticscholar.org/paper/6ca0874e1757fbd1d0fa01759429d3999ba13202"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "a2a8b42e64f74b2c8884fa1b276ac38887fa0274", 
+      "title": "Detecting Disagreement in Conversations using Pseudo-Monologic Rhetorical Structure", 
+      "url": "https://www.semanticscholar.org/paper/a2a8b42e64f74b2c8884fa1b276ac38887fa0274"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "663fa85208d72035e49648598ac6f4345995ed67", 
+      "title": "Addressee Identification in Face-to-Face Meetings", 
+      "url": "https://www.semanticscholar.org/paper/663fa85208d72035e49648598ac6f4345995ed67"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "e0d64f6253bde4d4fad9dbfdb567be9886af70d6", 
+      "title": "Annotation and detection of conflict escalation in Political debates", 
+      "url": "https://www.semanticscholar.org/paper/e0d64f6253bde4d4fad9dbfdb567be9886af70d6"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "24cda8d0ada3a1fe8ae28f38828d197f1850acbc", 
+      "title": "Twente Argument Schema Annotation Manual v 0.99b", 
+      "url": "https://www.semanticscholar.org/paper/24cda8d0ada3a1fe8ae28f38828d197f1850acbc"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "ae3c061b9153e79b956af42dd48b75de4ba4c5d5", 
+      "title": "Modeling interaction features for debate side clustering", 
+      "url": "https://www.semanticscholar.org/paper/ae3c061b9153e79b956af42dd48b75de4ba4c5d5"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "8dcc45d6858eea6db2a1b1671d24d44e69cd3f0d", 
+      "title": "Modeling User Arguments, Interactions, and Attributes for Stance Prediction in Online Debate Forums", 
+      "url": "https://www.semanticscholar.org/paper/8dcc45d6858eea6db2a1b1671d24d44e69cd3f0d"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "17431adf1cd5f0ae7fa05d3e71cdffab5c2dd276", 
+      "title": "Real-time decision detection in multi-party dialogue", 
+      "url": "https://www.semanticscholar.org/paper/17431adf1cd5f0ae7fa05d3e71cdffab5c2dd276"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "3b4577005c2132cb8d9cb7015cb5fd05f0ce1700", 
+      "title": "Mining contentions from discussions and debates", 
+      "url": "https://www.semanticscholar.org/paper/3b4577005c2132cb8d9cb7015cb5fd05f0ce1700"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "1ca11589301e8c6821be5af3ba596c189bfde8f7", 
+      "title": "Annotating Agreement and Disagreement in Threaded Discussion", 
+      "url": "https://www.semanticscholar.org/paper/1ca11589301e8c6821be5af3ba596c189bfde8f7"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "2776cf918bf80e902141eeab23a595a3f354d0a2", 
+      "title": "Comprehensive Exam", 
+      "url": "https://www.semanticscholar.org/paper/2776cf918bf80e902141eeab23a595a3f354d0a2"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "666dd458aebaa1a3ce3a032101d43f04e3dbb50a", 
+      "title": "Automatic detection of conflicts in spoken conversations: Ratings and analysis of broadcast political debates", 
+      "url": "https://www.semanticscholar.org/paper/666dd458aebaa1a3ce3a032101d43f04e3dbb50a"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "0ff91ba780982db097dcdc955eb6b18aad4c8acf", 
+      "title": "Reading List for Major Subject: Empirical Methods For Discourse Analysis Discourse Relations and Markers", 
+      "url": "https://www.semanticscholar.org/paper/0ff91ba780982db097dcdc955eb6b18aad4c8acf"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "963b856e26150019e0f7f5c328b57796ea1bd0a7", 
+      "title": "Annotating Social Acts: Authority Claims and Alignment Moves in Wikipedia Talk Pages", 
+      "url": "https://www.semanticscholar.org/paper/963b856e26150019e0f7f5c328b57796ea1bd0a7"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "28c1913c6ddb70c03810348adf0a78c676caa079", 
+      "title": "Computational Analysis of the Conversational Dynamics of the United States Supreme Court", 
+      "url": "https://www.semanticscholar.org/paper/28c1913c6ddb70c03810348adf0a78c676caa079"
+    }, 
+    {
+      "isInfluential": true, 
+      "paperId": "435aa9d71c88c50f8c79bedb9d6c1f7c6dc71cdd", 
+      "title": "Towards a Technology of Nonverbal Communication: Vocal Behavior in Social and Affective Phenomena", 
+      "url": "https://www.semanticscholar.org/paper/435aa9d71c88c50f8c79bedb9d6c1f7c6dc71cdd"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "55c241f76d0c115189da2eefd34e1af98631fcbe", 
+      "title": "Sentiment Analysis: From Opinion Mining to Human-Agent Interaction", 
+      "url": "https://www.semanticscholar.org/paper/55c241f76d0c115189da2eefd34e1af98631fcbe"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "e1564f201aae1b82df3bf4164893eefe059dfd8c", 
+      "title": "How can you say such things?!?: Recognizing Disagreement in Informal Political Argument", 
+      "url": "https://www.semanticscholar.org/paper/e1564f201aae1b82df3bf4164893eefe059dfd8c"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "39f6a1209389bd9ac41949430cb618a9655b4f02", 
+      "title": "Automatic prediction of consistency among team members' understanding of group decisions in meetings", 
+      "url": "https://www.semanticscholar.org/paper/39f6a1209389bd9ac41949430cb618a9655b4f02"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "b336732deb3c7f9843161341f7d05c9a44ab645a", 
+      "title": "Unifying Local and Global Agreement and Disagreement Classification in Online Debates", 
+      "url": "https://www.semanticscholar.org/paper/b336732deb3c7f9843161341f7d05c9a44ab645a"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "54145db904c43ff90404d286d3df243f8f931f58", 
+      "title": "Argumentative Human Computer Dialogue for Automated Persuasion", 
+      "url": "https://www.semanticscholar.org/paper/54145db904c43ff90404d286d3df243f8f931f58"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "0fbd98a7d21b5ade720e0c197291d5c97f1391ef", 
+      "title": "Identifying Agreement/Disagreement in Conversational Speech: A Cross-Lingual Study", 
+      "url": "https://www.semanticscholar.org/paper/0fbd98a7d21b5ade720e0c197291d5c97f1391ef"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "a01374db99c23e3b4c5ed22cd02faafb8cc10a6a", 
+      "title": "Employment History", 
+      "url": "https://www.semanticscholar.org/paper/a01374db99c23e3b4c5ed22cd02faafb8cc10a6a"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "c60190a6f311cf1bcabd35907a1ec46a5360a000", 
+      "title": "Conversation Analysis Based on Interpersonal Relationship in Consensus Building", 
+      "url": "https://www.semanticscholar.org/paper/c60190a6f311cf1bcabd35907a1ec46a5360a000"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "01b8621260eb24007b0f4365f32ba61dcc105e8e", 
+      "title": "Argument Diagramming of Meeting Conversations", 
+      "url": "https://www.semanticscholar.org/paper/01b8621260eb24007b0f4365f32ba61dcc105e8e"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "11fac253ea70c0869dd433e684712706eb105391", 
+      "title": "How Do I Address You? Modelling addressing behaviour based on an analysis of multi-modal corpora of conversational discourse", 
+      "url": "https://www.semanticscholar.org/paper/11fac253ea70c0869dd433e684712706eb105391"
+    }, 
+    {
+      "isInfluential": true, 
+      "paperId": "105a9eb9038b4eeee81ad2a69653944d4e47c2a5", 
+      "title": "Annotation and Analysis of Emotionally Relevant Behavior in the ISL Meeting Corpus", 
+      "url": "https://www.semanticscholar.org/paper/105a9eb9038b4eeee81ad2a69653944d4e47c2a5"
+    }, 
+    {
+      "isInfluential": true, 
+      "paperId": "ca837f437fcd325d7194a821549a0058de7d8312", 
+      "title": "A SVM Cascade for Agreement/Disagreement Classification", 
+      "url": "https://www.semanticscholar.org/paper/ca837f437fcd325d7194a821549a0058de7d8312"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "2e6343b85a5c1930c4025444894d0be8ee539e81", 
+      "title": "The Role of Polarity in Inferring Acceptance and Rejection in Dialogue", 
+      "url": "https://www.semanticscholar.org/paper/2e6343b85a5c1930c4025444894d0be8ee539e81"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "02d7a50e6557b24e38a28329e45aa9a23323b292", 
+      "title": "Identifying Sentiment-Based Contradictions", 
+      "url": "https://www.semanticscholar.org/paper/02d7a50e6557b24e38a28329e45aa9a23323b292"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "0b56da32908d5521fd00e71f8fbc50338e402e5b", 
+      "title": "Agreement detection in multiparty conversation", 
+      "url": "https://www.semanticscholar.org/paper/0b56da32908d5521fd00e71f8fbc50338e402e5b"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "52cb7a7f12b2b94eefe2b66eabd20f7750e633dd", 
+      "title": "Automatic Analysis of Document Sentiment", 
+      "url": "https://www.semanticscholar.org/paper/52cb7a7f12b2b94eefe2b66eabd20f7750e633dd"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "54c709535cb078820459a9f6eae47b6e593bce82", 
+      "title": "Dialog-Act Recognition Using Discourse and Sentence Structure Information", 
+      "url": "https://www.semanticscholar.org/paper/54c709535cb078820459a9f6eae47b6e593bce82"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "3a28de0477f16147447e1097b138f59f63c55538", 
+      "title": "Identifying power relationships in dialogues", 
+      "url": "https://www.semanticscholar.org/paper/3a28de0477f16147447e1097b138f59f63c55538"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "6980d278e497d798cfa9489b5323a8e653cd5ae8", 
+      "title": "Semi-supervised Speech Act Recognition in Emails and Forums", 
+      "url": "https://www.semanticscholar.org/paper/6980d278e497d798cfa9489b5323a8e653cd5ae8"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "030af6155e71fd14afebd78af9ccf4c4b486e398", 
+      "title": "Quantitative Estimation of the Strength of Agreements in Goal-Oriented Meetings", 
+      "url": "https://www.semanticscholar.org/paper/030af6155e71fd14afebd78af9ccf4c4b486e398"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "0ab723fa9f2a5f389bf5187a3f1d80d76da560ae", 
+      "title": "Education Professional Employment", 
+      "url": "https://www.semanticscholar.org/paper/0ab723fa9f2a5f389bf5187a3f1d80d76da560ae"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "905d01015f502681f63051888a653496df83bf32", 
+      "title": "Towards automatic argument diagramming of multiparity meetings", 
+      "url": "https://www.semanticscholar.org/paper/905d01015f502681f63051888a653496df83bf32"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "e1f348af06ed6fbab726e1b1106de281ccc80672", 
+      "title": "Multimodal Subjectivity Analysis of Multiparty Conversation", 
+      "url": "https://www.semanticscholar.org/paper/e1f348af06ed6fbab726e1b1106de281ccc80672"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "2b0a0dd1f4d84690334a1444bf1728bf7aadd4ca", 
+      "title": "Detection of Questions in Chinese Conversational Speech", 
+      "url": "https://www.semanticscholar.org/paper/2b0a0dd1f4d84690334a1444bf1728bf7aadd4ca"
+    }, 
+    {
+      "isInfluential": true, 
+      "paperId": "4895620281f5221a58458b2848b71880f24c4177", 
+      "title": "Digesting Virtual \"Geek\" Culture: The Summarization of Technical Internet Relay Chats", 
+      "url": "https://www.semanticscholar.org/paper/4895620281f5221a58458b2848b71880f24c4177"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "b908124ff8c1314681b1cb4bf0d47d3d8d28500e", 
+      "title": "First Steps Towards the Automatic Construction of Argument-Diagrams from Real Discussions", 
+      "url": "https://www.semanticscholar.org/paper/b908124ff8c1314681b1cb4bf0d47d3d8d28500e"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "93382578290831d3d4e96f78cdb2743dc7fc080e", 
+      "title": "Bootstrapping an Unsupervised Approach for Classifying Agreement and Disagreement", 
+      "url": "https://www.semanticscholar.org/paper/93382578290831d3d4e96f78cdb2743dc7fc080e"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "fbe0f878a7e54c392b4804a56afe13f356f609b0", 
+      "title": "Unshared task: (Dis)agreement in online debates", 
+      "url": "https://www.semanticscholar.org/paper/fbe0f878a7e54c392b4804a56afe13f356f609b0"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "0ab7e6720cb08b369284e289944a660806a7beec", 
+      "title": "Spotting agreement and disagreement: A survey of nonverbal audiovisual cues and tools", 
+      "url": "https://www.semanticscholar.org/paper/0ab7e6720cb08b369284e289944a660806a7beec"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "072b032e50a9d9bd5e1e5b5dba107e6f68093b45", 
+      "title": "Get out the vote: Determining support or opposition from Congressional floor-debate transcripts", 
+      "url": "https://www.semanticscholar.org/paper/072b032e50a9d9bd5e1e5b5dba107e6f68093b45"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "3d0adc6fca3a0669c108958c5d5204e2695ea4db", 
+      "title": "Towards Conversation Entailment: An Empirical Investigation", 
+      "url": "https://www.semanticscholar.org/paper/3d0adc6fca3a0669c108958c5d5204e2695ea4db"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "210bb3687fb961f8e649a64684b5ab726d4787b4", 
+      "title": "Automatic Detection and Verification of Rumors on Twitter", 
+      "url": "https://www.semanticscholar.org/paper/210bb3687fb961f8e649a64684b5ab726d4787b4"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "6d4b244deee49cd1bf8d28e2df9a08afb8828fb2", 
+      "title": "A Corpus for Research on Deliberation and Debate", 
+      "url": "https://www.semanticscholar.org/paper/6d4b244deee49cd1bf8d28e2df9a08afb8828fb2"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "ae997ef525ef3955dc43d4627b7136a05ebe218a", 
+      "title": "Analysis of Linguistic Style Accommodation in Online Debates", 
+      "url": "https://www.semanticscholar.org/paper/ae997ef525ef3955dc43d4627b7136a05ebe218a"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "189166caaeed9561b79855fefc7202c3106e6808", 
+      "title": "Sequential Learning for Dialog Act Classification in Tutorial Dialog", 
+      "url": "https://www.semanticscholar.org/paper/189166caaeed9561b79855fefc7202c3106e6808"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "409a6e834367d55add1d774926960514c67ef2b7", 
+      "title": "Exploiting \u2018Subjective' Annotations", 
+      "url": "https://www.semanticscholar.org/paper/409a6e834367d55add1d774926960514c67ef2b7"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "0ecc83f412ad6e5ff02b9d95acfdd88b2df0344e", 
+      "title": "AIMU: Actionable Items for Meeting Understanding", 
+      "url": "https://www.semanticscholar.org/paper/0ecc83f412ad6e5ff02b9d95acfdd88b2df0344e"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "ee9fb0cb4487d277233f61286eb40637e82dbb5e", 
+      "title": "What do We Know about Conversation Participants: Experiments on Conversation Entailment", 
+      "url": "https://www.semanticscholar.org/paper/ee9fb0cb4487d277233f61286eb40637e82dbb5e"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "0c75db5e3c27bcb0d07311a950d0d25cb57c731e", 
+      "title": "Neural conditional ordinal random fields for agreement level estimation", 
+      "url": "https://www.semanticscholar.org/paper/0c75db5e3c27bcb0d07311a950d0d25cb57c731e"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "da1c9ef4cc7194d4145d14e881a73623cdd764c1", 
+      "title": "Detecting leadership and cohesion in spoken interactions", 
+      "url": "https://www.semanticscholar.org/paper/da1c9ef4cc7194d4145d14e881a73623cdd764c1"
+    }, 
+    {
+      "isInfluential": true, 
+      "paperId": "15ef251bffc97d246d651d697a399be89cbec143", 
+      "title": "Squibs and Discussions Reliability measurement without limits", 
+      "url": "https://www.semanticscholar.org/paper/15ef251bffc97d246d651d697a399be89cbec143"
+    }
+  ], 
+  "doi": null, 
+  "influentialCitationCount": 12, 
+  "paperId": "18d079a6d72e3f0b0c9214f597b6b178265b05ee", 
+  "references": [
+    {
+      "isInfluential": false, 
+      "paperId": "85b41d95329fd8915a5a8c85dac9ed8d45b446ac", 
+      "title": "Conditional Structure Versus Conditional Estimation In NLP Models", 
+      "url": "https://www.semanticscholar.org/paper/85b41d95329fd8915a5a8c85dac9ed8d45b446ac"
+    }, 
+    {
+      "isInfluential": true, 
+      "paperId": "4af182338ee63754d4569c26cb6a5c3bbdd8cf2a", 
+      "title": "A Maximum Entropy Approach to Natural Language Processing", 
+      "url": "https://www.semanticscholar.org/paper/4af182338ee63754d4569c26cb6a5c3bbdd8cf2a"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "21e3f893528756cdb06d207cda5d7a41cd1603eb", 
+      "title": "Empirical Studies on the Disambiguation of Cue Phrases", 
+      "url": "https://www.semanticscholar.org/paper/21e3f893528756cdb06d207cda5d7a41cd1603eb"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "9e463eefadbcd336c69270a299666e4104d50159", 
+      "title": "A Coefficient of Agreement for Nominal Scales 1", 
+      "url": "https://www.semanticscholar.org/paper/9e463eefadbcd336c69270a299666e4104d50159"
+    }, 
+    {
+      "isInfluential": true, 
+      "paperId": "24beb987b722d4a25d3157a43000e685aa8f8874", 
+      "title": "A Maximum Entropy Model For Part-Of-Speech Tagging", 
+      "url": "https://www.semanticscholar.org/paper/24beb987b722d4a25d3157a43000e685aa8f8874"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "24770585a6aa3dead91b5ad42bb151b1ae70b316", 
+      "title": "Maximum Entropy Markov Models for Information Extraction and Segmentation", 
+      "url": "https://www.semanticscholar.org/paper/24770585a6aa3dead91b5ad42bb151b1ae70b316"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "1fd93ac4f16933d4ce809b12e10b04d6db55fad0", 
+      "title": "Statistical QA - Classifier Vs. Re-Ranker: What's The Difference?", 
+      "url": "https://www.semanticscholar.org/paper/1fd93ac4f16933d4ce809b12e10b04d6db55fad0"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "b59abcfd7dbed8e284c4237c405f912adb1ad4ea", 
+      "title": "Predicting the Semantic Orientation of Adjectives", 
+      "url": "https://www.semanticscholar.org/paper/b59abcfd7dbed8e284c4237c405f912adb1ad4ea"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "1503bcc5a850040e79f09665f699cbc5cdb23dbb", 
+      "title": "The ICSI Meeting Corpus", 
+      "url": "https://www.semanticscholar.org/paper/1503bcc5a850040e79f09665f699cbc5cdb23dbb"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "e8cb114b328711d2502e3502f29830562fd2b46c", 
+      "title": "Meeting Recorder Project: Dialog Act Labeling Guide", 
+      "url": "https://www.semanticscholar.org/paper/e8cb114b328711d2502e3502f29830562fd2b46c"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "0d833ccbc824e81891e55baa2da6318e9651956a", 
+      "title": "Detection Of Agreement vs. Disagreement In Meetings: Training With Unlabeled Data", 
+      "url": "https://www.semanticscholar.org/paper/0d833ccbc824e81891e55baa2da6318e9651956a"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "02b287d0f3d4089d9b0707a440367e3e403f131e", 
+      "title": "Dialogue Act Modeling for Automatic Tagging and Recognition of Conversational Speech", 
+      "url": "https://www.semanticscholar.org/paper/02b287d0f3d4089d9b0707a440367e3e403f131e"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "74efd3b1fcad73465c91cd8934a2cab52355b0be", 
+      "title": "The ICSI Meeting Recorder Dialog Act (MRDA) Corpus", 
+      "url": "https://www.semanticscholar.org/paper/74efd3b1fcad73465c91cd8934a2cab52355b0be"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "346bcbebafd193aba689269da2de51bfaf163df2", 
+      "title": "Discriminative Reranking for Natural Language Parsing", 
+      "url": "https://www.semanticscholar.org/paper/346bcbebafd193aba689269da2de51bfaf163df2"
+    }
+  ], 
+  "title": "Identifying Agreement and Disagreement in Conversational Speech: Use of Bayesian Networks to Model Pragmatic Dependencies", 
+  "url": "https://www.semanticscholar.org/paper/18d079a6d72e3f0b0c9214f597b6b178265b05ee", 
+  "venue": "ACL"
+}

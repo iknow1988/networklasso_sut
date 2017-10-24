@@ -1,0 +1,546 @@
+{
+  "authors": [
+    {
+      "authorId": "1682467", 
+      "name": "Qi Li", 
+      "url": "https://www.semanticscholar.org/author/1682467"
+    }, 
+    {
+      "authorId": "1739737", 
+      "name": "Heng Ji", 
+      "url": "https://www.semanticscholar.org/author/1739737"
+    }, 
+    {
+      "authorId": "1799319", 
+      "name": "Liang Huang", 
+      "url": "https://www.semanticscholar.org/author/1799319"
+    }
+  ], 
+  "citationVelocity": 21, 
+  "citations": [
+    {
+      "isInfluential": true, 
+      "paperId": "97110e722afc309693225b0775d03255d82fc6cf", 
+      "title": "Comparable Study of Event Extraction in Newswire and Biomedical Domains", 
+      "url": "https://www.semanticscholar.org/paper/97110e722afc309693225b0775d03255d82fc6cf"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "11c4c3f8fbd35e8d9e6000b0d8bc56179fbec73a", 
+      "title": "Joint Information Extraction", 
+      "url": "https://www.semanticscholar.org/paper/11c4c3f8fbd35e8d9e6000b0d8bc56179fbec73a"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "582d3b98ee50878542214ee751a51d98dd24399f", 
+      "title": "A Language-Independent Neural Network for Event Detection", 
+      "url": "https://www.semanticscholar.org/paper/582d3b98ee50878542214ee751a51d98dd24399f"
+    }, 
+    {
+      "isInfluential": true, 
+      "paperId": "0daf1d509a3619a078ead2413557fbb523f0663f", 
+      "title": "Improving Event Extraction : Casting a Wider Net", 
+      "url": "https://www.semanticscholar.org/paper/0daf1d509a3619a078ead2413557fbb523f0663f"
+    }, 
+    {
+      "isInfluential": true, 
+      "paperId": "63df1b69f661191f27eb3237503e44957f301d24", 
+      "title": "Improving Event Detection with Dependency Regularization", 
+      "url": "https://www.semanticscholar.org/paper/63df1b69f661191f27eb3237503e44957f301d24"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "8901e50f120d6fd705826ed8c13ce1109c85ae81", 
+      "title": "Evaluation Algorithms for Event Nugget Detection : A Pilot Study", 
+      "url": "https://www.semanticscholar.org/paper/8901e50f120d6fd705826ed8c13ce1109c85ae81"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "6df8cd4c69e75b286b1ba27417fd41a21d4982e1", 
+      "title": "Event Detection and Co-reference with Minimal Supervision", 
+      "url": "https://www.semanticscholar.org/paper/6df8cd4c69e75b286b1ba27417fd41a21d4982e1"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "b4046f9a42f5bc05c3f863e579f732e2c591b326", 
+      "title": "Zero-Shot Transfer Learning for Event Extraction", 
+      "url": "https://www.semanticscholar.org/paper/b4046f9a42f5bc05c3f863e579f732e2c591b326"
+    }, 
+    {
+      "isInfluential": true, 
+      "paperId": "fc5b90ec6a64145594e2fa4b2543b0d9a10906ff", 
+      "title": "Modeling Skip-Grams for Event Detection with Convolutional Neural Networks", 
+      "url": "https://www.semanticscholar.org/paper/fc5b90ec6a64145594e2fa4b2543b0d9a10906ff"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "07e5d4ec26c9de4d7ba46e6d9af605a5cd15444d", 
+      "title": "Probabilistic graphical models for multi-source fusion from text sources", 
+      "url": "https://www.semanticscholar.org/paper/07e5d4ec26c9de4d7ba46e6d9af605a5cd15444d"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "560e26ff4c9d723e0ccb89820cfe4b2df7ec8b1a", 
+      "title": "Semi-Supervised Events Clustering in News Retrieval", 
+      "url": "https://www.semanticscholar.org/paper/560e26ff4c9d723e0ccb89820cfe4b2df7ec8b1a"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "335ad0ff82c728aca99fb0059c607cb18129526f", 
+      "title": "Bring you to the past: Automatic Generation of Topically Relevant Event Chronicles", 
+      "url": "https://www.semanticscholar.org/paper/335ad0ff82c728aca99fb0059c607cb18129526f"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "7942655c7510baf5e81189d58ef88ca730800804", 
+      "title": "Using Structured Events to Predict Stock Price Movement: An Empirical Investigation", 
+      "url": "https://www.semanticscholar.org/paper/7942655c7510baf5e81189d58ef88ca730800804"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "6b660cf4681fed42c189b49a9019176cc847ed40", 
+      "title": "Cross-genre Event Extraction with Knowledge Enrichment", 
+      "url": "https://www.semanticscholar.org/paper/6b660cf4681fed42c189b49a9019176cc847ed40"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "360057f0334732594fadcdcdeaffd78533a5b3ab", 
+      "title": "Cross-media Cross-genre Information Ranking Multi-media Information Networks", 
+      "url": "https://www.semanticscholar.org/paper/360057f0334732594fadcdcdeaffd78533a5b3ab"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "39ab36ade6e422a0c9103309a5bc6ee588548f46", 
+      "title": "Event Nugget Detection with Forward-Backward Recurrent Neural Networks", 
+      "url": "https://www.semanticscholar.org/paper/39ab36ade6e422a0c9103309a5bc6ee588548f46"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "2d425abfdc3d2454ce4e80dffb88102ac4672f09", 
+      "title": "Building a Cross-document Event-Event Relation Corpus", 
+      "url": "https://www.semanticscholar.org/paper/2d425abfdc3d2454ce4e80dffb88102ac4672f09"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "b41e774fc2a41982a94d41d4f6c1c75658c2cefa", 
+      "title": "Abstractive News Summarization based on Event Semantic Link Network", 
+      "url": "https://www.semanticscholar.org/paper/b41e774fc2a41982a94d41d4f6c1c75658c2cefa"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "5a28ece4473cf88986df10a29cc6d6d1a58bb787", 
+      "title": "Hierarchical MT Training using Max-Violation Perceptron", 
+      "url": "https://www.semanticscholar.org/paper/5a28ece4473cf88986df10a29cc6d6d1a58bb787"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "9307c8d2c73dfe83aeb94d18f9950c7879e93c87", 
+      "title": "Seed-Based Event Trigger Labeling: How far can event descriptions get us?", 
+      "url": "https://www.semanticscholar.org/paper/9307c8d2c73dfe83aeb94d18f9950c7879e93c87"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "6f146e69fcebfb07ec1625b9e5591b0f7f483a42", 
+      "title": "Joint Event Trigger Identification and Event Coreference Resolution with Structured Perceptron", 
+      "url": "https://www.semanticscholar.org/paper/6f146e69fcebfb07ec1625b9e5591b0f7f483a42"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "5e3c63bb48ff42daf14646971e5753c1ee4a8e67", 
+      "title": "RPI-BLENDER TAC-KBP2013 Knowledge Base Population System", 
+      "url": "https://www.semanticscholar.org/paper/5e3c63bb48ff42daf14646971e5753c1ee4a8e67"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "048e82ac9c88c458a50cc6289662e9cb2ecb4fc9", 
+      "title": "A Multiple Instance Learning Framework for Identifying Key Sentences and Detecting Events", 
+      "url": "https://www.semanticscholar.org/paper/048e82ac9c88c458a50cc6289662e9cb2ecb4fc9"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "8190ae956dcae5c1de89728b3940c6020a7d0781", 
+      "title": "Event Nugget Detection using Thresholding and Classification Techniques", 
+      "url": "https://www.semanticscholar.org/paper/8190ae956dcae5c1de89728b3940c6020a7d0781"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "4b41ab90c3f10cb883dbca89d64827ca1c7e6e6a", 
+      "title": "The Nature of Communications and Emerging Communities on Twitter Following the 2013 Syria Sarin Gas Attacks", 
+      "url": "https://www.semanticscholar.org/paper/4b41ab90c3f10cb883dbca89d64827ca1c7e6e6a"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "bac01bd360af9d3211c26cf93ae99448e1f153fb", 
+      "title": "Minimally Supervised Chinese Event Extraction from Multiple Views", 
+      "url": "https://www.semanticscholar.org/paper/bac01bd360af9d3211c26cf93ae99448e1f153fb"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "2325c1c0bdd10860f44e7593dd14d64a9d214acc", 
+      "title": "Leveraging Multilingual Training for Limited Resource Event Extraction", 
+      "url": "https://www.semanticscholar.org/paper/2325c1c0bdd10860f44e7593dd14d64a9d214acc"
+    }, 
+    {
+      "isInfluential": true, 
+      "paperId": "3d15488a72dc5314e685438400d7d9af660d2d69", 
+      "title": "Improving Event Detection with Active Learning", 
+      "url": "https://www.semanticscholar.org/paper/3d15488a72dc5314e685438400d7d9af660d2d69"
+    }, 
+    {
+      "isInfluential": true, 
+      "paperId": "3a230b920825e2af7706814eaf193cf08614f558", 
+      "title": "Joint Extraction of Events and Entities within a Document Context", 
+      "url": "https://www.semanticscholar.org/paper/3a230b920825e2af7706814eaf193cf08614f558"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "893856a5cde0c0a16c18f589d2f3009bb808e52e", 
+      "title": "HC-Search: A Learning Framework for Search-based Structured Prediction", 
+      "url": "https://www.semanticscholar.org/paper/893856a5cde0c0a16c18f589d2f3009bb808e52e"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "1c89f2ee8889f104e898adc0607571c343ab68fb", 
+      "title": "Cross-document Event Coreference Resolution based on Cross-media Features", 
+      "url": "https://www.semanticscholar.org/paper/1c89f2ee8889f104e898adc0607571c343ab68fb"
+    }, 
+    {
+      "isInfluential": true, 
+      "paperId": "536cdcb5d9dd751befe151cc1151c916d345c4d5", 
+      "title": "Joint Event Extraction via Recurrent Neural Networks", 
+      "url": "https://www.semanticscholar.org/paper/536cdcb5d9dd751befe151cc1151c916d345c4d5"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "8185596da0938aa976fcf255fd983399177bb5ea", 
+      "title": "A survey of event detection techniques in online social networks", 
+      "url": "https://www.semanticscholar.org/paper/8185596da0938aa976fcf255fd983399177bb5ea"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "37aa8f8c494cbd5c8a08ce393bd5d80fa2c40af3", 
+      "title": "Synthesizing Social Media Data Using Information Morphing", 
+      "url": "https://www.semanticscholar.org/paper/37aa8f8c494cbd5c8a08ce393bd5d80fa2c40af3"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "39cc240b6e359071fe1ddaac22473eb354f85a00", 
+      "title": "The Gun Violence Database: A new task and data set for NLP", 
+      "url": "https://www.semanticscholar.org/paper/39cc240b6e359071fe1ddaac22473eb354f85a00"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "f30ad2a3e813cfee93d5e2855f7b499a91be3c54", 
+      "title": "Event Detection and Semantic Storytelling: Generating a Travelogue from a large Collection of Personal Letters", 
+      "url": "https://www.semanticscholar.org/paper/f30ad2a3e813cfee93d5e2855f7b499a91be3c54"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "622835e3ad4e7f1161c65f9898243558ef8a4b79", 
+      "title": "Word Sense Disambiguation via PropStore and OntoNotes for Event Mention Detection", 
+      "url": "https://www.semanticscholar.org/paper/622835e3ad4e7f1161c65f9898243558ef8a4b79"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "07754880c0d4f23c2e671549ade5ff05a2087596", 
+      "title": "Liberal Event Extraction and Event Schema Induction", 
+      "url": "https://www.semanticscholar.org/paper/07754880c0d4f23c2e671549ade5ff05a2087596"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "729d09e850b0045a13cb5279d387190b0ec5ad0b", 
+      "title": "Bilingual Event Extraction: a Case Study on Trigger Type Determination", 
+      "url": "https://www.semanticscholar.org/paper/729d09e850b0045a13cb5279d387190b0ec5ad0b"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "82319e3da75505b61033dd90608ccb4edf5756d7", 
+      "title": "Unsupervised Techniques for Extracting and Clustering Complex Events in News", 
+      "url": "https://www.semanticscholar.org/paper/82319e3da75505b61033dd90608ccb4edf5756d7"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "242e786b439aa8bc138902fbf003151f78885a77", 
+      "title": "Joint Mention Extraction and Classification with Mention Hypergraphs", 
+      "url": "https://www.semanticscholar.org/paper/242e786b439aa8bc138902fbf003151f78885a77"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "2e21b0c06983f69401d191dcf963f79a6a5c9521", 
+      "title": "Prune-and-Score: Learning for Greedy Coreference Resolution", 
+      "url": "https://www.semanticscholar.org/paper/2e21b0c06983f69401d191dcf963f79a6a5c9521"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "59d2422451f5c0193874f0f6ebf8b5c4353a403f", 
+      "title": "Event Extraction for Document-Level Structured Summarization", 
+      "url": "https://www.semanticscholar.org/paper/59d2422451f5c0193874f0f6ebf8b5c4353a403f"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "80368e9da4ded1dc400c458880cf45830d88cb36", 
+      "title": "Business Event Extraction System Based on SSVM", 
+      "url": "https://www.semanticscholar.org/paper/80368e9da4ded1dc400c458880cf45830d88cb36"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "122063cbbdbc156bb6ed58e637eda244d77f0310", 
+      "title": "Improving Event Extraction by Discourse-guided and Multi-faceted Event Recognition", 
+      "url": "https://www.semanticscholar.org/paper/122063cbbdbc156bb6ed58e637eda244d77f0310"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "e8f92b864af07794621fb6138cffb39c9a20e56f", 
+      "title": "Improving Information Extraction by Discourse-guided and Multifaceted Event Recognition", 
+      "url": "https://www.semanticscholar.org/paper/e8f92b864af07794621fb6138cffb39c9a20e56f"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "238bd48bba0b9bf291df29c15949e6ec9ba65a10", 
+      "title": "Learning to Extract Events from Knowledge Base Revisions", 
+      "url": "https://www.semanticscholar.org/paper/238bd48bba0b9bf291df29c15949e6ec9ba65a10"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "529341eb910ca5125b4aa6aa83bfc5fc8bf44fe3", 
+      "title": "V&L Net 2014 The 3rd Annual Meeting Of The EPSRC Network On Vision & Language and The 1st Technical Meeting of the European Network on Integrating Vision and Language", 
+      "url": "https://www.semanticscholar.org/paper/529341eb910ca5125b4aa6aa83bfc5fc8bf44fe3"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "36f3071bc010993ef7b31a25a19267508d41f64b", 
+      "title": "The Wisdom of Minority: Unsupervised Slot Filling Validation based on Multi-dimensional Truth-Finding", 
+      "url": "https://www.semanticscholar.org/paper/36f3071bc010993ef7b31a25a19267508d41f64b"
+    }, 
+    {
+      "isInfluential": true, 
+      "paperId": "6b22427ef12b76ee0b3f7ddea3e40371a1666481", 
+      "title": "Event Extraction as Frame-Semantic Parsing", 
+      "url": "https://www.semanticscholar.org/paper/6b22427ef12b76ee0b3f7ddea3e40371a1666481"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "1475d10a7b5d777fb411cdbb2740f574e32fd2f6", 
+      "title": "A Unified Bayesian Model of Scripts, Frames and Language", 
+      "url": "https://www.semanticscholar.org/paper/1475d10a7b5d777fb411cdbb2740f574e32fd2f6"
+    }, 
+    {
+      "isInfluential": true, 
+      "paperId": "6ea2fb558f085b486719a32b7ee4083eb553df95", 
+      "title": "Relieving the Computational Bottleneck: Joint Inference for Event Extraction with High-Dimensional Features", 
+      "url": "https://www.semanticscholar.org/paper/6ea2fb558f085b486719a32b7ee4083eb553df95"
+    }, 
+    {
+      "isInfluential": true, 
+      "paperId": "30d42515df2900edce9b386ea17e4a4e2584fd4c", 
+      "title": "Event Detection and Domain Adaptation with Convolutional Neural Networks", 
+      "url": "https://www.semanticscholar.org/paper/30d42515df2900edce9b386ea17e4a4e2584fd4c"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "19aebf03245bcd0efa93fcc9d91e700da1bf2091", 
+      "title": "Incremental Joint Extraction of Entity Mentions and Relations", 
+      "url": "https://www.semanticscholar.org/paper/19aebf03245bcd0efa93fcc9d91e700da1bf2091"
+    }, 
+    {
+      "isInfluential": true, 
+      "paperId": "1cdab4d7c427b8a22273babe2518af37241e0ed5", 
+      "title": "Improving Event Detection with Abstract Meaning Representation", 
+      "url": "https://www.semanticscholar.org/paper/1cdab4d7c427b8a22273babe2518af37241e0ed5"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "191896dd48d01485ccfaa695e7e464b082974ef5", 
+      "title": "Leveraging FrameNet to Improve Automatic Event Detection", 
+      "url": "https://www.semanticscholar.org/paper/191896dd48d01485ccfaa695e7e464b082974ef5"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "f4bb655825fb5efd21655bf94cf8cd78103be959", 
+      "title": "Incremental Global Event Extraction", 
+      "url": "https://www.semanticscholar.org/paper/f4bb655825fb5efd21655bf94cf8cd78103be959"
+    }, 
+    {
+      "isInfluential": true, 
+      "paperId": "ca70480f908ec60438e91a914c1075b9954e7834", 
+      "title": "Event Extraction via Dynamic Multi-Pooling Convolutional Neural Networks", 
+      "url": "https://www.semanticscholar.org/paper/ca70480f908ec60438e91a914c1075b9954e7834"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "23c52b4a361ff48401c0171b9a2d6b3ab66fc1d2", 
+      "title": "Encoding Relation Requirements for Relation Extraction via Joint Inference", 
+      "url": "https://www.semanticscholar.org/paper/23c52b4a361ff48401c0171b9a2d6b3ab66fc1d2"
+    }, 
+    {
+      "isInfluential": true, 
+      "paperId": "f8042cd714dcfa36b67c1243df4bd5f591d8e661", 
+      "title": "Optimal Hyperparameters for Deep LSTM-Networks for Sequence Labeling Tasks", 
+      "url": "https://www.semanticscholar.org/paper/f8042cd714dcfa36b67c1243df4bd5f591d8e661"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "b3992fbe97d3b4798661cb54c2d079f67af462dc", 
+      "title": "Leveraging Dependency Regularization for Event Extraction", 
+      "url": "https://www.semanticscholar.org/paper/b3992fbe97d3b4798661cb54c2d079f67af462dc"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "e04c3d15bdd95fa1137115cba79791a3ba6cab1f", 
+      "title": "Structured learning for spatial information extraction from biomedical text: bacteria biotopes", 
+      "url": "https://www.semanticscholar.org/paper/e04c3d15bdd95fa1137115cba79791a3ba6cab1f"
+    }, 
+    {
+      "isInfluential": true, 
+      "paperId": "14e8581100bb3a6e4d71caa906e7bbcec569db3f", 
+      "title": "RBPB: Regularization-Based Pattern Balancing Method for Event Extraction", 
+      "url": "https://www.semanticscholar.org/paper/14e8581100bb3a6e4d71caa906e7bbcec569db3f"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "5952dc659a159022dbff4d5e99942dbf8fc7cbd2", 
+      "title": "Social event extraction: Task, challenges and techniques", 
+      "url": "https://www.semanticscholar.org/paper/5952dc659a159022dbff4d5e99942dbf8fc7cbd2"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "a1e7511e1c8bab4440b3f653883b2263d2b5efad", 
+      "title": "Transition-Based Parsing for Deep Dependency Structures", 
+      "url": "https://www.semanticscholar.org/paper/a1e7511e1c8bab4440b3f653883b2263d2b5efad"
+    }
+  ], 
+  "doi": null, 
+  "influentialCitationCount": 14, 
+  "paperId": "4c38534dcd8ff4ab0c054bba8408078284162d69", 
+  "references": [
+    {
+      "isInfluential": false, 
+      "paperId": "05c23cf46bd1da24fd1d718c25cb929e629b72dd", 
+      "title": "Joint Modeling for Chinese Event Extraction with Rich Linguistic Features", 
+      "url": "https://www.semanticscholar.org/paper/05c23cf46bd1da24fd1d718c25cb929e629b72dd"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "1a6c5a1d99ddd1de0ff0681e13fd73f9771cd2fc", 
+      "title": "Semi-supervised Relation Extraction with Large-scale Word Clustering", 
+      "url": "https://www.semanticscholar.org/paper/1a6c5a1d99ddd1de0ff0681e13fd73f9771cd2fc"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "ad269ba941949a1d66b6649a71d752784c576dc3", 
+      "title": "Name Tagging with Word Clusters and Discriminative Training", 
+      "url": "https://www.semanticscholar.org/paper/ad269ba941949a1d66b6649a71d752784c576dc3"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "f98ebc10ce8c48020d21cca041de2a3346ce31d9", 
+      "title": "Refining Event Extraction through Cross-Document Inference", 
+      "url": "https://www.semanticscholar.org/paper/f98ebc10ce8c48020d21cca041de2a3346ce31d9"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "2c468f4ae49218a3ddcd688f604b7c4970bef885", 
+      "title": "Robust Biomedical Event Extraction with Dual Decomposition and Minimal Domain Adaptation", 
+      "url": "https://www.semanticscholar.org/paper/2c468f4ae49218a3ddcd688f604b7c4970bef885"
+    }, 
+    {
+      "isInfluential": true, 
+      "paperId": "e17a4ce03444b4cf8b11122ff980b6f2e3ec9b8e", 
+      "title": "Using Cross-Entity Inference to Improve Event Extraction", 
+      "url": "https://www.semanticscholar.org/paper/e17a4ce03444b4cf8b11122ff980b6f2e3ec9b8e"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "c8687ca5543bf32a9718627df5cd0fcabaacc61c", 
+      "title": "The Stages Of Event Extraction", 
+      "url": "https://www.semanticscholar.org/paper/c8687ca5543bf32a9718627df5cd0fcabaacc61c"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "f00b7db20c7b65292c4536cc82ad6bdb8e4afd04", 
+      "title": "Employing Compositional Semantics and Discourse Consistency in Chinese Event Extraction", 
+      "url": "https://www.semanticscholar.org/paper/f00b7db20c7b65292c4536cc82ad6bdb8e4afd04"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "32a437ecdc20cc76c01e37c08920317ea18fde50", 
+      "title": "Generating Typed Dependency Parses from Phrase Structure Parses", 
+      "url": "https://www.semanticscholar.org/paper/32a437ecdc20cc76c01e37c08920317ea18fde50"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "4b0983f8864f0599c93b1168aefd443877ea1bca", 
+      "title": "Event Extraction as Dependency Parsing", 
+      "url": "https://www.semanticscholar.org/paper/4b0983f8864f0599c93b1168aefd443877ea1bca"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "0522fe54873bfccc71a2ed83caf0cbaacc63603f", 
+      "title": "A Unified Model of Phrasal and Sentential Evidence for Information Extraction", 
+      "url": "https://www.semanticscholar.org/paper/0522fe54873bfccc71a2ed83caf0cbaacc63603f"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "41828fc3dab24784f95e6976e8aaa73f68e1840e", 
+      "title": "Incremental Parsing with the Perceptron Algorithm", 
+      "url": "https://www.semanticscholar.org/paper/41828fc3dab24784f95e6976e8aaa73f68e1840e"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "859af6e67aec769c58ec1ea6a971108a60df0b9d", 
+      "title": "Structured Perceptron with Inexact Search", 
+      "url": "https://www.semanticscholar.org/paper/859af6e67aec769c58ec1ea6a971108a60df0b9d"
+    }, 
+    {
+      "isInfluential": true, 
+      "paperId": "2c1f12b287338f6ef206c46e134c427c16427192", 
+      "title": "Using Document Level Cross-Event Inference to Improve Event Extraction", 
+      "url": "https://www.semanticscholar.org/paper/2c1f12b287338f6ef206c46e134c427c16427192"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "32261c8fa61e70ebfb10e4fa4767cc415613d942", 
+      "title": "NOMLEX: A Lexicon of Nominalizations", 
+      "url": "https://www.semanticscholar.org/paper/32261c8fa61e70ebfb10e4fa4767cc415613d942"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "37dc166f8162bc2515026ebaeda522f7e0d7ad42", 
+      "title": "Joint bilingual name tagging for parallel corpora", 
+      "url": "https://www.semanticscholar.org/paper/37dc166f8162bc2515026ebaeda522f7e0d7ad42"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "984f56887b535dfeb8528a07b722d0e4f1d9fc2c", 
+      "title": "A Markov Logic Approach to Bio-Molecular Event Extraction", 
+      "url": "https://www.semanticscholar.org/paper/984f56887b535dfeb8528a07b722d0e4f1d9fc2c"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "783480acff435bfbc15ffcdb4f15eccddaa0c810", 
+      "title": "Class-Based n-gram Models of Natural Language", 
+      "url": "https://www.semanticscholar.org/paper/783480acff435bfbc15ffcdb4f15eccddaa0c810"
+    }, 
+    {
+      "isInfluential": true, 
+      "paperId": "3b8e7c8220d3883d54960d896a73045f3c70ac17", 
+      "title": "Discriminative Training Methods For Hidden Markov Models: Theory And Experiments With Perceptron Algorithms", 
+      "url": "https://www.semanticscholar.org/paper/3b8e7c8220d3883d54960d896a73045f3c70ac17"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "96e780c6684634715f9d5b4f917b651f33c2dc48", 
+      "title": "Language Specific Issue and Feature Exploration in Chinese Event Extraction", 
+      "url": "https://www.semanticscholar.org/paper/96e780c6684634715f9d5b4f917b651f33c2dc48"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "07fe26f10ab2eb7ba7ad7df5096813c949dcabc9", 
+      "title": "Fast and Robust Joint Models for Biomedical Event Extraction", 
+      "url": "https://www.semanticscholar.org/paper/07fe26f10ab2eb7ba7ad7df5096813c949dcabc9"
+    }
+  ], 
+  "title": "Joint Event Extraction via Structured Prediction with Global Features", 
+  "url": "https://www.semanticscholar.org/paper/4c38534dcd8ff4ab0c054bba8408078284162d69", 
+  "venue": "ACL"
+}

@@ -1,0 +1,823 @@
+{
+  "authors": [
+    {
+      "authorId": "1782222", 
+      "name": "Changhua Yang", 
+      "url": "https://www.semanticscholar.org/author/1782222"
+    }, 
+    {
+      "authorId": "1733969", 
+      "name": "Kevin Hsin-Yih Lin", 
+      "url": "https://www.semanticscholar.org/author/1733969"
+    }, 
+    {
+      "authorId": "1748891", 
+      "name": "Hsin-Hsi Chen", 
+      "url": "https://www.semanticscholar.org/author/1748891"
+    }
+  ], 
+  "citationVelocity": 0, 
+  "citations": [
+    {
+      "isInfluential": false, 
+      "paperId": "6d06c38ae5d8d94c5bec4fadc41d6550b78b7859", 
+      "title": "Harnessing Twitter \"Big Data\" for Automatic Emotion Identification", 
+      "url": "https://www.semanticscholar.org/paper/6d06c38ae5d8d94c5bec4fadc41d6550b78b7859", 
+      "venue": "SocialCom/PASSAT", 
+      "year": 2012
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "f24b4b671919c5e93f8bf8053b8518699fdc1f61", 
+      "title": "Chinese SNS blog classification using semantic similarity", 
+      "url": "https://www.semanticscholar.org/paper/f24b4b671919c5e93f8bf8053b8518699fdc1f61", 
+      "venue": "2013 Fifth International Conference on Computational Aspects of Social Networks", 
+      "year": 2013
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "92f89bab358302bca80ff4c28c2ab583b3a30869", 
+      "title": "\u90e8\u843d\u5ba2\u6182\u9b31\u50be\u5411\u5206\u6790\u8207\u9810\u6e2c(Analysis and Prediction of Blogger's Depression Tendency)[In Chinese]", 
+      "url": "https://www.semanticscholar.org/paper/92f89bab358302bca80ff4c28c2ab583b3a30869", 
+      "venue": "ROCLING", 
+      "year": 2015
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "c8abe51543910bc1ac478341d6aae17e65baf29f", 
+      "title": "Analyzing Emotion in Blog and News at Word and Sentence Level", 
+      "url": "https://www.semanticscholar.org/paper/c8abe51543910bc1ac478341d6aae17e65baf29f", 
+      "venue": "IICAI", 
+      "year": 2009
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "773dd632f52355eb4f7cb61ae160a10e7acce001", 
+      "title": "Harnessing Twitter &#x0022;Big Data&#x0022; for Automatic Emotion Identification", 
+      "url": "https://www.semanticscholar.org/paper/773dd632f52355eb4f7cb61ae160a10e7acce001", 
+      "venue": "2012 International Conference on Privacy, Security, Risk and Trust and 2012 International Confernece on Social Computing", 
+      "year": 2012
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "a6daa07617f93b4e480ec8ab2e480277866cbf83", 
+      "title": "Towards Text-based Emotion Detection A Survey and Possible Improvements", 
+      "url": "https://www.semanticscholar.org/paper/a6daa07617f93b4e480ec8ab2e480277866cbf83", 
+      "venue": "2009 International Conference on Information Management and Engineering", 
+      "year": 2009
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "e69b691fc78a3ca094a3df1d6a041dde006b303e", 
+      "title": "Review Classification Using Semantic Features and Run-Time Weighting", 
+      "url": "https://www.semanticscholar.org/paper/e69b691fc78a3ca094a3df1d6a041dde006b303e", 
+      "venue": "PACLIC", 
+      "year": 2009
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "003d07e1a649ad6bc58033d59c1b8b1cb443da98", 
+      "title": "OMAM at SemEval-2017 Task 4: English Sentiment Analysis with Conditional Random Fields", 
+      "url": "https://www.semanticscholar.org/paper/003d07e1a649ad6bc58033d59c1b8b1cb443da98", 
+      "venue": "SemEval@ACL", 
+      "year": 2017
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "c161e0cfd3ba14870535ae65d831844c5f43cc4b", 
+      "title": "Facet Classification of Blogs: Know-Center at the TREC 2009 Blog Distillation Task", 
+      "url": "https://www.semanticscholar.org/paper/c161e0cfd3ba14870535ae65d831844c5f43cc4b", 
+      "venue": "TREC", 
+      "year": 2009
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "357a8e4c034fa3f9450169495bf7580a993f12e7", 
+      "title": "Summarizing Threads in Blogs Using Opinion Polarity", 
+      "url": "https://www.semanticscholar.org/paper/357a8e4c034fa3f9450169495bf7580a993f12e7", 
+      "venue": "", 
+      "year": 2009
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "e0f5b185b51a1c79b20962d03f8917450f55293f", 
+      "title": "I-CARE: Intelligent Context Aware system for Recognizing Emotions from text", 
+      "url": "https://www.semanticscholar.org/paper/e0f5b185b51a1c79b20962d03f8917450f55293f", 
+      "venue": "2015 10th International Conference on Intelligent Systems: Theories and Applications (SITA)", 
+      "year": 2015
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "f9a8b2c6b8662f9e07a344aa261d31168bbf5c67", 
+      "title": "Learning Sentence Representation for Emotion Classification on Microblogs", 
+      "url": "https://www.semanticscholar.org/paper/f9a8b2c6b8662f9e07a344aa261d31168bbf5c67", 
+      "venue": "NLPCC", 
+      "year": 2013
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "cf8704b6f2f9a25a172270b63f1f1a32baaea7c6", 
+      "title": "Corpus Fusion for Emotion Classification", 
+      "url": "https://www.semanticscholar.org/paper/cf8704b6f2f9a25a172270b63f1f1a32baaea7c6", 
+      "venue": "COLING", 
+      "year": 2016
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "583d6ac4ec01c5ad6d186bb05ff439179e102436", 
+      "title": "An Affective Learning Interface with an Interactive Animated Agent", 
+      "url": "https://www.semanticscholar.org/paper/583d6ac4ec01c5ad6d186bb05ff439179e102436", 
+      "venue": "2012 IEEE Fourth International Conference On Digital Game And Intelligent Toy Enhanced Learning", 
+      "year": 2012
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "5447a50e8165f70a7b4846c9bfd36a2b1a5a9eef", 
+      "title": "INTERNATIONAL WORKSHOP EvENTS IN EmERgINg", 
+      "url": "https://www.semanticscholar.org/paper/5447a50e8165f70a7b4846c9bfd36a2b1a5a9eef", 
+      "venue": "", 
+      "year": 2009
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "dc45c9ac18db88b415a98599b9b3706f3597d0ea", 
+      "title": "Emotion Modeling from Writer/Reader Perspectives Using a Microblog Dataset", 
+      "url": "https://www.semanticscholar.org/paper/dc45c9ac18db88b415a98599b9b3706f3597d0ea", 
+      "venue": "", 
+      "year": 2011
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "f896186e0387c13a8823628229b8edfaebac4698", 
+      "title": "VisLR: Visualization as Added Value in the Development, Use and Evaluation of Language Resources Workshop Programme", 
+      "url": "https://www.semanticscholar.org/paper/f896186e0387c13a8823628229b8edfaebac4698", 
+      "venue": "", 
+      "year": 2014
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "3e8b44ac68dec4b0e867eceaf3bd0f7105453be3", 
+      "title": "Latent Support Measure Machines for Bag-of-Words Data Classification", 
+      "url": "https://www.semanticscholar.org/paper/3e8b44ac68dec4b0e867eceaf3bd0f7105453be3", 
+      "venue": "NIPS", 
+      "year": 2014
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "0231dd447edfc98331879cb546b03255879a60e8", 
+      "title": "Lexicon Generation for Emotion Detection from Text", 
+      "url": "https://www.semanticscholar.org/paper/0231dd447edfc98331879cb546b03255879a60e8", 
+      "venue": "IEEE Intelligent Systems", 
+      "year": 2017
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "590fd9d83c8e928a8ee72ccbe54564c32170743f", 
+      "title": "Latent Discriminative Models for Social Emotion Detection with Emotional Dependency", 
+      "url": "https://www.semanticscholar.org/paper/590fd9d83c8e928a8ee72ccbe54564c32170743f", 
+      "venue": "ACM Trans. Inf. Syst.", 
+      "year": 2015
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "ad8a7f620a57478ff70045f97abc7aec9687ccbd", 
+      "title": "Twitter as a Corpus for Sentiment Analysis and Opinion Mining", 
+      "url": "https://www.semanticscholar.org/paper/ad8a7f620a57478ff70045f97abc7aec9687ccbd", 
+      "venue": "LREC", 
+      "year": 2010
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "35b257d838506a60f9b2be713b297d0b9b34ff4e", 
+      "title": "Word and Sentence Level Emotion Analyzation in Telugu Blog and News", 
+      "url": "https://www.semanticscholar.org/paper/35b257d838506a60f9b2be713b297d0b9b34ff4e", 
+      "venue": "", 
+      "year": 2012
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "28e1e18b974adfb1af3ad6a00183b832e06de80f", 
+      "title": "Topic Classification of Blog Posts Using Distant Supervision", 
+      "url": "https://www.semanticscholar.org/paper/28e1e18b974adfb1af3ad6a00183b832e06de80f", 
+      "venue": "", 
+      "year": 2012
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "041cf51da97aa1dd7ed055ed925f76960f9acedd", 
+      "title": "On the Practicality of Integrity Attacks on Document-Level Sentiment Analysis", 
+      "url": "https://www.semanticscholar.org/paper/041cf51da97aa1dd7ed055ed925f76960f9acedd", 
+      "venue": "AISec@CCS", 
+      "year": 2014
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "b5deb3bd677ceb04e1e14305f94ae5e3ff19c1c7", 
+      "title": "Multi-source Emotion Tagging for Online News", 
+      "url": "https://www.semanticscholar.org/paper/b5deb3bd677ceb04e1e14305f94ae5e3ff19c1c7", 
+      "venue": "2015 12th Web Information System and Application Conference (WISA)", 
+      "year": 2015
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "9dcd60fa11d4e6bee0fc06405e3a9ac83c89203c", 
+      "title": "Detecting Emotions in Social Media: A Constrained Optimization Approach", 
+      "url": "https://www.semanticscholar.org/paper/9dcd60fa11d4e6bee0fc06405e3a9ac83c89203c", 
+      "venue": "IJCAI", 
+      "year": 2015
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "4496917de88ecda5e41cf290dc904bd0de4eccb6", 
+      "title": "Mining Social Emotions from Affective Text", 
+      "url": "https://www.semanticscholar.org/paper/4496917de88ecda5e41cf290dc904bd0de4eccb6", 
+      "venue": "IEEE Transactions on Knowledge and Data Engineering", 
+      "year": 2012
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "1f8eb8f4ff564d44c666c73708caaa3259ded4d1", 
+      "title": "Enhanced News-reading: Interactive and Visual Integration of Social Media Information", 
+      "url": "https://www.semanticscholar.org/paper/1f8eb8f4ff564d44c666c73708caaa3259ded4d1", 
+      "venue": "", 
+      "year": 2015
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "3aa7d3f821dfd63074b77f06bbfe10038bf008b7", 
+      "title": "Emotion Detection from Text", 
+      "url": "https://www.semanticscholar.org/paper/3aa7d3f821dfd63074b77f06bbfe10038bf008b7", 
+      "venue": "ArXiv", 
+      "year": 2012
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "9c01dbaf82bb597ce9c279f74e507a469ca22685", 
+      "title": "Meme diffusion through mass social media", 
+      "url": "https://www.semanticscholar.org/paper/9c01dbaf82bb597ce9c279f74e507a469ca22685", 
+      "venue": "", 
+      "year": 2014
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "2f48e9b2a2378ce3f5aaabc3976f18617decfe73", 
+      "title": "Fast learning for sentiment analysis on bullying", 
+      "url": "https://www.semanticscholar.org/paper/2f48e9b2a2378ce3f5aaabc3976f18617decfe73", 
+      "venue": "WISDOM '12", 
+      "year": 2012
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "00dd287b3c65fb7555c42d44632611c987e3ae11", 
+      "title": "Exploring the Importance of Modification Relation for Emotional Keywords Annotation and Emotion Types Recognition", 
+      "url": "https://www.semanticscholar.org/paper/00dd287b3c65fb7555c42d44632611c987e3ae11", 
+      "venue": "", 
+      "year": 2012
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "c54ec9520068d134d43a3380afa0eea38d94fb43", 
+      "title": "Extracting Emotions from News Headlines", 
+      "url": "https://www.semanticscholar.org/paper/c54ec9520068d134d43a3380afa0eea38d94fb43", 
+      "venue": "", 
+      "year": 2013
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "5b83d6203a4d20f5e0e2477a6f3b9d3a6a1ee147", 
+      "title": "Discovering Fine-grained Sentiment in Suicide Notes", 
+      "url": "https://www.semanticscholar.org/paper/5b83d6203a4d20f5e0e2477a6f3b9d3a6a1ee147", 
+      "venue": "Biomedical informatics insights", 
+      "year": 2012
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "9e1d3d06b03183297dd2b5e32a00d515173ae85f", 
+      "title": "Modeling Non-Standard Text Classification Tasks", 
+      "url": "https://www.semanticscholar.org/paper/9e1d3d06b03183297dd2b5e32a00d515173ae85f", 
+      "venue": "", 
+      "year": 2013
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "7b9d24e2634a87f4fbb0f3fa8575533b2a4275f7", 
+      "title": "Ontology-Based Textual Emotion Detection", 
+      "url": "https://www.semanticscholar.org/paper/7b9d24e2634a87f4fbb0f3fa8575533b2a4275f7", 
+      "venue": "", 
+      "year": 2015
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "e6a6bb13d7c07394f68a6ac431a842eabb12da6b", 
+      "title": "Twitter Bullying Detection", 
+      "url": "https://www.semanticscholar.org/paper/e6a6bb13d7c07394f68a6ac431a842eabb12da6b", 
+      "venue": "", 
+      "year": 2011
+    }, 
+    {
+      "isInfluential": true, 
+      "paperId": "11bd7395563d99cf35c0910f61e6bc2054d1bf01", 
+      "title": "Emotion Analysis from Text: A Survey", 
+      "url": "https://www.semanticscholar.org/paper/11bd7395563d99cf35c0910f61e6bc2054d1bf01", 
+      "venue": "", 
+      "year": 2016
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "77648695f34be354aad02264faacd1005a4a9531", 
+      "title": "\u4e2d\u6587\u77ed\uf906\u4e4b\u60c5\u7dd2\u5206\uf9d0 (Sentiment Classification of Short Chinese Sentences) [In Chinese]", 
+      "url": "https://www.semanticscholar.org/paper/77648695f34be354aad02264faacd1005a4a9531", 
+      "venue": "ROCLING", 
+      "year": 2010
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "3461f6a7864ff540490f32047ed31e616746adab", 
+      "title": "Computational approaches for emotion detection in text", 
+      "url": "https://www.semanticscholar.org/paper/3461f6a7864ff540490f32047ed31e616746adab", 
+      "venue": "4th IEEE International Conference on Digital Ecosystems and Technologies", 
+      "year": 2010
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "ad585d35d6c1bb074bdcbe844722046cf6f4bcd7", 
+      "title": "Machine Classification and Analysis of Suicide-Related Communication on Twitter", 
+      "url": "https://www.semanticscholar.org/paper/ad585d35d6c1bb074bdcbe844722046cf6f4bcd7", 
+      "venue": "HT", 
+      "year": 2015
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "892bc3c4121399db9a63ccf6eb89ed883e3204be", 
+      "title": "Exploring Emotional Words for Chinese Document Chief Emotion Analysis", 
+      "url": "https://www.semanticscholar.org/paper/892bc3c4121399db9a63ccf6eb89ed883e3204be", 
+      "venue": "PACLIC", 
+      "year": 2011
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "7fe6447278c259ef07c9fb8a65db71d73370a65d", 
+      "title": "Suicide Note Sentiment Classification: A Supervised Approach Augmented by Web Data", 
+      "url": "https://www.semanticscholar.org/paper/7fe6447278c259ef07c9fb8a65db71d73370a65d", 
+      "venue": "Biomedical informatics insights", 
+      "year": 2012
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "e5e21f0f9bf4e765219a300a7bd3f19073002548", 
+      "title": "Multi-emotion Detection in User-Generated Reviews", 
+      "url": "https://www.semanticscholar.org/paper/e5e21f0f9bf4e765219a300a7bd3f19073002548", 
+      "venue": "ECIR", 
+      "year": 2015
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "4b3b26800d2ffdaf554c0ae1203952371b620771", 
+      "title": "Emotion Detection using Lexical Chains", 
+      "url": "https://www.semanticscholar.org/paper/4b3b26800d2ffdaf554c0ae1203952371b620771", 
+      "venue": "", 
+      "year": 2012
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "1979a1d782f21370e291eaf433a08004af2a014c", 
+      "title": "Learning Emotion Indicators from Tweets: Hashtags, Hashtag Patterns, and Phrases", 
+      "url": "https://www.semanticscholar.org/paper/1979a1d782f21370e291eaf433a08004af2a014c", 
+      "venue": "EMNLP", 
+      "year": 2014
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "111508c63248fc94cb99b5f2ecedd00867fe11c3", 
+      "title": "HEEM, a Complex Model for Mining Emotions in Historical Text", 
+      "url": "https://www.semanticscholar.org/paper/111508c63248fc94cb99b5f2ecedd00867fe11c3", 
+      "venue": "e-Science", 
+      "year": 2015
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "3d29e7cce70a3892286f8d6fc3d1188d238acc31", 
+      "title": "An ontology-based affective tutoring system on digital arts", 
+      "url": "https://www.semanticscholar.org/paper/3d29e7cce70a3892286f8d6fc3d1188d238acc31", 
+      "venue": "2011 IEEE Workshop on Affective Computational Intelligence (WACI)", 
+      "year": 2011
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "194a68104434050e890e516e412f8437ab60cfe5", 
+      "title": "Twitter Based System: Using Twitter for Disambiguating Sentiment Ambiguous Adjectives", 
+      "url": "https://www.semanticscholar.org/paper/194a68104434050e890e516e412f8437ab60cfe5", 
+      "venue": "SemEval@ACL", 
+      "year": 2010
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "1b45ddf86310fd8e30917c410e958e4cd3b8aae7", 
+      "title": "Automatic generation of emotions for social networking websites using text mining", 
+      "url": "https://www.semanticscholar.org/paper/1b45ddf86310fd8e30917c410e958e4cd3b8aae7", 
+      "venue": "2013 Fourth International Conference on Computing, Communications and Networking Technologies (ICCCNT)", 
+      "year": 2013
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "b8f348b1121b0c0276012b560ab5df2e15a224e2", 
+      "title": "Multiple Emotions Detection in Conversation Transcripts", 
+      "url": "https://www.semanticscholar.org/paper/b8f348b1121b0c0276012b560ab5df2e15a224e2", 
+      "venue": "PACLIC", 
+      "year": 2016
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "42628ebecf7debccb9717251d7d02c9a5d040ecf", 
+      "title": "Emotion Detection from Text Documents", 
+      "url": "https://www.semanticscholar.org/paper/42628ebecf7debccb9717251d7d02c9a5d040ecf", 
+      "venue": "", 
+      "year": 2014
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "c7bacb18f83a3e5bdd60131ae71298a9b9d68e79", 
+      "title": "Beyond Normalization: Pragmatics of Word Form in Text Messages", 
+      "url": "https://www.semanticscholar.org/paper/c7bacb18f83a3e5bdd60131ae71298a9b9d68e79", 
+      "venue": "IJCNLP", 
+      "year": 2011
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "87c9bf9654cceff3113a5c3d29d1b05f141815b3", 
+      "title": "Sentence level emotion tagging", 
+      "url": "https://www.semanticscholar.org/paper/87c9bf9654cceff3113a5c3d29d1b05f141815b3", 
+      "venue": "2009 3rd International Conference on Affective Computing and Intelligent Interaction and Workshops", 
+      "year": 2009
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "a5ad80b643e9cb5a2c0ad8af35d8e149a1ba0eb9", 
+      "title": "Speech information retrieval: a review", 
+      "url": "https://www.semanticscholar.org/paper/a5ad80b643e9cb5a2c0ad8af35d8e149a1ba0eb9", 
+      "venue": "Multimedia Systems", 
+      "year": 2012
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "19193243d9447d99c7a75f9b91f2f2ebeb025fe1", 
+      "title": "Understanding and Fighting Bullying With Machine Learning", 
+      "url": "https://www.semanticscholar.org/paper/19193243d9447d99c7a75f9b91f2f2ebeb025fe1", 
+      "venue": "", 
+      "year": 2015
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "b127714077c41ab14f38106ca97ffc606eba8c31", 
+      "title": "Sentence-Level Emotion and Valence Tagging", 
+      "url": "https://www.semanticscholar.org/paper/b127714077c41ab14f38106ca97ffc606eba8c31", 
+      "venue": "Cognitive Computation", 
+      "year": 2012
+    }, 
+    {
+      "isInfluential": true, 
+      "paperId": "2d47720a8b0825e655a59f142d722924c396563b", 
+      "title": "Emotions on Bengali Blog Texts: Role of Holder and Topic", 
+      "url": "https://www.semanticscholar.org/paper/2d47720a8b0825e655a59f142d722924c396563b", 
+      "venue": "2011 International Conference on Advances in Social Networks Analysis and Mining", 
+      "year": 2011
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "454a04f532bc32b2af286fc8df900a3c6d9ae040", 
+      "title": "Bootstrapped Learning of Emotion Hashtags #hashtags4you", 
+      "url": "https://www.semanticscholar.org/paper/454a04f532bc32b2af286fc8df900a3c6d9ae040", 
+      "venue": "WASSA@NAACL-HLT", 
+      "year": 2013
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "e82bded3e69f8bedcba2cb8fb56f0669ac9a0699", 
+      "title": "A Two-Layer SVM Classification Mechanism for Chinese Blog Article", 
+      "url": "https://www.semanticscholar.org/paper/e82bded3e69f8bedcba2cb8fb56f0669ac9a0699", 
+      "venue": "2011 International Conference on Cyber-Enabled Distributed Computing and Knowledge Discovery", 
+      "year": 2011
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "569e4d0b4b56c6f500e8f98f01b80e10ca33c44f", 
+      "title": "Identification of emotions in text articles through data pre-processing and data mining techniques", 
+      "url": "https://www.semanticscholar.org/paper/569e4d0b4b56c6f500e8f98f01b80e10ca33c44f", 
+      "venue": "2016 International Conference on Advanced Communication Control and Computing Technologies (ICACCCT)", 
+      "year": 2016
+    }, 
+    {
+      "isInfluential": true, 
+      "paperId": "c76dde331280780641832652ce8846b0a3f04fd4", 
+      "title": "Automatic Emotion Identification from Text", 
+      "url": "https://www.semanticscholar.org/paper/c76dde331280780641832652ce8846b0a3f04fd4", 
+      "venue": "", 
+      "year": 2015
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "3ea6c8f36d1741df5ce734c2b14e7d2d248486ce", 
+      "title": "Generating a Word-Emotion Lexicon from #Emotional Tweets", 
+      "url": "https://www.semanticscholar.org/paper/3ea6c8f36d1741df5ce734c2b14e7d2d248486ce", 
+      "venue": "*SEM@COLING", 
+      "year": 2014
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "485f0069571cbf850fc2afe26b1d903f908d7ef6", 
+      "title": "EmoXract: Domain independent emotion mining model for unstructured data", 
+      "url": "https://www.semanticscholar.org/paper/485f0069571cbf850fc2afe26b1d903f908d7ef6", 
+      "venue": "2014 Seventh International Conference on Contemporary Computing (IC3)", 
+      "year": 2014
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "6a6f1b8ef3eefaf8027a76134859b44886a5f795", 
+      "title": "EmoNet: Fine-Grained Emotion Detection with Gated Recurrent Neural Networks", 
+      "url": "https://www.semanticscholar.org/paper/6a6f1b8ef3eefaf8027a76134859b44886a5f795", 
+      "venue": "ACL", 
+      "year": 2017
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "15b1cdc5c580e2740161c190a21c8691d95fb973", 
+      "title": "Web Sentiment Analysis for Scoring Positive or Negative Words using Tweeter Data", 
+      "url": "https://www.semanticscholar.org/paper/15b1cdc5c580e2740161c190a21c8691d95fb973", 
+      "venue": "", 
+      "year": 2014
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "64219399ba63f5d05f7d26f93e66a29e97f28e8b", 
+      "title": "Document Level Emotion Tagging: Machine Learning and Resource Based Approach", 
+      "url": "https://www.semanticscholar.org/paper/64219399ba63f5d05f7d26f93e66a29e97f28e8b", 
+      "venue": "Computaci\u00f3n y Sistemas", 
+      "year": 2011
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "f76d4e7357ad519b5ddadee3417d4e68371b6ff2", 
+      "title": "MemeTube: A Sentiment-based Audiovisual System for Analyzing and Displaying Microblog Messages", 
+      "url": "https://www.semanticscholar.org/paper/f76d4e7357ad519b5ddadee3417d4e68371b6ff2", 
+      "venue": "ACL", 
+      "year": 2011
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "369ee538461a4c5c1f6129b9c06c15c2d0e8b3f1", 
+      "title": "Last but Definitely Not Least: On the Role of the Last Sentence in Automatic Polarity-Classification", 
+      "url": "https://www.semanticscholar.org/paper/369ee538461a4c5c1f6129b9c06c15c2d0e8b3f1", 
+      "venue": "ACL", 
+      "year": 2010
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "ff60524290ee3147da87d05668a548396f64589d", 
+      "title": "Sentence to Document Level Emotion Tagging - A Coarse-Grained Study on Bengali Blogs", 
+      "url": "https://www.semanticscholar.org/paper/ff60524290ee3147da87d05668a548396f64589d", 
+      "venue": "MCPR", 
+      "year": 2010
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "c80478e361ed8f5fd5400fdbd4f6a6f37a2e4b57", 
+      "title": "Emotion Classification in Microblog Texts Using Class Sequential Rules", 
+      "url": "https://www.semanticscholar.org/paper/c80478e361ed8f5fd5400fdbd4f6a6f37a2e4b57", 
+      "venue": "AAAI", 
+      "year": 2014
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "0415b0fd649e08efa312059fb64b898a2e1c1541", 
+      "title": "Approaches towards Emotion Extraction from Text", 
+      "url": "https://www.semanticscholar.org/paper/0415b0fd649e08efa312059fb64b898a2e1c1541", 
+      "venue": "", 
+      "year": 2013
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "80274d578925a70054a05118e501e3b4f3fc997b", 
+      "title": "Friendship Prediction on Social Network Users", 
+      "url": "https://www.semanticscholar.org/paper/80274d578925a70054a05118e501e3b4f3fc997b", 
+      "venue": "2013 International Conference on Social Computing", 
+      "year": 2013
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "1644f693d13893f5e16a21069a017eeacb545fed", 
+      "title": "Opinion Mining and Sentiment Analysis in Social Networks: A Retweeting Structure-Aware Approach", 
+      "url": "https://www.semanticscholar.org/paper/1644f693d13893f5e16a21069a017eeacb545fed", 
+      "venue": "2014 IEEE/ACM 7th International Conference on Utility and Cloud Computing", 
+      "year": 2014
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "d35385caaacc7b45e130d33c73f8ab22d4111a87", 
+      "title": "Temporal Analysis of Sentiment Events - A Visual Realization and Tracking", 
+      "url": "https://www.semanticscholar.org/paper/d35385caaacc7b45e130d33c73f8ab22d4111a87", 
+      "venue": "CICLing", 
+      "year": 2011
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "7a7590f59cc0df9ea0a37b132f9c9826c6311a8c", 
+      "title": "The CLSA Model: A Novel Framework for Concept-Level Sentiment Analysis", 
+      "url": "https://www.semanticscholar.org/paper/7a7590f59cc0df9ea0a37b132f9c9826c6311a8c", 
+      "venue": "CICLing", 
+      "year": 2015
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "377889687e1dcac5abf54d94e341ef199560a283", 
+      "title": "Cross-domain and cross-category emotion tagging for comments of online news", 
+      "url": "https://www.semanticscholar.org/paper/377889687e1dcac5abf54d94e341ef199560a283", 
+      "venue": "SIGIR", 
+      "year": 2014
+    }, 
+    {
+      "isInfluential": true, 
+      "paperId": "c027ec476a3a020825f26885ea7423be571a3a30", 
+      "title": "Emotion Co-referencing - Emotional Expression, Holder, and Topic", 
+      "url": "https://www.semanticscholar.org/paper/c027ec476a3a020825f26885ea7423be571a3a30", 
+      "venue": "IJCLCLP", 
+      "year": 2013
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "d6d134cfe288f82e3a6a52ca5d825027d89a789e", 
+      "title": "Word to Sentence Level Emotion Tagging for Bengali Blogs", 
+      "url": "https://www.semanticscholar.org/paper/d6d134cfe288f82e3a6a52ca5d825027d89a789e", 
+      "venue": "ACL/IJCNLP", 
+      "year": 2009
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "8aa95f2abd4b11b9df5bb67b9366e8832627cf00", 
+      "title": "Sentiment analysis of real-life situations using location, people and time as contextual features", 
+      "url": "https://www.semanticscholar.org/paper/8aa95f2abd4b11b9df5bb67b9366e8832627cf00", 
+      "venue": "2015 International Conference on Big Data and Smart Computing (BIGCOMP)", 
+      "year": 2015
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "c5048956984c38c059a54ac88a51490d97a5de37", 
+      "title": "EmotionFinder: Detecting emotion from blogs and textual documents", 
+      "url": "https://www.semanticscholar.org/paper/c5048956984c38c059a54ac88a51490d97a5de37", 
+      "venue": "International Conference on Computing, Communication & Automation", 
+      "year": 2015
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "2b95a455c4c56dde17f7c4a05bacf47f4e339fc0", 
+      "title": "Quantifying Text-based Public\u2019s Emotion and Discussion Issues in Online Forum", 
+      "url": "https://www.semanticscholar.org/paper/2b95a455c4c56dde17f7c4a05bacf47f4e339fc0", 
+      "venue": "", 
+      "year": 2011
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "326e15e176c8fe74be2faaca88cc2ff65ad73dac", 
+      "title": "Sentiment Analyzer for Arabic Comments System", 
+      "url": "https://www.semanticscholar.org/paper/326e15e176c8fe74be2faaca88cc2ff65ad73dac", 
+      "venue": "", 
+      "year": 2013
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "a0816f1b754f0892a4c296a8c298272ad48ce8af", 
+      "title": "Emotion Analysis Platform on Chinese Microblog", 
+      "url": "https://www.semanticscholar.org/paper/a0816f1b754f0892a4c296a8c298272ad48ce8af", 
+      "venue": "ArXiv", 
+      "year": 2014
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "a781d8c289c270d385a5a358ce7cb0f92e5ab414", 
+      "title": "Identification of Negative Comments on Internet Forums", 
+      "url": "https://www.semanticscholar.org/paper/a781d8c289c270d385a5a358ce7cb0f92e5ab414", 
+      "venue": "2016 10th International Conference on Innovative Mobile and Internet Services in Ubiquitous Computing (IMIS)", 
+      "year": 2016
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "e29bb2dd8fd683e0c677bf08a364ac7d73c4049b", 
+      "title": "Joint Emotion-Topic Modeling for Social Affective Text Mining", 
+      "url": "https://www.semanticscholar.org/paper/e29bb2dd8fd683e0c677bf08a364ac7d73c4049b", 
+      "venue": "2009 Ninth IEEE International Conference on Data Mining", 
+      "year": 2009
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "240c803a63c20979011a9749d3f3ee15204a6217", 
+      "title": "Research on Sentiment Analysis: The First Decade", 
+      "url": "https://www.semanticscholar.org/paper/240c803a63c20979011a9749d3f3ee15204a6217", 
+      "venue": "2016 IEEE 16th International Conference on Data Mining Workshops (ICDMW)", 
+      "year": 2016
+    }
+  ], 
+  "doi": "10.1109/WI.2007.51", 
+  "influentialCitationCount": 4, 
+  "paperId": "30602cb58afa718d3ffd1df5bc8105196d9ed974", 
+  "references": [
+    {
+      "isInfluential": false, 
+      "paperId": "3bb73407096cbb0f5d884eb108d694b43580004b", 
+      "title": "Introduction to Modern Information Retrieval", 
+      "url": "https://www.semanticscholar.org/paper/3bb73407096cbb0f5d884eb108d694b43580004b", 
+      "venue": "", 
+      "year": 1984
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "a3705f24c62170829997818137d3455e27c3ef66", 
+      "title": "Propbank: the next level of treebank", 
+      "url": "https://www.semanticscholar.org/paper/a3705f24c62170829997818137d3455e27c3ef66", 
+      "venue": "Proceedings of Treebanks and Lexical Theories", 
+      "year": 2003
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "155baea065396a150f0f8875e088355800fa9449", 
+      "title": "Head-Driven Statistical Models for Natural Language Parsing", 
+      "url": "https://www.semanticscholar.org/paper/155baea065396a150f0f8875e088355800fa9449", 
+      "venue": "Computational Linguistics", 
+      "year": 2003
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "0c8ac97d5ce9bd6c79c84ae2510dae440dc9d71c", 
+      "title": "Speech and Language Processing", 
+      "url": "https://www.semanticscholar.org/paper/0c8ac97d5ce9bd6c79c84ae2510dae440dc9d71c", 
+      "venue": "Speech and Language Processing", 
+      "year": 2000
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "b580599c2ca4ffb6678e62bdf29cb2e0a7e2781d", 
+      "title": "Enhancing Text Retrieval Performance using Conceptual Ontological Graph", 
+      "url": "https://www.semanticscholar.org/paper/b580599c2ca4ffb6678e62bdf29cb2e0a7e2781d", 
+      "venue": "Sixth IEEE International Conference on Data Mining - Workshops (ICDMW'06)", 
+      "year": 2006
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "08badaad9669b69b16ce9437d0b2d52b5f33c8dd", 
+      "title": "Retrieval evaluation with incomplete information", 
+      "url": "https://www.semanticscholar.org/paper/08badaad9669b69b16ce9437d0b2d52b5f33c8dd", 
+      "venue": "SIGIR", 
+      "year": 2004
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "90edb0f07d0c308e5d609b2ba378ae1bf06f104f", 
+      "title": "Shallow Semantic Parsing using Support Vector Machines", 
+      "url": "https://www.semanticscholar.org/paper/90edb0f07d0c308e5d609b2ba378ae1bf06f104f", 
+      "venue": "HLT-NAACL", 
+      "year": 2004
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "26597d9877463819bef0f367fe08b41f483cbc43", 
+      "title": "Support Vector Learning for Semantic Argument Classification", 
+      "url": "https://www.semanticscholar.org/paper/26597d9877463819bef0f367fe08b41f483cbc43", 
+      "venue": "Machine Learning", 
+      "year": 2005
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "c6525eded7f93c6890563ea7bf870b513a67e18c", 
+      "title": "Using Statistical Testing in the Evaluation of Retrieval Experiments", 
+      "url": "https://www.semanticscholar.org/paper/c6525eded7f93c6890563ea7bf870b513a67e18c", 
+      "venue": "SIGIR", 
+      "year": 1993
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "acc9f3923a07fd8bee880357564e0221fd01b96a", 
+      "title": "The effectiveness of a nonsyntactic approach to automatic phrase indexing for document retrieval", 
+      "url": "https://www.semanticscholar.org/paper/acc9f3923a07fd8bee880357564e0221fd01b96a", 
+      "venue": "JASIS", 
+      "year": 1989
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "04a8d271bc4384dbfbb417bfb625feb01cb44666", 
+      "title": "Automatic Labeling of Semantic Roles", 
+      "url": "https://www.semanticscholar.org/paper/04a8d271bc4384dbfbb417bfb625feb01cb44666", 
+      "venue": "Computational Linguistics", 
+      "year": 2000
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "4008d78a584102086f2641bcb0dab51aff0d353b", 
+      "title": "A Vector Space Model for Automatic Indexing", 
+      "url": "https://www.semanticscholar.org/paper/4008d78a584102086f2641bcb0dab51aff0d353b", 
+      "venue": "Commun. ACM", 
+      "year": 1975
+    }
+  ], 
+  "title": "Emotion Classification Using Web Blog Corpora", 
+  "url": "https://www.semanticscholar.org/paper/30602cb58afa718d3ffd1df5bc8105196d9ed974", 
+  "venue": "IEEE/WIC/ACM International Conference on Web Intelligence (WI'07)", 
+  "year": 2007
+}

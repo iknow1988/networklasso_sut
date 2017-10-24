@@ -1,0 +1,576 @@
+{
+  "authors": [
+    {
+      "authorId": "2949607", 
+      "name": "Stephan Oepen", 
+      "url": "https://www.semanticscholar.org/author/2949607"
+    }, 
+    {
+      "authorId": "2414936", 
+      "name": "Marco Kuhlmann", 
+      "url": "https://www.semanticscholar.org/author/2414936"
+    }, 
+    {
+      "authorId": "1768065", 
+      "name": "Yusuke Miyao", 
+      "url": "https://www.semanticscholar.org/author/1768065"
+    }, 
+    {
+      "authorId": "1771298", 
+      "name": "Daniel Zeman", 
+      "url": "https://www.semanticscholar.org/author/1771298"
+    }, 
+    {
+      "authorId": "3209288", 
+      "name": "Dan Flickinger", 
+      "url": "https://www.semanticscholar.org/author/3209288"
+    }, 
+    {
+      "authorId": "8780522", 
+      "name": "Jan Hajic", 
+      "url": "https://www.semanticscholar.org/author/8780522"
+    }, 
+    {
+      "authorId": "2854749", 
+      "name": "Angelina Ivanova", 
+      "url": "https://www.semanticscholar.org/author/2854749"
+    }, 
+    {
+      "authorId": "22297967", 
+      "name": "Yi Zhang", 
+      "url": "https://www.semanticscholar.org/author/22297967"
+    }
+  ], 
+  "citationVelocity": 19, 
+  "citations": [
+    {
+      "isInfluential": false, 
+      "paperId": "21e8986e32ed2f1362c1433f7852186dd385513a", 
+      "title": "Annotating the Little Prince with Chinese AMRs", 
+      "url": "https://www.semanticscholar.org/paper/21e8986e32ed2f1362c1433f7852186dd385513a", 
+      "venue": "LAW@ACL", 
+      "year": 2016
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "73cf712691a4836c754e593db9e61e9f88bad5df", 
+      "title": "Peking: Building Semantic Dependency Graphs with a Hybrid Parser", 
+      "url": "https://www.semanticscholar.org/paper/73cf712691a4836c754e593db9e61e9f88bad5df", 
+      "venue": "SemEval@NAACL-HLT", 
+      "year": 2015
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "19f064665b0095aaac008b2ce8737eec293f68e3", 
+      "title": "Turku: Semantic Dependency Parsing as a Sequence Classification", 
+      "url": "https://www.semanticscholar.org/paper/19f064665b0095aaac008b2ce8737eec293f68e3", 
+      "venue": "SemEval@NAACL-HLT", 
+      "year": 2015
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "1cb4a80aecc6db0d30e6f5c229a8fffc2fd3a441", 
+      "title": "Enhancing PTB Universal Dependencies for Grammar-Based Surface Realization", 
+      "url": "https://www.semanticscholar.org/paper/1cb4a80aecc6db0d30e6f5c229a8fffc2fd3a441", 
+      "venue": "INLG", 
+      "year": 2016
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "2b8a4d97e2d54ec7f147f0c3dc8ad0eb0d40595b", 
+      "title": "Towards a Catalogue of Linguistic Graph Banks", 
+      "url": "https://www.semanticscholar.org/paper/2b8a4d97e2d54ec7f147f0c3dc8ad0eb0d40595b", 
+      "venue": "Computational Linguistics", 
+      "year": 2016
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "66aff94832a79eec0ad710fa35e8e7f4f2761358", 
+      "title": "The complexity of finding the maximum spanning DAG and other restrictions for DAG parsing of natural language", 
+      "url": "https://www.semanticscholar.org/paper/66aff94832a79eec0ad710fa35e8e7f4f2761358", 
+      "venue": "*SEM@NAACL-HLT", 
+      "year": 2015
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "f5fd5e0e5da36b1a1e7f1a66d4292ba22e53429b", 
+      "title": "Graph parsing with s-graph grammars", 
+      "url": "https://www.semanticscholar.org/paper/f5fd5e0e5da36b1a1e7f1a66d4292ba22e53429b", 
+      "venue": "ACL", 
+      "year": 2015
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "bbc9f29a0dba8ca278ce12319b6c8d1ec3888a94", 
+      "title": "Alpage: Transition-based Semantic Graph Parsing with Syntactic Features", 
+      "url": "https://www.semanticscholar.org/paper/bbc9f29a0dba8ca278ce12319b6c8d1ec3888a94", 
+      "venue": "SemEval@COLING", 
+      "year": 2014
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "f44eabba1d1e7c088aaf02f2a9e3ad2bbeae4901", 
+      "title": "RDF Triple Stores and a Custom SPARQL Front-End for Indexing and Searching (Very) Large Semantic Networks", 
+      "url": "https://www.semanticscholar.org/paper/f44eabba1d1e7c088aaf02f2a9e3ad2bbeae4901", 
+      "venue": "COLING", 
+      "year": 2014
+    }, 
+    {
+      "isInfluential": true, 
+      "paperId": "a103cf359db606ba79c792a080e3c9f95056c8da", 
+      "title": "Because Syntax Does Matter: Improving Predicate-Argument Structures Parsing with Syntactic Features", 
+      "url": "https://www.semanticscholar.org/paper/a103cf359db606ba79c792a080e3c9f95056c8da", 
+      "venue": "HLT-NAACL", 
+      "year": 2015
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "63ffc824c39e293c2ce6f000b35953c8bc2dee67", 
+      "title": "Lisbon: Evaluating TurboSemanticParser on Multiple Languages and Out-of-Domain Data", 
+      "url": "https://www.semanticscholar.org/paper/63ffc824c39e293c2ce6f000b35953c8bc2dee67", 
+      "venue": "SemEval@NAACL-HLT", 
+      "year": 2015
+    }, 
+    {
+      "isInfluential": true, 
+      "paperId": "48159bd50cf53b1b5a7812658428b038d337e600", 
+      "title": "Riga: from FrameNet to Semantic Frames with C6.0 Rules", 
+      "url": "https://www.semanticscholar.org/paper/48159bd50cf53b1b5a7812658428b038d337e600", 
+      "venue": "SemEval@NAACL-HLT", 
+      "year": 2015
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "79825fd91a792a5f4a3a4420a6d6f007fdf97beb", 
+      "title": "Tabulation of Noncrossing Acyclic Digraphs", 
+      "url": "https://www.semanticscholar.org/paper/79825fd91a792a5f4a3a4420a6d6f007fdf97beb", 
+      "venue": "ArXiv", 
+      "year": 2015
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "e742bcefb685caa2d25aadf24ceebf53a30cfa96", 
+      "title": "SemEval-2016 Task 9: Chinese Semantic Dependency Parsing", 
+      "url": "https://www.semanticscholar.org/paper/e742bcefb685caa2d25aadf24ceebf53a30cfa96", 
+      "venue": "SemEval@NAACL-HLT", 
+      "year": 2016
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "6d6d85fdbdcc75b53bf89281ca9501846dc7e7d5", 
+      "title": "State of the Art Language Technologies for Italian: The EVALITA 2014 Perspective", 
+      "url": "https://www.semanticscholar.org/paper/6d6d85fdbdcc75b53bf89281ca9501846dc7e7d5", 
+      "venue": "Intelligenza Artificiale", 
+      "year": 2015
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "977843aaf1d152e08caccdf4d9b50ea2040678b6", 
+      "title": "In-House: An Ensemble of Pre-Existing Off-the-Shelf Parsers", 
+      "url": "https://www.semanticscholar.org/paper/977843aaf1d152e08caccdf4d9b50ea2040678b6", 
+      "venue": "SemEval@COLING", 
+      "year": 2014
+    }, 
+    {
+      "isInfluential": true, 
+      "paperId": "002f9e07e847a9c91bf937d9c50ccba45e1eb3f3", 
+      "title": "Maximising spanning subtree scores for parsing tree approximations of semantic dependency digraphs", 
+      "url": "https://www.semanticscholar.org/paper/002f9e07e847a9c91bf937d9c50ccba45e1eb3f3", 
+      "venue": "", 
+      "year": 2015
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "19810d8e74ed90025d4d7d6fbca28c7bb15ae990", 
+      "title": "An extended dependency graph for relation extraction in biomedical texts", 
+      "url": "https://www.semanticscholar.org/paper/19810d8e74ed90025d4d7d6fbca28c7bb15ae990", 
+      "venue": "", 
+      "year": 2015
+    }, 
+    {
+      "isInfluential": true, 
+      "paperId": "6861ac99917ebd15d4983a78a6fe89703cdb4454", 
+      "title": "Peking: Profiling Syntactic Tree Parsing Techniques for Semantic Graph Parsing", 
+      "url": "https://www.semanticscholar.org/paper/6861ac99917ebd15d4983a78a6fe89703cdb4454", 
+      "venue": "SemEval@COLING", 
+      "year": 2014
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "6efe0d86f1b97ad402b4c6a17fe0e0cfc403a6d7", 
+      "title": "Potsdam: Semantic Dependency Parsing by Bidirectional Graph-Tree Transformations and Syntactic Parsing", 
+      "url": "https://www.semanticscholar.org/paper/6efe0d86f1b97ad402b4c6a17fe0e0cfc403a6d7", 
+      "venue": "SemEval@COLING", 
+      "year": 2014
+    }, 
+    {
+      "isInfluential": true, 
+      "paperId": "a1e7511e1c8bab4440b3f653883b2263d2b5efad", 
+      "title": "Transition-Based Parsing for Deep Dependency Structures", 
+      "url": "https://www.semanticscholar.org/paper/a1e7511e1c8bab4440b3f653883b2263d2b5efad", 
+      "venue": "Computational Linguistics", 
+      "year": 2016
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "7e2977078a52bb20cc85ff737748e62028d3370e", 
+      "title": "Link\u00f6ping: Cubic-Time Graph Parsing with a Simple Scoring Scheme", 
+      "url": "https://www.semanticscholar.org/paper/7e2977078a52bb20cc85ff737748e62028d3370e", 
+      "venue": "SemEval@COLING", 
+      "year": 2014
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "895adbe4b9cab3eda5f043f43ddb24538f23e859", 
+      "title": "Deriving Multi-Headed Planar Dependency Parses from Link Grammar Parses\u2217", 
+      "url": "https://www.semanticscholar.org/paper/895adbe4b9cab3eda5f043f43ddb24538f23e859", 
+      "venue": "", 
+      "year": 2014
+    }, 
+    {
+      "isInfluential": true, 
+      "paperId": "2c5130fab486a94ecb2bebb9084916613961141b", 
+      "title": "Data-driven deep-syntactic dependency parsing", 
+      "url": "https://www.semanticscholar.org/paper/2c5130fab486a94ecb2bebb9084916613961141b", 
+      "venue": "Natural Language Engineering", 
+      "year": 2016
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "3ef1ba400712a657a8a0a4c6b76195e0853abebd", 
+      "title": "Semantic construction with graph grammars", 
+      "url": "https://www.semanticscholar.org/paper/3ef1ba400712a657a8a0a4c6b76195e0853abebd", 
+      "venue": "IWCS", 
+      "year": 2015
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "0d17068fdb3bf9ca877e05cebd5549241733795b", 
+      "title": "Robust Incremental Neural Semantic Graph Parsing", 
+      "url": "https://www.semanticscholar.org/paper/0d17068fdb3bf9ca877e05cebd5549241733795b", 
+      "venue": "ACL", 
+      "year": 2017
+    }, 
+    {
+      "isInfluential": true, 
+      "paperId": "c7721386279bb2fee9bfb2698b97b7a32ec47e76", 
+      "title": "Accurate Deep Syntactic Parsing of Graphs: The Case of French", 
+      "url": "https://www.semanticscholar.org/paper/c7721386279bb2fee9bfb2698b97b7a32ec47e76", 
+      "venue": "LREC", 
+      "year": 2016
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "57d0629b92a4c4c6ba4142e7affed8516d98d669", 
+      "title": "Parsing to 1-Endpoint-Crossing, Pagenumber-2 Graphs", 
+      "url": "https://www.semanticscholar.org/paper/57d0629b92a4c4c6ba4142e7affed8516d98d669", 
+      "venue": "ACL", 
+      "year": 2017
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "3348fd0245e128d1673756cb63c56ca79994f81d", 
+      "title": "Towards Comparability of Linguistic Graph Banks for Semantic Parsing", 
+      "url": "https://www.semanticscholar.org/paper/3348fd0245e128d1673756cb63c56ca79994f81d", 
+      "venue": "LREC", 
+      "year": 2016
+    }, 
+    {
+      "isInfluential": true, 
+      "paperId": "0fbb91a2cf65642eff21a884f02f3e004aa519d8", 
+      "title": "CMU: Arc-Factored, Discriminative Semantic Dependency Parsing", 
+      "url": "https://www.semanticscholar.org/paper/0fbb91a2cf65642eff21a884f02f3e004aa519d8", 
+      "venue": "SemEval@COLING", 
+      "year": 2014
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "25370a5cd20e08ad1013989ea33de4d64143d856", 
+      "title": "A Transition-Based Directed Acyclic Graph Parser for UCCA", 
+      "url": "https://www.semanticscholar.org/paper/25370a5cd20e08ad1013989ea33de4d64143d856", 
+      "venue": "ACL", 
+      "year": 2017
+    }, 
+    {
+      "isInfluential": true, 
+      "paperId": "a7c3014d2ae28e51a5efde5ad1d30fc6f483493e", 
+      "title": "Semantic Dependency Parsing via Book Embedding", 
+      "url": "https://www.semanticscholar.org/paper/a7c3014d2ae28e51a5efde5ad1d30fc6f483493e", 
+      "venue": "ACL", 
+      "year": 2017
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "a6bd01586f7f478907310662334c8c42e17f4900", 
+      "title": "Parsing for Grammatical Relations via Graph Merging", 
+      "url": "https://www.semanticscholar.org/paper/a6bd01586f7f478907310662334c8c42e17f4900", 
+      "venue": "CoNLL", 
+      "year": 2017
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "7cc043f1d57292e2586556840cea1b6cd808a0e1", 
+      "title": "Leveraging syntactic and semantic graph kernels to extract pharmacokinetic drug drug interactions from biomedical literature", 
+      "url": "https://www.semanticscholar.org/paper/7cc043f1d57292e2586556840cea1b6cd808a0e1", 
+      "venue": "BMC Systems Biology", 
+      "year": 2016
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "6b1f7fc3092c0b93728eeeee2d3a3d17b26a7b0f", 
+      "title": "Deeper syntax for better semantic parsing", 
+      "url": "https://www.semanticscholar.org/paper/6b1f7fc3092c0b93728eeeee2d3a3d17b26a7b0f", 
+      "venue": "COLING", 
+      "year": 2016
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "8b9976306009a7f09aefc5ef252dc676e0814577", 
+      "title": "Identifying civilians killed by police with distantly supervised entity-event extraction", 
+      "url": "https://www.semanticscholar.org/paper/8b9976306009a7f09aefc5ef252dc676e0814577", 
+      "venue": "ArXiv", 
+      "year": 2017
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "f036ed67b9af7fda0bc143069f078a1eabf58df7", 
+      "title": "The State of the Art in Semantic Representation", 
+      "url": "https://www.semanticscholar.org/paper/f036ed67b9af7fda0bc143069f078a1eabf58df7", 
+      "venue": "ACL", 
+      "year": 2017
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "0b8e48c31bfefe6e65cf811a96d7dfeafe2195a0", 
+      "title": "Lexical Semantic Analysis in Natural Language Text", 
+      "url": "https://www.semanticscholar.org/paper/0b8e48c31bfefe6e65cf811a96d7dfeafe2195a0", 
+      "venue": "", 
+      "year": 2012
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "c94df04c301be3219c17321a7568efc905f882d6", 
+      "title": "Parsing to Noncrossing Dependency Graphs", 
+      "url": "https://www.semanticscholar.org/paper/c94df04c301be3219c17321a7568efc905f882d6", 
+      "venue": "TACL", 
+      "year": 2015
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "c661c6c8ca9187133f7d706121187090cb69bfdc", 
+      "title": "Semantic Parsing for Textual Entailment", 
+      "url": "https://www.semanticscholar.org/paper/c661c6c8ca9187133f7d706121187090cb69bfdc", 
+      "venue": "", 
+      "year": 2015
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "406fd41b360bb02c0aaabff54055193fb5d9d7f1", 
+      "title": "Deep Multitask Learning for Semantic Dependency Parsing", 
+      "url": "https://www.semanticscholar.org/paper/406fd41b360bb02c0aaabff54055193fb5d9d7f1", 
+      "venue": "ACL", 
+      "year": 2017
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "6d54134e5cca20516b0802ee3f5e5695840c379f", 
+      "title": "SemEval 2015 Task 18: Broad-Coverage Semantic Dependency Parsing", 
+      "url": "https://www.semanticscholar.org/paper/6d54134e5cca20516b0802ee3f5e5695840c379f", 
+      "venue": "SemEval@NAACL-HLT", 
+      "year": 2015
+    }
+  ], 
+  "doi": null, 
+  "influentialCitationCount": 9, 
+  "paperId": "7fc2be94861f06dd11c309da67d695fa5b332a0d", 
+  "references": [
+    {
+      "isInfluential": false, 
+      "paperId": "0339bf1a41a2f793e09d14a79ac75d86e19db7e7", 
+      "title": "The CoNLL-2009 Shared Task: Syntactic and Semantic Dependencies in Multiple Languages", 
+      "url": "https://www.semanticscholar.org/paper/0339bf1a41a2f793e09d14a79ac75d86e19db7e7", 
+      "venue": "CoNLL Shared Task", 
+      "year": 2009
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "83345913258ffe0bc5cae92392b456a912280105", 
+      "title": "Who Did What to Whom? A Contrastive Study of Syntacto-Semantic Dependencies", 
+      "url": "https://www.semanticscholar.org/paper/83345913258ffe0bc5cae92392b456a912280105", 
+      "venue": "LAW@ACL", 
+      "year": 2012
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "04a8d271bc4384dbfbb417bfb625feb01cb44666", 
+      "title": "Automatic Labeling of Semantic Roles", 
+      "url": "https://www.semanticscholar.org/paper/04a8d271bc4384dbfbb417bfb625feb01cb44666", 
+      "venue": "Computational Linguistics", 
+      "year": 2000
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "281507601d3d57f087547016a6863a7643cf2417", 
+      "title": "A Transition-Based System for Joint Part-of-Speech Tagging and Labeled Non-Projective Dependency Parsing", 
+      "url": "https://www.semanticscholar.org/paper/281507601d3d57f087547016a6863a7643cf2417", 
+      "venue": "EMNLP-CoNLL", 
+      "year": 2012
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "32a437ecdc20cc76c01e37c08920317ea18fde50", 
+      "title": "Generating Typed Dependency Parses from Phrase Structure Parses", 
+      "url": "https://www.semanticscholar.org/paper/32a437ecdc20cc76c01e37c08920317ea18fde50", 
+      "venue": "", 
+      "year": 2006
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "3a40ff57c5a96f6445675f104d434b42eab6aebf", 
+      "title": "Adding Noun Phrase Structure to the Penn Treebank", 
+      "url": "https://www.semanticscholar.org/paper/3a40ff57c5a96f6445675f104d434b42eab6aebf", 
+      "venue": "ACL", 
+      "year": 2007
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "977843aaf1d152e08caccdf4d9b50ea2040678b6", 
+      "title": "In-House: An Ensemble of Pre-Existing Off-the-Shelf Parsers", 
+      "url": "https://www.semanticscholar.org/paper/977843aaf1d152e08caccdf4d9b50ea2040678b6", 
+      "venue": "SemEval@COLING", 
+      "year": 2014
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "48e868fa920792d21b3bde27bf11263baa30b222", 
+      "title": "On building a more effcient grammar by exploiting types", 
+      "url": "https://www.semanticscholar.org/paper/48e868fa920792d21b3bde27bf11263baa30b222", 
+      "venue": "Natural Language Engineering", 
+      "year": 2000
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "231a2199e44f431021114a57aa852c3b70c2a07f", 
+      "title": "Announcing Prague Czech-English Dependency Treebank 2.0", 
+      "url": "https://www.semanticscholar.org/paper/231a2199e44f431021114a57aa852c3b70c2a07f", 
+      "venue": "LREC", 
+      "year": 2012
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "08af6f1481ca99a07f01b5dfde042ea00d1bf8b5", 
+      "title": "On the interpretation of noun compounds: Syntax, semantics, and entailment", 
+      "url": "https://www.semanticscholar.org/paper/08af6f1481ca99a07f01b5dfde042ea00d1bf8b5", 
+      "venue": "Natural Language Engineering", 
+      "year": 2013
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "d84b9507ff9687a900fde451f27106d930c1b838", 
+      "title": "Learning Accurate, Compact, and Interpretable Tree Annotation", 
+      "url": "https://www.semanticscholar.org/paper/d84b9507ff9687a900fde451f27106d930c1b838", 
+      "venue": "ACL", 
+      "year": 2006
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "198834b74667e5a48b975154f24386731155b265", 
+      "title": "Online Graph Planarisation for Synchronous Parsing of Semantic and Syntactic Dependencies", 
+      "url": "https://www.semanticscholar.org/paper/198834b74667e5a48b975154f24386731155b265", 
+      "venue": "IJCAI", 
+      "year": 2009
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "d02e21d2db7ce1ac6b7b7b2500b2e67d23dc59e6", 
+      "title": "Machine Learning for High-Quality Tokenization Replicating Variable Tokenization Schemes", 
+      "url": "https://www.semanticscholar.org/paper/d02e21d2db7ce1ac6b7b7b2500b2e67d23dc59e6", 
+      "venue": "CICLing", 
+      "year": 2013
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "d14fdac120773861d80d6fefe60fa84d201979e2", 
+      "title": "Semantic Parsing: The Task, the State of the Art and the Future", 
+      "url": "https://www.semanticscholar.org/paper/d14fdac120773861d80d6fefe60fa84d201979e2", 
+      "venue": "", 
+      "year": 2010
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "a48affd9a3bf680e810a0c0b9aa37d419a4cb09c", 
+      "title": "Annotating Noun Argument Structure for NomBank", 
+      "url": "https://www.semanticscholar.org/paper/a48affd9a3bf680e810a0c0b9aa37d419a4cb09c", 
+      "venue": "LREC", 
+      "year": 2004
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "89e062c7746cb6951f6e9055df782cd16a0f6c57", 
+      "title": "Discriminant-Based MRS Banking", 
+      "url": "https://www.semanticscholar.org/paper/89e062c7746cb6951f6e9055df782cd16a0f6c57", 
+      "venue": "", 
+      "year": 2006
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "0b44fcbeea9415d400c5f5789d6b892b6f98daff", 
+      "title": "Building a Large Annotated Corpus of English: The Penn Treebank", 
+      "url": "https://www.semanticscholar.org/paper/0b44fcbeea9415d400c5f5789d6b892b6f98daff", 
+      "venue": "Computational Linguistics", 
+      "year": 1993
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "837c2bf28887fc1a00e1b1148e5df748809da242", 
+      "title": "The Proposition Bank: An Annotated Corpus of Semantic Roles", 
+      "url": "https://www.semanticscholar.org/paper/837c2bf28887fc1a00e1b1148e5df748809da242", 
+      "venue": "Computational Linguistics", 
+      "year": 2005
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "1deed1a4a03e07aee3b8b8e4716f35033c715a57", 
+      "title": "CoNLL-X Shared Task on Multilingual Dependency Parsing", 
+      "url": "https://www.semanticscholar.org/paper/1deed1a4a03e07aee3b8b8e4716f35033c715a57", 
+      "venue": "CoNLL", 
+      "year": 2006
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "0fd4319c5208d74268f5d4a47501042efbb33ab9", 
+      "title": "Minimal Recursion Semantics: An Introduction", 
+      "url": "https://www.semanticscholar.org/paper/0fd4319c5208d74268f5d4a47501042efbb33ab9", 
+      "venue": "", 
+      "year": 1999
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "10a9abb4c78f0be5cc85847f248d3e8277b3c810", 
+      "title": "The CoNLL 2007 Shared Task on Dependency Parsing", 
+      "url": "https://www.semanticscholar.org/paper/10a9abb4c78f0be5cc85847f248d3e8277b3c810", 
+      "venue": "EMNLP-CoNLL", 
+      "year": 2007
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "51cfde9bbc25a4cff1d5666815674c83886d933e", 
+      "title": "Top Accuracy and Fast Dependency Parsing is not a Contradiction", 
+      "url": "https://www.semanticscholar.org/paper/51cfde9bbc25a4cff1d5666815674c83886d933e", 
+      "venue": "COLING", 
+      "year": 2010
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "866e6d8d48ce516d853b44a225562ef48bb945b5", 
+      "title": "Shift-Reduce Dependency DAG Parsing", 
+      "url": "https://www.semanticscholar.org/paper/866e6d8d48ce516d853b44a225562ef48bb945b5", 
+      "venue": "COLING", 
+      "year": 2008
+    }
+  ], 
+  "title": "SemEval 2014 Task 8: Broad-Coverage Semantic Dependency Parsing", 
+  "url": "https://www.semanticscholar.org/paper/7fc2be94861f06dd11c309da67d695fa5b332a0d", 
+  "venue": "SemEval@COLING", 
+  "year": 2014
+}

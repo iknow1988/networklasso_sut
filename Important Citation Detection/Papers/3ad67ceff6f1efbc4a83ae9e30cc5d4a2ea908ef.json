@@ -1,0 +1,719 @@
+{
+  "authors": [
+    {
+      "authorId": "1723588", 
+      "name": "Xiao Li", 
+      "url": "https://www.semanticscholar.org/author/1723588"
+    }, 
+    {
+      "authorId": "9103850", 
+      "name": "Ye-Yi Wang", 
+      "url": "https://www.semanticscholar.org/author/9103850"
+    }, 
+    {
+      "authorId": "1723644", 
+      "name": "Alex Acero", 
+      "url": "https://www.semanticscholar.org/author/1723644"
+    }
+  ], 
+  "citationVelocity": 0, 
+  "citations": [
+    {
+      "isInfluential": false, 
+      "paperId": "0dc505b3d140d9349a2f4dd87cebfa97687f0c08", 
+      "title": "Supporting Keyword Search in Product Database: A Probabilistic Approach", 
+      "url": "https://www.semanticscholar.org/paper/0dc505b3d140d9349a2f4dd87cebfa97687f0c08", 
+      "venue": "PVLDB", 
+      "year": 2013
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "627ec341d85450b7a39a393f4cd104b43e52ce9f", 
+      "title": "Using a Stack Decoder for Structured Search", 
+      "url": "https://www.semanticscholar.org/paper/627ec341d85450b7a39a393f4cd104b43e52ce9f", 
+      "venue": "FQAS", 
+      "year": 2013
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "933b3c5d9c904009bb9ee08e92eab7b138327385", 
+      "title": "Named entity recognition of follow-up and time information in 20 000 radiology reports", 
+      "url": "https://www.semanticscholar.org/paper/933b3c5d9c904009bb9ee08e92eab7b138327385", 
+      "venue": "JAMIA", 
+      "year": 2012
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "30a2b7cd5816b90187a99fe8b8dbb80bc750edce", 
+      "title": "Mining Search Query Logs for Spoken Language Understanding", 
+      "url": "https://www.semanticscholar.org/paper/30a2b7cd5816b90187a99fe8b8dbb80bc750edce", 
+      "venue": "", 
+      "year": 2012
+    }, 
+    {
+      "isInfluential": true, 
+      "paperId": "5e772eab6490de6557548b1e7f5ccd52d599f29d", 
+      "title": "Weakly Supervised Slot Tagging with Partially Labeled Sequences from Web Search Click Logs", 
+      "url": "https://www.semanticscholar.org/paper/5e772eab6490de6557548b1e7f5ccd52d599f29d", 
+      "venue": "HLT-NAACL", 
+      "year": 2015
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "0999ea80a4984da7ae95aa5e9436650988872896", 
+      "title": "Inducing Value Sparsity for Parallel Inference in Tree-shaped Models", 
+      "url": "https://www.semanticscholar.org/paper/0999ea80a4984da7ae95aa5e9436650988872896", 
+      "venue": "", 
+      "year": 2011
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "881c57c08094f8f3641ad66c36f7150793095bc2", 
+      "title": "Improving verbose queries using subset distribution", 
+      "url": "https://www.semanticscholar.org/paper/881c57c08094f8f3641ad66c36f7150793095bc2", 
+      "venue": "CIKM", 
+      "year": 2010
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "eb97cff4e5b40cd2eb3494c37fa18cef165a4f11", 
+      "title": "A Field Relevance Model for Structured Document Retrieval", 
+      "url": "https://www.semanticscholar.org/paper/eb97cff4e5b40cd2eb3494c37fa18cef165a4f11", 
+      "venue": "ECIR", 
+      "year": 2012
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "b8347b48d47d0713194f33f03e02130466ab0825", 
+      "title": "Entity Synonyms for Structured Web Search", 
+      "url": "https://www.semanticscholar.org/paper/b8347b48d47d0713194f33f03e02130466ab0825", 
+      "venue": "IEEE Transactions on Knowledge and Data Engineering", 
+      "year": 2012
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "a01df80b3bd30458143e96bc56bb58bd11e0b8d6", 
+      "title": "Confidence-aware graph regularization with heterogeneous pairwise features", 
+      "url": "https://www.semanticscholar.org/paper/a01df80b3bd30458143e96bc56bb58bd11e0b8d6", 
+      "venue": "SIGIR", 
+      "year": 2012
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "2b386a36985b1c68b973761700e2e68df598eb7d", 
+      "title": "Structured Query Reformulations in Commerce Search", 
+      "url": "https://www.semanticscholar.org/paper/2b386a36985b1c68b973761700e2e68df598eb7d", 
+      "venue": "CIKM", 
+      "year": 2012
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "1989a01b107a69143da2283337cea7210a5160e8", 
+      "title": "Exploiting the Semantic Web for Unsupervised Natural Language Semantic Parsing", 
+      "url": "https://www.semanticscholar.org/paper/1989a01b107a69143da2283337cea7210a5160e8", 
+      "venue": "INTERSPEECH", 
+      "year": 2012
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "c96bc440bfef1a912e37d7546946fcfba08b7e09", 
+      "title": "Understanding the Semantic Intent of Natural Language Query", 
+      "url": "https://www.semanticscholar.org/paper/c96bc440bfef1a912e37d7546946fcfba08b7e09", 
+      "venue": "IJCNLP", 
+      "year": 2013
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "27a9d78fb4132141d51cfc382dc69051d19cb004", 
+      "title": "Improving Web Search Ranking by Incorporating Structured Annotation of Queries", 
+      "url": "https://www.semanticscholar.org/paper/27a9d78fb4132141d51cfc382dc69051d19cb004", 
+      "venue": "EMNLP", 
+      "year": 2013
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "24a796faded4ba99694fea831aaa7bf76989aa24", 
+      "title": "Drop-out Conditional Random Fields for Twitter with Huge Mined Gazetteer", 
+      "url": "https://www.semanticscholar.org/paper/24a796faded4ba99694fea831aaa7bf76989aa24", 
+      "venue": "HLT-NAACL", 
+      "year": 2016
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "09da8d56351dff51389d764cbc94bc733ee3129c", 
+      "title": "Adversarial Adaptation of Synthetic or Stale Data", 
+      "url": "https://www.semanticscholar.org/paper/09da8d56351dff51389d764cbc94bc733ee3129c", 
+      "venue": "ACL", 
+      "year": 2017
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "08c0c7951fbe85dde1db07e3b0e26f55aac3455b", 
+      "title": "Computational Advertising: Techniques for Targeting Relevant Ads", 
+      "url": "https://www.semanticscholar.org/paper/08c0c7951fbe85dde1db07e3b0e26f55aac3455b", 
+      "venue": "Foundations and Trends in Information Retrieval", 
+      "year": 2014
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "6382439ed673285e0df541c94cb81a4417f88b99", 
+      "title": "Probabilistic first pass retrieval for search advertising: from theory to practice", 
+      "url": "https://www.semanticscholar.org/paper/6382439ed673285e0df541c94cb81a4417f88b99", 
+      "venue": "CIKM", 
+      "year": 2010
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "f18acbbf6d34e0bfaf39b441cf15c3fcc7159af7", 
+      "title": "Unsupervised Extraction of Popular Product Attributes from E-Commerce Web Sites by Considering Customer Reviews", 
+      "url": "https://www.semanticscholar.org/paper/f18acbbf6d34e0bfaf39b441cf15c3fcc7159af7", 
+      "venue": "ACM Trans. Internet Techn.", 
+      "year": 2016
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "ef74c2c33dbe0e63e8668138fb2167ab9417de2f", 
+      "title": "The sum of its parts: reducing sparsity in click estimation with query segments", 
+      "url": "https://www.semanticscholar.org/paper/ef74c2c33dbe0e63e8668138fb2167ab9417de2f", 
+      "venue": "Information Retrieval", 
+      "year": 2010
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "93da706611cdd2e1a87856215b3db99e8e0b16af", 
+      "title": "Question Answering, Semantic Search and Data Service Querying", 
+      "url": "https://www.semanticscholar.org/paper/93da706611cdd2e1a87856215b3db99e8e0b16af", 
+      "venue": "", 
+      "year": 2011
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "6a5d7d225abe687a703721abbdd3cb064edeae2f", 
+      "title": "Domain Attention with an Ensemble of Experts", 
+      "url": "https://www.semanticscholar.org/paper/6a5d7d225abe687a703721abbdd3cb064edeae2f", 
+      "venue": "ACL", 
+      "year": 2017
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "ec8d46c0fdeae00f6cd95631e2b37acc1d30045c", 
+      "title": "Anatomical Entity Recognition with a Hierarchical Framework Augmented by External Resources", 
+      "url": "https://www.semanticscholar.org/paper/ec8d46c0fdeae00f6cd95631e2b37acc1d30045c", 
+      "venue": "PloS one", 
+      "year": 2014
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "66cb80f91247cc2da80395b876d5ab5359529820", 
+      "title": "Learning a Query Parser for Local Web Search", 
+      "url": "https://www.semanticscholar.org/paper/66cb80f91247cc2da80395b876d5ab5359529820", 
+      "venue": "2010 IEEE Fourth International Conference on Semantic Computing", 
+      "year": 2010
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "cbb8d9267585e6271d0713dee252b6052e276da5", 
+      "title": "Part-of-speech tagging for web search queries using a large-scale web corpus", 
+      "url": "https://www.semanticscholar.org/paper/cbb8d9267585e6271d0713dee252b6052e276da5", 
+      "venue": "SAC", 
+      "year": 2017
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "068eaa1c4e64ff9b68bae42646b4ef45b404f0d4", 
+      "title": "Natural Language Model Re-usability for Scaling to Different Domains", 
+      "url": "https://www.semanticscholar.org/paper/068eaa1c4e64ff9b68bae42646b4ef45b404f0d4", 
+      "venue": "EMNLP", 
+      "year": 2016
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "a55fa445498828f57a122ed0b4bd2a249e2e851b", 
+      "title": "Towards Unsupervised Spoken Language Understanding: Exploiting Query Click Logs for Slot Filling", 
+      "url": "https://www.semanticscholar.org/paper/a55fa445498828f57a122ed0b4bd2a249e2e851b", 
+      "venue": "INTERSPEECH", 
+      "year": 2011
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "0c3edeef84c32185b5ec85af218a40a89a229c43", 
+      "title": "Semantic Query Structuring to Enhance Precision of an Information Retrieval System: Application to the Medical Domain", 
+      "url": "https://www.semanticscholar.org/paper/0c3edeef84c32185b5ec85af218a40a89a229c43", 
+      "venue": "CORIA", 
+      "year": 2013
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "59a00f44abf28284053901638e50b2c9c0b136c9", 
+      "title": "Learning Weighted Entity Lists from Web Click Logs for Spoken Language Understanding", 
+      "url": "https://www.semanticscholar.org/paper/59a00f44abf28284053901638e50b2c9c0b136c9", 
+      "venue": "INTERSPEECH", 
+      "year": 2011
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "307635c0346ed8eba290ee2541724f0750d0b65b", 
+      "title": "Improving recommendation for long-tail queries via templates", 
+      "url": "https://www.semanticscholar.org/paper/307635c0346ed8eba290ee2541724f0750d0b65b", 
+      "venue": "WWW", 
+      "year": 2011
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "d454f0f0f4f91b10a206bc284b3e5b7432b55c97", 
+      "title": "Graph-based Semi-Supervised Model for Joint Chinese Word Segmentation and Part-of-Speech Tagging", 
+      "url": "https://www.semanticscholar.org/paper/d454f0f0f4f91b10a206bc284b3e5b7432b55c97", 
+      "venue": "ACL", 
+      "year": 2013
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "eae3a21cc506d0ce125f7f0d27ba9792cdfe4ac5", 
+      "title": "On the Use of Virtual Evidence in Conditional Random Fields", 
+      "url": "https://www.semanticscholar.org/paper/eae3a21cc506d0ce125f7f0d27ba9792cdfe4ac5", 
+      "venue": "EMNLP", 
+      "year": 2009
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "11cc7a01fa22d1c23a868f5c54d7be6feeb37284", 
+      "title": "Fault Localization Using Textual Similarities", 
+      "url": "https://www.semanticscholar.org/paper/11cc7a01fa22d1c23a868f5c54d7be6feeb37284", 
+      "venue": "ArXiv", 
+      "year": 2010
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "66b3c0d652ed87f1ea947809f4c0713176651919", 
+      "title": "Structured Annotations of Queries", 
+      "url": "https://www.semanticscholar.org/paper/66b3c0d652ed87f1ea947809f4c0713176651919", 
+      "venue": "", 
+      "year": 2011
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "3e9d7f0730c03e8b57378eb7b0c2d6b712e914e2", 
+      "title": "Result enrichment in commerce search using browse trails", 
+      "url": "https://www.semanticscholar.org/paper/3e9d7f0730c03e8b57378eb7b0c2d6b712e914e2", 
+      "venue": "WSDM", 
+      "year": 2011
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "69fc89ce4a60c9b25be7c24e575c56308a8f10eb", 
+      "title": "Unsupervised identification of synonymous query intent templates for attribute intents", 
+      "url": "https://www.semanticscholar.org/paper/69fc89ce4a60c9b25be7c24e575c56308a8f10eb", 
+      "venue": "CIKM", 
+      "year": 2013
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "1a1fa8e5cce8f8cd9f14b82c3ee76ee55b000d23", 
+      "title": "Minimally-Supervised Extraction of Entities from Text Advertisements", 
+      "url": "https://www.semanticscholar.org/paper/1a1fa8e5cce8f8cd9f14b82c3ee76ee55b000d23", 
+      "venue": "HLT-NAACL", 
+      "year": 2010
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "4ac104f01b2cc5835381919b607058601efdf89c", 
+      "title": "An analysis of free-text queries for a multi-field web form", 
+      "url": "https://www.semanticscholar.org/paper/4ac104f01b2cc5835381919b607058601efdf89c", 
+      "venue": "IIiX", 
+      "year": 2012
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "2768e4aaebba4096cec95c0ce9c8fd308590a7eb", 
+      "title": "Sequence clustering and labeling for unsupervised query intent discovery", 
+      "url": "https://www.semanticscholar.org/paper/2768e4aaebba4096cec95c0ce9c8fd308590a7eb", 
+      "venue": "WSDM", 
+      "year": 2012
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "47ad3c660a45c4ed582cbb38af6322c6fef7e30d", 
+      "title": "Multi-Task Learning for Spoken Language Understanding with Shared Slots", 
+      "url": "https://www.semanticscholar.org/paper/47ad3c660a45c4ed582cbb38af6322c6fef7e30d", 
+      "venue": "INTERSPEECH", 
+      "year": 2011
+    }, 
+    {
+      "isInfluential": true, 
+      "paperId": "0e7607195f9a46dcd1ee55b7410fbf836d9f09a5", 
+      "title": "Sequential Labeling Using Deep-Structured Conditional Random Fields", 
+      "url": "https://www.semanticscholar.org/paper/0e7607195f9a46dcd1ee55b7410fbf836d9f09a5", 
+      "venue": "IEEE Journal of Selected Topics in Signal Processing", 
+      "year": 2010
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "70476144e3238203fccf5e1ae9b36037e83e8ca0", 
+      "title": "Towards automatic column-based data object clustering for multilingual databases", 
+      "url": "https://www.semanticscholar.org/paper/70476144e3238203fccf5e1ae9b36037e83e8ca0", 
+      "venue": "2011 IEEE International Conference on Control System, Computing and Engineering", 
+      "year": 2011
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "2b1c8b930e5164f3720be3a44e7732995aa53bef", 
+      "title": "Deep web search: an overview and roadmap", 
+      "url": "https://www.semanticscholar.org/paper/2b1c8b930e5164f3720be3a44e7732995aa53bef", 
+      "venue": "", 
+      "year": 2012
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "b179637efe07b58d4e0d2fb734b6cfe3a9d53d6c", 
+      "title": "Query to Knowledge: Unsupervised Entity Extraction from Shopping Queries using Adaptor Grammars", 
+      "url": "https://www.semanticscholar.org/paper/b179637efe07b58d4e0d2fb734b6cfe3a9d53d6c", 
+      "venue": "SIGIR", 
+      "year": 2016
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "7de283e34323687fff2fabfa60b7242ab77242a0", 
+      "title": "Facet discovery for structured web search: a query-log mining approach", 
+      "url": "https://www.semanticscholar.org/paper/7de283e34323687fff2fabfa60b7242ab77242a0", 
+      "venue": "SIGMOD Conference", 
+      "year": 2011
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "9ad3eb325bd15aadc00cf9e797b3a06c0ef973eb", 
+      "title": "Structured annotations of web queries", 
+      "url": "https://www.semanticscholar.org/paper/9ad3eb325bd15aadc00cf9e797b3a06c0ef973eb", 
+      "venue": "SIGMOD Conference", 
+      "year": 2010
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "211c47f2248833c9e1e2112594e4da65e57136d2", 
+      "title": "Semi-supervised learning of semantic classes for query understanding: from the web and for the web", 
+      "url": "https://www.semanticscholar.org/paper/211c47f2248833c9e1e2112594e4da65e57136d2", 
+      "venue": "CIKM", 
+      "year": 2009
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "b4ecca89aacb66b163f76d32e6e0c18368441c0a", 
+      "title": "Semi-Supervised Semantic Tagging of Conversational Understanding using Markov Topic Regression", 
+      "url": "https://www.semanticscholar.org/paper/b4ecca89aacb66b163f76d32e6e0c18368441c0a", 
+      "venue": "ACL", 
+      "year": 2013
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "a7c396d6ab69bdf1089ec3bdb42882a0270a9f16", 
+      "title": "Crowdsourcing-Assisted Query Structure Interpretation", 
+      "url": "https://www.semanticscholar.org/paper/a7c396d6ab69bdf1089ec3bdb42882a0270a9f16", 
+      "venue": "IJCAI", 
+      "year": 2013
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "0ece9e2827d0af7f47bef2e14e3d8986556e1bad", 
+      "title": "A probabilistic mixture model for mining and analyzing product search log", 
+      "url": "https://www.semanticscholar.org/paper/0ece9e2827d0af7f47bef2e14e3d8986556e1bad", 
+      "venue": "CIKM", 
+      "year": 2013
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "5a2cb929380d111d9af537c94df40f079e92fc62", 
+      "title": "Identifying Cis-Regulatory Elements and Modules Using Conditional Random Fields", 
+      "url": "https://www.semanticscholar.org/paper/5a2cb929380d111d9af537c94df40f079e92fc62", 
+      "venue": "IEEE/ACM Transactions on Computational Biology and Bioinformatics", 
+      "year": 2013
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "47b141cf5c32aac33bc7e141074508b9f21e85a0", 
+      "title": "Efficient query rewrite for structured web queries", 
+      "url": "https://www.semanticscholar.org/paper/47b141cf5c32aac33bc7e141074508b9f21e85a0", 
+      "venue": "CIKM", 
+      "year": 2011
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "ccde4cbb75d76c67a3afb746dcc996cc818829cf", 
+      "title": "Clicked phrase document expansion for sponsored search ad retrieval", 
+      "url": "https://www.semanticscholar.org/paper/ccde4cbb75d76c67a3afb746dcc996cc818829cf", 
+      "venue": "SIGIR", 
+      "year": 2010
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "4b6f51b80909871bf42eb338d5acbe2b9ebef40e", 
+      "title": "Retrieval experiments using pseudo-desktop collections", 
+      "url": "https://www.semanticscholar.org/paper/4b6f51b80909871bf42eb338d5acbe2b9ebef40e", 
+      "venue": "CIKM", 
+      "year": 2009
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "2d287f828cc1736f6755bd5c6e75f73a9146c87d", 
+      "title": "Understanding the Semantic Structure of Noun Phrase Queries", 
+      "url": "https://www.semanticscholar.org/paper/2d287f828cc1736f6755bd5c6e75f73a9146c87d", 
+      "venue": "ACL", 
+      "year": 2010
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "e1d36244fd739ca3214f36bead9d7445982bd189", 
+      "title": "Measuring website similarity using an entity-aware click graph", 
+      "url": "https://www.semanticscholar.org/paper/e1d36244fd739ca3214f36bead9d7445982bd189", 
+      "venue": "CIKM", 
+      "year": 2012
+    }, 
+    {
+      "isInfluential": true, 
+      "paperId": "1e16fc6713e0d6b70ead31e21f7d7adaea0e5587", 
+      "title": "Compact Lexicon Selection with Spectral Methods", 
+      "url": "https://www.semanticscholar.org/paper/1e16fc6713e0d6b70ead31e21f7d7adaea0e5587", 
+      "venue": "ACL", 
+      "year": 2015
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "308a3240025ad154f7ea5cc87d8f6d7f5e78ce57", 
+      "title": "Lexicon modeling for query understanding", 
+      "url": "https://www.semanticscholar.org/paper/308a3240025ad154f7ea5cc87d8f6d7f5e78ce57", 
+      "venue": "2011 IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP)", 
+      "year": 2011
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "9e5409de767aea61b1cbc27fbefbef55b9d0f16a", 
+      "title": "Extending domain coverage of language understanding systems via intent transfer between domains using knowledge graphs and search query click logs", 
+      "url": "https://www.semanticscholar.org/paper/9e5409de767aea61b1cbc27fbefbef55b9d0f16a", 
+      "venue": "2014 IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP)", 
+      "year": 2014
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "67ef895cf40c75108ef913dd41f3c98eb66494d7", 
+      "title": "Using Search-Logs to Improve Query Tagging", 
+      "url": "https://www.semanticscholar.org/paper/67ef895cf40c75108ef913dd41f3c98eb66494d7", 
+      "venue": "ACL", 
+      "year": 2012
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "149f9b7db95cbf9d00695b4c79f98515053400d7", 
+      "title": "Mining query structure from click data: a case study of product queries", 
+      "url": "https://www.semanticscholar.org/paper/149f9b7db95cbf9d00695b4c79f98515053400d7", 
+      "venue": "CIKM", 
+      "year": 2011
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "1d9d56304b14a41c9775d4701b247e85f036fcf8", 
+      "title": "Unsupervised Template Mining for Semantic Category Understanding", 
+      "url": "https://www.semanticscholar.org/paper/1d9d56304b14a41c9775d4701b247e85f036fcf8", 
+      "venue": "EMNLP", 
+      "year": 2014
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "2da40f5dda818aea7cca17affa976735c0452cb6", 
+      "title": "Named Entity Recognition in Travel-Related Search Queries", 
+      "url": "https://www.semanticscholar.org/paper/2da40f5dda818aea7cca17affa976735c0452cb6", 
+      "venue": "AAAI", 
+      "year": 2015
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "ade77fd2447b753becd9c3c4faf5fb4472e5e75f", 
+      "title": "Simple and Knowledge-intensive Generative Model for Named Entity Recognition", 
+      "url": "https://www.semanticscholar.org/paper/ade77fd2447b753becd9c3c4faf5fb4472e5e75f", 
+      "venue": "", 
+      "year": 2012
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "6216b517f9bc0d3a46355e01b0cf5fa98d61ce8c", 
+      "title": "Employing web search query click logs for multi-domain spoken language understanding", 
+      "url": "https://www.semanticscholar.org/paper/6216b517f9bc0d3a46355e01b0cf5fa98d61ce8c", 
+      "venue": "ASRU", 
+      "year": 2011
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "b2ca04de6a62370ca805832cbb22e3ccd56fd18c", 
+      "title": "Alignment of short length parallel corpora with an application to web search", 
+      "url": "https://www.semanticscholar.org/paper/b2ca04de6a62370ca805832cbb22e3ccd56fd18c", 
+      "venue": "CIKM", 
+      "year": 2010
+    }
+  ], 
+  "doi": "10.1145/1571941.1572039", 
+  "influentialCitationCount": 3, 
+  "paperId": "3ad67ceff6f1efbc4a83ae9e30cc5d4a2ea908ef", 
+  "references": [
+    {
+      "isInfluential": false, 
+      "paperId": "3b610c7dda8ff9b2bc7796571ec25907b29a285d", 
+      "title": "Webpage understanding: an integrated approach", 
+      "url": "https://www.semanticscholar.org/paper/3b610c7dda8ff9b2bc7796571ec25907b29a285d", 
+      "venue": "KDD", 
+      "year": 2007
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "1ce5def24ba497a27c8742cb8b0ad5a6602cfb1c", 
+      "title": "An unsupervised framework for extracting and normalizing product attributes from multiple web sites", 
+      "url": "https://www.semanticscholar.org/paper/1ce5def24ba497a27c8742cb8b0ad5a6602cfb1c", 
+      "venue": "SIGIR", 
+      "year": 2008
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "a0cdd75eeeb74a31724d209b8a251f2da8511b3e", 
+      "title": "Extracting Structured Data from Web Pages (Poster)", 
+      "url": "https://www.semanticscholar.org/paper/a0cdd75eeeb74a31724d209b8a251f2da8511b3e", 
+      "venue": "", 
+      "year": 2003
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "7ece4e8d31f872d928369ac2cf58a616a7182112", 
+      "title": "Semi-Supervised Sequential Labeling and Segmentation Using Giga-Word Scale Unlabeled Data", 
+      "url": "https://www.semanticscholar.org/paper/7ece4e8d31f872d928369ac2cf58a616a7182112", 
+      "venue": "ACL", 
+      "year": 2008
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "8168075428a12bbff17931cf4bfe0fe514caea6b", 
+      "title": "Unsupervised Learning of Field Segmentation Models for Information Extraction", 
+      "url": "https://www.semanticscholar.org/paper/8168075428a12bbff17931cf4bfe0fe514caea6b", 
+      "venue": "ACL", 
+      "year": 2005
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "9135f31b1ac908e24389d3df00f59a75c3f72776", 
+      "title": "Bootstrapping Information Extraction from Field Books", 
+      "url": "https://www.semanticscholar.org/paper/9135f31b1ac908e24389d3df00f59a75c3f72776", 
+      "venue": "EMNLP-CoNLL", 
+      "year": 2007
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "c6e5749339dacbd47124f28192139041d61f3511", 
+      "title": "The Linguistic Structure of English Web-Search Queries", 
+      "url": "https://www.semanticscholar.org/paper/c6e5749339dacbd47124f28192139041d61f3511", 
+      "venue": "EMNLP", 
+      "year": 2008
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "2421a14ce3cdd563fc3155a151a69568b0ee6b31", 
+      "title": "Semi-supervised Learning by Entropy Minimization", 
+      "url": "https://www.semanticscholar.org/paper/2421a14ce3cdd563fc3155a151a69568b0ee6b31", 
+      "venue": "NIPS", 
+      "year": 2004
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "1bf2791b7247da960ddb76b78417fd3ab09a2971", 
+      "title": "Understanding the Yarowsky Algorithm", 
+      "url": "https://www.semanticscholar.org/paper/1bf2791b7247da960ddb76b78417fd3ab09a2971", 
+      "venue": "Computational Linguistics", 
+      "year": 2004
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "424605dca47f5bfbd268ca9540b0415394fc9133", 
+      "title": "Table extraction using conditional random fields", 
+      "url": "https://www.semanticscholar.org/paper/424605dca47f5bfbd268ca9540b0415394fc9133", 
+      "venue": "SIGIR", 
+      "year": 2003
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "377ba65f0fd061e97fe380595431c3ce839e9b5b", 
+      "title": "Generalized Expectation Criteria for Semi-Supervised Learning of Conditional Random Fields", 
+      "url": "https://www.semanticscholar.org/paper/377ba65f0fd061e97fe380595431c3ce839e9b5b", 
+      "venue": "ACL", 
+      "year": 2008
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "4635954c87c4c944b56509fab4e6ba5503963597", 
+      "title": "Learning to extract information from semi-structured text using a discriminative context free grammar", 
+      "url": "https://www.semanticscholar.org/paper/4635954c87c4c944b56509fab4e6ba5503963597", 
+      "venue": "SIGIR", 
+      "year": 2005
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "16f125dc37c3fb3de00e3ade31897fdcdb5492f9", 
+      "title": "Hidden conditional random fields", 
+      "url": "https://www.semanticscholar.org/paper/16f125dc37c3fb3de00e3ade31897fdcdb5492f9", 
+      "venue": "IEEE Transaction on Pattern Analysis and Machine Intellegence", 
+      "year": 2007
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "8e2dc531af478a4eb2c15852e972d45acf875e1b", 
+      "title": "On Virtual Evidence and Soft Evidence in Bayesian Networks", 
+      "url": "https://www.semanticscholar.org/paper/8e2dc531af478a4eb2c15852e972d45acf875e1b", 
+      "venue": "", 
+      "year": 2004
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "6412728a960bfc800a63058422ea690de1b7c1a6", 
+      "title": "Exploiting Structured Reference Data for Unsupervised Text Segmentation with Conditional Random Fields", 
+      "url": "https://www.semanticscholar.org/paper/6412728a960bfc800a63058422ea690de1b7c1a6", 
+      "venue": "SDM", 
+      "year": 2008
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "6718f8e95461456023196fe6409073151ab0513d", 
+      "title": "Learning query intent from regularized click graphs", 
+      "url": "https://www.semanticscholar.org/paper/6718f8e95461456023196fe6409073151ab0513d", 
+      "venue": "SIGIR", 
+      "year": 2008
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "0c7f52c753a65ceaf3755e20b906ffd0c05c994a", 
+      "title": "Conditional Random Fields: Probabilistic Models for Segmenting and Labeling Sequence Data", 
+      "url": "https://www.semanticscholar.org/paper/0c7f52c753a65ceaf3755e20b906ffd0c05c994a", 
+      "venue": "ICML", 
+      "year": 2001
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "1d0a2a5a170cb06b4aa47c20df0d29b0e5d96946", 
+      "title": "Semi-Supervised Conditional Random Fields for Improved Sequence Segmentation and Labeling", 
+      "url": "https://www.semanticscholar.org/paper/1d0a2a5a170cb06b4aa47c20df0d29b0e5d96946", 
+      "venue": "ACL", 
+      "year": 2006
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "5211c32fb5849a14855a91a7ab16cfb83483cc1d", 
+      "title": "Unsupervised Word Sense Disambiguation Rivaling Supervised Methods", 
+      "url": "https://www.semanticscholar.org/paper/5211c32fb5849a14855a91a7ab16cfb83483cc1d", 
+      "venue": "ACL", 
+      "year": 1995
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "2a27d4c259331ccbb909cddeb9f9a9149dbb3912", 
+      "title": "Learning from labeled features using generalized expectation criteria", 
+      "url": "https://www.semanticscholar.org/paper/2a27d4c259331ccbb909cddeb9f9a9149dbb3912", 
+      "venue": "SIGIR", 
+      "year": 2008
+    }
+  ], 
+  "title": "Extracting structured information from user queries with semi-supervised conditional random fields", 
+  "url": "https://www.semanticscholar.org/paper/3ad67ceff6f1efbc4a83ae9e30cc5d4a2ea908ef", 
+  "venue": "SIGIR", 
+  "year": 2009
+}

@@ -1,0 +1,431 @@
+{
+  "authors": [
+    {
+      "authorId": "3221743", 
+      "name": "Zhenghua Li", 
+      "url": "https://www.semanticscholar.org/author/3221743"
+    }, 
+    {
+      "authorId": "2173496", 
+      "name": "Min Zhang", 
+      "url": "https://www.semanticscholar.org/author/2173496"
+    }, 
+    {
+      "authorId": "2463750", 
+      "name": "Wenliang Chen", 
+      "url": "https://www.semanticscholar.org/author/2463750"
+    }
+  ], 
+  "citationVelocity": 0, 
+  "citations": [
+    {
+      "isInfluential": false, 
+      "paperId": "8fa511f3958171f3fc110c9eb8b39628e5c160f4", 
+      "title": "Tackling Error Propagation through Reinforcement Learning: A Case of Greedy Dependency Parsing", 
+      "url": "https://www.semanticscholar.org/paper/8fa511f3958171f3fc110c9eb8b39628e5c160f4", 
+      "venue": "EACL", 
+      "year": 2017
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "39f1b108687f643015f96a0c800585a44621f99c", 
+      "title": "Parsing as Language Modeling", 
+      "url": "https://www.semanticscholar.org/paper/39f1b108687f643015f96a0c800585a44621f99c", 
+      "venue": "EMNLP", 
+      "year": 2016
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "59d358a2ccc0c440043475d7d6eeaf3efcae9c0d", 
+      "title": "Coupled Sequence Labeling on Heterogeneous Annotations: POS Tagging as a Case Study", 
+      "url": "https://www.semanticscholar.org/paper/59d358a2ccc0c440043475d7d6eeaf3efcae9c0d", 
+      "venue": "ACL", 
+      "year": 2015
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "69af98a197b1e9c93af74a84e8f8645143c30a0f", 
+      "title": "Probabilistic Graph-based Dependency Parsing with Convolutional Neural Network", 
+      "url": "https://www.semanticscholar.org/paper/69af98a197b1e9c93af74a84e8f8645143c30a0f", 
+      "venue": "ACL", 
+      "year": 2016
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "aea4c98d09e98f60f493fe5e8d9fbe69defb7a58", 
+      "title": "Improving Unsupervised Dependency Parsing with Knowledge from Query Logs", 
+      "url": "https://www.semanticscholar.org/paper/aea4c98d09e98f60f493fe5e8d9fbe69defb7a58", 
+      "venue": "ACM Trans. Asian & Low-Resource Lang. Inf. Process.", 
+      "year": 2016
+    }, 
+    {
+      "isInfluential": true, 
+      "paperId": "75ec768db9421594d7d4e7e26e5bc121cc14ee15", 
+      "title": "Structured Training for Neural Network Transition-Based Parsing", 
+      "url": "https://www.semanticscholar.org/paper/75ec768db9421594d7d4e7e26e5bc121cc14ee15", 
+      "venue": "ACL", 
+      "year": 2015
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "289e3e6b84982eb65aea8e3a64f2f6916c98e87e", 
+      "title": "Grammar as a Foreign Language", 
+      "url": "https://www.semanticscholar.org/paper/289e3e6b84982eb65aea8e3a64f2f6916c98e87e", 
+      "venue": "NIPS", 
+      "year": 2015
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "029012cfc0ec6c19fdb03cfe61588c5a2ed2fe33", 
+      "title": "Coupled POS Tagging on Heterogeneous Annotations", 
+      "url": "https://www.semanticscholar.org/paper/029012cfc0ec6c19fdb03cfe61588c5a2ed2fe33", 
+      "venue": "IEEE/ACM Transactions on Audio, Speech, and Language Processing", 
+      "year": 2017
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "0f7cbd8beb5a8b8742c7c028f10e6b8756781edc", 
+      "title": "Dependency Parsing as Head Selection", 
+      "url": "https://www.semanticscholar.org/paper/0f7cbd8beb5a8b8742c7c028f10e6b8756781edc", 
+      "venue": "EACL", 
+      "year": 2017
+    }
+  ], 
+  "doi": null, 
+  "influentialCitationCount": 1, 
+  "paperId": "016842482d3d733d8b999f6b9735a15906a12b53", 
+  "references": [
+    {
+      "isInfluential": false, 
+      "paperId": "59bb92a47501ac028fc18a7fddb1d4452862a015", 
+      "title": "Generalized Higher-Order Dependency Parsing with Cube Pruning", 
+      "url": "https://www.semanticscholar.org/paper/59bb92a47501ac028fc18a7fddb1d4452862a015", 
+      "venue": "EMNLP-CoNLL", 
+      "year": 2012
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "28d9c89f946a39d3c4146bf32ddff546845e1801", 
+      "title": "Simple Semi-supervised Dependency Parsing", 
+      "url": "https://www.semanticscholar.org/paper/28d9c89f946a39d3c4146bf32ddff546845e1801", 
+      "venue": "ACL", 
+      "year": 2008
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "5e80938dedf6c8b8fe6d05278ef47eb957ca931e", 
+      "title": "Improving Dependency Parsing with Subtrees from Auto-Parsed Data", 
+      "url": "https://www.semanticscholar.org/paper/5e80938dedf6c8b8fe6d05278ef47eb957ca931e", 
+      "venue": "EMNLP", 
+      "year": 2009
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "51cfde9bbc25a4cff1d5666815674c83886d933e", 
+      "title": "Top Accuracy and Fast Dependency Parsing is not a Contradiction", 
+      "url": "https://www.semanticscholar.org/paper/51cfde9bbc25a4cff1d5666815674c83886d933e", 
+      "venue": "COLING", 
+      "year": 2010
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "ab41136c0a73b42463db10f9dd2913f8d8735155", 
+      "title": "An Efficient Algorithm for Projective Dependency Parsing", 
+      "url": "https://www.semanticscholar.org/paper/ab41136c0a73b42463db10f9dd2913f8d8735155", 
+      "venue": "", 
+      "year": 2003
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "2f8d02fd24b51dd02db4e7e43313c482b23df298", 
+      "title": "Sequence Learning from Data with Multiple Labels", 
+      "url": "https://www.semanticscholar.org/paper/2f8d02fd24b51dd02db4e7e43313c482b23df298", 
+      "venue": "", 
+      "year": 2009
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "d1d88d7c686b465a504b1c264c3793ba3d8a3110", 
+      "title": "Semi-Supervised Feature Transformation for Dependency Parsing", 
+      "url": "https://www.semanticscholar.org/paper/d1d88d7c686b465a504b1c264c3793ba3d8a3110", 
+      "venue": "EMNLP", 
+      "year": 2013
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "c0b353701dacd7869bdd42809635f068acd6f50c", 
+      "title": "Exploiting Web-Derived Selectional Preference to Improve Statistical Dependency Parsing", 
+      "url": "https://www.semanticscholar.org/paper/c0b353701dacd7869bdd42809635f068acd6f50c", 
+      "venue": "ACL", 
+      "year": 2011
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "3ce0f00d6c949192107f1bd6a167c03e1fb7393a", 
+      "title": "An Efficient Algorithm for Easy-First Non-Directional Dependency Parsing", 
+      "url": "https://www.semanticscholar.org/paper/3ce0f00d6c949192107f1bd6a167c03e1fb7393a", 
+      "venue": "HLT-NAACL", 
+      "year": 2010
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "798957b4bbe99fcf9283027d30e19eb03ce6b4d5", 
+      "title": "Dependency Parsing and Domain Adaptation with LR Models and Parser Ensembles", 
+      "url": "https://www.semanticscholar.org/paper/798957b4bbe99fcf9283027d30e19eb03ce6b4d5", 
+      "venue": "EMNLP-CoNLL", 
+      "year": 2007
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "5811766be47bd29add504ff0880ab06272485dfe", 
+      "title": "Stacking Dependency Parsers", 
+      "url": "https://www.semanticscholar.org/paper/5811766be47bd29add504ff0880ab06272485dfe", 
+      "venue": "EMNLP", 
+      "year": 2008
+    }, 
+    {
+      "isInfluential": true, 
+      "paperId": "c1d96c0f421f8b519cafdbb4e499faa1c797ed9b", 
+      "title": "Transition-based Dependency Parsing with Rich Non-local Features", 
+      "url": "https://www.semanticscholar.org/paper/c1d96c0f421f8b519cafdbb4e499faa1c797ed9b", 
+      "venue": "ACL", 
+      "year": 2011
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "7bfbabdc800f70eb4efa60e64b91044aad23c4a8", 
+      "title": "Online Learning of Approximate Dependency Parsing Algorithms", 
+      "url": "https://www.semanticscholar.org/paper/7bfbabdc800f70eb4efa60e64b91044aad23c4a8", 
+      "venue": "EACL", 
+      "year": 2006
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "5a97c9831172dfcd116405c3842870122fe3d336", 
+      "title": "Ensemble Models for Dependency Parsing: Cheap and Good?", 
+      "url": "https://www.semanticscholar.org/paper/5a97c9831172dfcd116405c3842870122fe3d336", 
+      "venue": "HLT-NAACL", 
+      "year": 2010
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "5211c32fb5849a14855a91a7ab16cfb83483cc1d", 
+      "title": "Unsupervised Word Sense Disambiguation Rivaling Supervised Methods", 
+      "url": "https://www.semanticscholar.org/paper/5211c32fb5849a14855a91a7ab16cfb83483cc1d", 
+      "venue": "ACL", 
+      "year": 1995
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "8476e1c0995ea3c23ab00cab940c5ba12216e15c", 
+      "title": "When Semi-supervised Learning Meets Ensemble Learning", 
+      "url": "https://www.semanticscholar.org/paper/8476e1c0995ea3c23ab00cab940c5ba12216e15c", 
+      "venue": "MCS", 
+      "year": 2009
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "f0e1883cf9d1b3c911125f46359f908557fc5827", 
+      "title": "Statistical Dependency Analysis with Support Vector Machines", 
+      "url": "https://www.semanticscholar.org/paper/f0e1883cf9d1b3c911125f46359f908557fc5827", 
+      "venue": "", 
+      "year": 2003
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "a6fd69a268981ae3e85e5a87d24a614c2d0ca97b", 
+      "title": "Integrating Graph-Based and Transition-Based Dependency Parsers", 
+      "url": "https://www.semanticscholar.org/paper/a6fd69a268981ae3e85e5a87d24a614c2d0ca97b", 
+      "venue": "ACL", 
+      "year": 2008
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "0ecb33ced5b0976accdf13817151f80568b6fdcb", 
+      "title": "Coarse-to-Fine n-Best Parsing and MaxEnt Discriminative Reranking", 
+      "url": "https://www.semanticscholar.org/paper/0ecb33ced5b0976accdf13817151f80568b6fdcb", 
+      "venue": "ACL", 
+      "year": 2005
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "281507601d3d57f087547016a6863a7643cf2417", 
+      "title": "A Transition-Based System for Joint Part-of-Speech Tagging and Labeled Non-Projective Dependency Parsing", 
+      "url": "https://www.semanticscholar.org/paper/281507601d3d57f087547016a6863a7643cf2417", 
+      "venue": "EMNLP-CoNLL", 
+      "year": 2012
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "fa97eda69a5a62388ea5bd02439a356b94047268", 
+      "title": "Probabilistic Models for Action-Based Chinese Dependency Parsing", 
+      "url": "https://www.semanticscholar.org/paper/fa97eda69a5a62388ea5bd02439a356b94047268", 
+      "venue": "ECML", 
+      "year": 2007
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "209b0feed0e3154e32e1693b2b9ac81ae863d867", 
+      "title": "Learning with Multiple Labels", 
+      "url": "https://www.semanticscholar.org/paper/209b0feed0e3154e32e1693b2b9ac81ae863d867", 
+      "venue": "NIPS", 
+      "year": 2002
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "4add8164f2de84223235a6cd8240bdf0fefe2b3f", 
+      "title": "Improved Inference for Unlexicalized Parsing", 
+      "url": "https://www.semanticscholar.org/paper/4add8164f2de84223235a6cd8240bdf0fefe2b3f", 
+      "venue": "HLT-NAACL", 
+      "year": 2007
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "15a3ed7dfc005aa6f84f1e1fb81ef6d54ce3d8aa", 
+      "title": "Combining Labeled and Unlabeled Data with Co-Training", 
+      "url": "https://www.semanticscholar.org/paper/15a3ed7dfc005aa6f84f1e1fb81ef6d54ce3d8aa", 
+      "venue": "", 
+      "year": 1998
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "7c116b83bb2562ed2c18f0c7741c020884e4500c", 
+      "title": "Efficient Third-Order Dependency Parsers", 
+      "url": "https://www.semanticscholar.org/paper/7c116b83bb2562ed2c18f0c7741c020884e4500c", 
+      "venue": "ACL", 
+      "year": 2010
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "160cacde3668ce76fa2b476bfe03fc458127b27d", 
+      "title": "Web-Scale Features for Full-Scale Parsing", 
+      "url": "https://www.semanticscholar.org/paper/160cacde3668ce76fa2b476bfe03fc458127b27d", 
+      "venue": "ACL", 
+      "year": 2011
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "6ffbfc01fd25546093d1f1953522d782d4e7fa8d", 
+      "title": "Parser Combination by Reparsing", 
+      "url": "https://www.semanticscholar.org/paper/6ffbfc01fd25546093d1f1953522d782d4e7fa8d", 
+      "venue": "HLT-NAACL", 
+      "year": 2006
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "95548e83a11a6cb691c6a15e0c8af912a306b0c8", 
+      "title": "An Empirical Study of Semi-supervised Structured Conditional Models for Dependency Parsing", 
+      "url": "https://www.semanticscholar.org/paper/95548e83a11a6cb691c6a15e0c8af912a306b0c8", 
+      "venue": "EMNLP", 
+      "year": 2009
+    }, 
+    {
+      "isInfluential": true, 
+      "paperId": "84b81aa5baf439a24ed52a96c22ffd78a63bb754", 
+      "title": "Efficient, Feature-based, Conditional Random Field Parsing", 
+      "url": "https://www.semanticscholar.org/paper/84b81aa5baf439a24ed52a96c22ffd78a63bb754", 
+      "venue": "ACL", 
+      "year": 2008
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "1d321432ba648ebbfd8ba0fec61ae0b4acb9111d", 
+      "title": "Bootstrapping Feature-Rich Dependency Parsers with Entropic Priors", 
+      "url": "https://www.semanticscholar.org/paper/1d321432ba648ebbfd8ba0fec61ae0b4acb9111d", 
+      "venue": "EMNLP-CoNLL", 
+      "year": 2007
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "bcd0facdafa2bba6e8f2abde989ff5cb18d3ab9e", 
+      "title": "Semi-supervised dependency parsing using generalized tri-training", 
+      "url": "https://www.semanticscholar.org/paper/bcd0facdafa2bba6e8f2abde989ff5cb18d3ab9e", 
+      "venue": "COLING", 
+      "year": 2010
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "425f192dc51bc00051aacd48ee82ce8c1e03a3dd", 
+      "title": "Effective Self-Training for Parsing", 
+      "url": "https://www.semanticscholar.org/paper/425f192dc51bc00051aacd48ee82ce8c1e03a3dd", 
+      "venue": "HLT-NAACL", 
+      "year": 2006
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "346bcbebafd193aba689269da2de51bfaf163df2", 
+      "title": "Discriminative Reranking for Natural Language Parsing", 
+      "url": "https://www.semanticscholar.org/paper/346bcbebafd193aba689269da2de51bfaf163df2", 
+      "venue": "ICML", 
+      "year": 2000
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "7a8475e88bef685273bfc0795f6ac68adf210a2a", 
+      "title": "Semi-Supervised Convex Training for Dependency Parsing", 
+      "url": "https://www.semanticscholar.org/paper/7a8475e88bef685273bfc0795f6ac68adf210a2a", 
+      "venue": "ACL", 
+      "year": 2008
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "2e65d19edb5afbf04c3d47d43fc89da30060223c", 
+      "title": "Tri-training: exploiting unlabeled data using three classifiers", 
+      "url": "https://www.semanticscholar.org/paper/2e65d19edb5afbf04c3d47d43fc89da30060223c", 
+      "venue": "IEEE Transactions on Knowledge and Data Engineering", 
+      "year": 2005
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "5bfd8d40bc071fffaf93685a46974b122ee4239d", 
+      "title": "Self-Training PCFG Grammars with Latent Annotations Across Languages", 
+      "url": "https://www.semanticscholar.org/paper/5bfd8d40bc071fffaf93685a46974b122ee4239d", 
+      "venue": "EMNLP", 
+      "year": 2009
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "846a3c8833e809810f2b5f8ea7982b95e8bb42d1", 
+      "title": "Online Large-Margin Training of Dependency Parsers", 
+      "url": "https://www.semanticscholar.org/paper/846a3c8833e809810f2b5f8ea7982b95e8bb42d1", 
+      "venue": "ACL", 
+      "year": 2005
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "42b64e90307bf03bc1b5bca707e69b7e08265738", 
+      "title": "Target Language Adaptation of Discriminative Transfer Parsers", 
+      "url": "https://www.semanticscholar.org/paper/42b64e90307bf03bc1b5bca707e69b7e08265738", 
+      "venue": "HLT-NAACL", 
+      "year": 2013
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "1b1a7be966468641e604f0e378ed4aea0e8e18c7", 
+      "title": "A Separately Passive-Aggressive Training Algorithm for Joint POS Tagging and Dependency Parsing", 
+      "url": "https://www.semanticscholar.org/paper/1b1a7be966468641e604f0e378ed4aea0e8e18c7", 
+      "venue": "COLING", 
+      "year": 2012
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "42778f56e33f28349c2af42fcf0187a539548222", 
+      "title": "Data-Driven Dependency Parsing of New Languages Using Incomplete and Noisy Training Data", 
+      "url": "https://www.semanticscholar.org/paper/42778f56e33f28349c2af42fcf0187a539548222", 
+      "venue": "CoNLL", 
+      "year": 2009
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "c205e82ddf7d9bd759cca3e16baa60c49cecf056", 
+      "title": "Experiments with a Higher-Order Projective Dependency Parser", 
+      "url": "https://www.semanticscholar.org/paper/c205e82ddf7d9bd759cca3e16baa60c49cecf056", 
+      "venue": "EMNLP-CoNLL", 
+      "year": 2007
+    }
+  ], 
+  "title": "Ambiguity-aware Ensemble Training for Semi-supervised Dependency Parsing", 
+  "url": "https://www.semanticscholar.org/paper/016842482d3d733d8b999f6b9735a15906a12b53", 
+  "venue": "ACL", 
+  "year": 2014
+}

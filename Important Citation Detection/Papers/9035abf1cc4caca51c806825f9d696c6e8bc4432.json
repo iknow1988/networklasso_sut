@@ -1,0 +1,994 @@
+{
+  "authors": [
+    {
+      "authorId": "3003084", 
+      "name": "Shibin Parameswaran", 
+      "url": "https://www.semanticscholar.org/author/3003084"
+    }, 
+    {
+      "authorId": "7446832", 
+      "name": "Kilian Q. Weinberger", 
+      "url": "https://www.semanticscholar.org/author/7446832"
+    }
+  ], 
+  "citationVelocity": 35, 
+  "citations": [
+    {
+      "isInfluential": true, 
+      "paperId": "2cd7d55c994bb99352d86e420dcc5fd060dbce3f", 
+      "title": "Geometry preserving multi-task metric learning", 
+      "url": "https://www.semanticscholar.org/paper/2cd7d55c994bb99352d86e420dcc5fd060dbce3f", 
+      "venue": "Machine Learning", 
+      "year": 2012
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "2750dbc60d5ccc8fbe5e4babae6cfab543940f1a", 
+      "title": "Distance-Based Image Classification: Generalizing to New Classes at Near-Zero Cost", 
+      "url": "https://www.semanticscholar.org/paper/2750dbc60d5ccc8fbe5e4babae6cfab543940f1a", 
+      "venue": "IEEE Transactions on Pattern Analysis and Machine Intelligence", 
+      "year": 2013
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "d6369b96307248c81a3ca37a74ae0e0c40d029c2", 
+      "title": "Prognosis and Diagnosis of Parkinson's Disease Using Multi-Task Learning", 
+      "url": "https://www.semanticscholar.org/paper/d6369b96307248c81a3ca37a74ae0e0c40d029c2", 
+      "venue": "KDD", 
+      "year": 2017
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "18bc39c1077c164370483247f85bd13215c0d0d3", 
+      "title": "Heterogeneous multi-metric learning for multi-sensor fusion", 
+      "url": "https://www.semanticscholar.org/paper/18bc39c1077c164370483247f85bd13215c0d0d3", 
+      "venue": "14th International Conference on Information Fusion", 
+      "year": 2011
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "dedc7b080b8e13d72f8dc33e248e7637d191fdbf", 
+      "title": "Beyond Dataset Bias: Multi-task Unaligned Shared Knowledge Transfer", 
+      "url": "https://www.semanticscholar.org/paper/dedc7b080b8e13d72f8dc33e248e7637d191fdbf", 
+      "venue": "ACCV", 
+      "year": 2012
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "6e1a72b60bb0a1563d971db76a3acd2867df8f6e", 
+      "title": "Lifelong Metric Learning", 
+      "url": "https://www.semanticscholar.org/paper/6e1a72b60bb0a1563d971db76a3acd2867df8f6e", 
+      "venue": "ArXiv", 
+      "year": 2017
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "107c30547011f3915fee476eb81cff344141cab1", 
+      "title": "Fast LMNN Algorithm through Random Sampling", 
+      "url": "https://www.semanticscholar.org/paper/107c30547011f3915fee476eb81cff344141cab1", 
+      "venue": "2015 IEEE International Conference on Data Mining Workshop (ICDMW)", 
+      "year": 2015
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "4770f73bc3ad0097fc8cdff3a3f8feaed1060595", 
+      "title": "Person Re-Identification Over Camera Networks Using Multi-Task Distance Metric Learning", 
+      "url": "https://www.semanticscholar.org/paper/4770f73bc3ad0097fc8cdff3a3f8feaed1060595", 
+      "venue": "IEEE Transactions on Image Processing", 
+      "year": 2014
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "24f1f4483bd4a7f8d1671defe2b69d18ff2bd44f", 
+      "title": "Regularized Multi-view Multi-metric Learning for Action Recognition", 
+      "url": "https://www.semanticscholar.org/paper/24f1f4483bd4a7f8d1671defe2b69d18ff2bd44f", 
+      "venue": "ICPR", 
+      "year": 2014
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "8e4644221268f59f28c922cec839449b2330fe74", 
+      "title": "Friendship Prediction in Composite Social Networks", 
+      "url": "https://www.semanticscholar.org/paper/8e4644221268f59f28c922cec839449b2330fe74", 
+      "venue": "ArXiv", 
+      "year": 2014
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "6f0cde3fcab0044f386b5b8a4244c371507bec15", 
+      "title": "A Survey on Metric Learning for Feature Vectors and Structured Data", 
+      "url": "https://www.semanticscholar.org/paper/6f0cde3fcab0044f386b5b8a4244c371507bec15", 
+      "venue": "ArXiv", 
+      "year": 2013
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "675f9cfb127e448206ec65e0fcf629d73c13f06d", 
+      "title": "Multi-stage multi-task feature learning via adaptive threshold", 
+      "url": "https://www.semanticscholar.org/paper/675f9cfb127e448206ec65e0fcf629d73c13f06d", 
+      "venue": "ICPR", 
+      "year": 2016
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "af960556e632d58370a42207837cc8bc624087a3", 
+      "title": "Multi-task learning with selective cross-task transfer for predicting bleeding and other important patient outcomes", 
+      "url": "https://www.semanticscholar.org/paper/af960556e632d58370a42207837cc8bc624087a3", 
+      "venue": "2015 IEEE International Conference on Data Science and Advanced Analytics (DSAA)", 
+      "year": 2015
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "78a003f2cb0d621040ec8afda853f10230d79830", 
+      "title": "Convergence of Multi-pass Large Margin Nearest Neighbor Metric Learning", 
+      "url": "https://www.semanticscholar.org/paper/78a003f2cb0d621040ec8afda853f10230d79830", 
+      "venue": "ICANN", 
+      "year": 2016
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "16dbaf87b0497693dff3dd58e891bdc75f4fadf5", 
+      "title": "Learning Multi-Level Task Groups in Multi-Task Learning", 
+      "url": "https://www.semanticscholar.org/paper/16dbaf87b0497693dff3dd58e891bdc75f4fadf5", 
+      "venue": "AAAI", 
+      "year": 2015
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "4e41aafa8b99a60778727566dc2ee0624b8df776", 
+      "title": "A multi-task framework for metric learning with common subspace", 
+      "url": "https://www.semanticscholar.org/paper/4e41aafa8b99a60778727566dc2ee0624b8df776", 
+      "venue": "Neural Computing and Applications", 
+      "year": 2012
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "4529ff6bae3d2b530cbd394e8eae381d09d1e88f", 
+      "title": "Multi-task deep visual-semantic embedding for video thumbnail selection", 
+      "url": "https://www.semanticscholar.org/paper/4529ff6bae3d2b530cbd394e8eae381d09d1e88f", 
+      "venue": "2015 IEEE Conference on Computer Vision and Pattern Recognition (CVPR)", 
+      "year": 2015
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "2d563f9148c94e6fca1704295b91e21b8593dcb2", 
+      "title": "Multi-target regression with rule ensembles", 
+      "url": "https://www.semanticscholar.org/paper/2d563f9148c94e6fca1704295b91e21b8593dcb2", 
+      "venue": "Journal of Machine Learning Research", 
+      "year": 2012
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "0ef4390a6422b82b46369266141b127b9420721d", 
+      "title": "Similarity Component Analysis", 
+      "url": "https://www.semanticscholar.org/paper/0ef4390a6422b82b46369266141b127b9420721d", 
+      "venue": "NIPS", 
+      "year": 2013
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "09755f549468209199565f8037061281080c968f", 
+      "title": "Interactive machine learning for health informatics: when do we need the human-in-the-loop?", 
+      "url": "https://www.semanticscholar.org/paper/09755f549468209199565f8037061281080c968f", 
+      "venue": "Brain Informatics", 
+      "year": 2016
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "99395d59f5c6d8912d17df9e923098aba336ff0d", 
+      "title": "Personalized collaborative clustering", 
+      "url": "https://www.semanticscholar.org/paper/99395d59f5c6d8912d17df9e923098aba336ff0d", 
+      "venue": "WWW", 
+      "year": 2014
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "82f8652c2059187b944ce65e87bacb6b765521f6", 
+      "title": "Discriminative Object Categorization with External Semantic Knowledge", 
+      "url": "https://www.semanticscholar.org/paper/82f8652c2059187b944ce65e87bacb6b765521f6", 
+      "venue": "", 
+      "year": 2012
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "39787dde76648bea72854aab06a003ff717423a6", 
+      "title": "Maximum-Margin Coupled Mappings for cross-domain matching", 
+      "url": "https://www.semanticscholar.org/paper/39787dde76648bea72854aab06a003ff717423a6", 
+      "venue": "2013 IEEE Sixth International Conference on Biometrics: Theory, Applications and Systems (BTAS)", 
+      "year": 2013
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "64eb3532bf6de0a4f0c59e834ef2e1211e290348", 
+      "title": "Multitask multiclass privileged information support vector machines", 
+      "url": "https://www.semanticscholar.org/paper/64eb3532bf6de0a4f0c59e834ef2e1211e290348", 
+      "venue": "ICPR", 
+      "year": 2012
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "11d1dad80a5411d25fae3025fd801989ce520d48", 
+      "title": "Learning a Tree of Metrics with Disjoint Visual Features", 
+      "url": "https://www.semanticscholar.org/paper/11d1dad80a5411d25fae3025fd801989ce520d48", 
+      "venue": "NIPS", 
+      "year": 2011
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "6b1b43d58faed7b457b1d4e8c16f5f7e7d819239", 
+      "title": "A multi-task model for simultaneous face identification and facial expression recognition", 
+      "url": "https://www.semanticscholar.org/paper/6b1b43d58faed7b457b1d4e8c16f5f7e7d819239", 
+      "venue": "Neurocomputing", 
+      "year": 2016
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "60cb794098486bcf9b8bcc25f1173184a2f01250", 
+      "title": "Multi-Task Metric Learning on Network Data", 
+      "url": "https://www.semanticscholar.org/paper/60cb794098486bcf9b8bcc25f1173184a2f01250", 
+      "venue": "PAKDD", 
+      "year": 2015
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "2a68a4b74427c2d0c2826299a7664cfd97e4a03d", 
+      "title": "Heterogeneous-Neighborhood-based Multi-Task Local Learning Algorithms", 
+      "url": "https://www.semanticscholar.org/paper/2a68a4b74427c2d0c2826299a7664cfd97e4a03d", 
+      "venue": "NIPS", 
+      "year": 2013
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "0eb51a496d886669807f348ba968dbd4244632fd", 
+      "title": "Multi-stage Multi-task Feature Learning", 
+      "url": "https://www.semanticscholar.org/paper/0eb51a496d886669807f348ba968dbd4244632fd", 
+      "venue": "", 
+      "year": 2012
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "d8b251cbcda6289bbeaff56692da963aa5a80cd2", 
+      "title": "Multi-Task Multi-Sample Learning", 
+      "url": "https://www.semanticscholar.org/paper/d8b251cbcda6289bbeaff56692da963aa5a80cd2", 
+      "venue": "ECCV Workshops", 
+      "year": 2014
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "10478ed2892f24c49ca0be1588c1c0e29841abb1", 
+      "title": "Unbiased Metric Learning: On the Utilization of Multiple Datasets and Web Images for Softening Bias", 
+      "url": "https://www.semanticscholar.org/paper/10478ed2892f24c49ca0be1588c1c0e29841abb1", 
+      "venue": "2013 IEEE International Conference on Computer Vision", 
+      "year": 2013
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "f4420a34c67a55d3bfec76f12abc255edfdb421f", 
+      "title": "Forward Backward Greedy Algorithms for Multi-Task Learning with Faster Rates", 
+      "url": "https://www.semanticscholar.org/paper/f4420a34c67a55d3bfec76f12abc255edfdb421f", 
+      "venue": "UAI", 
+      "year": 2016
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "c3a80efbab247c454e27fbdc917daeb8bee2939e", 
+      "title": "Multi-stage multi-task feature learning", 
+      "url": "https://www.semanticscholar.org/paper/c3a80efbab247c454e27fbdc917daeb8bee2939e", 
+      "venue": "Journal of Machine Learning Research", 
+      "year": 2012
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "d638d817a66becbef54ef2b6ae8240d8d93b1093", 
+      "title": "Two dimensional Large Margin Nearest Neighbor for Matrix Classification", 
+      "url": "https://www.semanticscholar.org/paper/d638d817a66becbef54ef2b6ae8240d8d93b1093", 
+      "venue": "IJCAI", 
+      "year": 2017
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "80277fb3a8a981933533cf478245f262652a33b5", 
+      "title": "Synergy-Based Learning of Facial Identity", 
+      "url": "https://www.semanticscholar.org/paper/80277fb3a8a981933533cf478245f262652a33b5", 
+      "venue": "DAGM/OAGM Symposium", 
+      "year": 2012
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "0ad8149318912b5449085187eb3521786a37bc78", 
+      "title": "CP-mtML: Coupled Projection Multi-Task Metric Learning for Large Scale Face Retrieval", 
+      "url": "https://www.semanticscholar.org/paper/0ad8149318912b5449085187eb3521786a37bc78", 
+      "venue": "2016 IEEE Conference on Computer Vision and Pattern Recognition (CVPR)", 
+      "year": 2016
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "5b37c449d4b78ad5e4f9edc7284164a64ffa52d8", 
+      "title": "Multitask centroid twin support vector machines", 
+      "url": "https://www.semanticscholar.org/paper/5b37c449d4b78ad5e4f9edc7284164a64ffa52d8", 
+      "venue": "Neurocomputing", 
+      "year": 2015
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "38f06a75eb0519ae1d4582a86ef4730cc8fb8d7f", 
+      "title": "Shrinkage Expansion Adaptive Metric Learning", 
+      "url": "https://www.semanticscholar.org/paper/38f06a75eb0519ae1d4582a86ef4730cc8fb8d7f", 
+      "venue": "ECCV", 
+      "year": 2014
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "83cd9a4b682e59dc23732a1a6e9b3446728ca5fd", 
+      "title": "Regularized Large Margin Distance Metric Learning", 
+      "url": "https://www.semanticscholar.org/paper/83cd9a4b682e59dc23732a1a6e9b3446728ca5fd", 
+      "venue": "2016 IEEE 16th International Conference on Data Mining (ICDM)", 
+      "year": 2016
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "c4d0d09115a0df856cdb389fbccb20f62b07b14e", 
+      "title": "Environment coupled metrics learning for unconstrained face verification", 
+      "url": "https://www.semanticscholar.org/paper/c4d0d09115a0df856cdb389fbccb20f62b07b14e", 
+      "venue": "2012 19th IEEE International Conference on Image Processing", 
+      "year": 2012
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "a6793de9a01afe47ffbb516cc32f66625f313231", 
+      "title": "Robust and Effective Metric Learning Using Capped Trace Norm: Metric Learning via Capped Trace Norm", 
+      "url": "https://www.semanticscholar.org/paper/a6793de9a01afe47ffbb516cc32f66625f313231", 
+      "venue": "KDD", 
+      "year": 2016
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "72a96a5416c87a6e23b7062947f6278ca4259e42", 
+      "title": "Relatively-Paired Space Analysis", 
+      "url": "https://www.semanticscholar.org/paper/72a96a5416c87a6e23b7062947f6278ca4259e42", 
+      "venue": "BMVC", 
+      "year": 2013
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "86be567bab1293ed847979d2c56a662fcbcbc1d5", 
+      "title": "Exploiting View-Specific Appearance Similarities Across Classes for Zero-Shot Pose Prediction: A Metric Learning Approach", 
+      "url": "https://www.semanticscholar.org/paper/86be567bab1293ed847979d2c56a662fcbcbc1d5", 
+      "venue": "AAAI", 
+      "year": 2016
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "7f5346a169c9784ca79aca5d95ae8bf2ebab58e3", 
+      "title": "Two-level multi-task metric learning with application to multi-classification", 
+      "url": "https://www.semanticscholar.org/paper/7f5346a169c9784ca79aca5d95ae8bf2ebab58e3", 
+      "venue": "2015 IEEE International Conference on Image Processing (ICIP)", 
+      "year": 2015
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "342a26ec13d77f91ed9d1b799f80c5f34410ec7a", 
+      "title": "Constraint Selection in Metric Learning", 
+      "url": "https://www.semanticscholar.org/paper/342a26ec13d77f91ed9d1b799f80c5f34410ec7a", 
+      "venue": "ArXiv", 
+      "year": 2016
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "4fffbf5406482305d9adcf8e24887e6f1773027a", 
+      "title": "Metric Learning: A Survey", 
+      "url": "https://www.semanticscholar.org/paper/4fffbf5406482305d9adcf8e24887e6f1773027a", 
+      "venue": "Foundations and Trends in Machine Learning", 
+      "year": 2013
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "c7a0fbb5389c0befb7f562c3a38b87b9a204de64", 
+      "title": "Data dependent modeling of Task-relatedness in Multi-Task Learning", 
+      "url": "https://www.semanticscholar.org/paper/c7a0fbb5389c0befb7f562c3a38b87b9a204de64", 
+      "venue": "", 
+      "year": 2012
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "562fdad6c889887e5174bb6259bb78f250c4b181", 
+      "title": "Decoding Brain Activation from Ipsilateral Cortex using ECoG Signals in Humans", 
+      "url": "https://www.semanticscholar.org/paper/562fdad6c889887e5174bb6259bb78f250c4b181", 
+      "venue": "", 
+      "year": 2015
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "2f1bede073ff7c8136e66df22d3feaabef5747ac", 
+      "title": "Fast Coupled Sequence Labeling on Heterogeneous Annotations via Context-aware Pruning", 
+      "url": "https://www.semanticscholar.org/paper/2f1bede073ff7c8136e66df22d3feaabef5747ac", 
+      "venue": "EMNLP", 
+      "year": 2016
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "b60f93b0d9d1af3e360c16f1f3443d9ea049b358", 
+      "title": "Multi-Task Learning for Straggler Avoiding Predictive Job Scheduling", 
+      "url": "https://www.semanticscholar.org/paper/b60f93b0d9d1af3e360c16f1f3443d9ea049b358", 
+      "venue": "Journal of Machine Learning Research", 
+      "year": 2016
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "5b5dd35e11961c041a73e24041fe4deff71ee017", 
+      "title": "Supervised Generative Models for Learning Dissimilarity Data", 
+      "url": "https://www.semanticscholar.org/paper/5b5dd35e11961c041a73e24041fe4deff71ee017", 
+      "venue": "ESANN", 
+      "year": 2014
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "31a825156ccc237f0b1abbfdd4dab3b3377ad872", 
+      "title": "Metric learning for hyperspectral image segmentation", 
+      "url": "https://www.semanticscholar.org/paper/31a825156ccc237f0b1abbfdd4dab3b3377ad872", 
+      "venue": "2011 3rd Workshop on Hyperspectral Image and Signal Processing: Evolution in Remote Sensing (WHISPERS)", 
+      "year": 2011
+    }, 
+    {
+      "isInfluential": true, 
+      "paperId": "6e81820218f445a593037d7098d0682991d89d85", 
+      "title": "Doubly Stochastic Primal-Dual Coordinate Method for Bilinear Saddle-Point Problem", 
+      "url": "https://www.semanticscholar.org/paper/6e81820218f445a593037d7098d0682991d89d85", 
+      "venue": "", 
+      "year": 2015
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "bee7ecf5ddeabbcd12163daa2c81e66b0639c454", 
+      "title": "Feasibility Based-Large Margin Nearest Neighbor Metric Learning", 
+      "url": "https://www.semanticscholar.org/paper/bee7ecf5ddeabbcd12163daa2c81e66b0639c454", 
+      "venue": "ArXiv", 
+      "year": 2016
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "8509c452a2392e05d306d507b734867638c1fdaa", 
+      "title": "Kernel-based distance metric learning in the output space", 
+      "url": "https://www.semanticscholar.org/paper/8509c452a2392e05d306d507b734867638c1fdaa", 
+      "venue": "The 2013 International Joint Conference on Neural Networks (IJCNN)", 
+      "year": 2013
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "029012cfc0ec6c19fdb03cfe61588c5a2ed2fe33", 
+      "title": "Coupled POS Tagging on Heterogeneous Annotations", 
+      "url": "https://www.semanticscholar.org/paper/029012cfc0ec6c19fdb03cfe61588c5a2ed2fe33", 
+      "venue": "IEEE/ACM Transactions on Audio, Speech, and Language Processing", 
+      "year": 2017
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "f79db5c5b95d2edbeaf08a0377f024bb50029a5f", 
+      "title": "Multitask TSK Fuzzy System Modeling by Mining Intertask Common Hidden Structure", 
+      "url": "https://www.semanticscholar.org/paper/f79db5c5b95d2edbeaf08a0377f024bb50029a5f", 
+      "venue": "IEEE Trans. Cybernetics", 
+      "year": 2015
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "d12968ca8b8dd17aee0e8baeb256c77797c2835a", 
+      "title": "Multi-task TSK fuzzy system modeling using inter-task correlation information", 
+      "url": "https://www.semanticscholar.org/paper/d12968ca8b8dd17aee0e8baeb256c77797c2835a", 
+      "venue": "Inf. Sci.", 
+      "year": 2015
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "0807d437ad35a3c7fcb0fc6b41f17369ab9ec1f7", 
+      "title": "Ordinal margin metric learning and its extension for cross-distribution image data", 
+      "url": "https://www.semanticscholar.org/paper/0807d437ad35a3c7fcb0fc6b41f17369ab9ec1f7", 
+      "venue": "Inf. Sci.", 
+      "year": 2016
+    }, 
+    {
+      "isInfluential": true, 
+      "paperId": "0b51197109813d921835cb9c4153b9d1e12a9b34", 
+      "title": "The University of Chicago Jointly Learning Multiple Similarity Metrics from Triplet Constraints a Dissertation Submitted to the Faculty of the Division of the Physical Sciences in Candidacy for the Degree of Master of Science Department of Computer Science By", 
+      "url": "https://www.semanticscholar.org/paper/0b51197109813d921835cb9c4153b9d1e12a9b34", 
+      "venue": "", 
+      "year": 2015
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "8624f5a2a0b8c1a00133357aebfa9167aa84b0c6", 
+      "title": "Greedy Regularized Least-Squares for Multi-task Learning", 
+      "url": "https://www.semanticscholar.org/paper/8624f5a2a0b8c1a00133357aebfa9167aa84b0c6", 
+      "venue": "2011 IEEE 11th International Conference on Data Mining Workshops", 
+      "year": 2011
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "0bb9ceba8e7d71fc927bd09724e762099b7bfd08", 
+      "title": "Multitask Learning Using Regularized Multiple Kernel Learning", 
+      "url": "https://www.semanticscholar.org/paper/0bb9ceba8e7d71fc927bd09724e762099b7bfd08", 
+      "venue": "ICONIP", 
+      "year": 2011
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "1ce33588c9306c32b3c035334f06c7554224fc4e", 
+      "title": "Multi-Task Regularization with Covariance Dictionary for Linear Classifiers", 
+      "url": "https://www.semanticscholar.org/paper/1ce33588c9306c32b3c035334f06c7554224fc4e", 
+      "venue": "ArXiv", 
+      "year": 2013
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "b23938ad9d3a945114ee8a68525123df2275f0b0", 
+      "title": "A Shared Subspace for Multiple Metric Learning", 
+      "url": "https://www.semanticscholar.org/paper/b23938ad9d3a945114ee8a68525123df2275f0b0", 
+      "venue": "", 
+      "year": 2011
+    }, 
+    {
+      "isInfluential": true, 
+      "paperId": "a3107576e290c5099a14c806664503e8c9853580", 
+      "title": "Bayesian Multitask Distance Metric Learning", 
+      "url": "https://www.semanticscholar.org/paper/a3107576e290c5099a14c806664503e8c9853580", 
+      "venue": "", 
+      "year": 2014
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "5ab7a9e7fba6b72d7cf6471e7ee97ce5a5d9109e", 
+      "title": "Multi-view metric learning for multi-instance image classification", 
+      "url": "https://www.semanticscholar.org/paper/5ab7a9e7fba6b72d7cf6471e7ee97ce5a5d9109e", 
+      "venue": "ArXiv", 
+      "year": 2016
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "4d994974f19fcffd31ca6dcc1159f1f978174f4a", 
+      "title": "Learning High-Order Task Relationships in Multi-Task Learning", 
+      "url": "https://www.semanticscholar.org/paper/4d994974f19fcffd31ca6dcc1159f1f978174f4a", 
+      "venue": "IJCAI", 
+      "year": 2013
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "bb4be8e24d7b8ed56d81edec435b7b59bad96214", 
+      "title": "Localized Multifeature Metric Learning for Image-Set-Based Face Recognition", 
+      "url": "https://www.semanticscholar.org/paper/bb4be8e24d7b8ed56d81edec435b7b59bad96214", 
+      "venue": "IEEE Trans. Circuits Syst. Video Techn.", 
+      "year": 2016
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "d0d75a7116a76ccd98a3aeb6f6fff10ba91de1c1", 
+      "title": "Constrained Metric Learning by Permutation Inducing Isometries", 
+      "url": "https://www.semanticscholar.org/paper/d0d75a7116a76ccd98a3aeb6f6fff10ba91de1c1", 
+      "venue": "IEEE Transactions on Image Processing", 
+      "year": 2016
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "302d04f7f4fb1433b4694128a4a157bec8a4a430", 
+      "title": "Indoor scene recognition via multi-task metric multi-kernel learning from RGB-D images", 
+      "url": "https://www.semanticscholar.org/paper/302d04f7f4fb1433b4694128a4a157bec8a4a430", 
+      "venue": "Multimedia Tools and Applications", 
+      "year": 2016
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "299b58e2514af132503f2425252c4cbe66ec77b8", 
+      "title": "MMFE: Multitask Multiview Feature Embedding", 
+      "url": "https://www.semanticscholar.org/paper/299b58e2514af132503f2425252c4cbe66ec77b8", 
+      "venue": "2015 IEEE International Conference on Data Mining", 
+      "year": 2015
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "89aed5a5da5c7e34f8ff0bc11d5704ec49f266d9", 
+      "title": "Faster Jobs in Distributed Data Processing using Multi-Task Learning", 
+      "url": "https://www.semanticscholar.org/paper/89aed5a5da5c7e34f8ff0bc11d5704ec49f266d9", 
+      "venue": "SDM", 
+      "year": 2015
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "00b69fcb15b6ddedd6a1b23a0e4ed3afc0b8ac49", 
+      "title": "Co-Training for Domain Adaptation", 
+      "url": "https://www.semanticscholar.org/paper/00b69fcb15b6ddedd6a1b23a0e4ed3afc0b8ac49", 
+      "venue": "NIPS", 
+      "year": 2011
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "0fad544edfc2cd2a127436a2126bab7ad31ec333", 
+      "title": "Decorrelating Semantic Visual Attributes by Resisting the Urge to Share", 
+      "url": "https://www.semanticscholar.org/paper/0fad544edfc2cd2a127436a2126bab7ad31ec333", 
+      "venue": "2014 IEEE Conference on Computer Vision and Pattern Recognition", 
+      "year": 2014
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "0965a5d20516977d6de02aaef9b46a6256262a1d", 
+      "title": "Multiple Task Learning Using Iteratively Reweighted Least Square", 
+      "url": "https://www.semanticscholar.org/paper/0965a5d20516977d6de02aaef9b46a6256262a1d", 
+      "venue": "IJCAI", 
+      "year": 2013
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "b5050d74dd8f0384506bcd365b31044c80d476c0", 
+      "title": "Discriminative Multimetric Learning for Kinship Verification", 
+      "url": "https://www.semanticscholar.org/paper/b5050d74dd8f0384506bcd365b31044c80d476c0", 
+      "venue": "IEEE Transactions on Information Forensics and Security", 
+      "year": 2014
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "6e97a99b2879634ecae962ddb8af7c1a0a653a82", 
+      "title": "Towards Context-aware Interaction Recognition", 
+      "url": "https://www.semanticscholar.org/paper/6e97a99b2879634ecae962ddb8af7c1a0a653a82", 
+      "venue": "ArXiv", 
+      "year": 2017
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "3cccba79a71143eda3d518229c1da9e163b23750", 
+      "title": "A Kernel Classification Framework for Metric Learning", 
+      "url": "https://www.semanticscholar.org/paper/3cccba79a71143eda3d518229c1da9e163b23750", 
+      "venue": "IEEE Transactions on Neural Networks and Learning Systems", 
+      "year": 2015
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "59d358a2ccc0c440043475d7d6eeaf3efcae9c0d", 
+      "title": "Coupled Sequence Labeling on Heterogeneous Annotations: POS Tagging as a Case Study", 
+      "url": "https://www.semanticscholar.org/paper/59d358a2ccc0c440043475d7d6eeaf3efcae9c0d", 
+      "venue": "ACL", 
+      "year": 2015
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "d96cf69adac775febd668ee57a99ebaf840c3d5e", 
+      "title": "Image Annotation Using Metric Learning in Semantic Neighbourhoods", 
+      "url": "https://www.semanticscholar.org/paper/d96cf69adac775febd668ee57a99ebaf840c3d5e", 
+      "venue": "ECCV", 
+      "year": 2012
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "be70af30bfcc2931879f8cae4009a07d7401e5f6", 
+      "title": "Bagging-like metric learning for support vector regression", 
+      "url": "https://www.semanticscholar.org/paper/be70af30bfcc2931879f8cae4009a07d7401e5f6", 
+      "venue": "Knowl.-Based Syst.", 
+      "year": 2014
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "198563d1a90ac5f9062d7a66be2c7d7de632769a", 
+      "title": "Multitask Classification Hypothesis Space With Improved Generalization Bounds", 
+      "url": "https://www.semanticscholar.org/paper/198563d1a90ac5f9062d7a66be2c7d7de632769a", 
+      "venue": "IEEE Transactions on Neural Networks and Learning Systems", 
+      "year": 2015
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "0f82f7d7415671bdc3e19ef70e2c13742e07574f", 
+      "title": "Learning to Learn by Exploiting Prior Knowledge", 
+      "url": "https://www.semanticscholar.org/paper/0f82f7d7415671bdc3e19ef70e2c13742e07574f", 
+      "venue": "", 
+      "year": 2012
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "b39caa8b3f8d2da981285a0115a61a66b5f50b93", 
+      "title": "Towards Open-World Person Re-Identification by One-Shot Group-Based Verification", 
+      "url": "https://www.semanticscholar.org/paper/b39caa8b3f8d2da981285a0115a61a66b5f50b93", 
+      "venue": "IEEE Transactions on Pattern Analysis and Machine Intelligence", 
+      "year": 2016
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "ac1969955588e5ccfa455c4d6185855e85f39fb4", 
+      "title": "Large Scale Metric Learning for Distance-Based Image Classification on Open Ended Data Sets", 
+      "url": "https://www.semanticscholar.org/paper/ac1969955588e5ccfa455c4d6185855e85f39fb4", 
+      "venue": "", 
+      "year": 2012
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "29ba992dcca78fe74b9ddce9034b936fe8da17c1", 
+      "title": "Online Semi-Supervised Multi-task Distance Metric Learning", 
+      "url": "https://www.semanticscholar.org/paper/29ba992dcca78fe74b9ddce9034b936fe8da17c1", 
+      "venue": "2016 IEEE 16th International Conference on Data Mining Workshops (ICDMW)", 
+      "year": 2016
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "0e8d3013012025a51128a96c2f15db26a0ac95d3", 
+      "title": "A Graphbased Framework for Multi-Task Multi-View Learning", 
+      "url": "https://www.semanticscholar.org/paper/0e8d3013012025a51128a96c2f15db26a0ac95d3", 
+      "venue": "ICML", 
+      "year": 2011
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "0f34277de7ff4fef8a79af93f1974230a90a61e5", 
+      "title": "Robust multi-task feature learning", 
+      "url": "https://www.semanticscholar.org/paper/0f34277de7ff4fef8a79af93f1974230a90a61e5", 
+      "venue": "KDD", 
+      "year": 2012
+    }, 
+    {
+      "isInfluential": true, 
+      "paperId": "2ea9e350f6b6c25edef3811b94ef49f6d8f77d25", 
+      "title": "Sparse Compositional Metric Learning", 
+      "url": "https://www.semanticscholar.org/paper/2ea9e350f6b6c25edef3811b94ef49f6d8f77d25", 
+      "venue": "AAAI", 
+      "year": 2014
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "b2ab3eee216cb9ef125590c7840d6f9755db478b", 
+      "title": "Multi-Stage Multi-Task Feature Learning", 
+      "url": "https://www.semanticscholar.org/paper/b2ab3eee216cb9ef125590c7840d6f9755db478b", 
+      "venue": "", 
+      "year": 2012
+    }, 
+    {
+      "isInfluential": true, 
+      "paperId": "0830c9b9f207007d5e07f5269ffba003235e4eff", 
+      "title": "Jointly Learning Multiple Measures of Similarities from Triplet Comparisons", 
+      "url": "https://www.semanticscholar.org/paper/0830c9b9f207007d5e07f5269ffba003235e4eff", 
+      "venue": "", 
+      "year": 2015
+    }, 
+    {
+      "isInfluential": true, 
+      "paperId": "bb35ef89addbbc28d960bc0cab70d8a29fdf6eee", 
+      "title": "A Survey on Multi-Task Learning", 
+      "url": "https://www.semanticscholar.org/paper/bb35ef89addbbc28d960bc0cab70d8a29fdf6eee", 
+      "venue": "ArXiv", 
+      "year": 2017
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "467b602a67cfd7c347fe7ce74c02b38c4bb1f332", 
+      "title": "Large Margin Local Metric Learning", 
+      "url": "https://www.semanticscholar.org/paper/467b602a67cfd7c347fe7ce74c02b38c4bb1f332", 
+      "venue": "ECCV", 
+      "year": 2014
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "92d4dc332844ba4fb7ea4a30ebf54dc9bee413f6", 
+      "title": "Learning multi-task local metrics for image annotation", 
+      "url": "https://www.semanticscholar.org/paper/92d4dc332844ba4fb7ea4a30ebf54dc9bee413f6", 
+      "venue": "Multimedia Tools and Applications", 
+      "year": 2014
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "10b2bbbe320b9e4523cf94835e2cb8878541d9fd", 
+      "title": "Improving Latent Factor Models via Personalized Feature Projection for One Class Recommendation", 
+      "url": "https://www.semanticscholar.org/paper/10b2bbbe320b9e4523cf94835e2cb8878541d9fd", 
+      "venue": "CIKM", 
+      "year": 2015
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "1014ef6846184c39d6ac9d2832ffb11745392fdd", 
+      "title": "A Theoretical Analysis of Metric Hypothesis Transfer Learning", 
+      "url": "https://www.semanticscholar.org/paper/1014ef6846184c39d6ac9d2832ffb11745392fdd", 
+      "venue": "ICML", 
+      "year": 2015
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "87147418f863e3d8ff8c97db0b42695a1c28195b", 
+      "title": "Attributes for Improved Attributes: A Multi-Task Network for Attribute Classification", 
+      "url": "https://www.semanticscholar.org/paper/87147418f863e3d8ff8c97db0b42695a1c28195b", 
+      "venue": "ArXiv", 
+      "year": 2016
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "178849b63545ae20e05a2be13216cb03b00437ca", 
+      "title": "Learning with Whom to Share in Multi-task Feature Learning", 
+      "url": "https://www.semanticscholar.org/paper/178849b63545ae20e05a2be13216cb03b00437ca", 
+      "venue": "ICML", 
+      "year": 2011
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "7e90e42257abea65e29c5ee6aa5d10f4b50b22e5", 
+      "title": "Multi-feature metric learning with knowledge transfer among semantics and social tagging", 
+      "url": "https://www.semanticscholar.org/paper/7e90e42257abea65e29c5ee6aa5d10f4b50b22e5", 
+      "venue": "2012 IEEE Conference on Computer Vision and Pattern Recognition", 
+      "year": 2012
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "60dab3e2bbef46c7d1dad1e467994abbc8eced86", 
+      "title": "Multitask Multiclass Support Vector Machines", 
+      "url": "https://www.semanticscholar.org/paper/60dab3e2bbef46c7d1dad1e467994abbc8eced86", 
+      "venue": "2011 IEEE 11th International Conference on Data Mining Workshops", 
+      "year": 2011
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "9cad256869aaef9a349dac00eeccac6cb868ee02", 
+      "title": "Facial expression recognition via weighted group sparsity", 
+      "url": "https://www.semanticscholar.org/paper/9cad256869aaef9a349dac00eeccac6cb868ee02", 
+      "venue": "Frontiers of Computer Science", 
+      "year": 2016
+    }
+  ], 
+  "doi": null, 
+  "influentialCitationCount": 7, 
+  "paperId": "9035abf1cc4caca51c806825f9d696c6e8bc4432", 
+  "references": [
+    {
+      "isInfluential": false, 
+      "paperId": "24c287d97982216c8f35c8d326dc2ec2d2475f3e", 
+      "title": "Neighbourhood Components Analysis", 
+      "url": "https://www.semanticscholar.org/paper/24c287d97982216c8f35c8d326dc2ec2d2475f3e", 
+      "venue": "NIPS", 
+      "year": 2004
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "133b08c4c3d707df3846a566387bbb8c93c8c548", 
+      "title": "Distance Metric Learning for Large Margin Nearest Neighbor Classification", 
+      "url": "https://www.semanticscholar.org/paper/133b08c4c3d707df3846a566387bbb8c93c8c548", 
+      "venue": "", 
+      "year": 2006
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "f27ef9c1ff0b00ee46beb1bed2f34002bae728ac", 
+      "title": "Principal Component Analysis", 
+      "url": "https://www.semanticscholar.org/paper/f27ef9c1ff0b00ee46beb1bed2f34002bae728ac", 
+      "venue": "International Encyclopedia of Statistical Science", 
+      "year": 2011
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "b61dcc853d9b15ec3dc99e2a537621804a0d97d4", 
+      "title": "Exploiting Task Relatedness for Mulitple Task Learning", 
+      "url": "https://www.semanticscholar.org/paper/b61dcc853d9b15ec3dc99e2a537621804a0d97d4", 
+      "venue": "COLT", 
+      "year": 2003
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "325a4849217a32a2e09ed908c6f8baa9e344a06d", 
+      "title": "An Online Algorithm for Large Scale Image Similarity Learning", 
+      "url": "https://www.semanticscholar.org/paper/325a4849217a32a2e09ed908c6f8baa9e344a06d", 
+      "venue": "NIPS", 
+      "year": 2009
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "76feb28a199fcc97350a8490f658feb11bd1eae9", 
+      "title": "A theoretical framework for learning from a pool of disparate data sources", 
+      "url": "https://www.semanticscholar.org/paper/76feb28a199fcc97350a8490f658feb11bd1eae9", 
+      "venue": "KDD", 
+      "year": 2002
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "27d9d71afb06ea5d4295fbdcc7cd67e491d50cc4", 
+      "title": "Nearest neighbor pattern classification", 
+      "url": "https://www.semanticscholar.org/paper/27d9d71afb06ea5d4295fbdcc7cd67e491d50cc4", 
+      "venue": "IEEE Trans. Information Theory", 
+      "year": 1967
+    }, 
+    {
+      "isInfluential": true, 
+      "paperId": "161ffb54a3fdf0715b198bb57bd22f910242eb49", 
+      "title": "Multitask Learning", 
+      "url": "https://www.semanticscholar.org/paper/161ffb54a3fdf0715b198bb57bd22f910242eb49", 
+      "venue": "Machine Learning", 
+      "year": 1997
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "0321393874b2c50d54e95be3d5b00d1c88468f5b", 
+      "title": "Task Clustering and Gating for Bayesian Multitask Learning", 
+      "url": "https://www.semanticscholar.org/paper/0321393874b2c50d54e95be3d5b00d1c88468f5b", 
+      "venue": "Journal of Machine Learning Research", 
+      "year": 2003
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "3b74aa66dd2e4ac0f9be884f810eab6c3cbd57ba", 
+      "title": "Support vector machines for multi-class pattern recognition", 
+      "url": "https://www.semanticscholar.org/paper/3b74aa66dd2e4ac0f9be884f810eab6c3cbd57ba", 
+      "venue": "ESANN", 
+      "year": 1999
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "1a07186bc10592f0330655519ad91652125cd907", 
+      "title": "A unified architecture for natural language processing: deep neural networks with multitask learning", 
+      "url": "https://www.semanticscholar.org/paper/1a07186bc10592f0330655519ad91652125cd907", 
+      "venue": "ICML", 
+      "year": 2008
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "0418df588620d6c8d189f781e95d975df95d2280", 
+      "title": "Information-theoretic metric learning", 
+      "url": "https://www.semanticscholar.org/paper/0418df588620d6c8d189f781e95d975df95d2280", 
+      "venue": "ICML", 
+      "year": 2007
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "0af75728bec67f698a8c619645165de13780c2fa", 
+      "title": "Learning Multiple Tasks with Kernel Methods", 
+      "url": "https://www.semanticscholar.org/paper/0af75728bec67f698a8c619645165de13780c2fa", 
+      "venue": "Journal of Machine Learning Research", 
+      "year": 2005
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "f52db05a4b5f5d795df59157922c2f12ea355a61", 
+      "title": "A Projected Subgradient Method for Scalable Multi-Task Learning", 
+      "url": "https://www.semanticscholar.org/paper/f52db05a4b5f5d795df59157922c2f12ea355a61", 
+      "venue": "", 
+      "year": 2008
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "2e918c9ceae2422090951000e40445f04dce818d", 
+      "title": "A Training Algorithm for Optimal Margin Classifiers", 
+      "url": "https://www.semanticscholar.org/paper/2e918c9ceae2422090951000e40445f04dce818d", 
+      "venue": "COLT", 
+      "year": 1992
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "5a26ec6568152731ce1667a426307ebccff5a50e", 
+      "title": "On the Algorithmic Implementation of Multiclass Kernel-based Vector Machines", 
+      "url": "https://www.semanticscholar.org/paper/5a26ec6568152731ce1667a426307ebccff5a50e", 
+      "venue": "Journal of Machine Learning Research", 
+      "year": 2001
+    }, 
+    {
+      "isInfluential": true, 
+      "paperId": "07d1db388cd489420d40d0edb13e074d86c77dbd", 
+      "title": "Regularized multi--task learning", 
+      "url": "https://www.semanticscholar.org/paper/07d1db388cd489420d40d0edb13e074d86c77dbd", 
+      "venue": "KDD", 
+      "year": 2004
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "4b7c8063892ca57131bd71b9c839d970ee8b0226", 
+      "title": "Frustratingly Easy Domain Adaptation", 
+      "url": "https://www.semanticscholar.org/paper/4b7c8063892ca57131bd71b9c839d970ee8b0226", 
+      "venue": "ACL", 
+      "year": 2007
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "778015de7b81dfde54367dd57fb76c86faa72be4", 
+      "title": "Speaker adaptation using constrained estimation of Gaussian mixtures", 
+      "url": "https://www.semanticscholar.org/paper/778015de7b81dfde54367dd57fb76c86faa72be4", 
+      "venue": "IEEE Trans. Speech and Audio Processing", 
+      "year": 1995
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "93dd13fe015294569b0f50a358413daeb59e988a", 
+      "title": "Spoken Letter Recognition", 
+      "url": "https://www.semanticscholar.org/paper/93dd13fe015294569b0f50a358413daeb59e988a", 
+      "venue": "NIPS", 
+      "year": 1990
+    }
+  ], 
+  "title": "Large Margin Multi-Task Metric Learning", 
+  "url": "https://www.semanticscholar.org/paper/9035abf1cc4caca51c806825f9d696c6e8bc4432", 
+  "venue": "NIPS", 
+  "year": 2010
+}

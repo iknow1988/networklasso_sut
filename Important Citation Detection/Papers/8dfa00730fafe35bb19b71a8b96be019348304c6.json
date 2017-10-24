@@ -1,0 +1,777 @@
+{
+  "authors": [
+    {
+      "authorId": "13969664", 
+      "name": "Wei Xu", 
+      "url": "https://www.semanticscholar.org/author/13969664"
+    }, 
+    {
+      "authorId": "2589518", 
+      "name": "Alan Ritter", 
+      "url": "https://www.semanticscholar.org/author/2589518"
+    }, 
+    {
+      "authorId": "1763608", 
+      "name": "Chris Callison-Burch", 
+      "url": "https://www.semanticscholar.org/author/1763608"
+    }, 
+    {
+      "authorId": "3614955", 
+      "name": "William B. Dolan", 
+      "url": "https://www.semanticscholar.org/author/3614955"
+    }, 
+    {
+      "authorId": "2567583", 
+      "name": "Yangfeng Ji", 
+      "url": "https://www.semanticscholar.org/author/2567583"
+    }
+  ], 
+  "citationVelocity": 19, 
+  "citations": [
+    {
+      "isInfluential": false, 
+      "paperId": "64ade1aff44381e5fb2cb44e92360fb3ecff3522", 
+      "title": "Measuring Semantic Similarity for Bengali Tweets Using WordNet", 
+      "url": "https://www.semanticscholar.org/paper/64ade1aff44381e5fb2cb44e92360fb3ecff3522", 
+      "venue": "RANLP", 
+      "year": 2015
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "0476b7d387d2a6381a784b2b89ccf7baef098f5e", 
+      "title": "Pairwise Word Interaction Modeling with Deep Neural Networks for Semantic Similarity Measurement", 
+      "url": "https://www.semanticscholar.org/paper/0476b7d387d2a6381a784b2b89ccf7baef098f5e", 
+      "venue": "HLT-NAACL", 
+      "year": 2016
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "0c52f0213d5252f8b89373a42bdafeea072562db", 
+      "title": "Adding Semantics to Data-Driven Paraphrasing", 
+      "url": "https://www.semanticscholar.org/paper/0c52f0213d5252f8b89373a42bdafeea072562db", 
+      "venue": "ACL", 
+      "year": 2015
+    }, 
+    {
+      "isInfluential": true, 
+      "paperId": "f5968ae8a880d3b7a33762bfb670d78e4e1d8903", 
+      "title": "TKLBLIIR: Detecting Twitter Paraphrases with TweetingJay", 
+      "url": "https://www.semanticscholar.org/paper/f5968ae8a880d3b7a33762bfb670d78e4e1d8903", 
+      "venue": "SemEval@NAACL-HLT", 
+      "year": 2015
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "337a2c77936fdc60d50f2ae8b71738d65cf13e5a", 
+      "title": "Reddit Temporal N-gram Corpus and its Applications on Paraphrase and Semantic Similarity in Social Media using a Topic-based Latent Semantic Analysis", 
+      "url": "https://www.semanticscholar.org/paper/337a2c77936fdc60d50f2ae8b71738d65cf13e5a", 
+      "venue": "COLING", 
+      "year": 2016
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "00b874f8346cedadc2a6366c4b72e60140f99556", 
+      "title": "UMD-TTIC-UW at SemEval-2016 Task 1: Attention-Based Multi-Perspective Convolutional Neural Networks for Textual Similarity Measurement", 
+      "url": "https://www.semanticscholar.org/paper/00b874f8346cedadc2a6366c4b72e60140f99556", 
+      "venue": "SemEval@NAACL-HLT", 
+      "year": 2016
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "44af8277ff808092bff799a0cfb7fa64bbeea8ca", 
+      "title": "A Corpus of Word-Aligned Asked and Anticipated Questions in a Virtual Patient Dialogue System", 
+      "url": "https://www.semanticscholar.org/paper/44af8277ff808092bff799a0cfb7fa64bbeea8ca", 
+      "venue": "LREC", 
+      "year": 2016
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "9ebe574f95efdb5868a60764bb2f46e2783a00a6", 
+      "title": "DPIL@FIRE2016: Overview of the Shared task on Detecting Paraphrases in Indian language", 
+      "url": "https://www.semanticscholar.org/paper/9ebe574f95efdb5868a60764bb2f46e2783a00a6", 
+      "venue": "FIRE", 
+      "year": 2016
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "db11cb39e978d1423bdc5bbdeb29706d41368cca", 
+      "title": "Paraphrase Identification and Semantic Similarity in Twitter with Simple Features", 
+      "url": "https://www.semanticscholar.org/paper/db11cb39e978d1423bdc5bbdeb29706d41368cca", 
+      "venue": "", 
+      "year": 2015
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "a524a8a63fb430879a2bcdebc7db6f5c03aca18a", 
+      "title": "Improving Distributed Representations of Tweets - Present and Future", 
+      "url": "https://www.semanticscholar.org/paper/a524a8a63fb430879a2bcdebc7db6f5c03aca18a", 
+      "venue": "ACL", 
+      "year": 2017
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "4773dd8af1413146383f53894a888184b7c68938", 
+      "title": "SemEval-2015 Task 1: Paraphrase and Semantic Similarity in Twitter (PIT)", 
+      "url": "https://www.semanticscholar.org/paper/4773dd8af1413146383f53894a888184b7c68938", 
+      "venue": "SemEval@NAACL-HLT", 
+      "year": 2015
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "0ac3f9bb8204afa4cbb85e0483b358d2b345410e", 
+      "title": "Paraphrasing Revisited with Neural Machine Translation", 
+      "url": "https://www.semanticscholar.org/paper/0ac3f9bb8204afa4cbb85e0483b358d2b345410e", 
+      "venue": "EACL", 
+      "year": 2017
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "43bd881cb630a1dde95277797703c238853401d8", 
+      "title": "Obfuscating Gender in Social Media Writing", 
+      "url": "https://www.semanticscholar.org/paper/43bd881cb630a1dde95277797703c238853401d8", 
+      "venue": "", 
+      "year": 2016
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "ff8a212b5934dd1bf799b78c3f97b2f4b0782353", 
+      "title": "Leveraging Paraphrase Labels to Extract Synonyms from Twitter", 
+      "url": "https://www.semanticscholar.org/paper/ff8a212b5934dd1bf799b78c3f97b2f4b0782353", 
+      "venue": "FLAIRS Conference", 
+      "year": 2015
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "118d590c74b3bcedc4cd879e76f158f61e09b316", 
+      "title": "Building a Non-Trivial Paraphrase Corpus Using Multiple Machine Translation Systems", 
+      "url": "https://www.semanticscholar.org/paper/118d590c74b3bcedc4cd879e76f158f61e09b316", 
+      "venue": "ACL", 
+      "year": 2017
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "0f6924633c56832b91836b69aedfd024681e427c", 
+      "title": "Multi-Perspective Sentence Similarity Modeling with Convolutional Neural Networks", 
+      "url": "https://www.semanticscholar.org/paper/0f6924633c56832b91836b69aedfd024681e427c", 
+      "venue": "EMNLP", 
+      "year": 2015
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "51260312bace03987dff7016e60efbc5d0521897", 
+      "title": "A Semi-Automatic Method for Efficient Detection of Stories on Social Media", 
+      "url": "https://www.semanticscholar.org/paper/51260312bace03987dff7016e60efbc5d0521897", 
+      "venue": "ICWSM", 
+      "year": 2016
+    }, 
+    {
+      "isInfluential": true, 
+      "paperId": "f4f0721d0eea03ed531f603d98cf7bb3b9ed72b9", 
+      "title": "A Paraphrase and Semantic Similarity Detection System for User Generated Short-Text Content on Microblogs", 
+      "url": "https://www.semanticscholar.org/paper/f4f0721d0eea03ed531f603d98cf7bb3b9ed72b9", 
+      "venue": "COLING", 
+      "year": 2016
+    }, 
+    {
+      "isInfluential": true, 
+      "paperId": "57a13596f68d36ec1c2cad6b9f26a488c6418fd6", 
+      "title": "AMRITA_CEN$@$SemEval-2015: Paraphrase Detection for Twitter using Unsupervised Feature Learning with Recursive Autoencoders", 
+      "url": "https://www.semanticscholar.org/paper/57a13596f68d36ec1c2cad6b9f26a488c6418fd6", 
+      "venue": "SemEval@NAACL-HLT", 
+      "year": 2015
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "7dc65ceb2c4674a76df6a23cb462ad5208cd487b", 
+      "title": "ROB: Using Semantic Meaning to Recognize Paraphrases", 
+      "url": "https://www.semanticscholar.org/paper/7dc65ceb2c4674a76df6a23cb462ad5208cd487b", 
+      "venue": "SemEval@NAACL-HLT", 
+      "year": 2015
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "d3304b926cfcd91110bd5ba01db21d26ce5fca2d", 
+      "title": "Learning Paraphrastic Sentence Embeddings from Back-Translated Bitext", 
+      "url": "https://www.semanticscholar.org/paper/d3304b926cfcd91110bd5ba01db21d26ce5fca2d", 
+      "venue": "ArXiv", 
+      "year": 2017
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "aa4fca4b589cf43924f8492502845bf6a3d3d079", 
+      "title": "An extracting model for constructing actions with improved part-of-speech tagging from social networking texts", 
+      "url": "https://www.semanticscholar.org/paper/aa4fca4b589cf43924f8492502845bf6a3d3d079", 
+      "venue": "2017 11th International Conference on Intelligent Systems and Control (ISCO)", 
+      "year": 2017
+    }, 
+    {
+      "isInfluential": true, 
+      "paperId": "6b0ad5ac3ffc47883f7c926abae652fa08227a75", 
+      "title": "CDTDS: Predicting Paraphrases in Twitter via Support Vector Regression", 
+      "url": "https://www.semanticscholar.org/paper/6b0ad5ac3ffc47883f7c926abae652fa08227a75", 
+      "venue": "SemEval@NAACL-HLT", 
+      "year": 2015
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "058086f9d4cb785fccc1f8863f2a5cf0f284d39d", 
+      "title": "SLEDDED: A Proposed Dataset of Event Descriptions for Evaluating Phrase Representations", 
+      "url": "https://www.semanticscholar.org/paper/058086f9d4cb785fccc1f8863f2a5cf0f284d39d", 
+      "venue": "", 
+      "year": 2016
+    }, 
+    {
+      "isInfluential": true, 
+      "paperId": "2f1942cbea3499b8a161a80c0bb79fd104f85a4e", 
+      "title": "Entity Linking with a Paraphrase Flavor", 
+      "url": "https://www.semanticscholar.org/paper/2f1942cbea3499b8a161a80c0bb79fd104f85a4e", 
+      "venue": "LREC", 
+      "year": 2016
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "6ba99af82d3ef72923491d690ae7f05aad30bf3e", 
+      "title": "That's So Annoying!!!: A Lexical and Frame-Semantic Embedding Based Data Augmentation Approach to Automatic Categorization of Annoying Behaviors using #petpeeve Tweets", 
+      "url": "https://www.semanticscholar.org/paper/6ba99af82d3ef72923491d690ae7f05aad30bf3e", 
+      "venue": "EMNLP", 
+      "year": 2015
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "10617e56c4b0d8c446f3afea23fbdc1ae8c8e438", 
+      "title": "Structural Sentence Similarity Estimation for Short Texts", 
+      "url": "https://www.semanticscholar.org/paper/10617e56c4b0d8c446f3afea23fbdc1ae8c8e438", 
+      "venue": "FLAIRS Conference", 
+      "year": 2016
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "954a1c70b312bbf13a7852eae14aba7977d06d1c", 
+      "title": "Improving Distributed Representations of Tweets - Present and Future", 
+      "url": "https://www.semanticscholar.org/paper/954a1c70b312bbf13a7852eae14aba7977d06d1c", 
+      "venue": "", 
+      "year": 2017
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "423d56c484a3ea52c33f67b6fbaeea88093e0111", 
+      "title": "TweeTime : A Minimally Supervised Method for Recognizing and Normalizing Time Expressions in Twitter", 
+      "url": "https://www.semanticscholar.org/paper/423d56c484a3ea52c33f67b6fbaeea88093e0111", 
+      "venue": "EMNLP", 
+      "year": 2016
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "306e20852c7e38a12ebb5ec754d973006d0835d4", 
+      "title": "News Citation Recommendation with Implicit and Explicit Semantics", 
+      "url": "https://www.semanticscholar.org/paper/306e20852c7e38a12ebb5ec754d973006d0835d4", 
+      "venue": "ACL", 
+      "year": 2016
+    }, 
+    {
+      "isInfluential": true, 
+      "paperId": "5568943e88861e9435f3ebe154346a8e6d147a04", 
+      "title": "Acquiring Predicate Paraphrases from News Tweets", 
+      "url": "https://www.semanticscholar.org/paper/5568943e88861e9435f3ebe154346a8e6d147a04", 
+      "venue": "*SEM", 
+      "year": 2017
+    }, 
+    {
+      "isInfluential": true, 
+      "paperId": "be668e708c4f3b53d024ab7225d04a0bb9857d29", 
+      "title": "Twitter Paraphrase Identification with Simple Overlap Features and SVMs", 
+      "url": "https://www.semanticscholar.org/paper/be668e708c4f3b53d024ab7225d04a0bb9857d29", 
+      "venue": "SemEval@NAACL-HLT", 
+      "year": 2015
+    }, 
+    {
+      "isInfluential": true, 
+      "paperId": "31777a0261b17bdf765170586694e19bc04e2e99", 
+      "title": "Idiom Paraphrases: Seventh Heaven vs Cloud Nine", 
+      "url": "https://www.semanticscholar.org/paper/31777a0261b17bdf765170586694e19bc04e2e99", 
+      "venue": "", 
+      "year": 2015
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "f3409112fe527987b279dfdfb80a0fad0cc8295c", 
+      "title": "Interpreting Questions with a Log-Linear Ranking Model in a Virtual Patient Dialogue System", 
+      "url": "https://www.semanticscholar.org/paper/f3409112fe527987b279dfdfb80a0fad0cc8295c", 
+      "venue": "BEA@NAACL-HLT", 
+      "year": 2015
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "635e9373437478477fd4e93740addb39620f446b", 
+      "title": "A Continuously Growing Dataset of Sentential Paraphrases", 
+      "url": "https://www.semanticscholar.org/paper/635e9373437478477fd4e93740addb39620f446b", 
+      "venue": "", 
+      "year": 2017
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "e19c8fd3ea80ed261cdcedbf1d8002aca01ec7fc", 
+      "title": "Semantic Annotation Aggregation with Conditional Crowdsourcing Models and Word Embeddings", 
+      "url": "https://www.semanticscholar.org/paper/e19c8fd3ea80ed261cdcedbf1d8002aca01ec7fc", 
+      "venue": "COLING", 
+      "year": 2016
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "8ac3315332852e3096c3ea213f05294ea706171d", 
+      "title": "Transfer Learning: From a Translation Model to a Dense Sentence Representation with Application to Paraphrase Detection", 
+      "url": "https://www.semanticscholar.org/paper/8ac3315332852e3096c3ea213f05294ea706171d", 
+      "venue": "", 
+      "year": 2017
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "0d57d94d6cbc54644a8d398f4c81895979d433b0", 
+      "title": "HLTC-HKUST: A Neural Network Paraphrase Classifier using Translation Metrics, Semantic Roles and Lexical Similarity Features", 
+      "url": "https://www.semanticscholar.org/paper/0d57d94d6cbc54644a8d398f4c81895979d433b0", 
+      "venue": "SemEval@NAACL-HLT", 
+      "year": 2015
+    }
+  ], 
+  "doi": null, 
+  "influentialCitationCount": 8, 
+  "paperId": "8dfa00730fafe35bb19b71a8b96be019348304c6", 
+  "references": [
+    {
+      "isInfluential": false, 
+      "paperId": "185a37a7ff76116c6cde92ed39e30c9a7e7fb618", 
+      "title": "Linguistic Redundancy in Twitter", 
+      "url": "https://www.semanticscholar.org/paper/185a37a7ff76116c6cde92ed39e30c9a7e7fb618", 
+      "venue": "EMNLP", 
+      "year": 2011
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "2f3b468e49ecaf5633ea01f041c00786f66628a4", 
+      "title": "Collecting Highly Parallel Data for Paraphrase Evaluation", 
+      "url": "https://www.semanticscholar.org/paper/2f3b468e49ecaf5633ea01f041c00786f66628a4", 
+      "venue": "ACL", 
+      "year": 2011
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "b77aa53b45f6aa1873780d0fa7aad50efb422458", 
+      "title": "Some Aspects of the Sequential Design of Experiments", 
+      "url": "https://www.semanticscholar.org/paper/b77aa53b45f6aa1873780d0fa7aad50efb422458", 
+      "venue": "", 
+      "year": 2007
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "13d7cbe9035abbb0f243a5e63e19d9c01bcf69d8", 
+      "title": "Automatically Constructing a Corpus of Sentential Paraphrases", 
+      "url": "https://www.semanticscholar.org/paper/13d7cbe9035abbb0f243a5e63e19d9c01bcf69d8", 
+      "venue": "", 
+      "year": 2005
+    }, 
+    {
+      "isInfluential": true, 
+      "paperId": "d4fef13e360bab843bcfd1faaf65c47669ee8bb1", 
+      "title": "Linking Tweets to News: A Framework to Enrich Short Text Data in Social Media", 
+      "url": "https://www.semanticscholar.org/paper/d4fef13e360bab843bcfd1faaf65c47669ee8bb1", 
+      "venue": "ACL", 
+      "year": 2013
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "3827c54958e653b5ce23e19a347f1f52e25592b8", 
+      "title": "Beyond SumBasic: Task-focused summarization with sentence simplification and lexical expansion", 
+      "url": "https://www.semanticscholar.org/paper/3827c54958e653b5ce23e19a347f1f52e25592b8", 
+      "venue": "Inf. Process. Manage.", 
+      "year": 2007
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "01976ebd5efbde258544de2f01776081e32afa52", 
+      "title": "Modeling Sentences in the Latent Space", 
+      "url": "https://www.semanticscholar.org/paper/01976ebd5efbde258544de2f01776081e32afa52", 
+      "venue": "ACL", 
+      "year": 2012
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "7c8b067649f09b9260569d6e398c5c1b16fa2712", 
+      "title": "Automatic Paraphrase Acquisition from News Articles", 
+      "url": "https://www.semanticscholar.org/paper/7c8b067649f09b9260569d6e398c5c1b16fa2712", 
+      "venue": "", 
+      "year": 2002
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "676b1549adae511164c1b5343f10260fd42035b4", 
+      "title": "The Impact of Frequency on Summarization", 
+      "url": "https://www.semanticscholar.org/paper/676b1549adae511164c1b5343f10260fd42035b4", 
+      "venue": "", 
+      "year": 2009
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "025464b73f805e76689a7a20a48a9e9c0f4ff3ef", 
+      "title": "Accurate Methods for the Statistics of Surprise and Coincidence", 
+      "url": "https://www.semanticscholar.org/paper/025464b73f805e76689a7a20a48a9e9c0f4ff3ef", 
+      "venue": "Computational Linguistics", 
+      "year": 1993
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "334d7e4e70439aa5f7bd59f63659bbab4dc929ed", 
+      "title": "Using paraphrases for improving first story detection in news and Twitter", 
+      "url": "https://www.semanticscholar.org/paper/334d7e4e70439aa5f7bd59f63659bbab4dc929ed", 
+      "venue": "HLT-NAACL", 
+      "year": 2012
+    }, 
+    {
+      "isInfluential": true, 
+      "paperId": "decb20d0c43b99771c3a5211b00f850237666a56", 
+      "title": "What Is a Paraphrase?", 
+      "url": "https://www.semanticscholar.org/paper/decb20d0c43b99771c3a5211b00f850237666a56", 
+      "venue": "Computational Linguistics", 
+      "year": 2013
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "0e5fa90e28fab414c8ef3ac6ca937c6195c2860e", 
+      "title": "Discriminative Improvements to Distributional Sentence Similarity", 
+      "url": "https://www.semanticscholar.org/paper/0e5fa90e28fab414c8ef3ac6ca937c6195c2860e", 
+      "venue": "EMNLP", 
+      "year": 2013
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "8cc357c000c8c7df95015a6818c42648804105f5", 
+      "title": "Automatic Paraphrase Discovery based on Context and Keywords between NE Pairs", 
+      "url": "https://www.semanticscholar.org/paper/8cc357c000c8c7df95015a6818c42648804105f5", 
+      "venue": "", 
+      "year": 2005
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "27b7db2c97c7e11896c8b96330a534de9d5ca428", 
+      "title": "Gathering and Generating Paraphrases from Twitter with Application to Normalization", 
+      "url": "https://www.semanticscholar.org/paper/27b7db2c97c7e11896c8b96330a534de9d5ca428", 
+      "venue": "", 
+      "year": 2013
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "aed38235ba619304a8c4fb8ee56633901247be46", 
+      "title": "Finding Bursty Topics from Microblogs", 
+      "url": "https://www.semanticscholar.org/paper/aed38235ba619304a8c4fb8ee56633901247be46", 
+      "venue": "ACL", 
+      "year": 2012
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "598ae927883728b4c5df6d9a833d7dcd19832b57", 
+      "title": "TweetMotif: Exploratory Search and Topic Summarization for Twitter", 
+      "url": "https://www.semanticscholar.org/paper/598ae927883728b4c5df6d9a833d7dcd19832b57", 
+      "venue": "ICWSM", 
+      "year": 2010
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "6cdc8599faba233298888e46929186b9d8b5fcb6", 
+      "title": "Automatically Constructing a Normalisation Dictionary for Microblogs", 
+      "url": "https://www.semanticscholar.org/paper/6cdc8599faba233298888e46929186b9d8b5fcb6", 
+      "venue": "EMNLP-CoNLL", 
+      "year": 2012
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "3362aa263d0a3296cb05101a4ebe576957e6c364", 
+      "title": "Training Products of Experts by Minimizing Contrastive Divergence", 
+      "url": "https://www.semanticscholar.org/paper/3362aa263d0a3296cb05101a4ebe576957e6c364", 
+      "venue": "Neural Computation", 
+      "year": 2002
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "649922386f1222a2e64c1c80bcc171431c070e92", 
+      "title": "Twitter Part-of-Speech Tagging for All: Overcoming Sparse and Noisy Data", 
+      "url": "https://www.semanticscholar.org/paper/649922386f1222a2e64c1c80bcc171431c070e92", 
+      "venue": "RANLP", 
+      "year": 2013
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "0c48f5cf243bb13825f4be5d9c38f13065cd6598", 
+      "title": "Generating Phrasal and Sentential Paraphrases: A Survey of Data-Driven Methods", 
+      "url": "https://www.semanticscholar.org/paper/0c48f5cf243bb13825f4be5d9c38f13065cd6598", 
+      "venue": "Computational Linguistics", 
+      "year": 2010
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "165686928514cbc3eed9e2fa5e2c14538ab96595", 
+      "title": "Turker-Assisted Paraphrasing for English-Arabic Machine Translation", 
+      "url": "https://www.semanticscholar.org/paper/165686928514cbc3eed9e2fa5e2c14538ab96595", 
+      "venue": "", 
+      "year": 2010
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "9273ea99ad2b1ee84a428d22eec5034cbc88d9cb", 
+      "title": "Mining Very-Non-Parallel Corpora: Parallel Sentence and Lexicon Extraction via Bootstrapping and E", 
+      "url": "https://www.semanticscholar.org/paper/9273ea99ad2b1ee84a428d22eec5034cbc88d9cb", 
+      "venue": "EMNLP", 
+      "year": 2004
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "4ffaafba55aa26d9abe788b21703220ea5baccd3", 
+      "title": "Harvesting Parallel News Streams to Generate Paraphrases of Event Relations", 
+      "url": "https://www.semanticscholar.org/paper/4ffaafba55aa26d9abe788b21703220ea5baccd3", 
+      "venue": "EMNLP", 
+      "year": 2013
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "db550f7af299157c67d7f1874bf784dca10ce4a9", 
+      "title": "Modeling Relations and Their Mentions without Labeled Text", 
+      "url": "https://www.semanticscholar.org/paper/db550f7af299157c67d7f1874bf784dca10ce4a9", 
+      "venue": "ECML/PKDD", 
+      "year": 2010
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "2cb4a8c14092d8967c38770fb93b79b9bef6c140", 
+      "title": "Paraphrasing 4 Microblog Normalization", 
+      "url": "https://www.semanticscholar.org/paper/2cb4a8c14092d8967c38770fb93b79b9bef6c140", 
+      "venue": "EMNLP", 
+      "year": 2013
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "3c12c67ef05739f45bff54be4e34700e9994d897", 
+      "title": "Multi-level Bootstrapping For Extracting Parallel Sentences From a Quasi-Comparable Corpus", 
+      "url": "https://www.semanticscholar.org/paper/3c12c67ef05739f45bff54be4e34700e9994d897", 
+      "venue": "COLING", 
+      "year": 2004
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "e979925b15861153a0e9ce8ace39a28d319e613d", 
+      "title": "Applied morphological processing of English", 
+      "url": "https://www.semanticscholar.org/paper/e979925b15861153a0e9ce8ace39a28d319e613d", 
+      "venue": "Natural Language Engineering", 
+      "year": 2001
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "03e051ac0fb70a06dfa9136720bc85c3b9c75af2", 
+      "title": "Crowdsourcing High-Quality Parallel Data Extraction from Twitter", 
+      "url": "https://www.semanticscholar.org/paper/03e051ac0fb70a06dfa9136720bc85c3b9c75af2", 
+      "venue": "WMT@ACL", 
+      "year": 2014
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "7acfdc905f734abf966aed58abb983bc015ff7fe", 
+      "title": "Unsupervised Construction of Large Paraphrase Corpora: Exploiting Massively Parallel News Sources", 
+      "url": "https://www.semanticscholar.org/paper/7acfdc905f734abf966aed58abb983bc015ff7fe", 
+      "venue": "COLING", 
+      "year": 2004
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "151ee8aedc97e7a388a8edd704ff13698a7af0b4", 
+      "title": "Multi-instance Multi-label Learning for Relation Extraction", 
+      "url": "https://www.semanticscholar.org/paper/151ee8aedc97e7a388a8edd704ff13698a7af0b4", 
+      "venue": "EMNLP-CoNLL", 
+      "year": 2012
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "27e5b014053b38d390eea8276f13c6db5bc26437", 
+      "title": "A Survey of Paraphrasing and Textual Entailment Methods", 
+      "url": "https://www.semanticscholar.org/paper/27e5b014053b38d390eea8276f13c6db5bc26437", 
+      "venue": "J. Artif. Intell. Res.", 
+      "year": 2010
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "c6afe8a8aa13de8e3f2710ef07b22ce86a005419", 
+      "title": "Using Dependency-Based Features to Take the \u201cPara-farce\u201d out of Paraphrase", 
+      "url": "https://www.semanticscholar.org/paper/c6afe8a8aa13de8e3f2710ef07b22ce86a005419", 
+      "venue": "", 
+      "year": 2006
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "618b5e78062cdeb02da4eb2262ceca5df568c1a4", 
+      "title": "A Lightweight and High Performance Monolingual Word Aligner", 
+      "url": "https://www.semanticscholar.org/paper/618b5e78062cdeb02da4eb2262ceca5df568c1a4", 
+      "venue": "ACL", 
+      "year": 2013
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "d8a63c0729bcef4fd1d41dc0e723620e48fbdc7d", 
+      "title": "OntoNotes: The 90% Solution", 
+      "url": "https://www.semanticscholar.org/paper/d8a63c0729bcef4fd1d41dc0e723620e48fbdc7d", 
+      "venue": "HLT-NAACL", 
+      "year": 2006
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "3b8e7c8220d3883d54960d896a73045f3c70ac17", 
+      "title": "Discriminative Training Methods For Hidden Markov Models: Theory And Experiments With Perceptron Algorithms", 
+      "url": "https://www.semanticscholar.org/paper/3b8e7c8220d3883d54960d896a73045f3c70ac17", 
+      "venue": "", 
+      "year": 2002
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "00e6e722afcc64ed9bf0bd6a3b7b96440149846a", 
+      "title": "Semi-Markov Phrase-Based Monolingual Alignment", 
+      "url": "https://www.semanticscholar.org/paper/00e6e722afcc64ed9bf0bd6a3b7b96440149846a", 
+      "venue": "EMNLP", 
+      "year": 2013
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "82efe7db645f7452df14f103fef28f21b9bc9da1", 
+      "title": "Error Driven Paraphrase Annotation using Mechanical Turk", 
+      "url": "https://www.semanticscholar.org/paper/82efe7db645f7452df14f103fef28f21b9bc9da1", 
+      "venue": "", 
+      "year": 2010
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "1c7d38f68fe1150895a186e30b60c02dd89a676a", 
+      "title": "Solving the Multiple Instance Problem with Axis-Parallel Rectangles", 
+      "url": "https://www.semanticscholar.org/paper/1c7d38f68fe1150895a186e30b60c02dd89a676a", 
+      "venue": "Artif. Intell.", 
+      "year": 1997
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "528fa9bb03644ba752fb9491be49b9dd1bce1d52", 
+      "title": "SemEval-2012 Task 6: A Pilot on Semantic Textual Similarity", 
+      "url": "https://www.semanticscholar.org/paper/528fa9bb03644ba752fb9491be49b9dd1bce1d52", 
+      "venue": "SemEval@NAACL-HLT", 
+      "year": 2012
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "9d5a88f6de927fb1017e4b2f3fb41bd5da7262cd", 
+      "title": "Efficient Crowdsourcing of Unknown Experts using Multi-Armed Bandits", 
+      "url": "https://www.semanticscholar.org/paper/9d5a88f6de927fb1017e4b2f3fb41bd5da7262cd", 
+      "venue": "ECAI", 
+      "year": 2012
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "2e50fa3360990aad1fc65a89231d16f8d3373836", 
+      "title": "Modeling Missing Data in Distant Supervision for Information Extraction", 
+      "url": "https://www.semanticscholar.org/paper/2e50fa3360990aad1fc65a89231d16f8d3373836", 
+      "venue": "TACL", 
+      "year": 2013
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "3d378bdbf3564e341bec66c1974899b01e82507f", 
+      "title": "Open domain event extraction from twitter", 
+      "url": "https://www.semanticscholar.org/paper/3d378bdbf3564e341bec66c1974899b01e82507f", 
+      "venue": "KDD", 
+      "year": 2012
+    }, 
+    {
+      "isInfluential": true, 
+      "paperId": "d48edf9e81653f4c3da716b037b0b50d54c5b034", 
+      "title": "Knowledge-Based Weak Supervision for Information Extraction of Overlapping Relations", 
+      "url": "https://www.semanticscholar.org/paper/d48edf9e81653f4c3da716b037b0b50d54c5b034", 
+      "venue": "ACL", 
+      "year": 2011
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "10d21ca7728cb3dd15731accedda9ea711d8a0f4", 
+      "title": "An End-to-End Discriminative Approach to Machine Translation", 
+      "url": "https://www.semanticscholar.org/paper/10d21ca7728cb3dd15731accedda9ea711d8a0f4", 
+      "venue": "ACL", 
+      "year": 2006
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "67750e2143d43c9dadf900d3f3ec7554cd83a1f1", 
+      "title": "Paraphrase acquisition via crowdsourcing and machine learning", 
+      "url": "https://www.semanticscholar.org/paper/67750e2143d43c9dadf900d3f3ec7554cd83a1f1", 
+      "venue": "ACM TIST", 
+      "year": 2013
+    }, 
+    {
+      "isInfluential": true, 
+      "paperId": "7ff5cff8e1c33b30226bf0b2384cbfd7481a4332", 
+      "title": "Paraphrase Identification as Probabilistic Quasi-Synchronous Recognition", 
+      "url": "https://www.semanticscholar.org/paper/7ff5cff8e1c33b30226bf0b2384cbfd7481a4332", 
+      "venue": "ACL/IJCNLP", 
+      "year": 2009
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "581f4e8d74b9ffa3d1e4fbbac8d8742de79cb6c2", 
+      "title": "A Phrase-Based Alignment Model for Natural Language Inference", 
+      "url": "https://www.semanticscholar.org/paper/581f4e8d74b9ffa3d1e4fbbac8d8742de79cb6c2", 
+      "venue": "EMNLP", 
+      "year": 2008
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "81bed85b8533c6efb07757ca825fa05adad38bde", 
+      "title": "Filling Knowledge Base Gaps for Distant Supervision of Relation Extraction", 
+      "url": "https://www.semanticscholar.org/paper/81bed85b8533c6efb07757ca825fa05adad38bde", 
+      "venue": "ACL", 
+      "year": 2013
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "57a2a5be0cd72cc00f5def2e1e67ed4f2bf63fe7", 
+      "title": "On Log-Likelihood-Ratios and the Significance of Rare Events", 
+      "url": "https://www.semanticscholar.org/paper/57a2a5be0cd72cc00f5def2e1e67ed4f2bf63fe7", 
+      "venue": "EMNLP", 
+      "year": 2004
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "4379bb5269dcc745147348ce08e6c69e51f406d9", 
+      "title": "Inter-Coder Agreement for Computational Linguistics", 
+      "url": "https://www.semanticscholar.org/paper/4379bb5269dcc745147348ce08e6c69e51f406d9", 
+      "venue": "Computational Linguistics", 
+      "year": 2008
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "79d16c323cc2584178fbfd2cf4095f2a350fefb4", 
+      "title": "Re-examining Machine Translation Metrics for Paraphrase Identification", 
+      "url": "https://www.semanticscholar.org/paper/79d16c323cc2584178fbfd2cf4095f2a350fefb4", 
+      "venue": "HLT-NAACL", 
+      "year": 2012
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "1163f911d5515e13dc1a141fb6501af756af39f9", 
+      "title": "Optimal and Syntactically-Informed Decoding for Monolingual Phrase-Based Alignment", 
+      "url": "https://www.semanticscholar.org/paper/1163f911d5515e13dc1a141fb6501af756af39f9", 
+      "venue": "ACL", 
+      "year": 2011
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "674ec285ce3a2d0a28d5dbf555f9885764bb6b45", 
+      "title": "Online Learning of Relaxed CCG Grammars for Parsing to Logical Form", 
+      "url": "https://www.semanticscholar.org/paper/674ec285ce3a2d0a28d5dbf555f9885764bb6b45", 
+      "venue": "EMNLP-CoNLL", 
+      "year": 2007
+    }
+  ], 
+  "title": "Extracting Lexically Divergent Paraphrases from Twitter", 
+  "url": "https://www.semanticscholar.org/paper/8dfa00730fafe35bb19b71a8b96be019348304c6", 
+  "venue": "TACL", 
+  "year": 2014
+}

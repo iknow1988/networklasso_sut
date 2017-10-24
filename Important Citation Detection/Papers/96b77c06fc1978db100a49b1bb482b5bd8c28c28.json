@@ -1,0 +1,526 @@
+{
+  "authors": [
+    {
+      "authorId": "2494556", 
+      "name": "Philip Williams", 
+      "url": "https://www.semanticscholar.org/author/2494556"
+    }, 
+    {
+      "authorId": "2082372", 
+      "name": "Rico Sennrich", 
+      "url": "https://www.semanticscholar.org/author/2082372"
+    }, 
+    {
+      "authorId": "3456844", 
+      "name": "Maria Nadejde", 
+      "url": "https://www.semanticscholar.org/author/3456844"
+    }, 
+    {
+      "authorId": "1839533", 
+      "name": "Matthias Huck", 
+      "url": "https://www.semanticscholar.org/author/1839533"
+    }, 
+    {
+      "authorId": "2259100", 
+      "name": "Barry Haddow", 
+      "url": "https://www.semanticscholar.org/author/2259100"
+    }, 
+    {
+      "authorId": "1767887", 
+      "name": "Ondrej Bojar", 
+      "url": "https://www.semanticscholar.org/author/1767887"
+    }
+  ], 
+  "citationVelocity": 0, 
+  "citations": [
+    {
+      "isInfluential": false, 
+      "paperId": "0567637cb701866ffa1a054295dc51e06e8f8088", 
+      "title": "Faster decoding for subword level Phrase-based SMT between related languages", 
+      "url": "https://www.semanticscholar.org/paper/0567637cb701866ffa1a054295dc51e06e8f8088", 
+      "venue": "ArXiv", 
+      "year": 2016
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "9f8173bd1dc732fe832cb05ad80af245be8b8d58", 
+      "title": "Findings of the 2016 Conference on Machine Translation", 
+      "url": "https://www.semanticscholar.org/paper/9f8173bd1dc732fe832cb05ad80af245be8b8d58", 
+      "venue": "WMT", 
+      "year": 2016
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "106d5e0cf44ea08500adc91c4d5bb3e6c8a4d627", 
+      "title": "Six Challenges for Neural Machine Translation", 
+      "url": "https://www.semanticscholar.org/paper/106d5e0cf44ea08500adc91c4d5bb3e6c8a4d627", 
+      "venue": "ArXiv", 
+      "year": 2017
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "feef7ea14013e9e93b9f1219795b3b1a78bb5a8f", 
+      "title": "The QT21/HimL Combined Machine Translation System", 
+      "url": "https://www.semanticscholar.org/paper/feef7ea14013e9e93b9f1219795b3b1a78bb5a8f", 
+      "venue": "WMT", 
+      "year": 2016
+    }, 
+    {
+      "isInfluential": true, 
+      "paperId": "23dcdb421a5dc1b8c0ebe1bfcbdd35a82b169118", 
+      "title": "A Multifaceted Evaluation of Neural versus Phrase-Based Machine Translation for 9 Language Directions", 
+      "url": "https://www.semanticscholar.org/paper/23dcdb421a5dc1b8c0ebe1bfcbdd35a82b169118", 
+      "venue": "EACL", 
+      "year": 2017
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "67eff5ceccdfc419b7529766588cc4366bf6d77a", 
+      "title": "Linguistic Input Features Improve Neural Machine Translation", 
+      "url": "https://www.semanticscholar.org/paper/67eff5ceccdfc419b7529766588cc4366bf6d77a", 
+      "venue": "WMT", 
+      "year": 2016
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "48d03df2c46cc8e536425e5482fcd8a8ac375087", 
+      "title": "Comparing Language Related Issues for NMT and PBMT between German and English", 
+      "url": "https://www.semanticscholar.org/paper/48d03df2c46cc8e536425e5482fcd8a8ac375087", 
+      "venue": "", 
+      "year": 2017
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "c9ca99a8a358ed51b284a941f20cc9df54b68d56", 
+      "title": "The Edinburgh/LMU Hierarchical Machine Translation System for WMT 2016", 
+      "url": "https://www.semanticscholar.org/paper/c9ca99a8a358ed51b284a941f20cc9df54b68d56", 
+      "venue": "WMT", 
+      "year": 2016
+    }
+  ], 
+  "doi": null, 
+  "influentialCitationCount": 1, 
+  "paperId": "96b77c06fc1978db100a49b1bb482b5bd8c28c28", 
+  "references": [
+    {
+      "isInfluential": false, 
+      "paperId": "573e87b6cef3de2fbc9c322bfec407a5602b362b", 
+      "title": "The Edinburgh/JHU Phrase-based Machine Translation Systems for WMT 2015", 
+      "url": "https://www.semanticscholar.org/paper/573e87b6cef3de2fbc9c322bfec407a5602b362b", 
+      "venue": "WMT@EMNLP", 
+      "year": 2015
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "708124fa98ee6fda65a5a361a385b27c066b28f5", 
+      "title": "Empirical Methods for Compound Splitting", 
+      "url": "https://www.semanticscholar.org/paper/708124fa98ee6fda65a5a361a385b27c066b28f5", 
+      "venue": "EACL", 
+      "year": 2003
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "197a7fc2f8d57d93727b348851b59b34ce990afd", 
+      "title": "SRILM - an extensible language modeling toolkit", 
+      "url": "https://www.semanticscholar.org/paper/197a7fc2f8d57d93727b348851b59b34ce990afd", 
+      "venue": "INTERSPEECH", 
+      "year": 2002
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "0c67397ac4c61fd1b702d52a7bb6d42a5bf8d7aa", 
+      "title": "Phrasetable Smoothing for Statistical Machine Translation", 
+      "url": "https://www.semanticscholar.org/paper/0c67397ac4c61fd1b702d52a7bb6d42a5bf8d7aa", 
+      "venue": "EMNLP", 
+      "year": 2006
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "63e8584454a4abb06ac9ef3233c4631fe2bb4e51", 
+      "title": "Edinburgh's Syntax-Based Machine Translation Systems", 
+      "url": "https://www.semanticscholar.org/paper/63e8584454a4abb06ac9ef3233c4631fe2bb4e51", 
+      "venue": "WMT@ACL", 
+      "year": 2013
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "b92c0e898b1fee243864176e18a2b50105be3e54", 
+      "title": "Pseudo-Projective Dependency Parsing", 
+      "url": "https://www.semanticscholar.org/paper/b92c0e898b1fee243864176e18a2b50105be3e54", 
+      "venue": "ACL", 
+      "year": 2005
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "11aedb8f95a007363017dae311fc525f67bd7876", 
+      "title": "Minimum Error Rate Training in Statistical Machine Translation", 
+      "url": "https://www.semanticscholar.org/paper/11aedb8f95a007363017dae311fc525f67bd7876", 
+      "venue": "ACL", 
+      "year": 2003
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "07b8f73a8355c90091a645bcf63ccf383f619c80", 
+      "title": "A Joint Dependency Model of Morphological and Syntactic Structure for Statistical Machine Translation", 
+      "url": "https://www.semanticscholar.org/paper/07b8f73a8355c90091a645bcf63ccf383f619c80", 
+      "venue": "EMNLP", 
+      "year": 2015
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "7fdf4e6a43ee4b36e91f4d7b3d4c4bf2b2c89d83", 
+      "title": "The Mathematics of Statistical Machine Translation: Parameter Estimation", 
+      "url": "https://www.semanticscholar.org/paper/7fdf4e6a43ee4b36e91f4d7b3d4c4bf2b2c89d83", 
+      "venue": "Computational Linguistics", 
+      "year": 1993
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "0894b06cff1cd0903574acaa7fcf071b144ae775", 
+      "title": "Fast and Robust Neural Network Joint Models for Statistical Machine Translation", 
+      "url": "https://www.semanticscholar.org/paper/0894b06cff1cd0903574acaa7fcf071b144ae775", 
+      "venue": "ACL", 
+      "year": 2014
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "89fbfabca6b605e2b00a9d57880c241c17e84001", 
+      "title": "TectoMT: Modular NLP Framework", 
+      "url": "https://www.semanticscholar.org/paper/89fbfabca6b605e2b00a9d57880c241c17e84001", 
+      "venue": "IceTAL", 
+      "year": 2010
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "1401b98a6eb0b0ddaf5bdfd559ed1766434446b8", 
+      "title": "Continuous Space Translation Models with Neural Networks", 
+      "url": "https://www.semanticscholar.org/paper/1401b98a6eb0b0ddaf5bdfd559ed1766434446b8", 
+      "venue": "HLT-NAACL", 
+      "year": 2012
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "1cad303159f86f3f1308d36ad56570111bf028a3", 
+      "title": "Edinburgh's Syntax-Based Systems at WMT 2015", 
+      "url": "https://www.semanticscholar.org/paper/1cad303159f86f3f1308d36ad56570111bf028a3", 
+      "venue": "WMT@EMNLP", 
+      "year": 2015
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "0c9427a9c339b7c11a03d196d8c4035b84d6747f", 
+      "title": "Syntactic Features For Evaluation Of Machine Translation", 
+      "url": "https://www.semanticscholar.org/paper/0c9427a9c339b7c11a03d196d8c4035b84d6747f", 
+      "venue": "", 
+      "year": 2005
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "305480c165d87b95fbb0af333abe073d61d1b8d4", 
+      "title": "Hierarchical Phrase-Based Translation", 
+      "url": "https://www.semanticscholar.org/paper/305480c165d87b95fbb0af333abe073d61d1b8d4", 
+      "venue": "Computational Linguistics", 
+      "year": 2007
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "24beb987b722d4a25d3157a43000e685aa8f8874", 
+      "title": "A Maximum Entropy Model For Part-Of-Speech Tagging", 
+      "url": "https://www.semanticscholar.org/paper/24beb987b722d4a25d3157a43000e685aa8f8874", 
+      "venue": "", 
+      "year": 1996
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "471c44a4fb32fba06f5eedf35f029ed0dc319454", 
+      "title": "A tree does not make a well-formed sentence: Improving syntactic string-to-tree statistical machine translation with more linguistic knowledge", 
+      "url": "https://www.semanticscholar.org/paper/471c44a4fb32fba06f5eedf35f029ed0dc319454", 
+      "venue": "Computer Speech & Language", 
+      "year": 2015
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "04790f8639b211ce28d1a7797d872acc5958f006", 
+      "title": "Improved Models of Distortion Cost for Statistical Machine Translation", 
+      "url": "https://www.semanticscholar.org/paper/04790f8639b211ce28d1a7797d872acc5958f006", 
+      "venue": "HLT-NAACL", 
+      "year": 2010
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "3571dcf348c7db7818c51561d9c8aab0149d8f8a", 
+      "title": "Non-Projective Dependency Parsing using Spanning Tree Algorithms", 
+      "url": "https://www.semanticscholar.org/paper/3571dcf348c7db7818c51561d9c8aab0149d8f8a", 
+      "venue": "HLT/EMNLP", 
+      "year": 2005
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "1e83c2798e87b9d84a8281cc3e9750c948d62cb3", 
+      "title": "A Simple, Fast, and Effective Reparameterization of IBM Model 2", 
+      "url": "https://www.semanticscholar.org/paper/1e83c2798e87b9d84a8281cc3e9750c948d62cb3", 
+      "venue": "HLT-NAACL", 
+      "year": 2013
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "d84b9507ff9687a900fde451f27106d930c1b838", 
+      "title": "Learning Accurate, Compact, and Interpretable Tree Annotation", 
+      "url": "https://www.semanticscholar.org/paper/d84b9507ff9687a900fde451f27106d930c1b838", 
+      "venue": "ACL", 
+      "year": 2006
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "1518039b5001f1836565215eb047526b3ac7f462", 
+      "title": "Neural Machine Translation of Rare Words with Subword Units", 
+      "url": "https://www.semanticscholar.org/paper/1518039b5001f1836565215eb047526b3ac7f462", 
+      "venue": "ACL", 
+      "year": 2016
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "096d7d2e9b3fbc37f1c4e75b1896ae3797950ef9", 
+      "title": "An Empirical Study of Smoothing Techniques for Language Modeling", 
+      "url": "https://www.semanticscholar.org/paper/096d7d2e9b3fbc37f1c4e75b1896ae3797950ef9", 
+      "venue": "ACL", 
+      "year": 1996
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "6f72a6b20a25db3af68a5e6ea3266ca5b67a9e37", 
+      "title": "SCFG Decoding Without Binarization", 
+      "url": "https://www.semanticscholar.org/paper/6f72a6b20a25db3af68a5e6ea3266ca5b67a9e37", 
+      "venue": "EMNLP", 
+      "year": 2010
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "6be1eed6bbd787e12269ba49f2ef9e5c0e96479d", 
+      "title": "Edinburgh's Syntax-Based Systems at WMT 2014", 
+      "url": "https://www.semanticscholar.org/paper/6be1eed6bbd787e12269ba49f2ef9e5c0e96479d", 
+      "venue": "WMT@ACL", 
+      "year": 2014
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "64631eda8c6eb751e8afed7bc43141e8ffcb0156", 
+      "title": "Agreement Constraints for Statistical Machine Translation into German", 
+      "url": "https://www.semanticscholar.org/paper/64631eda8c6eb751e8afed7bc43141e8ffcb0156", 
+      "venue": "", 
+      "year": 2011
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "24174503b5bc79a20f78683bec437ec9c81290b0", 
+      "title": "What's in a translation rule?", 
+      "url": "https://www.semanticscholar.org/paper/24174503b5bc79a20f78683bec437ec9c81290b0", 
+      "venue": "HLT-NAACL", 
+      "year": 2004
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "2711a307ddbb5fe63c3244c1c4c0cafc67ac5696", 
+      "title": "Issues Concerning Decoding with Synchronous Context-free Grammar", 
+      "url": "https://www.semanticscholar.org/paper/2711a307ddbb5fe63c3244c1c4c0cafc67ac5696", 
+      "venue": "ACL", 
+      "year": 2011
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "1a5ea605111eb3403868d4b679315e944beee8c6", 
+      "title": "Edinburgh Neural Machine Translation Systems for WMT 16", 
+      "url": "https://www.semanticscholar.org/paper/1a5ea605111eb3403868d4b679315e944beee8c6", 
+      "venue": "WMT", 
+      "year": 2016
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "1aff792035e15ece53f05bbda6ceb5fe4359fe8d", 
+      "title": "A Simple and Effective Hierarchical Phrase Reordering Model", 
+      "url": "https://www.semanticscholar.org/paper/1aff792035e15ece53f05bbda6ceb5fe4359fe8d", 
+      "venue": "EMNLP", 
+      "year": 2008
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "13eba30632154428725983fcd8343f3f1b3f0695", 
+      "title": "A Fast and Accurate Dependency Parser using Neural Networks", 
+      "url": "https://www.semanticscholar.org/paper/13eba30632154428725983fcd8343f3f1b3f0695", 
+      "venue": "EMNLP", 
+      "year": 2014
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "10e836aafa6d3cbc86910b9945c272db63c92dac", 
+      "title": "Minimum Bayes-Risk Decoding for Statistical Machine Translation", 
+      "url": "https://www.semanticscholar.org/paper/10e836aafa6d3cbc86910b9945c272db63c92dac", 
+      "venue": "HLT-NAACL", 
+      "year": 2004
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "76232f8fa3377c7382220a196470d11cb30fb45c", 
+      "title": "Can Markov Models Over Minimal Translation Units Help Phrase-Based SMT?", 
+      "url": "https://www.semanticscholar.org/paper/76232f8fa3377c7382220a196470d11cb30fb45c", 
+      "venue": "ACL", 
+      "year": 2013
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "7abbcb9628d6d7090a836e39fd62a6978335393f", 
+      "title": "Lexicon models for hierarchical phrase-based machine translation", 
+      "url": "https://www.semanticscholar.org/paper/7abbcb9628d6d7090a836e39fd62a6978335393f", 
+      "venue": "IWSLT", 
+      "year": 2011
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "4add8164f2de84223235a6cd8240bdf0fefe2b3f", 
+      "title": "Improved Inference for Unlexicalized Parsing", 
+      "url": "https://www.semanticscholar.org/paper/4add8164f2de84223235a6cd8240bdf0fefe2b3f", 
+      "venue": "HLT-NAACL", 
+      "year": 2007
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "309c44b6d2b1cd0b58f3dfd62ba1219e7bb6bd5f", 
+      "title": "Exploiting Synergies Between Open Resources for German Dependency Parsing, POS-tagging, and Morphological Analysis", 
+      "url": "https://www.semanticscholar.org/paper/309c44b6d2b1cd0b58f3dfd62ba1219e7bb6bd5f", 
+      "venue": "RANLP", 
+      "year": 2013
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "25ca4a36df2955b345634b5f8a6b6bb66a774b3c", 
+      "title": "Parallel Data, Tools and Interfaces in OPUS", 
+      "url": "https://www.semanticscholar.org/paper/25ca4a36df2955b345634b5f8a6b6bb66a774b3c", 
+      "venue": "LREC", 
+      "year": 2012
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "0c9b377fcaf154eed6d59347c4b7dc9b57540575", 
+      "title": "GHKM Rule Extraction and Scope-3 Parsing in Moses", 
+      "url": "https://www.semanticscholar.org/paper/0c9b377fcaf154eed6d59347c4b7dc9b57540575", 
+      "venue": "WMT@NAACL-HLT", 
+      "year": 2012
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "774e560a2cadcb84f4b1def7b152e5398b062efb", 
+      "title": "Scalable Modified Kneser-Ney Language Model Estimation", 
+      "url": "https://www.semanticscholar.org/paper/774e560a2cadcb84f4b1def7b152e5398b062efb", 
+      "venue": "ACL", 
+      "year": 2013
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "368f3dea4f12c77dfc9b7203f3ab2b9efaecb635", 
+      "title": "Statistical Phrase-Based Translation", 
+      "url": "https://www.semanticscholar.org/paper/368f3dea4f12c77dfc9b7203f3ab2b9efaecb635", 
+      "venue": "HLT-NAACL", 
+      "year": 2003
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "6f0fc52cdb399dd47efb03639db13b821fb839b1", 
+      "title": "Edinburgh's Submission to all Tracks of the WMT 2009 Shared Task with Reordering and Speed Improvements to Moses", 
+      "url": "https://www.semanticscholar.org/paper/6f0fc52cdb399dd47efb03639db13b821fb839b1", 
+      "venue": "", 
+      "year": 2009
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "75a168de8a2aa35438470eedc571bd1ba9fe20a2", 
+      "title": "Open-Source Tools for Morphology, Lemmatization, POS Tagging and Named Entity Recognition", 
+      "url": "https://www.semanticscholar.org/paper/75a168de8a2aa35438470eedc571bd1ba9fe20a2", 
+      "venue": "ACL", 
+      "year": 2014
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "7c1fa17e15c5ffcab4d76a56c75ada5e1b5d727e", 
+      "title": "Unification-based Constraints for Statistical Machine Translation", 
+      "url": "https://www.semanticscholar.org/paper/7c1fa17e15c5ffcab4d76a56c75ada5e1b5d727e", 
+      "venue": "", 
+      "year": 2014
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "5e75309de2c907d6cedd029bb81a24c6817128fe", 
+      "title": "Decoding with Large-Scale Neural Language Models Improves Translation", 
+      "url": "https://www.semanticscholar.org/paper/5e75309de2c907d6cedd029bb81a24c6817128fe", 
+      "venue": "EMNLP", 
+      "year": 2013
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "025ad3bf1d2ade5ccc248d268c04f09eefda0073", 
+      "title": "Modelling and Optimizing on Syntactic N-Grams for Statistical Machine Translation", 
+      "url": "https://www.semanticscholar.org/paper/025ad3bf1d2ade5ccc248d268c04f09eefda0073", 
+      "venue": "TACL", 
+      "year": 2015
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "44e74d06c5e9670cada7bf53ecfc81a67c8ea0a7", 
+      "title": "Parallel Implementations of Word Alignment Tool", 
+      "url": "https://www.semanticscholar.org/paper/44e74d06c5e9670cada7bf53ecfc81a67c8ea0a7", 
+      "venue": "", 
+      "year": 2008
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "4723699d2536fc6e8103d147ff5346ae80050b08", 
+      "title": "Scalable Inference and Training of Context-Rich Syntactic Translation Models", 
+      "url": "https://www.semanticscholar.org/paper/4723699d2536fc6e8103d147ff5346ae80050b08", 
+      "venue": "ACL", 
+      "year": 2006
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "27216a4c26c289e0ce0f73bcc002c2583d0dc71f", 
+      "title": "A CYK+ Variant for SCFG Decoding Without a Dot Chart", 
+      "url": "https://www.semanticscholar.org/paper/27216a4c26c289e0ce0f73bcc002c2583d0dc71f", 
+      "venue": "SSST@EMNLP", 
+      "year": 2014
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "79ce99e427d7808b1a95534f7667ada7e8b1af23", 
+      "title": "Preference Grammars and Soft Syntactic Constraints for GHKM Syntax-based Statistical Machine Translation", 
+      "url": "https://www.semanticscholar.org/paper/79ce99e427d7808b1a95534f7667ada7e8b1af23", 
+      "venue": "SSST@EMNLP", 
+      "year": 2014
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "3a3aa5fb618d977e17e062bb71a58073546d97db", 
+      "title": "Batch Tuning Strategies for Statistical Machine Translation", 
+      "url": "https://www.semanticscholar.org/paper/3a3aa5fb618d977e17e062bb71a58073546d97db", 
+      "venue": "HLT-NAACL", 
+      "year": 2012
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "0e479e745374189934b57eafe637c53b490ad1c3", 
+      "title": "Forest Rescoring: Faster Decoding with Integrated Language Models", 
+      "url": "https://www.semanticscholar.org/paper/0e479e745374189934b57eafe637c53b490ad1c3", 
+      "venue": "ACL", 
+      "year": 2007
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "555e1d6ecc7af031f29b0225bdca06d4a6da77ed", 
+      "title": "Clause Restructuring for Statistical Machine Translation", 
+      "url": "https://www.semanticscholar.org/paper/555e1d6ecc7af031f29b0225bdca06d4a6da77ed", 
+      "venue": "ACL", 
+      "year": 2005
+    }
+  ], 
+  "title": "Edinburgh's Statistical Machine Translation Systems for WMT16", 
+  "url": "https://www.semanticscholar.org/paper/96b77c06fc1978db100a49b1bb482b5bd8c28c28", 
+  "venue": "WMT", 
+  "year": 2016
+}

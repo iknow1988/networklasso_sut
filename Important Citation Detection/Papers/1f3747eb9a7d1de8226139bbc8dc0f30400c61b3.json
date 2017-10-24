@@ -1,0 +1,956 @@
+{
+  "authors": [
+    {
+      "authorId": "2107124", 
+      "name": "Ben Wellner", 
+      "url": "https://www.semanticscholar.org/author/2107124"
+    }, 
+    {
+      "authorId": "1735747", 
+      "name": "Andrew McCallum", 
+      "url": "https://www.semanticscholar.org/author/1735747"
+    }, 
+    {
+      "authorId": "1682136", 
+      "name": "Fuchun Peng", 
+      "url": "https://www.semanticscholar.org/author/1682136"
+    }, 
+    {
+      "authorId": "5428675", 
+      "name": "Michael Hay", 
+      "url": "https://www.semanticscholar.org/author/5428675"
+    }
+  ], 
+  "citationVelocity": 0, 
+  "citations": [
+    {
+      "isInfluential": false, 
+      "paperId": "f45b11887f567e08c84d58563be6b010d874350e", 
+      "title": "Coreference Resolution: A Survey", 
+      "url": "https://www.semanticscholar.org/paper/f45b11887f567e08c84d58563be6b010d874350e", 
+      "venue": "", 
+      "year": 2006
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "895befda94484f0e9f62d90a4056ab06fa26f4a6", 
+      "title": "Structured Local Training and Biased Potential Functions for Conditional Random Fields with Application to Coreference Resolution", 
+      "url": "https://www.semanticscholar.org/paper/895befda94484f0e9f62d90a4056ab06fa26f4a6", 
+      "venue": "HLT-NAACL", 
+      "year": 2007
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "1f846fa4901db7b63ef51251fc6c70d406c35bd8", 
+      "title": "Improving the Quality of Text Understanding by Delaying Ambiguity Resolution", 
+      "url": "https://www.semanticscholar.org/paper/1f846fa4901db7b63ef51251fc6c70d406c35bd8", 
+      "venue": "COLING", 
+      "year": 2010
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "3de563fe753e675cf29a31005a3205728a1390cc", 
+      "title": "Just Add Weights: Markov Logic for the Semantic Web", 
+      "url": "https://www.semanticscholar.org/paper/3de563fe753e675cf29a31005a3205728a1390cc", 
+      "venue": "URSW", 
+      "year": 2008
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "4b12b37f2691224b5aab3cfd6c2eef2f2577b97d", 
+      "title": "CoBib: An Architecture for a Collaborative Database", 
+      "url": "https://www.semanticscholar.org/paper/4b12b37f2691224b5aab3cfd6c2eef2f2577b97d", 
+      "venue": "", 
+      "year": 2007
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "20fdb0557492838346cd32748e69671424939165", 
+      "title": "Fast Author Name Disambiguation in CiteSeer", 
+      "url": "https://www.semanticscholar.org/paper/20fdb0557492838346cd32748e69671424939165", 
+      "venue": "", 
+      "year": 2006
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "0a273fd76fceaf12c1d5065847d2792fad33426d", 
+      "title": "Iterative joint extraction of entities, relationships and coreferences from text sources", 
+      "url": "https://www.semanticscholar.org/paper/0a273fd76fceaf12c1d5065847d2792fad33426d", 
+      "venue": "2015 IEEE 9th International Conference on Research Challenges in Information Science (RCIS)", 
+      "year": 2015
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "3a5a10b5fdbbb6392f6983f834b3876c27d0c04d", 
+      "title": "Piecewise Training with Parameter Independence Diagrams: Comparing Globally- and Locally-trained Linear-chain CRFs", 
+      "url": "https://www.semanticscholar.org/paper/3a5a10b5fdbbb6392f6983f834b3876c27d0c04d", 
+      "venue": "", 
+      "year": 2004
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "a41e861941d8b6941421c084bde0e6f8bf2e2cb8", 
+      "title": "Bridging the Gap between Linked Data and the Semantic Desktop", 
+      "url": "https://www.semanticscholar.org/paper/a41e861941d8b6941421c084bde0e6f8bf2e2cb8", 
+      "venue": "International Semantic Web Conference", 
+      "year": 2009
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "df8412b669414f37e73fc6b03eef0f8500a1488b", 
+      "title": "An Evaluation of Layout Features for Information Extraction from Calls for Papers", 
+      "url": "https://www.semanticscholar.org/paper/df8412b669414f37e73fc6b03eef0f8500a1488b", 
+      "venue": "LWA", 
+      "year": 2005
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "875c53ec614219d8b6f651b43a649ecdb1e51d58", 
+      "title": "Efficient topic-based unsupervised name disambiguation", 
+      "url": "https://www.semanticscholar.org/paper/875c53ec614219d8b6f651b43a649ecdb1e51d58", 
+      "venue": "JCDL", 
+      "year": 2007
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "148f6b8141e7d27a86cda463bbf2d88fb5e39ab0", 
+      "title": "Graphical Models for Protein Function and Structure Prediction", 
+      "url": "https://www.semanticscholar.org/paper/148f6b8141e7d27a86cda463bbf2d88fb5e39ab0", 
+      "venue": "", 
+      "year": 2013
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "3131a37bb81c605c1bb422df17bc081c7efefefa", 
+      "title": "CC Prediction with Graphical Models", 
+      "url": "https://www.semanticscholar.org/paper/3131a37bb81c605c1bb422df17bc081c7efefefa", 
+      "venue": "CEAS", 
+      "year": 2006
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "b710ab2af31fac72fa6ab54eb4b495b33b512148", 
+      "title": "An Approach to Collective Entity Linking", 
+      "url": "https://www.semanticscholar.org/paper/b710ab2af31fac72fa6ab54eb4b495b33b512148", 
+      "venue": "", 
+      "year": 2017
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "9c7097e8fe57aab24f0c8a2b81c19f6d27d389d5", 
+      "title": "Fast Inference for Interactive Models of Text", 
+      "url": "https://www.semanticscholar.org/paper/9c7097e8fe57aab24f0c8a2b81c19f6d27d389d5", 
+      "venue": "COLING", 
+      "year": 2016
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "b414a289924992f317faaeadadc104e2977f5dec", 
+      "title": "Probabilistic Inference for Cold Start Knowledge Base Population with Prior World Knowledge", 
+      "url": "https://www.semanticscholar.org/paper/b414a289924992f317faaeadadc104e2977f5dec", 
+      "venue": "EACL", 
+      "year": 2017
+    }, 
+    {
+      "isInfluential": true, 
+      "paperId": "1a630ace1ce69ab72d657767615a17e432d86441", 
+      "title": "Joint Inference in Information Extraction", 
+      "url": "https://www.semanticscholar.org/paper/1a630ace1ce69ab72d657767615a17e432d86441", 
+      "venue": "AAAI", 
+      "year": 2007
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "8d16bf5a1cc5968b3a78620489f7a5be05d33cf4", 
+      "title": "An Efficient Best-Trees Algorithm for Weighted Tree Automata over the Tropical Semiring", 
+      "url": "https://www.semanticscholar.org/paper/8d16bf5a1cc5968b3a78620489f7a5be05d33cf4", 
+      "venue": "LATA", 
+      "year": 2015
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "f38972067b6501f45af30e8d2c32e2d8efc5a67c", 
+      "title": "Record Matching in Digital Library Metadata Using Evidence from External Sources to Create More Accurate Matching Systems", 
+      "url": "https://www.semanticscholar.org/paper/f38972067b6501f45af30e8d2c32e2d8efc5a67c", 
+      "venue": "", 
+      "year": 2008
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "0c14aabac54be1936466d40c6cceffc0e9121d83", 
+      "title": "Object-level Vertical Search", 
+      "url": "https://www.semanticscholar.org/paper/0c14aabac54be1936466d40c6cceffc0e9121d83", 
+      "venue": "CIDR", 
+      "year": 2007
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "baaae290b2af976b6e5d89dcd281263b9e38cbfe", 
+      "title": "Language ID in the Context of Harvesting Language Data off the Web", 
+      "url": "https://www.semanticscholar.org/paper/baaae290b2af976b6e5d89dcd281263b9e38cbfe", 
+      "venue": "EACL", 
+      "year": 2009
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "1ce5def24ba497a27c8742cb8b0ad5a6602cfb1c", 
+      "title": "An unsupervised framework for extracting and normalizing product attributes from multiple web sites", 
+      "url": "https://www.semanticscholar.org/paper/1ce5def24ba497a27c8742cb8b0ad5a6602cfb1c", 
+      "venue": "SIGIR", 
+      "year": 2008
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "8dfdedcbeb3b67ecaa4d85ca4b9d1aff368b8e2a", 
+      "title": "Better K-Best Parsing", 
+      "url": "https://www.semanticscholar.org/paper/8dfdedcbeb3b67ecaa4d85ca4b9d1aff368b8e2a", 
+      "venue": "", 
+      "year": 2005
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "3ad62e0c8c73728c05723a0799b7c951030fb640", 
+      "title": "Modeling Success, Failure, and Intent of Multi-Agent Activities Under Severe Noise", 
+      "url": "https://www.semanticscholar.org/paper/3ad62e0c8c73728c05723a0799b7c951030fb640", 
+      "venue": "", 
+      "year": 2011
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "3369b093991fe7d687b9ff33ecaf9d037d7d59e6", 
+      "title": "An integrated discriminative probabilistic approach to information extraction", 
+      "url": "https://www.semanticscholar.org/paper/3369b093991fe7d687b9ff33ecaf9d037d7d59e6", 
+      "venue": "CIKM", 
+      "year": 2009
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "45057ba02f3ade37cb15766f1bb437be242a07af", 
+      "title": "Bibliometric impact measures leveraging topic analysis", 
+      "url": "https://www.semanticscholar.org/paper/45057ba02f3ade37cb15766f1bb437be242a07af", 
+      "venue": "Proceedings of the 6th ACM/IEEE-CS Joint Conference on Digital Libraries (JCDL '06)", 
+      "year": 2006
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "2182fbe872d0156c3dc243839fe0af9ec22fb64d", 
+      "title": "Mining Information for Instance Unification", 
+      "url": "https://www.semanticscholar.org/paper/2182fbe872d0156c3dc243839fe0af9ec22fb64d", 
+      "venue": "International Semantic Web Conference", 
+      "year": 2006
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "81ed73f2c1dce1a9ddb14401ea65c8d1dbbd15d8", 
+      "title": "Cost-sensitive Web-based Information Acquisition for Record Matching", 
+      "url": "https://www.semanticscholar.org/paper/81ed73f2c1dce1a9ddb14401ea65c8d1dbbd15d8", 
+      "venue": "", 
+      "year": 2011
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "1dcb5fa8c88657fdfe148a178ce035e2522dcba3", 
+      "title": "A Joint Inference Architecture for Global Coreference Clustering with Anaphoricity", 
+      "url": "https://www.semanticscholar.org/paper/1dcb5fa8c88657fdfe148a178ce035e2522dcba3", 
+      "venue": "GSCL", 
+      "year": 2013
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "0909027853dfcdc2018a2bd084fbf9621a4e325c", 
+      "title": "1 BLOG: Probabilistic Models with Unknown Objects", 
+      "url": "https://www.semanticscholar.org/paper/0909027853dfcdc2018a2bd084fbf9621a4e325c", 
+      "venue": "", 
+      "year": 2006
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "981f908bd9a70bdd486c1de4143b4f98854f35e1", 
+      "title": "SkipCor: Skip-Mention Coreference Resolution Using Linear-Chain Conditional Random Fields", 
+      "url": "https://www.semanticscholar.org/paper/981f908bd9a70bdd486c1de4143b4f98854f35e1", 
+      "venue": "PloS one", 
+      "year": 2014
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "8425c491bc10a5848bdfa8532ef188bdc430b2b5", 
+      "title": "MAP estimation in MRFs via rank aggregation", 
+      "url": "https://www.semanticscholar.org/paper/8425c491bc10a5848bdfa8532ef188bdc430b2b5", 
+      "venue": "", 
+      "year": 2006
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "65cdab424fe449deaab359a1f8e16899ac91dd2a", 
+      "title": "FACTORIE: Probabilistic Programming via Imperatively Defined Factor Graphs", 
+      "url": "https://www.semanticscholar.org/paper/65cdab424fe449deaab359a1f8e16899ac91dd2a", 
+      "venue": "NIPS", 
+      "year": 2009
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "4d327647b16c3a36bf70203f19dec29182267f61", 
+      "title": "Markov Logic", 
+      "url": "https://www.semanticscholar.org/paper/4d327647b16c3a36bf70203f19dec29182267f61", 
+      "venue": "Probabilistic Inductive Logic Programming", 
+      "year": 2008
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "5157e2152e3953cbacf33acf7eebbb77868e526f", 
+      "title": "Semi-Supervised Multiple Disambiguation", 
+      "url": "https://www.semanticscholar.org/paper/5157e2152e3953cbacf33acf7eebbb77868e526f", 
+      "venue": "TrustCom/BigDataSE/ISPA", 
+      "year": 2015
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "0d7bb2a4fddb2d187f9a3018a79ebb6c77b80351", 
+      "title": "Record matching in digital library metadata", 
+      "url": "https://www.semanticscholar.org/paper/0d7bb2a4fddb2d187f9a3018a79ebb6c77b80351", 
+      "venue": "Commun. ACM", 
+      "year": 2008
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "16519e1290ae7bc73f55272115965d0497408160", 
+      "title": "Bi-directional Joint Inference for Entity Resolution and Segmentation Using Imperatively-Defined Factor Graphs", 
+      "url": "https://www.semanticscholar.org/paper/16519e1290ae7bc73f55272115965d0497408160", 
+      "venue": "ECML/PKDD", 
+      "year": 2009
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "76d31267ebdd8a444469ca4f13fda14506a782cd", 
+      "title": "Forest-based Algorithms in Natural Language Processing", 
+      "url": "https://www.semanticscholar.org/paper/76d31267ebdd8a444469ca4f13fda14506a782cd", 
+      "venue": "", 
+      "year": 2008
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "072e5a7064151043b3e8b380979a4b4101ae7302", 
+      "title": "Extracting and Summarizing Hot Item Features Across Different Auction Web Sites", 
+      "url": "https://www.semanticscholar.org/paper/072e5a7064151043b3e8b380979a4b4101ae7302", 
+      "venue": "PAKDD", 
+      "year": 2006
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "b25f87c2c7aa964ecd74b93f6ddcfcf9b1599eef", 
+      "title": "Graphical Models for Information Extraction and Reconciliation", 
+      "url": "https://www.semanticscholar.org/paper/b25f87c2c7aa964ecd74b93f6ddcfcf9b1599eef", 
+      "venue": "", 
+      "year": null
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "96a2de90c75427e99abf8165383c98b0b655e5c2", 
+      "title": "Big Data and Cross-Document Coreference Resolution: Current State and Future Opportunities", 
+      "url": "https://www.semanticscholar.org/paper/96a2de90c75427e99abf8165383c98b0b655e5c2", 
+      "venue": "ArXiv", 
+      "year": 2013
+    }, 
+    {
+      "isInfluential": true, 
+      "paperId": "4695e456a3f1aae12e4a5679ab8426d76f38d7c3", 
+      "title": "Evidence-Based Information Extraction for High Accuracy Citation and Author Name Identification", 
+      "url": "https://www.semanticscholar.org/paper/4695e456a3f1aae12e4a5679ab8426d76f38d7c3", 
+      "venue": "RIAO", 
+      "year": 2007
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "09afa9d5fec24b9b4ea42abf85bf6799d5d918a3", 
+      "title": "Learning with Probabilistic Features for Improved Pipeline Models", 
+      "url": "https://www.semanticscholar.org/paper/09afa9d5fec24b9b4ea42abf85bf6799d5d918a3", 
+      "venue": "EMNLP", 
+      "year": 2008
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "4984f1b4d4023c7d62b39add8abc64d8fc2de7ea", 
+      "title": "Activity Recognition from Physiological Data using Conditional Random Fields", 
+      "url": "https://www.semanticscholar.org/paper/4984f1b4d4023c7d62b39add8abc64d8fc2de7ea", 
+      "venue": "", 
+      "year": 2005
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "00491d86cb03f2ada5d5556284732c98aa4d0913", 
+      "title": "Learning to extract and summarize hot item features from multiple auction web sites", 
+      "url": "https://www.semanticscholar.org/paper/00491d86cb03f2ada5d5556284732c98aa4d0913", 
+      "venue": "Knowledge and Information Systems", 
+      "year": 2007
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "1dc6aed307ccbaec66e2173989649245dea2d477", 
+      "title": "Probabilistic Artificial Intelligence Machine Learning Graphical Models Approximate Inference Structure Learning Information Integration 2.1 Rigorous Bounds and General Event Probabilities", 
+      "url": "https://www.semanticscholar.org/paper/1dc6aed307ccbaec66e2173989649245dea2d477", 
+      "venue": "", 
+      "year": 2007
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "96f8ffdbeffd9c2432f16741f88636ed6ecc66e1", 
+      "title": "Simultaneous record detection and attribute labeling in web data extraction", 
+      "url": "https://www.semanticscholar.org/paper/96f8ffdbeffd9c2432f16741f88636ed6ecc66e1", 
+      "venue": "KDD", 
+      "year": 2006
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "31a2c0a5152ad92e44412ac4acbeb68bed4afba0", 
+      "title": "Institute for Adaptive and Neural Computation An Expectation Maximisation Algorithm for One-to-Many Record Linkage, Illustrated on the Problem of Matching Far Infra-Red Astronomical Sources to Optical Counterparts", 
+      "url": "https://www.semanticscholar.org/paper/31a2c0a5152ad92e44412ac4acbeb68bed4afba0", 
+      "venue": "", 
+      "year": 2005
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "a6d331154b16780cdce455504e787810806813e7", 
+      "title": "An architecture for a collaborative bibliographic database", 
+      "url": "https://www.semanticscholar.org/paper/a6d331154b16780cdce455504e787810806813e7", 
+      "venue": "Richard Tapia Celebration of Diversity in Computing Conference", 
+      "year": 2007
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "a30278125016cee441b27b4ad57e2e815b494f5f", 
+      "title": "Statistical Learning for Relational and Structured Data", 
+      "url": "https://www.semanticscholar.org/paper/a30278125016cee441b27b4ad57e2e815b494f5f", 
+      "venue": "", 
+      "year": 2010
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "8c79ff1b650cdd503caeaea5b2061ce783c264c1", 
+      "title": "Evaluation Method, Dataset Size or Dataset Content: How to Evaluate Algorithms for Image Matching?", 
+      "url": "https://www.semanticscholar.org/paper/8c79ff1b650cdd503caeaea5b2061ce783c264c1", 
+      "venue": "Journal of Mathematical Imaging and Vision", 
+      "year": 2015
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "2ace53c571eb4900e56700103a9b2b8c51217532", 
+      "title": "Option Discovery in Hierarchical Reinforcement Learning for Training Large Factor Graphs for Information Extraction", 
+      "url": "https://www.semanticscholar.org/paper/2ace53c571eb4900e56700103a9b2b8c51217532", 
+      "venue": "", 
+      "year": 2009
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "3501f4dfaf6448c5e8cc57acaa06a75979a0b1f0", 
+      "title": "Large-Scale Cross-Document Coreference Using Distributed Inference and Hierarchical Models", 
+      "url": "https://www.semanticscholar.org/paper/3501f4dfaf6448c5e8cc57acaa06a75979a0b1f0", 
+      "venue": "ACL", 
+      "year": 2011
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "b75c1a7013fb870d45fbcae71ecb3409c421e056", 
+      "title": "Optimizing Information Extraction Programs over Evolving Text Thank You for Your Feedback and Support. I Also Thank Fellow Students Table of Contents", 
+      "url": "https://www.semanticscholar.org/paper/b75c1a7013fb870d45fbcae71ecb3409c421e056", 
+      "venue": "", 
+      "year": 2010
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "0b79bbe8c74263e7ce5cb4a440c8a85b2b781437", 
+      "title": "Information Extraction in the Business Intelligence Context", 
+      "url": "https://www.semanticscholar.org/paper/0b79bbe8c74263e7ce5cb4a440c8a85b2b781437", 
+      "venue": "", 
+      "year": 2010
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "30753bc1f583ba7ce71dd0186e109813cd658616", 
+      "title": "Markov Logic for Machine Reading", 
+      "url": "https://www.semanticscholar.org/paper/30753bc1f583ba7ce71dd0186e109813cd658616", 
+      "venue": "", 
+      "year": 2011
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "d85b06ba57ceba628642565bf0f275a4465d24cf", 
+      "title": "MyCites: An Intelligent Information System for Maintaining Citations", 
+      "url": "https://www.semanticscholar.org/paper/d85b06ba57ceba628642565bf0f275a4465d24cf", 
+      "venue": "SETN", 
+      "year": 2008
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "86cfe5420a1d188cee7dd883b681c43fa4690e18", 
+      "title": "A Generalized Joint Inference Approach for Citation Matching", 
+      "url": "https://www.semanticscholar.org/paper/86cfe5420a1d188cee7dd883b681c43fa4690e18", 
+      "venue": "Australasian Conference on Artificial Intelligence", 
+      "year": 2008
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "fb2d078681b3b3f60bd5992938c0edc579c85e7b", 
+      "title": "Probabilistic joint models incorporating logic and learning via structured variational approximation for information extraction", 
+      "url": "https://www.semanticscholar.org/paper/fb2d078681b3b3f60bd5992938c0edc579c85e7b", 
+      "venue": "Knowledge and Information Systems", 
+      "year": 2011
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "01ebab1dbf78e0069c2dcc347c3e57818b13fd39", 
+      "title": "Learning metadata from the evidence in an on-line citation matching scheme", 
+      "url": "https://www.semanticscholar.org/paper/01ebab1dbf78e0069c2dcc347c3e57818b13fd39", 
+      "venue": "Proceedings of the 6th ACM/IEEE-CS Joint Conference on Digital Libraries (JCDL '06)", 
+      "year": 2006
+    }, 
+    {
+      "isInfluential": true, 
+      "paperId": "d23a92ef95ffefa8348c499a6534be443c7e109b", 
+      "title": "An unsupervised method for joint information extraction and feature mining across different Web sites", 
+      "url": "https://www.semanticscholar.org/paper/d23a92ef95ffefa8348c499a6534be443c7e109b", 
+      "venue": "Data Knowl. Eng.", 
+      "year": 2009
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "a0d9e8fdd17ec96900529e59b56e69441152ff9b", 
+      "title": "Extracting Medication Information from Discharge Summaries", 
+      "url": "https://www.semanticscholar.org/paper/a0d9e8fdd17ec96900529e59b56e69441152ff9b", 
+      "venue": "", 
+      "year": 2010
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "2919d69e3acd46b963a7a9773f9e53674592a816", 
+      "title": "Applied Mathematics & Information Sciences", 
+      "url": "https://www.semanticscholar.org/paper/2919d69e3acd46b963a7a9773f9e53674592a816", 
+      "venue": "", 
+      "year": 2012
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "da94878dd05036ccba3255e52370c638bf8cece7", 
+      "title": "Template-Independent Web Object Extraction", 
+      "url": "https://www.semanticscholar.org/paper/da94878dd05036ccba3255e52370c638bf8cece7", 
+      "venue": "", 
+      "year": 2005
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "0b0d38f4b824a523a882bf0e601e79602359a9d7", 
+      "title": "Creating Relational Data from Unstructured and Ungrammatical Data Sources", 
+      "url": "https://www.semanticscholar.org/paper/0b0d38f4b824a523a882bf0e601e79602359a9d7", 
+      "venue": "J. Artif. Intell. Res.", 
+      "year": 2008
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "2ba92d274d99106e029cf7d38c9e840888c09d7b", 
+      "title": "Constraint-Based Entity Matching", 
+      "url": "https://www.semanticscholar.org/paper/2ba92d274d99106e029cf7d38c9e840888c09d7b", 
+      "venue": "AAAI", 
+      "year": 2005
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "53acbf573816167d6e84ae3894b6341b534cf3f9", 
+      "title": "System for collective entity disambiguation", 
+      "url": "https://www.semanticscholar.org/paper/53acbf573816167d6e84ae3894b6341b534cf3f9", 
+      "venue": "ERD@SIGIR", 
+      "year": 2014
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "ae1565ab95e384e4c204383f349135846d6424d7", 
+      "title": "Learning to Collectively Link Entities", 
+      "url": "https://www.semanticscholar.org/paper/ae1565ab95e384e4c204383f349135846d6424d7", 
+      "venue": "CODS", 
+      "year": 2016
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "0f62570bbd6cee7fd189f38c6883f289b22cc691", 
+      "title": "SPIN: searching personal information networks", 
+      "url": "https://www.semanticscholar.org/paper/0f62570bbd6cee7fd189f38c6883f289b22cc691", 
+      "venue": "SIGIR", 
+      "year": 2005
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "3274d8a1a2fabc3d95ce9adb76462bec7d4a7b1f", 
+      "title": "Efficient Name Disambiguation for Large-Scale Databases", 
+      "url": "https://www.semanticscholar.org/paper/3274d8a1a2fabc3d95ce9adb76462bec7d4a7b1f", 
+      "venue": "PKDD", 
+      "year": 2006
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "25e3fdcb832aa5fe21ec0aa802b7371347b15340", 
+      "title": "Unsupervised Ranking Model for Entity Coreference Resolution", 
+      "url": "https://www.semanticscholar.org/paper/25e3fdcb832aa5fe21ec0aa802b7371347b15340", 
+      "venue": "HLT-NAACL", 
+      "year": 2016
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "6e49dc3b7c2587407c03d781efd5f90b2d73f06b", 
+      "title": "A Conditional Model of Deduplication for Multi-Type Relational Data", 
+      "url": "https://www.semanticscholar.org/paper/6e49dc3b7c2587407c03d781efd5f90b2d73f06b", 
+      "venue": "", 
+      "year": 2005
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "ec9bdb37e27a79602a003ba17f4ee7e0afe38093", 
+      "title": "MEDIATE: Learning to Match Entity Mentions across Text and Databases", 
+      "url": "https://www.semanticscholar.org/paper/ec9bdb37e27a79602a003ba17f4ee7e0afe38093", 
+      "venue": "", 
+      "year": 2006
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "69c482aa414609c393c1e2df5c90e5617dc387ae", 
+      "title": "A retrospective of knowledge graphs", 
+      "url": "https://www.semanticscholar.org/paper/69c482aa414609c393c1e2df5c90e5617dc387ae", 
+      "venue": "Frontiers of Computer Science", 
+      "year": 2016
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "5c4878181a79e6b6e9a8b6818d3d167146704af8", 
+      "title": "A Practioner's Guide to Evaluating Entity Resolution Results", 
+      "url": "https://www.semanticscholar.org/paper/5c4878181a79e6b6e9a8b6818d3d167146704af8", 
+      "venue": "ArXiv", 
+      "year": 2015
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "70366a7e871fbe3ab15aaed1cc38d9dc4c9738e9", 
+      "title": "Location-Based Reasoning about Complex Multi-Agent Behavior", 
+      "url": "https://www.semanticscholar.org/paper/70366a7e871fbe3ab15aaed1cc38d9dc4c9738e9", 
+      "venue": "J. Artif. Intell. Res.", 
+      "year": 2012
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "e1c095b120429729eede1a639ac48f7a3aa08f5d", 
+      "title": "Normalizing web product attributes and discovering domain ontology with minimal effort", 
+      "url": "https://www.semanticscholar.org/paper/e1c095b120429729eede1a639ac48f7a3aa08f5d", 
+      "venue": "WSDM", 
+      "year": 2011
+    }, 
+    {
+      "isInfluential": true, 
+      "paperId": "f33feb690ec497dd4c1e1ee0383039addb3ebac9", 
+      "title": "A systematic review and comparative analysis of cross-document coreference resolution methods and tools", 
+      "url": "https://www.semanticscholar.org/paper/f33feb690ec497dd4c1e1ee0383039addb3ebac9", 
+      "venue": "Computing", 
+      "year": 2016
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "e1d77997b84c56a4d1865f4386a04c820fd1491a", 
+      "title": "Practical Structured Learning Techniques for Natural Language Processing", 
+      "url": "https://www.semanticscholar.org/paper/e1d77997b84c56a4d1865f4386a04c820fd1491a", 
+      "venue": "", 
+      "year": 2006
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "8240c09e009ac15c2d147d84213b71cdfe83be58", 
+      "title": "Building Structured Web Community Portals: A Top-Down, Compositional, and Incremental Approach", 
+      "url": "https://www.semanticscholar.org/paper/8240c09e009ac15c2d147d84213b71cdfe83be58", 
+      "venue": "VLDB", 
+      "year": 2007
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "193ad334f669737f421b58198f787470d506e698", 
+      "title": "Joint inference of entities, relations, and coreference", 
+      "url": "https://www.semanticscholar.org/paper/193ad334f669737f421b58198f787470d506e698", 
+      "venue": "AKBC@CIKM", 
+      "year": 2013
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "a0bf2bffb127c94c0830d6998ed90b27f1872fdc", 
+      "title": "Bidirectional Integration of Pipeline Models", 
+      "url": "https://www.semanticscholar.org/paper/a0bf2bffb127c94c0830d6998ed90b27f1872fdc", 
+      "venue": "AAAI", 
+      "year": 2010
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "da63fd8f05bc5289546c2d00be1740a7005c4fda", 
+      "title": "Applying NLP Technologies to the Collection and Enrichment of Language Data on the Web to Aid Linguistic Research", 
+      "url": "https://www.semanticscholar.org/paper/da63fd8f05bc5289546c2d00be1740a7005c4fda", 
+      "venue": "", 
+      "year": 2009
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "7267a6f5d55192a38d06ab6e7855e65836e824af", 
+      "title": "Corpus and Method for Identifying Citations in Non-Academic Text", 
+      "url": "https://www.semanticscholar.org/paper/7267a6f5d55192a38d06ab6e7855e65836e824af", 
+      "venue": "LREC", 
+      "year": 2014
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "364f92019b2433a608fae8ec76fcc8f705252f98", 
+      "title": "Unsupervised Duplicate Detection Using Sample Non-duplicates", 
+      "url": "https://www.semanticscholar.org/paper/364f92019b2433a608fae8ec76fcc8f705252f98", 
+      "venue": "J. Data Semantics VII", 
+      "year": 2006
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "a19c6dd0ad2a9784ad1da17b09db2535f667126b", 
+      "title": "A Machine Learning Framework for Combined Information Extraction and Integration\u2217", 
+      "url": "https://www.semanticscholar.org/paper/a19c6dd0ad2a9784ad1da17b09db2535f667126b", 
+      "venue": "", 
+      "year": 2004
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "146b3649b693ae591c8953c0aae5264512c26ea3", 
+      "title": "Solving the Problem of Cascading Errors: Approximate Bayesian Inference for Linguistic Annotation Pipelines", 
+      "url": "https://www.semanticscholar.org/paper/146b3649b693ae591c8953c0aae5264512c26ea3", 
+      "venue": "EMNLP", 
+      "year": 2006
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "44ff5b62412d86a3cddd74d2c11fbb589d9faaad", 
+      "title": "General-Purpose MCMC Inference over Relational Structures", 
+      "url": "https://www.semanticscholar.org/paper/44ff5b62412d86a3cddd74d2c11fbb589d9faaad", 
+      "venue": "UAI", 
+      "year": 2006
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "8e57b1caafdab2a6c67b1be5b06eff39d8bc9046", 
+      "title": "Alignments and String Similarity in Information Integration: A Random Field Approach", 
+      "url": "https://www.semanticscholar.org/paper/8e57b1caafdab2a6c67b1be5b06eff39d8bc9046", 
+      "venue": "", 
+      "year": 2005
+    }
+  ], 
+  "doi": null, 
+  "influentialCitationCount": 4, 
+  "paperId": "1f3747eb9a7d1de8226139bbc8dc0f30400c61b3", 
+  "references": [
+    {
+      "isInfluential": false, 
+      "paperId": "4b9ea9db7af804d76469cc7571b5c4c2d2890856", 
+      "title": "Exploiting Tractable Substructures in Intractable Networks", 
+      "url": "https://www.semanticscholar.org/paper/4b9ea9db7af804d76469cc7571b5c4c2d2890856", 
+      "venue": "NIPS", 
+      "year": 1995
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "5009f8fdb7947000554b474c5ce287f5ce48ee08", 
+      "title": "Variational Approximations between Mean Field Theory and the Junction Tree Algorithm", 
+      "url": "https://www.semanticscholar.org/paper/5009f8fdb7947000554b474c5ce287f5ce48ee08", 
+      "venue": "UAI", 
+      "year": 2000
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "0e1a7b1b06a7c1b4f56489e083ade64b474d5345", 
+      "title": "Toward Conditional Models of Identity Uncertainty with Application to Proper Noun Coreference", 
+      "url": "https://www.semanticscholar.org/paper/0e1a7b1b06a7c1b4f56489e083ade64b474d5345", 
+      "venue": "IIWeb", 
+      "year": 2003
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "0c7f52c753a65ceaf3755e20b906ffd0c05c994a", 
+      "title": "Conditional Random Fields: Probabilistic Models for Segmenting and Labeling Sequence Data", 
+      "url": "https://www.semanticscholar.org/paper/0c7f52c753a65ceaf3755e20b906ffd0c05c994a", 
+      "venue": "ICML", 
+      "year": 2001
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "0556974a512dca16b5b936543cdea703278c29a2", 
+      "title": "Efficiently Inducing Features of Conditional Random Fields", 
+      "url": "https://www.semanticscholar.org/paper/0556974a512dca16b5b936543cdea703278c29a2", 
+      "venue": "UAI", 
+      "year": 2003
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "0529133c67cd1326bf2ee67b7cb963b4d93bc584", 
+      "title": "Generalized Belief Propagation", 
+      "url": "https://www.semanticscholar.org/paper/0529133c67cd1326bf2ee67b7cb963b4d93bc584", 
+      "venue": "NIPS", 
+      "year": 2000
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "ccc3c00a7402fd9171a788a68a381502c9361557", 
+      "title": "Autocorrelation and Relational Learning: Challenges and Opportunities", 
+      "url": "https://www.semanticscholar.org/paper/ccc3c00a7402fd9171a788a68a381502c9361557", 
+      "venue": "", 
+      "year": 2004
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "7306fee2357c29a3cadd5a7d847b27ddb5a38e3e", 
+      "title": "A Note on the Unification of Information Extraction and Data Mining using Conditional-Probability, Relational Models", 
+      "url": "https://www.semanticscholar.org/paper/7306fee2357c29a3cadd5a7d847b27ddb5a38e3e", 
+      "venue": "", 
+      "year": 2003
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "eaa1c30ac527c81da018d008699db92c76239ff1", 
+      "title": "Correlation Clustering with Partial Information", 
+      "url": "https://www.semanticscholar.org/paper/eaa1c30ac527c81da018d008699db92c76239ff1", 
+      "venue": "RANDOM-APPROX", 
+      "year": 2003
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "5577e077d1c91f68cc1c4c611f5af2b421fe1d41", 
+      "title": "Accurate Information Extraction from Research Papers using Conditional Random Fields", 
+      "url": "https://www.semanticscholar.org/paper/5577e077d1c91f68cc1c4c611f5af2b421fe1d41", 
+      "venue": "HLT-NAACL", 
+      "year": 2004
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "1a3802bf5afe8cf0b8a6b957cb993136077bdc3c", 
+      "title": "Discriminative Probabilistic Models for Relational Data", 
+      "url": "https://www.semanticscholar.org/paper/1a3802bf5afe8cf0b8a6b957cb993136077bdc3c", 
+      "venue": "UAI", 
+      "year": 2002
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "610fe707f4563d0c4cc3fd092d8dee1b2972d6ec", 
+      "title": "A Linear Programming Formulation for Global Inference in Natural Language Tasks", 
+      "url": "https://www.semanticscholar.org/paper/610fe707f4563d0c4cc3fd092d8dee1b2972d6ec", 
+      "venue": "CoNLL", 
+      "year": 2004
+    }, 
+    {
+      "isInfluential": true, 
+      "paperId": "418cc52ee61692ea64e5ae7d52b7b6e7fabcaa2c", 
+      "title": "Digital Libraries and Autonomous Citation Indexing", 
+      "url": "https://www.semanticscholar.org/paper/418cc52ee61692ea64e5ae7d52b7b6e7fabcaa2c", 
+      "venue": "IEEE Computer", 
+      "year": 1999
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "006fa1fd3ce051abddc694efa23c7c8dbd99b653", 
+      "title": "First-Order Probabilistic Models for Information Extraction", 
+      "url": "https://www.semanticscholar.org/paper/006fa1fd3ce051abddc694efa23c7c8dbd99b653", 
+      "venue": "", 
+      "year": 2003
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "5b31e43f8b0490779d8013e0705ae4df8f0488c9", 
+      "title": "Shallow Parsing with Conditional Random Fields", 
+      "url": "https://www.semanticscholar.org/paper/5b31e43f8b0490779d8013e0705ae4df8f0488c9", 
+      "venue": "HLT-NAACL", 
+      "year": 2003
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "407e116803e2fa375cc925774a48b2b5c0482ea3", 
+      "title": "Named Entity Extraction using AdaBoost", 
+      "url": "https://www.semanticscholar.org/paper/407e116803e2fa375cc925774a48b2b5c0482ea3", 
+      "venue": "CoNLL", 
+      "year": 2002
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "798dba07af6b11796a82bb2b713bfda2c7a31ae2", 
+      "title": "A Comparison of String Metrics for Matching Names and Records", 
+      "url": "https://www.semanticscholar.org/paper/798dba07af6b11796a82bb2b713bfda2c7a31ae2", 
+      "venue": "", 
+      "year": 2003
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "045ef694d27fdaf033491310d2d3d797d7558f55", 
+      "title": "Identity Uncertainty and Citation Matching", 
+      "url": "https://www.semanticscholar.org/paper/045ef694d27fdaf033491310d2d3d797d7558f55", 
+      "venue": "NIPS", 
+      "year": 2002
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "5ca2dd834aa435f1fe271057260d34b726afbe1a", 
+      "title": "Analysis of an Iterative Dynamic Programming Approach To", 
+      "url": "https://www.semanticscholar.org/paper/5ca2dd834aa435f1fe271057260d34b726afbe1a", 
+      "venue": "", 
+      "year": 2004
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "902fcbc820e3b2f07c0325576a02e64232d55806", 
+      "title": "A Mutually Beneficial Integration of Data Mining and Information Extraction", 
+      "url": "https://www.semanticscholar.org/paper/902fcbc820e3b2f07c0325576a02e64232d55806", 
+      "venue": "AAAI/IAAI", 
+      "year": 2000
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "250b1eb62ef3188e7172b63b64b7c9b133b370f9", 
+      "title": "Fast Approximate Energy Minimization via Graph Cuts", 
+      "url": "https://www.semanticscholar.org/paper/250b1eb62ef3188e7172b63b64b7c9b133b370f9", 
+      "venue": "IEEE Trans. Pattern Anal. Mach. Intell.", 
+      "year": 1999
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "01189ef908a078b8115d0d9e99d4d38af0efeb77", 
+      "title": "BLOG: Relational Modeling with Unknown Objects", 
+      "url": "https://www.semanticscholar.org/paper/01189ef908a078b8115d0d9e99d4d38af0efeb77", 
+      "venue": "", 
+      "year": 2004
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "1b1eed518d7f0c67874a5e6e018486feb3923732", 
+      "title": "Early results for Named Entity Recognition with Conditional Random Fields, Feature Induction and Web-Enhanced Lexicons", 
+      "url": "https://www.semanticscholar.org/paper/1b1eed518d7f0c67874a5e6e018486feb3923732", 
+      "venue": "CoNLL", 
+      "year": 2003
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "c3b8194158531eb2e49bc2b26baa255acc9abce6", 
+      "title": "Table Extraction Using Conditional Random Fields", 
+      "url": "https://www.semanticscholar.org/paper/c3b8194158531eb2e49bc2b26baa255acc9abce6", 
+      "venue": "", 
+      "year": 2003
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "774c6a9405b6d52d5d30a15e82601ca4635369c6", 
+      "title": "Some Statistical Issues in the Comparison of Speech Recognition Algorithms", 
+      "url": "https://www.semanticscholar.org/paper/774c6a9405b6d52d5d30a15e82601ca4635369c6", 
+      "venue": "", 
+      "year": 1989
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "26309d2ab0a9fd6312063b171c0a46742ca6fc00", 
+      "title": "Dynamic conditional random fields: factorized probabilistic models for labeling and segmenting sequence data", 
+      "url": "https://www.semanticscholar.org/paper/26309d2ab0a9fd6312063b171c0a46742ca6fc00", 
+      "venue": "ICML", 
+      "year": 2004
+    }
+  ], 
+  "title": "An Integrated, Conditional Model of Information Extraction and Coreference with Application to Citation Matching", 
+  "url": "https://www.semanticscholar.org/paper/1f3747eb9a7d1de8226139bbc8dc0f30400c61b3", 
+  "venue": "", 
+  "year": 2004
+}

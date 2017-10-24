@@ -1,0 +1,805 @@
+{
+  "authors": [
+    {
+      "authorId": "1802161", 
+      "name": "Marie-Francine Moens", 
+      "url": "https://www.semanticscholar.org/author/1802161"
+    }
+  ], 
+  "citationVelocity": 0, 
+  "citations": [
+    {
+      "isInfluential": false, 
+      "paperId": "4456d11fbf662fd50311f58786ec92d67c90264e", 
+      "title": "Evaluation of Diversification Techniques for Legal Information Retrieval", 
+      "url": "https://www.semanticscholar.org/paper/4456d11fbf662fd50311f58786ec92d67c90264e", 
+      "venue": "Algorithms", 
+      "year": 2017
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "e94ae3409031d7d8a27b1d273209ddd056806e71", 
+      "title": "Legal documents categorization by compression", 
+      "url": "https://www.semanticscholar.org/paper/e94ae3409031d7d8a27b1d273209ddd056806e71", 
+      "venue": "ICAIL", 
+      "year": 2013
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "26e79f486df045d6a59fcab5b4d4fe534036f27f", 
+      "title": "The Ontology of Legal Possibilities and Legal Potentialities", 
+      "url": "https://www.semanticscholar.org/paper/26e79f486df045d6a59fcab5b4d4fe534036f27f", 
+      "venue": "LOAIT", 
+      "year": 2007
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "42d1992ed282898861dc59d76b7502c34f7b0b14", 
+      "title": "Proposal for a Dutch Legal XML Standard", 
+      "url": "https://www.semanticscholar.org/paper/42d1992ed282898861dc59d76b7502c34f7b0b14", 
+      "venue": "EGOV", 
+      "year": 2002
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "9d10b5965c217b2b0590a72fb6fc77f4458c8465", 
+      "title": "CLIME: Lessons Learned in Legal Information Serving", 
+      "url": "https://www.semanticscholar.org/paper/9d10b5965c217b2b0590a72fb6fc77f4458c8465", 
+      "venue": "ECAI", 
+      "year": 2002
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "18c92a24d994b50d8a7dbb2bf654ee0f82535f65", 
+      "title": "MetaLex: An XML Standard for Legal Documents", 
+      "url": "https://www.semanticscholar.org/paper/18c92a24d994b50d8a7dbb2bf654ee0f82535f65", 
+      "venue": "", 
+      "year": 2003
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "ed1909d3e0533a11e5ff8e5da21f63817d5b11c2", 
+      "title": "Digital Legislation: Reflections on the Agora-Lex Project", 
+      "url": "https://www.semanticscholar.org/paper/ed1909d3e0533a11e5ff8e5da21f63817d5b11c2", 
+      "venue": "", 
+      "year": 2002
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "08ec4860934e53eb5c5ade8038e6933ec2f92d76", 
+      "title": "Automatic Classification of Sentences in Dutch Laws", 
+      "url": "https://www.semanticscholar.org/paper/08ec4860934e53eb5c5ade8038e6933ec2f92d76", 
+      "venue": "JURIX", 
+      "year": 2008
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "1298f5b89bdc48dc06019ad5e9bca52b45054907", 
+      "title": "Information Technology & lawyers", 
+      "url": "https://www.semanticscholar.org/paper/1298f5b89bdc48dc06019ad5e9bca52b45054907", 
+      "venue": "", 
+      "year": 2011
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "d5940b15b99fb06f68f597988b07a3fe807757f7", 
+      "title": "Combining Different Summarization Techniques for Legal Text", 
+      "url": "https://www.semanticscholar.org/paper/d5940b15b99fb06f68f597988b07a3fe807757f7", 
+      "venue": "", 
+      "year": 2012
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "ca0199ca8feed945ea6a77ad85edc9a5fe00b73d", 
+      "title": "Exploiting Properties of Legislative Texts to Improve Classification Accuracy", 
+      "url": "https://www.semanticscholar.org/paper/ca0199ca8feed945ea6a77ad85edc9a5fe00b73d", 
+      "venue": "JURIX", 
+      "year": 2009
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "a640476a75266b5ca6449c3e275fe39b06d92fae", 
+      "title": "LEXA: Towards Automatic Legal Citation Classification", 
+      "url": "https://www.semanticscholar.org/paper/a640476a75266b5ca6449c3e275fe39b06d92fae", 
+      "venue": "Australasian Conference on Artificial Intelligence", 
+      "year": 2010
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "86a0a52d9cf138fe2297bbe54a9cdcd8045500a1", 
+      "title": "Legal Query Expansion using Ontologies and Relevance Feedback", 
+      "url": "https://www.semanticscholar.org/paper/86a0a52d9cf138fe2297bbe54a9cdcd8045500a1", 
+      "venue": "LOAIT", 
+      "year": 2007
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "2152d3bec1a2165e8e6d7f562ab6bde437bf71bb", 
+      "title": "A next step towards automated modelling of sources of law", 
+      "url": "https://www.semanticscholar.org/paper/2152d3bec1a2165e8e6d7f562ab6bde437bf71bb", 
+      "venue": "ICAIL", 
+      "year": 2009
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "77b7d4532130ef90bd1c01fde5d29f535c7d4b25", 
+      "title": "Lex: Legislation in XML", 
+      "url": "https://www.semanticscholar.org/paper/77b7d4532130ef90bd1c01fde5d29f535c7d4b25", 
+      "venue": "", 
+      "year": 2002
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "ac097e0daeacc94c444fbf73a8ff97c4eb798d72", 
+      "title": "Automatic Extraction of Catchphrases from Software License Agreement", 
+      "url": "https://www.semanticscholar.org/paper/ac097e0daeacc94c444fbf73a8ff97c4eb798d72", 
+      "venue": "2014 Sixth International Conference on Intelligent Human-Machine Systems and Cybernetics", 
+      "year": 2014
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "248bb964ad2c2eaa27cfd62fa2290a3e1b3ea0cc", 
+      "title": "Legal retrieval as support to eMediation: matching disputant\u2019s case and court decisions", 
+      "url": "https://www.semanticscholar.org/paper/248bb964ad2c2eaa27cfd62fa2290a3e1b3ea0cc", 
+      "venue": "Artificial Intelligence and Law", 
+      "year": 2015
+    }
+  ], 
+  "doi": "10.1023/A:1011297104922", 
+  "influentialCitationCount": 0, 
+  "paperId": "027a80284d7907b7988d03420b79e376dc05f8a7", 
+  "references": [
+    {
+      "isInfluential": false, 
+      "paperId": "3ddfd50029798ffb1400639a10c3bbcfab0c5ab9", 
+      "title": "The Cluster Hypothesis Revisited", 
+      "url": "https://www.semanticscholar.org/paper/3ddfd50029798ffb1400639a10c3bbcfab0c5ab9", 
+      "venue": "SIGIR", 
+      "year": 1985
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "97a3d56d74575aae5d563ab2a0438a25ffbb69ae", 
+      "title": "An Empirical Study of Automated Dictionary Construction for Information Extraction in Three Domains", 
+      "url": "https://www.semanticscholar.org/paper/97a3d56d74575aae5d563ab2a0438a25ffbb69ae", 
+      "venue": "Artif. Intell.", 
+      "year": 1996
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "40eb18d2fbb609766c03a9f83164fe4d3f1bef8d", 
+      "title": "Maximizing Text-Mining Performance", 
+      "url": "https://www.semanticscholar.org/paper/40eb18d2fbb609766c03a9f83164fe4d3f1bef8d", 
+      "venue": "", 
+      "year": 1999
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "3a2d2c6d4b7b6ec9b9706873ca01bd3b4117dfb1", 
+      "title": "Text-Based Intelligent Systems: Current Research and Practice in Information Extraction and Retrieval", 
+      "url": "https://www.semanticscholar.org/paper/3a2d2c6d4b7b6ec9b9706873ca01bd3b4117dfb1", 
+      "venue": "", 
+      "year": 2002
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "556076802f3ef745f6a3346ad62fb48c13c95f3f", 
+      "title": "Pictures of relevance: A geometric analysis of similarity measures", 
+      "url": "https://www.semanticscholar.org/paper/556076802f3ef745f6a3346ad62fb48c13c95f3f", 
+      "venue": "JASIS", 
+      "year": 1987
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "7cb2c518415b16bbeba176bc0202feebb5e7231a", 
+      "title": "Optimization of Relevance Feedback Weights", 
+      "url": "https://www.semanticscholar.org/paper/7cb2c518415b16bbeba176bc0202feebb5e7231a", 
+      "venue": "SIGIR", 
+      "year": 1995
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "b94864f242ab3e2012baed5f22d91289797b2bc1", 
+      "title": "Full-text information retrieval: Further analysis and clarification", 
+      "url": "https://www.semanticscholar.org/paper/b94864f242ab3e2012baed5f22d91289797b2bc1", 
+      "venue": "Inf. Process. Manage.", 
+      "year": 1990
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "723f4317f405a8c09d441cefe31ff719890b678c", 
+      "title": "Using Lexical Chains For Text Summarization", 
+      "url": "https://www.semanticscholar.org/paper/723f4317f405a8c09d441cefe31ff719890b678c", 
+      "venue": "", 
+      "year": 1997
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "c59333a333a380cc6c0dc5f5d03bf2ac66c0ca91", 
+      "title": "Learning to Extract Symbolic Knowledge from the World Wide Web", 
+      "url": "https://www.semanticscholar.org/paper/c59333a333a380cc6c0dc5f5d03bf2ac66c0ca91", 
+      "venue": "", 
+      "year": 1998
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "e08be2bc79692e80f1079cbe26d84e125959eb0e", 
+      "title": "Information extraction from legal texts: the potential of discourse analysis", 
+      "url": "https://www.semanticscholar.org/paper/e08be2bc79692e80f1079cbe26d84e125959eb0e", 
+      "venue": "Int. J. Hum.-Comput. Stud.", 
+      "year": 1999
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "f068e05b2d3aeb21025e7cf884307006fb216c1d", 
+      "title": "Improving Interactive Retrieval by Combining Ranked List and Clustering", 
+      "url": "https://www.semanticscholar.org/paper/f068e05b2d3aeb21025e7cf884307006fb216c1d", 
+      "venue": "RIAO", 
+      "year": 2000
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "1eaac56ec459fe26ca20ee44a25de2133b6be391", 
+      "title": "Scalable Information Organization", 
+      "url": "https://www.semanticscholar.org/paper/1eaac56ec459fe26ca20ee44a25de2133b6be391", 
+      "venue": "", 
+      "year": 2000
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "0d54fcfb7ab234e9fc5945f6367ac37fcb3fe75c", 
+      "title": "What Might be in a Summary?", 
+      "url": "https://www.semanticscholar.org/paper/0d54fcfb7ab234e9fc5945f6367ac37fcb3fe75c", 
+      "venue": "Information Retrieval", 
+      "year": 1993
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "44958d50da7ca4cb96c41ba70e1ad188f98de000", 
+      "title": "Towards a Probabilistic Modal Logic for Semantic-based Information Retrieval", 
+      "url": "https://www.semanticscholar.org/paper/44958d50da7ca4cb96c41ba70e1ad188f98de000", 
+      "venue": "SIGIR", 
+      "year": 1992
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "a4a8c4e6bc5a7036d61bbc1a9eb0b4acccfab756", 
+      "title": "Language and Representation in Information Retrieval by D. C. Blair (Book Review)", 
+      "url": "https://www.semanticscholar.org/paper/a4a8c4e6bc5a7036d61bbc1a9eb0b4acccfab756", 
+      "venue": "SIGIR Forum", 
+      "year": 1990
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "06fd7d924d499fbc62ccbcc2e458fb6c187bcf6f", 
+      "title": "Foundations of Statistical Natural Language Processing", 
+      "url": "https://www.semanticscholar.org/paper/06fd7d924d499fbc62ccbcc2e458fb6c187bcf6f", 
+      "venue": "Information Retrieval", 
+      "year": 2001
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "e96dc1d785ffd64e12ccf025de7a5e4f277d0cc9", 
+      "title": "C4.5: Programs for Machine Learning", 
+      "url": "https://www.semanticscholar.org/paper/e96dc1d785ffd64e12ccf025de7a5e4f277d0cc9", 
+      "venue": "", 
+      "year": 1993
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "3880381d915ecce470bbfa11e2a3f8714e0e3e1d", 
+      "title": "An Evaluation of Retrieval Effectiveness for a Full-Text Document-Retrieval System", 
+      "url": "https://www.semanticscholar.org/paper/3880381d915ecce470bbfa11e2a3f8714e0e3e1d", 
+      "venue": "Commun. ACM", 
+      "year": 1985
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "cdc5a8e10cc5eb7a697f08a926712d564c45f9ac", 
+      "title": "The Exploration of Legal Text Corpora with Hierarchical Neural Networks: A Guided Tour in Public International Law", 
+      "url": "https://www.semanticscholar.org/paper/cdc5a8e10cc5eb7a697f08a926712d564c45f9ac", 
+      "venue": "ICAIL", 
+      "year": 1997
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "8221ed66d16b608653393757eaf443187ffe60a0", 
+      "title": "A Machine Learning Approach to Building Domain-Specific Search Engines", 
+      "url": "https://www.semanticscholar.org/paper/8221ed66d16b608653393757eaf443187ffe60a0", 
+      "venue": "IJCAI", 
+      "year": 1999
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "8c474bec9186ceb4f62a55c50c42c8e831cd6144", 
+      "title": "Conceptual Retrieval and Case Law", 
+      "url": "https://www.semanticscholar.org/paper/8c474bec9186ceb4f62a55c50c42c8e831cd6144", 
+      "venue": "ICAIL", 
+      "year": 1987
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "3433b5ff3403632d5d54b1253e786bf58b323004", 
+      "title": "About Retrieval Models and Logic", 
+      "url": "https://www.semanticscholar.org/paper/3433b5ff3403632d5d54b1253e786bf58b323004", 
+      "venue": "Comput. J.", 
+      "year": 1992
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "229d7370abb8bc4d905d786bd745b772df7bd625", 
+      "title": "Generating Summaries of Multiple News Articles", 
+      "url": "https://www.semanticscholar.org/paper/229d7370abb8bc4d905d786bd745b772df7bd625", 
+      "venue": "SIGIR", 
+      "year": 1995
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "0bd95bda28709cb04ff9a4972f45f6a2d759d30f", 
+      "title": "Scatter/Gather: A Cluster-based Approach to Browsing Large Document Collections", 
+      "url": "https://www.semanticscholar.org/paper/0bd95bda28709cb04ff9a4972f45f6a2d759d30f", 
+      "venue": "SIGIR", 
+      "year": 1992
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "4247800b0e7ab7d2d6113807314d19bdbccc22e7", 
+      "title": "Hypertext: An Introduction and Survey", 
+      "url": "https://www.semanticscholar.org/paper/4247800b0e7ab7d2d6113807314d19bdbccc22e7", 
+      "venue": "Computer", 
+      "year": 1987
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "47dd6b9d9cedbe2526ad22a01ca4fea1025e07d1", 
+      "title": "Text Categorization with Support Vector Machines: Learning with Many Relevant Features", 
+      "url": "https://www.semanticscholar.org/paper/47dd6b9d9cedbe2526ad22a01ca4fea1025e07d1", 
+      "venue": "ECML", 
+      "year": 1998
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "1fb58b6de34ae18174a111a9f32efaf79bbb0bbe", 
+      "title": "Recent trends in hierarchic document clustering: A critical review", 
+      "url": "https://www.semanticscholar.org/paper/1fb58b6de34ae18174a111a9f32efaf79bbb0bbe", 
+      "venue": "Inf. Process. Manage.", 
+      "year": 1988
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "0c5dffa9fa8b28a2eed656cb8c2e336ed2e0b522", 
+      "title": "A Comparison of Text Retrieval Models", 
+      "url": "https://www.semanticscholar.org/paper/0c5dffa9fa8b28a2eed656cb8c2e336ed2e0b522", 
+      "venue": "Comput. J.", 
+      "year": 1992
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "09e941ab733b2c6c26261cb85f00f145d9063b0b", 
+      "title": "Automated Text Summarization In SUMMARIST", 
+      "url": "https://www.semanticscholar.org/paper/09e941ab733b2c6c26261cb85f00f145d9063b0b", 
+      "venue": "", 
+      "year": 1997
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "67309c99a012e0d41b2f63c759b4fc2e3d8cd065", 
+      "title": "A critical analysis of vector space model for information retrieval", 
+      "url": "https://www.semanticscholar.org/paper/67309c99a012e0d41b2f63c759b4fc2e3d8cd065", 
+      "venue": "JASIS", 
+      "year": 1986
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "b135ad5a8b5cea60d35740f640d5d7e40c09639f", 
+      "title": "Extended conceptual retrieval", 
+      "url": "https://www.semanticscholar.org/paper/b135ad5a8b5cea60d35740f640d5d7e40c09639f", 
+      "venue": "", 
+      "year": 2001
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "29d307d17d1f1b2a926e68c54f0d00f8819f3c19", 
+      "title": "An Analysis of Vector Space Models Based on Computational Geometry", 
+      "url": "https://www.semanticscholar.org/paper/29d307d17d1f1b2a926e68c54f0d00f8819f3c19", 
+      "venue": "SIGIR", 
+      "year": 1992
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "5e52c6ff85ac6d53cb0dac8581c0a76edc6fade7", 
+      "title": "On Relevance, Probabilistic Indexing and Information Retrieval", 
+      "url": "https://www.semanticscholar.org/paper/5e52c6ff85ac6d53cb0dac8581c0a76edc6fade7", 
+      "venue": "J. ACM", 
+      "year": 1960
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "1065ed6383bd0f66c215acb2c841235abcb56cdb", 
+      "title": "Translingual Information Retrieval: A Comparative Evaluation", 
+      "url": "https://www.semanticscholar.org/paper/1065ed6383bd0f66c215acb2c841235abcb56cdb", 
+      "venue": "IJCAI", 
+      "year": 1997
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "22fb3b3b2bdf768dd435eedfc5ef5155d3e56b1a", 
+      "title": "Learning Information Extraction Rules for Semi-Structured and Free Text", 
+      "url": "https://www.semanticscholar.org/paper/22fb3b3b2bdf768dd435eedfc5ef5155d3e56b1a", 
+      "venue": "Machine Learning", 
+      "year": 1999
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "29d8783155078b1988fc187a63cfe1d141ec7624", 
+      "title": "Lexical cohesion, discourse segmentation and document summarization", 
+      "url": "https://www.semanticscholar.org/paper/29d8783155078b1988fc187a63cfe1d141ec7624", 
+      "venue": "RIAO", 
+      "year": 2000
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "3f2f6772d96d972e3b2da5aaa8a0f2feefdf827f", 
+      "title": "Automatic Text Processing: The Transformation, Analysis, and Retrieval of Information by Computer", 
+      "url": "https://www.semanticscholar.org/paper/3f2f6772d96d972e3b2da5aaa8a0f2feefdf827f", 
+      "venue": "", 
+      "year": 1989
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "3f0e14a761f9f35e1471d869bd32dccf8feaa1a6", 
+      "title": "A learning technique for legal document analysis", 
+      "url": "https://www.semanticscholar.org/paper/3f0e14a761f9f35e1471d869bd32dccf8feaa1a6", 
+      "venue": "ICAIL", 
+      "year": 1999
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "f1161cd952f7c52266d0761ab4973c1c134b4962", 
+      "title": "Machine Learning, Neural and Statistical Classification", 
+      "url": "https://www.semanticscholar.org/paper/f1161cd952f7c52266d0761ab4973c1c134b4962", 
+      "venue": "", 
+      "year": 1994
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "98b693fe7c2843ff4f0afbc9c448d8d7ba9f3977", 
+      "title": "Construction and Assessment of Classification Rules", 
+      "url": "https://www.semanticscholar.org/paper/98b693fe7c2843ff4f0afbc9c448d8d7ba9f3977", 
+      "venue": "Technometrics", 
+      "year": 1999
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "9e762581b001e11a7c1ed9de7923eec0d1dbd152", 
+      "title": "Towards an Information Logic", 
+      "url": "https://www.semanticscholar.org/paper/9e762581b001e11a7c1ed9de7923eec0d1dbd152", 
+      "venue": "SIGIR", 
+      "year": 1989
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "a3c1213e1ea2a95eb58b17cf60f7731e320b9957", 
+      "title": "Text retrieval in the legal world", 
+      "url": "https://www.semanticscholar.org/paper/a3c1213e1ea2a95eb58b17cf60f7731e320b9957", 
+      "venue": "Artificial Intelligence and Law", 
+      "year": 1995
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "346fe785a122f3c389a4a366fc247cba458233bf", 
+      "title": "Using interdocument similarity information in document retrieval systems", 
+      "url": "https://www.semanticscholar.org/paper/346fe785a122f3c389a4a366fc247cba458233bf", 
+      "venue": "JASIS", 
+      "year": 1986
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "6dc4f3fc7b37176df050e7d55ec15d071c6bb1ff", 
+      "title": "Information retrieval and hypertext: competing technologies or complementary access methods", 
+      "url": "https://www.semanticscholar.org/paper/6dc4f3fc7b37176df050e7d55ec15d071c6bb1ff", 
+      "venue": "Inf. Syst. J.", 
+      "year": 1992
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "2c56d3a6e0c5260614ebd8bc843a29e18c4afbbc", 
+      "title": "A Trainable Document Summarizer", 
+      "url": "https://www.semanticscholar.org/paper/2c56d3a6e0c5260614ebd8bc843a29e18c4afbbc", 
+      "venue": "SIGIR", 
+      "year": 1995
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "2b54ee83354a699eb6f70f38f488e879952da43e", 
+      "title": "Automatic Text Structuring and Summarization", 
+      "url": "https://www.semanticscholar.org/paper/2b54ee83354a699eb6f70f38f488e879952da43e", 
+      "venue": "Inf. Process. Manage.", 
+      "year": 1997
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "a340cbcfe39e6ac3d3ad3425c5624c3716b96043", 
+      "title": "Generalized Vector Space Model in Information Retrieval", 
+      "url": "https://www.semanticscholar.org/paper/a340cbcfe39e6ac3d3ad3425c5624c3716b96043", 
+      "venue": "SIGIR", 
+      "year": 1985
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "5d9b54177b51d0b6af3b4e902e46dfe6c7e6d3ce", 
+      "title": "Toward adding knowledge to learning algorithms for indexing legal cases", 
+      "url": "https://www.semanticscholar.org/paper/5d9b54177b51d0b6af3b4e902e46dfe6c7e6d3ce", 
+      "venue": "ICAIL", 
+      "year": 1999
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "30e6ff76eb5ba028128984c3b15eb38bf191c69d", 
+      "title": "Reexamining the Cluster Hypothesis: Scatter/Gather on Retrieval Results", 
+      "url": "https://www.semanticscholar.org/paper/30e6ff76eb5ba028128984c3b15eb38bf191c69d", 
+      "venue": "SIGIR", 
+      "year": 1996
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "ae0067338dff4e6b48b6b798776ec88a6c242aae", 
+      "title": "Some Simple Effective Approximations to the 2-Poisson Model for Probabilistic Weighted Retrieval", 
+      "url": "https://www.semanticscholar.org/paper/ae0067338dff4e6b48b6b798776ec88a6c242aae", 
+      "venue": "SIGIR", 
+      "year": 1994
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "4f84e02603088254160630b57f677ad8c92b1361", 
+      "title": "Automatic Question Answering", 
+      "url": "https://www.semanticscholar.org/paper/4f84e02603088254160630b57f677ad8c92b1361", 
+      "venue": "RIAO", 
+      "year": 2000
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "f56366b0a7baeb591fb6fbf1797405d219889321", 
+      "title": "Continuous information processing in conceptual identifications.", 
+      "url": "https://www.semanticscholar.org/paper/f56366b0a7baeb591fb6fbf1797405d219889321", 
+      "venue": "Psychological research", 
+      "year": 1985
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "1240054ed60e8e42de9683947d21bd76582a281d", 
+      "title": "Classifying News Stories using Memory Based Reasoning", 
+      "url": "https://www.semanticscholar.org/paper/1240054ed60e8e42de9683947d21bd76582a281d", 
+      "venue": "SIGIR", 
+      "year": 1992
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "1b93a6450ba9aca1c022a579ae805e44637758d6", 
+      "title": "Finding Factors: Learning to Classify Case Opinions Under Abstract Fact Categories", 
+      "url": "https://www.semanticscholar.org/paper/1b93a6450ba9aca1c022a579ae805e44637758d6", 
+      "venue": "ICAIL", 
+      "year": 1997
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "599aa73ded946715b1cc15feddef1c6b2c7e93c5", 
+      "title": "A Non-Classical Logic for Information Retrieval", 
+      "url": "https://www.semanticscholar.org/paper/599aa73ded946715b1cc15feddef1c6b2c7e93c5", 
+      "venue": "Comput. J.", 
+      "year": 1986
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "1e1699bba713764fb95433557060c464b0466fa4", 
+      "title": "Salomon: Automatic Abstracting of Legal Cases for Effective Access to Court Decisions", 
+      "url": "https://www.semanticscholar.org/paper/1e1699bba713764fb95433557060c464b0466fa4", 
+      "venue": "Artificial Intelligence and Law", 
+      "year": 1998
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "6adb7a21e59d962c6420471d151602cdfbec48a8", 
+      "title": "Inferring Probability of Relevance Using the Method of Logistic Regression", 
+      "url": "https://www.semanticscholar.org/paper/6adb7a21e59d962c6420471d151602cdfbec48a8", 
+      "venue": "SIGIR", 
+      "year": 1994
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "0994df9cb843135941a3465107db83eb8dbfa535", 
+      "title": "A combined IR/NLP approach to question answering against large text collections", 
+      "url": "https://www.semanticscholar.org/paper/0994df9cb843135941a3465107db83eb8dbfa535", 
+      "venue": "RIAO", 
+      "year": 2000
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "52ac20c3dcb93c98a3c6b7c9c2ce359b95bb3a12", 
+      "title": "Conceptual Organization of Case Law Knowledge Bases", 
+      "url": "https://www.semanticscholar.org/paper/52ac20c3dcb93c98a3c6b7c9c2ce359b95bb3a12", 
+      "venue": "ICAIL", 
+      "year": 1987
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "2dcc266ec3b8fed07be2f6f04084c6142a225702", 
+      "title": "Modern Information Retrieval", 
+      "url": "https://www.semanticscholar.org/paper/2dcc266ec3b8fed07be2f6f04084c6142a225702", 
+      "venue": "", 
+      "year": 1999
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "45bca4930570fb36dd9132d4b91504aedb6da2be", 
+      "title": "The synergistic application of CBR to IR", 
+      "url": "https://www.semanticscholar.org/paper/45bca4930570fb36dd9132d4b91504aedb6da2be", 
+      "venue": "Artificial Intelligence Review", 
+      "year": 1996
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "29f98ca2df7f02e145dc15cf4b953d3d56e73854", 
+      "title": "Case-based reasoning and its implications for legal expert systems", 
+      "url": "https://www.semanticscholar.org/paper/29f98ca2df7f02e145dc15cf4b953d3d56e73854", 
+      "venue": "Artificial Intelligence and Law", 
+      "year": 1992
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "1145859ba17172d517cdffe2a5f00a16366c5765", 
+      "title": "Indexing by Latent Semantic Analysis", 
+      "url": "https://www.semanticscholar.org/paper/1145859ba17172d517cdffe2a5f00a16366c5765", 
+      "venue": "JASIS", 
+      "year": 1990
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "f7591c509b1979709290f79d5d9f32f9f66d5550", 
+      "title": "Abstracting of Legal Cases: The Potential of Clustering Based on the Selection of Representative Objects", 
+      "url": "https://www.semanticscholar.org/paper/f7591c509b1979709290f79d5d9f32f9f66d5550", 
+      "venue": "JASIS", 
+      "year": 1999
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "aef9fe9f624813b710bab010e7b57d4827eaac2c", 
+      "title": "Logical Models in Information Retrieval: Introduction and Overview", 
+      "url": "https://www.semanticscholar.org/paper/aef9fe9f624813b710bab010e7b57d4827eaac2c", 
+      "venue": "Inf. Process. Manage.", 
+      "year": 1998
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "cb91a9ef1723440bd35a3e5965a2e180ad1ab36f", 
+      "title": "TextTiling: Segmenting Text into Multi-paragraph Subtopic Passages", 
+      "url": "https://www.semanticscholar.org/paper/cb91a9ef1723440bd35a3e5965a2e180ad1ab36f", 
+      "venue": "Computational Linguistics", 
+      "year": 1997
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "e810465d72c677f0580b0524b7f5debe2a1d5d26", 
+      "title": "Discourse Trees Are Good Indicators of Importance in Text", 
+      "url": "https://www.semanticscholar.org/paper/e810465d72c677f0580b0524b7f5debe2a1d5d26", 
+      "venue": "", 
+      "year": 1999
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "e0bb8d8779a5eee3f019e14e107c6d71b94fcfdd", 
+      "title": "Towards the Next Generation Information Retrieval", 
+      "url": "https://www.semanticscholar.org/paper/e0bb8d8779a5eee3f019e14e107c6d71b94fcfdd", 
+      "venue": "RIAO", 
+      "year": 2000
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "393d1f3b81410536944dff9514a2b787094e846d", 
+      "title": "Relevance weighting of search terms", 
+      "url": "https://www.semanticscholar.org/paper/393d1f3b81410536944dff9514a2b787094e846d", 
+      "venue": "JASIS", 
+      "year": 1976
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "0e7ebff8b8b8c40f2e460fd69d015fc94e6fdfcf", 
+      "title": "Topic parsing: Accounting for text macro structures in full-text analysis", 
+      "url": "https://www.semanticscholar.org/paper/0e7ebff8b8b8c40f2e460fd69d015fc94e6fdfcf", 
+      "venue": "Inf. Process. Manage.", 
+      "year": 1990
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "178286f3640f9c5c8c129799d6b00f313481d13a", 
+      "title": "A Re-Examination of Text Categorization Methods", 
+      "url": "https://www.semanticscholar.org/paper/178286f3640f9c5c8c129799d6b00f313481d13a", 
+      "venue": "SIGIR", 
+      "year": 1999
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "86c94a59ef7db8e4c5072e6063a709787f5bdf90", 
+      "title": "A Retrieval Model Based on an Extended Modal Logic and its Application to the RIME Experimental Approach", 
+      "url": "https://www.semanticscholar.org/paper/86c94a59ef7db8e4c5072e6063a709787f5bdf90", 
+      "venue": "SIGIR", 
+      "year": 1989
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "567d2061396061c928084ea6664f50c4200cc739", 
+      "title": "Finding Groups in Data: An Introduction to Cluster Analysis", 
+      "url": "https://www.semanticscholar.org/paper/567d2061396061c928084ea6664f50c4200cc739", 
+      "venue": "", 
+      "year": 1990
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "39d89117135a0299534c2f608100e7c662a59593", 
+      "title": "Improving retrieval performance by relevance feedback", 
+      "url": "https://www.semanticscholar.org/paper/39d89117135a0299534c2f608100e7c662a59593", 
+      "venue": "JASIS", 
+      "year": 1990
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "51b45d38ec2ba86dc1003b2d90ef4bfcfe15283a", 
+      "title": "Automatic Indexing and Abstracting of Document Texts", 
+      "url": "https://www.semanticscholar.org/paper/51b45d38ec2ba86dc1003b2d90ef4bfcfe15283a", 
+      "venue": "The Kluwer International Series on Information Retrieval", 
+      "year": 2002
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "10acde6ae4c45c3337469580e8188db0080b58ad", 
+      "title": "Probabilistic Models in Information Retrieval", 
+      "url": "https://www.semanticscholar.org/paper/10acde6ae4c45c3337469580e8188db0080b58ad", 
+      "venue": "Comput. J.", 
+      "year": 1992
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "6ba99ee6761815d870e06e2964e8bb8178793ebf", 
+      "title": "Information Filtering and Information Retrieval: Two Sides of the Same Coin?", 
+      "url": "https://www.semanticscholar.org/paper/6ba99ee6761815d870e06e2964e8bb8178793ebf", 
+      "venue": "Commun. ACM", 
+      "year": 1992
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "076077a5771747ad7355120f1ba64cfd603141c6", 
+      "title": "A Statistical Approach to Mechanized Encoding and Searching of Literary Information", 
+      "url": "https://www.semanticscholar.org/paper/076077a5771747ad7355120f1ba64cfd603141c6", 
+      "venue": "IBM Journal of Research and Development", 
+      "year": 1957
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "c61e0bd909491f0a671fe91db6cccfa2ba1890da", 
+      "title": "A probabilistic model of information retrieval: development and comparative experiments - Part 1", 
+      "url": "https://www.semanticscholar.org/paper/c61e0bd909491f0a671fe91db6cccfa2ba1890da", 
+      "venue": "Inf. Process. Manage.", 
+      "year": 2000
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "51240c0154f26cec9468c92134dcb2bf2e09c87c", 
+      "title": "An information retrieval model based on modal logic", 
+      "url": "https://www.semanticscholar.org/paper/51240c0154f26cec9468c92134dcb2bf2e09c87c", 
+      "venue": "Inf. Process. Manage.", 
+      "year": 1989
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "bf216d997fa6aa2ce90d24bad574528b190e0768", 
+      "title": "Text categorization: the assignment of subject descriptors to magazine articles", 
+      "url": "https://www.semanticscholar.org/paper/bf216d997fa6aa2ce90d24bad574528b190e0768", 
+      "venue": "Inf. Process. Manage.", 
+      "year": 2000
+    }
+  ], 
+  "title": "Innovative techniques for legal text retrieval", 
+  "url": "https://www.semanticscholar.org/paper/027a80284d7907b7988d03420b79e376dc05f8a7", 
+  "venue": "Artificial Intelligence and Law", 
+  "year": 2001
+}

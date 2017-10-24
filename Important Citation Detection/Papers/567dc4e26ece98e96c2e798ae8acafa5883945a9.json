@@ -1,0 +1,833 @@
+{
+  "authors": [
+    {
+      "authorId": "5036702", 
+      "name": "Brian Roark", 
+      "url": "https://www.semanticscholar.org/author/5036702"
+    }, 
+    {
+      "authorId": "2535627", 
+      "name": "Murat Saraclar", 
+      "url": "https://www.semanticscholar.org/author/2535627"
+    }, 
+    {
+      "authorId": "1806149", 
+      "name": "Michael Collins", 
+      "url": "https://www.semanticscholar.org/author/1806149"
+    }, 
+    {
+      "authorId": "2070137", 
+      "name": "Mark Johnson", 
+      "url": "https://www.semanticscholar.org/author/2070137"
+    }
+  ], 
+  "citationVelocity": 0, 
+  "citations": [
+    {
+      "isInfluential": false, 
+      "paperId": "96989405985e2d90370185f1e025443b56106d1a", 
+      "title": "Discriminative n-gram language modeling", 
+      "url": "https://www.semanticscholar.org/paper/96989405985e2d90370185f1e025443b56106d1a"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "ab04d2d1fdd3c6744ce77b005b81b0cc460bdd89", 
+      "title": "Discriminative Training and Variational Decoding in Machine Translation via Novel Algorithms for Weighted Hypergraphs", 
+      "url": "https://www.semanticscholar.org/paper/ab04d2d1fdd3c6744ce77b005b81b0cc460bdd89"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "6e7d207a80d431f62aafadc10bb5a46092357fd1", 
+      "title": "Trigger-Based Language Modeling using a Loss-Sensitive Perceptron Algorithm", 
+      "url": "https://www.semanticscholar.org/paper/6e7d207a80d431f62aafadc10bb5a46092357fd1"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "0fbc8c91fe2e5591c3b2476660bb3cc03fbe8e53", 
+      "title": "Code Breaking for Automatic Speech Recognition", 
+      "url": "https://www.semanticscholar.org/paper/0fbc8c91fe2e5591c3b2476660bb3cc03fbe8e53"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "399ab2a0eddf7a7abf776241d5c0a2c4cd5bf313", 
+      "title": "A discriminative model for continuous speech recognition based on Weighted Finite State Transducers", 
+      "url": "https://www.semanticscholar.org/paper/399ab2a0eddf7a7abf776241d5c0a2c4cd5bf313"
+    }, 
+    {
+      "isInfluential": true, 
+      "paperId": "887b859e6165866a53428b2ef7704aed422732c5", 
+      "title": "Discriminative language modeling using simulated ASR errors", 
+      "url": "https://www.semanticscholar.org/paper/887b859e6165866a53428b2ef7704aed422732c5"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "6b01a9d502550102ace5dbc65dc6dacf65316adc", 
+      "title": "Discriminative pronunciation modeling for dialectal speech recognition", 
+      "url": "https://www.semanticscholar.org/paper/6b01a9d502550102ace5dbc65dc6dacf65316adc"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "59b6da10c96b96b45576bdca2662e4e8ad4853ea", 
+      "title": "Round-robin discrimination model for reranking ASR hypotheses", 
+      "url": "https://www.semanticscholar.org/paper/59b6da10c96b96b45576bdca2662e4e8ad4853ea"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "0f9e47092b83aaac0b45b4486d239cb2266ea204", 
+      "title": "Designing Agreement Features for Realization Ranking", 
+      "url": "https://www.semanticscholar.org/paper/0f9e47092b83aaac0b45b4486d239cb2266ea204"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "259cb17794c23accd94a9b7382aa7566025d837c", 
+      "title": "Selecting Optimal Feature Template Subset for CRFs", 
+      "url": "https://www.semanticscholar.org/paper/259cb17794c23accd94a9b7382aa7566025d837c"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "2889257678cf009c1ca2970408afc4ed90fa2449", 
+      "title": "Discriminative Models for Semi-Supervised Natural Language Learning", 
+      "url": "https://www.semanticscholar.org/paper/2889257678cf009c1ca2970408afc4ed90fa2449"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "8b5582643668b39c4a267ef6ea434e367335eace", 
+      "title": "Utterance classification with discriminative language modeling", 
+      "url": "https://www.semanticscholar.org/paper/8b5582643668b39c4a267ef6ea434e367335eace"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "4d23dcf3f02806392a7cd0c93c5194e9ac959c1f", 
+      "title": "Discriminative Training of Decoding Graphs for Large Vocabulary Continuous Speech Recognition", 
+      "url": "https://www.semanticscholar.org/paper/4d23dcf3f02806392a7cd0c93c5194e9ac959c1f"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "16dd30d7d7029272afe0ba80e18ee0b71deecd3f", 
+      "title": "Two-step correction of speech recognition errors based on n-gram and long contextual information", 
+      "url": "https://www.semanticscholar.org/paper/16dd30d7d7029272afe0ba80e18ee0b71deecd3f"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "dd32a96d9776185ed60fde26d933c75911379cad", 
+      "title": "Discriminative Language Modeling With Linguistic and Statistically Derived Features", 
+      "url": "https://www.semanticscholar.org/paper/dd32a96d9776185ed60fde26d933c75911379cad"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "9734f241b9a3bc1b2ecaf644d34e787cf987b7cc", 
+      "title": "Learning Trans-dimensional Random Fields with Applications to Language Modeling.", 
+      "url": "https://www.semanticscholar.org/paper/9734f241b9a3bc1b2ecaf644d34e787cf987b7cc"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "10d21ca7728cb3dd15731accedda9ea711d8a0f4", 
+      "title": "An End-to-End Discriminative Approach to Machine Translation", 
+      "url": "https://www.semanticscholar.org/paper/10d21ca7728cb3dd15731accedda9ea711d8a0f4"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "6cd6f5683f71a4f9e24c6faa3f743482ecb2e6ff", 
+      "title": "Scaling Conditional Random Fields Using Error-Correcting Codes", 
+      "url": "https://www.semanticscholar.org/paper/6cd6f5683f71a4f9e24c6faa3f743482ecb2e6ff"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "1a5eb91fe0aa1032ff2707bf8558fd045a9bfcfa", 
+      "title": "Recognition of Noisy Speech: A Comparative Survey of Robust Model Architecture and Feature Enhancement", 
+      "url": "https://www.semanticscholar.org/paper/1a5eb91fe0aa1032ff2707bf8558fd045a9bfcfa"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "230205a13d41230e369b1417904e82e0109de946", 
+      "title": "Adaptation of Statistical Machine Translation Model for Cross-Lingual Information Retrieval in a Service Context", 
+      "url": "https://www.semanticscholar.org/paper/230205a13d41230e369b1417904e82e0109de946"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "df99574b647e6be6252f73eaf95a98a4788cbdde", 
+      "title": "Improving Non-native Speech Recognition Performance by Discriminative Training for Language Model in a CALL System", 
+      "url": "https://www.semanticscholar.org/paper/df99574b647e6be6252f73eaf95a98a4788cbdde"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "85ebdb94583867691ed00acf36f6c4ea36def166", 
+      "title": "Global Inference and Learning Algorithms for Multi-Lingual Dependency Parsing", 
+      "url": "https://www.semanticscholar.org/paper/85ebdb94583867691ed00acf36f6c4ea36def166"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "37f168d6bd1cb8a291623566e98d309f87d144ce", 
+      "title": "Unsupervised discriminative language model training", 
+      "url": "https://www.semanticscholar.org/paper/37f168d6bd1cb8a291623566e98d309f87d144ce"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "4c61065c2bdb796b43361af4d6b92394df95f4a5", 
+      "title": "Structure learning in hidden conditional random fields for grapheme-to-phoneme conversion", 
+      "url": "https://www.semanticscholar.org/paper/4c61065c2bdb796b43361af4d6b92394df95f4a5"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "26421760408e4ab2e3b74f03df6f58566cd26bc3", 
+      "title": "Named Entity Recognition Based on A Machine Learning Model", 
+      "url": "https://www.semanticscholar.org/paper/26421760408e4ab2e3b74f03df6f58566cd26bc3"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "31dfb2daadb3e6876a47f1f264e2f1642ef72baf", 
+      "title": "Go\u0308zeti\u0307msi\u0307z Ayirici Di\u0307l Modeli\u0307 Eg\u0306i\u0307ti\u0307mi\u0307 Unsupervised Discriminative Language Model Training", 
+      "url": "https://www.semanticscholar.org/paper/31dfb2daadb3e6876a47f1f264e2f1642ef72baf"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "90878f04497d6a4c1467c8f2d7dc07c990e1ae44", 
+      "title": "Multiple Aspect Ranking for Opinion Analysis", 
+      "url": "https://www.semanticscholar.org/paper/90878f04497d6a4c1467c8f2d7dc07c990e1ae44"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "129bb91cd7e281a93c2d51460449f51228e86e5e", 
+      "title": "Trans-dimensional Random Fields for Language Modeling", 
+      "url": "https://www.semanticscholar.org/paper/129bb91cd7e281a93c2d51460449f51228e86e5e"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "2b63812db40152b12925ce4a848b929fa591b858", 
+      "title": "Neural Machine Translation and Sequence-to-sequence Models: A Tutorial", 
+      "url": "https://www.semanticscholar.org/paper/2b63812db40152b12925ce4a848b929fa591b858"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "8415e713e801c63c3d7e73434e990ffdaabc99c1", 
+      "title": "Domain Adaptation with Structural Correspondence Learning", 
+      "url": "https://www.semanticscholar.org/paper/8415e713e801c63c3d7e73434e990ffdaabc99c1"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "7e88338e7fe7208aba79a18523179d6cd98c6c8c", 
+      "title": "Feature Forest Models for Probabilistic HPSG Parsing", 
+      "url": "https://www.semanticscholar.org/paper/7e88338e7fe7208aba79a18523179d6cd98c6c8c"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "caeaf086c7388b1f37637e15c4080d34bb6c4939", 
+      "title": "Round-Robin Duel Discriminative Language Models", 
+      "url": "https://www.semanticscholar.org/paper/caeaf086c7388b1f37637e15c4080d34bb6c4939"
+    }, 
+    {
+      "isInfluential": true, 
+      "paperId": "00d488f90f44aa306e1e9b41519cf11fd98006ed", 
+      "title": "Discriminative Syntactic Reranking for Statistical Machine Translation", 
+      "url": "https://www.semanticscholar.org/paper/00d488f90f44aa306e1e9b41519cf11fd98006ed"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "0290a0f5125bc034464abf0fbbc536d2bb411b4b", 
+      "title": "Learning Phonology With Substantive Bias: An Experimental and Computational Study of Velar Palatalization", 
+      "url": "https://www.semanticscholar.org/paper/0290a0f5125bc034464abf0fbbc536d2bb411b4b"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "8f603433320b743ee848add18e1731d88c65f28e", 
+      "title": "A Novelty-Seeking based Dining Recommender System", 
+      "url": "https://www.semanticscholar.org/paper/8f603433320b743ee848add18e1731d88c65f28e"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "773e752ab6dc04b43aaf984bcbdd4895c9ab8c2f", 
+      "title": "Large vocabulary continuous speech recognition using WFST-based linear classifier for structured data", 
+      "url": "https://www.semanticscholar.org/paper/773e752ab6dc04b43aaf984bcbdd4895c9ab8c2f"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "2e991c17d083532af50222a5249238558f7ae6ec", 
+      "title": "Confusion-based Statistical Language Modeling for Machine Translation and Speech Recognition", 
+      "url": "https://www.semanticscholar.org/paper/2e991c17d083532af50222a5249238558f7ae6ec"
+    }, 
+    {
+      "isInfluential": true, 
+      "paperId": "a8f0f0e318ab9ab8d4e489949227fe4d1c9bbf38", 
+      "title": "Syntactic discriminative language model rerankers for statistical machine translation", 
+      "url": "https://www.semanticscholar.org/paper/a8f0f0e318ab9ab8d4e489949227fe4d1c9bbf38"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "92107c65fb4fafd8fe65ba8c847be1b33e6a23e3", 
+      "title": "A flat direct model for speech recognition", 
+      "url": "https://www.semanticscholar.org/paper/92107c65fb4fafd8fe65ba8c847be1b33e6a23e3"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "9dc1748099dd4321d42fb84bc7ee1f71e7814459", 
+      "title": "Introduction to the special issue on statistical language modeling", 
+      "url": "https://www.semanticscholar.org/paper/9dc1748099dd4321d42fb84bc7ee1f71e7814459"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "937265d1567b05478a152400ad2e0c2ba5562077", 
+      "title": "Constrained discriminative training of N-gram language models", 
+      "url": "https://www.semanticscholar.org/paper/937265d1567b05478a152400ad2e0c2ba5562077"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "0e3e254aa1a9f12a11fb68fcd7dabcef25036b81", 
+      "title": "Using Conditional Random Fields for Clause Splitting", 
+      "url": "https://www.semanticscholar.org/paper/0e3e254aa1a9f12a11fb68fcd7dabcef25036b81"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "726304bf54da9b8eee14e827facb36ea8825aa65", 
+      "title": "MT-based artificial hypothesis generation for unsupervised discriminative language modeling", 
+      "url": "https://www.semanticscholar.org/paper/726304bf54da9b8eee14e827facb36ea8825aa65"
+    }, 
+    {
+      "isInfluential": true, 
+      "paperId": "bc84d4d5a28be0aebecc2a58b3c96ae962bfa1a3", 
+      "title": "Unsupervised discriminative language modeling using error rate estimator", 
+      "url": "https://www.semanticscholar.org/paper/bc84d4d5a28be0aebecc2a58b3c96ae962bfa1a3"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "afef83e240648154a7f38f3b92feb01847575d11", 
+      "title": "Conditional Random Fields in Speech, Audio, and Language Processing", 
+      "url": "https://www.semanticscholar.org/paper/afef83e240648154a7f38f3b92feb01847575d11"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "44afd1a6d0e8919afba08a184334cd5290f1f9f5", 
+      "title": "Creating Disjunctive Logical Forms from Aligned Sentences for Grammar-Based Paraphrase Generation", 
+      "url": "https://www.semanticscholar.org/paper/44afd1a6d0e8919afba08a184334cd5290f1f9f5"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "388fbc02ee1e8a7dcd10eda9b5d6856ddb3552ee", 
+      "title": "Discriminative Phonetic Recognition with Conditional Random Fields", 
+      "url": "https://www.semanticscholar.org/paper/388fbc02ee1e8a7dcd10eda9b5d6856ddb3552ee"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "4072e7064f76fac037499c9216059902ea47cf7e", 
+      "title": "Turkish Broadcast News Transcription and Retrieval", 
+      "url": "https://www.semanticscholar.org/paper/4072e7064f76fac037499c9216059902ea47cf7e"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "fd8b33299ce6ca81ce54e7d2de555a1a96ca96f1", 
+      "title": "Structured Discriminative Models For Speech Recognition: An Overview", 
+      "url": "https://www.semanticscholar.org/paper/fd8b33299ce6ca81ce54e7d2de555a1a96ca96f1"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "3a2194a12e88a4d67305628d482536121f93e9cf", 
+      "title": "Discriminative training of context-dependent language model scaling factors and interpolation weights", 
+      "url": "https://www.semanticscholar.org/paper/3a2194a12e88a4d67305628d482536121f93e9cf"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "b51b7de2102279db9bc65390bc22c6e543af6181", 
+      "title": "A Hierarchical Bayesian Approach for Semi-supervised Discriminative Language Modeling", 
+      "url": "https://www.semanticscholar.org/paper/b51b7de2102279db9bc65390bc22c6e543af6181"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "1b7972bf13ed7fce3e116e0d9535de36265dce3c", 
+      "title": "Discriminative n-gram language modeling for Turkish", 
+      "url": "https://www.semanticscholar.org/paper/1b7972bf13ed7fce3e116e0d9535de36265dce3c"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "1a5a1b5e44c94a752cdc3c751285a25bdb226ba8", 
+      "title": "A Study on the Use of Conditional Random Fields for Automatic Speech Recognition", 
+      "url": "https://www.semanticscholar.org/paper/1a5a1b5e44c94a752cdc3c751285a25bdb226ba8"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "22abad3d9da78883b576b76bd6b6f3fda4d48d22", 
+      "title": "Larger feature set approach for machine translation in IWSLT 2007", 
+      "url": "https://www.semanticscholar.org/paper/22abad3d9da78883b576b76bd6b6f3fda4d48d22"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "4c444af838d30971f300bac5e927854d80ccb110", 
+      "title": "Online Large-Margin Training for Statistical Machine Translation", 
+      "url": "https://www.semanticscholar.org/paper/4c444af838d30971f300bac5e927854d80ccb110"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "90c67031bf008a257507ecc62c3611bb22b3875d", 
+      "title": "From Linguistic Theory to Syntactic Analysis: Corpus-Oriented Grammar Development and Feature Forest Model", 
+      "url": "https://www.semanticscholar.org/paper/90c67031bf008a257507ecc62c3611bb22b3875d"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "523f69829a80b8136287efd114f08d2b343d62dd", 
+      "title": "How Symbolic Learning Can Help Statistical Learning (and vice versa)", 
+      "url": "https://www.semanticscholar.org/paper/523f69829a80b8136287efd114f08d2b343d62dd"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "4fda95af4e70581745cf8b1af22aee1195863525", 
+      "title": "Effective use of pause information in language modelling for speech recognition", 
+      "url": "https://www.semanticscholar.org/paper/4fda95af4e70581745cf8b1af22aee1195863525"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "504c3deedb7e19443442b4af1b248e33f7d0cae9", 
+      "title": "Hallucinated n-best lists for discriminative language modeling", 
+      "url": "https://www.semanticscholar.org/paper/504c3deedb7e19443442b4af1b248e33f7d0cae9"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "015f0154d371271eac014d5c30ecdb0bd344a2d4", 
+      "title": "Structured Penalties for Log-Linear Language Models", 
+      "url": "https://www.semanticscholar.org/paper/015f0154d371271eac014d5c30ecdb0bd344a2d4"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "8cb8584a8725d1575907f3f74b08a0afdd83a4a4", 
+      "title": "Dimensionality Reduction for Language A Survey of Dimensionality Reduction Techniques for Natural Language", 
+      "url": "https://www.semanticscholar.org/paper/8cb8584a8725d1575907f3f74b08a0afdd83a4a4"
+    }, 
+    {
+      "isInfluential": true, 
+      "paperId": "13dcdb186c730bb13915b0bedbb51e6d037cc09a", 
+      "title": "Discriminative method for recurrent neural network language models", 
+      "url": "https://www.semanticscholar.org/paper/13dcdb186c730bb13915b0bedbb51e6d037cc09a"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "845c1fca838e2ffb779cda3286c6347ab30a19fd", 
+      "title": "ALTW 2005 Conditional Random Fields", 
+      "url": "https://www.semanticscholar.org/paper/845c1fca838e2ffb779cda3286c6347ab30a19fd"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "45bf6588945a8b8b1f09cde48528126072ef6875", 
+      "title": "Efficient Inference in Large Conditional Random Fields", 
+      "url": "https://www.semanticscholar.org/paper/45bf6588945a8b8b1f09cde48528126072ef6875"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "69a3b25033b9ea974b8d14f4c425d8b86f559d40", 
+      "title": "Construction of spoken language model including fillers using filler prediction model", 
+      "url": "https://www.semanticscholar.org/paper/69a3b25033b9ea974b8d14f4c425d8b86f559d40"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "3f5e56371a902921fcfdb63d93a7e035242feae4", 
+      "title": "Sample Selection for Large-scale MT Discriminative Training", 
+      "url": "https://www.semanticscholar.org/paper/3f5e56371a902921fcfdb63d93a7e035242feae4"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "1a5b0e1e9f514f5fbfd3c2e79285a2d07cbffdb9", 
+      "title": "Symbolic and statistical learning for chunking : comparison and combinations (Apprentissage symbolique et statistique pour le chunking: comparaison et combinaisons) [in French]", 
+      "url": "https://www.semanticscholar.org/paper/1a5b0e1e9f514f5fbfd3c2e79285a2d07cbffdb9"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "9a8f21d19ba9fe8c48e79912de59b970facd27c7", 
+      "title": "Further Experiments with Detector-Based Conditional Random Fields in Phonetic Recognition", 
+      "url": "https://www.semanticscholar.org/paper/9a8f21d19ba9fe8c48e79912de59b970facd27c7"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "801f28c547075d4f56e981ba73c3680065788ed5", 
+      "title": "Confidence-Weighted Learning of Factored Discriminative Language Models", 
+      "url": "https://www.semanticscholar.org/paper/801f28c547075d4f56e981ba73c3680065788ed5"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "eb0dbb109bbea7ee166c6a42420883cb2a69dc19", 
+      "title": "Substantive Bias and Velar Palatalization", 
+      "url": "https://www.semanticscholar.org/paper/eb0dbb109bbea7ee166c6a42420883cb2a69dc19"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "7a2e48ea993a66865c3cc19519da16e8d3d99f45", 
+      "title": "Ways to Improve the Quality of English-Czech Machine Translation", 
+      "url": "https://www.semanticscholar.org/paper/7a2e48ea993a66865c3cc19519da16e8d3d99f45"
+    }, 
+    {
+      "isInfluential": true, 
+      "paperId": "13558c255369efea38a7cec77fceb44a0c9f166c", 
+      "title": "A Discriminative Method for Recurrent Neural Network Language Models", 
+      "url": "https://www.semanticscholar.org/paper/13558c255369efea38a7cec77fceb44a0c9f166c"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "ba76241d2f373bcc7bf58c09d0226f5e590f0837", 
+      "title": "Linear models for structu", 
+      "url": "https://www.semanticscholar.org/paper/ba76241d2f373bcc7bf58c09d0226f5e590f0837"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "68369d96517f4ac061f49723bc636273d1e278ad", 
+      "title": "Perceptron Reranking for CCG Realization", 
+      "url": "https://www.semanticscholar.org/paper/68369d96517f4ac061f49723bc636273d1e278ad"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "7526a5e1a637080857482979c11bbada63f17bb6", 
+      "title": "Self-supervised discriminative training of statistical language models", 
+      "url": "https://www.semanticscholar.org/paper/7526a5e1a637080857482979c11bbada63f17bb6"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "82cc7cfcc9976c837c373ba9993bcca599f6f4d7", 
+      "title": "Competitive generative models with structure learning for NLP classification tasks", 
+      "url": "https://www.semanticscholar.org/paper/82cc7cfcc9976c837c373ba9993bcca599f6f4d7"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "8341fcca41c780fd3d8d37c3e2871f74704c42b5", 
+      "title": "A comparative study on methods of Weighted language model training for reranking lvcsr N-best hypotheses", 
+      "url": "https://www.semanticscholar.org/paper/8341fcca41c780fd3d8d37c3e2871f74704c42b5"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "1c2381e357c6829c551baee403650e6022ae6c40", 
+      "title": "Semi-Supervised Learning for Natural Language", 
+      "url": "https://www.semanticscholar.org/paper/1c2381e357c6829c551baee403650e6022ae6c40"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "37e061be1e8933e3045122d054f1af90328a781a", 
+      "title": "Discriminative Syntactic Language Modeling for Speech Recognition", 
+      "url": "https://www.semanticscholar.org/paper/37e061be1e8933e3045122d054f1af90328a781a"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "101be1f118db1aba0e4f93ca6e9b3c0a8f645139", 
+      "title": "Phrasal Cohort Based Unsupervised Discriminative Language Modeling", 
+      "url": "https://www.semanticscholar.org/paper/101be1f118db1aba0e4f93ca6e9b3c0a8f645139"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "86e723dc589659cd837d44c23c6b17044fe15313", 
+      "title": "Distributed discriminative language models for Google voice-search", 
+      "url": "https://www.semanticscholar.org/paper/86e723dc589659cd837d44c23c6b17044fe15313"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "4aea1d27699206393a6e3bc4ffcdf5eba92dca58", 
+      "title": "Evaluating spoken language model based on filler prediction model in speech recognition", 
+      "url": "https://www.semanticscholar.org/paper/4aea1d27699206393a6e3bc4ffcdf5eba92dca58"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "196b2aa22769a4533e5f996dfb5c8b844e23b917", 
+      "title": "The design principles and algorithms of a weighted grammar library", 
+      "url": "https://www.semanticscholar.org/paper/196b2aa22769a4533e5f996dfb5c8b844e23b917"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "5f258a711f86707a2ff48364c677e66d135c5195", 
+      "title": "Speech Recognition With Flat Direct Models", 
+      "url": "https://www.semanticscholar.org/paper/5f258a711f86707a2ff48364c677e66d135c5195"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "6a822dc2ef14ead8e0aa786a027a42d19cded2f4", 
+      "title": "Using Syntactic Coupling Features for Discriminating Phrase-Based Translations (WMT-08 Shared Translation Task)", 
+      "url": "https://www.semanticscholar.org/paper/6a822dc2ef14ead8e0aa786a027a42d19cded2f4"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "48f1010efbcef20455a3599c2d4fc60c10aecfe6", 
+      "title": "Discriminative training of WFST factors with application to pronunciation modeling", 
+      "url": "https://www.semanticscholar.org/paper/48f1010efbcef20455a3599c2d4fc60c10aecfe6"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "0ccfc08e4230854ca6e7abfc0aa6c5097a632ab3", 
+      "title": "Capitalizing Machine Translation", 
+      "url": "https://www.semanticscholar.org/paper/0ccfc08e4230854ca6e7abfc0aa6c5097a632ab3"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "7e23d45312ef0771200e9d756aa26b66e9e66b4d", 
+      "title": "Unsupervised Discriminative Language Model Training for Machine Translation using Simulated Confusion Sets", 
+      "url": "https://www.semanticscholar.org/paper/7e23d45312ef0771200e9d756aa26b66e9e66b4d"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "5ed8334e709b3e052191f47e7c5c64e2bbf46b45", 
+      "title": "Linguistically Motivated Complementizer Choice in Surface Realization", 
+      "url": "https://www.semanticscholar.org/paper/5ed8334e709b3e052191f47e7c5c64e2bbf46b45"
+    }, 
+    {
+      "isInfluential": true, 
+      "paperId": "e8403137499122e844b3fec1ac3283ba190d28ad", 
+      "title": "Discriminative Methods for Noise Robust Speech Reacognition: A CHiME Challenge Benchmark", 
+      "url": "https://www.semanticscholar.org/paper/e8403137499122e844b3fec1ac3283ba190d28ad"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "1f3e5754f8121a8ba559f55349f4b8c44ba1cdff", 
+      "title": "Structured discriminative models for speech recognition", 
+      "url": "https://www.semanticscholar.org/paper/1f3e5754f8121a8ba559f55349f4b8c44ba1cdff"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "0d2b64c07eba634505bb1cc5c19c13eb1e2069ea", 
+      "title": "Conversation-based Language Modeling Using a Loss-sensitive Perceptron Algorithm", 
+      "url": "https://www.semanticscholar.org/paper/0d2b64c07eba634505bb1cc5c19c13eb1e2069ea"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "ca36ab22ec67bc422e297ba7b547a5175a963057", 
+      "title": "Phonemic variability and confusability in pronunciation modeling for automatic speech recognition", 
+      "url": "https://www.semanticscholar.org/paper/ca36ab22ec67bc422e297ba7b547a5175a963057"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "428c5a3f4aa949b8b3be65689782b45cc5d9e7ab", 
+      "title": "(Hidden) Conditional Random Fields Using Intermediate Classes for Statistical Machine Translation", 
+      "url": "https://www.semanticscholar.org/paper/428c5a3f4aa949b8b3be65689782b45cc5d9e7ab"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "9a5345a89d9449b1a191d17de9abb810dad9a6ab", 
+      "title": "A Rule-based Language Model for Speech Recognition", 
+      "url": "https://www.semanticscholar.org/paper/9a5345a89d9449b1a191d17de9abb810dad9a6ab"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "3c5fc48b499ba08a3cac0afe11be4897a273dcfb", 
+      "title": "Joint Discriminative Language Modeling and Utterance Classification", 
+      "url": "https://www.semanticscholar.org/paper/3c5fc48b499ba08a3cac0afe11be4897a273dcfb"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "b63bd17d4bb28ba90cc6ff66b51ba5b0377467bf", 
+      "title": "Minimum word error training of long short-term memory recurrent neural network language models for speech recognition", 
+      "url": "https://www.semanticscholar.org/paper/b63bd17d4bb28ba90cc6ff66b51ba5b0377467bf"
+    }, 
+    {
+      "isInfluential": true, 
+      "paperId": "821cb9e84c0771f7be15e4ccac9af0f68cc4bd2e", 
+      "title": "Combining phonetic attributes usin", 
+      "url": "https://www.semanticscholar.org/paper/821cb9e84c0771f7be15e4ccac9af0f68cc4bd2e"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "4565e16c82eb7bf43dbc0fc9dec25af73e2321eb", 
+      "title": "Formalizing the Use and Characteristics of Constraints in Pipeline Systems", 
+      "url": "https://www.semanticscholar.org/paper/4565e16c82eb7bf43dbc0fc9dec25af73e2321eb"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "e901dfd78d47912ca33b33e5020f1184e209deca", 
+      "title": "Improving unsupervised language model adaptation with discriminative data filtering", 
+      "url": "https://www.semanticscholar.org/paper/e901dfd78d47912ca33b33e5020f1184e209deca"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "6972291fc201264a7ee82fae6e97e20c4f18b33d", 
+      "title": "Constrained optimization for validation-guided conditional random field learning", 
+      "url": "https://www.semanticscholar.org/paper/6972291fc201264a7ee82fae6e97e20c4f18b33d"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "10fe7e5a53bdacf17dd5888bcc8357ce5417fd4a", 
+      "title": "Triplet lexicon models for statistical machine translation", 
+      "url": "https://www.semanticscholar.org/paper/10fe7e5a53bdacf17dd5888bcc8357ce5417fd4a"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "885c37221be8257c90e40271e534ceb48c30fd10", 
+      "title": "Discriminative Pruning of Language Models for Chinese Word Segmentation", 
+      "url": "https://www.semanticscholar.org/paper/885c37221be8257c90e40271e534ceb48c30fd10"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "8c8690406427e651503da0b07d293e91e6fa6e42", 
+      "title": "Large-scale discriminative language model reranking for voice-search", 
+      "url": "https://www.semanticscholar.org/paper/8c8690406427e651503da0b07d293e91e6fa6e42"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "33c608b26e2ede6bccb71233b1f3de99b588c488", 
+      "title": "A generalized discriminative training framework for system combination", 
+      "url": "https://www.semanticscholar.org/paper/33c608b26e2ede6bccb71233b1f3de99b588c488"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "d9ce43229be476f7ae6b372d97b4d371aa65700d", 
+      "title": "A segmental CRF approach to large vocabulary continuous speech recognition", 
+      "url": "https://www.semanticscholar.org/paper/d9ce43229be476f7ae6b372d97b4d371aa65700d"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "8f04622279b04bcbe02e335d21ea0f01dff3bbdb", 
+      "title": "A reranking approach for recognition and classification of speech input in conversational dialogue systems", 
+      "url": "https://www.semanticscholar.org/paper/8f04622279b04bcbe02e335d21ea0f01dff3bbdb"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "7a67db064ee7bcb78d3dd771d42bb603baebae11", 
+      "title": "Round-robin duel discriminative language models in one-pass decoding with on-the-fly error correction", 
+      "url": "https://www.semanticscholar.org/paper/7a67db064ee7bcb78d3dd771d42bb603baebae11"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "044b502e5a00b5eeff1dd078ea03f491ca2c37bf", 
+      "title": "Structural Classification Methods Based on Weighted Finite-State Transducers for Automatic Speech Recognition", 
+      "url": "https://www.semanticscholar.org/paper/044b502e5a00b5eeff1dd078ea03f491ca2c37bf"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "40dc2f5bc2b266af33b818355f0b7608e0ec56e2", 
+      "title": "Edinburgh Research Explorer Hallucinated N-best Lists for Discriminative Language Modeling Hallucinated N-best Lists for Discriminative Language Modeling", 
+      "url": "https://www.semanticscholar.org/paper/40dc2f5bc2b266af33b818355f0b7608e0ec56e2"
+    }, 
+    {
+      "isInfluential": true, 
+      "paperId": "3cd4ae1cac866f853bb3276d215cff18df371b67", 
+      "title": "Discriminative Methods for Noise Robust Speech Recognition: a Chime Challenge Benchmark", 
+      "url": "https://www.semanticscholar.org/paper/3cd4ae1cac866f853bb3276d215cff18df371b67"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "03563044af9cb9c84b14e34516c8135fa5165c25", 
+      "title": "Dependency Grammar and Dependency Parsing", 
+      "url": "https://www.semanticscholar.org/paper/03563044af9cb9c84b14e34516c8135fa5165c25"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "2f94f73bf78667833dbf1b8a2f8e71fd8a74d57e", 
+      "title": "Glue Rules for Robust Chart Realization", 
+      "url": "https://www.semanticscholar.org/paper/2f94f73bf78667833dbf1b8a2f8e71fd8a74d57e"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "8f4dafaa68ea4bc702e1f13cdb932e566236b0c0", 
+      "title": "Guiding Unsupervised Grammar Induction Using Contrastive Estimation\u2217", 
+      "url": "https://www.semanticscholar.org/paper/8f4dafaa68ea4bc702e1f13cdb932e566236b0c0"
+    }
+  ], 
+  "doi": null, 
+  "influentialCitationCount": 9, 
+  "paperId": "567dc4e26ece98e96c2e798ae8acafa5883945a9", 
+  "references": [
+    {
+      "isInfluential": false, 
+      "paperId": "463dbd690d912b23d29b7581fb6b253b36f50394", 
+      "title": "Estimators for Stochastic \"Unification-Based\" Grammars", 
+      "url": "https://www.semanticscholar.org/paper/463dbd690d912b23d29b7581fb6b253b36f50394"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "3c4f2f036b11a4ef1e8dbc52e5b392a31b79a57f", 
+      "title": "Discriminative training of language models for speech recognition", 
+      "url": "https://www.semanticscholar.org/paper/3c4f2f036b11a4ef1e8dbc52e5b392a31b79a57f"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "14aa73f7aa00fc2309045cff7d65eed60df581b2", 
+      "title": "A Comparison of Algorithms for Maximum Entropy Parameter Estimation", 
+      "url": "https://www.semanticscholar.org/paper/14aa73f7aa00fc2309045cff7d65eed60df581b2"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "f374db77b414bfdd142616434162a0aa88d5a551", 
+      "title": "A maximum entropy model for parsing", 
+      "url": "https://www.semanticscholar.org/paper/f374db77b414bfdd142616434162a0aa88d5a551"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "3cb63a11b3eb3bf89c9f5678efb63c5dcf7600c5", 
+      "title": "Large Margin Classification Using the Perceptron Algorithm", 
+      "url": "https://www.semanticscholar.org/paper/3cb63a11b3eb3bf89c9f5678efb63c5dcf7600c5"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "1b1eed518d7f0c67874a5e6e018486feb3923732", 
+      "title": "Early results for Named Entity Recognition with Conditional Random Fields, Feature Induction and Web-Enhanced Lexicons", 
+      "url": "https://www.semanticscholar.org/paper/1b1eed518d7f0c67874a5e6e018486feb3923732"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "2614fe6b2ae962ec863739173512b0093245851b", 
+      "title": "Corrective language modeling for large vocabulary ASR with the perceptron algorithm", 
+      "url": "https://www.semanticscholar.org/paper/2614fe6b2ae962ec863739173512b0093245851b"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "3b8e7c8220d3883d54960d896a73045f3c70ac17", 
+      "title": "Discriminative Training Methods For Hidden Markov Models: Theory And Experiments With Perceptron Algorithms", 
+      "url": "https://www.semanticscholar.org/paper/3b8e7c8220d3883d54960d896a73045f3c70ac17"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "1e25f08c6c05f902ae5c877251a3c573f9e1eae3", 
+      "title": "Improving Language Models by Learning from Speech Recognition Errors in a Reading Tutor that Listens", 
+      "url": "https://www.semanticscholar.org/paper/1e25f08c6c05f902ae5c877251a3c573f9e1eae3"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "0bd14558dd70be639aa360a4016e5f6c0ae8bced", 
+      "title": "Discriminative training on language model", 
+      "url": "https://www.semanticscholar.org/paper/0bd14558dd70be639aa360a4016e5f6c0ae8bced"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "09ac55d63aec5bb45f17d96a998daaf075410585", 
+      "title": "Generalized Algorithms for Constructing Statistical Language Models", 
+      "url": "https://www.semanticscholar.org/paper/09ac55d63aec5bb45f17d96a998daaf075410585"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "44dd3d9d5e334f079a6abc400c5fc679b919cadf", 
+      "title": "The Sri March 2000 Hub-5 Conversational Speech Transcription System", 
+      "url": "https://www.semanticscholar.org/paper/44dd3d9d5e334f079a6abc400c5fc679b919cadf"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "238caa418be7f7cdef3fe72c81b6913489bba1a5", 
+      "title": "Parameter Estimation for Statistical Parsing Models: Theory and Practice of Distribution-Free Methods", 
+      "url": "https://www.semanticscholar.org/paper/238caa418be7f7cdef3fe72c81b6913489bba1a5"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "5df0326a3be36de17503200f75176f0c0e2f7932", 
+      "title": "Efficient Training of Conditional Random Fields", 
+      "url": "https://www.semanticscholar.org/paper/5df0326a3be36de17503200f75176f0c0e2f7932"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "bbd05ce75a1cf9f321d593d441e534a0f4c90396", 
+      "title": "Weighted Finite-state Transducers in Speech Recognition", 
+      "url": "https://www.semanticscholar.org/paper/bbd05ce75a1cf9f321d593d441e534a0f4c90396"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "7ac0550daef2f936c4280aca87ff8e9c7e7baf69", 
+      "title": "Maximum entropy techniques for exploiting syntactic, semantic and collocational dependencies in language modeling", 
+      "url": "https://www.semanticscholar.org/paper/7ac0550daef2f936c4280aca87ff8e9c7e7baf69"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "0c7f52c753a65ceaf3755e20b906ffd0c05c994a", 
+      "title": "Conditional Random Fields: Probabilistic Models for Segmenting and Labeling Sequence Data", 
+      "url": "https://www.semanticscholar.org/paper/0c7f52c753a65ceaf3755e20b906ffd0c05c994a"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "424605dca47f5bfbd268ca9540b0415394fc9133", 
+      "title": "Table extraction using conditional random fields", 
+      "url": "https://www.semanticscholar.org/paper/424605dca47f5bfbd268ca9540b0415394fc9133"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "5b31e43f8b0490779d8013e0705ae4df8f0488c9", 
+      "title": "Shallow Parsing with Conditional Random Fields", 
+      "url": "https://www.semanticscholar.org/paper/5b31e43f8b0490779d8013e0705ae4df8f0488c9"
+    }
+  ], 
+  "title": "Discriminative Language Modeling with Conditional Random Fields and the Perceptron Algorithm", 
+  "url": "https://www.semanticscholar.org/paper/567dc4e26ece98e96c2e798ae8acafa5883945a9", 
+  "venue": "ACL"
+}

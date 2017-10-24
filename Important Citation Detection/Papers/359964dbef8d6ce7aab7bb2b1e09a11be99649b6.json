@@ -1,0 +1,625 @@
+{
+  "authors": [
+    {
+      "authorId": "2100612", 
+      "name": "Rupesh Kumar Srivastava", 
+      "url": "https://www.semanticscholar.org/author/2100612"
+    }, 
+    {
+      "authorId": "2426718", 
+      "name": "Jonathan Masci", 
+      "url": "https://www.semanticscholar.org/author/2426718"
+    }, 
+    {
+      "authorId": "8180457", 
+      "name": "Sohrob Kazerounian", 
+      "url": "https://www.semanticscholar.org/author/8180457"
+    }, 
+    {
+      "authorId": "2768948", 
+      "name": "Faustino J. Gomez", 
+      "url": "https://www.semanticscholar.org/author/2768948"
+    }, 
+    {
+      "authorId": "1724050", 
+      "name": "J\u00fcrgen Schmidhuber", 
+      "url": "https://www.semanticscholar.org/author/1724050"
+    }
+  ], 
+  "citationVelocity": 24, 
+  "citations": [
+    {
+      "isInfluential": false, 
+      "paperId": "c2565fad98fbcf3e554c5fbf6982d67dbe702df5", 
+      "title": "Understanding Locally Competitive Networks", 
+      "url": "https://www.semanticscholar.org/paper/c2565fad98fbcf3e554c5fbf6982d67dbe702df5", 
+      "venue": "ArXiv", 
+      "year": 2014
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "1b6fb8528ff67998ac5bc9f83ab81ae59b2b3e0f", 
+      "title": "Overcoming Catastrophic Interference by Conceptors", 
+      "url": "https://www.semanticscholar.org/paper/1b6fb8528ff67998ac5bc9f83ab81ae59b2b3e0f", 
+      "venue": "ArXiv", 
+      "year": 2017
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "46a8b4a6079618f59f1ea58b9aeadbc9e0927337", 
+      "title": "Draft: Deep Learning in Neural Networks: An Overview", 
+      "url": "https://www.semanticscholar.org/paper/46a8b4a6079618f59f1ea58b9aeadbc9e0927337", 
+      "venue": "", 
+      "year": 2014
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "caee337e11da5c6a0b518591e16636ee19d86f31", 
+      "title": "Sparse Code Formation with Linear Inhibition", 
+      "url": "https://www.semanticscholar.org/paper/caee337e11da5c6a0b518591e16636ee19d86f31", 
+      "venue": "ArXiv", 
+      "year": 2015
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "be4652f805d2e7792742d5c6f108c3f6b0a5794c", 
+      "title": "Channel-Max, Channel-Drop and Stochastic Max-pooling", 
+      "url": "https://www.semanticscholar.org/paper/be4652f805d2e7792742d5c6f108c3f6b0a5794c", 
+      "venue": "2015 IEEE Conference on Computer Vision and Pattern Recognition Workshops (CVPRW)", 
+      "year": 2015
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "4dc1641582a60abdc66a9d818c313a9d783a74be", 
+      "title": "Training Very Deep Networks", 
+      "url": "https://www.semanticscholar.org/paper/4dc1641582a60abdc66a9d818c313a9d783a74be", 
+      "venue": "NIPS", 
+      "year": 2015
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "3ecc71263d5dd8a51438e351f0a27fba5a6e7592", 
+      "title": "Meta Networks", 
+      "url": "https://www.semanticscholar.org/paper/3ecc71263d5dd8a51438e351f0a27fba5a6e7592", 
+      "venue": "ICML", 
+      "year": 2017
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "f6c3e5c0bd322772601c8e00913530b73b4bc123", 
+      "title": "Change Detection in Synthetic Aperture Radar Images Based on Deep Neural Networks", 
+      "url": "https://www.semanticscholar.org/paper/f6c3e5c0bd322772601c8e00913530b73b4bc123", 
+      "venue": "IEEE Transactions on Neural Networks and Learning Systems", 
+      "year": 2016
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "674801d0acdb6c823b866ed9daff5547b0b69621", 
+      "title": "Analyzing Knowledge Transfer in Deep Q-Networks for Autonomously Handling Multiple Intersections", 
+      "url": "https://www.semanticscholar.org/paper/674801d0acdb6c823b866ed9daff5547b0b69621", 
+      "venue": "ArXiv", 
+      "year": 2017
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "6d9d7aac988e3b31726b645b153d625a2d848942", 
+      "title": "A Strategy for an Uncompromising Incremental Learner", 
+      "url": "https://www.semanticscholar.org/paper/6d9d7aac988e3b31726b645b153d625a2d848942", 
+      "venue": "ArXiv", 
+      "year": 2017
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "5b41300d6c46e1415fbf64aa16e47af3dc3e9d8e", 
+      "title": "Reduction of catastrophic forgetting with transfer learning and ternary output codes", 
+      "url": "https://www.semanticscholar.org/paper/5b41300d6c46e1415fbf64aa16e47af3dc3e9d8e", 
+      "venue": "2015 International Joint Conference on Neural Networks (IJCNN)", 
+      "year": 2015
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "0a9148716ab8a4771d3fee3b81edc5b354fe74ce", 
+      "title": "Neuron clustering for mitigating catastrophic forgetting in feedforward neural networks", 
+      "url": "https://www.semanticscholar.org/paper/0a9148716ab8a4771d3fee3b81edc5b354fe74ce", 
+      "venue": "2014 IEEE Symposium on Computational Intelligence in Dynamic and Uncertain Environments (CIDUE)", 
+      "year": 2014
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "c3a83bd3285ba8156470f097580f20862eb30bc4", 
+      "title": "A deep quasi-linear kernel composition method for support vector machines", 
+      "url": "https://www.semanticscholar.org/paper/c3a83bd3285ba8156470f097580f20862eb30bc4", 
+      "venue": "2016 International Joint Conference on Neural Networks (IJCNN)", 
+      "year": 2016
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "1e1e274d9dde08a5e6a02daf86405d1cee5ec5cd", 
+      "title": "An Empirical Investigation of Catastrophic Forgeting in Gradient-Based Neural Networks", 
+      "url": "https://www.semanticscholar.org/paper/1e1e274d9dde08a5e6a02daf86405d1cee5ec5cd", 
+      "venue": "ArXiv", 
+      "year": 2013
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "19e9825c1db6614ca3eeaf746f55a8d9a65cbe27", 
+      "title": "Feature selection using Deep Neural Networks", 
+      "url": "https://www.semanticscholar.org/paper/19e9825c1db6614ca3eeaf746f55a8d9a65cbe27", 
+      "venue": "2015 International Joint Conference on Neural Networks (IJCNN)", 
+      "year": 2015
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "9af3b803f8359b9332c2a60592bc5b8a67599938", 
+      "title": "On the importance of normalisation layers in deep learning with piecewise linear activation units", 
+      "url": "https://www.semanticscholar.org/paper/9af3b803f8359b9332c2a60592bc5b8a67599938", 
+      "venue": "2016 IEEE Winter Conference on Applications of Computer Vision (WACV)", 
+      "year": 2016
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "3ba179bceb9692d4d21109d0b87b120195761148", 
+      "title": "Delving Deep into Rectifiers: Surpassing Human-Level Performance on ImageNet Classification", 
+      "url": "https://www.semanticscholar.org/paper/3ba179bceb9692d4d21109d0b87b120195761148", 
+      "venue": "2015 IEEE International Conference on Computer Vision (ICCV)", 
+      "year": 2015
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "86447dce917113a1edc503bf0be1a0f6409da4f5", 
+      "title": "Training Neural Networks Using Ever-increasing Data", 
+      "url": "https://www.semanticscholar.org/paper/86447dce917113a1edc503bf0be1a0f6409da4f5", 
+      "venue": "", 
+      "year": 2014
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "648eb986d7b11268af2c7a3874c383ff689424d5", 
+      "title": "Active Convolution: Learning the Shape of Convolution for Image Classification", 
+      "url": "https://www.semanticscholar.org/paper/648eb986d7b11268af2c7a3874c383ff689424d5", 
+      "venue": "ArXiv", 
+      "year": 2017
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "88412d7dd147cbc65f116761b9b9ff2fde85e907", 
+      "title": "From Maxout to Channel-Out: Encoding Information on Sparse Pathways", 
+      "url": "https://www.semanticscholar.org/paper/88412d7dd147cbc65f116761b9b9ff2fde85e907", 
+      "venue": "ICANN", 
+      "year": 2014
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "a3473e352b24342212a673356f8f74a4f026ce0f", 
+      "title": "Sequential Covariance-Matrix Estimation with Application to Mitigating Catastrophic Forgetting", 
+      "url": "https://www.semanticscholar.org/paper/a3473e352b24342212a673356f8f74a4f026ce0f", 
+      "venue": "2015 IEEE 14th International Conference on Machine Learning and Applications (ICMLA)", 
+      "year": 2015
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "2722e3929d5096addfce1c069c1b2551738e1e45", 
+      "title": "Deep Learning in Neural Networks: an Overview Contents 1 Introduction to Deep Learning (dl) in Neural Networks (nns) 4", 
+      "url": "https://www.semanticscholar.org/paper/2722e3929d5096addfce1c069c1b2551738e1e45", 
+      "venue": "", 
+      "year": 2014
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "560a2c96557067de70f5e0d5febeeaac16206ac1", 
+      "title": "Measuring Catastrophic Forgetting in Neural Networks", 
+      "url": "https://www.semanticscholar.org/paper/560a2c96557067de70f5e0d5febeeaac16206ac1", 
+      "venue": "", 
+      "year": 2017
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "b7f442298f16684e4c1e69fd4c5002f02a783d27", 
+      "title": "A novel activation function for multilayer feed-forward neural networks", 
+      "url": "https://www.semanticscholar.org/paper/b7f442298f16684e4c1e69fd4c5002f02a783d27", 
+      "venue": "Applied Intelligence", 
+      "year": 2015
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "384ce792cf2b2afbe001f2168bfe7d5e7804c736", 
+      "title": "Tiny ImageNet Visual Recognition Challenge", 
+      "url": "https://www.semanticscholar.org/paper/384ce792cf2b2afbe001f2168bfe7d5e7804c736", 
+      "venue": "", 
+      "year": 2015
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "8d2cc4d4041e6794196ba1c77ddf0c1dcaa435b0", 
+      "title": "A multilayer gated bilinear classifier: From optimizing a deep rectified network to a support vector machine", 
+      "url": "https://www.semanticscholar.org/paper/8d2cc4d4041e6794196ba1c77ddf0c1dcaa435b0", 
+      "venue": "2017 International Joint Conference on Neural Networks (IJCNN)", 
+      "year": 2017
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "ea160ca21b2a8c4402b077d6338e6a679aa9d7b9", 
+      "title": "Less-forgetting Learning in Deep Neural Networks", 
+      "url": "https://www.semanticscholar.org/paper/ea160ca21b2a8c4402b077d6338e6a679aa9d7b9", 
+      "venue": "ArXiv", 
+      "year": 2016
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "6d7de7aba56d23826a1fa870e328a47c51052b7a", 
+      "title": "Continual Learning with Deep Generative Replay", 
+      "url": "https://www.semanticscholar.org/paper/6d7de7aba56d23826a1fa870e328a47c51052b7a", 
+      "venue": "ArXiv", 
+      "year": 2017
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "45bbbfd747214ddd2582436ba0f53d5c72616730", 
+      "title": "A learning framework for winner-take-all networks with stochastic synapses", 
+      "url": "https://www.semanticscholar.org/paper/45bbbfd747214ddd2582436ba0f53d5c72616730", 
+      "venue": "", 
+      "year": 2017
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "5151d6cb3a4eaec14a56944d58338251fca344ab", 
+      "title": "Overcoming catastrophic forgetting in neural networks", 
+      "url": "https://www.semanticscholar.org/paper/5151d6cb3a4eaec14a56944d58338251fca344ab", 
+      "venue": "Proceedings of the National Academy of Sciences of the United States of America", 
+      "year": 2017
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "9da0175502d23a3e36d03da8cf9a4ab0d1d4bee0", 
+      "title": "CORe50: a New Dataset and Benchmark for Continuous Object Recognition", 
+      "url": "https://www.semanticscholar.org/paper/9da0175502d23a3e36d03da8cf9a4ab0d1d4bee0", 
+      "venue": "ArXiv", 
+      "year": 2017
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "42764b57d0794b63487a295ce8c07eeb6961477e", 
+      "title": "Instance-Aware Semantic Segmentation via Multi-task Network Cascades", 
+      "url": "https://www.semanticscholar.org/paper/42764b57d0794b63487a295ce8c07eeb6961477e", 
+      "venue": "2016 IEEE Conference on Computer Vision and Pattern Recognition (CVPR)", 
+      "year": 2016
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "430686e56cb706ab3802604e623ef0c50b63a29f", 
+      "title": "What auto-encoders could learn from brains Generation as feedback in unsupervised deep learning and inference", 
+      "url": "https://www.semanticscholar.org/paper/430686e56cb706ab3802604e623ef0c50b63a29f", 
+      "venue": "", 
+      "year": 2016
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "1bb5520bbc168e54c553758a76c6d953933bd8eb", 
+      "title": "Deep Networks with Internal Selective Attention through Feedback Connections", 
+      "url": "https://www.semanticscholar.org/paper/1bb5520bbc168e54c553758a76c6d953933bd8eb", 
+      "venue": "NIPS", 
+      "year": 2014
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "f0b9dc64f6df004d3f776031050317f0a7fb1bdc", 
+      "title": "On Learning to Think: Algorithmic Information Theory for Novel Combinations of Reinforcement Learning Controllers and Recurrent Neural World Models", 
+      "url": "https://www.semanticscholar.org/paper/f0b9dc64f6df004d3f776031050317f0a7fb1bdc", 
+      "venue": "ArXiv", 
+      "year": 2015
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "eb5fb44ad365d1c53fb6dbb6a4a6523e88144d83", 
+      "title": "Unsupervised Neuron Selection for Mitigating Catastrophic Forgetting in Neural Networks", 
+      "url": "https://www.semanticscholar.org/paper/eb5fb44ad365d1c53fb6dbb6a4a6523e88144d83", 
+      "venue": "", 
+      "year": 2014
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "01e7aee90cb61178fcb09d3fa813294a216116a2", 
+      "title": "Dissecting the Winning Solution of the HiggsML Challenge", 
+      "url": "https://www.semanticscholar.org/paper/01e7aee90cb61178fcb09d3fa813294a216116a2", 
+      "venue": "HEPML@NIPS", 
+      "year": 2014
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "126df9f24e29feee6e49e135da102fbbd9154a48", 
+      "title": "Deep Learning in Neural Networks: An Overview", 
+      "url": "https://www.semanticscholar.org/paper/126df9f24e29feee6e49e135da102fbbd9154a48", 
+      "venue": "Neural Networks", 
+      "year": 2015
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "10a602dafb74450fb30a869e2e50992b73f7deaa", 
+      "title": "Improved multitask learning through synaptic intelligence", 
+      "url": "https://www.semanticscholar.org/paper/10a602dafb74450fb30a869e2e50992b73f7deaa", 
+      "venue": "ArXiv", 
+      "year": 2017
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "c65487e55e549833688cb8ad754c4df874198aee", 
+      "title": "Overcoming Catastrophic Forgetting by Incremental Moment Matching", 
+      "url": "https://www.semanticscholar.org/paper/c65487e55e549833688cb8ad754c4df874198aee", 
+      "venue": "ArXiv", 
+      "year": 2017
+    }, 
+    {
+      "isInfluential": true, 
+      "paperId": "f8eb2f58d8cf96d11252f158222266bdaa0ccdbf", 
+      "title": "Competitive Multi-scale Convolution", 
+      "url": "https://www.semanticscholar.org/paper/f8eb2f58d8cf96d11252f158222266bdaa0ccdbf", 
+      "venue": "ArXiv", 
+      "year": 2015
+    }
+  ], 
+  "doi": null, 
+  "influentialCitationCount": 1, 
+  "paperId": "359964dbef8d6ce7aab7bb2b1e09a11be99649b6", 
+  "references": [
+    {
+      "isInfluential": false, 
+      "paperId": "d70c93a95e7c8a0ac7b5bb694056bbb55877b4f0", 
+      "title": "Attention activates winner-take-all competition among visual filters.", 
+      "url": "https://www.semanticscholar.org/paper/d70c93a95e7c8a0ac7b5bb694056bbb55877b4f0", 
+      "venue": "Nature neuroscience", 
+      "year": 1999
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "07d5cd2bd1e9162a8fc7d24bb175a40e0dc47957", 
+      "title": "On the Computational Power of Winner-Take-All", 
+      "url": "https://www.semanticscholar.org/paper/07d5cd2bd1e9162a8fc7d24bb175a40e0dc47957", 
+      "venue": "Neural Computation", 
+      "year": 2000
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "162d958ff885f1462aeda91cd72582323fd6a1f4", 
+      "title": "Gradient-based Learning Applied to Document Recognition", 
+      "url": "https://www.semanticscholar.org/paper/162d958ff885f1462aeda91cd72582323fd6a1f4", 
+      "venue": "", 
+      "year": 1998
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "b56344559f88f096220d5636ecf54707ecedcd5f", 
+      "title": "Complex dynamics in winner-take-all neural nets with slow inhibition", 
+      "url": "https://www.semanticscholar.org/paper/b56344559f88f096220d5636ecf54707ecedcd5f", 
+      "venue": "Neural Networks", 
+      "year": 1992
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "94db635f54d25bdb95edb42185aca93ba53b051b", 
+      "title": "Biographies, Bollywood, Boom-boxes and Blenders: Domain Adaptation for Sentiment Classification", 
+      "url": "https://www.semanticscholar.org/paper/94db635f54d25bdb95edb42185aca93ba53b051b", 
+      "venue": "ACL", 
+      "year": 2007
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "13e415ed39f406f1a7c687cb55b6129b1c40ddd5", 
+      "title": "Hierarchical models of object recognition in cortex.", 
+      "url": "https://www.semanticscholar.org/paper/13e415ed39f406f1a7c687cb55b6129b1c40ddd5", 
+      "venue": "Nature neuroscience", 
+      "year": 1999
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "9952d4d5717afd4a27157ed8b98b0ee3dcb70d6c", 
+      "title": "ImageNet Classification with Deep Convolutional Neural Networks", 
+      "url": "https://www.semanticscholar.org/paper/9952d4d5717afd4a27157ed8b98b0ee3dcb70d6c", 
+      "venue": "", 
+      "year": 2013
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "2116b2eaaece4af9c28c32af2728f3d49b792cf9", 
+      "title": "Improving neural networks by preventing co-adaptation of feature detectors", 
+      "url": "https://www.semanticscholar.org/paper/2116b2eaaece4af9c28c32af2728f3d49b792cf9", 
+      "venue": "ArXiv", 
+      "year": 2012
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "1a3c74c7b11ad5635570932577cdde2a3f7a6a5c", 
+      "title": "Improving deep neural networks for LVCSR using rectified linear units and dropout", 
+      "url": "https://www.semanticscholar.org/paper/1a3c74c7b11ad5635570932577cdde2a3f7a6a5c", 
+      "venue": "2013 IEEE International Conference on Acoustics, Speech and Signal Processing", 
+      "year": 2013
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "7b1cc19dec9289c66e7ab45e80e8c42273509ab6", 
+      "title": "Best Practices for Convolutional Neural Networks Applied to Visual Document Analysis", 
+      "url": "https://www.semanticscholar.org/paper/7b1cc19dec9289c66e7ab45e80e8c42273509ab6", 
+      "venue": "ICDAR", 
+      "year": 2003
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "398c296d0cc7f9d180f84969f8937e6d3a413796", 
+      "title": "Multi-column deep neural networks for image classification", 
+      "url": "https://www.semanticscholar.org/paper/398c296d0cc7f9d180f84969f8937e6d3a413796", 
+      "venue": "2012 IEEE Conference on Computer Vision and Pattern Recognition", 
+      "year": 2012
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "0eeec6ffd03ea8fef288190deeab1f363dcd4d76", 
+      "title": "Efficient Learning of Sparse Representations with an Energy-Based Model", 
+      "url": "https://www.semanticscholar.org/paper/0eeec6ffd03ea8fef288190deeab1f363dcd4d76", 
+      "venue": "NIPS", 
+      "year": 2006
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "1cf27c7a33dd3af16a194c9610cac4601514d221", 
+      "title": "Modeling Selective Attention Using a Neuromorphic Analog VLSI Device", 
+      "url": "https://www.semanticscholar.org/paper/1cf27c7a33dd3af16a194c9610cac4601514d221", 
+      "venue": "Neural Computation", 
+      "year": 2000
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "a538b05ebb01a40323997629e171c91aa28b8e2f", 
+      "title": "Rectified Linear Units Improve Restricted Boltzmann Machines", 
+      "url": "https://www.semanticscholar.org/paper/a538b05ebb01a40323997629e171c91aa28b8e2f", 
+      "venue": "ICML", 
+      "year": 2010
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "d6c2d502141b6639e97bb903ec94369eae4b4df2", 
+      "title": "Self-organization of orientation sensitive cells in the striate cortex", 
+      "url": "https://www.semanticscholar.org/paper/d6c2d502141b6639e97bb903ec94369eae4b4df2", 
+      "venue": "Kybernetik", 
+      "year": 1973
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "e6bef595cb78bcad4880aea6a3a73ecd32fbfe06", 
+      "title": "Domain Adaptation for Large-Scale Sentiment Classification: A Deep Learning Approach", 
+      "url": "https://www.semanticscholar.org/paper/e6bef595cb78bcad4880aea6a3a73ecd32fbfe06", 
+      "venue": "ICML", 
+      "year": 2011
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "bbb4c100d1ff3eceb84b3f18c974303eaa5e29fa", 
+      "title": "Active Deep Networks for Semi-Supervised Sentiment Classification", 
+      "url": "https://www.semanticscholar.org/paper/bbb4c100d1ff3eceb84b3f18c974303eaa5e29fa", 
+      "venue": "COLING", 
+      "year": 2010
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "b7dd395303b4d1c241bfec7c3ec3b56294830630", 
+      "title": "Contour Enhancement, Short Term Memory, and Constancies in Reverberating Neural Networks", 
+      "url": "https://www.semanticscholar.org/paper/b7dd395303b4d1c241bfec7c3ec3b56294830630", 
+      "venue": "", 
+      "year": 1973
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "f2f67b1dc8d60cb13ad77ca16463b82002d31ec8", 
+      "title": "The cerebellum as a neuronal prosthesis machine.", 
+      "url": "https://www.semanticscholar.org/paper/f2f67b1dc8d60cb13ad77ca16463b82002d31ec8", 
+      "venue": "Progress in brain research", 
+      "year": 2001
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "0abb49fe138e8fb7332c26b148a48d0db39724fc", 
+      "title": "Stochastic Pooling for Regularization of Deep Convolutional Neural Networks", 
+      "url": "https://www.semanticscholar.org/paper/0abb49fe138e8fb7332c26b148a48d0db39724fc", 
+      "venue": "ArXiv", 
+      "year": 2013
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "90b3e19b2299994096b6929e0ecdd8f324b3c328", 
+      "title": "Self-organized formation of topologically correct feature maps", 
+      "url": "https://www.semanticscholar.org/paper/90b3e19b2299994096b6929e0ecdd8f324b3c328", 
+      "venue": "Biological Cybernetics", 
+      "year": 2004
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "140eaf273eabe233f67257d1ae7ee44a8f21e502", 
+      "title": "Computational Maps in the Visual Cortex", 
+      "url": "https://www.semanticscholar.org/paper/140eaf273eabe233f67257d1ae7ee44a8f21e502", 
+      "venue": "", 
+      "year": 2005
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "0bc7fe4dee942dfff5a739c2c086a6fe07ce3adb", 
+      "title": "Winner-Take-All Networks of O(N) Complexity", 
+      "url": "https://www.semanticscholar.org/paper/0bc7fe4dee942dfff5a739c2c086a6fe07ce3adb", 
+      "venue": "NIPS", 
+      "year": 1988
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "5f6e354d524e1c80d3bb71813a7cda60e3b06a05", 
+      "title": "Pattern formation, contrast control, and oscillations in the short term memory of shunting on-center off-surround networks", 
+      "url": "https://www.semanticscholar.org/paper/5f6e354d524e1c80d3bb71813a7cda60e3b06a05", 
+      "venue": "Biological Cybernetics", 
+      "year": 2004
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "367f2c63a6f6a10b3b64b8729d601e69337ee3cc", 
+      "title": "Rectifier Nonlinearities Improve Neural Network Acoustic Models", 
+      "url": "https://www.semanticscholar.org/paper/367f2c63a6f6a10b3b64b8729d601e69337ee3cc", 
+      "venue": "", 
+      "year": 2013
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "83174a52f38c80427e237446ccda79e2a9170742", 
+      "title": "Deep Sparse Rectifier Neural Networks", 
+      "url": "https://www.semanticscholar.org/paper/83174a52f38c80427e237446ccda79e2a9170742", 
+      "venue": "AISTATS", 
+      "year": 2011
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "031544e869f5b776b0f553138247e5c35219949d", 
+      "title": "Spiking Inputs to a Winner-take-all Network", 
+      "url": "https://www.semanticscholar.org/paper/031544e869f5b776b0f553138247e5c35219949d", 
+      "venue": "NIPS", 
+      "year": 2005
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "1f88427d7aa8225e47f946ac41a0667d7b69ac52", 
+      "title": "What is the best multi-stage architecture for object recognition?", 
+      "url": "https://www.semanticscholar.org/paper/1f88427d7aa8225e47f946ac41a0667d7b69ac52", 
+      "venue": "2009 IEEE 12th International Conference on Computer Vision", 
+      "year": 2009
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "5c07229f8451787ef461b2b7d5b8c2a3304d5c5c", 
+      "title": "Interneuronal mechanisms in the cortex.", 
+      "url": "https://www.semanticscholar.org/paper/5c07229f8451787ef461b2b7d5b8c2a3304d5c5c", 
+      "venue": "UCLA forum in medical sciences", 
+      "year": 1969
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "de7cf7c01258719cc3be4321f780db378831f2f4", 
+      "title": "The ART of adaptive pattern recognition by a self-organizing neural network", 
+      "url": "https://www.semanticscholar.org/paper/de7cf7c01258719cc3be4321f780db378831f2f4", 
+      "venue": "Computer", 
+      "year": 1988
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "082b1f5c791cadef18c4920ecc1396615a3fe7cb", 
+      "title": "Continual learning in reinforcement environments", 
+      "url": "https://www.semanticscholar.org/paper/082b1f5c791cadef18c4920ecc1396615a3fe7cb", 
+      "venue": "", 
+      "year": 1995
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "534a9e6ecfae09b5d4fe9095e856e74a302e9a0a", 
+      "title": "Neural Computation with Winner-Take-All as the Only Nonlinear Operation", 
+      "url": "https://www.semanticscholar.org/paper/534a9e6ecfae09b5d4fe9095e856e74a302e9a0a", 
+      "venue": "NIPS", 
+      "year": 1999
+    }
+  ], 
+  "title": "Compete to Compute", 
+  "url": "https://www.semanticscholar.org/paper/359964dbef8d6ce7aab7bb2b1e09a11be99649b6", 
+  "venue": "NIPS", 
+  "year": 2013
+}

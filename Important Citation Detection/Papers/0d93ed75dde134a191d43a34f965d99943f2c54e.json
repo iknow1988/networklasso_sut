@@ -1,0 +1,912 @@
+{
+  "authors": [
+    {
+      "authorId": "3039610", 
+      "name": "Simone Teufel", 
+      "url": "https://www.semanticscholar.org/author/3039610"
+    }, 
+    {
+      "authorId": "1722590", 
+      "name": "Advaith Siddharthan", 
+      "url": "https://www.semanticscholar.org/author/1722590"
+    }, 
+    {
+      "authorId": "2542428", 
+      "name": "Dan Tidhar", 
+      "url": "https://www.semanticscholar.org/author/2542428"
+    }
+  ], 
+  "citationVelocity": 28, 
+  "citations": [
+    {
+      "isInfluential": false, 
+      "paperId": "26825e78a84242504048b39d0ba21c859e52dc46", 
+      "title": "A Multi-Layered Annotated Corpus of Scientific Papers", 
+      "url": "https://www.semanticscholar.org/paper/26825e78a84242504048b39d0ba21c859e52dc46"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "5de52b6c7c197190acaf31a20a798716b6ef7831", 
+      "title": "Towards Authorship Attribution for Bibliometrics using Stylometric Features", 
+      "url": "https://www.semanticscholar.org/paper/5de52b6c7c197190acaf31a20a798716b6ef7831"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "232986f1f67d179dcd7e12a4f54ed83e6a14d513", 
+      "title": "Semantic Publishing Challenge - Assessing the Quality of Scientific Output", 
+      "url": "https://www.semanticscholar.org/paper/232986f1f67d179dcd7e12a4f54ed83e6a14d513"
+    }, 
+    {
+      "isInfluential": true, 
+      "paperId": "04c5905921a51558c87dc3e1f6028fee545b1347", 
+      "title": "Can't see the forest for the trees?: a citation recommendation system", 
+      "url": "https://www.semanticscholar.org/paper/04c5905921a51558c87dc3e1f6028fee545b1347"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "4652f8f15f24278c513e8089a61e059f62ae7ab5", 
+      "title": "Rapid understanding of scientific paper collections: Integrating statistics, text analytics, and visualization", 
+      "url": "https://www.semanticscholar.org/paper/4652f8f15f24278c513e8089a61e059f62ae7ab5"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "537aa509bf390f69a8be305d4ac907ea04e4b86e", 
+      "title": "The linguistic patterns and rhetorical structure of citation context: an approach using n-grams", 
+      "url": "https://www.semanticscholar.org/paper/537aa509bf390f69a8be305d4ac907ea04e4b86e"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "71bc86767eab58e0ed447b0fca00d0bc3e7b2962", 
+      "title": "Meso-level retrieval: IR-bibliometrics interplay and hybrid citation-words methods in scientific fields delineation", 
+      "url": "https://www.semanticscholar.org/paper/71bc86767eab58e0ed447b0fca00d0bc3e7b2962"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "7e50c1bcf75641b3d12b65830bb1a431defbd3b7", 
+      "title": "ParsCit: an Open-source CRF Reference String Parsing Package", 
+      "url": "https://www.semanticscholar.org/paper/7e50c1bcf75641b3d12b65830bb1a431defbd3b7"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "5f63a5c14dc1f91c74f64ee06403b2dca8ed9bc7", 
+      "title": "Determining sentiment in citation text and analyzing its impact on the proposed ranking index", 
+      "url": "https://www.semanticscholar.org/paper/5f63a5c14dc1f91c74f64ee06403b2dca8ed9bc7"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "8d664019dfaa30b07d3b2d9b15b0c756092347f2", 
+      "title": "Integrating Importance, Non-Redundancy and Coherence in Graph-Based Extractive Summarization", 
+      "url": "https://www.semanticscholar.org/paper/8d664019dfaa30b07d3b2d9b15b0c756092347f2"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "3849bd90a2504669de190d1796486f02c9d32896", 
+      "title": "Evaluating Citation Functions in CiTO: Cognitive Issues", 
+      "url": "https://www.semanticscholar.org/paper/3849bd90a2504669de190d1796486f02c9d32896"
+    }, 
+    {
+      "isInfluential": true, 
+      "paperId": "2f45b139404fcba772839a6e0c423af40a579f56", 
+      "title": "Sentiment analysis of scientific citations", 
+      "url": "https://www.semanticscholar.org/paper/2f45b139404fcba772839a6e0c423af40a579f56"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "7615d5d201778c991bfe023a7f8bf0fe7ab3dccc", 
+      "title": "Towards Domain-Independent Argumentative Zoning: Evidence from Chemistry and Computational Linguistics", 
+      "url": "https://www.semanticscholar.org/paper/7615d5d201778c991bfe023a7f8bf0fe7ab3dccc"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "ab57d295665e48ed1e1b8d97916b6660dfe5b4c5", 
+      "title": "Scholarly Data Mining: Making Sense of Scientific Literature", 
+      "url": "https://www.semanticscholar.org/paper/ab57d295665e48ed1e1b8d97916b6660dfe5b4c5"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "45984d9762e5516ab880068b5276683b64c0b735", 
+      "title": "Modeling Topic-Level Academic Influence in Scientific Literatures", 
+      "url": "https://www.semanticscholar.org/paper/45984d9762e5516ab880068b5276683b64c0b735"
+    }, 
+    {
+      "isInfluential": true, 
+      "paperId": "c071e7360849576c45bd6b9358a0042dddbba5ee", 
+      "title": "Automated Citation Sentiment Analysis: What Can We Learn From Biomedical Researchers", 
+      "url": "https://www.semanticscholar.org/paper/c071e7360849576c45bd6b9358a0042dddbba5ee"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "b1fc1ac997a8fb869016cb384713be09b1f5b563", 
+      "title": "Using Collective Discourse to Generate Surveys of Scientific Paradigms", 
+      "url": "https://www.semanticscholar.org/paper/b1fc1ac997a8fb869016cb384713be09b1f5b563"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "7a114230382c1ddfea7df41fcfe8b3f94b7e9866", 
+      "title": "Citation Block Determination Using Textual Coherence", 
+      "url": "https://www.semanticscholar.org/paper/7a114230382c1ddfea7df41fcfe8b3f94b7e9866"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "a8059f556f9e8adac8d152612911819ff5a238ec", 
+      "title": "Scientific document summarization via citation contextualization and scientific discourse", 
+      "url": "https://www.semanticscholar.org/paper/a8059f556f9e8adac8d152612911819ff5a238ec"
+    }, 
+    {
+      "isInfluential": true, 
+      "paperId": "c8a21d90c1e0cffcbe4fd47ded4e1c58e2c95015", 
+      "title": "Biomedical text mining for research rigor and integrity: tasks, challenges, directions.", 
+      "url": "https://www.semanticscholar.org/paper/c8a21d90c1e0cffcbe4fd47ded4e1c58e2c95015"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "0bda64de5d65eafb4ba320c915942a6705e2ce23", 
+      "title": "NLP Driven Models for Automatically Generating Survey Articles for Scientific Topics", 
+      "url": "https://www.semanticscholar.org/paper/0bda64de5d65eafb4ba320c915942a6705e2ce23"
+    }, 
+    {
+      "isInfluential": true, 
+      "paperId": "1894e3f2a7e73d18b7784b98c1a705b03bff319e", 
+      "title": "Natural Language Engineering", 
+      "url": "https://www.semanticscholar.org/paper/1894e3f2a7e73d18b7784b98c1a705b03bff319e"
+    }, 
+    {
+      "isInfluential": true, 
+      "paperId": "e7f7f25bba1b4d056f05ae2752479712583c4a07", 
+      "title": "The Research of Paper Influence Based on Citation Context - A Case Study of the Nobel Prize Winner's Paper", 
+      "url": "https://www.semanticscholar.org/paper/e7f7f25bba1b4d056f05ae2752479712583c4a07"
+    }, 
+    {
+      "isInfluential": true, 
+      "paperId": "2351bf32623c4391c07d0cb3f532e32aa0aa2b63", 
+      "title": "Towards Fine-grained Citation Function Classification", 
+      "url": "https://www.semanticscholar.org/paper/2351bf32623c4391c07d0cb3f532e32aa0aa2b63"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "544ecbf96a679d7348bd8735e21cf265c8d92803", 
+      "title": "WITP 5(01).book(WITP_A_315534.fm)", 
+      "url": "https://www.semanticscholar.org/paper/544ecbf96a679d7348bd8735e21cf265c8d92803"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "a7b040656eea39551e77230478fc73265ace50b0", 
+      "title": "Context matters: Towards extracting a citation's context using linguistic features", 
+      "url": "https://www.semanticscholar.org/paper/a7b040656eea39551e77230478fc73265ace50b0"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "4e02155729da96bfc13464adc2300d1ba1b9a86f", 
+      "title": "Comparing citation contexts for information retrieval", 
+      "url": "https://www.semanticscholar.org/paper/4e02155729da96bfc13464adc2300d1ba1b9a86f"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "a511bee99b4ebb1edf83e818f97663be58d45a22", 
+      "title": "Generating Extractive Summaries of Scientific Paradigms", 
+      "url": "https://www.semanticscholar.org/paper/a511bee99b4ebb1edf83e818f97663be58d45a22"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "b7d60e384e43ae57a1339a160ac30c43d9f18ed1", 
+      "title": "Argumentative analysis of the ACL Anthology (Analyse argumentative du corpus de l'ACL (ACL Anthology)) [in French]", 
+      "url": "https://www.semanticscholar.org/paper/b7d60e384e43ae57a1339a160ac30c43d9f18ed1"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "c468dd7e8f9971f21c6cd472ee5c23d52dcadbfc", 
+      "title": "Estimating the Birth and Death Years of Authors of Undated Documents Using Undated Citations", 
+      "url": "https://www.semanticscholar.org/paper/c468dd7e8f9971f21c6cd472ee5c23d52dcadbfc"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "74fea0e2523ff808156e4ac4177969ced5ec2494", 
+      "title": "Design and implementation for literature search and impact-based summaries", 
+      "url": "https://www.semanticscholar.org/paper/74fea0e2523ff808156e4ac4177969ced5ec2494"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "f8a7e3d914a1ba10817bc47817da14718571c2eb", 
+      "title": "A Study of Lexical Distribution in Citation Contexts through the IMRaD Standard", 
+      "url": "https://www.semanticscholar.org/paper/f8a7e3d914a1ba10817bc47817da14718571c2eb"
+    }, 
+    {
+      "isInfluential": true, 
+      "paperId": "4926f5060e21dedf61699188428cd5063c9f3e19", 
+      "title": "Ensemble-style Self-training on Citation Classification", 
+      "url": "https://www.semanticscholar.org/paper/4926f5060e21dedf61699188428cd5063c9f3e19"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "084199521e3f4a05e70c397943da5c8586f769fd", 
+      "title": "Co-Training for Topic Classification of Scholarly Data", 
+      "url": "https://www.semanticscholar.org/paper/084199521e3f4a05e70c397943da5c8586f769fd"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "fecaa939e99d2e223f4e5548242309c4284f1169", 
+      "title": "Investigating Citation Linkage Between Research Articles", 
+      "url": "https://www.semanticscholar.org/paper/fecaa939e99d2e223f4e5548242309c4284f1169"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "a640476a75266b5ca6449c3e275fe39b06d92fae", 
+      "title": "LEXA: Towards Automatic Legal Citation Classification", 
+      "url": "https://www.semanticscholar.org/paper/a640476a75266b5ca6449c3e275fe39b06d92fae"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "0f545b30cbc95846f890b53d48851df215815e69", 
+      "title": "Identifying citing sentences in research papers using supervised learning", 
+      "url": "https://www.semanticscholar.org/paper/0f545b30cbc95846f890b53d48851df215815e69"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "0093b68622f39bdef84394a5ae127a2a5344cb6e", 
+      "title": "Contextual information retrieval in research articles: Semantic publishing tools for the research community", 
+      "url": "https://www.semanticscholar.org/paper/0093b68622f39bdef84394a5ae127a2a5344cb6e"
+    }, 
+    {
+      "isInfluential": true, 
+      "paperId": "0e2c2aa2d87e68332fb4cca99f89aab941ab3a3a", 
+      "title": "The ACL Anthology Reference Corpus: A Reference Dataset for Bibliographic Research in Computational Linguistics", 
+      "url": "https://www.semanticscholar.org/paper/0e2c2aa2d87e68332fb4cca99f89aab941ab3a3a"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "04d749d184452bf7cf1b3490fadd794ab9edc0bb", 
+      "title": "Automated classification of author's sentiments in citation using machine learning techniques: A preliminary study", 
+      "url": "https://www.semanticscholar.org/paper/04d749d184452bf7cf1b3490fadd794ab9edc0bb"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "aff8ec694b55a42c861aeac9cbf8c121607b1f28", 
+      "title": "Making Sense of Massive Amounts of Scientific Publications: the Scientific Knowledge Miner Project", 
+      "url": "https://www.semanticscholar.org/paper/aff8ec694b55a42c861aeac9cbf8c121607b1f28"
+    }, 
+    {
+      "isInfluential": true, 
+      "paperId": "347f38c18d6025ab930b23b6ecdd43a3e16d3860", 
+      "title": "All Fingers are not Equal: Intensity of References in Scientific Articles", 
+      "url": "https://www.semanticscholar.org/paper/347f38c18d6025ab930b23b6ecdd43a3e16d3860"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "1ad3d4cb8a2e656a70fd1307fa79919a1f749b90", 
+      "title": "Towards a stratified learning approach to predict future citation counts", 
+      "url": "https://www.semanticscholar.org/paper/1ad3d4cb8a2e656a70fd1307fa79919a1f749b90"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "06f2205052f29cf07b479d83033390c38911fc31", 
+      "title": "Identification of Essential References Based on the Full Text of Scientific Papers and Its Application in Scientometrics", 
+      "url": "https://www.semanticscholar.org/paper/06f2205052f29cf07b479d83033390c38911fc31"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "57e9443d64e2545dbee470a5960017855dc97a5e", 
+      "title": "Citation content analysis (cca): A framework for syntactic and semantic analysis of citation content", 
+      "url": "https://www.semanticscholar.org/paper/57e9443d64e2545dbee470a5960017855dc97a5e"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "036c70cd07e4a2024eb71b2b1e0c1bc872cff107", 
+      "title": "Scientific Paper Summarization Using Citation Summary Networks", 
+      "url": "https://www.semanticscholar.org/paper/036c70cd07e4a2024eb71b2b1e0c1bc872cff107"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "3c462e9c41ffa1235ea8398562542b6c48182be1", 
+      "title": "\u0422\u0435\u0445\u043d\u043e\u043b\u043e\u0433\u0438\u044f \u0441\u0435\u043c\u0430\u043d\u0442\u0438\u0447\u0435\u0441\u043a\u043e\u0433\u043e \u0441\u0442\u0440\u0443\u043a\u0442\u0443\u0440\u0438\u0440\u043e\u0432\u0430\u043d\u0438\u044f \u043a\u043e\u043d\u0442\u0435\u043d\u0442\u0430 \u043d\u0430\u0443\u0447\u043d\u044b\u0445 \u044d\u043b\u0435\u043a\u0442\u0440\u043e\u043d\u043d\u044b\u0445 \u0431\u0438\u0431\u043b\u0438\u043e\u0442\u0435\u043a (A Technology for Semantic Structurization of Scientific Digital Library Content)", 
+      "url": "https://www.semanticscholar.org/paper/3c462e9c41ffa1235ea8398562542b6c48182be1"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "39dc9edc1edc3503e17b94750b8a00830d8bd349", 
+      "title": "Improving the accuracy of co-citation clustering using full text", 
+      "url": "https://www.semanticscholar.org/paper/39dc9edc1edc3503e17b94750b8a00830d8bd349"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "dea24facd3f8d3963422bc3a5eb629d6b9db3877", 
+      "title": "Identifying Functions of Citations with CiTalO", 
+      "url": "https://www.semanticscholar.org/paper/dea24facd3f8d3963422bc3a5eb629d6b9db3877"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "fe797097c3eb710294fc7e57faee7b6231687b0c", 
+      "title": "Identifying Important Citations Using Contextual Information from Full Text", 
+      "url": "https://www.semanticscholar.org/paper/fe797097c3eb710294fc7e57faee7b6231687b0c"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "3d6b79e7d64ae44ac185b738f026fce4894b11eb", 
+      "title": "Citation Handling for Improved Summmarization of Scientific Documents", 
+      "url": "https://www.semanticscholar.org/paper/3d6b79e7d64ae44ac185b738f026fce4894b11eb"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "355e67aef5923e2dcab8c40fc0b19d7047d59f4d", 
+      "title": "Citation Resolution: A method for evaluating context-based citation recommendation systems", 
+      "url": "https://www.semanticscholar.org/paper/355e67aef5923e2dcab8c40fc0b19d7047d59f4d"
+    }, 
+    {
+      "isInfluential": true, 
+      "paperId": "ad30dbedf02d6f99374e1931c49248096f955986", 
+      "title": "Sentiment Analysis of Citations using Sentence Structure-Based Features", 
+      "url": "https://www.semanticscholar.org/paper/ad30dbedf02d6f99374e1931c49248096f955986"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "285e78df8bff5695e492aeae1a5618c582b79fd8", 
+      "title": "Clustering Citation Distributions for Semantic Categorization and Citation Prediction", 
+      "url": "https://www.semanticscholar.org/paper/285e78df8bff5695e492aeae1a5618c582b79fd8"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "6e9bd3cd6b5238379b46b9f58f536a5f1e2a37fe", 
+      "title": "Do Peers See More in a Paper Than Its Authors?", 
+      "url": "https://www.semanticscholar.org/paper/6e9bd3cd6b5238379b46b9f58f536a5f1e2a37fe"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "3536657bff59ea2ca11c24abc0687d14cae484e2", 
+      "title": "Information extraction of extend relation in scientific papers", 
+      "url": "https://www.semanticscholar.org/paper/3536657bff59ea2ca11c24abc0687d14cae484e2"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "7db18db83f06339429e6a9fe47d60d27b1037f39", 
+      "title": "Whose idea was this? Deciding attribution in scientific literature", 
+      "url": "https://www.semanticscholar.org/paper/7db18db83f06339429e6a9fe47d60d27b1037f39"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "d4a9756bc83c6b33ada0e40d09d2d377761336b9", 
+      "title": "Extraction of Semantic Relationships from Academic Papers using Syntactic Patterns", 
+      "url": "https://www.semanticscholar.org/paper/d4a9756bc83c6b33ada0e40d09d2d377761336b9"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "bfc4e78a40ba5ab1e2464d34e3c7dd5c1f0cb9c9", 
+      "title": "A classification scheme for algorithm citation function in scholarly works", 
+      "url": "https://www.semanticscholar.org/paper/bfc4e78a40ba5ab1e2464d34e3c7dd5c1f0cb9c9"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "17dea59a07d756b90f8a7c923e60c2ec5908aee5", 
+      "title": "Whose Idea Was This, and Why Does it Matter? Attributing Scientific Work to Citations", 
+      "url": "https://www.semanticscholar.org/paper/17dea59a07d756b90f8a7c923e60c2ec5908aee5"
+    }, 
+    {
+      "isInfluential": true, 
+      "paperId": "92c43bf9bd0e535ab1fc7573dc192e6d4c25728d", 
+      "title": "Content-based citation analysis: The next generation of citation analysis", 
+      "url": "https://www.semanticscholar.org/paper/92c43bf9bd0e535ab1fc7573dc192e6d4c25728d"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "7c3b6a6b5c45c41e0a8bc2fac34712fe39101751", 
+      "title": "Citation Sentiment Analysis in Clinical Trial Papers", 
+      "url": "https://www.semanticscholar.org/paper/7c3b6a6b5c45c41e0a8bc2fac34712fe39101751"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "1011dc13c78e7e805ae93470ccf9053ea247772b", 
+      "title": "Improving Citation Polarity Classification with Product Reviews", 
+      "url": "https://www.semanticscholar.org/paper/1011dc13c78e7e805ae93470ccf9053ea247772b"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "1ca3fcebbd6448cac4220e81827f5e04dbf88b1d", 
+      "title": "Analyse discursive automatique du corpus ACL Anthology", 
+      "url": "https://www.semanticscholar.org/paper/1ca3fcebbd6448cac4220e81827f5e04dbf88b1d"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "4695e456a3f1aae12e4a5679ab8426d76f38d7c3", 
+      "title": "Evidence-Based Information Extraction for High Accuracy Citation and Author Name Identification", 
+      "url": "https://www.semanticscholar.org/paper/4695e456a3f1aae12e4a5679ab8426d76f38d7c3"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "64403390bdd1c72cffba1fb4d9db742df63384ea", 
+      "title": "G-Asks: An Intelligent Automatic Question Generation System for Academic Writing Support", 
+      "url": "https://www.semanticscholar.org/paper/64403390bdd1c72cffba1fb4d9db742df63384ea"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "2c8d5fc54717f4e910d1dedea622d1ffbb14333a", 
+      "title": "Setting our bibliographic references free: towards open citation data", 
+      "url": "https://www.semanticscholar.org/paper/2c8d5fc54717f4e910d1dedea622d1ffbb14333a"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "5941eed5b0b4d4834fdc8b8f626f2154dfa786b7", 
+      "title": "Trainable Citation-enhanced Summarization of Scientific Articles", 
+      "url": "https://www.semanticscholar.org/paper/5941eed5b0b4d4834fdc8b8f626f2154dfa786b7"
+    }, 
+    {
+      "isInfluential": true, 
+      "paperId": "53b3f433eeffbe5dd7e0704577c8d3829fd4f73c", 
+      "title": "Scientific Authoring Support: A Tool to Navigate in Typed Citation Graphs", 
+      "url": "https://www.semanticscholar.org/paper/53b3f433eeffbe5dd7e0704577c8d3829fd4f73c"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "f78df02e9fe49f19e67ea179ed26d2c1686739fe", 
+      "title": "Models of Scholarly Communication and Citation Analysis", 
+      "url": "https://www.semanticscholar.org/paper/f78df02e9fe49f19e67ea179ed26d2c1686739fe"
+    }, 
+    {
+      "isInfluential": true, 
+      "paperId": "737e7b7b695755bb86f9c89a215b162ec836cff9", 
+      "title": "The ACL Anthology Reference Corpus: a reference dataset for bibliographic research", 
+      "url": "https://www.semanticscholar.org/paper/737e7b7b695755bb86f9c89a215b162ec836cff9"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "b979976e4ef2b193c0275de3be155d5f3a8f0af5", 
+      "title": "Supporting Structured Browsing for Full-Text Scientific Research Reports", 
+      "url": "https://www.semanticscholar.org/paper/b979976e4ef2b193c0275de3be155d5f3a8f0af5"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "f8ec5b78b83b414491d12defda137b79a1fc0a65", 
+      "title": "Re-citation Analysis: A Promising Method for Improving Citation Analysis for Research Evaluation, Knowledge Network Analysis, Knowledge Representation and Information Retrieval", 
+      "url": "https://www.semanticscholar.org/paper/f8ec5b78b83b414491d12defda137b79a1fc0a65"
+    }, 
+    {
+      "isInfluential": true, 
+      "paperId": "12cee9d3ef89ec02fa0327f91c8e3e4c2de15f8f", 
+      "title": "Towards a Generic and Flexible Citation Classifier Based on a Faceted Classification Scheme", 
+      "url": "https://www.semanticscholar.org/paper/12cee9d3ef89ec02fa0327f91c8e3e4c2de15f8f"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "d6c17efe0ae07503173882c8c57008a413f54cca", 
+      "title": "Natural Language Processing for Intelligent Access to Scientific Information", 
+      "url": "https://www.semanticscholar.org/paper/d6c17efe0ae07503173882c8c57008a413f54cca"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "d5641d684df3a9e7c357923d109421fe4304ffa8", 
+      "title": "Identifying Meaningful Citations", 
+      "url": "https://www.semanticscholar.org/paper/d5641d684df3a9e7c357923d109421fe4304ffa8"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "59593f666468992dd8d2869f3eec1c13950830a6", 
+      "title": "Exploring Scholarly Papers Through Citations", 
+      "url": "https://www.semanticscholar.org/paper/59593f666468992dd8d2869f3eec1c13950830a6"
+    }, 
+    {
+      "isInfluential": true, 
+      "paperId": "168faeb22d9199ef0a389fdc89e4be26a990f9d3", 
+      "title": "NLP-driven citation analysis for scientometrics", 
+      "url": "https://www.semanticscholar.org/paper/168faeb22d9199ef0a389fdc89e4be26a990f9d3"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "0afa53779016e6b8852490ef360f98578ff3ebd1", 
+      "title": "Twenty-Five Shades of Greycite: Semantics for Referencing and Preservation", 
+      "url": "https://www.semanticscholar.org/paper/0afa53779016e6b8852490ef360f98578ff3ebd1"
+    }, 
+    {
+      "isInfluential": true, 
+      "paperId": "7fd3f066b627d3a7e6c1d005dc043ae812bab06f", 
+      "title": "RHECITAS: citation analysis of French humanities articles", 
+      "url": "https://www.semanticscholar.org/paper/7fd3f066b627d3a7e6c1d005dc043ae812bab06f"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "3612b052db3cdd6d80ea14fa258a834f193d1667", 
+      "title": "Reference Scope Identification in Citing Sentences", 
+      "url": "https://www.semanticscholar.org/paper/3612b052db3cdd6d80ea14fa258a834f193d1667"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "07c6ece2db96a2f606809615edb38c34e95dd32d", 
+      "title": "Measuring academic influence: Not all citations are equal", 
+      "url": "https://www.semanticscholar.org/paper/07c6ece2db96a2f606809615edb38c34e95dd32d"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "d0f0bdef8633dd650b433f815bf9e77e7f2c9894", 
+      "title": "Detection of Implicit Citations for Sentiment Detection", 
+      "url": "https://www.semanticscholar.org/paper/d0f0bdef8633dd650b433f815bf9e77e7f2c9894"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "305b4664ed61bad6f57fc5f4ad0def54d677e7cc", 
+      "title": "A Graphical Citation Browser for the ACL Anthology", 
+      "url": "https://www.semanticscholar.org/paper/305b4664ed61bad6f57fc5f4ad0def54d677e7cc"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "1de45d1563d6a36af3bc831ef54b9ebddc9dda39", 
+      "title": "The ACL anthology network corpus", 
+      "url": "https://www.semanticscholar.org/paper/1de45d1563d6a36af3bc831ef54b9ebddc9dda39"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "c0c322f6301a933f12e02a03d4c9f31480cb2bdc", 
+      "title": "Colil: a database and search service for citation contexts in the life sciences domain", 
+      "url": "https://www.semanticscholar.org/paper/c0c322f6301a933f12e02a03d4c9f31480cb2bdc"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "5a95219689d1d8e5dd6bba11e96a833fe4c1ec01", 
+      "title": "Improve Sentiment Analysis of Citations with Author Modelling", 
+      "url": "https://www.semanticscholar.org/paper/5a95219689d1d8e5dd6bba11e96a833fe4c1ec01"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "4292a1bde73e691e18ea86a0e9b73be04b04bf58", 
+      "title": "Towards the Automatic Identification of the Nature of Citations", 
+      "url": "https://www.semanticscholar.org/paper/4292a1bde73e691e18ea86a0e9b73be04b04bf58"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "c4f3f70c2c5fc9ddc78ee067e54ab2f3320e395f", 
+      "title": "Exploring Bibliographies for Research-related Tasks", 
+      "url": "https://www.semanticscholar.org/paper/c4f3f70c2c5fc9ddc78ee067e54ab2f3320e395f"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "17a95271f4ad41feede1b54f073a409841cd88b4", 
+      "title": "Purpose and Polarity of Citation: Towards NLP-based Bibliometrics", 
+      "url": "https://www.semanticscholar.org/paper/17a95271f4ad41feede1b54f073a409841cd88b4"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "d7dbb53d20c3ab724c98478eb6f3d5f29a7dde62", 
+      "title": "Tracing the indirect societal impacts of biomedical research: development and piloting of a technique based on citations", 
+      "url": "https://www.semanticscholar.org/paper/d7dbb53d20c3ab724c98478eb6f3d5f29a7dde62"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "788c9d41680f15be158981272ef5b782a4b19f1c", 
+      "title": "Solving the AL Chicken-and-Egg Corpus and Model Problem: Model-free Active Learning for Phenomena-driven Corpus Construction", 
+      "url": "https://www.semanticscholar.org/paper/788c9d41680f15be158981272ef5b782a4b19f1c"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "7f3e29b4281b5b6f9649e7fca9b85b5c476fad85", 
+      "title": "The differences between latent topics in abstracts and citation contexts of citing papers", 
+      "url": "https://www.semanticscholar.org/paper/7f3e29b4281b5b6f9649e7fca9b85b5c476fad85"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "6f63c417d169464dd425be12bbb2c15b1f496b5b", 
+      "title": "Joint Modeling of Topics, Citations, and Topical Authority in Academic Corpora", 
+      "url": "https://www.semanticscholar.org/paper/6f63c417d169464dd425be12bbb2c15b1f496b5b"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "05dec9ff0f48f45b09245ba0354748961f18ff77", 
+      "title": "Citation-Enhanced Keyphrase Extraction from Research Papers: A Supervised Approach", 
+      "url": "https://www.semanticscholar.org/paper/05dec9ff0f48f45b09245ba0354748961f18ff77"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "61476bdff8bddd1455b88d08094a8e9c14664d5d", 
+      "title": "How Reliable is Your Workflow: Monitoring Decay in Scholarly Publications", 
+      "url": "https://www.semanticscholar.org/paper/61476bdff8bddd1455b88d08094a8e9c14664d5d"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "1833ca623092a8fc145ae2f1b9d82df3ec8e7864", 
+      "title": "Using Terms from Citations for IR: Some First Results", 
+      "url": "https://www.semanticscholar.org/paper/1833ca623092a8fc145ae2f1b9d82df3ec8e7864"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "672e76d4c4d16132abb56fe2284e6c3c2927e5f2", 
+      "title": "Visual overviews for discovering key papers and influences across research fronts", 
+      "url": "https://www.semanticscholar.org/paper/672e76d4c4d16132abb56fe2284e6c3c2927e5f2"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "e504bf7d1f017ca95bb048f043716bf20fbb521d", 
+      "title": "Context-Enhanced Citation Sentiment Detection", 
+      "url": "https://www.semanticscholar.org/paper/e504bf7d1f017ca95bb048f043716bf20fbb521d"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "9fcc3086db30cbeb629dcd6706098dc4cd4cdcdf", 
+      "title": "Mining Opinion Polarity Relations of Citations", 
+      "url": "https://www.semanticscholar.org/paper/9fcc3086db30cbeb629dcd6706098dc4cd4cdcdf"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "a7878b02ec82a728c1280a9a8772c4dae92064bd", 
+      "title": "Evaluations of context-based co-citation searching", 
+      "url": "https://www.semanticscholar.org/paper/a7878b02ec82a728c1280a9a8772c4dae92064bd"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "a67f1f0dac9eab51f444a1c22215ebc972b05fa1", 
+      "title": "Rediscovering ACL Discoveries Through the Lens of ACL Anthology Network Citing Sentences", 
+      "url": "https://www.semanticscholar.org/paper/a67f1f0dac9eab51f444a1c22215ebc972b05fa1"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "a2c0f246616d482a2c0802232ce202366dfc0512", 
+      "title": "Predicting Text Quality: Metrics for Content, Organization and Reader Interest", 
+      "url": "https://www.semanticscholar.org/paper/a2c0f246616d482a2c0802232ce202366dfc0512"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "9e20cd27eca603d367d7a7c6610ba9d0b0218054", 
+      "title": "Recognizing cited facts and principles in legal judgements", 
+      "url": "https://www.semanticscholar.org/paper/9e20cd27eca603d367d7a7c6610ba9d0b0218054"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "5dcb4939c7c9d9ee3713ce7525acd1e62b0a9c4a", 
+      "title": "Generating surveys of scientific paradigms", 
+      "url": "https://www.semanticscholar.org/paper/5dcb4939c7c9d9ee3713ce7525acd1e62b0a9c4a"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "83b9751627507ba03c653fabb8aed81da6a9ce6d", 
+      "title": "A Citation-based Approach to Automatic Paper Summarization", 
+      "url": "https://www.semanticscholar.org/paper/83b9751627507ba03c653fabb8aed81da6a9ce6d"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "e699cf4bac47cad7b2bd723168d1b7f60ab17880", 
+      "title": "Survey on research paper's relations", 
+      "url": "https://www.semanticscholar.org/paper/e699cf4bac47cad7b2bd723168d1b7f60ab17880"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "86d386c09c3e2cdf9d6e13ea4bb7f2ef519011ee", 
+      "title": "Coherent Citation-Based Summarization of Scientific Papers", 
+      "url": "https://www.semanticscholar.org/paper/86d386c09c3e2cdf9d6e13ea4bb7f2ef519011ee"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "d4ad674cecc357b09ddddab1cf5e0d697bda898c", 
+      "title": "FeatureForge: A Novel Tool for Visually Supported Feature Engineering and Corpus Revision", 
+      "url": "https://www.semanticscholar.org/paper/d4ad674cecc357b09ddddab1cf5e0d697bda898c"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "292c2792f9f2bbc6cbb15e12291aa7d10ade795c", 
+      "title": "Classification of Research Citations (CRC)", 
+      "url": "https://www.semanticscholar.org/paper/292c2792f9f2bbc6cbb15e12291aa7d10ade795c"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "dfd61317fa7b8dfc63e3462d7c590c75b92964b4", 
+      "title": "Citation Semantic Based Approaches to Identify Article Quality", 
+      "url": "https://www.semanticscholar.org/paper/dfd61317fa7b8dfc63e3462d7c590c75b92964b4"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "03f3bbc3d8f99a8a39ba97ec3bbb12edf9008ecc", 
+      "title": "Towards Citation-Based Summarization of Biomedical Literature", 
+      "url": "https://www.semanticscholar.org/paper/03f3bbc3d8f99a8a39ba97ec3bbb12edf9008ecc"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "8605683fd5080c852095c51177f4f374a5ed2fe5", 
+      "title": "Language Resources and Chemical Informatics", 
+      "url": "https://www.semanticscholar.org/paper/8605683fd5080c852095c51177f4f374a5ed2fe5"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "2f10e56f8e2c3155548a2bf4bbffef96bcfd262b", 
+      "title": "TAKE Scientist's Workbench: Semantic Search and Citation-Based Visual Navigation in Scholar Papers", 
+      "url": "https://www.semanticscholar.org/paper/2f10e56f8e2c3155548a2bf4bbffef96bcfd262b"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "443a5a215ee52c983fcde5d1ce71c1882af379ed", 
+      "title": "Automatic Extraction of Citation Contexts for Research Paper Summarization: A Coreference-chain based Approach", 
+      "url": "https://www.semanticscholar.org/paper/443a5a215ee52c983fcde5d1ce71c1882af379ed"
+    }, 
+    {
+      "isInfluential": true, 
+      "paperId": "0178833292bc0ed731a251e47e7e7ea40ecd3d6c", 
+      "title": "Citation Classification for Behavioral Analysis of a Scientific Field", 
+      "url": "https://www.semanticscholar.org/paper/0178833292bc0ed731a251e47e7e7ea40ecd3d6c"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "6ba48a657c900e1b8700e3a2b88e6f355b520f6e", 
+      "title": "A Citation Centric Annotation Scheme for Scientific Articles", 
+      "url": "https://www.semanticscholar.org/paper/6ba48a657c900e1b8700e3a2b88e6f355b520f6e"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "2b80aad64b726c9e260532947f4fda9c15ac9122", 
+      "title": "An annotation scheme for citation function", 
+      "url": "https://www.semanticscholar.org/paper/2b80aad64b726c9e260532947f4fda9c15ac9122"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "f82d90b5b19db754bec5bf4354eaaf21e5e6d20e", 
+      "title": "Towards Discipline-Independent Argumentative Zoning: Evidence from Chemistry and Computational Linguistics", 
+      "url": "https://www.semanticscholar.org/paper/f82d90b5b19db754bec5bf4354eaaf21e5e6d20e"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "624274526764063e1164dfbc04c6460bd592ca19", 
+      "title": "Document clustering of scientific texts using citation contexts", 
+      "url": "https://www.semanticscholar.org/paper/624274526764063e1164dfbc04c6460bd592ca19"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "b31a24a57b6246ca5174ea81b2ef098b2e239c4f", 
+      "title": "Characterising Citations in Scholarly Articles: An Experiment", 
+      "url": "https://www.semanticscholar.org/paper/b31a24a57b6246ca5174ea81b2ef098b2e239c4f"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "89d3e1fb3e164242fbca6bd2dfe1426dc724b2b7", 
+      "title": "Intelligent Sensemaking of Scientific Literature Through Citation Scent", 
+      "url": "https://www.semanticscholar.org/paper/89d3e1fb3e164242fbca6bd2dfe1426dc724b2b7"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "d0d209e90dca8541f49b7fd66091a6e1f44409cb", 
+      "title": "Characterising Citations in Scholarly Documents: The CiTalO Framework", 
+      "url": "https://www.semanticscholar.org/paper/d0d209e90dca8541f49b7fd66091a6e1f44409cb"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "1b04ce469c393a423bbdcf3d02fc25d2d6a88e24", 
+      "title": "The Structure of Scientific Articles: Applications to Summarisation and Citation Indexing", 
+      "url": "https://www.semanticscholar.org/paper/1b04ce469c393a423bbdcf3d02fc25d2d6a88e24"
+    }, 
+    {
+      "isInfluential": true, 
+      "paperId": "87ca913d0851a0cde70482ca4a58d5c687c2e365", 
+      "title": "Computer models for identifying instrumental citations in the biomedical literature", 
+      "url": "https://www.semanticscholar.org/paper/87ca913d0851a0cde70482ca4a58d5c687c2e365"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "3c9db0939691ccd87feffb9bebcc7c33b887216f", 
+      "title": "Accurate Argumentative Zoning with Maximum Entropy models", 
+      "url": "https://www.semanticscholar.org/paper/3c9db0939691ccd87feffb9bebcc7c33b887216f"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "b8a031e2e27059bb546af11bbf2a66acf31b6a2b", 
+      "title": "Citation Handling: Processing Citation Texts in Scientific Documents", 
+      "url": "https://www.semanticscholar.org/paper/b8a031e2e27059bb546af11bbf2a66acf31b6a2b"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "174985f2dfc72f56a88373316a8c18895a2f749a", 
+      "title": "Identifying Non-Explicit Citing Sentences for Citation-Based Summarization", 
+      "url": "https://www.semanticscholar.org/paper/174985f2dfc72f56a88373316a8c18895a2f749a"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "b3adaf9146d4acbd803c438f52fd67b89b2fcb39", 
+      "title": "Weak Links and Strong Meaning: The Complex Phenomenon of Negational Citations", 
+      "url": "https://www.semanticscholar.org/paper/b3adaf9146d4acbd803c438f52fd67b89b2fcb39"
+    }
+  ], 
+  "doi": null, 
+  "influentialCitationCount": 19, 
+  "paperId": "0d93ed75dde134a191d43a34f965d99943f2c54e", 
+  "references": [
+    {
+      "isInfluential": false, 
+      "paperId": "4f1fe957a29a2e422d4034f4510644714d33fb20", 
+      "title": "Thumbs up? Sentiment Classification using Machine Learning Techniques", 
+      "url": "https://www.semanticscholar.org/paper/4f1fe957a29a2e422d4034f4510644714d33fb20"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "1b671b301eec1c9c0e1ecac0c5a16087f235446e", 
+      "title": "Argumentative Zoning: Information Extraction from Scientific Text", 
+      "url": "https://www.semanticscholar.org/paper/1b671b301eec1c9c0e1ecac0c5a16087f235446e"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "e4fd8f2adf10b9b7b44abffc1d5a4a31125749e3", 
+      "title": "Data Mining: Practical Machine Learning Tools and Techniques - Book Review", 
+      "url": "https://www.semanticscholar.org/paper/e4fd8f2adf10b9b7b44abffc1d5a4a31125749e3"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "ed5cdd27b0714d16ab1c592328e56398c2ab7c05", 
+      "title": "Summarising Scientific Articles \u2014 Experiments with Relevance and Rhetorical Status", 
+      "url": "https://www.semanticscholar.org/paper/ed5cdd27b0714d16ab1c592328e56398c2ab7c05"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "80d72e5e0ea47dc6acb75ac468181085e2f90a42", 
+      "title": "Evolving the Web for Scientific Knowledge: First Steps Towards an O\u0300HCI Knowledge WebO\u0301", 
+      "url": "https://www.semanticscholar.org/paper/80d72e5e0ea47dc6acb75ac468181085e2f90a42"
+    }, 
+    {
+      "isInfluential": true, 
+      "paperId": "56d36c2535c867613997688f649cf0461171dbe8", 
+      "title": "CiteSeer: An Automatic Citation Indexing System", 
+      "url": "https://www.semanticscholar.org/paper/56d36c2535c867613997688f649cf0461171dbe8"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "54069c6cf541a451cea6bff0af67ff7c6370236a", 
+      "title": "Creating a Test Collection for Citation-based IR Experiments", 
+      "url": "https://www.semanticscholar.org/paper/54069c6cf541a451cea6bff0af67ff7c6370236a"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "288e26f6bc20dbe205672417af4825a0d1924dbe", 
+      "title": "Assessing agreement on classification tasks: the kappa statistic", 
+      "url": "https://www.semanticscholar.org/paper/288e26f6bc20dbe205672417af4825a0d1924dbe"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "006e3327e879c970e197bb994db3f46427333521", 
+      "title": "Characteristics of a Literature as Predictors of Relatedness Between Cited and Citing Works", 
+      "url": "https://www.semanticscholar.org/paper/006e3327e879c970e197bb994db3f46427333521"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "99455e1ab3cae50ea23b1ad04dc36edd2487373f", 
+      "title": "Citing statements: Computer recognition and use to improve retrieval", 
+      "url": "https://www.semanticscholar.org/paper/99455e1ab3cae50ea23b1ad04dc36edd2487373f"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "2b80aad64b726c9e260532947f4fda9c15ac9122", 
+      "title": "An annotation scheme for citation function", 
+      "url": "https://www.semanticscholar.org/paper/2b80aad64b726c9e260532947f4fda9c15ac9122"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "62a72041555aef0b607ced6ada983a5c92cdf7de", 
+      "title": "Scholarly communication and bibliometrics", 
+      "url": "https://www.semanticscholar.org/paper/62a72041555aef0b607ced6ada983a5c92cdf7de"
+    }, 
+    {
+      "isInfluential": true, 
+      "paperId": "093b0648a136a67031f9d5e13c25be32c381704a", 
+      "title": "Citation Indexing-Its Theory and Application in Science, Technology, and Humanities", 
+      "url": "https://www.semanticscholar.org/paper/093b0648a136a67031f9d5e13c25be32c381704a"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "033b62167e7358c429738092109311af696e9137", 
+      "title": "Thumbs Up or Thumbs Down? Semantic Orientation Applied to Unsupervised Classification of Reviews", 
+      "url": "https://www.semanticscholar.org/paper/033b62167e7358c429738092109311af696e9137"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "6160d37a7871cef2d6450832507b53201aa66682", 
+      "title": "Evaluating Text Categorization I", 
+      "url": "https://www.semanticscholar.org/paper/6160d37a7871cef2d6450832507b53201aa66682"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "178286f3640f9c5c8c129799d6b00f313481d13a", 
+      "title": "A Re-Examination of Text Categorization Methods", 
+      "url": "https://www.semanticscholar.org/paper/178286f3640f9c5c8c129799d6b00f313481d13a"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "a450d6952c3750fb36cd867ef3baea75930e2185", 
+      "title": "A Bootstrapping Approach to Unsupervised Detection of Cue Phrase Variants", 
+      "url": "https://www.semanticscholar.org/paper/a450d6952c3750fb36cd867ef3baea75930e2185"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "1ad870c80485df0549e1878d13295734110c8660", 
+      "title": "How To Find Better Index Terms Through Citations", 
+      "url": "https://www.semanticscholar.org/paper/1ad870c80485df0549e1878d13295734110c8660"
+    }
+  ], 
+  "title": "Automatic classification of citation function", 
+  "url": "https://www.semanticscholar.org/paper/0d93ed75dde134a191d43a34f965d99943f2c54e", 
+  "venue": "EMNLP"
+}

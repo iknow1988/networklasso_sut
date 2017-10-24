@@ -1,0 +1,847 @@
+{
+  "authors": [
+    {
+      "authorId": "2776283", 
+      "name": "Stephan Gouws", 
+      "url": "https://www.semanticscholar.org/author/2776283"
+    }, 
+    {
+      "authorId": "1751762", 
+      "name": "Yoshua Bengio", 
+      "url": "https://www.semanticscholar.org/author/1751762"
+    }, 
+    {
+      "authorId": "1701166", 
+      "name": "Gregory S. Corrado", 
+      "url": "https://www.semanticscholar.org/author/1701166"
+    }
+  ], 
+  "citationVelocity": 44, 
+  "citations": [
+    {
+      "isInfluential": false, 
+      "paperId": "bc6d5756b93d0d4ba7b274a072eca70f81721686", 
+      "title": "Linking Tweets with Monolingual and Cross-Lingual News using Transformed Word Embeddings", 
+      "url": "https://www.semanticscholar.org/paper/bc6d5756b93d0d4ba7b274a072eca70f81721686", 
+      "venue": "", 
+      "year": 2017
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "cc20e33bd43caad8cf50fabe364088f0a9661686", 
+      "title": "Bilingual Word Embeddings with Bucketed CNN for Parallel Sentence Extraction", 
+      "url": "https://www.semanticscholar.org/paper/cc20e33bd43caad8cf50fabe364088f0a9661686", 
+      "venue": "ACL", 
+      "year": 2017
+    }, 
+    {
+      "isInfluential": true, 
+      "paperId": "6c807b9500d96e349bcd3b6215e2b8a0392576b4", 
+      "title": "Bilingual Distributed Word Representations from Document-Aligned Comparable Data", 
+      "url": "https://www.semanticscholar.org/paper/6c807b9500d96e349bcd3b6215e2b8a0392576b4", 
+      "venue": "J. Artif. Intell. Res.", 
+      "year": 2016
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "0c8cc142ae61a0c76b722b216b92e29c777f4490", 
+      "title": "Learning Semantic Representations for Nonterminals in Hierarchical Phrase-Based Translation", 
+      "url": "https://www.semanticscholar.org/paper/0c8cc142ae61a0c76b722b216b92e29c777f4490", 
+      "venue": "EMNLP", 
+      "year": 2015
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "a3871d05b158d553b4c055c7ee90469f7dec06ee", 
+      "title": "Semantic word embedding neural network language models for automatic speech recognition", 
+      "url": "https://www.semanticscholar.org/paper/a3871d05b158d553b4c055c7ee90469f7dec06ee", 
+      "venue": "2016 IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP)", 
+      "year": 2016
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "61f0d79531f1d4aaee31a5792aed05774bf1bd16", 
+      "title": "Towards cross-lingual distributed representations without parallel text trained with adversarial autoencoders", 
+      "url": "https://www.semanticscholar.org/paper/61f0d79531f1d4aaee31a5792aed05774bf1bd16", 
+      "venue": "ArXiv", 
+      "year": 2016
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "3066a1534da49d11ed43837588010030a690371b", 
+      "title": "Transfer learning for speech and language processing", 
+      "url": "https://www.semanticscholar.org/paper/3066a1534da49d11ed43837588010030a690371b", 
+      "venue": "2015 Asia-Pacific Signal and Information Processing Association Annual Summit and Conference (APSIPA)", 
+      "year": 2015
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "76bbfda9392d5bd07fe2cf6a4b24abfd432e5f3c", 
+      "title": "Leveraging Large Amounts of Weakly Supervised Data for Multi-Language Sentiment Classification", 
+      "url": "https://www.semanticscholar.org/paper/76bbfda9392d5bd07fe2cf6a4b24abfd432e5f3c", 
+      "venue": "WWW", 
+      "year": 2017
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "16aed73dacbe29c074bee656c117144466ff47ab", 
+      "title": "BattRAE: Bidimensional Attention-Based Recursive Autoencoders for Learning Bilingual Phrase Embeddings", 
+      "url": "https://www.semanticscholar.org/paper/16aed73dacbe29c074bee656c117144466ff47ab", 
+      "venue": "AAAI", 
+      "year": 2017
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "d3de0cda5f2069060d95932308584c8693b9d3f4", 
+      "title": "Multi-label, Multi-class Classification Using Polylingual Embeddings", 
+      "url": "https://www.semanticscholar.org/paper/d3de0cda5f2069060d95932308584c8693b9d3f4", 
+      "venue": "ECIR", 
+      "year": 2016
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "33352f0d1bcc2c84743b10a58ffa15525d9913ad", 
+      "title": "SemEval-2017 Task 2: Multilingual and Cross-lingual Semantic Word Similarity", 
+      "url": "https://www.semanticscholar.org/paper/33352f0d1bcc2c84743b10a58ffa15525d9913ad", 
+      "venue": "SemEval@ACL", 
+      "year": 2017
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "d0c4a306765ec20b7836af5b70f121d75fa0fe7f", 
+      "title": "Reranking Translation Candidates Produced by Several Bilingual Word Similarity Sources", 
+      "url": "https://www.semanticscholar.org/paper/d0c4a306765ec20b7836af5b70f121d75fa0fe7f", 
+      "venue": "EACL", 
+      "year": 2017
+    }, 
+    {
+      "isInfluential": true, 
+      "paperId": "1e37e2d3faaaa797ce31a53abc0aabe9b08cb5c5", 
+      "title": "MultiVec: a Multilingual and Multilevel Representation Learning Toolkit for NLP", 
+      "url": "https://www.semanticscholar.org/paper/1e37e2d3faaaa797ce31a53abc0aabe9b08cb5c5", 
+      "venue": "LREC", 
+      "year": 2016
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "308217b6b271af78f20ff2c7e4afe8b7cfd123f2", 
+      "title": "Query Translation for Cross-Language Information Retrieval using Multilingual Word Clusters", 
+      "url": "https://www.semanticscholar.org/paper/308217b6b271af78f20ff2c7e4afe8b7cfd123f2", 
+      "venue": "", 
+      "year": 2016
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "4324d03686dc13c0706bc08776f7b2195e7dbca4", 
+      "title": "Bridge Correlational Neural Networks for Multilingual Multimodal Representation Learning", 
+      "url": "https://www.semanticscholar.org/paper/4324d03686dc13c0706bc08776f7b2195e7dbca4", 
+      "venue": "HLT-NAACL", 
+      "year": 2016
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "1b2f2bb90fb08d0e02eabb152120dbf1d6e5837e", 
+      "title": "Multilingual Word Embeddings using Multigraphs", 
+      "url": "https://www.semanticscholar.org/paper/1b2f2bb90fb08d0e02eabb152120dbf1d6e5837e", 
+      "venue": "ArXiv", 
+      "year": 2016
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "22bbde633c8858321b45ab2b671ab3768f98c31c", 
+      "title": "Unsupervised Cross-Domain Word Representation Learning", 
+      "url": "https://www.semanticscholar.org/paper/22bbde633c8858321b45ab2b671ab3768f98c31c", 
+      "venue": "ACL", 
+      "year": 2015
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "9486f640f90b7c3ddb0d8adff6fa16dd9758746a", 
+      "title": "Vocabulary Selection Strategies for Neural Machine Translation", 
+      "url": "https://www.semanticscholar.org/paper/9486f640f90b7c3ddb0d8adff6fa16dd9758746a", 
+      "venue": "ArXiv", 
+      "year": 2016
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "42636e49faeb9d8eefac065979115c685fec1bab", 
+      "title": "Learning Crosslingual Word Embeddings without Bilingual Corpora", 
+      "url": "https://www.semanticscholar.org/paper/42636e49faeb9d8eefac065979115c685fec1bab", 
+      "venue": "EMNLP", 
+      "year": 2016
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "c65ecfd126f8218df9d589c5e4b6eca4dfd45ad4", 
+      "title": "Cross-Lingual Sentiment Classification with Bilingual Document Representation Learning", 
+      "url": "https://www.semanticscholar.org/paper/c65ecfd126f8218df9d589c5e4b6eca4dfd45ad4", 
+      "venue": "ACL", 
+      "year": 2016
+    }, 
+    {
+      "isInfluential": true, 
+      "paperId": "8286f4d4e3cca04367f6d6a8e4381e1f2800a641", 
+      "title": "Bilingual Word Embeddings from Non-Parallel Document-Aligned Data Applied to Bilingual Lexicon Induction", 
+      "url": "https://www.semanticscholar.org/paper/8286f4d4e3cca04367f6d6a8e4381e1f2800a641", 
+      "venue": "ACL", 
+      "year": 2015
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "b31a60f21dae6adfc66e6c1c04bc74b57638b000", 
+      "title": "Attention-based LSTM Network for Cross-Lingual Sentiment Classification", 
+      "url": "https://www.semanticscholar.org/paper/b31a60f21dae6adfc66e6c1c04bc74b57638b000", 
+      "venue": "EMNLP", 
+      "year": 2016
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "5f560cdb625d4ba7557e9465b4aa86e57c22f915", 
+      "title": "C-BiLDA extracting cross-lingual topics from non-parallel texts by distinguishing shared from unshared content", 
+      "url": "https://www.semanticscholar.org/paper/5f560cdb625d4ba7557e9465b4aa86e57c22f915", 
+      "venue": "Data Mining and Knowledge Discovery", 
+      "year": 2015
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "01f75cbff2795a3f51beedaf9da684316f01f0aa", 
+      "title": "Multilingual Training of Crosslingual Word Embeddings", 
+      "url": "https://www.semanticscholar.org/paper/01f75cbff2795a3f51beedaf9da684316f01f0aa", 
+      "venue": "EACL", 
+      "year": 2017
+    }, 
+    {
+      "isInfluential": true, 
+      "paperId": "3cae545db5efc9d65446ebe4cc3e2b7aff9f9ec0", 
+      "title": "Trans-gram, Fast Cross-lingual Word-embeddings", 
+      "url": "https://www.semanticscholar.org/paper/3cae545db5efc9d65446ebe4cc3e2b7aff9f9ec0", 
+      "venue": "EMNLP", 
+      "year": 2015
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "079dac954e7e23acc0771384b79488217d5ef302", 
+      "title": "Sparse Bilingual Word Representations for Cross-lingual Lexical Entailment", 
+      "url": "https://www.semanticscholar.org/paper/079dac954e7e23acc0771384b79488217d5ef302", 
+      "venue": "HLT-NAACL", 
+      "year": 2016
+    }, 
+    {
+      "isInfluential": true, 
+      "paperId": "9b252a3318efbe39f95520d1d03a787059430035", 
+      "title": "On the Role of Seed Lexicons in Learning Bilingual Word Embeddings", 
+      "url": "https://www.semanticscholar.org/paper/9b252a3318efbe39f95520d1d03a787059430035", 
+      "venue": "ACL", 
+      "year": 2016
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "69c5dd571597314e6133f0fc4e0fa64aa8eca0f4", 
+      "title": "Enriching Phrase Tables for Statistical Machine Translation Using Mixed Embeddings", 
+      "url": "https://www.semanticscholar.org/paper/69c5dd571597314e6133f0fc4e0fa64aa8eca0f4", 
+      "venue": "COLING", 
+      "year": 2016
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "2fc4d97cf18f5add41abd409a155af5ef5ffc391", 
+      "title": "A Strong Baseline for Learning Cross-Lingual Word Embeddings from Sentence Alignments", 
+      "url": "https://www.semanticscholar.org/paper/2fc4d97cf18f5add41abd409a155af5ef5ffc391", 
+      "venue": "EACL", 
+      "year": 2017
+    }, 
+    {
+      "isInfluential": true, 
+      "paperId": "1ee4889d608144dbc8e3efa69d7577c381ba4c92", 
+      "title": "Learning Bilingual Projections of Embeddings for Vocabulary Expansion in Machine Translation", 
+      "url": "https://www.semanticscholar.org/paper/1ee4889d608144dbc8e3efa69d7577c381ba4c92", 
+      "venue": "", 
+      "year": 2017
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "3dbd28c63a7807280c9531735c715d4598024166", 
+      "title": "A survey of cross-lingual embedding models", 
+      "url": "https://www.semanticscholar.org/paper/3dbd28c63a7807280c9531735c715d4598024166", 
+      "venue": "ArXiv", 
+      "year": 2017
+    }, 
+    {
+      "isInfluential": true, 
+      "paperId": "41cd54e6c66684dd2dd627ebcaec03a18a50cf52", 
+      "title": "Bilingual Word Embeddings from Parallel and Non-parallel Corpora for Cross-Language Text Classification", 
+      "url": "https://www.semanticscholar.org/paper/41cd54e6c66684dd2dd627ebcaec03a18a50cf52", 
+      "venue": "HLT-NAACL", 
+      "year": 2016
+    }, 
+    {
+      "isInfluential": true, 
+      "paperId": "a65bbf57933e7d6cdc2dbb7e845f91256b2f9473", 
+      "title": "Building Earth Mover's Distance on Bilingual Word Embeddings for Machine Translation", 
+      "url": "https://www.semanticscholar.org/paper/a65bbf57933e7d6cdc2dbb7e845f91256b2f9473", 
+      "venue": "AAAI", 
+      "year": 2016
+    }, 
+    {
+      "isInfluential": true, 
+      "paperId": "eb8d32388012889ed438c3b0191f4ab614c5b80a", 
+      "title": "Cross-Lingual Sentiment Analysis Without (Good) Translation", 
+      "url": "https://www.semanticscholar.org/paper/eb8d32388012889ed438c3b0191f4ab614c5b80a", 
+      "venue": "ArXiv", 
+      "year": 2017
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "06e6f22e0a22a03763f24fcaaf7d982638b7c3a8", 
+      "title": "Sharing Network Parameters for Crosslingual Named Entity Recognition", 
+      "url": "https://www.semanticscholar.org/paper/06e6f22e0a22a03763f24fcaaf7d982638b7c3a8", 
+      "venue": "ArXiv", 
+      "year": 2016
+    }, 
+    {
+      "isInfluential": true, 
+      "paperId": "592b05824b6b9be51bdbf9887074bc23c76961ca", 
+      "title": "Cross-lingual Text Classification via Model Translation with Limited Dictionaries", 
+      "url": "https://www.semanticscholar.org/paper/592b05824b6b9be51bdbf9887074bc23c76961ca", 
+      "venue": "CIKM", 
+      "year": 2016
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "7770d13fe9dd51081e28667f0034358c9e4d84e7", 
+      "title": "Learning Monolingual Compositional Representations via Bilingual Supervision", 
+      "url": "https://www.semanticscholar.org/paper/7770d13fe9dd51081e28667f0034358c9e4d84e7", 
+      "venue": "ACL", 
+      "year": 2016
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "1f1adbc5a2497102aca3cc28b2382f7e417a17fa", 
+      "title": "Deep Multilingual Correlation for Improved Word Embeddings", 
+      "url": "https://www.semanticscholar.org/paper/1f1adbc5a2497102aca3cc28b2382f7e417a17fa", 
+      "venue": "HLT-NAACL", 
+      "year": 2015
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "0954340522c14124f6ac565ca4cf8281a3db9276", 
+      "title": "Bilingual Lexicon Induction by Learning to Combine Word-Level and Character-Level Representations", 
+      "url": "https://www.semanticscholar.org/paper/0954340522c14124f6ac565ca4cf8281a3db9276", 
+      "venue": "EACL", 
+      "year": 2017
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "e8b8db70f3c5c551eb4812d8e261261edb54202b", 
+      "title": "An expectation-maximization algorithm for query translation based on pseudo-relevant documents", 
+      "url": "https://www.semanticscholar.org/paper/e8b8db70f3c5c551eb4812d8e261261edb54202b", 
+      "venue": "Inf. Process. Manage.", 
+      "year": 2017
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "1a26944adec8782e5c7001008c584a08bf3e873a", 
+      "title": "Ten Pairs to Tag - Multilingual POS Tagging via Coarse Mapping between Embeddings", 
+      "url": "https://www.semanticscholar.org/paper/1a26944adec8782e5c7001008c584a08bf3e873a", 
+      "venue": "HLT-NAACL", 
+      "year": 2016
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "d6ae7ae2779f91b9fd5ea227cb03abc5a12c88a1", 
+      "title": "Learning Distributed Representations for Multilingual Text Sequences", 
+      "url": "https://www.semanticscholar.org/paper/d6ae7ae2779f91b9fd5ea227cb03abc5a12c88a1", 
+      "venue": "VS@HLT-NAACL", 
+      "year": 2015
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "1df6f4a19cdf00062ae8400846686400ba76b1f1", 
+      "title": "Weakly Supervised Cross-Lingual Named Entity Recognition via Effective Annotation and Representation Projection", 
+      "url": "https://www.semanticscholar.org/paper/1df6f4a19cdf00062ae8400846686400ba76b1f1", 
+      "venue": "ACL", 
+      "year": 2017
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "ab1d92f9f6609ce3da43db080b3372061b6df131", 
+      "title": "Quality Estimation from Scratch", 
+      "url": "https://www.semanticscholar.org/paper/ab1d92f9f6609ce3da43db080b3372061b6df131", 
+      "venue": "", 
+      "year": 2016
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "666f6bbb513e43c69ecd7c8ea8f38c894e093478", 
+      "title": "Cross-lingual Dependency Parsing Based on Distributed Representations", 
+      "url": "https://www.semanticscholar.org/paper/666f6bbb513e43c69ecd7c8ea8f38c894e093478", 
+      "venue": "ACL", 
+      "year": 2015
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "3bf1b6fbc9b64a1fe81c484aded98b1be31561fd", 
+      "title": "Bilingual Learning of Multi-sense Embeddings with Discrete Autoencoders", 
+      "url": "https://www.semanticscholar.org/paper/3bf1b6fbc9b64a1fe81c484aded98b1be31561fd", 
+      "venue": "HLT-NAACL", 
+      "year": 2016
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "73e95a591378bdea4b23de15a8ab2d909a302ec4", 
+      "title": "Efficient Data Selection for Bilingual Terminology Extraction from Comparable Corpora", 
+      "url": "https://www.semanticscholar.org/paper/73e95a591378bdea4b23de15a8ab2d909a302ec4", 
+      "venue": "COLING", 
+      "year": 2016
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "39fc4136295ffae99ca0cb5c20b9b34f37be2566", 
+      "title": "A Variational Autoencoding Approach for Inducing Cross-lingual Word Embeddings", 
+      "url": "https://www.semanticscholar.org/paper/39fc4136295ffae99ca0cb5c20b9b34f37be2566", 
+      "venue": "IJCAI", 
+      "year": 2017
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "5068d09bb8ce6166fc6f4ca79363b37359082ac6", 
+      "title": "Unsupervised and Lightly Supervised Part-of-Speech Tagging Using Recurrent Neural Networks", 
+      "url": "https://www.semanticscholar.org/paper/5068d09bb8ce6166fc6f4ca79363b37359082ac6", 
+      "venue": "PACLIC", 
+      "year": 2015
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "9aff7dc44de56a18321f235ec7222d0506ca6378", 
+      "title": "Dimension Projection among Languages based on Pseudo-relevant Documents for Query Translation", 
+      "url": "https://www.semanticscholar.org/paper/9aff7dc44de56a18321f235ec7222d0506ca6378", 
+      "venue": "ECIR", 
+      "year": 2017
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "9a2eed5f8175275af0d55d4aed39afc8e2b2acf2", 
+      "title": "Learning principled bilingual mappings of word embeddings while preserving monolingual invariance", 
+      "url": "https://www.semanticscholar.org/paper/9a2eed5f8175275af0d55d4aed39afc8e2b2acf2", 
+      "venue": "EMNLP", 
+      "year": 2016
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "247d66d30591fc0707e076da3d1a269c2b4fdf74", 
+      "title": "Adversarial Training for Unsupervised Bilingual Lexicon Induction", 
+      "url": "https://www.semanticscholar.org/paper/247d66d30591fc0707e076da3d1a269c2b4fdf74", 
+      "venue": "ACL", 
+      "year": 2017
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "02e45b3472fa4c879f8e9ca0dbb283c774a338cb", 
+      "title": "Offline bilingual word vectors, orthogonal transformations and the inverted softmax", 
+      "url": "https://www.semanticscholar.org/paper/02e45b3472fa4c879f8e9ca0dbb283c774a338cb", 
+      "venue": "ArXiv", 
+      "year": 2017
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "7cc7a9d147a1178cb89bc8cf756fbd6e17ddbd69", 
+      "title": "Low-dimensional Query Projection based on Divergence Minimization Feedback Model for Ad-hoc Retrieval", 
+      "url": "https://www.semanticscholar.org/paper/7cc7a9d147a1178cb89bc8cf756fbd6e17ddbd69", 
+      "venue": "ArXiv", 
+      "year": 2016
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "729b9e72aba785e8f550fd102e8442a04f3f9a0d", 
+      "title": "Analyzing Semantic Change in Japanese Loanwords", 
+      "url": "https://www.semanticscholar.org/paper/729b9e72aba785e8f550fd102e8442a04f3f9a0d", 
+      "venue": "EACL", 
+      "year": 2017
+    }, 
+    {
+      "isInfluential": true, 
+      "paperId": "05e61f7c5fb689a5a140c6eef3745f10db926260", 
+      "title": "Semantic Specialisation of Distributional Word Vector Spaces using Monolingual and Cross-Lingual Constraints", 
+      "url": "https://www.semanticscholar.org/paper/05e61f7c5fb689a5a140c6eef3745f10db926260", 
+      "venue": "ArXiv", 
+      "year": 2017
+    }, 
+    {
+      "isInfluential": true, 
+      "paperId": "0251ce87be520b1676950c2cc46a7130fa1e566c", 
+      "title": "Leveraging Monolingual Data for Crosslingual Compositional Word Representations", 
+      "url": "https://www.semanticscholar.org/paper/0251ce87be520b1676950c2cc46a7130fa1e566c", 
+      "venue": "ArXiv", 
+      "year": 2014
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "2ee62d376779c02c721ca287171e4d0fe364f2b3", 
+      "title": "Transfer Learning for Cross-Lingual Sentiment Classification with Weakly Shared Deep Neural Networks", 
+      "url": "https://www.semanticscholar.org/paper/2ee62d376779c02c721ca287171e4d0fe364f2b3", 
+      "venue": "SIGIR", 
+      "year": 2016
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "5a395268c946ea92443286c7b98bd5f5cc618087", 
+      "title": "Massively Multilingual Word Embeddings", 
+      "url": "https://www.semanticscholar.org/paper/5a395268c946ea92443286c7b98bd5f5cc618087", 
+      "venue": "ArXiv", 
+      "year": 2016
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "ae93607a4c49c49bc684ba4cafb182fc4268b2e3", 
+      "title": "Cross-lingual Wikification Using Multilingual Embeddings", 
+      "url": "https://www.semanticscholar.org/paper/ae93607a4c49c49bc684ba4cafb182fc4268b2e3", 
+      "venue": "HLT-NAACL", 
+      "year": 2016
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "3eac0acc4547c5d9d759459efe294bf5e219fb07", 
+      "title": "A Distributed Representation-Based Framework for Cross-Lingual Transfer Parsing", 
+      "url": "https://www.semanticscholar.org/paper/3eac0acc4547c5d9d759459efe294bf5e219fb07", 
+      "venue": "J. Artif. Intell. Res.", 
+      "year": 2016
+    }, 
+    {
+      "isInfluential": true, 
+      "paperId": "e6180727be1760d0d9c9a3aaa20cf05bc6a54d27", 
+      "title": "Learning Cross-lingual Word Embeddings via Matrix Co-factorization", 
+      "url": "https://www.semanticscholar.org/paper/e6180727be1760d0d9c9a3aaa20cf05bc6a54d27", 
+      "venue": "ACL", 
+      "year": 2015
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "2285fe4b8922c7ae707f22ab3aa8fe34585260ad", 
+      "title": "Language classification from bilingual word embedding graphs", 
+      "url": "https://www.semanticscholar.org/paper/2285fe4b8922c7ae707f22ab3aa8fe34585260ad", 
+      "venue": "COLING", 
+      "year": 2016
+    }, 
+    {
+      "isInfluential": true, 
+      "paperId": "dece4078b3d9cadfe8e9c4d4a8fb5ed0321c284b", 
+      "title": "Learning bilingual word embeddings with (almost) no bilingual data", 
+      "url": "https://www.semanticscholar.org/paper/dece4078b3d9cadfe8e9c4d4a8fb5ed0321c284b", 
+      "venue": "ACL", 
+      "year": 2017
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "007b417016961264e17d917aeb936d99d9045f1b", 
+      "title": "Exploring Distributional Representations and Machine Translation for Aspect-based Cross-lingual Sentiment Classification", 
+      "url": "https://www.semanticscholar.org/paper/007b417016961264e17d917aeb936d99d9045f1b", 
+      "venue": "COLING", 
+      "year": 2016
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "89677d5cb68a4c020f4604e99b9a72f6c4532581", 
+      "title": "Learning to Understand Phrases by Embedding the Dictionary", 
+      "url": "https://www.semanticscholar.org/paper/89677d5cb68a4c020f4604e99b9a72f6c4532581", 
+      "venue": "TACL", 
+      "year": 2016
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "4340eb26d753d6812c723c87f1b408b21a9ef394", 
+      "title": "Cross-Lingual Syntactically Informed Distributed Word Representations", 
+      "url": "https://www.semanticscholar.org/paper/4340eb26d753d6812c723c87f1b408b21a9ef394", 
+      "venue": "EACL", 
+      "year": 2017
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "3372e0b2fe4e5040841e846b6100efaa30c6c0a5", 
+      "title": "Multilingual Hierarchical Attention Networks for Document Classification", 
+      "url": "https://www.semanticscholar.org/paper/3372e0b2fe4e5040841e846b6100efaa30c6c0a5", 
+      "venue": "ArXiv", 
+      "year": 2017
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "2702c6b2cfa78fb5c978f7cf2fe4988ab3deab3b", 
+      "title": "Cross-lingual alignment transfer: a chicken-and-egg story?", 
+      "url": "https://www.semanticscholar.org/paper/2702c6b2cfa78fb5c978f7cf2fe4988ab3deab3b", 
+      "venue": "", 
+      "year": 2016
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "316f1e7f43a883abf9f8481dab713a5b23b0c928", 
+      "title": "The TALP-UPC Spanish-English WMT Biomedical Task: Bilingual Embeddings and Char-based Neural Language Model Rescoring in a Phrase-based System", 
+      "url": "https://www.semanticscholar.org/paper/316f1e7f43a883abf9f8481dab713a5b23b0c928", 
+      "venue": "WMT", 
+      "year": 2016
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "48e8e8085907192d501eb2bcc582035e90431a2f", 
+      "title": "Multi-Task Cross-Lingual Sequence Tagging from Scratch", 
+      "url": "https://www.semanticscholar.org/paper/48e8e8085907192d501eb2bcc582035e90431a2f", 
+      "venue": "ArXiv", 
+      "year": 2016
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "79d91038021fdfc2622ed4bc2470e8bbab1e1afe", 
+      "title": "EuroSense: Automatic Harvesting of Multilingual Sense Annotations from Parallel Text", 
+      "url": "https://www.semanticscholar.org/paper/79d91038021fdfc2622ed4bc2470e8bbab1e1afe", 
+      "venue": "ACL", 
+      "year": 2017
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "fb533d488d84620cddf027e83dfbe46b1ae0e17e", 
+      "title": "Jointly Learning to Embed and Predict with Multiple Languages", 
+      "url": "https://www.semanticscholar.org/paper/fb533d488d84620cddf027e83dfbe46b1ae0e17e", 
+      "venue": "ACL", 
+      "year": 2016
+    }, 
+    {
+      "isInfluential": true, 
+      "paperId": "e3908132a7083722b68827e8af53f65cb908adfb", 
+      "title": "Multi-Modal Representations for Improved Bilingual Lexicon Learning", 
+      "url": "https://www.semanticscholar.org/paper/e3908132a7083722b68827e8af53f65cb908adfb", 
+      "venue": "ACL", 
+      "year": 2016
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "1ce75e970321f8c0f8e03d06fffaba7ec02954ed", 
+      "title": "Bilingual Segmented Topic Model", 
+      "url": "https://www.semanticscholar.org/paper/1ce75e970321f8c0f8e03d06fffaba7ec02954ed", 
+      "venue": "ACL", 
+      "year": 2016
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "655a787313219b844937271f5e68f48662f3d2da", 
+      "title": "Inducing Bilingual Lexica From Non-Parallel Data With Earth Mover's Distance Regularization", 
+      "url": "https://www.semanticscholar.org/paper/655a787313219b844937271f5e68f48662f3d2da", 
+      "venue": "COLING", 
+      "year": 2016
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "da864a0ab4fa18233b12a2f74427912cd992374b", 
+      "title": "Overview of the Second BUCC Shared Task: Spotting Parallel Sentences in Comparable Corpora", 
+      "url": "https://www.semanticscholar.org/paper/da864a0ab4fa18233b12a2f74427912cd992374b", 
+      "venue": "", 
+      "year": 2017
+    }, 
+    {
+      "isInfluential": true, 
+      "paperId": "61777bb512c5c1327778d9d7698e1994bdf5ca9a", 
+      "title": "Bilingual Word Representations with Monolingual Quality in Mind", 
+      "url": "https://www.semanticscholar.org/paper/61777bb512c5c1327778d9d7698e1994bdf5ca9a", 
+      "venue": "VS@HLT-NAACL", 
+      "year": 2015
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "1f848e953603857ce8539fd957c0d091305662f4", 
+      "title": "Adversarial Deep Averaging Networks for Cross-Lingual Sentiment Classification", 
+      "url": "https://www.semanticscholar.org/paper/1f848e953603857ce8539fd957c0d091305662f4", 
+      "venue": "ArXiv", 
+      "year": 2016
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "8b3795e70f583ebe30e6bfc403a94b5220e9f985", 
+      "title": "A Representation Learning Framework for Multi-Source Transfer Parsing", 
+      "url": "https://www.semanticscholar.org/paper/8b3795e70f583ebe30e6bfc403a94b5220e9f985", 
+      "venue": "AAAI", 
+      "year": 2016
+    }, 
+    {
+      "isInfluential": true, 
+      "paperId": "cff628c0f701bcb564f8ef3469ba8646655cc43c", 
+      "title": "Cross-Lingual Word Representations via Spectral Graph Embeddings", 
+      "url": "https://www.semanticscholar.org/paper/cff628c0f701bcb564f8ef3469ba8646655cc43c", 
+      "venue": "ACL", 
+      "year": 2016
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "23bc5b2e74f6fcc57d84b4e477de1270c53573aa", 
+      "title": "Cross-lingual Models of Word Embeddings: An Empirical Comparison", 
+      "url": "https://www.semanticscholar.org/paper/23bc5b2e74f6fcc57d84b4e477de1270c53573aa", 
+      "venue": "ACL", 
+      "year": 2016
+    }
+  ], 
+  "doi": null, 
+  "influentialCitationCount": 17, 
+  "paperId": "5a13eb875d49af33fbbb2d44c8501398bbe80970", 
+  "references": [
+    {
+      "isInfluential": false, 
+      "paperId": "0e2795b1329b25ba3709584b96fd5cb4c96f6f22", 
+      "title": "A Systematic Comparison of Various Statistical Alignment Models", 
+      "url": "https://www.semanticscholar.org/paper/0e2795b1329b25ba3709584b96fd5cb4c96f6f22", 
+      "venue": "Computational Linguistics", 
+      "year": 2003
+    }, 
+    {
+      "isInfluential": true, 
+      "paperId": "0157dcd6122c20b5afc359a799b2043453471f7f", 
+      "title": "Exploiting Similarities among Languages for Machine Translation", 
+      "url": "https://www.semanticscholar.org/paper/0157dcd6122c20b5afc359a799b2043453471f7f", 
+      "venue": "ArXiv", 
+      "year": 2013
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "4e5987dc4f59934f5609aa7af38ffe3eaaee6499", 
+      "title": "Multilingual Distributed Representations without Word Alignment", 
+      "url": "https://www.semanticscholar.org/paper/4e5987dc4f59934f5609aa7af38ffe3eaaee6499", 
+      "venue": "", 
+      "year": 2013
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "2abe6b9ea1b13653b7384e9c8ef14b0d87e20cfc", 
+      "title": "RCV1: A New Benchmark Collection for Text Categorization Research", 
+      "url": "https://www.semanticscholar.org/paper/2abe6b9ea1b13653b7384e9c8ef14b0d87e20cfc", 
+      "venue": "Journal of Machine Learning Research", 
+      "year": 2004
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "27b92df79c638fc74bc4e8b2bd27d272d512c399", 
+      "title": "Europarl: A Parallel Corpus for Statistical Machine Translation", 
+      "url": "https://www.semanticscholar.org/paper/27b92df79c638fc74bc4e8b2bd27d272d512c399", 
+      "venue": "", 
+      "year": 2005
+    }, 
+    {
+      "isInfluential": true, 
+      "paperId": "6667d7f48109c709226fef820abbd06c7a02bc74", 
+      "title": "An Autoencoder Approach to Learning Bilingual Word Representations", 
+      "url": "https://www.semanticscholar.org/paper/6667d7f48109c709226fef820abbd06c7a02bc74", 
+      "venue": "NIPS", 
+      "year": 2014
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "2012f32199adc88747d5a1b47c7b4ba1cb3cb995", 
+      "title": "word2vec Explained: deriving Mikolov et al.'s negative-sampling word-embedding method", 
+      "url": "https://www.semanticscholar.org/paper/2012f32199adc88747d5a1b47c7b4ba1cb3cb995", 
+      "venue": "ArXiv", 
+      "year": 2014
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "27211ed68a7a00f1df0121fa1890a1b2acdd1a88", 
+      "title": "A Neural Probabilistic Language Model", 
+      "url": "https://www.semanticscholar.org/paper/27211ed68a7a00f1df0121fa1890a1b2acdd1a88", 
+      "venue": "Journal of Machine Learning Research", 
+      "year": 2000
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "4c15b129a8da55127e4e2fe47f54799d0a313367", 
+      "title": "Word Representations: A Simple and General Method for Semi-Supervised Learning", 
+      "url": "https://www.semanticscholar.org/paper/4c15b129a8da55127e4e2fe47f54799d0a313367", 
+      "venue": "ACL", 
+      "year": 2010
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "8415e713e801c63c3d7e73434e990ffdaabc99c1", 
+      "title": "Domain Adaptation with Structural Correspondence Learning", 
+      "url": "https://www.semanticscholar.org/paper/8415e713e801c63c3d7e73434e990ffdaabc99c1", 
+      "venue": "EMNLP", 
+      "year": 2006
+    }, 
+    {
+      "isInfluential": true, 
+      "paperId": "01e525c982f5019ff631c87233127bbd73922005", 
+      "title": "Inducing Crosslingual Distributed Representations of Words", 
+      "url": "https://www.semanticscholar.org/paper/01e525c982f5019ff631c87233127bbd73922005", 
+      "venue": "COLING", 
+      "year": 2012
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "0be2f4b0643ccb49d3941491fdbef11e6446dece", 
+      "title": "Adaptive Importance Sampling to Accelerate Training of a Neural Probabilistic Language Model", 
+      "url": "https://www.semanticscholar.org/paper/0be2f4b0643ccb49d3941491fdbef11e6446dece", 
+      "venue": "IEEE Transactions on Neural Networks", 
+      "year": 2008
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "4b7c8063892ca57131bd71b9c839d970ee8b0226", 
+      "title": "Frustratingly Easy Domain Adaptation", 
+      "url": "https://www.semanticscholar.org/paper/4b7c8063892ca57131bd71b9c839d970ee8b0226", 
+      "venue": "ACL", 
+      "year": 2007
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "2c8576adba7910bdf8dc70b3f4b6dfc1ee79e736", 
+      "title": "Improving Vector Space Word Representations Using Multilingual Correlation", 
+      "url": "https://www.semanticscholar.org/paper/2c8576adba7910bdf8dc70b3f4b6dfc1ee79e736", 
+      "venue": "EACL", 
+      "year": 2014
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "2538e3eb24d26f31482c479d95d2e26c0e79b990", 
+      "title": "Natural Language Processing (almost) from Scratch", 
+      "url": "https://www.semanticscholar.org/paper/2538e3eb24d26f31482c479d95d2e26c0e79b990", 
+      "venue": "Journal of Machine Learning Research", 
+      "year": 2011
+    }, 
+    {
+      "isInfluential": true, 
+      "paperId": "0d3233d858660aff451a6c2561a05378ed09725a", 
+      "title": "Bilingual Word Embeddings for Phrase-Based Machine Translation", 
+      "url": "https://www.semanticscholar.org/paper/0d3233d858660aff451a6c2561a05378ed09725a", 
+      "venue": "EMNLP", 
+      "year": 2013
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "0825788b9b5a18e3dfea5b0af123b5e939a4f564", 
+      "title": "Glove: Global Vectors for Word Representation", 
+      "url": "https://www.semanticscholar.org/paper/0825788b9b5a18e3dfea5b0af123b5e939a4f564", 
+      "venue": "EMNLP", 
+      "year": 2014
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "8e3f0f7a761f18cb91c11764d8d6cb3b1e9c5731", 
+      "title": "Polyglot: Distributed Word Representations for Multilingual NLP", 
+      "url": "https://www.semanticscholar.org/paper/8e3f0f7a761f18cb91c11764d8d6cb3b1e9c5731", 
+      "venue": "CoNLL", 
+      "year": 2013
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "762b63d2eb86f8fd0de98a08561b77527ae8f165", 
+      "title": "Distributed Representations of Words and Phrases and their Compositionality", 
+      "url": "https://www.semanticscholar.org/paper/762b63d2eb86f8fd0de98a08561b77527ae8f165", 
+      "venue": "NIPS", 
+      "year": 2013
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "1e83c2798e87b9d84a8281cc3e9750c948d62cb3", 
+      "title": "A Simple, Fast, and Effective Reparameterization of IBM Model 2", 
+      "url": "https://www.semanticscholar.org/paper/1e83c2798e87b9d84a8281cc3e9750c948d62cb3", 
+      "venue": "HLT-NAACL", 
+      "year": 2013
+    }
+  ], 
+  "title": "BilBOWA: Fast Bilingual Distributed Representations without Word Alignments", 
+  "url": "https://www.semanticscholar.org/paper/5a13eb875d49af33fbbb2d44c8501398bbe80970", 
+  "venue": "ICML", 
+  "year": 2015
+}

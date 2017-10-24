@@ -1,0 +1,415 @@
+{
+  "authors": [
+    {
+      "authorId": "1786422", 
+      "name": "Limin Yao", 
+      "url": "https://www.semanticscholar.org/author/1786422"
+    }, 
+    {
+      "authorId": "8956060", 
+      "name": "Sebastian Riedel", 
+      "url": "https://www.semanticscholar.org/author/8956060"
+    }, 
+    {
+      "authorId": "1735747", 
+      "name": "Andrew McCallum", 
+      "url": "https://www.semanticscholar.org/author/1735747"
+    }
+  ], 
+  "citationVelocity": 0, 
+  "citations": [
+    {
+      "isInfluential": false, 
+      "paperId": "db01b61c60026346d50b862667ac696844b966f9", 
+      "title": "Call for Discussion: Building a New Standard Dataset for Relation Extraction Tasks", 
+      "url": "https://www.semanticscholar.org/paper/db01b61c60026346d50b862667ac696844b966f9", 
+      "venue": "AKBC@NAACL-HLT", 
+      "year": 2016
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "40c3869fe8522aae6a6a23c6f3b59f1e3fb30651", 
+      "title": "Noise Mitigation for Neural Entity Typing and Relation Extraction", 
+      "url": "https://www.semanticscholar.org/paper/40c3869fe8522aae6a6a23c6f3b59f1e3fb30651", 
+      "venue": "EACL", 
+      "year": 2017
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "cff520182430dfc04b6b775f599401c2dafcb237", 
+      "title": "Text Segmentation using Named Entity Recognition and Co-reference Resolution", 
+      "url": "https://www.semanticscholar.org/paper/cff520182430dfc04b6b775f599401c2dafcb237", 
+      "venue": "ICAART", 
+      "year": 2011
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "1e4cfe280c97d4dc6cb69138cc370e9d81c13d17", 
+      "title": "Learning a Compositional Semantics for Freebase with an Open Predicate Vocabulary", 
+      "url": "https://www.semanticscholar.org/paper/1e4cfe280c97d4dc6cb69138cc370e9d81c13d17", 
+      "venue": "TACL", 
+      "year": 2015
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "15441fb7003d170b4710492a957bf5f78dd222e0", 
+      "title": "Commonsense Knowledge Base Completion", 
+      "url": "https://www.semanticscholar.org/paper/15441fb7003d170b4710492a957bf5f78dd222e0", 
+      "venue": "ACL", 
+      "year": 2016
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "490261ff72877ea8afd17ee9e768c0f60a7b8cdf", 
+      "title": "Row-less Universal Schema", 
+      "url": "https://www.semanticscholar.org/paper/490261ff72877ea8afd17ee9e768c0f60a7b8cdf", 
+      "venue": "AKBC@NAACL-HLT", 
+      "year": 2016
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "18dd22835af007c736bbf4f5cdb7a54ff685aff7", 
+      "title": "Multilingual Relation Extraction using Compositional Universal Schema", 
+      "url": "https://www.semanticscholar.org/paper/18dd22835af007c736bbf4f5cdb7a54ff685aff7", 
+      "venue": "HLT-NAACL", 
+      "year": 2016
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "07754880c0d4f23c2e671549ade5ff05a2087596", 
+      "title": "Liberal Event Extraction and Event Schema Induction", 
+      "url": "https://www.semanticscholar.org/paper/07754880c0d4f23c2e671549ade5ff05a2087596", 
+      "venue": "ACL", 
+      "year": 2016
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "4e278a0fe9fbfeceb29acde435706aa790aeda56", 
+      "title": "Inferring Missing Entity Type Instances for Knowledge Base Completion: New Dataset and Methods", 
+      "url": "https://www.semanticscholar.org/paper/4e278a0fe9fbfeceb29acde435706aa790aeda56", 
+      "venue": "HLT-NAACL", 
+      "year": 2015
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "153b67ed0459d259a66206f42d443be14749bf0b", 
+      "title": "Using Entity Information from a Knowledge Base to Improve Relation Extraction", 
+      "url": "https://www.semanticscholar.org/paper/153b67ed0459d259a66206f42d443be14749bf0b", 
+      "venue": "", 
+      "year": 2015
+    }, 
+    {
+      "isInfluential": true, 
+      "paperId": "c1d98f7d5277f673760fbf51766f6f04df5e94a8", 
+      "title": "Exploring Patterns of Identity Usage in Tweets: A New Problem, Solution and Case Study", 
+      "url": "https://www.semanticscholar.org/paper/c1d98f7d5277f673760fbf51766f6f04df5e94a8", 
+      "venue": "WWW", 
+      "year": 2016
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "49c9ccd80ae4812031da32adc65740e805a79451", 
+      "title": "Low-Rank Regularization for Sparse Conjunctive Feature Spaces: An Application to Named Entity Classification", 
+      "url": "https://www.semanticscholar.org/paper/49c9ccd80ae4812031da32adc65740e805a79451", 
+      "venue": "ACL", 
+      "year": 2015
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "05406116c2dc37c06228f97b7a5df6fcc207a756", 
+      "title": "Universal Schema for Slot Filling and Cold Start: UMass IESL at TACKBP 2013", 
+      "url": "https://www.semanticscholar.org/paper/05406116c2dc37c06228f97b7a5df6fcc207a756", 
+      "venue": "TAC", 
+      "year": 2013
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "53f26e38fc518db22c82eaa61c2a2bbf57842879", 
+      "title": "A Compositional-Distributional Semantic Model for Searching Complex Entity Categories", 
+      "url": "https://www.semanticscholar.org/paper/53f26e38fc518db22c82eaa61c2a2bbf57842879", 
+      "venue": "*SEM@ACL", 
+      "year": 2016
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "002b0aeb41d364c58ad9a940a61302b827d3b54d", 
+      "title": "Entity Analysis with Weak Supervision: Typing, Linking, and Attribute Extraction", 
+      "url": "https://www.semanticscholar.org/paper/002b0aeb41d364c58ad9a940a61302b827d3b54d", 
+      "venue": "", 
+      "year": 2015
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "7dd8b958632b07e41979337c71d847a3f39df456", 
+      "title": "Generalizing to Unseen Entities and Entity Pairs with Row-less Universal Schema", 
+      "url": "https://www.semanticscholar.org/paper/7dd8b958632b07e41979337c71d847a3f39df456", 
+      "venue": "EACL", 
+      "year": 2017
+    }
+  ], 
+  "doi": "10.1145/2509558.2509572", 
+  "influentialCitationCount": 1, 
+  "paperId": "4823725dfd0b1b93397530a5726e834c6c1ece42", 
+  "references": [
+    {
+      "isInfluential": false, 
+      "paperId": "27e5bd13d581ef682b96038dce4c18f260122352", 
+      "title": "The PASCAL Recognising Textual Entailment Challenge", 
+      "url": "https://www.semanticscholar.org/paper/27e5bd13d581ef682b96038dce4c18f260122352", 
+      "venue": "MLCW", 
+      "year": 2005
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "b2fab36801910e460dc60524f731f5f0438553b4", 
+      "title": "Memory-Based Dependency Parsing", 
+      "url": "https://www.semanticscholar.org/paper/b2fab36801910e460dc60524f731f5f0438553b4", 
+      "venue": "CoNLL", 
+      "year": 2004
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "2774676be4c8a2637f1d91b5e94739aaa9161309", 
+      "title": "Learning Entailment Rules for Unary Templates", 
+      "url": "https://www.semanticscholar.org/paper/2774676be4c8a2637f1d91b5e94739aaa9161309", 
+      "venue": "COLING", 
+      "year": 2008
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "4f410ab5c8b12b34b38421241366ee456bbebab9", 
+      "title": "Incorporating Non-local Information into Information Extraction Systems by Gibbs Sampling", 
+      "url": "https://www.semanticscholar.org/paper/4f410ab5c8b12b34b38421241366ee456bbebab9", 
+      "venue": "ACL", 
+      "year": 2005
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "1b94cbcce2642733a118cdba5ed4ec7417f75e2d", 
+      "title": "Structured Generative Models for Unsupervised Named-Entity Clustering", 
+      "url": "https://www.semanticscholar.org/paper/1b94cbcce2642733a118cdba5ed4ec7417f75e2d", 
+      "venue": "HLT-NAACL", 
+      "year": 2009
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "2c27f79a8c5db9347a85b024e68bb21a26d7eefd", 
+      "title": "Hierarchical Distributed Representations for Statistical Language Modeling", 
+      "url": "https://www.semanticscholar.org/paper/2c27f79a8c5db9347a85b024e68bb21a26d7eefd", 
+      "venue": "NIPS", 
+      "year": 2004
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "2d208d551ff9000ca189034fa683edb826f4c941", 
+      "title": "Coupled semi-supervised learning for information extraction", 
+      "url": "https://www.semanticscholar.org/paper/2d208d551ff9000ca189034fa683edb826f4c941", 
+      "venue": "WSDM", 
+      "year": 2010
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "3e939d848affa3447d35e0fe82ba0dd26e628c03", 
+      "title": "Hierarchical target type identification for entity-oriented queries", 
+      "url": "https://www.semanticscholar.org/paper/3e939d848affa3447d35e0fe82ba0dd26e628c03", 
+      "venue": "CIKM", 
+      "year": 2012
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "4afa6c2eb552ceef0e396fbfe449932492873034", 
+      "title": "Efficient Estimation of Word Representations in Vector Space", 
+      "url": "https://www.semanticscholar.org/paper/4afa6c2eb552ceef0e396fbfe449932492873034", 
+      "venue": "ArXiv", 
+      "year": 2013
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "f09cb03ef72ac76c695a3c497277af90dbebcaf6", 
+      "title": "Weakly Supervised Approaches for Ontology Population", 
+      "url": "https://www.semanticscholar.org/paper/f09cb03ef72ac76c695a3c497277af90dbebcaf6", 
+      "venue": "EACL", 
+      "year": 2006
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "198b711915429fa55162e749a0b964755b36a62e", 
+      "title": "Fine Grained Classification of Named Entities", 
+      "url": "https://www.semanticscholar.org/paper/198b711915429fa55162e749a0b964755b36a62e", 
+      "venue": "COLING", 
+      "year": 2002
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "5026d34eb5dd917a416461939ee76c1303055d42", 
+      "title": "Collective Cross-Document Relation Extraction Without Labelled Data", 
+      "url": "https://www.semanticscholar.org/paper/5026d34eb5dd917a416461939ee76c1303055d42", 
+      "venue": "EMNLP", 
+      "year": 2010
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "26e17398019d8342e2ae27712af3a147355a141a", 
+      "title": "ISP: Learning Inferential Selectional Preferences", 
+      "url": "https://www.semanticscholar.org/paper/26e17398019d8342e2ae27712af3a147355a141a", 
+      "venue": "HLT-NAACL", 
+      "year": 2007
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "559e47c03297bc423c4ee866d042790ea056365c", 
+      "title": "Fine-Grained Entity Recognition", 
+      "url": "https://www.semanticscholar.org/paper/559e47c03297bc423c4ee866d042790ea056365c", 
+      "venue": "AAAI", 
+      "year": 2012
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "3965b1d15b2de806b758082ed86b41b01cb6728a", 
+      "title": "YAGO2: A spatially and temporally enhanced knowledge base from Wikipedia", 
+      "url": "https://www.semanticscholar.org/paper/3965b1d15b2de806b758082ed86b41b01cb6728a", 
+      "venue": "Artif. Intell.", 
+      "year": 2013
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "9c7113b4ab770f5dc4ff0c949e725774db12d2da", 
+      "title": "1 Global Inference for Entity and Relation Identification via a Linear Programming Formulation", 
+      "url": "https://www.semanticscholar.org/paper/9c7113b4ab770f5dc4ff0c949e725774db12d2da", 
+      "venue": "", 
+      "year": 2006
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "d87ceda3042f781c341ac17109d1e94a717f5f60", 
+      "title": "Book Reviews: WordNet: An Electronic Lexical Database", 
+      "url": "https://www.semanticscholar.org/paper/d87ceda3042f781c341ac17109d1e94a717f5f60", 
+      "venue": "", 
+      "year": 1998
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "1a07186bc10592f0330655519ad91652125cd907", 
+      "title": "A unified architecture for natural language processing: deep neural networks with multitask learning", 
+      "url": "https://www.semanticscholar.org/paper/1a07186bc10592f0330655519ad91652125cd907", 
+      "venue": "ICML", 
+      "year": 2008
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "aa480756d7ecee36e500ed05e13d0eb3bfe0aa2d", 
+      "title": "Instance-Based Ontology Population Exploiting Named-Entity Substitution", 
+      "url": "https://www.semanticscholar.org/paper/aa480756d7ecee36e500ed05e13d0eb3bfe0aa2d", 
+      "venue": "COLING", 
+      "year": 2008
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "7d5579fe89c6e71d3f4da8f111b27237f19486b4", 
+      "title": "Assessing the Challenge of Fine-Grained Named Entity Recognition and Classification", 
+      "url": "https://www.semanticscholar.org/paper/7d5579fe89c6e71d3f4da8f111b27237f19486b4", 
+      "venue": "", 
+      "year": 2010
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "81b3b3fe994a9eda6d3f9d2149aa4492d1933975", 
+      "title": "Learning Continuous Phrase Representations and Syntactic Parsing with Recursive Neural Networks", 
+      "url": "https://www.semanticscholar.org/paper/81b3b3fe994a9eda6d3f9d2149aa4492d1933975", 
+      "venue": "", 
+      "year": 2010
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "1976c9eeccc7115d18a04f1e7fb5145db6b96002", 
+      "title": "Freebase: a collaboratively created graph database for structuring human knowledge", 
+      "url": "https://www.semanticscholar.org/paper/1976c9eeccc7115d18a04f1e7fb5145db6b96002", 
+      "venue": "SIGMOD Conference", 
+      "year": 2008
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "0bb36e47e8530d997e56db66e249eb7b076305b7", 
+      "title": "A Generalization of Principal Component Analysis to the Exponential Family", 
+      "url": "https://www.semanticscholar.org/paper/0bb36e47e8530d997e56db66e249eb7b076305b7", 
+      "venue": "", 
+      "year": 2001
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "c2f5fbb4f657462091895c294ee6f107e1a55669", 
+      "title": "Learning First-Order Horn Clauses from Web Text", 
+      "url": "https://www.semanticscholar.org/paper/c2f5fbb4f657462091895c294ee6f107e1a55669", 
+      "venue": "EMNLP", 
+      "year": 2010
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "7468963f25165936dca70cc17de04d332aeb0b22", 
+      "title": "Mining Entity Types from Query Logs via User Intent Modeling", 
+      "url": "https://www.semanticscholar.org/paper/7468963f25165936dca70cc17de04d332aeb0b22", 
+      "venue": "ACL", 
+      "year": 2012
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "27211ed68a7a00f1df0121fa1890a1b2acdd1a88", 
+      "title": "A Neural Probabilistic Language Model", 
+      "url": "https://www.semanticscholar.org/paper/27211ed68a7a00f1df0121fa1890a1b2acdd1a88", 
+      "venue": "Journal of Machine Learning Research", 
+      "year": 2000
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "12c234d00119e13f087d79e50575c4577d5c74d9", 
+      "title": "Structured Relation Discovery using Generative Models", 
+      "url": "https://www.semanticscholar.org/paper/12c234d00119e13f087d79e50575c4577d5c74d9", 
+      "venue": "EMNLP", 
+      "year": 2011
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "08626180d965012bf9376d25e51855fc362be452", 
+      "title": "Probabilistic Databases of Universal Schema", 
+      "url": "https://www.semanticscholar.org/paper/08626180d965012bf9376d25e51855fc362be452", 
+      "venue": "", 
+      "year": 2012
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "783480acff435bfbc15ffcdb4f15eccddaa0c810", 
+      "title": "Class-Based n-gram Models of Natural Language", 
+      "url": "https://www.semanticscholar.org/paper/783480acff435bfbc15ffcdb4f15eccddaa0c810", 
+      "venue": "Computational Linguistics", 
+      "year": 1992
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "9464d15f4f8d578f93332db4aa1c9c182fd51735", 
+      "title": "Multitask Learning: A Knowledge-Based Source of Inductive Bias", 
+      "url": "https://www.semanticscholar.org/paper/9464d15f4f8d578f93332db4aa1c9c182fd51735", 
+      "venue": "ICML", 
+      "year": 1993
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "52b5eab895a2d9ae24ea72ca72782974a52f90c4", 
+      "title": "Relation Extraction with Matrix Factorization and Universal Schemas", 
+      "url": "https://www.semanticscholar.org/paper/52b5eab895a2d9ae24ea72ca72782974a52f90c4", 
+      "venue": "HLT-NAACL", 
+      "year": 2013
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "c42c34f4e71850cce97c857d6c094283be235ce7", 
+      "title": "Scaling Textual Inference to the Web", 
+      "url": "https://www.semanticscholar.org/paper/c42c34f4e71850cce97c857d6c094283be235ce7", 
+      "venue": "EMNLP", 
+      "year": 2008
+    }
+  ], 
+  "title": "Universal schema for entity type prediction", 
+  "url": "https://www.semanticscholar.org/paper/4823725dfd0b1b93397530a5726e834c6c1ece42", 
+  "venue": "AKBC@CIKM", 
+  "year": 2013
+}

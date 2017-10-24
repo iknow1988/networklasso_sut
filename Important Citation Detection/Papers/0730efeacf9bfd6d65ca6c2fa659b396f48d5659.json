@@ -1,0 +1,839 @@
+{
+  "authors": [
+    {
+      "authorId": "9683964", 
+      "name": "Siva Reddy", 
+      "url": "https://www.semanticscholar.org/author/9683964"
+    }, 
+    {
+      "authorId": "1747893", 
+      "name": "Mirella Lapata", 
+      "url": "https://www.semanticscholar.org/author/1747893"
+    }, 
+    {
+      "authorId": "6311335", 
+      "name": "Mark Steedman", 
+      "url": "https://www.semanticscholar.org/author/6311335"
+    }
+  ], 
+  "citationVelocity": 36, 
+  "citations": [
+    {
+      "isInfluential": false, 
+      "paperId": "6e565308c8081e807709cb4a917443b737e6cdb4", 
+      "title": "Large-scale Simple Question Answering with Memory Networks", 
+      "url": "https://www.semanticscholar.org/paper/6e565308c8081e807709cb4a917443b737e6cdb4", 
+      "venue": "ArXiv", 
+      "year": 2015
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "220667925489741a467acb8b3ed482854e50fc82", 
+      "title": "Question Answering on Knowledge Bases and Text using Universal Schema and Memory Networks", 
+      "url": "https://www.semanticscholar.org/paper/220667925489741a467acb8b3ed482854e50fc82", 
+      "venue": "ACL", 
+      "year": 2017
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "6c6f7a014f903be42df2b585b30a6ae84c1c1e79", 
+      "title": "Neural Network-based Question Answering over Knowledge Graphs on Word and Character Level", 
+      "url": "https://www.semanticscholar.org/paper/6c6f7a014f903be42df2b585b30a6ae84c1c1e79", 
+      "venue": "WWW", 
+      "year": 2017
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "63e8d6f26707f78ddd56dc93cc25414527740bf0", 
+      "title": "Broad-coverage CCG Semantic Parsing with AMR", 
+      "url": "https://www.semanticscholar.org/paper/63e8d6f26707f78ddd56dc93cc25414527740bf0", 
+      "venue": "EMNLP", 
+      "year": 2015
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "02cc92287c6614b6a2aa982007471f16b3450013", 
+      "title": "Towards a Dataset for Human Computer Communication via Grounded Language Acquisition", 
+      "url": "https://www.semanticscholar.org/paper/02cc92287c6614b6a2aa982007471f16b3450013", 
+      "venue": "AAAI Workshop: Symbiotic Cognitive Systems", 
+      "year": 2016
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "22ae9a4d587df06184a9ac2fa703a2d48b8edebd", 
+      "title": "Transfer Learning for Neural Semantic Parsing", 
+      "url": "https://www.semanticscholar.org/paper/22ae9a4d587df06184a9ac2fa703a2d48b8edebd", 
+      "venue": "ArXiv", 
+      "year": 2017
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "0521029dc72f1eb24baf4092785b1f46c8ee3f4a", 
+      "title": "A Data-Driven, Factorization Parser for CCG Dependency Structures", 
+      "url": "https://www.semanticscholar.org/paper/0521029dc72f1eb24baf4092785b1f46c8ee3f4a", 
+      "venue": "ACL", 
+      "year": 2015
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "dc4cbf25503ece9707cd0fa9c6fe992a74495f57", 
+      "title": "Question Answering over Knowledge Base using Factual Memory Networks", 
+      "url": "https://www.semanticscholar.org/paper/dc4cbf25503ece9707cd0fa9c6fe992a74495f57", 
+      "venue": "SRW@HLT-NAACL", 
+      "year": 2016
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "c9ab80ca3b36e5abdebfa9a0d1ce810beff98393", 
+      "title": "Scalable Semantic Parsing with Partial Ontologies", 
+      "url": "https://www.semanticscholar.org/paper/c9ab80ca3b36e5abdebfa9a0d1ce810beff98393", 
+      "venue": "ACL", 
+      "year": 2015
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "25369f56a933e3bfb1d8e1588cdc6c50df93ecae", 
+      "title": "Building a Semantic Parser Overnight", 
+      "url": "https://www.semanticscholar.org/paper/25369f56a933e3bfb1d8e1588cdc6c50df93ecae", 
+      "venue": "ACL", 
+      "year": 2015
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "41866f1c6e5b92d1f73749c5de1394447aa72fc5", 
+      "title": "Cross-domain Semantic Parsing via Paraphrasing", 
+      "url": "https://www.semanticscholar.org/paper/41866f1c6e5b92d1f73749c5de1394447aa72fc5", 
+      "venue": "ArXiv", 
+      "year": 2017
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "60b303482dd97b3c3dc8e8eef60669d1ee1751b2", 
+      "title": "The Value of Semantic Parse Labeling for Knowledge Base Question Answering", 
+      "url": "https://www.semanticscholar.org/paper/60b303482dd97b3c3dc8e8eef60669d1ee1751b2", 
+      "venue": "ACL", 
+      "year": 2016
+    }, 
+    {
+      "isInfluential": true, 
+      "paperId": "2de1c756823c17dfd131b5a3af21f1fcaf199e77", 
+      "title": "Simple and Effective Question Answering with Recurrent Neural Networks", 
+      "url": "https://www.semanticscholar.org/paper/2de1c756823c17dfd131b5a3af21f1fcaf199e77", 
+      "venue": "ArXiv", 
+      "year": 2016
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "94013c80fc158979aa0a0084db993ba0f9d6c35b", 
+      "title": "Evaluating Induced CCG Parsers on Grounded Semantic Parsing", 
+      "url": "https://www.semanticscholar.org/paper/94013c80fc158979aa0a0084db993ba0f9d6c35b", 
+      "venue": "EMNLP", 
+      "year": 2016
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "0662f5b269f8d9ea96e44026011b86d552f65bd4", 
+      "title": "Feature-Rich Networks for Knowledge Base Completion", 
+      "url": "https://www.semanticscholar.org/paper/0662f5b269f8d9ea96e44026011b86d552f65bd4", 
+      "venue": "ACL", 
+      "year": 2017
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "3cfff5153817eb73898060e4d7df4393cbd096a3", 
+      "title": "Orthogonality regularizer for question answering", 
+      "url": "https://www.semanticscholar.org/paper/3cfff5153817eb73898060e4d7df4393cbd096a3", 
+      "venue": "*SEM@ACL", 
+      "year": 2016
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "4ca8ff09f24f0838022f1d0b94af4331f6e538cd", 
+      "title": "Semantic Parsing to Probabilistic Programs for Situated Question Answering", 
+      "url": "https://www.semanticscholar.org/paper/4ca8ff09f24f0838022f1d0b94af4331f6e538cd", 
+      "venue": "EMNLP", 
+      "year": 2016
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "113522286ece46e43f3b2c7020a8b6a09f776be0", 
+      "title": "Paraphrase Generation from Latent-Variable PCFGs for Semantic Parsing", 
+      "url": "https://www.semanticscholar.org/paper/113522286ece46e43f3b2c7020a8b6a09f776be0", 
+      "venue": "INLG", 
+      "year": 2016
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "7f4fff01af24b4aa897207deddbbef3f154e67ac", 
+      "title": "Edinburgh Research Explorer A* Ccg Parsing with a Supertag-factored Model a * Ccg Parsing with a Supertag-factored Model", 
+      "url": "https://www.semanticscholar.org/paper/7f4fff01af24b4aa897207deddbbef3f154e67ac", 
+      "venue": "", 
+      "year": 2015
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "d99a50af0aabe135d4a9bb64c9073b2c067d481f", 
+      "title": "A Supervised Semantic Parsing with Lexicon Extension and Syntactic Constraint", 
+      "url": "https://www.semanticscholar.org/paper/d99a50af0aabe135d4a9bb64c9073b2c067d481f", 
+      "venue": "RANLP", 
+      "year": 2015
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "1e4cfe280c97d4dc6cb69138cc370e9d81c13d17", 
+      "title": "Learning a Compositional Semantics for Freebase with an Open Predicate Vocabulary", 
+      "url": "https://www.semanticscholar.org/paper/1e4cfe280c97d4dc6cb69138cc370e9d81c13d17", 
+      "venue": "TACL", 
+      "year": 2015
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "2d59c2c84c0c04753ddf77578492bc66d2c68099", 
+      "title": "Semantic Search on Text and Knowledge Bases", 
+      "url": "https://www.semanticscholar.org/paper/2d59c2c84c0c04753ddf77578492bc66d2c68099", 
+      "venue": "Foundations and Trends in Information Retrieval", 
+      "year": 2016
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "4f4abb03dcfa8c4a245f18a1cf7f839d8a7dbe5b", 
+      "title": "Open Information Extraction", 
+      "url": "https://www.semanticscholar.org/paper/4f4abb03dcfa8c4a245f18a1cf7f839d8a7dbe5b", 
+      "venue": "ArXiv", 
+      "year": 2016
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "190e2493cf38057fb99122139455d6197ed74919", 
+      "title": "Constraint-Based Question Answering with Knowledge Graph", 
+      "url": "https://www.semanticscholar.org/paper/190e2493cf38057fb99122139455d6197ed74919", 
+      "venue": "COLING", 
+      "year": 2016
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "54615b93b769a8dc4e742d0a5dd59a9dcd455901", 
+      "title": "Evaluating Semantic Parsing against a Simple Web-based Question Answering Model", 
+      "url": "https://www.semanticscholar.org/paper/54615b93b769a8dc4e742d0a5dd59a9dcd455901", 
+      "venue": "*SEM", 
+      "year": 2017
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "529887205fa3840b8fd25662103caac5b3ebf543", 
+      "title": "World Knowledge as Indirect Supervision for Document Clustering", 
+      "url": "https://www.semanticscholar.org/paper/529887205fa3840b8fd25662103caac5b3ebf543", 
+      "venue": "TKDD", 
+      "year": 2016
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "bcf16c08a41009d9f9174c6f72b2ff534232c147", 
+      "title": "Sequence-based Structured Prediction for Semantic Parsing", 
+      "url": "https://www.semanticscholar.org/paper/bcf16c08a41009d9f9174c6f72b2ff534232c147", 
+      "venue": "ACL", 
+      "year": 2016
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "10afb798ec8daeb7d44c1a3cb40d54399658dd2e", 
+      "title": "Question Answering on Linked Data: Challenges and Future Directions", 
+      "url": "https://www.semanticscholar.org/paper/10afb798ec8daeb7d44c1a3cb40d54399658dd2e", 
+      "venue": "WWW", 
+      "year": 2016
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "2517203510ba69f760eda43c0975f334f844bf23", 
+      "title": "Hindi CCGbank: CCG Treebank from the Hindi Dependency Treebank", 
+      "url": "https://www.semanticscholar.org/paper/2517203510ba69f760eda43c0975f334f844bf23", 
+      "venue": "", 
+      "year": 2016
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "40ddd9d91fa121158a0d349bd6c5ac6cf7624d35", 
+      "title": "Universal Semantic Parsing", 
+      "url": "https://www.semanticscholar.org/paper/40ddd9d91fa121158a0d349bd6c5ac6cf7624d35", 
+      "venue": "ArXiv", 
+      "year": 2017
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "6ff9c6e43be86d7608a391b83de4cd44d707ea8d", 
+      "title": "Learning executable semantic parsers for natural language understanding", 
+      "url": "https://www.semanticscholar.org/paper/6ff9c6e43be86d7608a391b83de4cd44d707ea8d", 
+      "venue": "Commun. ACM", 
+      "year": 2016
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "005dd52696c4ee5f70927564ad97210b555803ba", 
+      "title": "Informed Active Learning to Aid Domain Experts in Modeling Compliance", 
+      "url": "https://www.semanticscholar.org/paper/005dd52696c4ee5f70927564ad97210b555803ba", 
+      "venue": "2016 IEEE 20th International Enterprise Distributed Object Computing Conference (EDOC)", 
+      "year": 2016
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "06bb95456c68a9d998615e4cd16766f10621bbbc", 
+      "title": "From Language to Programs: Bridging Reinforcement Learning and Maximum Marginal Likelihood", 
+      "url": "https://www.semanticscholar.org/paper/06bb95456c68a9d998615e4cd16766f10621bbbc", 
+      "venue": "ACL", 
+      "year": 2017
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "6fc677b7f3319b344eddd93e93ca4d65005f6cd2", 
+      "title": "Open-Vocabulary Semantic Parsing with both Distributional Statistics and Formal Knowledge", 
+      "url": "https://www.semanticscholar.org/paper/6fc677b7f3319b344eddd93e93ca4d65005f6cd2", 
+      "venue": "AAAI", 
+      "year": 2017
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "af4ec9ff689ecff2b6e9fb08475281bf61ccc1a4", 
+      "title": "Question Answering with DBpedia Based on the Dependency Parser and Entity-centric Index", 
+      "url": "https://www.semanticscholar.org/paper/af4ec9ff689ecff2b6e9fb08475281bf61ccc1a4", 
+      "venue": "2016 International Conference on Computational Intelligence and Applications (ICCIA)", 
+      "year": 2016
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "1e6bdc40419c2c628b0ba75ee9226a8be24848fd", 
+      "title": "Joint learning of ontology and semantic parser from text", 
+      "url": "https://www.semanticscholar.org/paper/1e6bdc40419c2c628b0ba75ee9226a8be24848fd", 
+      "venue": "Intell. Data Anal.", 
+      "year": 2017
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "546cdac504fa252759a89f2c0a43abe1987de162", 
+      "title": "Logical Parsing from Natural Language Based on a Neural Translation Model", 
+      "url": "https://www.semanticscholar.org/paper/546cdac504fa252759a89f2c0a43abe1987de162", 
+      "venue": "ArXiv", 
+      "year": 2017
+    }, 
+    {
+      "isInfluential": true, 
+      "paperId": "1d7d7362c1e4b1544fd4ce2af7c65f9f47ffeb82", 
+      "title": "Semantic Parsing via Staged Query Graph Generation: Question Answering with Knowledge Base", 
+      "url": "https://www.semanticscholar.org/paper/1d7d7362c1e4b1544fd4ce2af7c65f9f47ffeb82", 
+      "venue": "ACL", 
+      "year": 2015
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "9a3b39ae5ed3fbcdb8befc28d5037bb8674e4d35", 
+      "title": "Solving Geometry Problems: Combining Text and Diagram Interpretation", 
+      "url": "https://www.semanticscholar.org/paper/9a3b39ae5ed3fbcdb8befc28d5037bb8674e4d35", 
+      "venue": "EMNLP", 
+      "year": 2015
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "2230816965e900ba76f3fe75a9575a927b3466d5", 
+      "title": "Automated Template Generation for Question Answering over Knowledge Graphs", 
+      "url": "https://www.semanticscholar.org/paper/2230816965e900ba76f3fe75a9575a927b3466d5", 
+      "venue": "WWW", 
+      "year": 2017
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "a1e7511e1c8bab4440b3f653883b2263d2b5efad", 
+      "title": "Transition-Based Parsing for Deep Dependency Structures", 
+      "url": "https://www.semanticscholar.org/paper/a1e7511e1c8bab4440b3f653883b2263d2b5efad", 
+      "venue": "Computational Linguistics", 
+      "year": 2016
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "1d00075feb9f2fecc1d035897b98eb2f45461b2e", 
+      "title": "Semantic Parsing with Semi-Supervised Sequential Autoencoders", 
+      "url": "https://www.semanticscholar.org/paper/1d00075feb9f2fecc1d035897b98eb2f45461b2e", 
+      "venue": "EMNLP", 
+      "year": 2016
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "40b132a0127a51658581262cc4acc8fba0524069", 
+      "title": "Probabilistic Models for Learning a Semantic Parser Lexicon", 
+      "url": "https://www.semanticscholar.org/paper/40b132a0127a51658581262cc4acc8fba0524069", 
+      "venue": "HLT-NAACL", 
+      "year": 2016
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "e5e39d57f283f9a7e25e21c8798f83a2fc3ca085", 
+      "title": "Learning Semantic Parsers for Natural Language Understanding", 
+      "url": "https://www.semanticscholar.org/paper/e5e39d57f283f9a7e25e21c8798f83a2fc3ca085", 
+      "venue": "", 
+      "year": 2015
+    }, 
+    {
+      "isInfluential": true, 
+      "paperId": "663973669c8e653016d2f071840b4bb79a99e9d5", 
+      "title": "Lean Question Answering over Freebase from Scratch", 
+      "url": "https://www.semanticscholar.org/paper/663973669c8e653016d2f071840b4bb79a99e9d5", 
+      "venue": "HLT-NAACL", 
+      "year": 2015
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "2597166e343485df41afb88dfb7c3defd2f3bfbc", 
+      "title": "Language to Logical Form with Neural Attention", 
+      "url": "https://www.semanticscholar.org/paper/2597166e343485df41afb88dfb7c3defd2f3bfbc", 
+      "venue": "ACL", 
+      "year": 2016
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "fd2bcef8cb8e46f93471df04154aad727800ad28", 
+      "title": "Cross-lingual Learning of an Open-domain Semantic Parser", 
+      "url": "https://www.semanticscholar.org/paper/fd2bcef8cb8e46f93471df04154aad727800ad28", 
+      "venue": "COLING", 
+      "year": 2016
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "1ef01e7bfab2041bc0c0a56a57906964df9fc985", 
+      "title": "Question Answering over Freebase with Multi-Column Convolutional Neural Networks", 
+      "url": "https://www.semanticscholar.org/paper/1ef01e7bfab2041bc0c0a56a57906964df9fc985", 
+      "venue": "ACL", 
+      "year": 2015
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "2161c8b180b8b80be278908dc7de81760ffbfa46", 
+      "title": "Learning Structured Natural Language Representations for Semantic Parsing", 
+      "url": "https://www.semanticscholar.org/paper/2161c8b180b8b80be278908dc7de81760ffbfa46", 
+      "venue": "ACL", 
+      "year": 2017
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "40d25c148b7ae32fdf1f33a9a3d7627319ce4f5c", 
+      "title": "On Generating Characteristic-rich Question Sets for QA Evaluation", 
+      "url": "https://www.semanticscholar.org/paper/40d25c148b7ae32fdf1f33a9a3d7627319ce4f5c", 
+      "venue": "EMNLP", 
+      "year": 2016
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "21391aaab8a0aade4c2504ab77c38e6a9df5b22d", 
+      "title": "AMUSE: Multilingual Semantic Parsing for Question Answering over Linked Data", 
+      "url": "https://www.semanticscholar.org/paper/21391aaab8a0aade4c2504ab77c38e6a9df5b22d", 
+      "venue": "", 
+      "year": 2017
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "6fba4968f1b39d490bf95fe4030e3d385f167074", 
+      "title": "Machine Learning with World Knowledge: The Position and Survey", 
+      "url": "https://www.semanticscholar.org/paper/6fba4968f1b39d490bf95fe4030e3d385f167074", 
+      "venue": "ArXiv", 
+      "year": 2017
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "ae250b50d9dd8ec3a1ff5600e0f5dd3836b9f9bc", 
+      "title": "A World Knowledge as Indirect Supervision for Document Clustering", 
+      "url": "https://www.semanticscholar.org/paper/ae250b50d9dd8ec3a1ff5600e0f5dd3836b9f9bc", 
+      "venue": "", 
+      "year": 2016
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "4697052d5eb48b40700bdc25045fdd21ceb5a5a0", 
+      "title": "Transforming Dependency Structures to Logical Forms for Semantic Parsing", 
+      "url": "https://www.semanticscholar.org/paper/4697052d5eb48b40700bdc25045fdd21ceb5a5a0", 
+      "venue": "TACL", 
+      "year": 2016
+    }, 
+    {
+      "isInfluential": true, 
+      "paperId": "5f9bf03fbb4487a2bd42dbd45835768d6133de6d", 
+      "title": "Grounded Semantic Parsing for Complex Knowledge Extraction", 
+      "url": "https://www.semanticscholar.org/paper/5f9bf03fbb4487a2bd42dbd45835768d6133de6d", 
+      "venue": "HLT-NAACL", 
+      "year": 2015
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "afc6909a909d3d30dc12a36a818c846dff392c43", 
+      "title": "Paraphrase for Open Question Answering: New Dataset and Methods", 
+      "url": "https://www.semanticscholar.org/paper/afc6909a909d3d30dc12a36a818c846dff392c43", 
+      "venue": "", 
+      "year": 2016
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "c4b6d99db8fccac02929c12e1d6d4793449d71cb", 
+      "title": "Question Answering on Freebase via Relation Extraction and Textual Evidence", 
+      "url": "https://www.semanticscholar.org/paper/c4b6d99db8fccac02929c12e1d6d4793449d71cb", 
+      "venue": "ACL", 
+      "year": 2016
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "37e53c0dba4310e680d8de2c72fbd2401e9a79c0", 
+      "title": "Alignment-Based Compositional Semantics for Instruction Following", 
+      "url": "https://www.semanticscholar.org/paper/37e53c0dba4310e680d8de2c72fbd2401e9a79c0", 
+      "venue": "EMNLP", 
+      "year": 2015
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "0e27493639268ecd35356e5e08d45e5d0dcd7fd8", 
+      "title": "Table Cell Search for Question Answering", 
+      "url": "https://www.semanticscholar.org/paper/0e27493639268ecd35356e5e08d45e5d0dcd7fd8", 
+      "venue": "WWW", 
+      "year": 2016
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "6611cf821f589111adfc0a6fbb426fa726f4a9af", 
+      "title": "Neural Semantic Parsing over Multiple Knowledge-bases", 
+      "url": "https://www.semanticscholar.org/paper/6611cf821f589111adfc0a6fbb426fa726f4a9af", 
+      "venue": "ACL", 
+      "year": 2017
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "6a7135c6a91944206d4aed294b2134b99f71a574", 
+      "title": "Hindi CCGbank: A CCG treebank from the Hindi dependency treebank", 
+      "url": "https://www.semanticscholar.org/paper/6a7135c6a91944206d4aed294b2134b99f71a574", 
+      "venue": "", 
+      "year": 2017
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "0551fa57a42ae0fff9c670dffecfc0c63e0ec89d", 
+      "title": "A* CCG Parsing with a Supertag-factored Model", 
+      "url": "https://www.semanticscholar.org/paper/0551fa57a42ae0fff9c670dffecfc0c63e0ec89d", 
+      "venue": "EMNLP", 
+      "year": 2014
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "41ab97376fcbd67d05bad648b40d92d96a3f1c1c", 
+      "title": "Compositional Semantic Parsing on Semi-Structured Tables", 
+      "url": "https://www.semanticscholar.org/paper/41ab97376fcbd67d05bad648b40d92d96a3f1c1c", 
+      "venue": "ACL", 
+      "year": 2015
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "37e998ed7c9cf04d3bf22b36d2204c23d55956d4", 
+      "title": "Learning Semantic Correspondences in Technical Documentation", 
+      "url": "https://www.semanticscholar.org/paper/37e998ed7c9cf04d3bf22b36d2204c23d55956d4", 
+      "venue": "ACL", 
+      "year": 2017
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "62a6cf246c9bec56babab9424fa36bfc9d4a47e8", 
+      "title": "CFO: Conditional Focused Neural Question Answering with Large-scale Knowledge Bases", 
+      "url": "https://www.semanticscholar.org/paper/62a6cf246c9bec56babab9424fa36bfc9d4a47e8", 
+      "venue": "ACL", 
+      "year": 2016
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "842fb6bcbc404d713d182472364ce0e8e559132c", 
+      "title": "Sentence Rewriting for Semantic Parsing", 
+      "url": "https://www.semanticscholar.org/paper/842fb6bcbc404d713d182472364ce0e8e559132c", 
+      "venue": "ACL", 
+      "year": 2016
+    }
+  ], 
+  "doi": null, 
+  "influentialCitationCount": 4, 
+  "paperId": "0730efeacf9bfd6d65ca6c2fa659b396f48d5659", 
+  "references": [
+    {
+      "isInfluential": false, 
+      "paperId": "19fa660aad4d774f205072f843e5f5349ee323c4", 
+      "title": "Combined Distributional and Logical Semantics", 
+      "url": "https://www.semanticscholar.org/paper/19fa660aad4d774f205072f843e5f5349ee323c4", 
+      "venue": "TACL", 
+      "year": 2013
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "508e5b724c8b841aecfae864e5d6dcd02eb28772", 
+      "title": "Bootstrapping Semantic Parsers from Conversations", 
+      "url": "https://www.semanticscholar.org/paper/508e5b724c8b841aecfae864e5d6dcd02eb28772", 
+      "venue": "EMNLP", 
+      "year": 2011
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "1c9df99cce1903d34c53025e86e72331bbfbe08f", 
+      "title": "Learning to Parse Database Queries Using Inductive Logic Programming", 
+      "url": "https://www.semanticscholar.org/paper/1c9df99cce1903d34c53025e86e72331bbfbe08f", 
+      "venue": "AAAI/IAAI, Vol. 2", 
+      "year": 1996
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "07d9dcb679eb1ed90c077a4ec736ac21768b0229", 
+      "title": "Reinforcement Learning for Mapping Instructions to Actions", 
+      "url": "https://www.semanticscholar.org/paper/07d9dcb679eb1ed90c077a4ec736ac21768b0229", 
+      "venue": "ACL/IJCNLP", 
+      "year": 2009
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "a116b1875959d4473c9a684293cb503f319ad2e9", 
+      "title": "Driving Semantic Parsing from the World's Response", 
+      "url": "https://www.semanticscholar.org/paper/a116b1875959d4473c9a684293cb503f319ad2e9", 
+      "venue": "CoNLL", 
+      "year": 2010
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "4a39f7ad5f4fc207a7c31b06c603f2e85effe225", 
+      "title": "Learning High-Level Planning from Text", 
+      "url": "https://www.semanticscholar.org/paper/4a39f7ad5f4fc207a7c31b06c603f2e85effe225", 
+      "venue": "ACL", 
+      "year": 2012
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "760836263a766c71901e8e92417da34654d627df", 
+      "title": "Building Deep Dependency Structures with a Wide-Coverage CCG Parser", 
+      "url": "https://www.semanticscholar.org/paper/760836263a766c71901e8e92417da34654d627df", 
+      "venue": "", 
+      "year": 2002
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "1acbf74193e6329b6fa8169f066e02ae4fc18dd2", 
+      "title": "The Syntactic Process", 
+      "url": "https://www.semanticscholar.org/paper/1acbf74193e6329b6fa8169f066e02ae4fc18dd2", 
+      "venue": "", 
+      "year": 2002
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "0e04c49e6ced2be382b7abd27f7e3e53471bb0d9", 
+      "title": "Information Extraction over Structured Data: Question Answering with Freebase", 
+      "url": "https://www.semanticscholar.org/paper/0e04c49e6ced2be382b7abd27f7e3e53471bb0d9", 
+      "venue": "ACL", 
+      "year": 2014
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "8f8139b63a2fc0b3ae8413acaef47acd35a356e0", 
+      "title": "Distant supervision for relation extraction without labeled data", 
+      "url": "https://www.semanticscholar.org/paper/8f8139b63a2fc0b3ae8413acaef47acd35a356e0", 
+      "venue": "ACL/IJCNLP", 
+      "year": 2009
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "37ca75f5f6664fc9ed835a53b48258ec92eb73cd", 
+      "title": "Learning Dependency-Based Compositional Semantics", 
+      "url": "https://www.semanticscholar.org/paper/37ca75f5f6664fc9ed835a53b48258ec92eb73cd", 
+      "venue": "ACL", 
+      "year": 2011
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "3b8e7c8220d3883d54960d896a73045f3c70ac17", 
+      "title": "Discriminative Training Methods For Hidden Markov Models: Theory And Experiments With Perceptron Algorithms", 
+      "url": "https://www.semanticscholar.org/paper/3b8e7c8220d3883d54960d896a73045f3c70ac17", 
+      "venue": "", 
+      "year": 2002
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "c2ecc66c0e5f976b0e0d95c64ed2d1e283a2625d", 
+      "title": "Learning Synchronous Grammars for Semantic Parsing with Lambda Calculus", 
+      "url": "https://www.semanticscholar.org/paper/c2ecc66c0e5f976b0e0d95c64ed2d1e283a2625d", 
+      "venue": "ACL", 
+      "year": 2007
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "00ff3c9d8bbcc09448b768aa80666eb775445c00", 
+      "title": "Weakly Supervised Training of Semantic Parsers", 
+      "url": "https://www.semanticscholar.org/paper/00ff3c9d8bbcc09448b768aa80666eb775445c00", 
+      "venue": "EMNLP-CoNLL", 
+      "year": 2012
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "7bef4d04939a8553e4d424d98899153fe8786022", 
+      "title": "Abstract Meaning Representation for Sembanking", 
+      "url": "https://www.semanticscholar.org/paper/7bef4d04939a8553e4d424d98899153fe8786022", 
+      "venue": "LAW@ACL", 
+      "year": 2013
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "b9eea85e590f6e522e3681b8e45012684c60b0fd", 
+      "title": "Parsing the WSJ Using CCG and Log-Linear Models", 
+      "url": "https://www.semanticscholar.org/paper/b9eea85e590f6e522e3681b8e45012684c60b0fd", 
+      "venue": "ACL", 
+      "year": 2004
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "674ec285ce3a2d0a28d5dbf555f9885764bb6b45", 
+      "title": "Online Learning of Relaxed CCG Grammars for Parsing to Logical Form", 
+      "url": "https://www.semanticscholar.org/paper/674ec285ce3a2d0a28d5dbf555f9885764bb6b45", 
+      "venue": "EMNLP-CoNLL", 
+      "year": 2007
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "042db0977555fcd7d5eac67b26695cd918ecb44c", 
+      "title": "Semantic Parsing on Freebase from Question-Answer Pairs", 
+      "url": "https://www.semanticscholar.org/paper/042db0977555fcd7d5eac67b26695cd918ecb44c", 
+      "venue": "EMNLP", 
+      "year": 2013
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "0ec1a840e6895101b7040f7b32093785d4a0c0ef", 
+      "title": "Jointly Learning to Parse and Perceive: Connecting Natural Language to the Physical World", 
+      "url": "https://www.semanticscholar.org/paper/0ec1a840e6895101b7040f7b32093785d4a0c0ef", 
+      "venue": "TACL", 
+      "year": 2013
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "097665e66a05d316ad0e649fec374db44a485bda", 
+      "title": "Semantic Parsing via Paraphrasing", 
+      "url": "https://www.semanticscholar.org/paper/097665e66a05d316ad0e649fec374db44a485bda", 
+      "venue": "ACL", 
+      "year": 2014
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "52b5eab895a2d9ae24ea72ca72782974a52f90c4", 
+      "title": "Relation Extraction with Matrix Factorization and Universal Schemas", 
+      "url": "https://www.semanticscholar.org/paper/52b5eab895a2d9ae24ea72ca72782974a52f90c4", 
+      "venue": "HLT-NAACL", 
+      "year": 2013
+    }, 
+    {
+      "isInfluential": true, 
+      "paperId": "3adf41984ca96649adedc1fa4d3c69cc8404d00f", 
+      "title": "Scaling Semantic Parsers with On-the-Fly Ontology Matching", 
+      "url": "https://www.semanticscholar.org/paper/3adf41984ca96649adedc1fa4d3c69cc8404d00f", 
+      "venue": "EMNLP", 
+      "year": 2013
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "1b667d1234611336d99cb2bca0d6369fe10ba521", 
+      "title": "Learning to Interpret Natural Language Navigation Instructions from Observation", 
+      "url": "https://www.semanticscholar.org/paper/1b667d1234611336d99cb2bca0d6369fe10ba521", 
+      "venue": "", 
+      "year": 2011
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "c7ca1ca3da784a7ae8217d60ba9e367159badb0b", 
+      "title": "Grounded Unsupervised Semantic Parsing", 
+      "url": "https://www.semanticscholar.org/paper/c7ca1ca3da784a7ae8217d60ba9e367159badb0b", 
+      "venue": "ACL", 
+      "year": 2013
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "d48edf9e81653f4c3da716b037b0b50d54c5b034", 
+      "title": "Knowledge-Based Weak Supervision for Information Extraction of Overlapping Relations", 
+      "url": "https://www.semanticscholar.org/paper/d48edf9e81653f4c3da716b037b0b50d54c5b034", 
+      "venue": "ACL", 
+      "year": 2011
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "79cd660c697d1f628b0083c09051d9ec39f40148", 
+      "title": "Paraphrase-Driven Learning for Open Question Answering", 
+      "url": "https://www.semanticscholar.org/paper/79cd660c697d1f628b0083c09051d9ec39f40148", 
+      "venue": "ACL", 
+      "year": 2013
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "1c7a1d0b183d0db47a438299d023684491461eac", 
+      "title": "Wide-Coverage Semantic Representations from a CCG Parser", 
+      "url": "https://www.semanticscholar.org/paper/1c7a1d0b183d0db47a438299d023684491461eac", 
+      "venue": "COLING", 
+      "year": 2004
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "14ea9a076ee744959d4ab2188a06d0ce64d362bf", 
+      "title": "Weakly Supervised Learning of Semantic Parsers for Mapping Instructions to Actions", 
+      "url": "https://www.semanticscholar.org/paper/14ea9a076ee744959d4ab2188a06d0ce64d362bf", 
+      "venue": "TACL", 
+      "year": 2013
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "130d02b4767018cafd20fd7ebfb0a374d41e7d52", 
+      "title": "Confidence Driven Unsupervised Semantic Parsing", 
+      "url": "https://www.semanticscholar.org/paper/130d02b4767018cafd20fd7ebfb0a374d41e7d52", 
+      "venue": "ACL", 
+      "year": 2011
+    }, 
+    {
+      "isInfluential": true, 
+      "paperId": "03001cea1ef5aadd0330544acb6fcbaa68825697", 
+      "title": "Wide-Coverage Efficient Statistical Parsing with CCG and Log-Linear Models", 
+      "url": "https://www.semanticscholar.org/paper/03001cea1ef5aadd0330544acb6fcbaa68825697", 
+      "venue": "Computational Linguistics", 
+      "year": 2007
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "1cd59678309fea8018e7ff8230359af24ce4a4ae", 
+      "title": "Inducing Probabilistic CCG Grammars from Logical Form with Higher-Order Unification", 
+      "url": "https://www.semanticscholar.org/paper/1cd59678309fea8018e7ff8230359af24ce4a4ae", 
+      "venue": "EMNLP", 
+      "year": 2010
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "0b48e1bd69c5b87f197397f933ce7f5261fa00bb", 
+      "title": "A Joint Model of Language and Perception for Grounded Attribute Learning", 
+      "url": "https://www.semanticscholar.org/paper/0b48e1bd69c5b87f197397f933ce7f5261fa00bb", 
+      "venue": "ICML", 
+      "year": 2012
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "1969a39db6f322a8e3f204fdc8c781bec5cf26d6", 
+      "title": "Learning to Map Sentences to Logical Form: Structured Classification with Probabilistic Categorial Grammars", 
+      "url": "https://www.semanticscholar.org/paper/1969a39db6f322a8e3f204fdc8c781bec5cf26d6", 
+      "venue": "UAI", 
+      "year": 2005
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "2aba84801935041774c1e2b749e0331efa322ed8", 
+      "title": "Learning from natural instructions", 
+      "url": "https://www.semanticscholar.org/paper/2aba84801935041774c1e2b749e0331efa322ed8", 
+      "venue": "Machine Learning", 
+      "year": 2011
+    }, 
+    {
+      "isInfluential": true, 
+      "paperId": "80c2d8c691b09f8b4e53f512b9d2641b49fda935", 
+      "title": "Large-scale Semantic Parsing via Schema Matching and Lexicon Extension", 
+      "url": "https://www.semanticscholar.org/paper/80c2d8c691b09f8b4e53f512b9d2641b49fda935", 
+      "venue": "ACL", 
+      "year": 2013
+    }
+  ], 
+  "title": "Large-scale Semantic Parsing without Question-Answer Pairs", 
+  "url": "https://www.semanticscholar.org/paper/0730efeacf9bfd6d65ca6c2fa659b396f48d5659", 
+  "venue": "TACL", 
+  "year": 2014
+}

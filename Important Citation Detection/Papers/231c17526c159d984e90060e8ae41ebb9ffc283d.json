@@ -1,0 +1,959 @@
+{
+  "authors": [
+    {
+      "authorId": "1763608", 
+      "name": "Chris Callison-Burch", 
+      "url": "https://www.semanticscholar.org/author/1763608"
+    }, 
+    {
+      "authorId": "1755162", 
+      "name": "Philipp Koehn", 
+      "url": "https://www.semanticscholar.org/author/1755162"
+    }, 
+    {
+      "authorId": "1696402", 
+      "name": "Christof Monz", 
+      "url": "https://www.semanticscholar.org/author/1696402"
+    }, 
+    {
+      "authorId": "5704053", 
+      "name": "Josh Schroeder", 
+      "url": "https://www.semanticscholar.org/author/5704053"
+    }
+  ], 
+  "citationVelocity": 0, 
+  "citations": [
+    {
+      "isInfluential": false, 
+      "paperId": "30457141c6501ab6019dd5e5e3fee613fe808758", 
+      "title": "Combining natural language processing systems to improve machine translation of speech", 
+      "url": "https://www.semanticscholar.org/paper/30457141c6501ab6019dd5e5e3fee613fe808758"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "d75f77f23d9e49986c4771ddf02d1f87de08970c", 
+      "title": "The Impact of Sentence Alignment Errors on Phrase-Based Machine Translation Performance", 
+      "url": "https://www.semanticscholar.org/paper/d75f77f23d9e49986c4771ddf02d1f87de08970c"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "abbbc40e3642d211f5f4d3852c0cb2004f4486eb", 
+      "title": "The UZH System Combination System for WMT 2011", 
+      "url": "https://www.semanticscholar.org/paper/abbbc40e3642d211f5f4d3852c0cb2004f4486eb"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "4c86a93ebdcaaa1394c84d280e3be585acad045c", 
+      "title": "Evaluate with Confidence Estimation: Machine ranking of translation outputs using grammatical features", 
+      "url": "https://www.semanticscholar.org/paper/4c86a93ebdcaaa1394c84d280e3be585acad045c"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "08d9f8293bec748ced07b43b5aa0c8b90a874dcd", 
+      "title": "Adding Multi-Threaded Decoding to Moses", 
+      "url": "https://www.semanticscholar.org/paper/08d9f8293bec748ced07b43b5aa0c8b90a874dcd"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "0481f874a5f20c6f63915dd043bfe45101b4b3d4", 
+      "title": "Monte Carlo techniques for phrase-based translation", 
+      "url": "https://www.semanticscholar.org/paper/0481f874a5f20c6f63915dd043bfe45101b4b3d4"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "6fe0c65114b3d4ad8c996eb8b815b36ae1b6009f", 
+      "title": "Better Evaluation Metrics Lead to Better Machine Translation", 
+      "url": "https://www.semanticscholar.org/paper/6fe0c65114b3d4ad8c996eb8b815b36ae1b6009f"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "904f60edb4b45339196703668582d5c0b3e484fb", 
+      "title": "N-Best Reranking by Multitask Learning", 
+      "url": "https://www.semanticscholar.org/paper/904f60edb4b45339196703668582d5c0b3e484fb"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "0755788d4d7f39a5fc6ca3c2158cfd44e1013de8", 
+      "title": "C\u030ces\u030ctina a Strojovy\u0301 Pr\u030ceklad", 
+      "url": "https://www.semanticscholar.org/paper/0755788d4d7f39a5fc6ca3c2158cfd44e1013de8"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "5d123e59504cdb251df11a5a03c6fa9849033fd7", 
+      "title": "Analysing the Effect of Out-of-Domain Data on SMT Systems", 
+      "url": "https://www.semanticscholar.org/paper/5d123e59504cdb251df11a5a03c6fa9849033fd7"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "389f0e5d74712ec97ae5b86d1153d862a2b47580", 
+      "title": "Connotation in Translation", 
+      "url": "https://www.semanticscholar.org/paper/389f0e5d74712ec97ae5b86d1153d862a2b47580"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "20b85b1c7718b381475691b1ad9227058668b9d4", 
+      "title": "Monte Carlo inference and maximization for phrase-based translation", 
+      "url": "https://www.semanticscholar.org/paper/20b85b1c7718b381475691b1ad9227058668b9d4"
+    }, 
+    {
+      "isInfluential": true, 
+      "paperId": "5971caf89d0991ae0b57f10fb27e9a8e9f28802c", 
+      "title": "Word Alignment Based Parallel Corpora Evaluation and Cleaning Using Machine Learning Techniques", 
+      "url": "https://www.semanticscholar.org/paper/5971caf89d0991ae0b57f10fb27e9a8e9f28802c"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "095e4f92569ef4b6c3e3f9f293fdec7ca78671a2", 
+      "title": "Combining Machine Translation Output with Open Source", 
+      "url": "https://www.semanticscholar.org/paper/095e4f92569ef4b6c3e3f9f293fdec7ca78671a2"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "e46af731e897693285d37634396fa4c1240cf8c3", 
+      "title": "Analyzing Error Types in English-Czech Machine Translation", 
+      "url": "https://www.semanticscholar.org/paper/e46af731e897693285d37634396fa4c1240cf8c3"
+    }, 
+    {
+      "isInfluential": true, 
+      "paperId": "46ac890f68cbd5803bb87338434f3b3db76e12e2", 
+      "title": "3.4: Evaluation of Tree Transfer System", 
+      "url": "https://www.semanticscholar.org/paper/46ac890f68cbd5803bb87338434f3b3db76e12e2"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "b31e4035c8d30892e69c9f0f645b07e182209a6d", 
+      "title": "Alignment-based reordering for SMT", 
+      "url": "https://www.semanticscholar.org/paper/b31e4035c8d30892e69c9f0f645b07e182209a6d"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "5d3b1e3455a15edd561663ad29a9b408587434dc", 
+      "title": "Jane: Open Source Hierarchical Translation, Extended with Reordering and Lexicon Models", 
+      "url": "https://www.semanticscholar.org/paper/5d3b1e3455a15edd561663ad29a9b408587434dc"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "2d729bb451391b367cc7ab7ea6debc5b6d7f0c8b", 
+      "title": "Qualitative Analysis of Post-Editing for High Quality Machine Translation", 
+      "url": "https://www.semanticscholar.org/paper/2d729bb451391b367cc7ab7ea6debc5b6d7f0c8b"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "105d6a630b0a2cb8db97ac15b14ae8834e2b6d85", 
+      "title": "Looking for the best Evaluation Method for Interlingua- based Spoken Language Translation in the medical Domain", 
+      "url": "https://www.semanticscholar.org/paper/105d6a630b0a2cb8db97ac15b14ae8834e2b6d85"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "0c3245022d37e1f7f81e1d04483858354a71a204", 
+      "title": "A Framework for Discriminative Rule Selection in Hierarchical Moses", 
+      "url": "https://www.semanticscholar.org/paper/0c3245022d37e1f7f81e1d04483858354a71a204"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "7cd4378a2b3ffb1b35a455c500cc1f8c51ebf76b", 
+      "title": "Fusion of Word and Letter Based Metrics for Automatic MT Evaluation", 
+      "url": "https://www.semanticscholar.org/paper/7cd4378a2b3ffb1b35a455c500cc1f8c51ebf76b"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "cd395f2898b6f26abc044a6c8bcba1892b3d00d4", 
+      "title": "Machine Translation Using Automatically Inferred Construction-Based Correspondence and Language Models", 
+      "url": "https://www.semanticscholar.org/paper/cd395f2898b6f26abc044a6c8bcba1892b3d00d4"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "03f225fcae64506b824948d52ad860ad39c3e3f6", 
+      "title": "Minimum Bayes Risk Decoding with Enlarged Hypothesis Space in System Combination", 
+      "url": "https://www.semanticscholar.org/paper/03f225fcae64506b824948d52ad860ad39c3e3f6"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "344359b128ac56843c850a814b229e2ee0b8d3fd", 
+      "title": "On the use of machine translation for spoken language understanding portability", 
+      "url": "https://www.semanticscholar.org/paper/344359b128ac56843c850a814b229e2ee0b8d3fd"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "6562f292e221ee09da6ae7f8e6bccc6bbe22595c", 
+      "title": "Introduction to China\u2019s CWMT2008 Machine Translation Evaluation", 
+      "url": "https://www.semanticscholar.org/paper/6562f292e221ee09da6ae7f8e6bccc6bbe22595c"
+    }, 
+    {
+      "isInfluential": true, 
+      "paperId": "3fe4334a44197979a0d0d879eae24dac72e4d6e1", 
+      "title": "ONTS: \"Optima\" News Translation System", 
+      "url": "https://www.semanticscholar.org/paper/3fe4334a44197979a0d0d879eae24dac72e4d6e1"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "e143b57c05be76251391fe7e7bc2e1789d75795a", 
+      "title": "PARADOCS: A Language Independant Go-Between for Mating Parallel Documents", 
+      "url": "https://www.semanticscholar.org/paper/e143b57c05be76251391fe7e7bc2e1789d75795a"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "828e7cff761d3203a39d848934ec74f6cedc1453", 
+      "title": "Translating from Complex to Simplified Sentences", 
+      "url": "https://www.semanticscholar.org/paper/828e7cff761d3203a39d848934ec74f6cedc1453"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "bb76dc8fd02d3dee5cd0d8bac1229a2715ad9b27", 
+      "title": "Accurate Evaluation of Segment-level Machine Translation Metrics", 
+      "url": "https://www.semanticscholar.org/paper/bb76dc8fd02d3dee5cd0d8bac1229a2715ad9b27"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "4166dde4c71ce8a10cd101227396fb24a449f2d1", 
+      "title": "Tackling Sparse Data Issue in Machine Translation Evaluation", 
+      "url": "https://www.semanticscholar.org/paper/4166dde4c71ce8a10cd101227396fb24a449f2d1"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "9f8173bd1dc732fe832cb05ad80af245be8b8d58", 
+      "title": "Findings of the 2016 Conference on Machine Translation", 
+      "url": "https://www.semanticscholar.org/paper/9f8173bd1dc732fe832cb05ad80af245be8b8d58"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "eb6238bda3b38fed6aacb840c17d29921a26d86c", 
+      "title": "Minimum Bayes\u2019 risk subsequence combination for machine translation", 
+      "url": "https://www.semanticscholar.org/paper/eb6238bda3b38fed6aacb840c17d29921a26d86c"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "0ccafe225c24d6c42eb5b24acef80db4096633cb", 
+      "title": "Combining Confidence Estimation and Reference-based Metrics for Segment-level MT Evaluation", 
+      "url": "https://www.semanticscholar.org/paper/0ccafe225c24d6c42eb5b24acef80db4096633cb"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "3e2529cf0a2b7bd744b3a820e0626b448f1e7836", 
+      "title": "Data-Driven Response Generation in Social Media", 
+      "url": "https://www.semanticscholar.org/paper/3e2529cf0a2b7bd744b3a820e0626b448f1e7836"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "87b22ec715e87b905e14340ed73a927000788d2c", 
+      "title": "Controlled Ascent: Imbuing Statistical MT with Linguistic Knowledge", 
+      "url": "https://www.semanticscholar.org/paper/87b22ec715e87b905e14340ed73a927000788d2c"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "10a6326606d1c695fc2e8fcf1c737bc9f8c677d3", 
+      "title": "Fast, Cheap, and Creative: Evaluating Translation Quality Using Amazon's Mechanical Turk", 
+      "url": "https://www.semanticscholar.org/paper/10a6326606d1c695fc2e8fcf1c737bc9f8c677d3"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "a0877144a992e047dadf2763cd2df31a909389b2", 
+      "title": "Using Comparable Corpora to Augment Low Resource SMT Models", 
+      "url": "https://www.semanticscholar.org/paper/a0877144a992e047dadf2763cd2df31a909389b2"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "9ae62a9f18d2e29d2ad9b08e3418d6fd083d27d5", 
+      "title": "PPDB: The Paraphrase Database", 
+      "url": "https://www.semanticscholar.org/paper/9ae62a9f18d2e29d2ad9b08e3418d6fd083d27d5"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "1fc3b43a620703c9141f399c0bb3da2712eec847", 
+      "title": "Czech Machine Translation in the project CzechMATE", 
+      "url": "https://www.semanticscholar.org/paper/1fc3b43a620703c9141f399c0bb3da2712eec847"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "404731f548797c65806b916fd5fe6bfb95423115", 
+      "title": "Data Selection for Discriminative Training in Statistical Machine Translation", 
+      "url": "https://www.semanticscholar.org/paper/404731f548797c65806b916fd5fe6bfb95423115"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "3fd6826fafea90c8c868f07fe7ad433e9d8767fe", 
+      "title": "Chained Machine Translation Using Morphemes as Pivot Language", 
+      "url": "https://www.semanticscholar.org/paper/3fd6826fafea90c8c868f07fe7ad433e9d8767fe"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "b64013f5322198cf56554ce7d4b6c9c217d593f5", 
+      "title": "Corroborating Text Evaluation Results with Heterogeneous Measures", 
+      "url": "https://www.semanticscholar.org/paper/b64013f5322198cf56554ce7d4b6c9c217d593f5"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "37ded3193329e89229529ced271034d15ca04d4c", 
+      "title": "Evaluating N-gram based Evaluation Metrics for Automatic Keyphrase Extraction", 
+      "url": "https://www.semanticscholar.org/paper/37ded3193329e89229529ced271034d15ca04d4c"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "195f5427178966c6db07beea715809daad6d58f6", 
+      "title": "Lattice rescoring methods for statistical machine translation", 
+      "url": "https://www.semanticscholar.org/paper/195f5427178966c6db07beea715809daad6d58f6"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "48f036ff5657b7ed31bd0a781a946886a39a81a4", 
+      "title": "Learning to translate with products of novices: a suite of open-ended challenge problems for teaching MT", 
+      "url": "https://www.semanticscholar.org/paper/48f036ff5657b7ed31bd0a781a946886a39a81a4"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "c47ca67e944adc12dbd65638cd0ffa447374767e", 
+      "title": "SMT Experiments for Romanian and German Using JRC-ACQUIS", 
+      "url": "https://www.semanticscholar.org/paper/c47ca67e944adc12dbd65638cd0ffa447374767e"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "0525bbe83d45e9e34f5b607bc7480f58d795041b", 
+      "title": "Demonstration of Joshua: An Open Source Toolkit for Parsing-based Machine Translation", 
+      "url": "https://www.semanticscholar.org/paper/0525bbe83d45e9e34f5b607bc7480f58d795041b"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "9f50fc7a186df8fc27b1f609e921d2d93c8093d0", 
+      "title": "Text Harmonization Strategies for Phrase-Based Statistical Machine Translation", 
+      "url": "https://www.semanticscholar.org/paper/9f50fc7a186df8fc27b1f609e921d2d93c8093d0"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "a0fcda015c857a54149bd9dc26dd659622c8e6d9", 
+      "title": "Linear Transduction Grammar Alignments as a Second Translation Path", 
+      "url": "https://www.semanticscholar.org/paper/a0fcda015c857a54149bd9dc26dd659622c8e6d9"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "43afe0b00a2711e32c04895a6a3b3d3d13af47e8", 
+      "title": "Using a Grammar Checker for Evaluation and Postprocessing of Statistical Machine Translation", 
+      "url": "https://www.semanticscholar.org/paper/43afe0b00a2711e32c04895a6a3b3d3d13af47e8"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "93a37f717ef8dba3ac2d2fb65b0b67ae5b6855b3", 
+      "title": "Syntactic Transformations Modelling for Hybrid Machine Translation", 
+      "url": "https://www.semanticscholar.org/paper/93a37f717ef8dba3ac2d2fb65b0b67ae5b6855b3"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "e8e6f70ef657acb01d1927add4a00bc12cc8461b", 
+      "title": "PEM: A Paraphrase Evaluation Metric Exploiting Parallel Texts", 
+      "url": "https://www.semanticscholar.org/paper/e8e6f70ef657acb01d1927add4a00bc12cc8461b"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "c5541591beb67deb31cd98b6bfc0ea5156f60789", 
+      "title": "Procesamiento Lingu\u0308\u0301\u0131stico en Me\u0301tricas de Evaluacio\u0301n Automa\u0301tica de Traducciones Linguistic Processing in Automatic Translation Evaluation Metrics", 
+      "url": "https://www.semanticscholar.org/paper/c5541591beb67deb31cd98b6bfc0ea5156f60789"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "fa73c72389fb2e5594e1e7fc0e7e98ac0db6a87a", 
+      "title": "A process study of computer-aided translation", 
+      "url": "https://www.semanticscholar.org/paper/fa73c72389fb2e5594e1e7fc0e7e98ac0db6a87a"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "4322a88f972ab408073adf6029047b5b43bc1522", 
+      "title": "An Analysis (and an Annotated Corpus) of User Responses to Machine Translation Output", 
+      "url": "https://www.semanticscholar.org/paper/4322a88f972ab408073adf6029047b5b43bc1522"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "0cf22a4c059a5c9be7b6f3ad292ba434fa8a0d55", 
+      "title": "An Evaluation and Possible Improvement Path for Current SMT Behavior on Ambiguous Nouns", 
+      "url": "https://www.semanticscholar.org/paper/0cf22a4c059a5c9be7b6f3ad292ba434fa8a0d55"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "0b629d27f6d90eb2596fc2b0a17e6f514fa6352c", 
+      "title": "A unified framework for phrase-based, hierarchical, and syntax-based statistical machine translation", 
+      "url": "https://www.semanticscholar.org/paper/0b629d27f6d90eb2596fc2b0a17e6f514fa6352c"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "d4d4e489b38c0a5d1f6a6679cf567bf76fc43cbf", 
+      "title": "Feasibility of Human-in-the-loop Minimum Error Rate Training", 
+      "url": "https://www.semanticscholar.org/paper/d4d4e489b38c0a5d1f6a6679cf567bf76fc43cbf"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "d9f04d051ee67dc32d70f4bb803af3d5240a6227", 
+      "title": "Knowledge Expansion of a Statistical Machine Translation System using Morphological Resources", 
+      "url": "https://www.semanticscholar.org/paper/d9f04d051ee67dc32d70f4bb803af3d5240a6227"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "c5890c52ddb62b541287cbe4a1dbb195c49d6102", 
+      "title": "Rule Selection with Soft Syntactic Features for String-to-Tree Statistical Machine Translation", 
+      "url": "https://www.semanticscholar.org/paper/c5890c52ddb62b541287cbe4a1dbb195c49d6102"
+    }, 
+    {
+      "isInfluential": true, 
+      "paperId": "b27138cd6f2ab2bfd52d66ec49df9f8716fefc8f", 
+      "title": "Going Beyond Word Cooccurrences in Global Lexical Selection for Statistical Machine Translation using a Multilayer Perceptron", 
+      "url": "https://www.semanticscholar.org/paper/b27138cd6f2ab2bfd52d66ec49df9f8716fefc8f"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "180e9b8990c30b0909675bae6bea523de9827c18", 
+      "title": "Fluency Constraints for Minimum Bayes-Risk Decoding of Statistical Machine Translation Lattices", 
+      "url": "https://www.semanticscholar.org/paper/180e9b8990c30b0909675bae6bea523de9827c18"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "b66f8b4d68898fc7cbfa44f8aa14746aaf5c71f4", 
+      "title": "Combining Multi-Engine Machine Translation and Online Learning through Dynamic Phrase Tables", 
+      "url": "https://www.semanticscholar.org/paper/b66f8b4d68898fc7cbfa44f8aa14746aaf5c71f4"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "673ff7476723175c6c1869602bd0c25731dee3ee", 
+      "title": "Terra: a Collection of Translation Error-Annotated Corpora", 
+      "url": "https://www.semanticscholar.org/paper/673ff7476723175c6c1869602bd0c25731dee3ee"
+    }, 
+    {
+      "isInfluential": true, 
+      "paperId": "8a784013786a35ceb6954549e2a5624ade0952fb", 
+      "title": "Choosing the Right Evaluation for Machine Translation: an Examination of Annotator and Automatic Metric Performance on Human Judgment Tasks", 
+      "url": "https://www.semanticscholar.org/paper/8a784013786a35ceb6954549e2a5624ade0952fb"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "5449f4862236b72518eaa4150e643346d3302cc6", 
+      "title": "Dramatically Reducing Training Data Size Through Vocabulary Saturation", 
+      "url": "https://www.semanticscholar.org/paper/5449f4862236b72518eaa4150e643346d3302cc6"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "5f55aa811875e9789aad1c30b41ee819db4c4f15", 
+      "title": "Building a Multilingual Named Entity-Annotated Corpus Using Annotation Projection", 
+      "url": "https://www.semanticscholar.org/paper/5f55aa811875e9789aad1c30b41ee819db4c4f15"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "2a4adb6edb814e82d5a5d67962df731b7bbc833e", 
+      "title": "Reordering Metrics for MT", 
+      "url": "https://www.semanticscholar.org/paper/2a4adb6edb814e82d5a5d67962df731b7bbc833e"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "22def0dd05ce5402fbade81111a830b5dd765eb5", 
+      "title": "A Hybrid Morpheme-Word Representation for Machine Translation of Morphologically Rich Languages", 
+      "url": "https://www.semanticscholar.org/paper/22def0dd05ce5402fbade81111a830b5dd765eb5"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "9aca7760f984187d920d8b196adfa1807d7b96e0", 
+      "title": "Towards the Construction of Language Resources for Greek Multiword Expressions: Extraction and Evaluation, Author Index Augmenting a Statistical Machine Translation Baseline System with Syntactically Motivated Translation Examples", 
+      "url": "https://www.semanticscholar.org/paper/9aca7760f984187d920d8b196adfa1807d7b96e0"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "6366666d94cdee873688d0b337e4acde62a0e4a1", 
+      "title": "English-Hindi Translation \u2013 Obtaining Mediocre Results with Bad Data and Fancy Models", 
+      "url": "https://www.semanticscholar.org/paper/6366666d94cdee873688d0b337e4acde62a0e4a1"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "0951ee4295c4a1b2d0a5c088141c4d1cc0ba085d", 
+      "title": "Machine Translation Evaluation: A Survey", 
+      "url": "https://www.semanticscholar.org/paper/0951ee4295c4a1b2d0a5c088141c4d1cc0ba085d"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "055e359e91a7b907200d1932bc35e952941ab29b", 
+      "title": "Using Mechanical Turk to Build Machine Translation Evaluation Sets", 
+      "url": "https://www.semanticscholar.org/paper/055e359e91a7b907200d1932bc35e952941ab29b"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "0e251ba2a23206445c40d0d64ddaf43cc48b9147", 
+      "title": "Exodus - Exploring SMT for EU Institutions", 
+      "url": "https://www.semanticscholar.org/paper/0e251ba2a23206445c40d0d64ddaf43cc48b9147"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "793403ae7e3c631853243f268e02b5b3f1f9379e", 
+      "title": "Desarrollo de un sistema libre de traducci\u00f3n autom\u00e1tica del euskera al castellano", 
+      "url": "https://www.semanticscholar.org/paper/793403ae7e3c631853243f268e02b5b3f1f9379e"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "03939a162db2a6a5557f196956b6693c8cb131c1", 
+      "title": "Document-Level Automatic MT Evaluation based on Discourse Representations", 
+      "url": "https://www.semanticscholar.org/paper/03939a162db2a6a5557f196956b6693c8cb131c1"
+    }, 
+    {
+      "isInfluential": true, 
+      "paperId": "0ad5d7007f2e2282cb9ea813823c6d8bb861984d", 
+      "title": "Phrase-based Machine Translation in a Computer-assisted Translation Environment", 
+      "url": "https://www.semanticscholar.org/paper/0ad5d7007f2e2282cb9ea813823c6d8bb861984d"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "d160b1d3504d917f1af0ddaf9b1fa166163aa67f", 
+      "title": "Study and Comparison of Rule-Based and Statistical Catalan-Spanish Machine Translation Systems", 
+      "url": "https://www.semanticscholar.org/paper/d160b1d3504d917f1af0ddaf9b1fa166163aa67f"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "211c7b6125748a7584ca8303007ee94de9537bfd", 
+      "title": "Extending the METEOR Machine Translation Evaluation Metric to the Phrase Level", 
+      "url": "https://www.semanticscholar.org/paper/211c7b6125748a7584ca8303007ee94de9537bfd"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "33234ee9d9dd8e004d93ad8d2870c3a88e4b62f7", 
+      "title": "Statistical Post-Editing for a Statistical MT System", 
+      "url": "https://www.semanticscholar.org/paper/33234ee9d9dd8e004d93ad8d2870c3a88e4b62f7"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "f9876105318ef821b2353dca9f2d3164a3caca3a", 
+      "title": "A new approach for searching translated plagiarism", 
+      "url": "https://www.semanticscholar.org/paper/f9876105318ef821b2353dca9f2d3164a3caca3a"
+    }, 
+    {
+      "isInfluential": true, 
+      "paperId": "d818a05e6830f3632548d1a2a8af6d5716c6b772", 
+      "title": "Pre- and Postprocessing for Statistical Machine Translation into Germanic Languages", 
+      "url": "https://www.semanticscholar.org/paper/d818a05e6830f3632548d1a2a8af6d5716c6b772"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "c6afb129c24cc8a9018f45b17dce09290c376c51", 
+      "title": "Comparing Phrase-based and Syntax-based Paraphrase Generation", 
+      "url": "https://www.semanticscholar.org/paper/c6afb129c24cc8a9018f45b17dce09290c376c51"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "37de2e6a91a1520ee8bab9bdde3aa35278589bd2", 
+      "title": "System Combination for Grammatical Error Correction", 
+      "url": "https://www.semanticscholar.org/paper/37de2e6a91a1520ee8bab9bdde3aa35278589bd2"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "7338f0368886e8c493361db679dde8ea7e63af8f", 
+      "title": "Reproducible Results in Parsing-Based Machine Translation: The JHU Shared Task Submission", 
+      "url": "https://www.semanticscholar.org/paper/7338f0368886e8c493361db679dde8ea7e63af8f"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "2ac2826d668236c331177f3d1fc32692f1c98717", 
+      "title": "Probabilistic Finite State Machines for Regression-based MT Evaluation", 
+      "url": "https://www.semanticscholar.org/paper/2ac2826d668236c331177f3d1fc32692f1c98717"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "b9195783a9cac0e7bbabd7b58e5558d8505ad568", 
+      "title": "A Dataset for Assessing Machine Translation Evaluation Metrics", 
+      "url": "https://www.semanticscholar.org/paper/b9195783a9cac0e7bbabd7b58e5558d8505ad568"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "8b35fa913e1caf15916423cebc6a33b083e07ad7", 
+      "title": "Towards crowdsourcing translation tasks in library cataloguing, a pilot study", 
+      "url": "https://www.semanticscholar.org/paper/8b35fa913e1caf15916423cebc6a33b083e07ad7"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "bceb2cae5aada699a416dda97a1a6281011241ab", 
+      "title": "Appraise: An Open-Source Toolkit for Manual Phrase-Based Evaluation of Translations", 
+      "url": "https://www.semanticscholar.org/paper/bceb2cae5aada699a416dda97a1a6281011241ab"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "4fcac5cbe8ca402d2792d1dee140de9a223df652", 
+      "title": "HeMT: A Multilingual System for Human Evaluation of Metadata Records Machine Translation", 
+      "url": "https://www.semanticscholar.org/paper/4fcac5cbe8ca402d2792d1dee140de9a223df652"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "738d726f3c4c20ec1ac37812b645216506bb1890", 
+      "title": "Towards Automatic Error Analysis of Machine Translation Output", 
+      "url": "https://www.semanticscholar.org/paper/738d726f3c4c20ec1ac37812b645216506bb1890"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "abcd76c1b7fa52f13e9ec1acc9d9bc30638ddc0e", 
+      "title": "Automatic Projection of Semantic Structures: an Application to Pairwise Translation Ranking", 
+      "url": "https://www.semanticscholar.org/paper/abcd76c1b7fa52f13e9ec1acc9d9bc30638ddc0e"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "e5790f11ea502d02bfa4f997bf67235f6b33cabe", 
+      "title": "Integrating a Rule-based with a Hierarchical Translation System", 
+      "url": "https://www.semanticscholar.org/paper/e5790f11ea502d02bfa4f997bf67235f6b33cabe"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "d49e10490e3165ac0734ff89cc50fb0149a76409", 
+      "title": "Evaluation without references: IBM1 scores as evaluation metrics", 
+      "url": "https://www.semanticscholar.org/paper/d49e10490e3165ac0734ff89cc50fb0149a76409"
+    }, 
+    {
+      "isInfluential": true, 
+      "paperId": "b67fffa8379a68e7c3ec921329a55a39e3d028f4", 
+      "title": "Discourse Structure in Machine Translation Evaluation", 
+      "url": "https://www.semanticscholar.org/paper/b67fffa8379a68e7c3ec921329a55a39e3d028f4"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "8b2ef4f33a1a62a5f86dc6fb010f7df41acabd23", 
+      "title": "Peeking through the language barrier: the development of a free/open-source gisting system for Basque to English based on apertium.org\u2217 Asoma\u0301ndose por encima de la barrera lingu\u0308\u0301\u0131stica: desarollo de un sistema libre/de co\u0301digo abierto euskera\u2013ingle\u0301s para la asimilacio\u0301n basado en apertium.org", 
+      "url": "https://www.semanticscholar.org/paper/8b2ef4f33a1a62a5f86dc6fb010f7df41acabd23"
+    }, 
+    {
+      "isInfluential": true, 
+      "paperId": "5c1b3ef7d82a026a14745bb7ec80bbae945f8171", 
+      "title": "Bootstrapping Quality Estimation in a live production environment", 
+      "url": "https://www.semanticscholar.org/paper/5c1b3ef7d82a026a14745bb7ec80bbae945f8171"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "4ed8f3b5da910a4907906aef775ad8a88e7e2405", 
+      "title": "Identifying Different Meanings of a Chinese Morpheme through Semantic Pattern Matching in Augmented Minimum Spanning Trees", 
+      "url": "https://www.semanticscholar.org/paper/4ed8f3b5da910a4907906aef775ad8a88e7e2405"
+    }, 
+    {
+      "isInfluential": true, 
+      "paperId": "2c7764debceeca841801e74015a9d8583f9c8d41", 
+      "title": "Modelling pronominal anaphora in statistical machine translation", 
+      "url": "https://www.semanticscholar.org/paper/2c7764debceeca841801e74015a9d8583f9c8d41"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "1aa62bcde6035ef7328efff25459f5166972f079", 
+      "title": "Linguistic-based Evaluation Criteria to identify Statistical Machine Translation Errors", 
+      "url": "https://www.semanticscholar.org/paper/1aa62bcde6035ef7328efff25459f5166972f079"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "89eca547b1a2f6208ae529d45a65a51cf49adbff", 
+      "title": "BLEU deconstructed: Designing a Better MT Evaluation Metric", 
+      "url": "https://www.semanticscholar.org/paper/89eca547b1a2f6208ae529d45a65a51cf49adbff"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "ebee5b9e866705100cec57357663a5f76ffc8426", 
+      "title": "Sentence-level ranking with quality estimation", 
+      "url": "https://www.semanticscholar.org/paper/ebee5b9e866705100cec57357663a5f76ffc8426"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "b01219bca9d502ad2108991cb1f61313f98b073f", 
+      "title": "Metrics for MT evaluation: evaluating reordering", 
+      "url": "https://www.semanticscholar.org/paper/b01219bca9d502ad2108991cb1f61313f98b073f"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "795fc757c3401729218fa9501aa2494b4228b336", 
+      "title": "Identifying Parallel Documents from a Large Bilingual Collection of Texts: Application to Parallel Article Extraction in Wikipedia.", 
+      "url": "https://www.semanticscholar.org/paper/795fc757c3401729218fa9501aa2494b4228b336"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "8dd02bbe1465236170ec9cd14fb01e94ca4aaea7", 
+      "title": "Findings of the WMT 2016 Bilingual Document Alignment Shared Task", 
+      "url": "https://www.semanticscholar.org/paper/8dd02bbe1465236170ec9cd14fb01e94ca4aaea7"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "05b10333313170a68be9dca6364250ab0b21f87e", 
+      "title": "A Critique of Statistical Machine Translation", 
+      "url": "https://www.semanticscholar.org/paper/05b10333313170a68be9dca6364250ab0b21f87e"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "6b940b1fd94110de2550abad5d15c8fc0414d155", 
+      "title": "LRscore for Evaluating Lexical and Reordering Quality in MT", 
+      "url": "https://www.semanticscholar.org/paper/6b940b1fd94110de2550abad5d15c8fc0414d155"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "220cfe59e9e0adf7e6d7e1355301e7e277694a09", 
+      "title": "Asiya: An Open Toolkit for Automatic Machine Translation (Meta-)Evaluation", 
+      "url": "https://www.semanticscholar.org/paper/220cfe59e9e0adf7e6d7e1355301e7e277694a09"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "0289100ae95530898490d1962949ba5cb3a50078", 
+      "title": "rgbF: An Open Source Tool for n-gram Based Automatic Evaluation of Machine Translation Output", 
+      "url": "https://www.semanticscholar.org/paper/0289100ae95530898490d1962949ba5cb3a50078"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "1e56634bdb05ca79f4ef16a3afc6fd2a954c04c3", 
+      "title": "Measurement of Progress in Machine Translation", 
+      "url": "https://www.semanticscholar.org/paper/1e56634bdb05ca79f4ef16a3afc6fd2a954c04c3"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "03d5aebc199d508809a0e47a3ed22eb79a26def0", 
+      "title": "Shallow Local Multi-Bottom-up Tree Transducers in Statistical Machine Translation", 
+      "url": "https://www.semanticscholar.org/paper/03d5aebc199d508809a0e47a3ed22eb79a26def0"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "444f184a18a69479bcd22814795a34e1536de638", 
+      "title": "What is a Better Translation? Reflections on Six Years of Running Evaluation Campaigns", 
+      "url": "https://www.semanticscholar.org/paper/444f184a18a69479bcd22814795a34e1536de638"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "081a4fb6cd4f55ee985a41958496e89646fdb738", 
+      "title": "'Poetic' Statistical Machine Translation: Rhyme and Meter", 
+      "url": "https://www.semanticscholar.org/paper/081a4fb6cd4f55ee985a41958496e89646fdb738"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "2128ea52570d7a488ec6a7858fc6b75532bb93ba", 
+      "title": "DFKI's SC and MT submissions to IWSLT 2011", 
+      "url": "https://www.semanticscholar.org/paper/2128ea52570d7a488ec6a7858fc6b75532bb93ba"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "308f74e54099e9fe9572882f335a409e0ef08d4f", 
+      "title": "The RALI Machine Translation System for WMT 2010", 
+      "url": "https://www.semanticscholar.org/paper/308f74e54099e9fe9572882f335a409e0ef08d4f"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "0f7c1dc8b62aa3c7ef238be3131dcaf6dbcd3a9c", 
+      "title": "Combining Machine Translation Output with Open SourceThe Carnegie Mellon Multi-Engine Machine Translation Scheme", 
+      "url": "https://www.semanticscholar.org/paper/0f7c1dc8b62aa3c7ef238be3131dcaf6dbcd3a9c"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "1b57d9e3ecab5b86d49a480148f59754376bef7f", 
+      "title": "Does more data always yield better translations?", 
+      "url": "https://www.semanticscholar.org/paper/1b57d9e3ecab5b86d49a480148f59754376bef7f"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "acc4a0dc5f3a6c30e46f98b53fd688b3c9797aaa", 
+      "title": "Regression and Ranking based Optimisation for Sentence Level MT Evaluation", 
+      "url": "https://www.semanticscholar.org/paper/acc4a0dc5f3a6c30e46f98b53fd688b3c9797aaa"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "458497b7c3ec35569bbcb5cad4d0394b339b49e6", 
+      "title": "Fundamental and New Approaches to Statistical Machine Translation", 
+      "url": "https://www.semanticscholar.org/paper/458497b7c3ec35569bbcb5cad4d0394b339b49e6"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "22c6e35cfc1d45a631af371147939d65391fc41b", 
+      "title": "Assessing Phrase-Based Translation Models with Oracle Decoding", 
+      "url": "https://www.semanticscholar.org/paper/22c6e35cfc1d45a631af371147939d65391fc41b"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "7e83e55095582f078d5cd7f252e67e772fd90b65", 
+      "title": "Fathom: Reference Workloads for Modern Deep Learning Methods", 
+      "url": "https://www.semanticscholar.org/paper/7e83e55095582f078d5cd7f252e67e772fd90b65"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "484659875f0a956eb8ff69337ce9c1aa668c4be9", 
+      "title": "Expectations of Word Sense in Parallel Corpora", 
+      "url": "https://www.semanticscholar.org/paper/484659875f0a956eb8ff69337ce9c1aa668c4be9"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "10f802ca4b21e892bf7b9027851bdef570e9c8dd", 
+      "title": "Approximating a Deep-Syntactic Metric for MT Evaluation and Tuning", 
+      "url": "https://www.semanticscholar.org/paper/10f802ca4b21e892bf7b9027851bdef570e9c8dd"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "9a94f76174a61421b7d5eb24cb7a91dc5571ad09", 
+      "title": "The Circle of Meaning: from Translation to Paraphrasing and Back", 
+      "url": "https://www.semanticscholar.org/paper/9a94f76174a61421b7d5eb24cb7a91dc5571ad09"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "3b739e887b9f85c4274bf0a6d007ef5613102eb8", 
+      "title": "Data-Intensive Text Processing with MapReduce", 
+      "url": "https://www.semanticscholar.org/paper/3b739e887b9f85c4274bf0a6d007ef5613102eb8"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "1ffcfd504b5b75f690cc39534057b3526865973a", 
+      "title": "A Unified Approach to Minimum Risk Training and Decoding", 
+      "url": "https://www.semanticscholar.org/paper/1ffcfd504b5b75f690cc39534057b3526865973a"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "5b496577b7f1dbaf328f06a22a0070fbe8f03ce3", 
+      "title": "Towards Optimal Choice Selection for Improved Hybrid Machine Translation", 
+      "url": "https://www.semanticscholar.org/paper/5b496577b7f1dbaf328f06a22a0070fbe8f03ce3"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "4303bca2f159a0254866b1a8c205b6e1b4c90a35", 
+      "title": "Domain-Specific Paraphrase Extraction", 
+      "url": "https://www.semanticscholar.org/paper/4303bca2f159a0254866b1a8c205b6e1b4c90a35"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "bdfaaf4e1d027dec232e13e30e2e4ddacf956996", 
+      "title": "Multilingual Sentiment Analysis using Machine Translation?", 
+      "url": "https://www.semanticscholar.org/paper/bdfaaf4e1d027dec232e13e30e2e4ddacf956996"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "34291c430d01a037bbe3b9a16972b174d1704d0e", 
+      "title": "Automatically Learning Source-side Reordering Rules for Large Scale Machine Translation", 
+      "url": "https://www.semanticscholar.org/paper/34291c430d01a037bbe3b9a16972b174d1704d0e"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "cefa31be11129eb633992d29a3582da5a0a1a29b", 
+      "title": "Oracle decoding as a new way to analyze phrase-based machine translation", 
+      "url": "https://www.semanticscholar.org/paper/cefa31be11129eb633992d29a3582da5a0a1a29b"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "900f825deee1a87e45313152d55a1d7a9644fcea", 
+      "title": "Toponym Disambiguation in English-Lithuanian SMT System with Spatial Knowledge", 
+      "url": "https://www.semanticscholar.org/paper/900f825deee1a87e45313152d55a1d7a9644fcea"
+    }, 
+    {
+      "isInfluential": true, 
+      "paperId": "3bf1b6fbc9b64a1fe81c484aded98b1be31561fd", 
+      "title": "Bilingual Learning of Multi-sense Embeddings with Discrete Autoencoders", 
+      "url": "https://www.semanticscholar.org/paper/3bf1b6fbc9b64a1fe81c484aded98b1be31561fd"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "36e18f578e0514a6d4d01f70bc7a7c6ad235d582", 
+      "title": "Automatic Translation Error Analysis", 
+      "url": "https://www.semanticscholar.org/paper/36e18f578e0514a6d4d01f70bc7a7c6ad235d582"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "8e56d54e556ac3452cb4ba3d3ecf6a50d81c67b7", 
+      "title": "Enabling Monolingual Translators: Post-Editing vs. Options", 
+      "url": "https://www.semanticscholar.org/paper/8e56d54e556ac3452cb4ba3d3ecf6a50d81c67b7"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "230205a13d41230e369b1417904e82e0109de946", 
+      "title": "Adaptation of Statistical Machine Translation Model for Cross-Lingual Information Retrieval in a Service Context", 
+      "url": "https://www.semanticscholar.org/paper/230205a13d41230e369b1417904e82e0109de946"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "7a97dc2a3d8dc2b50c157e153eb12dfb707fe65d", 
+      "title": "SPEDE: Probabilistic Edit Distance Metrics for MT Evaluation", 
+      "url": "https://www.semanticscholar.org/paper/7a97dc2a3d8dc2b50c157e153eb12dfb707fe65d"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "e3c1bf1f9fe8398ba5aa745557590e021471015c", 
+      "title": "Class error rates for evaluation of machine translation output", 
+      "url": "https://www.semanticscholar.org/paper/e3c1bf1f9fe8398ba5aa745557590e021471015c"
+    }, 
+    {
+      "isInfluential": true, 
+      "paperId": "cfd057df845e0b1048b91c61996eec92560f39ff", 
+      "title": "Comparative Quality Estimation: Automatic Sentence-Level Ranking of Multiple Machine Translation Outputs", 
+      "url": "https://www.semanticscholar.org/paper/cfd057df845e0b1048b91c61996eec92560f39ff"
+    }, 
+    {
+      "isInfluential": true, 
+      "paperId": "cfc8f23ceb6b1e1270063f3ead8da5159a895690", 
+      "title": "Discriminative Feature-Rich Modeling for Syntax-Based Machine Translation", 
+      "url": "https://www.semanticscholar.org/paper/cfc8f23ceb6b1e1270063f3ead8da5159a895690"
+    }, 
+    {
+      "isInfluential": true, 
+      "paperId": "1de1f550092fe5f9cbfa251a94ebcf0fed3333ca", 
+      "title": "Learning Machine Translation from In-domain and Out-of-domain Data", 
+      "url": "https://www.semanticscholar.org/paper/1de1f550092fe5f9cbfa251a94ebcf0fed3333ca"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "702ba28f1d42cf8ab1856069670b56c44f4ee04c", 
+      "title": "LIUM SMT Machine Translation System for WMT 2010", 
+      "url": "https://www.semanticscholar.org/paper/702ba28f1d42cf8ab1856069670b56c44f4ee04c"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "2dafee82af76f126d68204fb83b13a28fc8c8a06", 
+      "title": "Feasibility of Minimum Error Rate Training with a Human- Based Automatic Evaluation Metric", 
+      "url": "https://www.semanticscholar.org/paper/2dafee82af76f126d68204fb83b13a28fc8c8a06"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "3ddd94c89af571950dbf598186358c12d8277fd8", 
+      "title": "Improving SMT for Baltic Languages with Factored Models", 
+      "url": "https://www.semanticscholar.org/paper/3ddd94c89af571950dbf598186358c12d8277fd8"
+    }, 
+    {
+      "isInfluential": true, 
+      "paperId": "53a9cd39152272138d7937dccf5e8662c508c77b", 
+      "title": "Resampling Approach for Instance-based Domain Adaptation from Patent Domain to Newspaper Domain in Statistical Machine Translation", 
+      "url": "https://www.semanticscholar.org/paper/53a9cd39152272138d7937dccf5e8662c508c77b"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "51a493f127899a7771715a5fd732684b5e836257", 
+      "title": "Improving the Minimum Bayes\u2019 Risk Combination of Machine Translation Systems", 
+      "url": "https://www.semanticscholar.org/paper/51a493f127899a7771715a5fd732684b5e836257"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "9d7d3c3e93b24501f7e45e8fff94e30acee3a3b7", 
+      "title": "Evaluation of terminologies acquired from comparable corpora: an application perspective", 
+      "url": "https://www.semanticscholar.org/paper/9d7d3c3e93b24501f7e45e8fff94e30acee3a3b7"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "8273cfb553c77b29b693f97e30ec2cf72c7723f6", 
+      "title": "LEPOR: A Robust Evaluation Metric for Machine Translation with Augmented Factors", 
+      "url": "https://www.semanticscholar.org/paper/8273cfb553c77b29b693f97e30ec2cf72c7723f6"
+    }
+  ], 
+  "doi": null, 
+  "influentialCitationCount": 15, 
+  "paperId": "231c17526c159d984e90060e8ae41ebb9ffc283d", 
+  "references": [
+    {
+      "isInfluential": true, 
+      "paperId": "7fa51d9ebf688949571a86411c7baf13d30c74d0", 
+      "title": "Bleu: a Method for Automatic Evaluation of Machine Translation", 
+      "url": "https://www.semanticscholar.org/paper/7fa51d9ebf688949571a86411c7baf13d30c74d0"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "0ea64f83bdd15d3328663c8e11de5cf80befde50", 
+      "title": "NICT@WMT09: Model Adaptation and Transliteration for Spanish-English SMT", 
+      "url": "https://www.semanticscholar.org/paper/0ea64f83bdd15d3328663c8e11de5cf80befde50"
+    }, 
+    {
+      "isInfluential": true, 
+      "paperId": "71898bd32548b98ceecf71bb30b9616e4be40b43", 
+      "title": "Machine Translation Evaluation with Textual Entailment Features", 
+      "url": "https://www.semanticscholar.org/paper/71898bd32548b98ceecf71bb30b9616e4be40b43"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "ba622d0287a17f46b24faf70a08c31d81da7230e", 
+      "title": "Syntax-Oriented Evaluation Measures for Machine Translation Output", 
+      "url": "https://www.semanticscholar.org/paper/ba622d0287a17f46b24faf70a08c31d81da7230e"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "73a784308cd7f24467987aa76aa48252fc56bd4a", 
+      "title": "MorphoLogic's Submission for the WMT 2009 Shared Task", 
+      "url": "https://www.semanticscholar.org/paper/73a784308cd7f24467987aa76aa48252fc56bd4a"
+    }
+  ], 
+  "title": "Findings of the 2009 Workshop on Statistical Machine Translation", 
+  "url": "https://www.semanticscholar.org/paper/231c17526c159d984e90060e8ae41ebb9ffc283d", 
+  "venue": ""
+}

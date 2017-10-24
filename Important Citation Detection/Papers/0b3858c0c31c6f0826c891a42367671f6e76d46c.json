@@ -1,0 +1,1555 @@
+{
+  "authors": [
+    {
+      "authorId": "1737285", 
+      "name": "Radu Soricut", 
+      "url": "https://www.semanticscholar.org/author/1737285"
+    }, 
+    {
+      "authorId": "1695463", 
+      "name": "Daniel Marcu", 
+      "url": "https://www.semanticscholar.org/author/1695463"
+    }
+  ], 
+  "citationVelocity": 27, 
+  "citations": [
+    {
+      "isInfluential": true, 
+      "paperId": "bf33501da4334f2e88b4054edb3b3f6339a151f6", 
+      "title": "The utility of parse-derived features for automatic discourse segmentation", 
+      "url": "https://www.semanticscholar.org/paper/bf33501da4334f2e88b4054edb3b3f6339a151f6"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "f698948de23a17eeaff5925dce5a1fe525dc6c22", 
+      "title": "Profiling Student Interactions in Threaded Discussions with Speech Act Classifiers", 
+      "url": "https://www.semanticscholar.org/paper/f698948de23a17eeaff5925dce5a1fe525dc6c22"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "c0080e964a38afa92408baf6d46a6d97e9068fbe", 
+      "title": "Automatic Discourse Segmentation using Neural Networks", 
+      "url": "https://www.semanticscholar.org/paper/c0080e964a38afa92408baf6d46a6d97e9068fbe"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "56cdf2658de0b3d6afbe6d915d115c9bd73c5ef5", 
+      "title": "Cross-lingual RST Discourse Parsing", 
+      "url": "https://www.semanticscholar.org/paper/56cdf2658de0b3d6afbe6d915d115c9bd73c5ef5"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "9c74228072123617ebe87adfb00d65ff8f926140", 
+      "title": "Paragraph retrieval for why-question answering Exploiting discourse structure for intelligent paragraph retrieval for why-QA", 
+      "url": "https://www.semanticscholar.org/paper/9c74228072123617ebe87adfb00d65ff8f926140"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "d8ac7cee9a2a2458f33561a6995e3f56d058f9dd", 
+      "title": "Recent Advances in Computational Linguistics", 
+      "url": "https://www.semanticscholar.org/paper/d8ac7cee9a2a2458f33561a6995e3f56d058f9dd"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "e5cb9f31922d4381a8b326b9cd9cbdacf744907c", 
+      "title": "Unsupervised Discovery of Discourse Relations for Eliminating Intra-sentence Polarity Ambiguities", 
+      "url": "https://www.semanticscholar.org/paper/e5cb9f31922d4381a8b326b9cd9cbdacf744907c"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "1e0183d28e8cec6b2e475cdaef4787575956f0c0", 
+      "title": "Probabilistic Head-Driven Parsing for Discourse Structure", 
+      "url": "https://www.semanticscholar.org/paper/1e0183d28e8cec6b2e475cdaef4787575956f0c0"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "9336d8b86fe88ef782a4b1ca054dc5a4eeced407", 
+      "title": "A Rule-Based Method for Thai Elementary Discourse Unit Segmentation (TED-Seg)", 
+      "url": "https://www.semanticscholar.org/paper/9336d8b86fe88ef782a4b1ca054dc5a4eeced407"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "60f6422be90734e9d8d81f8403181363c08fe895", 
+      "title": "Analysis of Discourse Structure with Syntactic Dependencies and Data-Driven Shift-Reduce Parsing", 
+      "url": "https://www.semanticscholar.org/paper/60f6422be90734e9d8d81f8403181363c08fe895"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "22cb0761e39f0ab3e455fac61c07914f24dfd6df", 
+      "title": "Evaluating Answer Extraction for Why-QA using RST-annotated Wikipedia texts", 
+      "url": "https://www.semanticscholar.org/paper/22cb0761e39f0ab3e455fac61c07914f24dfd6df"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "318e867c21461a22d52938545ea510073b315946", 
+      "title": "Towards identifying unresolved discussions in student online forums", 
+      "url": "https://www.semanticscholar.org/paper/318e867c21461a22d52938545ea510073b315946"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "8d6888b81dc0777b13cba3eb1e622fbb2f61d4de", 
+      "title": "Not All Words Are Created Equal: Extracting Semantic Orientation as a Function of Adjective Relevance", 
+      "url": "https://www.semanticscholar.org/paper/8d6888b81dc0777b13cba3eb1e622fbb2f61d4de"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "0d21ab73b44872434358d042a4bc8eb4c303c62a", 
+      "title": "Thai Elementary Discourse Unit Segmentation by Discourse Segmentation Cues and Syntactic Information", 
+      "url": "https://www.semanticscholar.org/paper/0d21ab73b44872434358d042a4bc8eb4c303c62a"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "78c8f8730097d332680bf0e192a1695e1c27c772", 
+      "title": "Discourse Segmentation of German Written Texts", 
+      "url": "https://www.semanticscholar.org/paper/78c8f8730097d332680bf0e192a1695e1c27c772"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "3f6eed4cf8b003e27d376128cee8fe225e33efde", 
+      "title": "Minimal Narrative Annotation Schemes and Their Applications", 
+      "url": "https://www.semanticscholar.org/paper/3f6eed4cf8b003e27d376128cee8fe225e33efde"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "7b62e4b2a6776edc3424a0d1e8cd32b2baccb165", 
+      "title": "Measuring the Effect of Discourse Relations on Blog Summarization", 
+      "url": "https://www.semanticscholar.org/paper/7b62e4b2a6776edc3424a0d1e8cd32b2baccb165"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "6571aab594467772212f9b06429b7770243198d8", 
+      "title": "Bibliography Hlt-naacl03 Word Selection for Ebmt Based on Monolingual Similarity and Translation", 
+      "url": "https://www.semanticscholar.org/paper/6571aab594467772212f9b06429b7770243198d8"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "95409cf127f9464b9262cfb1dd02d70ce46bc0bc", 
+      "title": "A qualitative comparison method for rhetorical structures: identifying different discourse structures in multilingual corpora", 
+      "url": "https://www.semanticscholar.org/paper/95409cf127f9464b9262cfb1dd02d70ce46bc0bc"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "43d1c732ca7755cb7c176b9e2402d3dbbaea24ad", 
+      "title": "A PDTB-Styled End-to-End Discourse Parser", 
+      "url": "https://www.semanticscholar.org/paper/43d1c732ca7755cb7c176b9e2402d3dbbaea24ad"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "91da765bae3fe49c382b07646dfae5859efb0640", 
+      "title": "Structural Topic Model for Latent Topical Structure Analysis", 
+      "url": "https://www.semanticscholar.org/paper/91da765bae3fe49c382b07646dfae5859efb0640"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "6170497ace034c2147636c1c7c916da859812712", 
+      "title": "Measuring Term Informativeness in Context", 
+      "url": "https://www.semanticscholar.org/paper/6170497ace034c2147636c1c7c916da859812712"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "30498d2f109bcc4f5eeb83dff5f3cf3397b1ad7a", 
+      "title": "Discourse parsing for multi-party chat dialogues", 
+      "url": "https://www.semanticscholar.org/paper/30498d2f109bcc4f5eeb83dff5f3cf3397b1ad7a"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "9b5992f65b16c445faa9a2c24e356de3638e1efc", 
+      "title": "Summarization Based on Task-Oriented Discourse Parsing", 
+      "url": "https://www.semanticscholar.org/paper/9b5992f65b16c445faa9a2c24e356de3638e1efc"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "7c42e969cb6d6dbf9213652e91323bb479105c19", 
+      "title": "Identifying and Resolving Entities in Text", 
+      "url": "https://www.semanticscholar.org/paper/7c42e969cb6d6dbf9213652e91323bb479105c19"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "474f24f2ba90c1cdcaa90c5c4aac57c5d6e63369", 
+      "title": "Leveraging Synthetic Discourse Data via Multi-task Learning for Implicit Discourse Relation Recognition", 
+      "url": "https://www.semanticscholar.org/paper/474f24f2ba90c1cdcaa90c5c4aac57c5d6e63369"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "bce05d56f24f77087ad458653aa8c5f811df4a5a", 
+      "title": "Using topic themes for multi-document summarization", 
+      "url": "https://www.semanticscholar.org/paper/bce05d56f24f77087ad458653aa8c5f811df4a5a"
+    }, 
+    {
+      "isInfluential": true, 
+      "paperId": "ab5483dde04431430cf66fcc4c90691b71620ab0", 
+      "title": "Cross-lingual and cross-domain discourse segmentation of entire documents", 
+      "url": "https://www.semanticscholar.org/paper/ab5483dde04431430cf66fcc4c90691b71620ab0"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "3d1267a11faa7aa482acaa71009b740b5e306baf", 
+      "title": "Gesture with Meaning", 
+      "url": "https://www.semanticscholar.org/paper/3d1267a11faa7aa482acaa71009b740b5e306baf"
+    }, 
+    {
+      "isInfluential": true, 
+      "paperId": "5c2482390a1f3884e31ef5c9d052546a7746201a", 
+      "title": "Student ReSeaRch WoRkShop", 
+      "url": "https://www.semanticscholar.org/paper/5c2482390a1f3884e31ef5c9d052546a7746201a"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "0d12edf8c4100e8c34e487641258329d49e3b183", 
+      "title": "Discriminative Reranking of Discourse Parses Using Tree Kernels", 
+      "url": "https://www.semanticscholar.org/paper/0d12edf8c4100e8c34e487641258329d49e3b183"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "5fd0a807660b089cbd642f2deefbd062ee316d58", 
+      "title": "Hybrid Text Summarization: Combining External Relevance Measures With Structural Analysis", 
+      "url": "https://www.semanticscholar.org/paper/5fd0a807660b089cbd642f2deefbd062ee316d58"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "729d81ea218388a228d91a81baef45fead5b5294", 
+      "title": "Sentence Compression in Spanish driven by Discourse Segmentation and Language Models", 
+      "url": "https://www.semanticscholar.org/paper/729d81ea218388a228d91a81baef45fead5b5294"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "6980d278e497d798cfa9489b5323a8e653cd5ae8", 
+      "title": "Semi-supervised Speech Act Recognition in Emails and Forums", 
+      "url": "https://www.semanticscholar.org/paper/6980d278e497d798cfa9489b5323a8e653cd5ae8"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "1368d828a439ba160130e684a3280beb400880f6", 
+      "title": "Better Document-level Sentiment Analysis from RST Discourse Parsing", 
+      "url": "https://www.semanticscholar.org/paper/1368d828a439ba160130e684a3280beb400880f6"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "7b3428465411dd107f439c0ae057ef2b99f8f5b1", 
+      "title": "Using automatically labelled examples to classify rhetorical relations: an assessment", 
+      "url": "https://www.semanticscholar.org/paper/7b3428465411dd107f439c0ae057ef2b99f8f5b1"
+    }, 
+    {
+      "isInfluential": true, 
+      "paperId": "555a053b5b16613facc98e2bd6c04bb3fa6e067a", 
+      "title": "Exploiting Event Semantics to Parse the Rhetorical Structure of Natural Language Text", 
+      "url": "https://www.semanticscholar.org/paper/555a053b5b16613facc98e2bd6c04bb3fa6e067a"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "62edff87cf6d2ddb1d2c4fe52706c4d17c14002e", 
+      "title": "Extending Automatic Discourse Segmentation for Texts in Spanish to Catalan", 
+      "url": "https://www.semanticscholar.org/paper/62edff87cf6d2ddb1d2c4fe52706c4d17c14002e"
+    }, 
+    {
+      "isInfluential": true, 
+      "paperId": "1fdb5205e6e2da07e3d81f6ad3177ca299eb74f7", 
+      "title": "Mining and Assessing Discussions on the Web through Speech Act Analysis", 
+      "url": "https://www.semanticscholar.org/paper/1fdb5205e6e2da07e3d81f6ad3177ca299eb74f7"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "d8c2bae7eee9a2e5011bab6b9c3888b23ea8c6c8", 
+      "title": "Spinning Straw into Gold: Using Free Text to Train Monolingual Alignment Models for Non-factoid Question Answering", 
+      "url": "https://www.semanticscholar.org/paper/d8c2bae7eee9a2e5011bab6b9c3888b23ea8c6c8"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "0ff91ba780982db097dcdc955eb6b18aad4c8acf", 
+      "title": "Reading List for Major Subject: Empirical Methods For Discourse Analysis Discourse Relations and Markers", 
+      "url": "https://www.semanticscholar.org/paper/0ff91ba780982db097dcdc955eb6b18aad4c8acf"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "0063a7c0ba47e42dcc30b0ee293e06aa02453dfe", 
+      "title": "Discourse Structure For Context Question Answering", 
+      "url": "https://www.semanticscholar.org/paper/0063a7c0ba47e42dcc30b0ee293e06aa02453dfe"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "f4133aa4173619b688ee9955e07bb836f6e17064", 
+      "title": "Summarisation Through Discourse Structure", 
+      "url": "https://www.semanticscholar.org/paper/f4133aa4173619b688ee9955e07bb836f6e17064"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "07709d8d0c1e570f5c402031a0eb5c772b88b5ba", 
+      "title": "Survey on Aspect-Level Sentiment Analysis", 
+      "url": "https://www.semanticscholar.org/paper/07709d8d0c1e570f5c402031a0eb5c772b88b5ba"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "0e4e29fe7a6e1dab8e3bf6554f989708963d9e43", 
+      "title": "Connective prediction using machine learning for implicit discourse relation classification", 
+      "url": "https://www.semanticscholar.org/paper/0e4e29fe7a6e1dab8e3bf6554f989708963d9e43"
+    }, 
+    {
+      "isInfluential": true, 
+      "paperId": "5af0f4536f8a98d7e42a40be3fd0e5e51c08d166", 
+      "title": "La structure the\u0300me-rhe\u0300me pour l\u2019ordonnancement de documents en recherche d\u2019information", 
+      "url": "https://www.semanticscholar.org/paper/5af0f4536f8a98d7e42a40be3fd0e5e51c08d166"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "66b7a850dfde15bc7de3f84803d7b99a549a5a09", 
+      "title": "Using relational discourse structure information in Basque sentiment analysis", 
+      "url": "https://www.semanticscholar.org/paper/66b7a850dfde15bc7de3f84803d7b99a549a5a09"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "6cb7c9548c95ffb7160eb4f7a82a669d681946bc", 
+      "title": "Modelling Discourse Relations for Arabic", 
+      "url": "https://www.semanticscholar.org/paper/6cb7c9548c95ffb7160eb4f7a82a669d681946bc"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "284def0393e733c747f4caf32adf52693a36cfed", 
+      "title": "The Pyramid Method: Incorporating human content selection variation in summarization evaluation", 
+      "url": "https://www.semanticscholar.org/paper/284def0393e733c747f4caf32adf52693a36cfed"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "d4019b7d8c20203e24a4252d845d15c4072b86a9", 
+      "title": "Fine-Grained Sentiment Analysis with Structural Features", 
+      "url": "https://www.semanticscholar.org/paper/d4019b7d8c20203e24a4252d845d15c4072b86a9"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "60c7b91101e9d4f95528a04833e1d96fd022b809", 
+      "title": "Persuasive Dialogue: Changing User Behaviour with a Computer", 
+      "url": "https://www.semanticscholar.org/paper/60c7b91101e9d4f95528a04833e1d96fd022b809"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "08591fa6ce5443007e582e372836547768713c4e", 
+      "title": "Automatic prediction of aspectual class of verbs in context", 
+      "url": "https://www.semanticscholar.org/paper/08591fa6ce5443007e582e372836547768713c4e"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "2d72dce6f45d9dc0b8ae278727d0a3df3fb819ea", 
+      "title": "DiZer 2.0 \u2013 An Adaptable On-line Discourse Parser", 
+      "url": "https://www.semanticscholar.org/paper/2d72dce6f45d9dc0b8ae278727d0a3df3fb819ea"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "776fa836ac767991126555d40bb5a3a58479ebcc", 
+      "title": "Modularity and Soft Constraints a Study of Conflict Resolution in Grammar", 
+      "url": "https://www.semanticscholar.org/paper/776fa836ac767991126555d40bb5a3a58479ebcc"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "c9df8ce459f27059406d05fb05eb8e2e1a57aa55", 
+      "title": "Bilingually-constrained Synthetic Data for Implicit Discourse Relation Recognition", 
+      "url": "https://www.semanticscholar.org/paper/c9df8ce459f27059406d05fb05eb8e2e1a57aa55"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "291b0b2b273cbb00039f4f246154053b2341a017", 
+      "title": "Incremental Text Structuring with Online Hierarchical Ranking", 
+      "url": "https://www.semanticscholar.org/paper/291b0b2b273cbb00039f4f246154053b2341a017"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "8496a6c93bba7dfcb46ae389ac5c1b9f43ad8490", 
+      "title": "The TextCap Semantic Interpreter", 
+      "url": "https://www.semanticscholar.org/paper/8496a6c93bba7dfcb46ae389ac5c1b9f43ad8490"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "991cdc78f4e25bb50d8bb8dd6bb48b743ab9e5c4", 
+      "title": "A Syntactic and Lexical-Based Discourse Segmenter", 
+      "url": "https://www.semanticscholar.org/paper/991cdc78f4e25bb50d8bb8dd6bb48b743ab9e5c4"
+    }, 
+    {
+      "isInfluential": true, 
+      "paperId": "b906fede5ab6b9cf043daaf24076ae48b479aaab", 
+      "title": "Ha, Eun Young. Modeling Discourse Structure and Temporal Event Relations for Automated Document Summarization with Markov Logic Networks. (under the Direction of Modeling Discourse Structure and Temporal Event Relations for Automated Document Summarization with Markov Logic Networks", 
+      "url": "https://www.semanticscholar.org/paper/b906fede5ab6b9cf043daaf24076ae48b479aaab"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "4daa4b252d372b8cdac7a742822bcb956e6c4965", 
+      "title": "Classification of Discourse Coherence Relations: An Exploratory Study using Multiple Knowledge Sources", 
+      "url": "https://www.semanticscholar.org/paper/4daa4b252d372b8cdac7a742822bcb956e6c4965"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "62eba584631325ede7f7ebf182e36430a0a33f07", 
+      "title": "An empirical study of sentence features for subjectivity and polarity classification", 
+      "url": "https://www.semanticscholar.org/paper/62eba584631325ede7f7ebf182e36430a0a33f07"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "a4b67aa82534d8510403555cc582881965414ff8", 
+      "title": "Automatic Generation and Classification of Minimal Meaningful Propositions in Educational Systems", 
+      "url": "https://www.semanticscholar.org/paper/a4b67aa82534d8510403555cc582881965414ff8"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "52ae1ba838542a0ca23432e2d067890dfa937e57", 
+      "title": "Inferring Sentence-internal Temporal Relations", 
+      "url": "https://www.semanticscholar.org/paper/52ae1ba838542a0ca23432e2d067890dfa937e57"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "2a28c6d195e54f863c92c8c2e8b3e5607e335390", 
+      "title": "Review and Evaluation of DiZer - An Automatic Discourse Analyzer for Brazilian Portuguese", 
+      "url": "https://www.semanticscholar.org/paper/2a28c6d195e54f863c92c8c2e8b3e5607e335390"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "91fa6f6dfb09d3a38e500c2eafa3606b87924aa4", 
+      "title": "The Effects Of Human Variation In DUC Summarization Evaluation", 
+      "url": "https://www.semanticscholar.org/paper/91fa6f6dfb09d3a38e500c2eafa3606b87924aa4"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "d0fd7986341bd4ca541f12f8b5561699ba6aba4e", 
+      "title": "RST Bibliography from the RST web site (http://www", 
+      "url": "https://www.semanticscholar.org/paper/d0fd7986341bd4ca541f12f8b5561699ba6aba4e"
+    }, 
+    {
+      "isInfluential": true, 
+      "paperId": "e4b9c2a6286f2f43e6db5d9591dfef53239812c9", 
+      "title": "Acquisition de grammaires locales pour l\u2019extraction de relations entre entite\u0301s nomme\u0301es", 
+      "url": "https://www.semanticscholar.org/paper/e4b9c2a6286f2f43e6db5d9591dfef53239812c9"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "0879e9d681bd8f9f23f9804b87e9aa554f00be3b", 
+      "title": "Discourse Connectors for Latent Subjectivity in Sentiment Analysis", 
+      "url": "https://www.semanticscholar.org/paper/0879e9d681bd8f9f23f9804b87e9aa554f00be3b"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "c88f0e237e64358bc498a66bfa3c374d53b35231", 
+      "title": "Discourse theory and information access \u2014 three computational models to aid unlocking information in text", 
+      "url": "https://www.semanticscholar.org/paper/c88f0e237e64358bc498a66bfa3c374d53b35231"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "2b5d8197b31d1bf10a9275e36d7a104febf28a1a", 
+      "title": "The automatic identification of discourse units in Dutch text", 
+      "url": "https://www.semanticscholar.org/paper/2b5d8197b31d1bf10a9275e36d7a104febf28a1a"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "90f8e2fef981de2bee012327848f90c21153b3e7", 
+      "title": "Rst Bibliography from the Rst Web Site (http://www.sfu.ca/rst)", 
+      "url": "https://www.semanticscholar.org/paper/90f8e2fef981de2bee012327848f90c21153b3e7"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "273fbab3791022ad8cad8a0ab631a31362a08e73", 
+      "title": "The annotation of the Central Unit in Rhetorical Structure Trees: A Key Step in Annotating Rhetorical Relations", 
+      "url": "https://www.semanticscholar.org/paper/273fbab3791022ad8cad8a0ab631a31362a08e73"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "279db8a0c73e7bf6bfd695c676e7bbef8cb710cb", 
+      "title": "DiSeg: Un segmentador discursivo automa\u0301tico para el espan\u0303ol DiSeg: An Automatic Discourse Segmenter for Spanish", 
+      "url": "https://www.semanticscholar.org/paper/279db8a0c73e7bf6bfd695c676e7bbef8cb710cb"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "3821794bfadc061c731d30176221e357beed6ded", 
+      "title": "DiZer: An Automatic Discourse Analyzer for Brazilian Portuguese", 
+      "url": "https://www.semanticscholar.org/paper/3821794bfadc061c731d30176221e357beed6ded"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "7b77202599ca7309929c0953e4334f13c98bcb95", 
+      "title": "Content modeling for social media text", 
+      "url": "https://www.semanticscholar.org/paper/7b77202599ca7309929c0953e4334f13c98bcb95"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "9ff61d0942b1798b99c7266a930dfcdae1bb5e42", 
+      "title": "A Sequential Model for Discourse Segmentation", 
+      "url": "https://www.semanticscholar.org/paper/9ff61d0942b1798b99c7266a930dfcdae1bb5e42"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "4e1c382dc4192961efd92b0ee011ff307d93060a", 
+      "title": "Automatic Discourse Segmentation:", 
+      "url": "https://www.semanticscholar.org/paper/4e1c382dc4192961efd92b0ee011ff307d93060a"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "2a8c93ec61da7f98851c923900edcd7aa7880986", 
+      "title": "Constrained Decoding for Text-Level Discourse Parsing", 
+      "url": "https://www.semanticscholar.org/paper/2a8c93ec61da7f98851c923900edcd7aa7880986"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "1c963fbfd4ae387e4918f15dc0dae4bfa718d0c7", 
+      "title": "Implicit Discourse Relation Detection via a Deep Architecture with Gated Relevance Network", 
+      "url": "https://www.semanticscholar.org/paper/1c963fbfd4ae387e4918f15dc0dae4bfa718d0c7"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "d2d6998f769180f8911c7999eeb607835cd2662b", 
+      "title": "The rhetorical nature of rhythm", 
+      "url": "https://www.semanticscholar.org/paper/d2d6998f769180f8911c7999eeb607835cd2662b"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "76accfded0e528c48c7f3fb064e8028fffe85029", 
+      "title": "ADROIT: Automatic Discourse Relation Organizer of Internet-based Text", 
+      "url": "https://www.semanticscholar.org/paper/76accfded0e528c48c7f3fb064e8028fffe85029"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "a7183f8883ff5747adbacbfe02ebfd7ea23c60e8", 
+      "title": "Manually vs. Automatically Labelled Data in Discourse Relation Classification: Effects of Example and Feature Selection", 
+      "url": "https://www.semanticscholar.org/paper/a7183f8883ff5747adbacbfe02ebfd7ea23c60e8"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "2906b75f0324d346f5ae3aff0095073db412caff", 
+      "title": "Disambiguating Discourse Connectives for Statistical Machine Translation", 
+      "url": "https://www.semanticscholar.org/paper/2906b75f0324d346f5ae3aff0095073db412caff"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "d37b67bf153b8d322dadeef247fe878b87ce0e13", 
+      "title": "The Effects of Discourse Connectives Prediction on Implicit Discourse Relation Recognition", 
+      "url": "https://www.semanticscholar.org/paper/d37b67bf153b8d322dadeef247fe878b87ce0e13"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "3186163625bc9c57f24cbdb7c473f92f7b8a1fbd", 
+      "title": "Organizing the Semantics of Text with the Concept Relational Tree", 
+      "url": "https://www.semanticscholar.org/paper/3186163625bc9c57f24cbdb7c473f92f7b8a1fbd"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "a3117497b0afa5d8ec44e95765356c51dfd1d71f", 
+      "title": "From rhetorical structures to document structure: shallow pragmatic analysis for document engineering", 
+      "url": "https://www.semanticscholar.org/paper/a3117497b0afa5d8ec44e95765356c51dfd1d71f"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "6061a84102ebb36dd61c42bed9740db194daba1f", 
+      "title": "Generating Discourse Structures for Written Text", 
+      "url": "https://www.semanticscholar.org/paper/6061a84102ebb36dd61c42bed9740db194daba1f"
+    }, 
+    {
+      "isInfluential": true, 
+      "paperId": "9d55e2a990478e2f7ed6b9274b5c866293a229b5", 
+      "title": "Global and Local Models for Multi-Document Summarization", 
+      "url": "https://www.semanticscholar.org/paper/9d55e2a990478e2f7ed6b9274b5c866293a229b5"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "0a23b584a669375b3bea4c5629869033104b6029", 
+      "title": "Forum Ldv-forum Band 22 Heft 1 Editorial Editorial Inhaltsverzeichnis Ldv-forum \u2014 Band 22(1) \u2014 2007 Manually vs. Automatically Labelled Data in Discourse Relati- on Classification: Effects of Example and Feature Selection", 
+      "url": "https://www.semanticscholar.org/paper/0a23b584a669375b3bea4c5629869033104b6029"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "d6f128623a4895a45cd7c18071f94b49c9c2e228", 
+      "title": "On the Influence of Text Complexity on Discourse-Level Choices", 
+      "url": "https://www.semanticscholar.org/paper/d6f128623a4895a45cd7c18071f94b49c9c2e228"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "023adc678b220ff064b7e48215bb1c20dfa33695", 
+      "title": "Long Short-term Memory Network over Rhetorical Structure Theory for Sentence-level Sentiment Analysis", 
+      "url": "https://www.semanticscholar.org/paper/023adc678b220ff064b7e48215bb1c20dfa33695"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "2b38cc548677e9faafd7250e749a0d18c2c5b784", 
+      "title": "Learning to Detect Conversation Focus of Threaded Discussions", 
+      "url": "https://www.semanticscholar.org/paper/2b38cc548677e9faafd7250e749a0d18c2c5b784"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "b47d16a98539af1217e4a9c34627be16cfe423d2", 
+      "title": "Two Practical Rhetorical Structure Theory Parsers", 
+      "url": "https://www.semanticscholar.org/paper/b47d16a98539af1217e4a9c34627be16cfe423d2"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "c05e15a90a5a2dce2eaf718bfe0bd8189207c416", 
+      "title": "OWL ontologies as a resource for discourse parsing", 
+      "url": "https://www.semanticscholar.org/paper/c05e15a90a5a2dce2eaf718bfe0bd8189207c416"
+    }, 
+    {
+      "isInfluential": true, 
+      "paperId": "642379f705f785484cf488238ece9bac8a1da8ad", 
+      "title": "CODRA: A Novel Discriminative Framework for Rhetorical Analysis", 
+      "url": "https://www.semanticscholar.org/paper/642379f705f785484cf488238ece9bac8a1da8ad"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "204528df4103bb970322160ddbb69f343e9605ed", 
+      "title": "Automatic discourse connective detection in biomedical text", 
+      "url": "https://www.semanticscholar.org/paper/204528df4103bb970322160ddbb69f343e9605ed"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "425e6976d542ca01338fafa421b9e0f56dc2a434", 
+      "title": "Predicting Discourse Connectives for Implicit Discourse Relation Recognition", 
+      "url": "https://www.semanticscholar.org/paper/425e6976d542ca01338fafa421b9e0f56dc2a434"
+    }, 
+    {
+      "isInfluential": true, 
+      "paperId": "882ce36c2e386b8f238e6d8734b88ed7005a51fc", 
+      "title": "MRST: A New Technique For Information Summarization", 
+      "url": "https://www.semanticscholar.org/paper/882ce36c2e386b8f238e6d8734b88ed7005a51fc"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "f4914b2026093afbbdec29958680637e677e7803", 
+      "title": "Annotation for and Robust Parsing of Discourse Structure on Unrestricted Texts", 
+      "url": "https://www.semanticscholar.org/paper/f4914b2026093afbbdec29958680637e677e7803"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "acd005306d3c97a2329aadbfcb31f2c19da57ba9", 
+      "title": "Detecting New and Emerging Events from Textual Sources", 
+      "url": "https://www.semanticscholar.org/paper/acd005306d3c97a2329aadbfcb31f2c19da57ba9"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "03a80a2c9007e53d356e8b32a9e3a5647958d2ff", 
+      "title": "Generating Dialogues for Virtual Agents Using Nested Textual Coherence Relations", 
+      "url": "https://www.semanticscholar.org/paper/03a80a2c9007e53d356e8b32a9e3a5647958d2ff"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "b159ef41151c4634823b974c9b7b696f3caf7f0b", 
+      "title": "Recognizing nuclearity between Chinese Discourse units", 
+      "url": "https://www.semanticscholar.org/paper/b159ef41151c4634823b974c9b7b696f3caf7f0b"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "5d2ddf59f4abd2980bb14d768be0f96cdd3c5929", 
+      "title": "A Multi-resolution Framework for Information Extraction from Free Text", 
+      "url": "https://www.semanticscholar.org/paper/5d2ddf59f4abd2980bb14d768be0f96cdd3c5929"
+    }, 
+    {
+      "isInfluential": true, 
+      "paperId": "38b49d622a2a6ac0a08816b4d61a85bce238ea1b", 
+      "title": "Discourse Segmentation of German Texts", 
+      "url": "https://www.semanticscholar.org/paper/38b49d622a2a6ac0a08816b4d61a85bce238ea1b"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "0f82b95af87e31c90e91754afa18caeee070c739", 
+      "title": "Information Extraction Using Discourse Analysis from Newswires", 
+      "url": "https://www.semanticscholar.org/paper/0f82b95af87e31c90e91754afa18caeee070c739"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "3eef9bc3896859961705c2cb2a73fc22379f1819", 
+      "title": "Specialized Knowledge Representation and the Parameterization of Context", 
+      "url": "https://www.semanticscholar.org/paper/3eef9bc3896859961705c2cb2a73fc22379f1819"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "f01e68e56138a46107e2468d19902a7f4452d810", 
+      "title": "Automatic Discussion Summarization a Study of Internet Fora", 
+      "url": "https://www.semanticscholar.org/paper/f01e68e56138a46107e2468d19902a7f4452d810"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "e92559db120465ac5840cb96f06bdbe4d466d3da", 
+      "title": "Towards Argument Mining from Dialogue", 
+      "url": "https://www.semanticscholar.org/paper/e92559db120465ac5840cb96f06bdbe4d466d3da"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "37df5a4e4f99c8a0e6b2dcae728c6ead9c244e38", 
+      "title": "Discursive Sentence Compression", 
+      "url": "https://www.semanticscholar.org/paper/37df5a4e4f99c8a0e6b2dcae728c6ead9c244e38"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "28da485ccd9e1c86af4daa4a3948f44272e1fb57", 
+      "title": "Combining Hierarchical Clustering and Machine Learning to Predict High-Level Discourse Structure", 
+      "url": "https://www.semanticscholar.org/paper/28da485ccd9e1c86af4daa4a3948f44272e1fb57"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "5550303aab415c066964738e32bc7076209ba4ad", 
+      "title": "Sentiment-Based Ranking of Blog Posts Using Rhetorical Structure Theory", 
+      "url": "https://www.semanticscholar.org/paper/5550303aab415c066964738e32bc7076209ba4ad"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "b408038c4588469011e549e49a6f280667351551", 
+      "title": "metaTED: a Corpus of Metadiscourse for Spoken Language", 
+      "url": "https://www.semanticscholar.org/paper/b408038c4588469011e549e49a6f280667351551"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "96aa9822b39b90ce4427fdae43457586aa71a558", 
+      "title": "Incremental Parsing Models for Dialog Task Structure", 
+      "url": "https://www.semanticscholar.org/paper/96aa9822b39b90ce4427fdae43457586aa71a558"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "661b067db462932a22c91ceef3c0a23f45e01445", 
+      "title": "Lexical Models to Identify Unmarked Discourse Relations: Does WordNet help?", 
+      "url": "https://www.semanticscholar.org/paper/661b067db462932a22c91ceef3c0a23f45e01445"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "c26ca8d87eef1630645f67fb98906d3ea5afd929", 
+      "title": "Sentiment Analysis", 
+      "url": "https://www.semanticscholar.org/paper/c26ca8d87eef1630645f67fb98906d3ea5afd929"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "2d113bbeb6f2f393a09a82bc05fdff61b391d05d", 
+      "title": "A Rule Based Approach to Discourse Parsing", 
+      "url": "https://www.semanticscholar.org/paper/2d113bbeb6f2f393a09a82bc05fdff61b391d05d"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "3558746a15f0f33219c0e1f0a5736a227db8a5ed", 
+      "title": "Multilabel Tagging of Discourse Relations in Ambiguous Temporal Connectives", 
+      "url": "https://www.semanticscholar.org/paper/3558746a15f0f33219c0e1f0a5736a227db8a5ed"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "705b4d6415cf4077af923f5abd2613002410f104", 
+      "title": "Assessing and Scaffolding Collaborative Learning in Online Discussions", 
+      "url": "https://www.semanticscholar.org/paper/705b4d6415cf4077af923f5abd2613002410f104"
+    }, 
+    {
+      "isInfluential": true, 
+      "paperId": "6007af381e860f920fc05401fe826c67c6f2b18a", 
+      "title": "Rhetorical Structure Theory for polarity estimation: An experimental study", 
+      "url": "https://www.semanticscholar.org/paper/6007af381e860f920fc05401fe826c67c6f2b18a"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "4bbe704465e04cf96a70a02cf7f2520d62edbfbc", 
+      "title": "Thai Rhetorical Structure Analysis", 
+      "url": "https://www.semanticscholar.org/paper/4bbe704465e04cf96a70a02cf7f2520d62edbfbc"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "1bce2aab457cac877bc039c67cfe23f8597280e8", 
+      "title": "Paragraph retrieval for why-question answering", 
+      "url": "https://www.semanticscholar.org/paper/1bce2aab457cac877bc039c67cfe23f8597280e8"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "dd460b002f74a7c694419574e442d6b5be29bb43", 
+      "title": "Splitting Arabic Texts into Elementary Discourse Units", 
+      "url": "https://www.semanticscholar.org/paper/dd460b002f74a7c694419574e442d6b5be29bb43"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "31ee3fdb36ff69d24e538041f81cb0f13d233c88", 
+      "title": "Automatisches Textverstehen", 
+      "url": "https://www.semanticscholar.org/paper/31ee3fdb36ff69d24e538041f81cb0f13d233c88"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "0b8118e2c35bf13499ce8fb56b6e208259bd2650", 
+      "title": "Web-Based Analysis of Chinese Discourse Markers for Opinion Mining", 
+      "url": "https://www.semanticscholar.org/paper/0b8118e2c35bf13499ce8fb56b6e208259bd2650"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "a2430ceb2c3b01a926e5cc6c5634c51d67f2e965", 
+      "title": "Interfacing Sentential and Discourse TAG-based Grammars", 
+      "url": "https://www.semanticscholar.org/paper/a2430ceb2c3b01a926e5cc6c5634c51d67f2e965"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "a67d919756e142ebc71d61c5c03ed7f525bf3be2", 
+      "title": "INSTITUTO POLITECNICO NACIONAL CENTRO DE INVESTIGACION EN COMPUTACION LABORATORIO DE LENGUAJE NATURAL Y PROCESAMIENTO DE TEXTO Automatic Language-Independent Detection of Multiword Descriptions for Text Summarization TESIS QUE PARA OBTENER EL GRADO DE DOCTOR EN CIENCIAS DE LA COMPUTACION PRESENTA", 
+      "url": "https://www.semanticscholar.org/paper/a67d919756e142ebc71d61c5c03ed7f525bf3be2"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "a8a8ffd238ee6cc824b20dda7fb7de39100f2cb0", 
+      "title": "RST based Text Summarization with Ontology Driven in Agriculture Domain", 
+      "url": "https://www.semanticscholar.org/paper/a8a8ffd238ee6cc824b20dda7fb7de39100f2cb0"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "0675267406be6d4885331a8d4dc4b6d004f0c084", 
+      "title": "Using rhetorical structure in sentiment analysis", 
+      "url": "https://www.semanticscholar.org/paper/0675267406be6d4885331a8d4dc4b6d004f0c084"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "5ce0d4c6f58ea5cd9039e603535f310eebfcaeba", 
+      "title": "The Right Frontier Constraint Holds Unconditionally", 
+      "url": "https://www.semanticscholar.org/paper/5ce0d4c6f58ea5cd9039e603535f310eebfcaeba"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "aec685d2ca2d026a177826c2be883fe62164db32", 
+      "title": "Representing discourse for automatic text summarization via shallow NLP techniques", 
+      "url": "https://www.semanticscholar.org/paper/aec685d2ca2d026a177826c2be883fe62164db32"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "5daa1c8c52aef0e7c3d6ce205a05def69596122c", 
+      "title": "Hierarchical Discourse Parsing Based on Similarity Metrics", 
+      "url": "https://www.semanticscholar.org/paper/5daa1c8c52aef0e7c3d6ce205a05def69596122c"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "970dd8b33798e72b76aff1bc034cbd82ee34a912", 
+      "title": "Situation Entity Annotation", 
+      "url": "https://www.semanticscholar.org/paper/970dd8b33798e72b76aff1bc034cbd82ee34a912"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "cd45d47fc6ec513719d91e660622ff30a0e2e6d2", 
+      "title": "Linguistic Issues in Language Technology \u2013 LiLT", 
+      "url": "https://www.semanticscholar.org/paper/cd45d47fc6ec513719d91e660622ff30a0e2e6d2"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "3eb343d0b8160fb406da59855118a49c53e1136e", 
+      "title": "Dependency-based Discourse Parser for Single-Document Summarization", 
+      "url": "https://www.semanticscholar.org/paper/3eb343d0b8160fb406da59855118a49c53e1136e"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "88765d49433cbfa7d8716c469a0fb30c38bfe75b", 
+      "title": "Cross-argument inference for implicit discourse relation recognition", 
+      "url": "https://www.semanticscholar.org/paper/88765d49433cbfa7d8716c469a0fb30c38bfe75b"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "1f3818e655c580d394a1cb7553cb0d9765873c91", 
+      "title": "Representation Learning for Text-level Discourse Parsing", 
+      "url": "https://www.semanticscholar.org/paper/1f3818e655c580d394a1cb7553cb0d9765873c91"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "5797f344e62754200f107e1d6eca657c24008668", 
+      "title": "Discourse Models for Collaboratively Edited Corpora", 
+      "url": "https://www.semanticscholar.org/paper/5797f344e62754200f107e1d6eca657c24008668"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "4d694b32debe9d9a73f67e050c15a848cfb34bbb", 
+      "title": "A PDTB-Styled End-to-End Discourse Parser", 
+      "url": "https://www.semanticscholar.org/paper/4d694b32debe9d9a73f67e050c15a848cfb34bbb"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "dd8af2f839b9c75f58d58813cf6426c9eacf4653", 
+      "title": "Recognizing Implicit Discourse Relations via Repeated Reading: Neural Networks with Multi-Level Attention", 
+      "url": "https://www.semanticscholar.org/paper/dd8af2f839b9c75f58d58813cf6426c9eacf4653"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "e94250a62548cde3bd4f34d033378e62bfbab7d0", 
+      "title": "Unidad discursiva y relaciones reto\u0301ricas: un estudio acerca de las unidades de discurso en el etiquetado de un corpus en euskera Discourse unit and rhetorical relations. A study about discourse units in the annotation of a corpus in Basque", 
+      "url": "https://www.semanticscholar.org/paper/e94250a62548cde3bd4f34d033378e62bfbab7d0"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "fa9b60a00f5c68cc6403ea9986699529350b045a", 
+      "title": "An Approach in Automatically Generating Discourse Structure of Text M\u1ed9t C\u00e1ch Ti\u1ebfp C\u1eadn Trong Ph\u00e2n T\u00edch C\u1ea5u Tr\u00fac Di\u1ec5n Ng\u00f4n C\u1ee7a V\u0103n B\u1ea3n", 
+      "url": "https://www.semanticscholar.org/paper/fa9b60a00f5c68cc6403ea9986699529350b045a"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "15254a7e4947bf06359c1c2477d5ea98509aee28", 
+      "title": "Discourse Structures to Reduce Discourse Incoherence in Blog Summarization", 
+      "url": "https://www.semanticscholar.org/paper/15254a7e4947bf06359c1c2477d5ea98509aee28"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "076c0ed79fd8f12ebb18a1828187c55d9e74110e", 
+      "title": "A Model for the Recognition of Discourse Relations", 
+      "url": "https://www.semanticscholar.org/paper/076c0ed79fd8f12ebb18a1828187c55d9e74110e"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "5f2a8149e25b0cf1d854fc8d6ea1514af29f6c18", 
+      "title": "A PDTB-Styled End-to-End Discourse Parser", 
+      "url": "https://www.semanticscholar.org/paper/5f2a8149e25b0cf1d854fc8d6ea1514af29f6c18"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "85c8fac1870b2ac9f9d1c8bdc7ab8955dc84c48a", 
+      "title": "Rst Bibliography from the Rst Web Site (http://www.sfu.ca/rst) Discussion Summarization Based on Cross-document Relation Using Model Selection Technique", 
+      "url": "https://www.semanticscholar.org/paper/85c8fac1870b2ac9f9d1c8bdc7ab8955dc84c48a"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "45cf0a14fe35fa50b4a34920ae09304f56070a57", 
+      "title": "Genre Distinctions and Discourse Modes: Text Types Differ in their Situation Type Distributions", 
+      "url": "https://www.semanticscholar.org/paper/45cf0a14fe35fa50b4a34920ae09304f56070a57"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "0fe10f2ab23b9f299b7cf83c43091c176cdfd2fd", 
+      "title": "Identification and Disambiguation of Lexical Cues of Rhetorical Relations across Different Text Genres", 
+      "url": "https://www.semanticscholar.org/paper/0fe10f2ab23b9f299b7cf83c43091c176cdfd2fd"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "373699e57f13489316f9ab92055c8fdb9244a70d", 
+      "title": "Modeling and Assessing Student Activities in On-Line Discussions", 
+      "url": "https://www.semanticscholar.org/paper/373699e57f13489316f9ab92055c8fdb9244a70d"
+    }, 
+    {
+      "isInfluential": true, 
+      "paperId": "dec1e66bc6797599db31886cf1d864f39143cace", 
+      "title": "Natural Language Engineering Discourse Structure and Language Technology Discourse Structure and Language Technology", 
+      "url": "https://www.semanticscholar.org/paper/dec1e66bc6797599db31886cf1d864f39143cace"
+    }, 
+    {
+      "isInfluential": true, 
+      "paperId": "7dfcb2a8a3fe905e90be010134fc0abf3e143b41", 
+      "title": "Discourse Chunking and its Application to Sentence Compression", 
+      "url": "https://www.semanticscholar.org/paper/7dfcb2a8a3fe905e90be010134fc0abf3e143b41"
+    }, 
+    {
+      "isInfluential": true, 
+      "paperId": "17cfa8c38326a8c57c4c8510bfbdeac5dcfd7ede", 
+      "title": "HILDA: A Discourse Parser Using Support Vector Machine Classification", 
+      "url": "https://www.semanticscholar.org/paper/17cfa8c38326a8c57c4c8510bfbdeac5dcfd7ede"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "4b1e70fde9dbe001b1793135140903a6b9623bdd", 
+      "title": "Acquiring a Disambiguation Model For Discourse Connectives", 
+      "url": "https://www.semanticscholar.org/paper/4b1e70fde9dbe001b1793135140903a6b9623bdd"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "012025fe780c15725950a79b9db520821152e59c", 
+      "title": "Sentential Structure And Discourse Parsing", 
+      "url": "https://www.semanticscholar.org/paper/012025fe780c15725950a79b9db520821152e59c"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "8d36c169bc2475e88c72ba9613e7b93b7752fffd", 
+      "title": "Discourse indicators for content selection in summarization", 
+      "url": "https://www.semanticscholar.org/paper/8d36c169bc2475e88c72ba9613e7b93b7752fffd"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "44a9484e0b752e7f1218f0c6dd7461a97bc7ab49", 
+      "title": "Catching the Drift: Probabilistic Content Models, with Applications to Generation and Summarization", 
+      "url": "https://www.semanticscholar.org/paper/44a9484e0b752e7f1218f0c6dd7461a97bc7ab49"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "8b835b74b8fcd7dfa5608c4195b6f575149125f7", 
+      "title": "Evaluative Language Beyond Bags of Words: Linguistic Insights and Computational Applications", 
+      "url": "https://www.semanticscholar.org/paper/8b835b74b8fcd7dfa5608c4195b6f575149125f7"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "bd1b6910f4a6c2af83321d77871b7ac1a8947d84", 
+      "title": "Semantic Argument Structure in DiscoursE: The SEASIDE project (project abstract)", 
+      "url": "https://www.semanticscholar.org/paper/bd1b6910f4a6c2af83321d77871b7ac1a8947d84"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "c43f79ab60afc1e2bc3859365c120eb11bd0bbd7", 
+      "title": "Discourse marker based topic identification and search results refining", 
+      "url": "https://www.semanticscholar.org/paper/c43f79ab60afc1e2bc3859365c120eb11bd0bbd7"
+    }, 
+    {
+      "isInfluential": true, 
+      "paperId": "773c2795fc8f6bc44fd6c084e2578ffcde1db03e", 
+      "title": "Learning Structured Classifiers for Statistical Dependency Parsing Creating a Knowledge Base from a Collaboratively Generated Encyclopedia Dynamic Use of Ontologies in Dialogue Systems Doctoral Consortium Program Query Expansion Using Domain Information in Compounds", 
+      "url": "https://www.semanticscholar.org/paper/773c2795fc8f6bc44fd6c084e2578ffcde1db03e"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "39f1594e2cf93987612345f8fb0f7039c6e7c41f", 
+      "title": "Analyses of the Association between Discourse Relation and Sentiment Polarity with a Chinese Human-Annotated Corpus", 
+      "url": "https://www.semanticscholar.org/paper/39f1594e2cf93987612345f8fb0f7039c6e7c41f"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "5250b0ceea33bcb01917777595e0f840fda6a49d", 
+      "title": "Lexicon-Based Methods for Sentiment Analysis", 
+      "url": "https://www.semanticscholar.org/paper/5250b0ceea33bcb01917777595e0f840fda6a49d"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "1461bb16796033b6d5c7ef64c435710c40074062", 
+      "title": "Parsing entire discourses as very long strings: Capturing topic continuity in grounded language learning", 
+      "url": "https://www.semanticscholar.org/paper/1461bb16796033b6d5c7ef64c435710c40074062"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "665b839872f69340a9ebf9d8321bcfe854f0297a", 
+      "title": "Establishing criteria for RST-based discourse segmentation and annotation for texts in Basque", 
+      "url": "https://www.semanticscholar.org/paper/665b839872f69340a9ebf9d8321bcfe854f0297a"
+    }, 
+    {
+      "isInfluential": true, 
+      "paperId": "3bb4d3489ab2234bbed67f20b768ae895b223b1f", 
+      "title": "Learning Sentence-internal Temporal Relations", 
+      "url": "https://www.semanticscholar.org/paper/3bb4d3489ab2234bbed67f20b768ae895b223b1f"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "54dd2e06529af0af4c9f604bc48fc5cec0a1e1c8", 
+      "title": "Using Syntax to Disambiguate Explicit Discourse Connectives in Text", 
+      "url": "https://www.semanticscholar.org/paper/54dd2e06529af0af4c9f604bc48fc5cec0a1e1c8"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "04226605adab6b2558dc6e6433c971ad22c7bf09", 
+      "title": "Computational Analysis of Coherence Relations in Dutch", 
+      "url": "https://www.semanticscholar.org/paper/04226605adab6b2558dc6e6433c971ad22c7bf09"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "5f0c20a3fd4e68afc151547027e3bcd59bc87934", 
+      "title": "Tagging kausaler Relationen", 
+      "url": "https://www.semanticscholar.org/paper/5f0c20a3fd4e68afc151547027e3bcd59bc87934"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "e458e5ac8488a9c3f3a389c093118dba1590cfb1", 
+      "title": "Situation entity types: automatic classification of clause-level aspect", 
+      "url": "https://www.semanticscholar.org/paper/e458e5ac8488a9c3f3a389c093118dba1590cfb1"
+    }, 
+    {
+      "isInfluential": true, 
+      "paperId": "6db630364f4d1e8dc9b8a3f50ec47220c5c551a0", 
+      "title": "Discourse Parsing: Learning FOL Rules Based On Rich Verb Semantic Representations To Automatically Label Rhetorical Relations", 
+      "url": "https://www.semanticscholar.org/paper/6db630364f4d1e8dc9b8a3f50ec47220c5c551a0"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "2d425abfdc3d2454ce4e80dffb88102ac4672f09", 
+      "title": "Building a Cross-document Event-Event Relation Corpus", 
+      "url": "https://www.semanticscholar.org/paper/2d425abfdc3d2454ce4e80dffb88102ac4672f09"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "c5ff9202c600cccc04a4267e00c67f6fa770feaa", 
+      "title": "Scaffolding student online discussions using past discussions: PedaBot studies", 
+      "url": "https://www.semanticscholar.org/paper/c5ff9202c600cccc04a4267e00c67f6fa770feaa"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "603fcb76af31218df2c2c731a034bd31eb45dc07", 
+      "title": "Learning Recursive Segments for Discourse Parsing", 
+      "url": "https://www.semanticscholar.org/paper/603fcb76af31218df2c2c731a034bd31eb45dc07"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "9e6372c0e976d3a4015be6722bbb71ff66e2735f", 
+      "title": "Implicit Discourse Relation Recognition by Selecting Typical Training Examples", 
+      "url": "https://www.semanticscholar.org/paper/9e6372c0e976d3a4015be6722bbb71ff66e2735f"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "05cbbdd9f496d4e311774a55f6f03ba6c9ca1323", 
+      "title": "Towards Semi-Supervised Classification of Discourse Relations using Feature Correlations", 
+      "url": "https://www.semanticscholar.org/paper/05cbbdd9f496d4e311774a55f6f03ba6c9ca1323"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "a38645e647cd8bdb8180d46f72e45c7e6a39d9a9", 
+      "title": "Integer Linear Programming for Discourse Parsing", 
+      "url": "https://www.semanticscholar.org/paper/a38645e647cd8bdb8180d46f72e45c7e6a39d9a9"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "368457b654f52b39d9cf1cf7a63d19d4e5085661", 
+      "title": "Semi-supervised Discourse Relation Classification with Structural Learning", 
+      "url": "https://www.semanticscholar.org/paper/368457b654f52b39d9cf1cf7a63d19d4e5085661"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "b88876344be6d9a8172f72bc0a836994f6b6f719", 
+      "title": "Discourse Indicators for Content Selection in Summaization", 
+      "url": "https://www.semanticscholar.org/paper/b88876344be6d9a8172f72bc0a836994f6b6f719"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "41bfc1cbd32d897b02271dd6aa7895d1ce2c6003", 
+      "title": "Recursive Deep Models for Discourse Parsing", 
+      "url": "https://www.semanticscholar.org/paper/41bfc1cbd32d897b02271dd6aa7895d1ce2c6003"
+    }, 
+    {
+      "isInfluential": true, 
+      "paperId": "57f175058158078e8699d74ce42ae8a88e3737c7", 
+      "title": "A Hybrid Approach to Utilize Rhetorical Relations for Blog Summarization", 
+      "url": "https://www.semanticscholar.org/paper/57f175058158078e8699d74ce42ae8a88e3737c7"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "6b67bb8391a0a8224c05d65be2d56f84c1f22e49", 
+      "title": "Motivations And Implications Of Veins Theory", 
+      "url": "https://www.semanticscholar.org/paper/6b67bb8391a0a8224c05d65be2d56f84c1f22e49"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "9c6cdb10913c5dcf773234c613a40ba438cf5855", 
+      "title": "Discourse-sensitive Automatic Identification of Generic Expressions", 
+      "url": "https://www.semanticscholar.org/paper/9c6cdb10913c5dcf773234c613a40ba438cf5855"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "1d96469fd34319bf5ef7761fdd8cd7f9a8c7dcbb", 
+      "title": "Chinese Comma Disambiguation for Discourse Analysis", 
+      "url": "https://www.semanticscholar.org/paper/1d96469fd34319bf5ef7761fdd8cd7f9a8c7dcbb"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "64183252fe6dea3c29c0a3d91d4db14d51b104ae", 
+      "title": "Knowledge integration for Learning-by-Reading", 
+      "url": "https://www.semanticscholar.org/paper/64183252fe6dea3c29c0a3d91d4db14d51b104ae"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "279e7e401958452d00643bf0f49b384fad1c7bad", 
+      "title": "Ensembles of Diverse Clustering-based Discriminative Dependency Parsers", 
+      "url": "https://www.semanticscholar.org/paper/279e7e401958452d00643bf0f49b384fad1c7bad"
+    }, 
+    {
+      "isInfluential": true, 
+      "paperId": "2722eb5dc9c58ee1354c72bf3af75742ddf7b7eb", 
+      "title": "Syntactic Identification of Attribution in the RST Treebank", 
+      "url": "https://www.semanticscholar.org/paper/2722eb5dc9c58ee1354c72bf3af75742ddf7b7eb"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "a515a6ed65469f70b39a1c259ef868e4699ef253", 
+      "title": "Annotating genericity: a survey, a scheme, and a corpus", 
+      "url": "https://www.semanticscholar.org/paper/a515a6ed65469f70b39a1c259ef868e4699ef253"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "2182b412b3d4ba1b2c8c4faf29d67cbe44a08191", 
+      "title": "Building and Refining Rhetorical-Semantic Relation Models", 
+      "url": "https://www.semanticscholar.org/paper/2182b412b3d4ba1b2c8c4faf29d67cbe44a08191"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "52354936a776f021bb54aae28745b8788d69a7bb", 
+      "title": "Discourse-based answering of why-questions Employing RST structure for finding answers to why-questions", 
+      "url": "https://www.semanticscholar.org/paper/52354936a776f021bb54aae28745b8788d69a7bb"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "4e98c5d770adedb32f128b160d3d347629e00deb", 
+      "title": "Parsing Argumentation Structures in Persuasive Essays", 
+      "url": "https://www.semanticscholar.org/paper/4e98c5d770adedb32f128b160d3d347629e00deb"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "6a898f8e1eb7c10c5702259124e33afae4c231ce", 
+      "title": "Automatic Generation of Multi-Modal Dialogue from Text Based on Discourse Structure Analysis", 
+      "url": "https://www.semanticscholar.org/paper/6a898f8e1eb7c10c5702259124e33afae4c231ce"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "29f5941c2d9be079c653d8f4083f1e79f08ac8bf", 
+      "title": "Learning-Based Single-Document Summarization with Compression and Anaphoricity Constraints", 
+      "url": "https://www.semanticscholar.org/paper/29f5941c2d9be079c653d8f4083f1e79f08ac8bf"
+    }, 
+    {
+      "isInfluential": true, 
+      "paperId": "99f59688f46c5826282fcd5fea26ff912d86a5e9", 
+      "title": "On the Development and Evaluation of a Brazilian Portuguese Discourse Parser", 
+      "url": "https://www.semanticscholar.org/paper/99f59688f46c5826282fcd5fea26ff912d86a5e9"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "7b6aef9e1c0abd2218ba218b48c3ffb66d993706", 
+      "title": "Natural Language Engineering", 
+      "url": "https://www.semanticscholar.org/paper/7b6aef9e1c0abd2218ba218b48c3ffb66d993706"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "b1652851a5c93a6e12de00e3de659d73c383b036", 
+      "title": "NLP: Going for low-hanging fruit", 
+      "url": "https://www.semanticscholar.org/paper/b1652851a5c93a6e12de00e3de659d73c383b036"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "35146c1f6d51571b79633a930771a222b54de022", 
+      "title": "A State Transition Model for Student Online Discussions", 
+      "url": "https://www.semanticscholar.org/paper/35146c1f6d51571b79633a930771a222b54de022"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "3e8962aa1b0954696290ec72688edef5c5e08f2c", 
+      "title": "Predicting Thread Discourse Structure over Technical Web Forums", 
+      "url": "https://www.semanticscholar.org/paper/3e8962aa1b0954696290ec72688edef5c5e08f2c"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "8da4dad3b17262ceeccaf83f98dc39344f63fea6", 
+      "title": "A Symbolic Corpus-based Approach to Detect and Solve the Ambiguity of Discourse Markers", 
+      "url": "https://www.semanticscholar.org/paper/8da4dad3b17262ceeccaf83f98dc39344f63fea6"
+    }, 
+    {
+      "isInfluential": true, 
+      "paperId": "2f78a34ffc326b9218376483f7f78d26a9f30368", 
+      "title": "A Novel Discriminative Framework for Sentence-Level Discourse Analysis", 
+      "url": "https://www.semanticscholar.org/paper/2f78a34ffc326b9218376483f7f78d26a9f30368"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "bbbfb727fb5280ff49f72a3344d33e80adf389fa", 
+      "title": "Learning Representations for Text-level Discourse Parsing", 
+      "url": "https://www.semanticscholar.org/paper/bbbfb727fb5280ff49f72a3344d33e80adf389fa"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "5153a9a4427e48d26509960b90f9bb11efa1c859", 
+      "title": "A description of pragmatics rhetorical structure and its evaluation in computational linguistics", 
+      "url": "https://www.semanticscholar.org/paper/5153a9a4427e48d26509960b90f9bb11efa1c859"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "77b4d22473537e4d85b554ad89ba4c0f48096252", 
+      "title": "Discourse Models for Collaboratively Edited Corpora Archnes Discourse Models for Collaboratively Edited Corpora I Want to Give My Special Thanks to People in Natural Language Processing Group and Spoken Language Systems Bibliographic Notes \"incremental Text Structuring with Online Hierarchical Ranking\"", 
+      "url": "https://www.semanticscholar.org/paper/77b4d22473537e4d85b554ad89ba4c0f48096252"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "af142df7bee33857e047e8b7bb633d90edb1f194", 
+      "title": "Pragmatikako Erlaziozko Diskurtso-egitura: Deskribapena Eta Bere Ebaluazioa Hizkuntzalaritza Konputazionalean a Description of Pragmatics Rhetorical Structure and Its Evaluation in Computational Linguistics", 
+      "url": "https://www.semanticscholar.org/paper/af142df7bee33857e047e8b7bb633d90edb1f194"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "6bdfc54feefd3a09f4e7467d26c5aa00eda2e191", 
+      "title": "Features for automatic discourse analysis of paragraphs", 
+      "url": "https://www.semanticscholar.org/paper/6bdfc54feefd3a09f4e7467d26c5aa00eda2e191"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "c32564671088e978c34d72d19eabe5e60bd9cdbc", 
+      "title": "Use of Linguistic Analysis for Answering Why-Questions", 
+      "url": "https://www.semanticscholar.org/paper/c32564671088e978c34d72d19eabe5e60bd9cdbc"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "643aedf8eef86ff77a254e789d690ccb5611c746", 
+      "title": "EusEduSeg: A Dependency-Based EDU Segmentation for Basque", 
+      "url": "https://www.semanticscholar.org/paper/643aedf8eef86ff77a254e789d690ccb5611c746"
+    }, 
+    {
+      "isInfluential": true, 
+      "paperId": "4b1d9a615934f9823fdc184530733806f9fe98fb", 
+      "title": "Semi-Supervised Never-Ending Learning in Rhetorical Relation Identification", 
+      "url": "https://www.semanticscholar.org/paper/4b1d9a615934f9823fdc184530733806f9fe98fb"
+    }, 
+    {
+      "isInfluential": true, 
+      "paperId": "2332c1d9c5dad11b8af666c9a7116aea9ebe987b", 
+      "title": "A Reranking Model for Discourse Segmentation using Subtree Features", 
+      "url": "https://www.semanticscholar.org/paper/2332c1d9c5dad11b8af666c9a7116aea9ebe987b"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "985794d0286d609a6a7c38fb07ef1d6c10ac3c8e", 
+      "title": "Combining Intra- and Multi-sentential Rhetorical Parsing for Document-level Discourse Analysis", 
+      "url": "https://www.semanticscholar.org/paper/985794d0286d609a6a7c38fb07ef1d6c10ac3c8e"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "df684c345dc143e88a9b559541c7ac519f97a39b", 
+      "title": "A Discourse-Based Approach for Arabic Question Answering", 
+      "url": "https://www.semanticscholar.org/paper/df684c345dc143e88a9b559541c7ac519f97a39b"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "a3de2f5dcb45ee4be278fe54cfb6431d0fa6420b", 
+      "title": "Combining relations for information extraction from free text", 
+      "url": "https://www.semanticscholar.org/paper/a3de2f5dcb45ee4be278fe54cfb6431d0fa6420b"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "5981b4a71ed1236cdd58df1c09cda351670151d0", 
+      "title": "An effective Discourse Parser that uses Rich Linguistic Information", 
+      "url": "https://www.semanticscholar.org/paper/5981b4a71ed1236cdd58df1c09cda351670151d0"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "d2eb4bb6bc25254ca655aa111cbbbd22ac8ca21f", 
+      "title": "Empirical comparison of dependency conversions for RST discourse trees", 
+      "url": "https://www.semanticscholar.org/paper/d2eb4bb6bc25254ca655aa111cbbbd22ac8ca21f"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "91053d369917a5442832454054d49b82f1278230", 
+      "title": "A Discourse Search Engine Based on Rhetorical Structure Theory", 
+      "url": "https://www.semanticscholar.org/paper/91053d369917a5442832454054d49b82f1278230"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "3aa3a25293355bf8431c7c5e65a6d7e3bf3ea84c", 
+      "title": "Summarizing documents based on cue-phrases and references", 
+      "url": "https://www.semanticscholar.org/paper/3aa3a25293355bf8431c7c5e65a6d7e3bf3ea84c"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "17eceaac1ef4e74ba980f26291246d20f75c1e64", 
+      "title": "PDTB Discourse Parsing as a Tagging Task: The Two Taggers Approach", 
+      "url": "https://www.semanticscholar.org/paper/17eceaac1ef4e74ba980f26291246d20f75c1e64"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "40c4fd3a3efe9c196fe9987c5560610bb1f86324", 
+      "title": "IITB-Sentiment-Analysts: Participation in Sentiment Analysis in Twitter SemEval 2013 Task", 
+      "url": "https://www.semanticscholar.org/paper/40c4fd3a3efe9c196fe9987c5560610bb1f86324"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "dcf5fc8c1f6dd71b98ad882a5dd80ed30fa43825", 
+      "title": "DiSeg: Un segmentador discursivo autom\u00e1tico para el espa\u00f1ol", 
+      "url": "https://www.semanticscholar.org/paper/dcf5fc8c1f6dd71b98ad882a5dd80ed30fa43825"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "5e1ae6dc2f8f90d714b8a4c495a015509f8f67ab", 
+      "title": "IITB-Sentiment-Analysts: Participation to Task #2 Sentiment Analysis in Twitter", 
+      "url": "https://www.semanticscholar.org/paper/5e1ae6dc2f8f90d714b8a4c495a015509f8f67ab"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "e3abb96bfa9d6bcf49a1880a2170b00d9064fc54", 
+      "title": "Global Features for Shallow Discourse Parsing", 
+      "url": "https://www.semanticscholar.org/paper/e3abb96bfa9d6bcf49a1880a2170b00d9064fc54"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "843a824aa1a1c40a9361abdf76dc6b85556dc316", 
+      "title": "Extracting sentiment as a function of discourse structure and topicality", 
+      "url": "https://www.semanticscholar.org/paper/843a824aa1a1c40a9361abdf76dc6b85556dc316"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "38dd6e69be875011d9b73c1304777586e468e397", 
+      "title": "Text-level Discourse Parsing with Rich Linguistic Features", 
+      "url": "https://www.semanticscholar.org/paper/38dd6e69be875011d9b73c1304777586e468e397"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "36a9f6c1f6c0353635b2e0c530f20dab816a384d", 
+      "title": "Enhancing Grammatical Cohesion: Generating Transitional Expressions for SMT", 
+      "url": "https://www.semanticscholar.org/paper/36a9f6c1f6c0353635b2e0c530f20dab816a384d"
+    }, 
+    {
+      "isInfluential": true, 
+      "paperId": "7d0439b0c2dbbb5ee154acb0ace1a46e10cf3e0a", 
+      "title": "Adaptation of Discourse Parsing Models for the Portuguese Language", 
+      "url": "https://www.semanticscholar.org/paper/7d0439b0c2dbbb5ee154acb0ace1a46e10cf3e0a"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "5f648befbc64292c1eb494149d8b6100414afa36", 
+      "title": "Sentiment Classification Techniques for Tracking Literary Reputation", 
+      "url": "https://www.semanticscholar.org/paper/5f648befbc64292c1eb494149d8b6100414afa36"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "0e356cf1c47981200f037ddc07b573ac0b70c2f8", 
+      "title": "Automatic sense prediction for implicit discourse relations in text", 
+      "url": "https://www.semanticscholar.org/paper/0e356cf1c47981200f037ddc07b573ac0b70c2f8"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "15da44e262c0eaf3416b8a2ae7eb45352a5e2105", 
+      "title": "Automatic recognition of habituals: a three-way classification of clausal aspect", 
+      "url": "https://www.semanticscholar.org/paper/15da44e262c0eaf3416b8a2ae7eb45352a5e2105"
+    }, 
+    {
+      "isInfluential": true, 
+      "paperId": "7cc84d84ad87b9a1f6496fb4acbbc758a9be6345", 
+      "title": "A Novel Discourse Parser Based on Support Vector Machine Classification", 
+      "url": "https://www.semanticscholar.org/paper/7cc84d84ad87b9a1f6496fb4acbbc758a9be6345"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "4c64daac9dda2920752e9a2b0333abe3e02f4beb", 
+      "title": "Rhetorical relations for information retrieval", 
+      "url": "https://www.semanticscholar.org/paper/4c64daac9dda2920752e9a2b0333abe3e02f4beb"
+    }, 
+    {
+      "isInfluential": true, 
+      "paperId": "1c4c5d3c9ba58c7e0aadcca70c0771a662ca97dd", 
+      "title": "Document re-ranking based on topic-comment structure", 
+      "url": "https://www.semanticscholar.org/paper/1c4c5d3c9ba58c7e0aadcca70c0771a662ca97dd"
+    }, 
+    {
+      "isInfluential": true, 
+      "paperId": "7a19e8be80f5eb23bc936482547f0ee269d90402", 
+      "title": "Text-level Discourse Dependency Parsing", 
+      "url": "https://www.semanticscholar.org/paper/7a19e8be80f5eb23bc936482547f0ee269d90402"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "9e4acda231ca052623c8b9044bb907469f1b33c4", 
+      "title": "Improved Word Alignment with Statistics and Linguistic Heuristics", 
+      "url": "https://www.semanticscholar.org/paper/9e4acda231ca052623c8b9044bb907469f1b33c4"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "2985e3c2ee83fd46ca27c304ad083f6a48a0451d", 
+      "title": "An Intelligent Discussion-Bot for Guiding Student Interactions in Threaded Discussions", 
+      "url": "https://www.semanticscholar.org/paper/2985e3c2ee83fd46ca27c304ad083f6a48a0451d"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "30676f544783b01f5c454e50926a208a70fe7654", 
+      "title": "Evaluating HILDA in the CODA Project: A Case Study in Question Generation Using Automatic Discourse Analysis", 
+      "url": "https://www.semanticscholar.org/paper/30676f544783b01f5c454e50926a208a70fe7654"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "271343f92dcaa1f24de2da0c968c9a470a0333f7", 
+      "title": "Building a Discourse-Annotated Dutch Text Corpus", 
+      "url": "https://www.semanticscholar.org/paper/271343f92dcaa1f24de2da0c968c9a470a0333f7"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "fbb046d2427d945e607395b2d71a4ed484946401", 
+      "title": "On the Need of Cross Validation for Discourse Relation Classification", 
+      "url": "https://www.semanticscholar.org/paper/fbb046d2427d945e607395b2d71a4ed484946401"
+    }, 
+    {
+      "isInfluential": true, 
+      "paperId": "0955fa03294e796eefe02a098d8839f7d6031112", 
+      "title": "A Semi-Supervised Approach to Improve Classification of Infrequent Discourse Relations Using Feature Vector Extension", 
+      "url": "https://www.semanticscholar.org/paper/0955fa03294e796eefe02a098d8839f7d6031112"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "15fa4c7a2e83f89aa98bf4fe29227d9a3dc0efd5", 
+      "title": "Linking discourse modes and situation entity types in a cross-linguistic corpus study", 
+      "url": "https://www.semanticscholar.org/paper/15fa4c7a2e83f89aa98bf4fe29227d9a3dc0efd5"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "ad8078809a3f66bfb4b2a7ab2b25af5a36b1a3ad", 
+      "title": "A Novel Translation Framework Based on Rhetorical Structure Theory", 
+      "url": "https://www.semanticscholar.org/paper/ad8078809a3f66bfb4b2a7ab2b25af5a36b1a3ad"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "031cfbadfe8695d4d960614f0a658cab5f59e1f5", 
+      "title": "A comprehensive comparative evaluation of RST-based summarization methods", 
+      "url": "https://www.semanticscholar.org/paper/031cfbadfe8695d4d960614f0a658cab5f59e1f5"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "510749767df15b6687e661ae44769e97426b51e2", 
+      "title": "Two-pass Discourse Segmentation with Pairing and Global Features", 
+      "url": "https://www.semanticscholar.org/paper/510749767df15b6687e661ae44769e97426b51e2"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "30098486d626ac01bc3d8b84e62ba2748c646b45", 
+      "title": "Polarity analysis of texts using discourse structure", 
+      "url": "https://www.semanticscholar.org/paper/30098486d626ac01bc3d8b84e62ba2748c646b45"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "e69ed728570bf520576cee6ca2d15ae5b5e97a09", 
+      "title": "Discourse Segmentation for Sentence Compression", 
+      "url": "https://www.semanticscholar.org/paper/e69ed728570bf520576cee6ca2d15ae5b5e97a09"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "d4b93e03312fd605d5fc61e4cb8f5fb12b92f595", 
+      "title": "A dependency relation-based method to identify attributive relations and its application in text summarization", 
+      "url": "https://www.semanticscholar.org/paper/d4b93e03312fd605d5fc61e4cb8f5fb12b92f595"
+    }
+  ], 
+  "doi": null, 
+  "influentialCitationCount": 30, 
+  "paperId": "0b3858c0c31c6f0826c891a42367671f6e76d46c", 
+  "references": [
+    {
+      "isInfluential": false, 
+      "paperId": "36edc4a2a68e8f16b037df7f0151e48747e9bd5d", 
+      "title": "D-LTAG System: Discourse Parsing with a Lexicalized Tree-Adjoining Grammar", 
+      "url": "https://www.semanticscholar.org/paper/36edc4a2a68e8f16b037df7f0151e48747e9bd5d"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "07a78850c0c2ff11acf21fccca40bfcb79da282b", 
+      "title": "Building a Discourse-Tagged Corpus in the Framework of Rhetorical Structure Theory", 
+      "url": "https://www.semanticscholar.org/paper/07a78850c0c2ff11acf21fccca40bfcb79da282b"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "b8b841750a536ceebd5f5e7ff1390f8afc1d7022", 
+      "title": "The FrameNet Database and Software Tools", 
+      "url": "https://www.semanticscholar.org/paper/b8b841750a536ceebd5f5e7ff1390f8afc1d7022"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "06db1531ef84602ef1aa8dbdb8e89e04e9034583", 
+      "title": "Maximum Entropy Models For Natural Language Ambiguity Resolution", 
+      "url": "https://www.semanticscholar.org/paper/06db1531ef84602ef1aa8dbdb8e89e04e9034583"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "6926c4a61777fdd45399b59ca03d9a7fae410c75", 
+      "title": "A Maximum-Entropy-Inspired Parser", 
+      "url": "https://www.semanticscholar.org/paper/6926c4a61777fdd45399b59ca03d9a7fae410c75"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "346bcbebafd193aba689269da2de51bfaf163df2", 
+      "title": "Discriminative Reranking for Natural Language Parsing", 
+      "url": "https://www.semanticscholar.org/paper/346bcbebafd193aba689269da2de51bfaf163df2"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "8422274e9cbe5dcdd87f203610dfaa63cce233ba", 
+      "title": "The Theory and Practice of Discourse Parsing and Summarization", 
+      "url": "https://www.semanticscholar.org/paper/8422274e9cbe5dcdd87f203610dfaa63cce233ba"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "0b44fcbeea9415d400c5f5789d6b892b6f98daff", 
+      "title": "Building a Large Annotated Corpus of English: The Penn Treebank", 
+      "url": "https://www.semanticscholar.org/paper/0b44fcbeea9415d400c5f5789d6b892b6f98daff"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "308ba6a27e6a5252bab8d043f5251ab4469458b5", 
+      "title": "From TreeBank to PropBank", 
+      "url": "https://www.semanticscholar.org/paper/308ba6a27e6a5252bab8d043f5251ab4469458b5"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "04a8d271bc4384dbfbb417bfb625feb01cb44666", 
+      "title": "Automatic Labeling of Semantic Roles", 
+      "url": "https://www.semanticscholar.org/paper/04a8d271bc4384dbfbb417bfb625feb01cb44666"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "30154464f549643e825ccf60072a17a3e55291d3", 
+      "title": "Adaptive Multilingual Sentence Boundary Disambiguation", 
+      "url": "https://www.semanticscholar.org/paper/30154464f549643e825ccf60072a17a3e55291d3"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "8a638336afe447793037dcd0fd5ed3f636b76f26", 
+      "title": "Statistical Decision-Tree Models for Parsing", 
+      "url": "https://www.semanticscholar.org/paper/8a638336afe447793037dcd0fd5ed3f636b76f26"
+    }
+  ], 
+  "title": "Sentence Level Discourse Parsing using Syntactic and Lexical Information", 
+  "url": "https://www.semanticscholar.org/paper/0b3858c0c31c6f0826c891a42367671f6e76d46c", 
+  "venue": "HLT-NAACL"
+}

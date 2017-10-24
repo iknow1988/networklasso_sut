@@ -1,0 +1,834 @@
+{
+  "authors": [
+    {
+      "authorId": "3255957", 
+      "name": "Cynthia A. Thompson", 
+      "url": "https://www.semanticscholar.org/author/3255957"
+    }, 
+    {
+      "authorId": "1797655", 
+      "name": "Raymond J. Mooney", 
+      "url": "https://www.semanticscholar.org/author/1797655"
+    }
+  ], 
+  "citationVelocity": 0, 
+  "citations": [
+    {
+      "isInfluential": false, 
+      "paperId": "10c52142b71267e22d57dcb610510a02a8f91d7d", 
+      "title": "Learning to Automatically Solve Algebra Word Problems", 
+      "url": "https://www.semanticscholar.org/paper/10c52142b71267e22d57dcb610510a02a8f91d7d", 
+      "venue": "ACL", 
+      "year": 2014
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "68e5cbfd35447f9727a9b55006644f4087e74d17", 
+      "title": "Articles: Robust Understanding in Multimodal Interfaces", 
+      "url": "https://www.semanticscholar.org/paper/68e5cbfd35447f9727a9b55006644f4087e74d17", 
+      "venue": "", 
+      "year": 2009
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "8d3afd89c442ee1a926a171ab930834e0f1212f1", 
+      "title": "Clarifying Commands with Information-Theoretic Human-Robot Dialog", 
+      "url": "https://www.semanticscholar.org/paper/8d3afd89c442ee1a926a171ab930834e0f1212f1", 
+      "venue": "", 
+      "year": 2013
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "76ec23b8c553c010f51f51b3c5cf7ece5ba64d99", 
+      "title": "Experiments Using Semantics for Learning Language Comprehension and Production", 
+      "url": "https://www.semanticscholar.org/paper/76ec23b8c553c010f51f51b3c5cf7ece5ba64d99", 
+      "venue": "", 
+      "year": 2011
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "4b766966353a0513fd989b74a46e2b62e38ca919", 
+      "title": "Lexicalized Well-Founded Grammars: Learnability and Merging", 
+      "url": "https://www.semanticscholar.org/paper/4b766966353a0513fd989b74a46e2b62e38ca919", 
+      "venue": "", 
+      "year": 2005
+    }, 
+    {
+      "isInfluential": true, 
+      "paperId": "1c620c6a3ed9fc9c22d75353c319c7fcd797182b", 
+      "title": "The Emergence of Words: Attentional Learning in Form and Meaning", 
+      "url": "https://www.semanticscholar.org/paper/1c620c6a3ed9fc9c22d75353c319c7fcd797182b", 
+      "venue": "Cognitive Science", 
+      "year": 2005
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "cedbae2565734e6e0a08d9bd0454999dab77ecaa", 
+      "title": "Research on nominal compounding in Chinese", 
+      "url": "https://www.semanticscholar.org/paper/cedbae2565734e6e0a08d9bd0454999dab77ecaa", 
+      "venue": "2005 International Conference on Natural Language Processing and Knowledge Engineering", 
+      "year": 2005
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "66df808a03bd77a0d3ed4552f4f6c7ead6411fcf", 
+      "title": "Learning perceptually grounded word meanings from unaligned parallel data", 
+      "url": "https://www.semanticscholar.org/paper/66df808a03bd77a0d3ed4552f4f6c7ead6411fcf", 
+      "venue": "Machine Learning", 
+      "year": 2013
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "158a9d1f6e655d35d45c960c480ea30117f7af4f", 
+      "title": "Semantic Parsing Freebase: Towards Open-domain Semantic Parsing", 
+      "url": "https://www.semanticscholar.org/paper/158a9d1f6e655d35d45c960c480ea30117f7af4f", 
+      "venue": "*SEM@NAACL-HLT", 
+      "year": 2013
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "2ea713b7fdc5d9aafe275be0f8448206cd363888", 
+      "title": "Empirically-motivated Generalizations of CCG Semantic Parsing Learning Algorithms", 
+      "url": "https://www.semanticscholar.org/paper/2ea713b7fdc5d9aafe275be0f8448206cd363888", 
+      "venue": "EACL", 
+      "year": 2014
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "534296fc0d2c3affcf61bdeedb051eec35b9fef4", 
+      "title": "Unsupervised PCFG Induction for Grounded Language Learning with Highly Ambiguous Supervision", 
+      "url": "https://www.semanticscholar.org/paper/534296fc0d2c3affcf61bdeedb051eec35b9fef4", 
+      "venue": "EMNLP-CoNLL", 
+      "year": 2012
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "1cd59678309fea8018e7ff8230359af24ce4a4ae", 
+      "title": "Inducing Probabilistic CCG Grammars from Logical Form with Higher-Order Unification", 
+      "url": "https://www.semanticscholar.org/paper/1cd59678309fea8018e7ff8230359af24ce4a4ae", 
+      "venue": "EMNLP", 
+      "year": 2010
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "d99a50af0aabe135d4a9bb64c9073b2c067d481f", 
+      "title": "A Supervised Semantic Parsing with Lexicon Extension and Syntactic Constraint", 
+      "url": "https://www.semanticscholar.org/paper/d99a50af0aabe135d4a9bb64c9073b2c067d481f", 
+      "venue": "RANLP", 
+      "year": 2015
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "674ec285ce3a2d0a28d5dbf555f9885764bb6b45", 
+      "title": "Online Learning of Relaxed CCG Grammars for Parsing to Logical Form", 
+      "url": "https://www.semanticscholar.org/paper/674ec285ce3a2d0a28d5dbf555f9885764bb6b45", 
+      "venue": "EMNLP-CoNLL", 
+      "year": 2007
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "29e20072fe0ed51e26acf5bf59a375d731034f25", 
+      "title": "Lexical Generalization in CCG Grammar Induction for Semantic Parsing", 
+      "url": "https://www.semanticscholar.org/paper/29e20072fe0ed51e26acf5bf59a375d731034f25", 
+      "venue": "EMNLP", 
+      "year": 2011
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "9a996c829b124889fa80fec9136f2df79f85226e", 
+      "title": "Learning to map sentences to logical form", 
+      "url": "https://www.semanticscholar.org/paper/9a996c829b124889fa80fec9136f2df79f85226e", 
+      "venue": "", 
+      "year": 2009
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "1b667d1234611336d99cb2bca0d6369fe10ba521", 
+      "title": "Learning to Interpret Natural Language Navigation Instructions from Observation", 
+      "url": "https://www.semanticscholar.org/paper/1b667d1234611336d99cb2bca0d6369fe10ba521", 
+      "venue": "", 
+      "year": 2011
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "a1bda0f43cbf06b2141c9ebdaf725b48183a26f0", 
+      "title": "Comparing, Integrating Lexical Definitional Knowledge From Multiple Sources", 
+      "url": "https://www.semanticscholar.org/paper/a1bda0f43cbf06b2141c9ebdaf725b48183a26f0", 
+      "venue": "", 
+      "year": 2004
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "71aa03872159d632869676da1a219353ee9cd4ac", 
+      "title": "Contextual vocabulary acquisition as computational philosophy and as philosophical computation", 
+      "url": "https://www.semanticscholar.org/paper/71aa03872159d632869676da1a219353ee9cd4ac", 
+      "venue": "J. Exp. Theor. Artif. Intell.", 
+      "year": 2007
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "0653054da3217c9e9dcebeee226dcb4ba3a3f843", 
+      "title": "Panning for gold: finding relevant semantic content for grounded language learning", 
+      "url": "https://www.semanticscholar.org/paper/0653054da3217c9e9dcebeee226dcb4ba3a3f843", 
+      "venue": "MLSLP", 
+      "year": 2011
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "abbc7b9d52b5ccb4c89341e9ccd191ec7648282d", 
+      "title": "Generative Models of Grounded Language Learning with Ambiguous Supervision", 
+      "url": "https://www.semanticscholar.org/paper/abbc7b9d52b5ccb4c89341e9ccd191ec7648282d", 
+      "venue": "", 
+      "year": 2012
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "13fe3600e833ee86c10dcd61b1df0447d683cac4", 
+      "title": "Guiding a Reinforcement Learner with Natural Language Advice: Initial Results in RoboCup Soccer", 
+      "url": "https://www.semanticscholar.org/paper/13fe3600e833ee86c10dcd61b1df0447d683cac4", 
+      "venue": "", 
+      "year": 2004
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "a5340b4f68e2641d32f337488aa8753b835f2f86", 
+      "title": "Learning to Map Chinese Sentences to Logical Forms", 
+      "url": "https://www.semanticscholar.org/paper/a5340b4f68e2641d32f337488aa8753b835f2f86", 
+      "venue": "KSEM", 
+      "year": 2013
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "9afcd4c720bdd1a0fa80f63e8a1fba25c889f4f3", 
+      "title": "A Compositional Framework for Grounding Language Inference, Generation, and Acquisition in Video", 
+      "url": "https://www.semanticscholar.org/paper/9afcd4c720bdd1a0fa80f63e8a1fba25c889f4f3", 
+      "venue": "J. Artif. Intell. Res.", 
+      "year": 2015
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "62c618f7ebd61f465d8899f8ab1813c3bbb9b6d4", 
+      "title": "Fast Online Lexicon Learning for Grounded Language Acquisition", 
+      "url": "https://www.semanticscholar.org/paper/62c618f7ebd61f465d8899f8ab1813c3bbb9b6d4", 
+      "venue": "ACL", 
+      "year": 2012
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "0251127dc9d82f5e4ff7c25f85b184ac28e862fe", 
+      "title": "Learning to Interpret Natural Language Navigation Instructions from Observations", 
+      "url": "https://www.semanticscholar.org/paper/0251127dc9d82f5e4ff7c25f85b184ac28e862fe", 
+      "venue": "AAAI", 
+      "year": 2011
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "d72bae7a2e78b44f2aa1e7dce5eef04657877f71", 
+      "title": "A Cross Disciplinary Look at Statistics and Grounding in Human Lexical Learning", 
+      "url": "https://www.semanticscholar.org/paper/d72bae7a2e78b44f2aa1e7dce5eef04657877f71", 
+      "venue": "", 
+      "year": 2004
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "508e5b724c8b841aecfae864e5d6dcd02eb28772", 
+      "title": "Bootstrapping Semantic Parsers from Conversations", 
+      "url": "https://www.semanticscholar.org/paper/508e5b724c8b841aecfae864e5d6dcd02eb28772", 
+      "venue": "EMNLP", 
+      "year": 2011
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "29b4a2b9665f97528efddb046dde87698b762244", 
+      "title": "Learning Semantic Parsers Using Statistical Syntactic Parsing Techniques", 
+      "url": "https://www.semanticscholar.org/paper/29b4a2b9665f97528efddb046dde87698b762244", 
+      "venue": "", 
+      "year": 2006
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "525fd28f6b117edb8c981be285f18a6effdec997", 
+      "title": "Information Theoretic Similarity Measures for Inter-domain Predicate Mapping", 
+      "url": "https://www.semanticscholar.org/paper/525fd28f6b117edb8c981be285f18a6effdec997", 
+      "venue": "", 
+      "year": null
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "29f1aaa91b09c670778530233d9edda092210872", 
+      "title": "Learning Meaning Before Syntax", 
+      "url": "https://www.semanticscholar.org/paper/29f1aaa91b09c670778530233d9edda092210872", 
+      "venue": "ICGI", 
+      "year": 2008
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "1969a39db6f322a8e3f204fdc8c781bec5cf26d6", 
+      "title": "Learning to Map Sentences to Logical Form: Structured Classification with Probabilistic Categorial Grammars", 
+      "url": "https://www.semanticscholar.org/paper/1969a39db6f322a8e3f204fdc8c781bec5cf26d6", 
+      "venue": "UAI", 
+      "year": 2005
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "18da6a6fdd698660a7f41fe0533d05a4e6443183", 
+      "title": "Learning for Semantic Parsing", 
+      "url": "https://www.semanticscholar.org/paper/18da6a6fdd698660a7f41fe0533d05a4e6443183", 
+      "venue": "CICLing", 
+      "year": 2007
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "793a2a141600dbb2524838f7070321f1feb4298d", 
+      "title": "Using Semantic Unification to Generate Regular Expressions from Natural Language", 
+      "url": "https://www.semanticscholar.org/paper/793a2a141600dbb2524838f7070321f1feb4298d", 
+      "venue": "HLT-NAACL", 
+      "year": 2013
+    }
+  ], 
+  "doi": "10.1613/jair.1063", 
+  "influentialCitationCount": 1, 
+  "paperId": "58a4151fe8e5a142083b5440d6bad2b354dc2dc4", 
+  "references": [
+    {
+      "isInfluential": false, 
+      "paperId": "6a669636e0ada62a0fb444e95435e24fdbdf4dbd", 
+      "title": "Efficient Induction of Logic Programs", 
+      "url": "https://www.semanticscholar.org/paper/6a669636e0ada62a0fb444e95435e24fdbdf4dbd", 
+      "venue": "ALT", 
+      "year": 1990
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "41e936981f5a2d55bfec0143e9a15e23ad96436b", 
+      "title": "Learning Dictionaries for Information Extraction by Multi-Level Bootstrapping", 
+      "url": "https://www.semanticscholar.org/paper/41e936981f5a2d55bfec0143e9a15e23ad96436b", 
+      "venue": "AAAI/IAAI", 
+      "year": 1999
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "24c879ad3d61bb5d35a771a0deef92fc9f6816ca", 
+      "title": "Perceptually Grounded Language Learning: Part 2 - DETE: A Neural/Procedural Model", 
+      "url": "https://www.semanticscholar.org/paper/24c879ad3d61bb5d35a771a0deef92fc9f6816ca", 
+      "venue": "Connect. Sci.", 
+      "year": 1994
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "b23a2b301068cf51145a9232d6351a240b4f2e4f", 
+      "title": "Building An MT Dictionary From Parallel Texts Based On Linguistic And Statistical Information", 
+      "url": "https://www.semanticscholar.org/paper/b23a2b301068cf51145a9232d6351a240b4f2e4f", 
+      "venue": "COLING", 
+      "year": 1994
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "ae29c3f7cb7cd314cd0aa0d88802ab8866af67cb", 
+      "title": "The Acquisition and Interpretation of Complex Nominals", 
+      "url": "https://www.semanticscholar.org/paper/ae29c3f7cb7cd314cd0aa0d88802ab8866af67cb", 
+      "venue": "", 
+      "year": 2002
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "d16f1e6d25ff0721755236eb28d976ca1714f110", 
+      "title": "Using a Logic Grammar to Learn a Lexicon", 
+      "url": "https://www.semanticscholar.org/paper/d16f1e6d25ff0721755236eb28d976ca1714f110", 
+      "venue": "SCAI", 
+      "year": 1988
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "1a4bd21571c57d7248f7ec6b7c268d2ad76f828d", 
+      "title": "Acquisition of a Lexicon from Semantic Representations of Sentences", 
+      "url": "https://www.semanticscholar.org/paper/1a4bd21571c57d7248f7ec6b7c268d2ad76f828d", 
+      "venue": "ACL", 
+      "year": 1995
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "284b16229a06a5a758819ddfefb90e61409aba17", 
+      "title": "Automatic Evaluation and Uniform Filter Cascades for Inducing N-Best Translation Lexicons", 
+      "url": "https://www.semanticscholar.org/paper/284b16229a06a5a758819ddfefb90e61409aba17", 
+      "venue": "ArXiv", 
+      "year": 1995
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "55eed987173d79a2d70fe296175001d7ee3ab69f", 
+      "title": "Lexical Acquisition via Constraint Solving", 
+      "url": "https://www.semanticscholar.org/paper/55eed987173d79a2d70fe296175001d7ee3ab69f", 
+      "venue": "ArXiv", 
+      "year": 1995
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "1a0a415178d20754418987e312681f3fb0b40257", 
+      "title": "Unsupervised Models For Named Entity Classification", 
+      "url": "https://www.semanticscholar.org/paper/1a0a415178d20754418987e312681f3fb0b40257", 
+      "venue": "", 
+      "year": 1999
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "22fb3b3b2bdf768dd435eedfc5ef5155d3e56b1a", 
+      "title": "Learning Information Extraction Rules for Semi-Structured and Free Text", 
+      "url": "https://www.semanticscholar.org/paper/22fb3b3b2bdf768dd435eedfc5ef5155d3e56b1a", 
+      "venue": "Machine Learning", 
+      "year": 1999
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "609e5cc1da126d7f760d1444b43b4fae41602841", 
+      "title": "Less is More: Active Learning with Support Vector Machines", 
+      "url": "https://www.semanticscholar.org/paper/609e5cc1da126d7f760d1444b43b4fae41602841", 
+      "venue": "ICML", 
+      "year": 2000
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "6d326d387ea4e128763266b5f875f62d477c73ca", 
+      "title": "Linguistic Relativity and Word Acquisition: A Computational Approach", 
+      "url": "https://www.semanticscholar.org/paper/6d326d387ea4e128763266b5f875f62d477c73ca", 
+      "venue": "", 
+      "year": 1998
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "1749fc7daf90f1cd7a299117ea6a6db19c4cb514", 
+      "title": "Inductive logic programming", 
+      "url": "https://www.semanticscholar.org/paper/1749fc7daf90f1cd7a299117ea6a6db19c4cb514", 
+      "venue": "New Generation Computing", 
+      "year": 1990
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "a70ef09f3018d058bea7c3a530e8c1b4e8115d02", 
+      "title": "Learning Hierarchies from Ambiguous Natural Language Data", 
+      "url": "https://www.semanticscholar.org/paper/a70ef09f3018d058bea7c3a530e8c1b4e8115d02", 
+      "venue": "ICML", 
+      "year": 1995
+    }, 
+    {
+      "isInfluential": true, 
+      "paperId": "80aa9c12d315734073d8db0b60a1b67fce98746b", 
+      "title": "Improving generalization with active learning", 
+      "url": "https://www.semanticscholar.org/paper/80aa9c12d315734073d8db0b60a1b67fce98746b", 
+      "venue": "Machine Learning", 
+      "year": 1994
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "32b14ee7cce7ec046d7cfed0c04f27028da35231", 
+      "title": "On minimizing training corpus for parser acquisition", 
+      "url": "https://www.semanticscholar.org/paper/32b14ee7cce7ec046d7cfed0c04f27028da35231", 
+      "venue": "CoNLL", 
+      "year": 2001
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "10007391361e17f41aa92f3430c00830dff3be6a", 
+      "title": "Three Generative, Lexicalised Models for Statistical Parsing", 
+      "url": "https://www.semanticscholar.org/paper/10007391361e17f41aa92f3430c00830dff3be6a", 
+      "venue": "ACL", 
+      "year": 1997
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "b18ac643377521bbd7e56521ef169ccafcd1b774", 
+      "title": "Automatic Acquisition of Subcategorization Frames from Untagged Text", 
+      "url": "https://www.semanticscholar.org/paper/b18ac643377521bbd7e56521ef169ccafcd1b774", 
+      "venue": "ACL", 
+      "year": 1991
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "08587b10ff2fa88261a61459a3b80d7aa132a641", 
+      "title": "Committee-Based Sample Selection for Probabilistic Classifiers", 
+      "url": "https://www.semanticscholar.org/paper/08587b10ff2fa88261a61459a3b80d7aa132a641", 
+      "venue": "J. Artif. Intell. Res.", 
+      "year": 1999
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "5051e54af8c0d6b84f8459c57d55bd19be9f0cee", 
+      "title": "Identifying Word Correspondences in Parallel Texts", 
+      "url": "https://www.semanticscholar.org/paper/5051e54af8c0d6b84f8459c57d55bd19be9f0cee", 
+      "venue": "HLT", 
+      "year": 1991
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "1569829d03b3ef0c9d219cf2d337d327c72995f3", 
+      "title": "Learning Rigid Lambek Grammars and Minimalist Grammars from Structured Sentences", 
+      "url": "https://www.semanticscholar.org/paper/1569829d03b3ef0c9d219cf2d337d327c72995f3", 
+      "venue": "", 
+      "year": 2001
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "0acf1a74e6ed8c323192d2b0424849820fe88715", 
+      "title": "Support Vector Machine Active Learning with Application sto Text Classification", 
+      "url": "https://www.semanticscholar.org/paper/0acf1a74e6ed8c323192d2b0424849820fe88715", 
+      "venue": "ICML", 
+      "year": 2000
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "3e15b6a849a41d18ee7773a95d61dc698f30ca52", 
+      "title": "Noun-phrase co-occurrence statistics for semi-automatic semantic lexicon construction", 
+      "url": "https://www.semanticscholar.org/paper/3e15b6a849a41d18ee7773a95d61dc698f30ca52", 
+      "venue": "", 
+      "year": 1998
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "64babfa979109b3a65cc95327e05b5c5acbe2798", 
+      "title": "From Context-Free to Definite-Clause Grammars: A Type-Theoretic Approach", 
+      "url": "https://www.semanticscholar.org/paper/64babfa979109b3a65cc95327e05b5c5acbe2798", 
+      "venue": "J. Log. Program.", 
+      "year": 1997
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "11d702bdd25dfdf368d9028693ea00dac25c8851", 
+      "title": "Inverse entailment and progol", 
+      "url": "https://www.semanticscholar.org/paper/11d702bdd25dfdf368d9028693ea00dac25c8851", 
+      "venue": "New Generation Computing", 
+      "year": 1995
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "189b98e6e278315a3dd99c3f1c2e1289d5f4642f", 
+      "title": "Naive Physics, Event Perception, Lexical Semantics and Language Acquisition", 
+      "url": "https://www.semanticscholar.org/paper/189b98e6e278315a3dd99c3f1c2e1289d5f4642f", 
+      "venue": "", 
+      "year": 1991
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "38224f0aa39e4d4b9a0060e0fe3941f9e6d1bee1", 
+      "title": "Models of Translational Equivalence among Words", 
+      "url": "https://www.semanticscholar.org/paper/38224f0aa39e4d4b9a0060e0fe3941f9e6d1bee1", 
+      "venue": "Computational Linguistics", 
+      "year": 2000
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "3d38150ff6ff618d428f4968a531c0cfae373fa7", 
+      "title": "Representation and Acquisition of Verbal Polysemy", 
+      "url": "https://www.semanticscholar.org/paper/3d38150ff6ff618d428f4968a531c0cfae373fa7", 
+      "venue": "", 
+      "year": 2002
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "76cd815a651a61542050bc9f0cd7d5bc5be90c2e", 
+      "title": "Inductive Logic Programming for Corpus-Based Acquisition of Semantic Lexicons", 
+      "url": "https://www.semanticscholar.org/paper/76cd815a651a61542050bc9f0cd7d5bc5be90c2e", 
+      "venue": "CoNLL/LLL", 
+      "year": 2000
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "480679765e02c5d4f73237928290e7db6cfec02e", 
+      "title": "Selective Sampling Using the Query by Committee Algorithm", 
+      "url": "https://www.semanticscholar.org/paper/480679765e02c5d4f73237928290e7db6cfec02e", 
+      "venue": "Machine Learning", 
+      "year": 1997
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "20102c9e4c290cc81420207cb6217af1000fdfa8", 
+      "title": "Unsupervised Lexical Learning with Categorial Grammars using the LLL Corpus", 
+      "url": "https://www.semanticscholar.org/paper/20102c9e4c290cc81420207cb6217af1000fdfa8", 
+      "venue": "", 
+      "year": 1999
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "771a7bd936b620458aa3f4a400a879a0d685ae2f", 
+      "title": "Translating Collocations for Bilingual Lexicons: A Statistical Approach", 
+      "url": "https://www.semanticscholar.org/paper/771a7bd936b620458aa3f4a400a879a0d685ae2f", 
+      "venue": "Computational Linguistics", 
+      "year": 1996
+    }, 
+    {
+      "isInfluential": true, 
+      "paperId": "a6ad17f9df9346c56bab090b35ef73ff94f56c01", 
+      "title": "A computational study of cross-situational techniques for learning word-to-meaning mappings.", 
+      "url": "https://www.semanticscholar.org/paper/a6ad17f9df9346c56bab090b35ef73ff94f56c01", 
+      "venue": "Cognition", 
+      "year": 1996
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "8c5ac90823b64b501d0e4d0172ef442ef556a4fd", 
+      "title": "An Experiment on Learning Appropriate Selectional Restrictions from a Parsed Corpus", 
+      "url": "https://www.semanticscholar.org/paper/8c5ac90823b64b501d0e4d0172ef442ef556a4fd", 
+      "venue": "COLING", 
+      "year": 1994
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "6e5551731cfb63ad3172c24814405645ab62bda8", 
+      "title": "A Statistical Approach to Machine Translation", 
+      "url": "https://www.semanticscholar.org/paper/6e5551731cfb63ad3172c24814405645ab62bda8", 
+      "venue": "Computational Linguistics", 
+      "year": 1990
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "26b9c15c0f0787808ca6f06b34f11a63dc3b8dfe", 
+      "title": "Automatic Acquisition of a Large Subcategorization Dictionary from Corpora", 
+      "url": "https://www.semanticscholar.org/paper/26b9c15c0f0787808ca6f06b34f11a63dc3b8dfe", 
+      "venue": "ACL", 
+      "year": 1993
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "879000346aea99947212452452a6e3055fccec9b", 
+      "title": "Learning Word-to-meaning Mappings", 
+      "url": "https://www.semanticscholar.org/paper/879000346aea99947212452452a6e3055fccec9b", 
+      "venue": "", 
+      "year": 1997
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "ace27050f87453c583cbc7703087dd50e96c26f1", 
+      "title": "Employing EM and Pool-Based Active Learning for Text Classification", 
+      "url": "https://www.semanticscholar.org/paper/ace27050f87453c583cbc7703087dd50e96c26f1", 
+      "venue": "ICML", 
+      "year": 1998
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "ae5831b1a4543219ed1108e097a3bdb3300df6d1", 
+      "title": "Induction of Augmented Transition Networks", 
+      "url": "https://www.semanticscholar.org/paper/ae5831b1a4543219ed1108e097a3bdb3300df6d1", 
+      "venue": "Cognitive Science", 
+      "year": 1977
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "0b7465bfe2cd7a3fd154e85d1b34ed79ff47306d", 
+      "title": "Selection and Information: A Class-Based Approach to Lexical Relationships", 
+      "url": "https://www.semanticscholar.org/paper/0b7465bfe2cd7a3fd154e85d1b34ed79ff47306d", 
+      "venue": "", 
+      "year": 1993
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "ba46d8a1231b04e3360b15b82e4ab371d0802ed9", 
+      "title": "A Lexically-Intensive Algorithm for Domain-Specific Knowlegde Acquisition", 
+      "url": "https://www.semanticscholar.org/paper/ba46d8a1231b04e3360b15b82e4ab371d0802ed9", 
+      "venue": "CoNLL", 
+      "year": 1998
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "2ae40898406df0a3732acc54f147c1d377f54e2a", 
+      "title": "Query by Committee", 
+      "url": "https://www.semanticscholar.org/paper/2ae40898406df0a3732acc54f147c1d377f54e2a", 
+      "venue": "COLT", 
+      "year": 1992
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "565af6386d9f65f468d0dd97c242bb5abcf8907c", 
+      "title": "Human Behaviour and the Principle of Least Effort: an Introduction to Human Ecology", 
+      "url": "https://www.semanticscholar.org/paper/565af6386d9f65f468d0dd97c242bb5abcf8907c", 
+      "venue": "", 
+      "year": 1949
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "1c9df99cce1903d34c53025e86e72331bbfbe08f", 
+      "title": "Learning to Parse Database Queries Using Inductive Logic Programming", 
+      "url": "https://www.semanticscholar.org/paper/1c9df99cce1903d34c53025e86e72331bbfbe08f", 
+      "venue": "AAAI/IAAI, Vol. 2", 
+      "year": 1996
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "63480dca55f46a8dc517e63755dd6546b8f6b83e", 
+      "title": "Inducing a Semantically Annotated Lexicon via EM-Based Clustering", 
+      "url": "https://www.semanticscholar.org/paper/63480dca55f46a8dc517e63755dd6546b8f6b83e", 
+      "venue": "ACL", 
+      "year": 1999
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "1e8a89d2c7e2517ca9b774567f55e536caddf0c8", 
+      "title": "The Acquisition of a Lexicon from Paired Phoneme Sequences and Semantic Representations", 
+      "url": "https://www.semanticscholar.org/paper/1e8a89d2c7e2517ca9b774567f55e536caddf0c8", 
+      "venue": "ICGI", 
+      "year": 1994
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "0fc61b5fdb0eca9af2f573b06495b39d5e41d323", 
+      "title": "Complexity Issues in Robotic Machine Learning of Natural Language", 
+      "url": "https://www.semanticscholar.org/paper/0fc61b5fdb0eca9af2f573b06495b39d5e41d323", 
+      "venue": "", 
+      "year": 2003
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "f56366b0a7baeb591fb6fbf1797405d219889321", 
+      "title": "Continuous information processing in conceptual identifications.", 
+      "url": "https://www.semanticscholar.org/paper/f56366b0a7baeb591fb6fbf1797405d219889321", 
+      "venue": "Psychological research", 
+      "year": 1985
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "84efa6813322d73d4c70f9ffed42c67a1551b0b8", 
+      "title": "Large-scale automatic extraction of an English-Chinese translation lexicon", 
+      "url": "https://www.semanticscholar.org/paper/84efa6813322d73d4c70f9ffed42c67a1551b0b8", 
+      "venue": "Machine Translation", 
+      "year": 1994
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "5f78d6f79b3ef103cb2d8d170632eb74d9496412", 
+      "title": "Committee-Based Sampling For Training Probabilistic Classifiers", 
+      "url": "https://www.semanticscholar.org/paper/5f78d6f79b3ef103cb2d8d170632eb74d9496412", 
+      "venue": "ICML", 
+      "year": 1995
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "267d66d15d9fd5240e816fece3c31806f36b0935", 
+      "title": "Mathematical Methods in Linguistics", 
+      "url": "https://www.semanticscholar.org/paper/267d66d15d9fd5240e816fece3c31806f36b0935", 
+      "venue": "", 
+      "year": 2002
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "80ef14d2a1b8c7efbf45bedae9d001fe5446c7de", 
+      "title": "Active Learning with Committees for Text Categorization", 
+      "url": "https://www.semanticscholar.org/paper/80ef14d2a1b8c7efbf45bedae9d001fe5446c7de", 
+      "venue": "AAAI/IAAI", 
+      "year": 1997
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "38c1aca00e84ccbcdf6efd07f07d46c9000735f9", 
+      "title": "Algebraic learning of statistical associations for language acquisition", 
+      "url": "https://www.semanticscholar.org/paper/38c1aca00e84ccbcdf6efd07f07d46c9000735f9", 
+      "venue": "Computer Speech & Language", 
+      "year": 1994
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "cf9fec67129a0f0f9ebb1ba5ff411c2fa63ff723", 
+      "title": "Inductive logic programming - techniques and applications", 
+      "url": "https://www.semanticscholar.org/paper/cf9fec67129a0f0f9ebb1ba5ff411c2fa63ff723", 
+      "venue": "Ellis Horwood series in artificial intelligence", 
+      "year": 1994
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "37c9408d511cbc1122b5b570694eed52b04e9636", 
+      "title": "Active Learning for Natural Language Parsing and Information Extraction", 
+      "url": "https://www.semanticscholar.org/paper/37c9408d511cbc1122b5b570694eed52b04e9636", 
+      "venue": "ICML", 
+      "year": 1999
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "e353a735bb0b9593103840b0f6aa7939dd51796e", 
+      "title": "Computers and Intractability: A Guide to the Theory of NP-Completeness", 
+      "url": "https://www.semanticscholar.org/paper/e353a735bb0b9593103840b0f6aa7939dd51796e", 
+      "venue": "", 
+      "year": 1979
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "6a6978ba2feda4837ece44e0a4e77c92cce96d95", 
+      "title": "Using Syntax to Learn Semantics: An Experiment in Language Acquisition with a Mobile Robot", 
+      "url": "https://www.semanticscholar.org/paper/6a6978ba2feda4837ece44e0a4e77c92cce96d95", 
+      "venue": "", 
+      "year": 1999
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "3709d6c71d1003f47fce2989134173bf477802ac", 
+      "title": "An Efficient Context-Free Parsing Algorithm for Natural Languages", 
+      "url": "https://www.semanticscholar.org/paper/3709d6c71d1003f47fce2989134173bf477802ac", 
+      "venue": "IJCAI", 
+      "year": 1985
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "6e986f302a0b0b0fd700c89b94ec54585c5e45a7", 
+      "title": "Automatic Acquisition of the Lexical Semantics of Verbs from Sentence Frames", 
+      "url": "https://www.semanticscholar.org/paper/6e986f302a0b0b0fd700c89b94ec54585c5e45a7", 
+      "venue": "ACL", 
+      "year": 1989
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "765305f72d5aaa645ab4d121dd40cf5a93d0fb43", 
+      "title": "Knowledge acquisition via incremental conceptual clustering", 
+      "url": "https://www.semanticscholar.org/paper/765305f72d5aaa645ab4d121dd40cf5a93d0fb43", 
+      "venue": "Machine Learning", 
+      "year": 1987
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "673a851db00c835d17788b8a6cb7b470de493fb8", 
+      "title": "Heterogeneous Uncertainty Sampling for Supervised Learning", 
+      "url": "https://www.semanticscholar.org/paper/673a851db00c835d17788b8a6cb7b470de493fb8", 
+      "venue": "", 
+      "year": 1994
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "26e8f3cc46b710a013358bf0289df4de033446ba", 
+      "title": "Maximum Likelihood from Incomplete Data via the EM Algorithm", 
+      "url": "https://www.semanticscholar.org/paper/26e8f3cc46b710a013358bf0289df4de033446ba", 
+      "venue": "", 
+      "year": 1977
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "99499680488cbbed656d0f9fa1e4ce7edb484611", 
+      "title": "A Case Frame Learning Method for Japanese Polysemous Verbs", 
+      "url": "https://www.semanticscholar.org/paper/99499680488cbbed656d0f9fa1e4ce7edb484611", 
+      "venue": "", 
+      "year": 2002
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "7efd0fefe6217a9e91ff7c6a70e4130d961560e4", 
+      "title": "Learning Word Meanings by Instruction", 
+      "url": "https://www.semanticscholar.org/paper/7efd0fefe6217a9e91ff7c6a70e4130d961560e4", 
+      "venue": "AAAI/IAAI, Vol. 1", 
+      "year": 1996
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "16801777230a7970f1d4afe675e86e46a07264bb", 
+      "title": "Book Reviews: The Human Semantic Potential: Spatial Language and Constrained Connectionism", 
+      "url": "https://www.semanticscholar.org/paper/16801777230a7970f1d4afe675e86e46a07264bb", 
+      "venue": "", 
+      "year": 2002
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "e16333259bb4a688fe2568f0d757299846a3e696", 
+      "title": "Queries and concept learning", 
+      "url": "https://www.semanticscholar.org/paper/e16333259bb4a688fe2568f0d757299846a3e696", 
+      "venue": "Machine Learning", 
+      "year": 1987
+    }
+  ], 
+  "title": "Acquiring Word-Meaning Mappings for Natural Language Interfaces", 
+  "url": "https://www.semanticscholar.org/paper/58a4151fe8e5a142083b5440d6bad2b354dc2dc4", 
+  "venue": "J. Artif. Intell. Res.", 
+  "year": 2003
+}

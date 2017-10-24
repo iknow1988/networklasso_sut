@@ -1,0 +1,500 @@
+{
+  "authors": [
+    {
+      "authorId": "3168084", 
+      "name": "Shengyu Liu", 
+      "url": "https://www.semanticscholar.org/author/3168084"
+    }, 
+    {
+      "authorId": "2987453", 
+      "name": "Buzhou Tang", 
+      "url": "https://www.semanticscholar.org/author/2987453"
+    }, 
+    {
+      "authorId": "1752690", 
+      "name": "Qingcai Chen", 
+      "url": "https://www.semanticscholar.org/author/1752690"
+    }, 
+    {
+      "authorId": "1709719", 
+      "name": "Xiaolong Wang", 
+      "url": "https://www.semanticscholar.org/author/1709719"
+    }
+  ], 
+  "citationVelocity": 0, 
+  "citations": [
+    {
+      "isInfluential": false, 
+      "paperId": "1e9742aff5bc1c677a16057350152fe090ba31cd", 
+      "title": "Overlap in drug-disease associations between clinical practice guidelines and drug structured product label indications", 
+      "url": "https://www.semanticscholar.org/paper/1e9742aff5bc1c677a16057350152fe090ba31cd", 
+      "venue": "J. Biomedical Semantics", 
+      "year": 2016
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "4b45ff0eb26d237dc1eb8976af99af12ebc5e311", 
+      "title": "Finding Important Terms for Patients in Their Electronic Health Records: A Learning-to-Rank Approach Using Expert Annotations", 
+      "url": "https://www.semanticscholar.org/paper/4b45ff0eb26d237dc1eb8976af99af12ebc5e311", 
+      "venue": "JMIR medical informatics", 
+      "year": 2016
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "e8f7e63ef52e6c19a0933cf7d920fcc2ad60eab7", 
+      "title": "Learning for Biomedical Information Extraction: Methodological Review of Recent Advances", 
+      "url": "https://www.semanticscholar.org/paper/e8f7e63ef52e6c19a0933cf7d920fcc2ad60eab7", 
+      "venue": "ArXiv", 
+      "year": 2016
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "91d4498849fe1966a629cddb187d3cd62eedb2ca", 
+      "title": "Deep learning with word embeddings improves biomedical named entity recognition", 
+      "url": "https://www.semanticscholar.org/paper/91d4498849fe1966a629cddb187d3cd62eedb2ca", 
+      "venue": "", 
+      "year": 2017
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "00441e2ebbace419826ce472503a2d823f194db9", 
+      "title": "Unsupervised Ensemble Ranking of Terms in Electronic Health Record Notes Based on Their Importance to Patients", 
+      "url": "https://www.semanticscholar.org/paper/00441e2ebbace419826ce472503a2d823f194db9", 
+      "venue": "Journal of Biomedical Informatics", 
+      "year": 2017
+    }, 
+    {
+      "isInfluential": true, 
+      "paperId": "cf4a2de41ee0cccc2a6ff4066be3a9cbdd8de6b4", 
+      "title": "LSTM-CRF for Drug-Named Entity Recognition", 
+      "url": "https://www.semanticscholar.org/paper/cf4a2de41ee0cccc2a6ff4066be3a9cbdd8de6b4", 
+      "venue": "", 
+      "year": 2017
+    }
+  ], 
+  "doi": null, 
+  "influentialCitationCount": 1, 
+  "paperId": "1577348f5a41da68aec91b17988bf40706a09e23", 
+  "references": [
+    {
+      "isInfluential": false, 
+      "paperId": "27211ed68a7a00f1df0121fa1890a1b2acdd1a88", 
+      "title": "A Neural Probabilistic Language Model", 
+      "url": "https://www.semanticscholar.org/paper/27211ed68a7a00f1df0121fa1890a1b2acdd1a88", 
+      "venue": "Journal of Machine Learning Research", 
+      "year": 2000
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "bfea4d58717c83c67ac3f9eab855d15c59754757", 
+      "title": "Hierarchical Probabilistic Neural Network Language Model", 
+      "url": "https://www.semanticscholar.org/paper/bfea4d58717c83c67ac3f9eab855d15c59754757", 
+      "venue": "AISTATS", 
+      "year": 2005
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "a760ff68494efaf4806c38b005d26d0ff729282a", 
+      "title": "Named entity recognition: Exploring features", 
+      "url": "https://www.semanticscholar.org/paper/a760ff68494efaf4806c38b005d26d0ff729282a", 
+      "venue": "KONVENS", 
+      "year": 2012
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "0c7f52c753a65ceaf3755e20b906ffd0c05c994a", 
+      "title": "Conditional Random Fields: Probabilistic Models for Segmenting and Labeling Sequence Data", 
+      "url": "https://www.semanticscholar.org/paper/0c7f52c753a65ceaf3755e20b906ffd0c05c994a", 
+      "venue": "ICML", 
+      "year": 2001
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "747e4bbd9f16568e3490e12c1027faa03afc20e1", 
+      "title": "A study of machine-learning-based approaches to extract clinical entities and their assertions from discharge summaries", 
+      "url": "https://www.semanticscholar.org/paper/747e4bbd9f16568e3490e12c1027faa03afc20e1", 
+      "venue": "JAMIA", 
+      "year": 2011
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "515f378eb5b021a85c79d1ade4d81333265e78fc", 
+      "title": "Recognition of medication information from discharge summaries using ensembles of classifiers", 
+      "url": "https://www.semanticscholar.org/paper/515f378eb5b021a85c79d1ade4d81333265e78fc", 
+      "venue": "BMC Med. Inf. & Decision Making", 
+      "year": 2012
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "4c15b129a8da55127e4e2fe47f54799d0a313367", 
+      "title": "Word Representations: A Simple and General Method for Semi-Supervised Learning", 
+      "url": "https://www.semanticscholar.org/paper/4c15b129a8da55127e4e2fe47f54799d0a313367", 
+      "venue": "ACL", 
+      "year": 2010
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "5ede8d103ebfbba4e4f826d92e50969e4f91afb2", 
+      "title": "Enhancing clinical concept extraction with distributional semantics", 
+      "url": "https://www.semanticscholar.org/paper/5ede8d103ebfbba4e4f826d92e50969e4f91afb2", 
+      "venue": "Journal of Biomedical Informatics", 
+      "year": 2012
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "0e363c9567263e05a066f4c36e592d4bf560d8da", 
+      "title": "Identifying gene and protein mentions in text using conditional random fields", 
+      "url": "https://www.semanticscholar.org/paper/0e363c9567263e05a066f4c36e592d4bf560d8da", 
+      "venue": "BMC Bioinformatics", 
+      "year": 2005
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "10a80fe1095eec2f1e63917762c72ca420b30db4", 
+      "title": "Application of information technology: MedEx: a medication information extraction system for clinical narratives", 
+      "url": "https://www.semanticscholar.org/paper/10a80fe1095eec2f1e63917762c72ca420b30db4", 
+      "venue": "JAMIA", 
+      "year": 2010
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "783480acff435bfbc15ffcdb4f15eccddaa0c810", 
+      "title": "Class-Based n-gram Models of Natural Language", 
+      "url": "https://www.semanticscholar.org/paper/783480acff435bfbc15ffcdb4f15eccddaa0c810", 
+      "venue": "Computational Linguistics", 
+      "year": 1992
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "49a3aff1af750616de71f0d1c1f3eef3d62645f8", 
+      "title": "DrugBank 3.0: a comprehensive resource for \u2018Omics\u2019 research on drugs", 
+      "url": "https://www.semanticscholar.org/paper/49a3aff1af750616de71f0d1c1f3eef3d62645f8", 
+      "venue": "Nucleic Acids Research", 
+      "year": 2011
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "7b1a7b519ae42ea73224f0df2339efe86101706e", 
+      "title": "LASIGE: using Conditional Random Fields and ChEBI ontology", 
+      "url": "https://www.semanticscholar.org/paper/7b1a7b519ae42ea73224f0df2339efe86101706e", 
+      "venue": "SemEval@NAACL-HLT", 
+      "year": 2013
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "1b1eed518d7f0c67874a5e6e018486feb3923732", 
+      "title": "Early results for Named Entity Recognition with Conditional Random Fields, Feature Induction and Web-Enhanced Lexicons", 
+      "url": "https://www.semanticscholar.org/paper/1b1eed518d7f0c67874a5e6e018486feb3923732", 
+      "venue": "CoNLL", 
+      "year": 2003
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "1005645c05585c2042e3410daeed638b55e2474d", 
+      "title": "A Scalable Hierarchical Distributed Language Model", 
+      "url": "https://www.semanticscholar.org/paper/1005645c05585c2042e3410daeed638b55e2474d", 
+      "venue": "NIPS", 
+      "year": 2008
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "2538e3eb24d26f31482c479d95d2e26c0e79b990", 
+      "title": "Natural Language Processing (almost) from Scratch", 
+      "url": "https://www.semanticscholar.org/paper/2538e3eb24d26f31482c479d95d2e26c0e79b990", 
+      "venue": "Journal of Machine Learning Research", 
+      "year": 2011
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "9d4c07c9e68efcd73dd7499d22f5e48688e38d80", 
+      "title": "A dictionary to identify small molecules and drugs in free text", 
+      "url": "https://www.semanticscholar.org/paper/9d4c07c9e68efcd73dd7499d22f5e48688e38d80", 
+      "venue": "Bioinformatics", 
+      "year": 2009
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "27496a2ee337db705e7c611dea1fd8e6f41437c2", 
+      "title": "Design Challenges and Misconceptions in Named Entity Recognition", 
+      "url": "https://www.semanticscholar.org/paper/27496a2ee337db705e7c611dea1fd8e6f41437c2", 
+      "venue": "CoNLL", 
+      "year": 2009
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "39178f7ce277600d1e51261d4446c025e208b18c", 
+      "title": "A comparison of conditional random fields and structured support vector machines for chemical entity recognition in biomedical literature", 
+      "url": "https://www.semanticscholar.org/paper/39178f7ce277600d1e51261d4446c025e208b18c", 
+      "venue": "J. Cheminformatics", 
+      "year": 2015
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "66a7f05488aa12770fc945ca7abb4641cad79ddd", 
+      "title": "Identifying adverse drug event information in clinical notes with distributional semantic representations of context", 
+      "url": "https://www.semanticscholar.org/paper/66a7f05488aa12770fc945ca7abb4641cad79ddd", 
+      "venue": "Journal of Biomedical Informatics", 
+      "year": 2015
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "a0f8459d768c80eaba8e31bda8a81e2f09ed7481", 
+      "title": "CHEMDNER: The drugs and chemical names extraction challenge", 
+      "url": "https://www.semanticscholar.org/paper/a0f8459d768c80eaba8e31bda8a81e2f09ed7481", 
+      "venue": "J. Cheminformatics", 
+      "year": 2015
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "4f410ab5c8b12b34b38421241366ee456bbebab9", 
+      "title": "Incorporating Non-local Information into Information Extraction Systems by Gibbs Sampling", 
+      "url": "https://www.semanticscholar.org/paper/4f410ab5c8b12b34b38421241366ee456bbebab9", 
+      "venue": "ACL", 
+      "year": 2005
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "07074ac1bcd2957a5b4db89a493e92415ac2934c", 
+      "title": "A cascade of classifiers for extracting medication information from discharge summaries", 
+      "url": "https://www.semanticscholar.org/paper/07074ac1bcd2957a5b4db89a493e92415ac2934c", 
+      "venue": "J. Biomedical Semantics", 
+      "year": 2011
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "b00bf638b018237d05caf4fc9449465041d557a8", 
+      "title": "tmChem: a high performance approach for chemical named entity recognition and normalization", 
+      "url": "https://www.semanticscholar.org/paper/b00bf638b018237d05caf4fc9449465041d557a8", 
+      "venue": "J. Cheminformatics", 
+      "year": 2015
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "1058b84457615a98fadbb4afac59f2fa2bc2da98", 
+      "title": "Introduction to the CoNLL-2003 Shared Task: Language-Independent Named Entity Recognition", 
+      "url": "https://www.semanticscholar.org/paper/1058b84457615a98fadbb4afac59f2fa2bc2da98", 
+      "venue": "CoNLL", 
+      "year": 2003
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "0318db60f1775d9d32ed328f1b0021fcc573f1b3", 
+      "title": "CHEMDNER system with mixed conditional random fields and multi-scale word clustering", 
+      "url": "https://www.semanticscholar.org/paper/0318db60f1775d9d32ed328f1b0021fcc573f1b3", 
+      "venue": "J. Cheminformatics", 
+      "year": 2015
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "1a73f92d380f56901508f867f6fddd11b9ed9e4d", 
+      "title": "A document processing pipeline for annotating chemical entities in scientific documents", 
+      "url": "https://www.semanticscholar.org/paper/1a73f92d380f56901508f867f6fddd11b9ed9e4d", 
+      "venue": "J. Cheminformatics", 
+      "year": 2015
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "142f38642629b9d268999ad876af482177d36697", 
+      "title": "Improving Word Representations via Global Context and Multiple Word Prototypes", 
+      "url": "https://www.semanticscholar.org/paper/142f38642629b9d268999ad876af482177d36697", 
+      "venue": "ACL", 
+      "year": 2012
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "6126f4e95cb88288fabcb5eec36e6e79e180192c", 
+      "title": "The 1st DDIExtraction-2011 challenge task: Extraction of Drug-Drug Interactions from biomedical texts", 
+      "url": "https://www.semanticscholar.org/paper/6126f4e95cb88288fabcb5eec36e6e79e180192c", 
+      "venue": "", 
+      "year": 2011
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "9e85832b04cc3700c2c26d6ba93fdeae39cac04a", 
+      "title": "Introduction to the CoNLL-2000 Shared Task Chunking", 
+      "url": "https://www.semanticscholar.org/paper/9e85832b04cc3700c2c26d6ba93fdeae39cac04a", 
+      "venue": "CoNLL/LLL", 
+      "year": 2000
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "27b1038332b58748f720ccd1632c7cb35b7235b3", 
+      "title": "Evaluating Word Representation Features in Biomedical Named Entity Recognition Tasks", 
+      "url": "https://www.semanticscholar.org/paper/27b1038332b58748f720ccd1632c7cb35b7235b3", 
+      "venue": "BioMed research international", 
+      "year": 2014
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "5a58b568add71c31ad7e6359008d2759a314b82c", 
+      "title": "Drug name recognition in biomedical texts: a machine-learning-based method.", 
+      "url": "https://www.semanticscholar.org/paper/5a58b568add71c31ad7e6359008d2759a314b82c", 
+      "venue": "Drug discovery today", 
+      "year": 2014
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "762b63d2eb86f8fd0de98a08561b77527ae8f165", 
+      "title": "Distributed Representations of Words and Phrases and their Compositionality", 
+      "url": "https://www.semanticscholar.org/paper/762b63d2eb86f8fd0de98a08561b77527ae8f165", 
+      "venue": "NIPS", 
+      "year": 2013
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "295df0119ab861c7cc1760fd896db1b799a70b5d", 
+      "title": "Automatic recognition of disorders, findings, pharmaceuticals and body structures from clinical text: An annotation and machine learning study", 
+      "url": "https://www.semanticscholar.org/paper/295df0119ab861c7cc1760fd896db1b799a70b5d", 
+      "venue": "Journal of Biomedical Informatics", 
+      "year": 2014
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "26309d2ab0a9fd6312063b171c0a46742ca6fc00", 
+      "title": "Dynamic conditional random fields: factorized probabilistic models for labeling and segmenting sequence data", 
+      "url": "https://www.semanticscholar.org/paper/26309d2ab0a9fd6312063b171c0a46742ca6fc00", 
+      "venue": "ICML", 
+      "year": 2004
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "47a87c2cbdd928bb081974d308b3d9cf678d257e", 
+      "title": "Recurrent neural network based language model", 
+      "url": "https://www.semanticscholar.org/paper/47a87c2cbdd928bb081974d308b3d9cf678d257e", 
+      "venue": "INTERSPEECH", 
+      "year": 2010
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "a9a5b40e179ed22e3d59b7823bffc9d3aaa65474", 
+      "title": "SemEval-2013 Task 9 : Extraction of Drug-Drug Interactions from Biomedical Texts (DDIExtraction 2013)", 
+      "url": "https://www.semanticscholar.org/paper/a9a5b40e179ed22e3d59b7823bffc9d3aaa65474", 
+      "venue": "SemEval@NAACL-HLT", 
+      "year": 2013
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "096032691e29a1b3b5cd741e7403a4227e1f7492", 
+      "title": "WBI-NER: The impact of domain-specific features on the performance of identifying and classifying mentions of drugs", 
+      "url": "https://www.semanticscholar.org/paper/096032691e29a1b3b5cd741e7403a4227e1f7492", 
+      "venue": "SemEval@NAACL-HLT", 
+      "year": 2013
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "e7df04b716c71e2029742e03ef7fa1e7fe4fd977", 
+      "title": "High accuracy information extraction of medication information from clinical notes: 2009 i2b2 medication extraction challenge", 
+      "url": "https://www.semanticscholar.org/paper/e7df04b716c71e2029742e03ef7fa1e7fe4fd977", 
+      "venue": "JAMIA", 
+      "year": 2010
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "4dc0f8170945bcbd280f17a950d9115f07195134", 
+      "title": "UMCC_DLSI: Semantic and Lexical features for detection and classification Drugs in biomedical texts", 
+      "url": "https://www.semanticscholar.org/paper/4dc0f8170945bcbd280f17a950d9115f07195134", 
+      "venue": "SemEval@NAACL-HLT", 
+      "year": 2013
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "4afa6c2eb552ceef0e396fbfe449932492873034", 
+      "title": "Efficient Estimation of Word Representations in Vector Space", 
+      "url": "https://www.semanticscholar.org/paper/4afa6c2eb552ceef0e396fbfe449932492873034", 
+      "venue": "ArXiv", 
+      "year": 2013
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "5112344caeedb0f6c7360e1e9ac18bbf021600ca", 
+      "title": "How to Generate a Good Word Embedding", 
+      "url": "https://www.semanticscholar.org/paper/5112344caeedb0f6c7360e1e9ac18bbf021600ca", 
+      "venue": "IEEE Intelligent Systems", 
+      "year": 2016
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "78bc7d116e8a85a2bc763981c3577c4a5210a8af", 
+      "title": "Combining dictionaries and ontologies for drug name recognition in biomedical texts", 
+      "url": "https://www.semanticscholar.org/paper/78bc7d116e8a85a2bc763981c3577c4a5210a8af", 
+      "venue": "DTMBIO", 
+      "year": 2013
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "669a1735c515cf1ae2108d1823e624bd0854a3a0", 
+      "title": "Biomedical Named Entity Recognition Using Conditional Random Fields And Rich Feature Sets", 
+      "url": "https://www.semanticscholar.org/paper/669a1735c515cf1ae2108d1823e624bd0854a3a0", 
+      "venue": "", 
+      "year": 2004
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "021eded7ffb6fe9224a41c50ba00aaa31bf29765", 
+      "title": "Chinese Segmentation and New Word Detection using Conditional Random Fields", 
+      "url": "https://www.semanticscholar.org/paper/021eded7ffb6fe9224a41c50ba00aaa31bf29765", 
+      "venue": "COLING", 
+      "year": 2004
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "0b44fcbeea9415d400c5f5789d6b892b6f98daff", 
+      "title": "Building a Large Annotated Corpus of English: The Penn Treebank", 
+      "url": "https://www.semanticscholar.org/paper/0b44fcbeea9415d400c5f5789d6b892b6f98daff", 
+      "venue": "Computational Linguistics", 
+      "year": 1993
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "6759d4646f3a9b9eec5db8822352aabf52b8dc6e", 
+      "title": "Optimising chemical named entity recognition with pre-processing analytics, knowledge-rich features and heuristics", 
+      "url": "https://www.semanticscholar.org/paper/6759d4646f3a9b9eec5db8822352aabf52b8dc6e", 
+      "venue": "J. Cheminformatics", 
+      "year": 2015
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "2bf973df141a57270457187d0d2c070a0f43b55d", 
+      "title": "An Introduction to Latent Semantic Analysis", 
+      "url": "https://www.semanticscholar.org/paper/2bf973df141a57270457187d0d2c070a0f43b55d", 
+      "venue": "", 
+      "year": 1998
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "ef239c45ea2fde83d57404e2dc28e346a7f60edf", 
+      "title": "Drug name recognition and classification in biomedical texts. A case study outlining approaches underpinning automated systems.", 
+      "url": "https://www.semanticscholar.org/paper/ef239c45ea2fde83d57404e2dc28e346a7f60edf", 
+      "venue": "Drug discovery today", 
+      "year": 2008
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "861bfe013011498106aa8cd6a2adbfc1a7d65734", 
+      "title": "UEM-UC3M: An Ontology-based named entity recognition system for biomedical texts", 
+      "url": "https://www.semanticscholar.org/paper/861bfe013011498106aa8cd6a2adbfc1a7d65734", 
+      "venue": "SemEval@NAACL-HLT", 
+      "year": 2013
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "63bf72357989ee624fb24384c55a259554ebbd04", 
+      "title": "Lexicon Infused Phrase Embeddings for Named Entity Resolution", 
+      "url": "https://www.semanticscholar.org/paper/63bf72357989ee624fb24384c55a259554ebbd04", 
+      "venue": "CoNLL", 
+      "year": 2014
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "15904346176ef10975976b52401c8aad03b41b8f", 
+      "title": "The NLM Indexing Initiative", 
+      "url": "https://www.semanticscholar.org/paper/15904346176ef10975976b52401c8aad03b41b8f", 
+      "venue": "AMIA", 
+      "year": 2000
+    }
+  ], 
+  "title": "Effects of Semantic Features on Machine Learning-Based Drug Name Recognition Systems: Word Embeddings vs. Manually Constructed Dictionaries", 
+  "url": "https://www.semanticscholar.org/paper/1577348f5a41da68aec91b17988bf40706a09e23", 
+  "venue": "Information", 
+  "year": 2015
+}

@@ -1,0 +1,919 @@
+{
+  "authors": [
+    {
+      "authorId": "1723994", 
+      "name": "Alekh Agarwal", 
+      "url": "https://www.semanticscholar.org/author/1723994"
+    }, 
+    {
+      "authorId": "2978756", 
+      "name": "Sahand Negahban", 
+      "url": "https://www.semanticscholar.org/author/2978756"
+    }, 
+    {
+      "authorId": "1721860", 
+      "name": "Martin J. Wainwright", 
+      "url": "https://www.semanticscholar.org/author/1721860"
+    }
+  ], 
+  "citationVelocity": 22, 
+  "citations": [
+    {
+      "isInfluential": true, 
+      "paperId": "007bb32fe6d1ca8640a73500ba89517be6be5daa", 
+      "title": "Multi-Step Stochastic ADMM in High Dimensions: Applications in Sparse Optimization and Noisy Matrix Decomposition", 
+      "url": "https://www.semanticscholar.org/paper/007bb32fe6d1ca8640a73500ba89517be6be5daa", 
+      "venue": "", 
+      "year": 2014
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "66267d7ab3b4ec28feaf87c5047f51389890652b", 
+      "title": "Computational Trade-offs in Statistical Learning", 
+      "url": "https://www.semanticscholar.org/paper/66267d7ab3b4ec28feaf87c5047f51389890652b", 
+      "venue": "", 
+      "year": 2012
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "07528d7c68a97accc7d86c0c986b5777992e1d3e", 
+      "title": "Beyond Low Rank + Sparse: Multiscale Low Rank Matrix Decomposition", 
+      "url": "https://www.semanticscholar.org/paper/07528d7c68a97accc7d86c0c986b5777992e1d3e", 
+      "venue": "IEEE Journal of Selected Topics in Signal Processing", 
+      "year": 2016
+    }, 
+    {
+      "isInfluential": true, 
+      "paperId": "0f1e30933726b06c376ddf1d9d3bd4320a97886c", 
+      "title": "PAGE: Robust Pattern Guided Estimation of Large Covariance Matrix", 
+      "url": "https://www.semanticscholar.org/paper/0f1e30933726b06c376ddf1d9d3bd4320a97886c", 
+      "venue": "", 
+      "year": 2014
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "1dd93874bbc68e79b155bdf77092711bc8eb62c5", 
+      "title": "Calibrated multivariate regression with application to neural semantic basis discovery", 
+      "url": "https://www.semanticscholar.org/paper/1dd93874bbc68e79b155bdf77092711bc8eb62c5", 
+      "venue": "Journal of Machine Learning Research", 
+      "year": 2015
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "8c845143f2f971b2435f01dd97352cdb3a2e7390", 
+      "title": "Convex Tensor Decomposition via Structured Schatten Norm Regularization", 
+      "url": "https://www.semanticscholar.org/paper/8c845143f2f971b2435f01dd97352cdb3a2e7390", 
+      "venue": "NIPS", 
+      "year": 2013
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "362ec67720d79b07c159377fa6427c6785d10a01", 
+      "title": "Scalable Robust Matrix Recovery: Frank-Wolfe Meets Proximal Methods", 
+      "url": "https://www.semanticscholar.org/paper/362ec67720d79b07c159377fa6427c6785d10a01", 
+      "venue": "SIAM J. Scientific Computing", 
+      "year": 2016
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "1ddd86d14ad79e542806daab8255b6be5c4ebf92", 
+      "title": "Partial Sum Minimization of Singular Values in Robust PCA: Algorithm and Applications", 
+      "url": "https://www.semanticscholar.org/paper/1ddd86d14ad79e542806daab8255b6be5c4ebf92", 
+      "venue": "IEEE Transactions on Pattern Analysis and Machine Intelligence", 
+      "year": 2016
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "8ea56e4697430d1dbc728bad5a6e8ebafcced835", 
+      "title": "Adaptive Stochastic Gradient Descent on the Grassmannian for Robust Low-Rank Subspace Recovery", 
+      "url": "https://www.semanticscholar.org/paper/8ea56e4697430d1dbc728bad5a6e8ebafcced835", 
+      "venue": "ArXiv", 
+      "year": 2014
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "755c2250d5236f6495c2f9df0269cb7a874bff02", 
+      "title": "Robust PCA with compressed data", 
+      "url": "https://www.semanticscholar.org/paper/755c2250d5236f6495c2f9df0269cb7a874bff02", 
+      "venue": "NIPS", 
+      "year": 2015
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "33bd4f967a1f0296dbc2770ee687a7a85f0d3e6f", 
+      "title": "Robust Tensor Decomposition with Gross Corruption", 
+      "url": "https://www.semanticscholar.org/paper/33bd4f967a1f0296dbc2770ee687a7a85f0d3e6f", 
+      "venue": "NIPS", 
+      "year": 2014
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "1028e38dc24e2a9dc5aa12e99df6cf1ec28375db", 
+      "title": "Group Lasso with Overlaps: the Latent Group Lasso approach", 
+      "url": "https://www.semanticscholar.org/paper/1028e38dc24e2a9dc5aa12e99df6cf1ec28375db", 
+      "venue": "ArXiv", 
+      "year": 2011
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "2e0822a1cb83e1ff9f5373a79baa38d63ce3fd3a", 
+      "title": "Divide-and-Conquer Matrix Factorization", 
+      "url": "https://www.semanticscholar.org/paper/2e0822a1cb83e1ff9f5373a79baa38d63ce3fd3a", 
+      "venue": "", 
+      "year": 2011
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "9aa2b7401ece0d1b4ab2906b0d72a15952c4719b", 
+      "title": "Rejoinder: Latent variable graphical model selection via convex optimization", 
+      "url": "https://www.semanticscholar.org/paper/9aa2b7401ece0d1b4ab2906b0d72a15952c4719b", 
+      "venue": "ArXiv", 
+      "year": 2012
+    }, 
+    {
+      "isInfluential": true, 
+      "paperId": "d6c3a56681217a22f86e725799f1d6819e5ec57a", 
+      "title": "Divide-and-Conquer Subspace Segmentation", 
+      "url": "https://www.semanticscholar.org/paper/d6c3a56681217a22f86e725799f1d6819e5ec57a", 
+      "venue": "ArXiv", 
+      "year": 2012
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "75a64349a65a79d05ff4112e8a2a929167b70609", 
+      "title": "Beyond low rank &#x002B; sparse: Multi-scale low rank matrix decomposition", 
+      "url": "https://www.semanticscholar.org/paper/75a64349a65a79d05ff4112e8a2a929167b70609", 
+      "venue": "2016 IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP)", 
+      "year": 2016
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "1733957f16b9502d190c051fbf64aa475c7e6ccb", 
+      "title": "Robust Lasso With Missing and Grossly Corrupted Observations", 
+      "url": "https://www.semanticscholar.org/paper/1733957f16b9502d190c051fbf64aa475c7e6ccb", 
+      "venue": "IEEE Transactions on Information Theory", 
+      "year": 2011
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "0b7bd5e3ce483adbb481fbf0ae13a5074f9af296", 
+      "title": "Simultaneously Structured Models With Application to Sparse and Low-Rank Matrices", 
+      "url": "https://www.semanticscholar.org/paper/0b7bd5e3ce483adbb481fbf0ae13a5074f9af296", 
+      "venue": "IEEE Transactions on Information Theory", 
+      "year": 2015
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "0e63b08eda3921923adecc18fdd3eff7c3a26c75", 
+      "title": "Target detecton and tracking via structured convex optimization", 
+      "url": "https://www.semanticscholar.org/paper/0e63b08eda3921923adecc18fdd3eff7c3a26c75", 
+      "venue": "2017 IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP)", 
+      "year": 2017
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "25c34602fb46e8855726c0e6b85cbcea67f425fe", 
+      "title": "On the Sample Complexity of Robust PCA", 
+      "url": "https://www.semanticscholar.org/paper/25c34602fb46e8855726c0e6b85cbcea67f425fe", 
+      "venue": "NIPS", 
+      "year": 2012
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "8cfc36e584b6a096c20446d5ab2daa1cfe6df2a3", 
+      "title": "Robust Wirtinger Flow for Phase Retrieval with Arbitrary Corruption", 
+      "url": "https://www.semanticscholar.org/paper/8cfc36e584b6a096c20446d5ab2daa1cfe6df2a3", 
+      "venue": "ArXiv", 
+      "year": 2017
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "3a4bfac7c2efd2c85c2f67852c3b8fa9360d9044", 
+      "title": "Parametric Bilinear Generalized Approximate Message Passing", 
+      "url": "https://www.semanticscholar.org/paper/3a4bfac7c2efd2c85c2f67852c3b8fa9360d9044", 
+      "venue": "IEEE Journal of Selected Topics in Signal Processing", 
+      "year": 2016
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "b748e8ba6fac10b0dec0fc5c5277bf89931f5d36", 
+      "title": "High-dimensional Analysis on Matrix Decomposition with Application to Correlation Matrix Estimation in Factor Models Wu Bin", 
+      "url": "https://www.semanticscholar.org/paper/b748e8ba6fac10b0dec0fc5c5277bf89931f5d36", 
+      "venue": "", 
+      "year": 2014
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "ff9b2c86913b4182c2a750e4b452355f51ca6e3b", 
+      "title": "Application of the Strictly Contractive Peaceman-Rachford Splitting Method to Multi-block Separable Convex Programming", 
+      "url": "https://www.semanticscholar.org/paper/ff9b2c86913b4182c2a750e4b452355f51ca6e3b", 
+      "venue": "", 
+      "year": 2014
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "0643f8328b63b0836204100b8b7eda1fcecbdc6e", 
+      "title": "Estimating Structured High-Dimensional Covariance and Precision Matrices: Optimal Rates and Adaptive Estimation", 
+      "url": "https://www.semanticscholar.org/paper/0643f8328b63b0836204100b8b7eda1fcecbdc6e", 
+      "venue": "", 
+      "year": 2014
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "0bae720093329ae45df8fef1710348466b5cbdd5", 
+      "title": "Matrix Completion With Column Manipulation: Near-Optimal Sample-Robustness-Rank Tradeoffs", 
+      "url": "https://www.semanticscholar.org/paper/0bae720093329ae45df8fef1710348466b5cbdd5", 
+      "venue": "IEEE Transactions on Information Theory", 
+      "year": 2016
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "0f587c23effeb4bb52a94e47aa765a3d9f973d21", 
+      "title": "Dirty Statistical Models", 
+      "url": "https://www.semanticscholar.org/paper/0f587c23effeb4bb52a94e47aa765a3d9f973d21", 
+      "venue": "NIPS", 
+      "year": 2013
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "2ca8febbbf1dcf4bedb31f4d8ed599858b1e8a65", 
+      "title": "Supervised Probabilistic Robust Embedding with Sparse Noise", 
+      "url": "https://www.semanticscholar.org/paper/2ca8febbbf1dcf4bedb31f4d8ed599858b1e8a65", 
+      "venue": "AAAI", 
+      "year": 2012
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "2421837045206b030877d90fb08633784dfe1c0d", 
+      "title": "Robust Locally Linear Analysis with Applications to Image Denoising and Blind Inpainting", 
+      "url": "https://www.semanticscholar.org/paper/2421837045206b030877d90fb08633784dfe1c0d", 
+      "venue": "SIAM J. Imaging Sciences", 
+      "year": 2013
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "d64df965c93a42c51e531c7d8fe9687794c9b8ab", 
+      "title": "Online subspace and sparse filtering for target tracking in reverberant environment", 
+      "url": "https://www.semanticscholar.org/paper/d64df965c93a42c51e531c7d8fe9687794c9b8ab", 
+      "venue": "2012 IEEE 7th Sensor Array and Multichannel Signal Processing Workshop (SAM)", 
+      "year": 2012
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "04c08a09457d2428c01a619f6750793b0429b344", 
+      "title": "Supplementary Material for Noisy Matrix Decomposition via Convex Relaxation: Optimal Rates in High Dimensions", 
+      "url": "https://www.semanticscholar.org/paper/04c08a09457d2428c01a619f6750793b0429b344", 
+      "venue": "", 
+      "year": 2012
+    }, 
+    {
+      "isInfluential": true, 
+      "paperId": "735130f60bb641ea15905618794f004254b4fdd7", 
+      "title": "Linear Models Based on Noisy Data and the Frisch Scheme", 
+      "url": "https://www.semanticscholar.org/paper/735130f60bb641ea15905618794f004254b4fdd7", 
+      "venue": "SIAM Review", 
+      "year": 2015
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "f3af82e9f1e142adffcb5d180f63679937db8bea", 
+      "title": "Fast column generation for atomic norm regularization", 
+      "url": "https://www.semanticscholar.org/paper/f3af82e9f1e142adffcb5d180f63679937db8bea", 
+      "venue": "AISTATS", 
+      "year": 2017
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "e40b624441b79150bf4c130d9b93eff6f75e7310", 
+      "title": "Noisy estimation of simultaneously structured models: Limitations of convex relaxation", 
+      "url": "https://www.semanticscholar.org/paper/e40b624441b79150bf4c130d9b93eff6f75e7310", 
+      "venue": "CDC", 
+      "year": 2013
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "191b05e021bbbcf36e9ed0cb2c3711123b6a5d64", 
+      "title": "Robust PCA With Partial Subspace Knowledge", 
+      "url": "https://www.semanticscholar.org/paper/191b05e021bbbcf36e9ed0cb2c3711123b6a5d64", 
+      "venue": "IEEE Transactions on Signal Processing", 
+      "year": 2014
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "0ba3219f41b002674ca0899b3e2b3a2e5a787aa0", 
+      "title": "High Dimensional Structured Superposition Models", 
+      "url": "https://www.semanticscholar.org/paper/0ba3219f41b002674ca0899b3e2b3a2e5a787aa0", 
+      "venue": "NIPS", 
+      "year": 2016
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "429da96dc10e665194ec71e3ab126e290424917d", 
+      "title": "Optimal Sample Complexity for Matrix Completion and Related Problems via \ud835\udcc1s2-Regularization", 
+      "url": "https://www.semanticscholar.org/paper/429da96dc10e665194ec71e3ab126e290424917d", 
+      "venue": "ArXiv", 
+      "year": 2017
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "9d5ec256ee5a6ee2d9602f651e88132f2669f690", 
+      "title": "A novel M-estimator for robust PCA", 
+      "url": "https://www.semanticscholar.org/paper/9d5ec256ee5a6ee2d9602f651e88132f2669f690", 
+      "venue": "Journal of Machine Learning Research", 
+      "year": 2014
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "7a825749d1a2c8467d934b2976ce372ba878ba37", 
+      "title": "Exact recoverability from dense corrupted observations via L1 minimization", 
+      "url": "https://www.semanticscholar.org/paper/7a825749d1a2c8467d934b2976ce372ba878ba37", 
+      "venue": "IEEE Trans. Information Theory", 
+      "year": 2013
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "1bf0ff99cc4af6333c7dc81d65febf34555d9ca7", 
+      "title": "Distributed matrix completion and robust factorization", 
+      "url": "https://www.semanticscholar.org/paper/1bf0ff99cc4af6333c7dc81d65febf34555d9ca7", 
+      "venue": "Journal of Machine Learning Research", 
+      "year": 2015
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "98ed9fa3c6562c32984226ab045cd86eb8f462ab", 
+      "title": "On the Convergence of Multi-Block Alternating Direction Method of Multipliers and Block Coordinate Descent Method", 
+      "url": "https://www.semanticscholar.org/paper/98ed9fa3c6562c32984226ab045cd86eb8f462ab", 
+      "venue": "", 
+      "year": 2015
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "1446c3bc6a07d41fda0c74fbccd77fae95ba819c", 
+      "title": "Exploration of Large Networks via Fast and Universal Latent Space Model Fitting", 
+      "url": "https://www.semanticscholar.org/paper/1446c3bc6a07d41fda0c74fbccd77fae95ba819c", 
+      "venue": "ArXiv", 
+      "year": 2017
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "5955369bf5d52292f72132e432e81c9d10e866f7", 
+      "title": "Exact Recoverability From Dense Corrupted Observations via <formula formulatype=\"inline\"><tex Notation=\"TeX\">$\\ell _{1}$</tex></formula>-Minimization", 
+      "url": "https://www.semanticscholar.org/paper/5955369bf5d52292f72132e432e81c9d10e866f7", 
+      "venue": "IEEE Transactions on Information Theory", 
+      "year": 2013
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "2f2f6709149c013f87b1da715012c1cb65e67fd9", 
+      "title": "Dynamic Anomalography: Tracking Network Anomalies Via Sparsity and Low Rank", 
+      "url": "https://www.semanticscholar.org/paper/2f2f6709149c013f87b1da715012c1cb65e67fd9", 
+      "venue": "IEEE Journal of Selected Topics in Signal Processing", 
+      "year": 2013
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "0f3a72a641c7d9cdcd963fa0247394de38a5dec2", 
+      "title": "Adaptive estimation of the copula correlation matrix for semiparametric elliptical copulas", 
+      "url": "https://www.semanticscholar.org/paper/0f3a72a641c7d9cdcd963fa0247394de38a5dec2", 
+      "venue": "", 
+      "year": 2016
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "f9817ae6f62ed531740fdff26f2e96368e4c0d90", 
+      "title": "Linear Models Based on Noisy Data and the Frisch Scheme * Lipeng Ning \u2020", 
+      "url": "https://www.semanticscholar.org/paper/f9817ae6f62ed531740fdff26f2e96368e4c0d90", 
+      "venue": "", 
+      "year": 2015
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "58c8374bd93096a66e541c8f92742bc6d694cf13", 
+      "title": "Low-Rank Approximation and Completion of Positive Tensors", 
+      "url": "https://www.semanticscholar.org/paper/58c8374bd93096a66e541c8f92742bc6d694cf13", 
+      "venue": "SIAM J. Matrix Analysis Applications", 
+      "year": 2016
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "1cb4741cbf529ff722eb2b6e3a9316615c1d1d2b", 
+      "title": "Structured Regularizers for High-Dimensional Problems: Statistical and Computational Issues", 
+      "url": "https://www.semanticscholar.org/paper/1cb4741cbf529ff722eb2b6e3a9316615c1d1d2b", 
+      "venue": "", 
+      "year": 2014
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "1edb2ccb24ac9832d3b40eaa3c533d9c628a91e0", 
+      "title": "Sharp MSE Bounds for Proximal Denoising", 
+      "url": "https://www.semanticscholar.org/paper/1edb2ccb24ac9832d3b40eaa3c533d9c628a91e0", 
+      "venue": "Foundations of Computational Mathematics", 
+      "year": 2016
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "30cce6649206eb311ada1d59ba552975042cdb2c", 
+      "title": "Supplementary Material: Fast Global Convergence of Gradient Methods for High-dimensional Statistical Recovery", 
+      "url": "https://www.semanticscholar.org/paper/30cce6649206eb311ada1d59ba552975042cdb2c", 
+      "venue": "", 
+      "year": 2012
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "4bbaac5942adaecd417fdb3aa73eaedb50550afa", 
+      "title": "Robust Inference of Risks of Large Portfolios.", 
+      "url": "https://www.semanticscholar.org/paper/4bbaac5942adaecd417fdb3aa73eaedb50550afa", 
+      "venue": "Journal of econometrics", 
+      "year": 2016
+    }, 
+    {
+      "isInfluential": true, 
+      "paperId": "8fa464bbb37ed40b5853f5a670685b646ea3ab38", 
+      "title": "Latent Variable Graphical Model Selection via Convex Optimization1 by Venkat Chandrasekaran,", 
+      "url": "https://www.semanticscholar.org/paper/8fa464bbb37ed40b5853f5a670685b646ea3ab38", 
+      "venue": "", 
+      "year": 2012
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "3be54068c579e42f59d888e108047007128577ab", 
+      "title": "Nonconvex Low Rank Matrix Factorization via Inexact First Order Oracle", 
+      "url": "https://www.semanticscholar.org/paper/3be54068c579e42f59d888e108047007128577ab", 
+      "venue": "", 
+      "year": 2015
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "11e836f1c275657145bb4e917c21e4d82a2ce7bd", 
+      "title": "A unified framework for high-dimensional analysis of $M$-estimators with decomposable regularizers", 
+      "url": "https://www.semanticscholar.org/paper/11e836f1c275657145bb4e917c21e4d82a2ce7bd", 
+      "venue": "NIPS", 
+      "year": 2009
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "bac315e8df103c772cde9007274dd7bac0972555", 
+      "title": "Robust Kronecker Product PCA for Spatio-Temporal Covariance Estimation", 
+      "url": "https://www.semanticscholar.org/paper/bac315e8df103c772cde9007274dd7bac0972555", 
+      "venue": "IEEE Transactions on Signal Processing", 
+      "year": 2015
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "4ad1c4adeaa8883cd7857071b08db03f2ed0e1e8", 
+      "title": "Low-Rank and Sparse Structure Pursuit via Alternating Minimization", 
+      "url": "https://www.semanticscholar.org/paper/4ad1c4adeaa8883cd7857071b08db03f2ed0e1e8", 
+      "venue": "AISTATS", 
+      "year": 2016
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "a3084dcb380744b8ac95e87f1f8b46936e6dc95d", 
+      "title": "Restricted strong convexity and weighted matrix completion: Optimal bounds with noise", 
+      "url": "https://www.semanticscholar.org/paper/a3084dcb380744b8ac95e87f1f8b46936e6dc95d", 
+      "venue": "Journal of Machine Learning Research", 
+      "year": 2012
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "3e375880c7e77c26aea2ab8edba8d768160ef86c", 
+      "title": "Incoherence-Optimal Matrix Completion", 
+      "url": "https://www.semanticscholar.org/paper/3e375880c7e77c26aea2ab8edba8d768160ef86c", 
+      "venue": "IEEE Transactions on Information Theory", 
+      "year": 2015
+    }, 
+    {
+      "isInfluential": true, 
+      "paperId": "d7be502dd2754557fc71c91a4ba03a2c2ac1df14", 
+      "title": "Sparse + Group-Sparse Dirty Models: Statistical Guarantees without Unreasonable Conditions and a Case for Non-Convexity", 
+      "url": "https://www.semanticscholar.org/paper/d7be502dd2754557fc71c91a4ba03a2c2ac1df14", 
+      "venue": "ICML", 
+      "year": 2017
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "56227d7ea5f572b8672b7b33a0df49a6432bea75", 
+      "title": "Sparse and Low Rank Approximation (11w5036)", 
+      "url": "https://www.semanticscholar.org/paper/56227d7ea5f572b8672b7b33a0df49a6432bea75", 
+      "venue": "", 
+      "year": 2011
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "0de749fd9316a7768fd1549d9ce14c69ade991f0", 
+      "title": "Cross: Efficient Low-rank Tensor Completion", 
+      "url": "https://www.semanticscholar.org/paper/0de749fd9316a7768fd1549d9ce14c69ade991f0", 
+      "venue": "ArXiv", 
+      "year": 2016
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "3db9dd2d41a7814f73f466b97c004b62277024ad", 
+      "title": "Compressive principal component pursuit", 
+      "url": "https://www.semanticscholar.org/paper/3db9dd2d41a7814f73f466b97c004b62277024ad", 
+      "venue": "2012 IEEE International Symposium on Information Theory Proceedings", 
+      "year": 2012
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "60fe35a323bea6e9419072c543233cb236fe1cfd", 
+      "title": "Sparsifying the Fisher Linear Discriminant by Rotation.", 
+      "url": "https://www.semanticscholar.org/paper/60fe35a323bea6e9419072c543233cb236fe1cfd", 
+      "venue": "Journal of the Royal Statistical Society. Series B, Statistical methodology", 
+      "year": 2015
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "108e0c3c75634cfb25e9924d5d0623e6f246d031", 
+      "title": "Low-Rank and Sparse Modeling of High-dimensional Vector Autoregressions", 
+      "url": "https://www.semanticscholar.org/paper/108e0c3c75634cfb25e9924d5d0623e6f246d031", 
+      "venue": "", 
+      "year": 2015
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "1a4c6b4998f0964b1cbb83f68e49bbe6d8480289", 
+      "title": "Matrix Factorization and Matrix Concentration", 
+      "url": "https://www.semanticscholar.org/paper/1a4c6b4998f0964b1cbb83f68e49bbe6d8480289", 
+      "venue": "", 
+      "year": 2012
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "14df4d73828e0ff5ace3e231d5baae8f0dce89cd", 
+      "title": "Elementary Estimators for Sparse Covariance Matrices and other Structured Moments", 
+      "url": "https://www.semanticscholar.org/paper/14df4d73828e0ff5ace3e231d5baae8f0dce89cd", 
+      "venue": "ICML", 
+      "year": 2014
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "e29d5efe1a74f28914384837437a0a7af48d350a", 
+      "title": "Simultaneous pursuit of sparseness and rank structures for matrix decomposition", 
+      "url": "https://www.semanticscholar.org/paper/e29d5efe1a74f28914384837437a0a7af48d350a", 
+      "venue": "Journal of Machine Learning Research", 
+      "year": 2015
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "23fe902711646d27bd4372c2c0153b172357c847", 
+      "title": "Provable Non-convex Robust PCA", 
+      "url": "https://www.semanticscholar.org/paper/23fe902711646d27bd4372c2c0153b172357c847", 
+      "venue": "", 
+      "year": 2014
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "ab39b26d623aee22cd43f78d9cb1f5e0e55808fd", 
+      "title": "Structured Low-Rank Matrix Factorization with Missing and Grossly Corrupted Observations", 
+      "url": "https://www.semanticscholar.org/paper/ab39b26d623aee22cd43f78d9cb1f5e0e55808fd", 
+      "venue": "ArXiv", 
+      "year": 2014
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "4840c11e3dbba5d6045e1a4d9145097bf9fe6187", 
+      "title": "Robust Multi-task Regression with Grossly Corrupted Observations", 
+      "url": "https://www.semanticscholar.org/paper/4840c11e3dbba5d6045e1a4d9145097bf9fe6187", 
+      "venue": "AISTATS", 
+      "year": 2012
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "253751c347561ee1b131445051cecacb2d5e1c69", 
+      "title": "Compressed Sensing and Matrix Completion with Constant Proportion of Corruptions", 
+      "url": "https://www.semanticscholar.org/paper/253751c347561ee1b131445051cecacb2d5e1c69", 
+      "venue": "ArXiv", 
+      "year": 2011
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "0e1e1c9d697876712b73fa10089737ae959ac375", 
+      "title": "Fast global convergence of gradient methods for high-dimensional statistical recovery", 
+      "url": "https://www.semanticscholar.org/paper/0e1e1c9d697876712b73fa10089737ae959ac375", 
+      "venue": "ArXiv", 
+      "year": 2010
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "afa1614b435a89d9c661cf1c0e46c0dd4a340389", 
+      "title": "Noisy estimation of simultaneously structured models: Limitations of convex relaxation", 
+      "url": "https://www.semanticscholar.org/paper/afa1614b435a89d9c661cf1c0e46c0dd4a340389", 
+      "venue": "", 
+      "year": 2013
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "9b7ff75c646dd6936a067adee3cff088a7faa1ef", 
+      "title": "Inertial Proximal ADMM for Linearly Constrained Separable Convex Optimization", 
+      "url": "https://www.semanticscholar.org/paper/9b7ff75c646dd6936a067adee3cff088a7faa1ef", 
+      "venue": "SIAM J. Imaging Sciences", 
+      "year": 2015
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "6912297a9f404ff6dd23cb3bb3ff5c4981f68162", 
+      "title": "Provable Inductive Matrix Completion", 
+      "url": "https://www.semanticscholar.org/paper/6912297a9f404ff6dd23cb3bb3ff5c4981f68162", 
+      "venue": "ArXiv", 
+      "year": 2013
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "a53c7c19bab6f1cde2bcca193c17e4095bf2530c", 
+      "title": "Challenges of Big Data Analysis.", 
+      "url": "https://www.semanticscholar.org/paper/a53c7c19bab6f1cde2bcca193c17e4095bf2530c", 
+      "venue": "National science review", 
+      "year": 2014
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "34bec61238ed52cff6efaaf6d37d598ab35419ef", 
+      "title": "QUIC & DIRTY: A Quadratic Approximation Approach for Dirty Statistical Models", 
+      "url": "https://www.semanticscholar.org/paper/34bec61238ed52cff6efaaf6d37d598ab35419ef", 
+      "venue": "NIPS", 
+      "year": 2014
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "72b4b4dcd6eeb95353f25b60ca7a31457f3e8962", 
+      "title": "Interpolating Convex and Non-Convex Tensor Decompositions via the Subspace Norm", 
+      "url": "https://www.semanticscholar.org/paper/72b4b4dcd6eeb95353f25b60ca7a31457f3e8962", 
+      "venue": "NIPS", 
+      "year": 2015
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "23f4d94195db2aced3236223ceb483158ee6d03f", 
+      "title": "Multi-Step Stochastic ADMM in High Dimensions: Applications to Sparse Optimization and Matrix Decomposition", 
+      "url": "https://www.semanticscholar.org/paper/23f4d94195db2aced3236223ceb483158ee6d03f", 
+      "venue": "NIPS", 
+      "year": 2014
+    }, 
+    {
+      "isInfluential": true, 
+      "paperId": "390ea25de6332473573a01e22ec91e035aa4c15e", 
+      "title": "Learning Latent Variable Gaussian Graphical Models", 
+      "url": "https://www.semanticscholar.org/paper/390ea25de6332473573a01e22ec91e035aa4c15e", 
+      "venue": "ICML", 
+      "year": 2014
+    }, 
+    {
+      "isInfluential": true, 
+      "paperId": "4db72fa223de64496eeec510efe95acd6d1b7e52", 
+      "title": "Speeding Up Latent Variable Gaussian Graphical Model Estimation via Nonconvex Optimizations", 
+      "url": "https://www.semanticscholar.org/paper/4db72fa223de64496eeec510efe95acd6d1b7e52", 
+      "venue": "ArXiv", 
+      "year": 2017
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "9604f847dfb7a4e4626e1c2a0b1c5277bb91a336", 
+      "title": "Identifying Broad and Narrow Financial Risk Factors with Convex Optimization", 
+      "url": "https://www.semanticscholar.org/paper/9604f847dfb7a4e4626e1c2a0b1c5277bb91a336", 
+      "venue": "", 
+      "year": 2016
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "5a379e0f0dce68abde3be62e198db9ffa12978c9", 
+      "title": "Divide-and-Conquer Matrix Factorization", 
+      "url": "https://www.semanticscholar.org/paper/5a379e0f0dce68abde3be62e198db9ffa12978c9", 
+      "venue": "NIPS", 
+      "year": 2011
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "a143c1abcf826fb81723e91100769d382b359450", 
+      "title": "Convex Regularization for High-Dimensional Tensor Regression", 
+      "url": "https://www.semanticscholar.org/paper/a143c1abcf826fb81723e91100769d382b359450", 
+      "venue": "", 
+      "year": 2015
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "84a628411528e67e40028dfe6f29b7828289d025", 
+      "title": "Supplementary Material for a Unified Framework for High-dimensional Analysis of M -estimators with Decomposable Regularizers", 
+      "url": "https://www.semanticscholar.org/paper/84a628411528e67e40028dfe6f29b7828289d025", 
+      "venue": "", 
+      "year": 2012
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "fcaa0df7d250e04278caf40f7409b2d25bd18c68", 
+      "title": "Fast low-rank estimation by projected gradient descent: General statistical and algorithmic guarantees", 
+      "url": "https://www.semanticscholar.org/paper/fcaa0df7d250e04278caf40f7409b2d25bd18c68", 
+      "venue": "ArXiv", 
+      "year": 2015
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "15a0ddb5e2f22ca9ef4e7da8f6e271c698b918b6", 
+      "title": "Simultaneous Video Stabilization and Moving Object Detection in Turbulence", 
+      "url": "https://www.semanticscholar.org/paper/15a0ddb5e2f22ca9ef4e7da8f6e271c698b918b6", 
+      "venue": "IEEE Transactions on Pattern Analysis and Machine Intelligence", 
+      "year": 2013
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "4f043b3a9cbebed05e1c5bb35d699a5757b7bcbf", 
+      "title": "Dynamic matrix recovery from incomplete observations under an exact low-rank constraint", 
+      "url": "https://www.semanticscholar.org/paper/4f043b3a9cbebed05e1c5bb35d699a5757b7bcbf", 
+      "venue": "NIPS", 
+      "year": 2016
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "acdc1f0be0ab78135831aa36ba396ac047f26b95", 
+      "title": "Structured Estimation in High-Dimensions", 
+      "url": "https://www.semanticscholar.org/paper/acdc1f0be0ab78135831aa36ba396ac047f26b95", 
+      "venue": "", 
+      "year": 2012
+    }
+  ], 
+  "doi": "10.1214/12-AOS1000", 
+  "influentialCitationCount": 8, 
+  "paperId": "00b1e90f695bd3bf8b639d67a5a95748b87d838a", 
+  "references": [
+    {
+      "isInfluential": false, 
+      "paperId": "63459a8d30523809ef221804f1897ebb2e60ecb9", 
+      "title": "Gaussian averages of interpolated bodies and applications to approximate reconstruction", 
+      "url": "https://www.semanticscholar.org/paper/63459a8d30523809ef221804f1897ebb2e60ecb9", 
+      "venue": "Journal of Approximation Theory", 
+      "year": 2007
+    }, 
+    {
+      "isInfluential": true, 
+      "paperId": "54aafe33c4a32fb5875d04fd4a6e6da50920c263", 
+      "title": "Robust Principal Component Analysis?", 
+      "url": "https://www.semanticscholar.org/paper/54aafe33c4a32fb5875d04fd4a6e6da50920c263", 
+      "venue": "J. ACM", 
+      "year": 2011
+    }, 
+    {
+      "isInfluential": true, 
+      "paperId": "18b30b0a8f48cbfcd0f71a2a708a50bc887401bb", 
+      "title": "Rank-Sparsity Incoherence for Matrix Decomposition", 
+      "url": "https://www.semanticscholar.org/paper/18b30b0a8f48cbfcd0f71a2a708a50bc887401bb", 
+      "venue": "SIAM Journal on Optimization", 
+      "year": 2011
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "42dbf96dab2c482e3a2b0376a995a54abe9e9e6c", 
+      "title": "Dimension reduction and coefficient estimation in multivariate linear regression", 
+      "url": "https://www.semanticscholar.org/paper/42dbf96dab2c482e3a2b0376a995a54abe9e9e6c", 
+      "venue": "", 
+      "year": 2007
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "490a987c017499ac1f971ceefed0c60ba35f75d2", 
+      "title": "Lectures on Discrete and Polyhedral Geometry", 
+      "url": "https://www.semanticscholar.org/paper/490a987c017499ac1f971ceefed0c60ba35f75d2", 
+      "venue": "", 
+      "year": 2008
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "8415e713e801c63c3d7e73434e990ffdaabc99c1", 
+      "title": "Domain Adaptation with Structural Correspondence Learning", 
+      "url": "https://www.semanticscholar.org/paper/8415e713e801c63c3d7e73434e990ffdaabc99c1", 
+      "venue": "EMNLP", 
+      "year": 2006
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "a3084dcb380744b8ac95e87f1f8b46936e6dc95d", 
+      "title": "Restricted strong convexity and weighted matrix completion: Optimal bounds with noise", 
+      "url": "https://www.semanticscholar.org/paper/a3084dcb380744b8ac95e87f1f8b46936e6dc95d", 
+      "venue": "Journal of Machine Learning Research", 
+      "year": 2012
+    }, 
+    {
+      "isInfluential": true, 
+      "paperId": "01625cba9f8a783994377d4f35aa765242faab4f", 
+      "title": "Robust PCA via Outlier Pursuit", 
+      "url": "https://www.semanticscholar.org/paper/01625cba9f8a783994377d4f35aa765242faab4f", 
+      "venue": "IEEE Transactions on Information Theory", 
+      "year": 2010
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "422e6998d9d96f1fd087d5ed36ec9986de034165", 
+      "title": "Latent variable graphical model selection via convex optimization", 
+      "url": "https://www.semanticscholar.org/paper/422e6998d9d96f1fd087d5ed36ec9986de034165", 
+      "venue": "2010 48th Annual Allerton Conference on Communication, Control, and Computing (Allerton)", 
+      "year": 2010
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "1b35d5ece19a77bad6bb50bbd83d16270d0d0d3f", 
+      "title": "Information-Theoretic Determination of Minimax Rates of Convergence", 
+      "url": "https://www.semanticscholar.org/paper/1b35d5ece19a77bad6bb50bbd83d16270d0d0d3f", 
+      "venue": "", 
+      "year": 1995
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "11cbcb67914899e182b0799296f718a12ae5f92f", 
+      "title": "Matrix analysis", 
+      "url": "https://www.semanticscholar.org/paper/11cbcb67914899e182b0799296f718a12ae5f92f", 
+      "venue": "", 
+      "year": 1990
+    }, 
+    {
+      "isInfluential": true, 
+      "paperId": "1b83bde157bd15a1c1e048ed7964ab6834004635", 
+      "title": "Robust Matrix Decomposition With Sparse Corruptions", 
+      "url": "https://www.semanticscholar.org/paper/1b83bde157bd15a1c1e048ed7964ab6834004635", 
+      "venue": "IEEE Transactions on Information Theory", 
+      "year": 2011
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "0681cfac75af4f7a4faebbacd7467dfe146fb9d8", 
+      "title": "Minimax-optimal rates for sparse additive models over kernel classes via convex programming", 
+      "url": "https://www.semanticscholar.org/paper/0681cfac75af4f7a4faebbacd7467dfe146fb9d8", 
+      "venue": "Journal of Machine Learning Research", 
+      "year": 2012
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "2c5135a0531bc5ad7dd890f018e67a40529f5bcb", 
+      "title": "A Framework for Learning Predictive Structures from Multiple Tasks and Unlabeled Data", 
+      "url": "https://www.semanticscholar.org/paper/2c5135a0531bc5ad7dd890f018e67a40529f5bcb", 
+      "venue": "Journal of Machine Learning Research", 
+      "year": 2005
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "2d9bb28841d2d5d83efdd1eae87809fe6375fec3", 
+      "title": "Gradient methods for minimizing composite objective function", 
+      "url": "https://www.semanticscholar.org/paper/2d9bb28841d2d5d83efdd1eae87809fe6375fec3", 
+      "venue": "", 
+      "year": 2007
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "2514ad15b612fe7e49a2c690145dc732a61267dc", 
+      "title": "Two proposals for robust PCA using semidefinite programming", 
+      "url": "https://www.semanticscholar.org/paper/2514ad15b612fe7e49a2c690145dc732a61267dc", 
+      "venue": "", 
+      "year": 2010
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "0c738fdfa27450e6f35b963335db02f20f4bf687", 
+      "title": "Minimax Rates of Estimation for High-Dimensional Linear Regression Over q -Balls", 
+      "url": "https://www.semanticscholar.org/paper/0c738fdfa27450e6f35b963335db02f20f4bf687", 
+      "venue": "IEEE Trans. Information Theory", 
+      "year": 2011
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "6e3a4828df260614055f46d68a7c53089c28509e", 
+      "title": "Zero-Shot Domain Adaptation: A Multi-View Approach", 
+      "url": "https://www.semanticscholar.org/paper/6e3a4828df260614055f46d68a7c53089c28509e", 
+      "venue": "", 
+      "year": 2009
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "1f3ee2cdb1dea36d75f27754135a21c6102a2ed6", 
+      "title": "Covariance Regularization by Thresholding", 
+      "url": "https://www.semanticscholar.org/paper/1f3ee2cdb1dea36d75f27754135a21c6102a2ed6", 
+      "venue": "", 
+      "year": 2007
+    }, 
+    {
+      "isInfluential": true, 
+      "paperId": "13400fdff75fc0b73652fcdab59e52814022b9b0", 
+      "title": "Guaranteed Minimum-Rank Solutions of Linear Matrix Equations via Nuclear Norm Minimization", 
+      "url": "https://www.semanticscholar.org/paper/13400fdff75fc0b73652fcdab59e52814022b9b0", 
+      "venue": "SIAM Review", 
+      "year": 2010
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "17050a92374032f17a4dfdc01d2ae8c8ef8cc9e7", 
+      "title": "Estimation of (near) low-rank matrices with noise and high-dimensional scaling", 
+      "url": "https://www.semanticscholar.org/paper/17050a92374032f17a4dfdc01d2ae8c8ef8cc9e7", 
+      "venue": "ICML", 
+      "year": 2010
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "11e836f1c275657145bb4e917c21e4d82a2ce7bd", 
+      "title": "A unified framework for high-dimensional analysis of $M$-estimators with decomposable regularizers", 
+      "url": "https://www.semanticscholar.org/paper/11e836f1c275657145bb4e917c21e4d82a2ce7bd", 
+      "venue": "NIPS", 
+      "year": 2009
+    }
+  ], 
+  "title": "Noisy matrix decomposition via convex relaxation: Optimal rates in high dimensions", 
+  "url": "https://www.semanticscholar.org/paper/00b1e90f695bd3bf8b639d67a5a95748b87d838a", 
+  "venue": "ICML", 
+  "year": 2011
+}

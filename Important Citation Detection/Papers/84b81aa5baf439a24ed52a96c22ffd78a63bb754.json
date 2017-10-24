@@ -1,0 +1,894 @@
+{
+  "authors": [
+    {
+      "authorId": "2784228", 
+      "name": "Jenny Rose Finkel", 
+      "url": "https://www.semanticscholar.org/author/2784228"
+    }, 
+    {
+      "authorId": "2784608", 
+      "name": "Alex Kleeman", 
+      "url": "https://www.semanticscholar.org/author/2784608"
+    }, 
+    {
+      "authorId": "1812612", 
+      "name": "Christopher D. Manning", 
+      "url": "https://www.semanticscholar.org/author/1812612"
+    }
+  ], 
+  "citationVelocity": 0, 
+  "citations": [
+    {
+      "isInfluential": false, 
+      "paperId": "05d0d96e8313376ff845654faec8120fc736e16f", 
+      "title": "Mixed probabilistic and deterministic dependency parsing", 
+      "url": "https://www.semanticscholar.org/paper/05d0d96e8313376ff845654faec8120fc736e16f"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "b5f55f6166132746c1d54466382fb2fc9495c61a", 
+      "title": "Better Automatic Treebank Conversion Using A Feature-Based Approach", 
+      "url": "https://www.semanticscholar.org/paper/b5f55f6166132746c1d54466382fb2fc9495c61a"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "865081156ed7506d21de25d7b865f278b6b8191d", 
+      "title": "Transition-Based Parsing of the Chinese Treebank using a Global Discriminative Model", 
+      "url": "https://www.semanticscholar.org/paper/865081156ed7506d21de25d7b865f278b6b8191d"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "209ba9f612f34583a23b75c0e8dadc410c400bb2", 
+      "title": "Parsing with Compositional Vector Grammars", 
+      "url": "https://www.semanticscholar.org/paper/209ba9f612f34583a23b75c0e8dadc410c400bb2"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "afef83e240648154a7f38f3b92feb01847575d11", 
+      "title": "Conditional Random Fields in Speech, Audio, and Language Processing", 
+      "url": "https://www.semanticscholar.org/paper/afef83e240648154a7f38f3b92feb01847575d11"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "283a6c3c9f394f2c9f3b7deb3929f218647de95a", 
+      "title": "A Comparison of Loopy Belief Propagation and Dual Decomposition for Integrated CCG Supertagging and Parsing", 
+      "url": "https://www.semanticscholar.org/paper/283a6c3c9f394f2c9f3b7deb3929f218647de95a"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "4f0c91ec7227902075faf518b8d6acd1e8d7894d", 
+      "title": "Features for Phrase-Structure Reranking from Dependency Parses", 
+      "url": "https://www.semanticscholar.org/paper/4f0c91ec7227902075faf518b8d6acd1e8d7894d"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "9316a5edc4045acd4dee426768f5ef09535d5571", 
+      "title": "Surface Web Semantics for Structured Natural Language Processing", 
+      "url": "https://www.semanticscholar.org/paper/9316a5edc4045acd4dee426768f5ef09535d5571"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "317deb87586baa4ee7c7b5dfc603ebed94d1da07", 
+      "title": "Deep Learning for Efficient Discriminative Parsing", 
+      "url": "https://www.semanticscholar.org/paper/317deb87586baa4ee7c7b5dfc603ebed94d1da07"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "94ae663920716032a66ec0b113b20114823f358d", 
+      "title": "Jenny Rose Finkel Research Statement", 
+      "url": "https://www.semanticscholar.org/paper/94ae663920716032a66ec0b113b20114823f358d"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "80464efa4657802b83ee6d7c71efba3ce01d4279", 
+      "title": "Efficient Parallel CKY Parsing on GPUs", 
+      "url": "https://www.semanticscholar.org/paper/80464efa4657802b83ee6d7c71efba3ce01d4279"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "373f47dd7df5f14b6535c6c5e7a60fed8f79cd21", 
+      "title": "Automatic differentiation in machine learning: a survey", 
+      "url": "https://www.semanticscholar.org/paper/373f47dd7df5f14b6535c6c5e7a60fed8f79cd21"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "50031e758d9651dbaf8ca07e3a0706c7153d14ed", 
+      "title": "Text-Driven Multi-structured Data Analytics for Enterprise Intelligence", 
+      "url": "https://www.semanticscholar.org/paper/50031e758d9651dbaf8ca07e3a0706c7153d14ed"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "a6ba0b7dad2f87af1c954b555feb97fd557d7227", 
+      "title": "The Effect of Higher-Order Dependency Features in Discriminative Phrase-Structure Parsing", 
+      "url": "https://www.semanticscholar.org/paper/a6ba0b7dad2f87af1c954b555feb97fd557d7227"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "1c6ee895c202a91a808de59445e3dbde2f4cda0e", 
+      "title": "Abstract of \" Any Domain Parsing: Automatic Domain Adaptation for Natural Language Parsing \" by Abstract of \" Any Domain Parsing: Automatic Domain Adaptation for Natural Language Parsing \" by Any Domain Parsing: Automatic Domain Adaptation for Natural Language Parsing", 
+      "url": "https://www.semanticscholar.org/paper/1c6ee895c202a91a808de59445e3dbde2f4cda0e"
+    }, 
+    {
+      "isInfluential": true, 
+      "paperId": "6a64d13e597cf0accbcb9099e3e111576f0efd10", 
+      "title": "Incremental Sigmoid Belief Networks for Grammar Learning", 
+      "url": "https://www.semanticscholar.org/paper/6a64d13e597cf0accbcb9099e3e111576f0efd10"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "ca1a0968b248941813998f4f493122eb2be411da", 
+      "title": "Integrating Word Embedding based Cluster Features in Hindi Dependency Parsing", 
+      "url": "https://www.semanticscholar.org/paper/ca1a0968b248941813998f4f493122eb2be411da"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "a0623ee43c3fa1e4b6dc609283c9d44af1f44894", 
+      "title": "Turbo Parsers: Dependency Parsing by Approximate Variational Inference", 
+      "url": "https://www.semanticscholar.org/paper/a0623ee43c3fa1e4b6dc609283c9d44af1f44894"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "dacba19a42ea0be56db5fa7083e70fc3966e27f5", 
+      "title": "Nested Named Entity Recognition", 
+      "url": "https://www.semanticscholar.org/paper/dacba19a42ea0be56db5fa7083e70fc3966e27f5"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "082aa12d63d6196815ae4ebe24c88a3e9521cdd1", 
+      "title": "Sparse Multi-Scale Grammars for Discriminative Latent Variable Parsing", 
+      "url": "https://www.semanticscholar.org/paper/082aa12d63d6196815ae4ebe24c88a3e9521cdd1"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "a93b2aec79b79c9e361fa308a014f3f4668891a7", 
+      "title": "A Virtual Manipulative for Learning Log-Linear Models", 
+      "url": "https://www.semanticscholar.org/paper/a93b2aec79b79c9e361fa308a014f3f4668891a7"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "6815a600044420349ef39c7d7ec371368fe8d9a3", 
+      "title": "Training a Log-Linear Parser with Loss Functions via Softmax-Margin", 
+      "url": "https://www.semanticscholar.org/paper/6815a600044420349ef39c7d7ec371368fe8d9a3"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "6a5a0fbfb64ea022c71d0b6915aab76c6af4e4ed", 
+      "title": "Spoken Language Understanding in a Nutrition Arcves Dialogue System Signature Redacted Signature Redacte", 
+      "url": "https://www.semanticscholar.org/paper/6a5a0fbfb64ea022c71d0b6915aab76c6af4e4ed"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "1b4aa9377a6e3d717a369bc21e13662c65890b4c", 
+      "title": "Shift-Reduce CCG Parsing", 
+      "url": "https://www.semanticscholar.org/paper/1b4aa9377a6e3d717a369bc21e13662c65890b4c"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "3bede0259ad98395cba053c150be35911df31a5b", 
+      "title": "The Application of CRFs in Part-of-Speech Tagging", 
+      "url": "https://www.semanticscholar.org/paper/3bede0259ad98395cba053c150be35911df31a5b"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "642379f705f785484cf488238ece9bac8a1da8ad", 
+      "title": "CODRA: A Novel Discriminative Framework for Rhetorical Analysis", 
+      "url": "https://www.semanticscholar.org/paper/642379f705f785484cf488238ece9bac8a1da8ad"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "5f126695342ea2bab2aa6eb971563f5d91d00aa0", 
+      "title": "Hierarchical Bayesian Domain Adaptation", 
+      "url": "https://www.semanticscholar.org/paper/5f126695342ea2bab2aa6eb971563f5d91d00aa0"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "9adce2271698602cb86c4694c680a84a36c1caa0", 
+      "title": "Iterativno pridobivanje semantic\u030cnih podatkov iz nestrukturiranih besedilnih virov", 
+      "url": "https://www.semanticscholar.org/paper/9adce2271698602cb86c4694c680a84a36c1caa0"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "54740a58e5ffbfe0b276a7f2210a7502dd1541b8", 
+      "title": "Semi-supervised Statistical Inference for Business Entities Extraction and Business Relations Discovery", 
+      "url": "https://www.semanticscholar.org/paper/54740a58e5ffbfe0b276a7f2210a7502dd1541b8"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "2f78a34ffc326b9218376483f7f78d26a9f30368", 
+      "title": "A Novel Discriminative Framework for Sentence-Level Discourse Analysis", 
+      "url": "https://www.semanticscholar.org/paper/2f78a34ffc326b9218376483f7f78d26a9f30368"
+    }, 
+    {
+      "isInfluential": true, 
+      "paperId": "016842482d3d733d8b999f6b9735a15906a12b53", 
+      "title": "Ambiguity-aware Ensemble Training for Semi-supervised Dependency Parsing", 
+      "url": "https://www.semanticscholar.org/paper/016842482d3d733d8b999f6b9735a15906a12b53"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "152441d4ba1589b10b1a7d23d8f3b19d8b885c1d", 
+      "title": "Recurrent Greedy Parsing with Neural Networks", 
+      "url": "https://www.semanticscholar.org/paper/152441d4ba1589b10b1a7d23d8f3b19d8b885c1d"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "2466a9810b6716ed2e8377063ed8f658fc98a59f", 
+      "title": "Scalable Discriminative Parsing for German", 
+      "url": "https://www.semanticscholar.org/paper/2466a9810b6716ed2e8377063ed8f658fc98a59f"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "1c54616f7271fe4bbbcaca754fdfe4bb0f3d4f64", 
+      "title": "An Introduction to Conditional Random Fields", 
+      "url": "https://www.semanticscholar.org/paper/1c54616f7271fe4bbbcaca754fdfe4bb0f3d4f64"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "1e9dfb0d1edaaa584ff644c2cfa560b8db4167f1", 
+      "title": "Randomized Pruning: Efficiently Calculating Expectations in Large Dynamic Programs", 
+      "url": "https://www.semanticscholar.org/paper/1e9dfb0d1edaaa584ff644c2cfa560b8db4167f1"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "1454c2f35dd729083f7e3715d8e6c4a00e9f55bb", 
+      "title": "Dual Decomposition with Many Overlapping Components", 
+      "url": "https://www.semanticscholar.org/paper/1454c2f35dd729083f7e3715d8e6c4a00e9f55bb"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "0933cca7e4907860750b0253742bcde493734659", 
+      "title": "Refinements in Syntactic Parsing", 
+      "url": "https://www.semanticscholar.org/paper/0933cca7e4907860750b0253742bcde493734659"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "59ace2e5456e5b69eec49c95e352ff65926a889f", 
+      "title": "The Crotal SRL System : a Generic Tool Based on Tree-structured CRF", 
+      "url": "https://www.semanticscholar.org/paper/59ace2e5456e5b69eec49c95e352ff65926a889f"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "1c1f4359793a872342b5be95283afcd215f1bb2e", 
+      "title": "Semi-supervised natural language acquisition", 
+      "url": "https://www.semanticscholar.org/paper/1c1f4359793a872342b5be95283afcd215f1bb2e"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "22bb204ba841aec1dfc76f59540e47d09f424678", 
+      "title": "Overview of the SPMRL 2013 Shared Task: A Cross-Framework Evaluation of Parsing Morphologically Rich Languages", 
+      "url": "https://www.semanticscholar.org/paper/22bb204ba841aec1dfc76f59540e47d09f424678"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "55d2baaeb348bd091a8d045cc116680aa824247a", 
+      "title": "A Machine Reading System for Assembling Synthetic Paleontological Databases", 
+      "url": "https://www.semanticscholar.org/paper/55d2baaeb348bd091a8d045cc116680aa824247a"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "593e4e749bd2dbcaf8dc25298d830b41d435e435", 
+      "title": "A Minimal Span-Based Neural Constituency Parser", 
+      "url": "https://www.semanticscholar.org/paper/593e4e749bd2dbcaf8dc25298d830b41d435e435"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "76d31267ebdd8a444469ca4f13fda14506a782cd", 
+      "title": "Forest-based Algorithms in Natural Language Processing", 
+      "url": "https://www.semanticscholar.org/paper/76d31267ebdd8a444469ca4f13fda14506a782cd"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "1013083dd79b9178d7c14b42f4c898f65ce71166", 
+      "title": "Parsing Morphologically Rich Languages: Introduction to the Special Issue", 
+      "url": "https://www.semanticscholar.org/paper/1013083dd79b9178d7c14b42f4c898f65ce71166"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "d06ba293b9e7331f8ac8a7330d2f69183182159b", 
+      "title": "A CRF Method of Identifying Prepositional Phrases in Chinese Patent Texts", 
+      "url": "https://www.semanticscholar.org/paper/d06ba293b9e7331f8ac8a7330d2f69183182159b"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "2f4a2bc8096047678eb58e2a2d68f204f9a5a540", 
+      "title": "Decision support for the software product line domain engineering lifecycle", 
+      "url": "https://www.semanticscholar.org/paper/2f4a2bc8096047678eb58e2a2d68f204f9a5a540"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "261e841c8e0175586fb193b1a199cefaa8ecf169", 
+      "title": "Weighting Finite-State Transductions With Neural Context", 
+      "url": "https://www.semanticscholar.org/paper/261e841c8e0175586fb193b1a199cefaa8ecf169"
+    }, 
+    {
+      "isInfluential": true, 
+      "paperId": "222c23cba96dd487eee0722d3d302cc97e70d18e", 
+      "title": "Inside-Outside and Forward-Backward Algorithms Are Just Backprop (tutorial paper)", 
+      "url": "https://www.semanticscholar.org/paper/222c23cba96dd487eee0722d3d302cc97e70d18e"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "2d2950695f50db69656d4ab6444f8754ff1fb413", 
+      "title": "Hierarchical Nested CRFs for Segmentation and Labeling of Physiological Time Series", 
+      "url": "https://www.semanticscholar.org/paper/2d2950695f50db69656d4ab6444f8754ff1fb413"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "9b83f334515efd7ddd257778d1ac2b9a693e695f", 
+      "title": "Joint RNN-Based Greedy Parsing and Word Composition", 
+      "url": "https://www.semanticscholar.org/paper/9b83f334515efd7ddd257778d1ac2b9a693e695f"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "0eb5e9ce0a401ab3077da880e209bc3f9f7f9839", 
+      "title": "Efficient Parallelization of Natural Language Applications using GPUs", 
+      "url": "https://www.semanticscholar.org/paper/0eb5e9ce0a401ab3077da880e209bc3f9f7f9839"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "226966243877f186d346be01047cf71cee1b5ec4", 
+      "title": "Online EM for Unsupervised Models", 
+      "url": "https://www.semanticscholar.org/paper/226966243877f186d346be01047cf71cee1b5ec4"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "5b117fb14e3622d8c675c1c97b8b29e175dea194", 
+      "title": "Universal Stanford dependencies: A cross-linguistic typology", 
+      "url": "https://www.semanticscholar.org/paper/5b117fb14e3622d8c675c1c97b8b29e175dea194"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "7a010256939c1da3dc02666fa5f56cee7a185b35", 
+      "title": "Parsing Wireless Electrocardiogram Signals with the CRF-CFG Model", 
+      "url": "https://www.semanticscholar.org/paper/7a010256939c1da3dc02666fa5f56cee7a185b35"
+    }, 
+    {
+      "isInfluential": true, 
+      "paperId": "cc70ec0ccd87177b3edf54e34891fb6dd6baa943", 
+      "title": "Utilizing Extra-Sentential Context for Parsing", 
+      "url": "https://www.semanticscholar.org/paper/cc70ec0ccd87177b3edf54e34891fb6dd6baa943"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "7615b1ab5a55ea8b051504d5c75b2732b67b5abd", 
+      "title": "Soft Cross-lingual Syntax Projection for Dependency Parsing", 
+      "url": "https://www.semanticscholar.org/paper/7615b1ab5a55ea8b051504d5c75b2732b67b5abd"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "060435976a20b551b659cba4335725d48cbce6b1", 
+      "title": "TAG, Dynamic Programming, and the Perceptron for Efficient, Feature-Rich Parsing", 
+      "url": "https://www.semanticscholar.org/paper/060435976a20b551b659cba4335725d48cbce6b1"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "a0ed80f553f3a77a5b17542507bfc062eaf2c900", 
+      "title": "Tree Representations in Probabilistic Models for Extended Named Entities Detection", 
+      "url": "https://www.semanticscholar.org/paper/a0ed80f553f3a77a5b17542507bfc062eaf2c900"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "e085f5e6214d029bd7c95bd3ab2a45ec948cf74b", 
+      "title": "Training Dependency Parsers with Partial Annotation", 
+      "url": "https://www.semanticscholar.org/paper/e085f5e6214d029bd7c95bd3ab2a45ec948cf74b"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "230be715a8a1180b90baee32e1b0741989649104", 
+      "title": "Occupational Representativeness in Twitter", 
+      "url": "https://www.semanticscholar.org/paper/230be715a8a1180b90baee32e1b0741989649104"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "f22485b565fac413856133fd07efa0b1ae2a1adf", 
+      "title": "Practical Very Large Scale CRFs", 
+      "url": "https://www.semanticscholar.org/paper/f22485b565fac413856133fd07efa0b1ae2a1adf"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "b317cede36e263b189154d394b6b8775acd99211", 
+      "title": "Combine CRF and MMSEG to Boost Chinese Word Segmentation in Social Media", 
+      "url": "https://www.semanticscholar.org/paper/b317cede36e263b189154d394b6b8775acd99211"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "f9e518282c292f351a9f6eee11a3ba5044fc1456", 
+      "title": "Self-training a Constituency Parser using n-gram Trees", 
+      "url": "https://www.semanticscholar.org/paper/f9e518282c292f351a9f6eee11a3ba5044fc1456"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "8c68dd92e4ea60dd5cda57ed43299b2b013afa41", 
+      "title": "Automated Disease Normalization with Low Rank Approximations", 
+      "url": "https://www.semanticscholar.org/paper/8c68dd92e4ea60dd5cda57ed43299b2b013afa41"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "331cf2d6f3f942d3af489f9013a397d9b20c753c", 
+      "title": "Dependency Parser for Chinese Constituent Parsing", 
+      "url": "https://www.semanticscholar.org/paper/331cf2d6f3f942d3af489f9013a397d9b20c753c"
+    }, 
+    {
+      "isInfluential": true, 
+      "paperId": "648849c9e984b705bf08e58cdc0710431f481a15", 
+      "title": "Grammarless Parsing for Joint Inference", 
+      "url": "https://www.semanticscholar.org/paper/648849c9e984b705bf08e58cdc0710431f481a15"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "388c8e6ba7646f46e499dffc00557cfe769a5dda", 
+      "title": "Syntactic Processing Using the Generalized Perceptron and Beam Search", 
+      "url": "https://www.semanticscholar.org/paper/388c8e6ba7646f46e499dffc00557cfe769a5dda"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "11315457e5505dc9f5729d45a8fed7c7d076434d", 
+      "title": "An LR-inspired generalized lexicalized phrase structure parser", 
+      "url": "https://www.semanticscholar.org/paper/11315457e5505dc9f5729d45a8fed7c7d076434d"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "43cd81482dc12cd4437fbe2d3ce31ec710da1875", 
+      "title": "Left-corner Methods for Syntactic Modeling with Universal Structural Constraints", 
+      "url": "https://www.semanticscholar.org/paper/43cd81482dc12cd4437fbe2d3ce31ec710da1875"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "e3879a6d8e9fae63b53fe6c07c826aeeffe251f7", 
+      "title": "Joint multilingual learning for coreference resolution", 
+      "url": "https://www.semanticscholar.org/paper/e3879a6d8e9fae63b53fe6c07c826aeeffe251f7"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "1a16e3f2beb9ac85291bb6590dcca3458e396c75", 
+      "title": "A Logic-based Approach to Generatively Defined Discriminative Modeling", 
+      "url": "https://www.semanticscholar.org/paper/1a16e3f2beb9ac85291bb6590dcca3458e396c75"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "a511bee99b4ebb1edf83e818f97663be58d45a22", 
+      "title": "Generating Extractive Summaries of Scientific Paradigms", 
+      "url": "https://www.semanticscholar.org/paper/a511bee99b4ebb1edf83e818f97663be58d45a22"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "3c7729999627ff3aeb7e88d1f309af75ce041648", 
+      "title": "An empirical study of maximum entropy approach for part-of-speech tagging of Vietnamese texts", 
+      "url": "https://www.semanticscholar.org/paper/3c7729999627ff3aeb7e88d1f309af75ce041648"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "79e610a6ce662f12ae51ae23a340daabbed996fa", 
+      "title": "PCFG parsing with CRF tagging for head recognition", 
+      "url": "https://www.semanticscholar.org/paper/79e610a6ce662f12ae51ae23a340daabbed996fa"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "80eca8fcd8bd7bc4aaee84d1b69b661a88b5ad4b", 
+      "title": "Preface N -gram Parsing for Jointly Training a Discriminative Constituency Parser", 
+      "url": "https://www.semanticscholar.org/paper/80eca8fcd8bd7bc4aaee84d1b69b661a88b5ad4b"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "a47522a4377f7ba218df3ebe94338bb438cb42e5", 
+      "title": "Inducing Sentence Structure from Parallel Corpora for Reordering", 
+      "url": "https://www.semanticscholar.org/paper/a47522a4377f7ba218df3ebe94338bb438cb42e5"
+    }, 
+    {
+      "isInfluential": true, 
+      "paperId": "19017e68fa44438132935c526a45ca573f33c8e6", 
+      "title": "Less Grammar, More Features", 
+      "url": "https://www.semanticscholar.org/paper/19017e68fa44438132935c526a45ca573f33c8e6"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "c67d98788f0d76a791119c6f2f6bf1e5853bf233", 
+      "title": "Morphological Segmentation Inside-Out", 
+      "url": "https://www.semanticscholar.org/paper/c67d98788f0d76a791119c6f2f6bf1e5853bf233"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "d3344d50b71ee8d7255bb8bc009d6af6f1a8411e", 
+      "title": "Universal Dependencies: A cross-linguistic typology", 
+      "url": "https://www.semanticscholar.org/paper/d3344d50b71ee8d7255bb8bc009d6af6f1a8411e"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "1841e687a6a9f092574477d62784c13ce6361ae3", 
+      "title": "Neural CRF Parsing", 
+      "url": "https://www.semanticscholar.org/paper/1841e687a6a9f092574477d62784c13ce6361ae3"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "0715c19c6f5b75e4edae01db9ea51c53f5add46f", 
+      "title": "Using Web-scale N-grams to Improve Base NP Parsing Performance", 
+      "url": "https://www.semanticscholar.org/paper/0715c19c6f5b75e4edae01db9ea51c53f5add46f"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "55df3a4331d2c1a6aab73d8bec48b608760954ef", 
+      "title": "N-gram Parsing for Jointly Training a Discriminative Constituency Parser", 
+      "url": "https://www.semanticscholar.org/paper/55df3a4331d2c1a6aab73d8bec48b608760954ef"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "72e90c09bf6e45dfaecb5bafd50f4542b0465f23", 
+      "title": "Hierarchical Joint Learning: Improving Joint Parsing and Named Entity Recognition with Non-Jointly Labeled Data", 
+      "url": "https://www.semanticscholar.org/paper/72e90c09bf6e45dfaecb5bafd50f4542b0465f23"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "234487203f6b42b908295eb790c35d206fa3fadb", 
+      "title": "Non-Uniform Stochastic Average Gradient Method for Training Conditional Random Fields", 
+      "url": "https://www.semanticscholar.org/paper/234487203f6b42b908295eb790c35d206fa3fadb"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "d0ad73f156b0f33688a772f9040ed660f9cb672c", 
+      "title": "Detecting Social Roles in Twitter", 
+      "url": "https://www.semanticscholar.org/paper/d0ad73f156b0f33688a772f9040ed660f9cb672c"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "64bf025d44c20a33d27e3d63310017ec76df6c94", 
+      "title": "Joint Chinese Word Segmentation, POS Tagging and Parsing", 
+      "url": "https://www.semanticscholar.org/paper/64bf025d44c20a33d27e3d63310017ec76df6c94"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "175a3ca64546105355c2094336479baea7866eeb", 
+      "title": "A machine-compiled macroevolutionary history of Phanerozoic life", 
+      "url": "https://www.semanticscholar.org/paper/175a3ca64546105355c2094336479baea7866eeb"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "16e6c530ea2538991310301437e19e2a88d6d6fd", 
+      "title": "Knowledge Sources for Constituent Parsing of German, a Morphologically Rich and Less-Configurational Language", 
+      "url": "https://www.semanticscholar.org/paper/16e6c530ea2538991310301437e19e2a88d6d6fd"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "941e4e2c85c60dc991d72151c92948f2f6d3806a", 
+      "title": "Sentence Parsing with Double Sequential Labeling in Traditional Chinese Parsing Task", 
+      "url": "https://www.semanticscholar.org/paper/941e4e2c85c60dc991d72151c92948f2f6d3806a"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "b0b90fc50080d6b000be0bb09b74878c33dec150", 
+      "title": "Selecting features with L1 regularization in Conditional Random Fields", 
+      "url": "https://www.semanticscholar.org/paper/b0b90fc50080d6b000be0bb09b74878c33dec150"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "aa99e32b453608a49ee76cbf270384af535a7f3e", 
+      "title": "Spoken Language Understanding for a Nutrition Dialogue System", 
+      "url": "https://www.semanticscholar.org/paper/aa99e32b453608a49ee76cbf270384af535a7f3e"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "0d136e0c6b1e1cebc2be39e5ee8e9b5a7c6285c7", 
+      "title": "Minibatch and Parallelization for Online Large Margin Structured Learning", 
+      "url": "https://www.semanticscholar.org/paper/0d136e0c6b1e1cebc2be39e5ee8e9b5a7c6285c7"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "3687b7c70bfc0dc108a1881a287ed7353ca190b1", 
+      "title": "An Empirical Investigation of Word Class-Based Features for Natural Language Understanding", 
+      "url": "https://www.semanticscholar.org/paper/3687b7c70bfc0dc108a1881a287ed7353ca190b1"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "a09b5dcd63c8a07a4a2a5f79140d7752bf0e81e0", 
+      "title": "Semantic Parsing with Relaxed Hybrid Trees", 
+      "url": "https://www.semanticscholar.org/paper/a09b5dcd63c8a07a4a2a5f79140d7752bf0e81e0"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "62ac088d966d4a9122959f13301759c6bbda6c36", 
+      "title": "Latent-Variable Modeling of String Transductions with Finite-State Methods", 
+      "url": "https://www.semanticscholar.org/paper/62ac088d966d4a9122959f13301759c6bbda6c36"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "81b3b3fe994a9eda6d3f9d2149aa4492d1933975", 
+      "title": "Learning Continuous Phrase Representations and Syntactic Parsing with Recursive Neural Networks", 
+      "url": "https://www.semanticscholar.org/paper/81b3b3fe994a9eda6d3f9d2149aa4492d1933975"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "7dcff13509492cab2ea05ed00757d413d6d7e736", 
+      "title": "Training Factored PCFGs with Expectation Propagation", 
+      "url": "https://www.semanticscholar.org/paper/7dcff13509492cab2ea05ed00757d413d6d7e736"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "371bd20afe88e73eafea2298b52beca7b9b5660a", 
+      "title": "Distributed Training Strategies for the Structured Perceptron", 
+      "url": "https://www.semanticscholar.org/paper/371bd20afe88e73eafea2298b52beca7b9b5660a"
+    }, 
+    {
+      "isInfluential": true, 
+      "paperId": "d02db9617b173c434cf3f9b3b5b9ba357abb1e21", 
+      "title": "Training parsers by inverse reinforcement learning", 
+      "url": "https://www.semanticscholar.org/paper/d02db9617b173c434cf3f9b3b5b9ba357abb1e21"
+    }, 
+    {
+      "isInfluential": true, 
+      "paperId": "0a6d2063a2e547fd94c9575da7ef6fffc7999502", 
+      "title": "Fast Full Parsing by Linear-Chain Conditional Random Fields", 
+      "url": "https://www.semanticscholar.org/paper/0a6d2063a2e547fd94c9575da7ef6fffc7999502"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "681aa30b8a537691750a704c621ef915dfc0b513", 
+      "title": "Identifying Prepositional Phrases in Chinese Patent Texts with Rule-based and CRF Methods", 
+      "url": "https://www.semanticscholar.org/paper/681aa30b8a537691750a704c621ef915dfc0b513"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "69af98a197b1e9c93af74a84e8f8645143c30a0f", 
+      "title": "Probabilistic Graph-based Dependency Parsing with Convolutional Neural Network", 
+      "url": "https://www.semanticscholar.org/paper/69af98a197b1e9c93af74a84e8f8645143c30a0f"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "4017716deee68a55291c0a533141b9d476e8757d", 
+      "title": "Feature-Rich Log-Linear Lexical Model for Latent Variable PCFG Grammars", 
+      "url": "https://www.semanticscholar.org/paper/4017716deee68a55291c0a533141b9d476e8757d"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "f96bda0053733a8c7c1333227a6df23e55457c33", 
+      "title": "Stochastic Gradient Descent Training for L1-regularized Log-linear Models with Cumulative Penalty", 
+      "url": "https://www.semanticscholar.org/paper/f96bda0053733a8c7c1333227a6df23e55457c33"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "666b639aadcd2a8a11d24b36bae6a4f07e802b34", 
+      "title": "Tailoring Continuous Word Representations for Dependency Parsing", 
+      "url": "https://www.semanticscholar.org/paper/666b639aadcd2a8a11d24b36bae6a4f07e802b34"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "ef6f0cf5bef1c5cdd871f67f50079ac40961467d", 
+      "title": "Hierarchical Span-Based Conditional Random Fields for Labeling and Segmenting Events in Wearable Sensor Data Streams", 
+      "url": "https://www.semanticscholar.org/paper/ef6f0cf5bef1c5cdd871f67f50079ac40961467d"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "523f69829a80b8136287efd114f08d2b343d62dd", 
+      "title": "How Symbolic Learning Can Help Statistical Learning (and vice versa)", 
+      "url": "https://www.semanticscholar.org/paper/523f69829a80b8136287efd114f08d2b343d62dd"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "4a37dfec0e9957170403809a938daf6c3c1e3c0c", 
+      "title": "Higher-order Constituent Parsing and Parser Combination", 
+      "url": "https://www.semanticscholar.org/paper/4a37dfec0e9957170403809a938daf6c3c1e3c0c"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "406ff12af5c753ff2576c5b45eaf229170d1e310", 
+      "title": "Detecting Informative Blog Comments using Tree Structured Conditional Random Fields", 
+      "url": "https://www.semanticscholar.org/paper/406ff12af5c753ff2576c5b45eaf229170d1e310"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "669529cc3feb9324c6d835e30acb0aefb480996e", 
+      "title": "A Fast Accurate Two-stage Training Algorithm for L1-regularized CRFs with Heuristic Line Search Strategy", 
+      "url": "https://www.semanticscholar.org/paper/669529cc3feb9324c6d835e30acb0aefb480996e"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "5b9624e9e668c2ececba915f113d78951cb488e9", 
+      "title": "Conditional Random Fields for XML Applications", 
+      "url": "https://www.semanticscholar.org/paper/5b9624e9e668c2ececba915f113d78951cb488e9"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "160cacde3668ce76fa2b476bfe03fc458127b27d", 
+      "title": "Web-Scale Features for Full-Scale Parsing", 
+      "url": "https://www.semanticscholar.org/paper/160cacde3668ce76fa2b476bfe03fc458127b27d"
+    }, 
+    {
+      "isInfluential": true, 
+      "paperId": "a39b8f1fd15774e3e34035c4a55a8335f4aafa1a", 
+      "title": "Advances in discriminative dependency parsing", 
+      "url": "https://www.semanticscholar.org/paper/a39b8f1fd15774e3e34035c4a55a8335f4aafa1a"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "3169658292081e26a3e9a99de987aa123ef3b0a1", 
+      "title": "Binarized Forest to String Translation", 
+      "url": "https://www.semanticscholar.org/paper/3169658292081e26a3e9a99de987aa123ef3b0a1"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "00cf902b27676cdc376e26567e70298b96c672a1", 
+      "title": "Joint Parsing and Named Entity Recognition", 
+      "url": "https://www.semanticscholar.org/paper/00cf902b27676cdc376e26567e70298b96c672a1"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "1a5b0e1e9f514f5fbfd3c2e79285a2d07cbffdb9", 
+      "title": "Symbolic and statistical learning for chunking : comparison and combinations (Apprentissage symbolique et statistique pour le chunking: comparaison et combinaisons) [in French]", 
+      "url": "https://www.semanticscholar.org/paper/1a5b0e1e9f514f5fbfd3c2e79285a2d07cbffdb9"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "23f3abcd41b85d04784c126ad5c2a1a8120865db", 
+      "title": "A Joint Model for Quotation Attribution and Coreference Resolution", 
+      "url": "https://www.semanticscholar.org/paper/23f3abcd41b85d04784c126ad5c2a1a8120865db"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "8bbc8eed558d755ee85d5318cc252e37b3af1d1f", 
+      "title": "Parsing wireless electrocardiogram signals with context free grammar conditional random fields", 
+      "url": "https://www.semanticscholar.org/paper/8bbc8eed558d755ee85d5318cc252e37b3af1d1f"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "47577649aa76f50f8eca4d77efd6378582835ac4", 
+      "title": "A discriminative parser of the LR family for phrase structure parsing (Un analyseur discriminant de la famille LR pour l'analyse en constituants) [in French]", 
+      "url": "https://www.semanticscholar.org/paper/47577649aa76f50f8eca4d77efd6378582835ac4"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "b96a0c23fa60e5f3c613c08e8138eaad11b9c6ad", 
+      "title": "Sentence Compression for Target-Polarity Word Collocation Extraction", 
+      "url": "https://www.semanticscholar.org/paper/b96a0c23fa60e5f3c613c08e8138eaad11b9c6ad"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "21d16efa69045433fc83c3390df455f5cd9acf32", 
+      "title": "CS 224N Using Named Entity Recognition to improve Machine Translation", 
+      "url": "https://www.semanticscholar.org/paper/21d16efa69045433fc83c3390df455f5cd9acf32"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "b7062699879d741fd57b3bd908cc53baa9cfb72d", 
+      "title": "Word Sequence Modeling using Deep Learning: an End-to-end Approach and its Applications", 
+      "url": "https://www.semanticscholar.org/paper/b7062699879d741fd57b3bd908cc53baa9cfb72d"
+    }
+  ], 
+  "doi": null, 
+  "influentialCitationCount": 9, 
+  "paperId": "84b81aa5baf439a24ed52a96c22ffd78a63bb754", 
+  "references": [
+    {
+      "isInfluential": false, 
+      "paperId": "a28aeb725556736d3954d17e599b93367ff8dd3f", 
+      "title": "Advances in Discriminative Parsing", 
+      "url": "https://www.semanticscholar.org/paper/a28aeb725556736d3954d17e599b93367ff8dd3f"
+    }, 
+    {
+      "isInfluential": true, 
+      "paperId": "5dc475d9530141cedfc21d825f09d93e58198bfa", 
+      "title": "Joint and conditional estimation of tagging and parsing models", 
+      "url": "https://www.semanticscholar.org/paper/5dc475d9530141cedfc21d825f09d93e58198bfa"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "730c8cb1d3ca2988167cb54b75ccb5495ce2317f", 
+      "title": "Scalable Discriminative Learning for Natural Language Parsing and Translation", 
+      "url": "https://www.semanticscholar.org/paper/730c8cb1d3ca2988167cb54b75ccb5495ce2317f"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "1174297ddcf08937a94d8efe4c1efb65f3b92fd8", 
+      "title": "Discriminative Training of a Neural Network Statistical Parser", 
+      "url": "https://www.semanticscholar.org/paper/1174297ddcf08937a94d8efe4c1efb65f3b92fd8"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "1d96b86ff1a3f34f576212f5e205900e0f7665d8", 
+      "title": "Inducing Syntactic Categories by Context Distribution Clustering", 
+      "url": "https://www.semanticscholar.org/paper/1d96b86ff1a3f34f576212f5e205900e0f7665d8"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "d84b9507ff9687a900fde451f27106d930c1b838", 
+      "title": "Learning Accurate, Compact, and Interpretable Tree Annotation", 
+      "url": "https://www.semanticscholar.org/paper/d84b9507ff9687a900fde451f27106d930c1b838"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "06fd7d924d499fbc62ccbcc2e458fb6c187bcf6f", 
+      "title": "Foundations of statistical natural language processing", 
+      "url": "https://www.semanticscholar.org/paper/06fd7d924d499fbc62ccbcc2e458fb6c187bcf6f"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "0ecb33ced5b0976accdf13817151f80568b6fdcb", 
+      "title": "Coarse-to-Fine n-Best Parsing and MaxEnt Discriminative Reranking", 
+      "url": "https://www.semanticscholar.org/paper/0ecb33ced5b0976accdf13817151f80568b6fdcb"
+    }, 
+    {
+      "isInfluential": true, 
+      "paperId": "21626c5ad3d0e7315b5c6b468e575514a384bf08", 
+      "title": "Discriminative Log-Linear Grammars with Latent Variables", 
+      "url": "https://www.semanticscholar.org/paper/21626c5ad3d0e7315b5c6b468e575514a384bf08"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "1ee55e541fca327d265cf0796dca13ca2cf2926e", 
+      "title": "Semantic Role Labelling with Tree Conditional Random Fields", 
+      "url": "https://www.semanticscholar.org/paper/1ee55e541fca327d265cf0796dca13ca2cf2926e"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "1826fbbf12e399024296c1dfcc5758c1c810574c", 
+      "title": "Max-Margin Parsing", 
+      "url": "https://www.semanticscholar.org/paper/1826fbbf12e399024296c1dfcc5758c1c810574c"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "1267fe36b5ece49a9d8f913eb67716a040bbcced", 
+      "title": "On the limited memory BFGS method for large scale optimization", 
+      "url": "https://www.semanticscholar.org/paper/1267fe36b5ece49a9d8f913eb67716a040bbcced"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "3b77bb06b1916d8aad3203d27c032a82c9fc3d1d", 
+      "title": "Conditional Random Fields for XML Trees", 
+      "url": "https://www.semanticscholar.org/paper/3b77bb06b1916d8aad3203d27c032a82c9fc3d1d"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "00bbbf3af78f80651e9f955209ee72711fa5d412", 
+      "title": "On Discriminative vs. Generative Classifiers: A comparison of logistic regression and naive Bayes", 
+      "url": "https://www.semanticscholar.org/paper/00bbbf3af78f80651e9f955209ee72711fa5d412"
+    }, 
+    {
+      "isInfluential": true, 
+      "paperId": "0c7f52c753a65ceaf3755e20b906ffd0c05c994a", 
+      "title": "Conditional Random Fields: Probabilistic Models for Segmenting and Labeling Sequence Data", 
+      "url": "https://www.semanticscholar.org/paper/0c7f52c753a65ceaf3755e20b906ffd0c05c994a"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "346bcbebafd193aba689269da2de51bfaf163df2", 
+      "title": "Discriminative Reranking for Natural Language Parsing", 
+      "url": "https://www.semanticscholar.org/paper/346bcbebafd193aba689269da2de51bfaf163df2"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "023225d739460b96a32cecab31db777fe353dc64", 
+      "title": "Accelerated training of conditional random fields with stochastic gradient methods", 
+      "url": "https://www.semanticscholar.org/paper/023225d739460b96a32cecab31db777fe353dc64"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "0b44fcbeea9415d400c5f5789d6b892b6f98daff", 
+      "title": "Building a Large Annotated Corpus of English: The Penn Treebank", 
+      "url": "https://www.semanticscholar.org/paper/0b44fcbeea9415d400c5f5789d6b892b6f98daff"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "3201dd37c17893a96e53c838ef9f2ac21f643c04", 
+      "title": "An Efficient Probabilistic Context-Free Parsing Algorithm that Computes Prefix Probabilities", 
+      "url": "https://www.semanticscholar.org/paper/3201dd37c17893a96e53c838ef9f2ac21f643c04"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "18b534c7207a1376fa92e87fe0d2cfb358d98c51", 
+      "title": "Accurate Unlexicalized Parsing", 
+      "url": "https://www.semanticscholar.org/paper/18b534c7207a1376fa92e87fe0d2cfb358d98c51"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "62ea2ef8b7d98cf3a3b912a62a7a42ee82650e6b", 
+      "title": "An Efficient Context-Free Parsing Algorithm", 
+      "url": "https://www.semanticscholar.org/paper/62ea2ef8b7d98cf3a3b912a62a7a42ee82650e6b"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "54c846ee00c6132d70429cc279e8577f63ed05e4", 
+      "title": "A Linear Observed Time Statistical Parser Based on Maximum Entropy Models", 
+      "url": "https://www.semanticscholar.org/paper/54c846ee00c6132d70429cc279e8577f63ed05e4"
+    }
+  ], 
+  "title": "Efficient, Feature-based, Conditional Random Field Parsing", 
+  "url": "https://www.semanticscholar.org/paper/84b81aa5baf439a24ed52a96c22ffd78a63bb754", 
+  "venue": "ACL"
+}

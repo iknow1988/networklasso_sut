@@ -1,0 +1,1844 @@
+{
+  "authors": [
+    {
+      "authorId": "2580593", 
+      "name": "Ranjay Krishna", 
+      "url": "https://www.semanticscholar.org/author/2580593"
+    }, 
+    {
+      "authorId": "2117748", 
+      "name": "Yuke Zhu", 
+      "url": "https://www.semanticscholar.org/author/2117748"
+    }, 
+    {
+      "authorId": "2152186", 
+      "name": "Oliver Groth", 
+      "url": "https://www.semanticscholar.org/author/2152186"
+    }, 
+    {
+      "authorId": "2761401", 
+      "name": "Justin Johnson", 
+      "url": "https://www.semanticscholar.org/author/2761401"
+    }, 
+    {
+      "authorId": "2529260", 
+      "name": "Kenji Hata", 
+      "url": "https://www.semanticscholar.org/author/2529260"
+    }, 
+    {
+      "authorId": "3377128", 
+      "name": "Joshua Kravitz", 
+      "url": "https://www.semanticscholar.org/author/3377128"
+    }, 
+    {
+      "authorId": "3371797", 
+      "name": "Stephanie Chen", 
+      "url": "https://www.semanticscholar.org/author/3371797"
+    }, 
+    {
+      "authorId": "1944225", 
+      "name": "Yannis Kalantidis", 
+      "url": "https://www.semanticscholar.org/author/1944225"
+    }, 
+    {
+      "authorId": "2451991", 
+      "name": "Li-Jia Li", 
+      "url": "https://www.semanticscholar.org/author/2451991"
+    }, 
+    {
+      "authorId": "1760364", 
+      "name": "David A. Shamma", 
+      "url": "https://www.semanticscholar.org/author/1760364"
+    }, 
+    {
+      "authorId": "3047089", 
+      "name": "Michael S. Bernstein", 
+      "url": "https://www.semanticscholar.org/author/3047089"
+    }, 
+    {
+      "authorId": "7272677", 
+      "name": "Li Fei-Fei", 
+      "url": "https://www.semanticscholar.org/author/7272677"
+    }
+  ], 
+  "citationVelocity": 0, 
+  "citations": [
+    {
+      "isInfluential": false, 
+      "paperId": "239fc805f42e720d34e51693765a8cf1c6ff05f6", 
+      "title": "On Support Relations and Semantic Scene Graphs", 
+      "url": "https://www.semanticscholar.org/paper/239fc805f42e720d34e51693765a8cf1c6ff05f6", 
+      "venue": "ArXiv", 
+      "year": 2016
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "86c158ef6caaf247d5d14e07c5edded0147df8b7", 
+      "title": "Spatial Memory for Context Reasoning in Object Detection", 
+      "url": "https://www.semanticscholar.org/paper/86c158ef6caaf247d5d14e07c5edded0147df8b7", 
+      "venue": "ArXiv", 
+      "year": 2017
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "5ed7d98f93a7d2888815b52c329b2377eced21bb", 
+      "title": "VQS: Linking Segmentations to Questions and Answers for Supervised Attention in VQA and Question-Focused Semantic Segmentation", 
+      "url": "https://www.semanticscholar.org/paper/5ed7d98f93a7d2888815b52c329b2377eced21bb", 
+      "venue": "", 
+      "year": 2017
+    }, 
+    {
+      "isInfluential": true, 
+      "paperId": "86730cc5dad9fb9b6ef0cc13ab65f52b8d4737b5", 
+      "title": "Tips and Tricks for Visual Question Answering: Learnings from the 2017 Challenge", 
+      "url": "https://www.semanticscholar.org/paper/86730cc5dad9fb9b6ef0cc13ab65f52b8d4737b5", 
+      "venue": "", 
+      "year": 2017
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "e4e5ccd9bd3720e18b7bf361ffe5ca4f58ed3784", 
+      "title": "Logic Tensor Networks for Semantic Image Interpretation", 
+      "url": "https://www.semanticscholar.org/paper/e4e5ccd9bd3720e18b7bf361ffe5ca4f58ed3784", 
+      "venue": "IJCAI", 
+      "year": 2017
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "b61e0d2f35985d604806357655ffe3dce1d3e5a5", 
+      "title": "Places: A 10 million Image Database for Scene Recognition.", 
+      "url": "https://www.semanticscholar.org/paper/b61e0d2f35985d604806357655ffe3dce1d3e5a5", 
+      "venue": "IEEE transactions on pattern analysis and machine intelligence", 
+      "year": 2017
+    }, 
+    {
+      "isInfluential": true, 
+      "paperId": "dc14342d4615f29cfb9dcbf05091155d86aeada2", 
+      "title": "Visual Translation Embedding Network for Visual Relation Detection", 
+      "url": "https://www.semanticscholar.org/paper/dc14342d4615f29cfb9dcbf05091155d86aeada2", 
+      "venue": "ArXiv", 
+      "year": 2017
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "1ecb6b37ed067b2f16dbb6f476d449f113fae534", 
+      "title": "End-to-end Concept Word Detection for Video Captioning, Retrieval, and Question Answering", 
+      "url": "https://www.semanticscholar.org/paper/1ecb6b37ed067b2f16dbb6f476d449f113fae534", 
+      "venue": "", 
+      "year": 2016
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "542289d1acfebb9d79ea7a10c8e1516924e09973", 
+      "title": "Video Highlight Prediction Using Audience Chat Reactions", 
+      "url": "https://www.semanticscholar.org/paper/542289d1acfebb9d79ea7a10c8e1516924e09973", 
+      "venue": "ArXiv", 
+      "year": 2017
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "1dde770f6fc8438810a7c3aff58f1f0ad5987d3c", 
+      "title": "Weakly-supervised Visual Grounding of Phrases with Linguistic Structures", 
+      "url": "https://www.semanticscholar.org/paper/1dde770f6fc8438810a7c3aff58f1f0ad5987d3c", 
+      "venue": "ArXiv", 
+      "year": 2017
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "84be05dd82a7208a6e7b3d238df27b123cc917ce", 
+      "title": "Revisiting Visual Question Answering Baselines", 
+      "url": "https://www.semanticscholar.org/paper/84be05dd82a7208a6e7b3d238df27b123cc917ce", 
+      "venue": "ECCV", 
+      "year": 2016
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "3d1c5acc3178ec4eff8f20e985be90099c5cbfdc", 
+      "title": "NimbRo picking: Versatile part handling for warehouse automation", 
+      "url": "https://www.semanticscholar.org/paper/3d1c5acc3178ec4eff8f20e985be90099c5cbfdc", 
+      "venue": "2017 IEEE International Conference on Robotics and Automation (ICRA)", 
+      "year": 2017
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "030646f4fc694ffea5d4f77203cbbc5d02aae797", 
+      "title": "Cognitive Deep Machine Can Train Itself", 
+      "url": "https://www.semanticscholar.org/paper/030646f4fc694ffea5d4f77203cbbc5d02aae797", 
+      "venue": "ArXiv", 
+      "year": 2016
+    }, 
+    {
+      "isInfluential": true, 
+      "paperId": "8c192cd39f90eb8ff2969f8916ef8967607c5298", 
+      "title": "See, Hear, and Read: Deep Aligned Representations", 
+      "url": "https://www.semanticscholar.org/paper/8c192cd39f90eb8ff2969f8916ef8967607c5298", 
+      "venue": "ArXiv", 
+      "year": 2017
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "161a752e539fcaa30234d1fc2a978e4e3a7c1953", 
+      "title": "Visual Storytelling", 
+      "url": "https://www.semanticscholar.org/paper/161a752e539fcaa30234d1fc2a978e4e3a7c1953", 
+      "venue": "HLT-NAACL", 
+      "year": 2016
+    }, 
+    {
+      "isInfluential": true, 
+      "paperId": "8c357c8716e7a0606587cc67b209276b08483f3e", 
+      "title": "Care about you: towards large-scale human-centric visual relationship detection", 
+      "url": "https://www.semanticscholar.org/paper/8c357c8716e7a0606587cc67b209276b08483f3e", 
+      "venue": "ArXiv", 
+      "year": 2017
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "a20403b74e8fd1d56233d2f1a3a805410573e0a8", 
+      "title": "Utilizing Large Scale Vision and Text Datasets for Image Segmentation from Referring Expressions", 
+      "url": "https://www.semanticscholar.org/paper/a20403b74e8fd1d56233d2f1a3a805410573e0a8", 
+      "venue": "ArXiv", 
+      "year": 2016
+    }, 
+    {
+      "isInfluential": true, 
+      "paperId": "51b4c604f45ac16136b16408ad3a162984ede71d", 
+      "title": "Dual-Glance Model for Deciphering Social Relationships", 
+      "url": "https://www.semanticscholar.org/paper/51b4c604f45ac16136b16408ad3a162984ede71d", 
+      "venue": "", 
+      "year": 2017
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "355ec018830c58febc5bf9579316f1688f289efa", 
+      "title": "Scene Graph Generation by Iterative Message Passing", 
+      "url": "https://www.semanticscholar.org/paper/355ec018830c58febc5bf9579316f1688f289efa", 
+      "venue": "ArXiv", 
+      "year": 2017
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "24a82d445af7ff9fe652176ea325de3397b55a92", 
+      "title": "Automatic Generation of Grounded Visual Questions", 
+      "url": "https://www.semanticscholar.org/paper/24a82d445af7ff9fe652176ea325de3397b55a92", 
+      "venue": "IJCAI", 
+      "year": 2017
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "37acbbbcfe9d8eb89e5b01da28dac6d44c3903ee", 
+      "title": "Data Programming: Creating Large Training Sets, Quickly", 
+      "url": "https://www.semanticscholar.org/paper/37acbbbcfe9d8eb89e5b01da28dac6d44c3903ee", 
+      "venue": "NIPS", 
+      "year": 2016
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "e9a891bd087f1bb6e0f77dde8a72b80b54655538", 
+      "title": "Learning to Generate Descriptions of Visual Data Anchored in Spatial Relations", 
+      "url": "https://www.semanticscholar.org/paper/e9a891bd087f1bb6e0f77dde8a72b80b54655538", 
+      "venue": "IEEE Computational Intelligence Magazine", 
+      "year": 2017
+    }, 
+    {
+      "isInfluential": true, 
+      "paperId": "434d6726229c0f556841fad20391c18316806f73", 
+      "title": "Detecting Visual Relationships with Deep Relational Networks", 
+      "url": "https://www.semanticscholar.org/paper/434d6726229c0f556841fad20391c18316806f73", 
+      "venue": "ArXiv", 
+      "year": 2017
+    }, 
+    {
+      "isInfluential": true, 
+      "paperId": "bb21a57edd10c042bd137b713fcbf743021ab232", 
+      "title": "The More You Know: Using Knowledge Graphs for Image Classification", 
+      "url": "https://www.semanticscholar.org/paper/bb21a57edd10c042bd137b713fcbf743021ab232", 
+      "venue": "ArXiv", 
+      "year": 2016
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "f8809a55945c283d249f4c4adb5d74e452cdfaa0", 
+      "title": "Being Negative but Constructively: Lessons Learnt from Creating Better Visual Question Answering Datasets", 
+      "url": "https://www.semanticscholar.org/paper/f8809a55945c283d249f4c4adb5d74e452cdfaa0", 
+      "venue": "ArXiv", 
+      "year": 2017
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "11d65f2ab3ddc4129546c38fe7811cbc61bad4a9", 
+      "title": "The Path to Path-Traced Movies", 
+      "url": "https://www.semanticscholar.org/paper/11d65f2ab3ddc4129546c38fe7811cbc61bad4a9", 
+      "venue": "Foundations and Trends in Computer Graphics and Vision", 
+      "year": 2016
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "2888b44a5bc6c6e1639034ad792f0fa22a27ef65", 
+      "title": "CLEF 2017: Multimodal Spatial Role Labeling Task Working Notes", 
+      "url": "https://www.semanticscholar.org/paper/2888b44a5bc6c6e1639034ad792f0fa22a27ef65", 
+      "venue": "CLEF", 
+      "year": 2017
+    }, 
+    {
+      "isInfluential": true, 
+      "paperId": "45e13ca66131c1978259d8a1e04748887c884a22", 
+      "title": "Visual Relationship Detection with Internal and External Linguistic Knowledge Distillation", 
+      "url": "https://www.semanticscholar.org/paper/45e13ca66131c1978259d8a1e04748887c884a22", 
+      "venue": "ArXiv", 
+      "year": 2017
+    }, 
+    {
+      "isInfluential": true, 
+      "paperId": "4b7c8e289727fb2c96c90631e98d9d886343953d", 
+      "title": "Structured Attentions for Visual Question Answering", 
+      "url": "https://www.semanticscholar.org/paper/4b7c8e289727fb2c96c90631e98d9d886343953d", 
+      "venue": "", 
+      "year": 2017
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "1a645bcd029cc5ce21b973146f21a9655047cc96", 
+      "title": "Phrase Localization and Visual Relationship Detection with Comprehensive Linguistic Cues", 
+      "url": "https://www.semanticscholar.org/paper/1a645bcd029cc5ce21b973146f21a9655047cc96", 
+      "venue": "ArXiv", 
+      "year": 2016
+    }, 
+    {
+      "isInfluential": true, 
+      "paperId": "12cfe3daf469c4fe0ef29170cc5f778936a38d1d", 
+      "title": "Hadamard Product for Low-rank Bilinear Pooling", 
+      "url": "https://www.semanticscholar.org/paper/12cfe3daf469c4fe0ef29170cc5f778936a38d1d", 
+      "venue": "ArXiv", 
+      "year": 2016
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "72e6c1305a4a7c1953f77991a95d35498086e5d8", 
+      "title": "Learning Visual N-Grams from Web Data", 
+      "url": "https://www.semanticscholar.org/paper/72e6c1305a4a7c1953f77991a95d35498086e5d8", 
+      "venue": "ArXiv", 
+      "year": 2016
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "77baf25ccee2301aa6550b64502e9e0c6d9b678a", 
+      "title": "CLEF 2017: Multimodal Spatial Role Labeling (mSpRL) Task Overview", 
+      "url": "https://www.semanticscholar.org/paper/77baf25ccee2301aa6550b64502e9e0c6d9b678a", 
+      "venue": "", 
+      "year": 2017
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "627107c02c2df1366965f11678dd3c4fb14ac9b3", 
+      "title": "Connecting Images and Natural Language a Dissertation Submitted to the Department of Computer Science and the Committee on Graduate Studies of Stanford University in Partial Fulfillment of the Requirements for the Degree of Doctor of Philosophy", 
+      "url": "https://www.semanticscholar.org/paper/627107c02c2df1366965f11678dd3c4fb14ac9b3", 
+      "venue": "", 
+      "year": 2016
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "7dacb063f783df07f89934c962c3e170acb166cc", 
+      "title": "Multi-modal Factorized Bilinear Pooling with Co-Attention Learning for Visual Question Answering", 
+      "url": "https://www.semanticscholar.org/paper/7dacb063f783df07f89934c962c3e170acb166cc", 
+      "venue": "", 
+      "year": 2017
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "eecd9a070ed333077a066bfdcf776c51c2c74406", 
+      "title": "Deep image representations using caption generators", 
+      "url": "https://www.semanticscholar.org/paper/eecd9a070ed333077a066bfdcf776c51c2c74406", 
+      "venue": "ArXiv", 
+      "year": 2017
+    }, 
+    {
+      "isInfluential": true, 
+      "paperId": "569cdcb5a5a8e9b1708f1bb602425ec821f0e70f", 
+      "title": "Spatial-Semantic Image Search by Visual Feature Synthesis", 
+      "url": "https://www.semanticscholar.org/paper/569cdcb5a5a8e9b1708f1bb602425ec821f0e70f", 
+      "venue": "", 
+      "year": null
+    }, 
+    {
+      "isInfluential": true, 
+      "paperId": "2ab8956fef9526741c1e68c94d9a9da74a87960c", 
+      "title": "Learning to Disambiguate by Asking Discriminative Questions", 
+      "url": "https://www.semanticscholar.org/paper/2ab8956fef9526741c1e68c94d9a9da74a87960c", 
+      "venue": "", 
+      "year": 2017
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "7fe006150ce0e8ab94ef9c0b96f2241a77156685", 
+      "title": "The VQA-Machine: Learning How to Use Existing Vision Algorithms to Answer New Questions", 
+      "url": "https://www.semanticscholar.org/paper/7fe006150ce0e8ab94ef9c0b96f2241a77156685", 
+      "venue": "ArXiv", 
+      "year": 2016
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "1d5fe82303712a70c1d231ead2ee03f042d8ad70", 
+      "title": "ImageNet pre-trained models with batch normalization", 
+      "url": "https://www.semanticscholar.org/paper/1d5fe82303712a70c1d231ead2ee03f042d8ad70", 
+      "venue": "ArXiv", 
+      "year": 2016
+    }, 
+    {
+      "isInfluential": true, 
+      "paperId": "3240c9359061edf7a06bfeb7cc20c103a65904c2", 
+      "title": "PPR-FCN: Weakly Supervised Visual Relation Detection via Parallel Pairwise R-FCN", 
+      "url": "https://www.semanticscholar.org/paper/3240c9359061edf7a06bfeb7cc20c103a65904c2", 
+      "venue": "", 
+      "year": 2017
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "1883116d33a3e0321d2fe96e0a8a62546aca4ee9", 
+      "title": "Visual Question Answering: Datasets, Algorithms, and Future Challenges", 
+      "url": "https://www.semanticscholar.org/paper/1883116d33a3e0321d2fe96e0a8a62546aca4ee9", 
+      "venue": "ArXiv", 
+      "year": 2016
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "cb3e81b912f24e66d91509e8ab41d09b522a397a", 
+      "title": "Beyond instance-level image retrieval: Leveraging captions to learn a global visual representation for semantic retrieval", 
+      "url": "https://www.semanticscholar.org/paper/cb3e81b912f24e66d91509e8ab41d09b522a397a", 
+      "venue": "", 
+      "year": null
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "428818a9edfb547431be6d7ec165c6af576c83d5", 
+      "title": "Recurrent Topic-Transition GAN for Visual Paragraph Generation", 
+      "url": "https://www.semanticscholar.org/paper/428818a9edfb547431be6d7ec165c6af576c83d5", 
+      "venue": "ArXiv", 
+      "year": 2017
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "59d747ae8db1a4e84f74af53f25bc92d0d7f01fc", 
+      "title": "Visually Grounded Word Embeddings and Richer Visual Features for Improving Multimodal Neural Machine Translation", 
+      "url": "https://www.semanticscholar.org/paper/59d747ae8db1a4e84f74af53f25bc92d0d7f01fc", 
+      "venue": "ArXiv", 
+      "year": 2017
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "f4a9647a9ffc7723a51448003f70cff356c7d2c6", 
+      "title": "Beyond Bilinear: Generalized Multi-modal Factorized High-order Pooling for Visual Question Answering", 
+      "url": "https://www.semanticscholar.org/paper/f4a9647a9ffc7723a51448003f70cff356c7d2c6", 
+      "venue": "", 
+      "year": 2017
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "15f91ae7590b88c4a533daeefa4b6fa7c0c277e5", 
+      "title": "Discovering objects and their relations from entangled scene representations", 
+      "url": "https://www.semanticscholar.org/paper/15f91ae7590b88c4a533daeefa4b6fa7c0c277e5", 
+      "venue": "ArXiv", 
+      "year": 2016
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "2f499ef5d4a41502a69a085dd6b4e144009033c4", 
+      "title": "Generating Holistic 3D Scene Abstractions for Text-based Image Retrieval", 
+      "url": "https://www.semanticscholar.org/paper/2f499ef5d4a41502a69a085dd6b4e144009033c4", 
+      "venue": "ArXiv", 
+      "year": 2016
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "7060f6062ba1cbe9502eeaaf13779aa1664224bb", 
+      "title": "A Glimpse Far into the Future: Understanding Long-term Crowd Worker Quality", 
+      "url": "https://www.semanticscholar.org/paper/7060f6062ba1cbe9502eeaaf13779aa1664224bb", 
+      "venue": "CSCW", 
+      "year": 2017
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "968ab65077c4be1c1071120052b2e4b4f3d3c59a", 
+      "title": "\"Seeing is believing: the quest for multimodal knowledge\" by Gerard de Melo and Niket Tandon, with Martin Vesely as coordinator", 
+      "url": "https://www.semanticscholar.org/paper/968ab65077c4be1c1071120052b2e4b4f3d3c59a", 
+      "venue": "SIGWEB Newsletter", 
+      "year": 2016
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "47e52ec494c9eb7dc8c1bddc482f2ee36c992b08", 
+      "title": "Progressive Attention Networks for Visual Attribute Prediction", 
+      "url": "https://www.semanticscholar.org/paper/47e52ec494c9eb7dc8c1bddc482f2ee36c992b08", 
+      "venue": "", 
+      "year": 2016
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "f9168f71c48cdab5af8b84adf9f7a4b6b04defda", 
+      "title": "Deep Interactive Region Segmentation and Captioning", 
+      "url": "https://www.semanticscholar.org/paper/f9168f71c48cdab5af8b84adf9f7a4b6b04defda", 
+      "venue": "ArXiv", 
+      "year": 2017
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "7fda1edac608bc67e55ac3d7c9dc5a542d8f8aee", 
+      "title": "Multimodal Compact Bilinear Pooling for Visual Question Answering and Visual Grounding", 
+      "url": "https://www.semanticscholar.org/paper/7fda1edac608bc67e55ac3d7c9dc5a542d8f8aee", 
+      "venue": "EMNLP", 
+      "year": 2016
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "3ade65c32f751ae3d656912cc69ff5414db82d0d", 
+      "title": "Flickr30k Entities: Collecting Region-to-Phrase Correspondences for Richer Image-to-Sentence Models", 
+      "url": "https://www.semanticscholar.org/paper/3ade65c32f751ae3d656912cc69ff5414db82d0d", 
+      "venue": "International Journal of Computer Vision", 
+      "year": 2015
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "15febdd39e91718cba8a67bee2fce42ffae59668", 
+      "title": "A Hierarchical Approach for Generating Descriptive Image Paragraphs", 
+      "url": "https://www.semanticscholar.org/paper/15febdd39e91718cba8a67bee2fce42ffae59668", 
+      "venue": "ArXiv", 
+      "year": 2016
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "1780537456e59f6ba39d107888986a21fcd46c9c", 
+      "title": "Dense Captioning with Joint Inference and Visual Context", 
+      "url": "https://www.semanticscholar.org/paper/1780537456e59f6ba39d107888986a21fcd46c9c", 
+      "venue": "ArXiv", 
+      "year": 2016
+    }, 
+    {
+      "isInfluential": true, 
+      "paperId": "92dd82cd1e6eef95c9c4b62b1d8524f572638130", 
+      "title": "Weakly-supervised learning of visual relations", 
+      "url": "https://www.semanticscholar.org/paper/92dd82cd1e6eef95c9c4b62b1d8524f572638130", 
+      "venue": "ArXiv", 
+      "year": 2017
+    }, 
+    {
+      "isInfluential": true, 
+      "paperId": "107c5030f2c55e0a7cf4c6159cbbd4f719b0d9fb", 
+      "title": "ViP-CNN: A Visual Phrase Reasoning Convolutional Neural Network for Visual Relationship Detection", 
+      "url": "https://www.semanticscholar.org/paper/107c5030f2c55e0a7cf4c6159cbbd4f719b0d9fb", 
+      "venue": "ArXiv", 
+      "year": 2017
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "6edb41364802b0fdd1e3e98d644fe78b1ecbbe45", 
+      "title": "Understanding Image and Text Simultaneously: a Dual Vision-Language Machine Comprehension Task", 
+      "url": "https://www.semanticscholar.org/paper/6edb41364802b0fdd1e3e98d644fe78b1ecbbe45", 
+      "venue": "ArXiv", 
+      "year": 2016
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "d182c6d9ac4777b5ad73afdd64b7b68d76037212", 
+      "title": "Aligned Image-Word Representations Improve Inductive Transfer Across Vision-Language Tasks", 
+      "url": "https://www.semanticscholar.org/paper/d182c6d9ac4777b5ad73afdd64b7b68d76037212", 
+      "venue": "ArXiv", 
+      "year": 2017
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "115808104b2a9c3ab6e2e60582ab7e33b937b754", 
+      "title": "Visual7W: Grounded Question Answering in Images", 
+      "url": "https://www.semanticscholar.org/paper/115808104b2a9c3ab6e2e60582ab7e33b937b754", 
+      "venue": "2016 IEEE Conference on Computer Vision and Pattern Recognition (CVPR)", 
+      "year": 2016
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "b6ecc8d34ebc8895378abe2b8f35e3a0691f5d26", 
+      "title": "Annotation Methodologies for Vision and Language Dataset Creation", 
+      "url": "https://www.semanticscholar.org/paper/b6ecc8d34ebc8895378abe2b8f35e3a0691f5d26", 
+      "venue": "ArXiv", 
+      "year": 2016
+    }, 
+    {
+      "isInfluential": true, 
+      "paperId": "38c31e939f8b6d4bd6366a94d276513cfb5f632f", 
+      "title": "Learning and reasoning in logic tensor networks: theory and application to semantic image interpretation", 
+      "url": "https://www.semanticscholar.org/paper/38c31e939f8b6d4bd6366a94d276513cfb5f632f", 
+      "venue": "SAC", 
+      "year": 2017
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "4f3417e73528025a5429547814e5a2fd91deb818", 
+      "title": "Learning from Collective Intelligence: Feature Learning Using Social Images and Tags", 
+      "url": "https://www.semanticscholar.org/paper/4f3417e73528025a5429547814e5a2fd91deb818", 
+      "venue": "TOMCCAP", 
+      "year": 2016
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "2c3b83b2282cdc19485912c22e0ddac58a53da28", 
+      "title": "OBJ2TEXT: Generating Visually Descriptive Language from Object Layouts", 
+      "url": "https://www.semanticscholar.org/paper/2c3b83b2282cdc19485912c22e0ddac58a53da28", 
+      "venue": "ArXiv", 
+      "year": 2017
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "1ac6a33f04f6c5a8084c15c85295f987cc8e3d72", 
+      "title": "FVQA: Fact-based Visual Question Answering", 
+      "url": "https://www.semanticscholar.org/paper/1ac6a33f04f6c5a8084c15c85295f987cc8e3d72", 
+      "venue": "ArXiv", 
+      "year": 2016
+    }, 
+    {
+      "isInfluential": true, 
+      "paperId": "578a39d2584128da4b54b0914c0ae72df5d7bc23", 
+      "title": "Multi-level Attention Networks for Visual Question Answering\u2217", 
+      "url": "https://www.semanticscholar.org/paper/578a39d2584128da4b54b0914c0ae72df5d7bc23", 
+      "venue": "", 
+      "year": 2017
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "2e62e24319c1c0d6a61a81a17cc6f2e4d057115c", 
+      "title": "Situation Recognition with Graph Neural Networks", 
+      "url": "https://www.semanticscholar.org/paper/2e62e24319c1c0d6a61a81a17cc6f2e4d057115c", 
+      "venue": "", 
+      "year": 2017
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "65c978a97f54cf255f01c6846d6c51b37c61f836", 
+      "title": "A Glimpse Far into the Future: Understanding Long-term Crowd Worker Accuracy", 
+      "url": "https://www.semanticscholar.org/paper/65c978a97f54cf255f01c6846d6c51b37c61f836", 
+      "venue": "ArXiv", 
+      "year": 2016
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "38525bca4b1c5f9b8108743f57fd468492713bca", 
+      "title": "A Joint Speaker-Listener-Reinforcer Model for Referring Expressions", 
+      "url": "https://www.semanticscholar.org/paper/38525bca4b1c5f9b8108743f57fd468492713bca", 
+      "venue": "ArXiv", 
+      "year": 2016
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "12441a74e709ddab53f9039cf507491df7b3840a", 
+      "title": "SCA-CNN: Spatial and Channel-wise Attention in Convolutional Networks for Image Captioning", 
+      "url": "https://www.semanticscholar.org/paper/12441a74e709ddab53f9039cf507491df7b3840a", 
+      "venue": "ArXiv", 
+      "year": 2016
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "1b7a7d291235e4b6e5f97722124070feb26f3cc1", 
+      "title": "Learning Two-Branch Neural Networks for Image-Text Matching Tasks", 
+      "url": "https://www.semanticscholar.org/paper/1b7a7d291235e4b6e5f97722124070feb26f3cc1", 
+      "venue": "ArXiv", 
+      "year": 2017
+    }, 
+    {
+      "isInfluential": true, 
+      "paperId": "18c57ddc9c0164ee792661f43a5578f7a00d0330", 
+      "title": "ChestX-ray8: Hospital-scale Chest X-ray Database and Benchmarks on Weakly-Supervised Classification and Localization of Common Thorax Diseases", 
+      "url": "https://www.semanticscholar.org/paper/18c57ddc9c0164ee792661f43a5578f7a00d0330", 
+      "venue": "ArXiv", 
+      "year": 2017
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "37b207d2c4a82a57f80e96353f79ecd71320a854", 
+      "title": "Person Search with Natural Language Description", 
+      "url": "https://www.semanticscholar.org/paper/37b207d2c4a82a57f80e96353f79ecd71320a854", 
+      "venue": "ArXiv", 
+      "year": 2017
+    }, 
+    {
+      "isInfluential": true, 
+      "paperId": "322bb56c7dc655c6c4f8e59731d8f32d9a8b4c09", 
+      "title": "Ask Your Neurons: A Deep Learning Approach to Visual Question Answering", 
+      "url": "https://www.semanticscholar.org/paper/322bb56c7dc655c6c4f8e59731d8f32d9a8b4c09", 
+      "venue": "ArXiv", 
+      "year": 2016
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "4bc8d9c49ea46644b2b2b7808b740ec2b808070f", 
+      "title": "An Analysis of Action Recognition Datasets for Language and Vision Tasks", 
+      "url": "https://www.semanticscholar.org/paper/4bc8d9c49ea46644b2b2b7808b740ec2b808070f", 
+      "venue": "ACL", 
+      "year": 2017
+    }, 
+    {
+      "isInfluential": true, 
+      "paperId": "8d8f1274d02b452998266ee3b912c7d856f127fd", 
+      "title": "Deep Variation-structured Reinforcement Learning for Visual Relationship and Attribute Detection", 
+      "url": "https://www.semanticscholar.org/paper/8d8f1274d02b452998266ee3b912c7d856f127fd", 
+      "venue": "ArXiv", 
+      "year": 2017
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "4a20c069a98e13f4bb93f27a829a87a75925d0e5", 
+      "title": "SPICE: Semantic Propositional Image Caption Evaluation", 
+      "url": "https://www.semanticscholar.org/paper/4a20c069a98e13f4bb93f27a829a87a75925d0e5", 
+      "venue": "ECCV", 
+      "year": 2016
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "03eb382e04cca8cca743f7799070869954f1402a", 
+      "title": "CLEVR: A Diagnostic Dataset for Compositional Language and Elementary Visual Reasoning", 
+      "url": "https://www.semanticscholar.org/paper/03eb382e04cca8cca743f7799070869954f1402a", 
+      "venue": "ArXiv", 
+      "year": 2016
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "84c95a8db377c25d4280f188e9477569ab57281b", 
+      "title": "Crowdsourcing in Computer Vision", 
+      "url": "https://www.semanticscholar.org/paper/84c95a8db377c25d4280f188e9477569ab57281b", 
+      "venue": "Foundations and Trends in Computer Graphics and Vision", 
+      "year": 2016
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "936227f7483938097cc1cdd3032016df54dbd5b6", 
+      "title": "Learning to generalize to new compositions in image understanding", 
+      "url": "https://www.semanticscholar.org/paper/936227f7483938097cc1cdd3032016df54dbd5b6", 
+      "venue": "ArXiv", 
+      "year": 2016
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "eb2d1d406405537773e70f7e949df656ee8779aa", 
+      "title": "ShapeLearner: Towards Shape-Based Visual Knowledge Harvesting", 
+      "url": "https://www.semanticscholar.org/paper/eb2d1d406405537773e70f7e949df656ee8779aa", 
+      "venue": "ECAI", 
+      "year": 2016
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "65ffc47612a4387c408d5d46fc1a2743e52eac0b", 
+      "title": "MUTAN: Multimodal Tucker Fusion for Visual Question Answering", 
+      "url": "https://www.semanticscholar.org/paper/65ffc47612a4387c408d5d46fc1a2743e52eac0b", 
+      "venue": "ArXiv", 
+      "year": 2017
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "4066f186ff58d300090c652925ed0aed3355efec", 
+      "title": "Solving Visual Madlibs with Multiple Cues", 
+      "url": "https://www.semanticscholar.org/paper/4066f186ff58d300090c652925ed0aed3355efec", 
+      "venue": "BMVC", 
+      "year": 2016
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "f25b9aed37614aae007fc876f31eed0595ab9cd0", 
+      "title": "Modeling Context Between Objects for Referring Expression Understanding", 
+      "url": "https://www.semanticscholar.org/paper/f25b9aed37614aae007fc876f31eed0595ab9cd0", 
+      "venue": "ECCV", 
+      "year": 2016
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "85e283564fca1d1cf4d142647561901a26f144c6", 
+      "title": "On the Origin of Deep Learning", 
+      "url": "https://www.semanticscholar.org/paper/85e283564fca1d1cf4d142647561901a26f144c6", 
+      "venue": "ArXiv", 
+      "year": 2017
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "28b72ad9229f38ec61f950e1d794d6af070d1800", 
+      "title": "Zero-shot Object Prediction using Semantic Scene Knowledge", 
+      "url": "https://www.semanticscholar.org/paper/28b72ad9229f38ec61f950e1d794d6af070d1800", 
+      "venue": "VISIGRAPP", 
+      "year": 2017
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "82ab819815c86e85128a2a055a0c0fcd1146b696", 
+      "title": "Sampled Image Tagging and Retrieval Methods on User Generated Content", 
+      "url": "https://www.semanticscholar.org/paper/82ab819815c86e85128a2a055a0c0fcd1146b696", 
+      "venue": "ArXiv", 
+      "year": 2016
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "62aaa33c46a7c4c2d8a80c81954101576200799d", 
+      "title": "Making the V in VQA Matter: Elevating the Role of Image Understanding in Visual Question Answering", 
+      "url": "https://www.semanticscholar.org/paper/62aaa33c46a7c4c2d8a80c81954101576200799d", 
+      "venue": "ArXiv", 
+      "year": 2016
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "561ed7e47524fb3218e6a38f41cd877a9c33d3b9", 
+      "title": "StyleNet: Generating Attractive Visual Captions with Styles", 
+      "url": "https://www.semanticscholar.org/paper/561ed7e47524fb3218e6a38f41cd877a9c33d3b9", 
+      "venue": "", 
+      "year": 2017
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "01efec88d36070dc3bc49f341a77476f74d373bc", 
+      "title": "Generation and Comprehension of Unambiguous Object Descriptions", 
+      "url": "https://www.semanticscholar.org/paper/01efec88d36070dc3bc49f341a77476f74d373bc", 
+      "venue": "2016 IEEE Conference on Computer Vision and Pattern Recognition (CVPR)", 
+      "year": 2016
+    }, 
+    {
+      "isInfluential": true, 
+      "paperId": "0a57d06122d7c5bc133bc6224cc667a0af652214", 
+      "title": "Learning Object Interactions and Descriptions for Semantic Image Segmentation", 
+      "url": "https://www.semanticscholar.org/paper/0a57d06122d7c5bc133bc6224cc667a0af652214", 
+      "venue": "", 
+      "year": null
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "a0d8f3429d442920f2ee37c151006a4d802f90dc", 
+      "title": "Learning 3D Scene Synthesis from Annotated RGB-D Images", 
+      "url": "https://www.semanticscholar.org/paper/a0d8f3429d442920f2ee37c151006a4d802f90dc", 
+      "venue": "Comput. Graph. Forum", 
+      "year": 2016
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "19150b001031cc6d964e83cd28553004f653cc24", 
+      "title": "Visual Relationship Detection with Language Priors", 
+      "url": "https://www.semanticscholar.org/paper/19150b001031cc6d964e83cd28553004f653cc24", 
+      "venue": "ECCV", 
+      "year": 2016
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "8a8224266b8ab1483f6548307ab96227147f34da", 
+      "title": "Zero-Shot Visual Question Answering", 
+      "url": "https://www.semanticscholar.org/paper/8a8224266b8ab1483f6548307ab96227147f34da", 
+      "venue": "ArXiv", 
+      "year": 2016
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "30aac3becead355545b5ab7f0c3158040360021e", 
+      "title": "ACD: Action Concept Discovery from Image-Sentence Corpora", 
+      "url": "https://www.semanticscholar.org/paper/30aac3becead355545b5ab7f0c3158040360021e", 
+      "venue": "ICMR", 
+      "year": 2016
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "e09e5df3e7062340d1104736885ae8a8daa07ea2", 
+      "title": "Data-efficient Deep Learning for RGB-D Object Perception in Cluttered Bin Picking", 
+      "url": "https://www.semanticscholar.org/paper/e09e5df3e7062340d1104736885ae8a8daa07ea2", 
+      "venue": "", 
+      "year": 2017
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "4ed613b6f0427d3ec4cad6c51dcc451786812959", 
+      "title": "Spatio-Temporal Attention Models for Grounded Video Captioning", 
+      "url": "https://www.semanticscholar.org/paper/4ed613b6f0427d3ec4cad6c51dcc451786812959", 
+      "venue": "ACCV", 
+      "year": 2016
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "5e16cc5dc7ef8b4fc1320abbfeb838b4fe041905", 
+      "title": "A Proposal for Common Dataset in Neural-Symbolic Reasoning Studies", 
+      "url": "https://www.semanticscholar.org/paper/5e16cc5dc7ef8b4fc1320abbfeb838b4fe041905", 
+      "venue": "NeSy@HLAI", 
+      "year": 2016
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "97265d64859e06900c11ae5bb5f03f3bd265f858", 
+      "title": "Multi-Label Image Classification with Regional Latent Semantic Dependencies", 
+      "url": "https://www.semanticscholar.org/paper/97265d64859e06900c11ae5bb5f03f3bd265f858", 
+      "venue": "ArXiv", 
+      "year": 2016
+    }, 
+    {
+      "isInfluential": true, 
+      "paperId": "db9586740d556c1e406e9dd798b51464a03731e5", 
+      "title": "ViP-CNN: Visual Phrase Guided Convolutional Neural Network", 
+      "url": "https://www.semanticscholar.org/paper/db9586740d556c1e406e9dd798b51464a03731e5", 
+      "venue": "", 
+      "year": null
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "0d6d4ca59fe1fa6dbb794c60bbda0cac69289bc8", 
+      "title": "Graph-Structured Representations for Visual Question Answering", 
+      "url": "https://www.semanticscholar.org/paper/0d6d4ca59fe1fa6dbb794c60bbda0cac69289bc8", 
+      "venue": "ArXiv", 
+      "year": 2016
+    }, 
+    {
+      "isInfluential": true, 
+      "paperId": "caf36ebfe947b911b247905f3995b46a8c635892", 
+      "title": "Scene Graph Generation from Objects, Phrases and Caption Regions", 
+      "url": "https://www.semanticscholar.org/paper/caf36ebfe947b911b247905f3995b46a8c635892", 
+      "venue": "ArXiv", 
+      "year": 2017
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "b6397f818f67faad6a36de8480212f6e7e82e71c", 
+      "title": "Tag Prediction at Flickr: a View from the Darkroom", 
+      "url": "https://www.semanticscholar.org/paper/b6397f818f67faad6a36de8480212f6e7e82e71c", 
+      "venue": "ArXiv", 
+      "year": 2016
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "0d1a1394f924b1ff9eca1a94fdba6bd9b4f619ac", 
+      "title": "Learning Action Concept Trees and Semantic Alignment Networks from Image-Description Data", 
+      "url": "https://www.semanticscholar.org/paper/0d1a1394f924b1ff9eca1a94fdba6bd9b4f619ac", 
+      "venue": "ACCV", 
+      "year": 2016
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "792305a1febd4ac6173fd86164990461a832664f", 
+      "title": "Modeling Relationships in Referential Expressions with Compositional Modular Networks", 
+      "url": "https://www.semanticscholar.org/paper/792305a1febd4ac6173fd86164990461a832664f", 
+      "venue": "ArXiv", 
+      "year": 2016
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "307189f550287c3e7d34f0adb69bd156bcdd8af4", 
+      "title": "The Amazing Mysteries of the Gutter: Drawing Inferences Between Panels in Comic Book Narratives", 
+      "url": "https://www.semanticscholar.org/paper/307189f550287c3e7d34f0adb69bd156bcdd8af4", 
+      "venue": "ArXiv", 
+      "year": 2016
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "fd352026ae4042f69bc9183f3606bc2725ad325d", 
+      "title": "Pixels to Graphs by Associative Embedding", 
+      "url": "https://www.semanticscholar.org/paper/fd352026ae4042f69bc9183f3606bc2725ad325d", 
+      "venue": "ArXiv", 
+      "year": 2017
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "91df860368cbcebebd83d59ae1670c0f47de171d", 
+      "title": "COCO Attributes: Attributes for People, Animals, and Objects", 
+      "url": "https://www.semanticscholar.org/paper/91df860368cbcebebd83d59ae1670c0f47de171d", 
+      "venue": "ECCV", 
+      "year": 2016
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "0910a4c470a410fac446f4026f7c8ef512ae7427", 
+      "title": "Hierarchical Question-Image Co-Attention for Visual Question Answering", 
+      "url": "https://www.semanticscholar.org/paper/0910a4c470a410fac446f4026f7c8ef512ae7427", 
+      "venue": "NIPS", 
+      "year": 2016
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "60b1d62a3080a775894396301cc51505a8022c67", 
+      "title": "SPEECH-COCO: 600k Visually Grounded Spoken Captions Aligned to MSCOCO Data Set", 
+      "url": "https://www.semanticscholar.org/paper/60b1d62a3080a775894396301cc51505a8022c67", 
+      "venue": "ArXiv", 
+      "year": 2017
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "fc450e42aa2a491ff0afda144718d4f73d4d89f2", 
+      "title": "An Analysis of Visual Question Answering Algorithms", 
+      "url": "https://www.semanticscholar.org/paper/fc450e42aa2a491ff0afda144718d4f73d4d89f2", 
+      "venue": "ArXiv", 
+      "year": 2017
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "12811f1dc14c9377903d4c814e112071118071a5", 
+      "title": "I Have Seen Enough: Transferring Parts Across Categories", 
+      "url": "https://www.semanticscholar.org/paper/12811f1dc14c9377903d4c814e112071118071a5", 
+      "venue": "BMVC", 
+      "year": 2016
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "173a38768848cfe57a6b20b5ae019ce613e58781", 
+      "title": "Knowledge Acquisition for Visual Question Answering via Iterative Querying", 
+      "url": "https://www.semanticscholar.org/paper/173a38768848cfe57a6b20b5ae019ce613e58781", 
+      "venue": "", 
+      "year": 2017
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "6e60536c847ac25dba4c1c071e0355e5537fe061", 
+      "title": "Computer Vision and Natural Language Processing: Recent Approaches in Multimedia and Robotics", 
+      "url": "https://www.semanticscholar.org/paper/6e60536c847ac25dba4c1c071e0355e5537fe061", 
+      "venue": "ACM Comput. Surv.", 
+      "year": 2016
+    }, 
+    {
+      "isInfluential": true, 
+      "paperId": "11d256be1eb3da7789c0c9672f467079917baada", 
+      "title": "Action Classification via Concepts and Attributes", 
+      "url": "https://www.semanticscholar.org/paper/11d256be1eb3da7789c0c9672f467079917baada", 
+      "venue": "ArXiv", 
+      "year": 2016
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "ae97dcdd096b734456fd9266a40703dc40245d64", 
+      "title": "Measuring and Predicting Tag Importance for Image Retrieval", 
+      "url": "https://www.semanticscholar.org/paper/ae97dcdd096b734456fd9266a40703dc40245d64", 
+      "venue": "IEEE transactions on pattern analysis and machine intelligence", 
+      "year": 2017
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "cbe6739ecdb23d61f2ff74481c6b538ef953eb10", 
+      "title": "Learning to Learn: Model Regression Networks for Easy Small Sample Learning", 
+      "url": "https://www.semanticscholar.org/paper/cbe6739ecdb23d61f2ff74481c6b538ef953eb10", 
+      "venue": "ECCV", 
+      "year": 2016
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "6128190a8c18cde6b94e0fae934d6fcc406ea0bb", 
+      "title": "STAIR Captions: Constructing a Large-Scale Japanese Image Caption Dataset", 
+      "url": "https://www.semanticscholar.org/paper/6128190a8c18cde6b94e0fae934d6fcc406ea0bb", 
+      "venue": "ACL", 
+      "year": 2017
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "189b73b11634e4ce5268006ba74646cb0b4fa754", 
+      "title": "Linear Spectral Clustering Superpixel", 
+      "url": "https://www.semanticscholar.org/paper/189b73b11634e4ce5268006ba74646cb0b4fa754", 
+      "venue": "IEEE Transactions on Image Processing", 
+      "year": 2017
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "7f201b4226d62bf449a68ebcc159acf8b95289be", 
+      "title": "PinterNet: A thematic label curation tool for large image datasets", 
+      "url": "https://www.semanticscholar.org/paper/7f201b4226d62bf449a68ebcc159acf8b95289be", 
+      "venue": "2016 IEEE International Conference on Big Data (Big Data)", 
+      "year": 2016
+    }, 
+    {
+      "isInfluential": true, 
+      "paperId": "0e36ada8cb9c91f07c9dcaf196d036564e117536", 
+      "title": "Much Ado About Time: Exhaustive Annotation of Temporal Data", 
+      "url": "https://www.semanticscholar.org/paper/0e36ada8cb9c91f07c9dcaf196d036564e117536", 
+      "venue": "ArXiv", 
+      "year": 2016
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "279ca518d744d71ccc31735b890853c59c2517ba", 
+      "title": "Relationship Proposal Networks", 
+      "url": "https://www.semanticscholar.org/paper/279ca518d744d71ccc31735b890853c59c2517ba", 
+      "venue": "", 
+      "year": null
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "6fba4968f1b39d490bf95fe4030e3d385f167074", 
+      "title": "Machine Learning with World Knowledge: The Position and Survey", 
+      "url": "https://www.semanticscholar.org/paper/6fba4968f1b39d490bf95fe4030e3d385f167074", 
+      "venue": "ArXiv", 
+      "year": 2017
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "88c307c51594c6d802080a0780d0d654e2e2891f", 
+      "title": "Visual Question Answering: A Survey of Methods and Datasets", 
+      "url": "https://www.semanticscholar.org/paper/88c307c51594c6d802080a0780d0d654e2e2891f", 
+      "venue": "ArXiv", 
+      "year": 2016
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "129821afe53d958c451c1f7a18ccd43c7c61e1d2", 
+      "title": "Unsupervised Incremental Learning of Deep Descriptors From Video Streams", 
+      "url": "https://www.semanticscholar.org/paper/129821afe53d958c451c1f7a18ccd43c7c61e1d2", 
+      "venue": "", 
+      "year": 2017
+    }, 
+    {
+      "isInfluential": true, 
+      "paperId": "5fa1724a79a9f7090c54925f6ac52f1697d6b570", 
+      "title": "The Development of Multimodal Lexical Resources", 
+      "url": "https://www.semanticscholar.org/paper/5fa1724a79a9f7090c54925f6ac52f1697d6b570", 
+      "venue": "", 
+      "year": 2016
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "19fc4ed3a7ccb7c7f5d05bcb116e7b0b939a3b3f", 
+      "title": "Dense-Captioning Events in Videos", 
+      "url": "https://www.semanticscholar.org/paper/19fc4ed3a7ccb7c7f5d05bcb116e7b0b939a3b3f", 
+      "venue": "ArXiv", 
+      "year": 2017
+    }
+  ], 
+  "doi": "10.1007/s11263-016-0981-7", 
+  "influentialCitationCount": 26, 
+  "paperId": "77863fb985fa0fa4036a85ee07e6e1bce4f0c15d", 
+  "references": [
+    {
+      "isInfluential": false, 
+      "paperId": "1b1b15c10a3e068331a32c5717da21fbd9a5ba7e", 
+      "title": "A Template-Based Approach Toward Acquisition of Logical Sentences", 
+      "url": "https://www.semanticscholar.org/paper/1b1b15c10a3e068331a32c5717da21fbd9a5ba7e", 
+      "venue": "Intelligent Information Processing", 
+      "year": 2002
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "2606e6a5759c030e259ebf3f4261b9c04a36a609", 
+      "title": "Generating Semantically Precise Scene Graphs from Textual Descriptions for Improved Image Retrieval", 
+      "url": "https://www.semanticscholar.org/paper/2606e6a5759c030e259ebf3f4261b9c04a36a609", 
+      "venue": "", 
+      "year": 2015
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "9cd0d813dcde1ae7fad7a69251d338d9b1fa1240", 
+      "title": "Learning semantic relationships for better action retrieval in images", 
+      "url": "https://www.semanticscholar.org/paper/9cd0d813dcde1ae7fad7a69251d338d9b1fa1240", 
+      "venue": "", 
+      "year": 2014
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "313c782f18bb01933668dce56003553b49d1fc44", 
+      "title": "SUN database: Large-scale scene recognition from abbey to zoo", 
+      "url": "https://www.semanticscholar.org/paper/313c782f18bb01933668dce56003553b49d1fc44", 
+      "venue": "2010 IEEE Computer Society Conference on Computer Vision and Pattern Recognition", 
+      "year": 2010
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "131125a5aadb48ec3eceb404cedbff713c401feb", 
+      "title": "Building a Large-scale Multimodal Knowledge Base System for Answering Visual Queries", 
+      "url": "https://www.semanticscholar.org/paper/131125a5aadb48ec3eceb404cedbff713c401feb", 
+      "venue": "", 
+      "year": 2015
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "123b9de009865472c660192f8072493a48352dc2", 
+      "title": "Phrase-based Image Captioning", 
+      "url": "https://www.semanticscholar.org/paper/123b9de009865472c660192f8072493a48352dc2", 
+      "venue": "ICML", 
+      "year": 2015
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "22b1b9a0d3df813ba5912d457d8f366e7a0a273c", 
+      "title": "Learning Visual Attributes", 
+      "url": "https://www.semanticscholar.org/paper/22b1b9a0d3df813ba5912d457d8f366e7a0a273c", 
+      "venue": "NIPS", 
+      "year": 2007
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "6ef1996563835b4dfb7fda1d14abe01c8bd24a05", 
+      "title": "Nonparametric Part Transfer for Fine-Grained Recognition", 
+      "url": "https://www.semanticscholar.org/paper/6ef1996563835b4dfb7fda1d14abe01c8bd24a05", 
+      "venue": "2014 IEEE Conference on Computer Vision and Pattern Recognition", 
+      "year": 2014
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "5e0f8c355a37a5a89351c02f174e7a5ddcb98683", 
+      "title": "Microsoft COCO: Common Objects in Context", 
+      "url": "https://www.semanticscholar.org/paper/5e0f8c355a37a5a89351c02f174e7a5ddcb98683", 
+      "venue": "ECCV", 
+      "year": 2014
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "1646f2232ebec71cf5d3c8b5274d655274a74de4", 
+      "title": "Qualitative Process Theory", 
+      "url": "https://www.semanticscholar.org/paper/1646f2232ebec71cf5d3c8b5274d655274a74de4", 
+      "venue": "Artif. Intell.", 
+      "year": 1984
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "2c00bbc530200bc4b55a9b70c11b3bbd42113d9a", 
+      "title": "Elementary: Large-Scale Knowledge-Base Construction via Machine Learning and Statistical Inference", 
+      "url": "https://www.semanticscholar.org/paper/2c00bbc530200bc4b55a9b70c11b3bbd42113d9a", 
+      "venue": "Int. J. Semantic Web Inf. Syst.", 
+      "year": 2012
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "aaded7d1d68ff6b60992790fd498eb381b5a6526", 
+      "title": "Pedestrian Detection: An Evaluation of the State of the Art", 
+      "url": "https://www.semanticscholar.org/paper/aaded7d1d68ff6b60992790fd498eb381b5a6526", 
+      "venue": "IEEE Transactions on Pattern Analysis and Machine Intelligence", 
+      "year": 2012
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "0566bf06a0368b518b8b474166f7b1dfef3f9283", 
+      "title": "Learning to detect unseen object classes by between-class attribute transfer", 
+      "url": "https://www.semanticscholar.org/paper/0566bf06a0368b518b8b474166f7b1dfef3f9283", 
+      "venue": "2009 IEEE Conference on Computer Vision and Pattern Recognition", 
+      "year": 2009
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "0ee1916a0cb2dc7d3add086b5f1092c3d4beb38a", 
+      "title": "The Pascal Visual Object Classes (VOC) Challenge", 
+      "url": "https://www.semanticscholar.org/paper/0ee1916a0cb2dc7d3add086b5f1092c3d4beb38a", 
+      "venue": "International Journal of Computer Vision", 
+      "year": 2009
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "010f0f4929e6a6644fb01f0e43820f91d0fad292", 
+      "title": "YFCC100M: the new data in multimedia research", 
+      "url": "https://www.semanticscholar.org/paper/010f0f4929e6a6644fb01f0e43820f91d0fad292", 
+      "venue": "Commun. ACM", 
+      "year": 2016
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "495015d21c26eac9a6bd64c836ee3370283641ec", 
+      "title": "VisKE: Visual knowledge extraction and question answering by visual verification of relation phrases", 
+      "url": "https://www.semanticscholar.org/paper/495015d21c26eac9a6bd64c836ee3370283641ec", 
+      "venue": "2015 IEEE Conference on Computer Vision and Pattern Recognition (CVPR)", 
+      "year": 2015
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "15fa2bd90b93c7c2e882c0227bae3cfe50c4d0a1", 
+      "title": "Learning Generative Visual Models from Few Training Examples: An Incremental Bayesian Approach Tested on 101 Object Categories", 
+      "url": "https://www.semanticscholar.org/paper/15fa2bd90b93c7c2e882c0227bae3cfe50c4d0a1", 
+      "venue": "2004 Conference on Computer Vision and Pattern Recognition Workshop", 
+      "year": 2004
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "009fba8df6bbca155d9e070a9bd8d0959bc693c2", 
+      "title": "Rich Feature Hierarchies for Accurate Object Detection and Semantic Segmentation", 
+      "url": "https://www.semanticscholar.org/paper/009fba8df6bbca155d9e070a9bd8d0959bc693c2", 
+      "venue": "2014 IEEE Conference on Computer Vision and Pattern Recognition", 
+      "year": 2014
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "66a9896d2eaceeb6e648d3582ca4b2a1df600f9a", 
+      "title": "Dependency Tree Kernels for Relation Extraction", 
+      "url": "https://www.semanticscholar.org/paper/66a9896d2eaceeb6e648d3582ca4b2a1df600f9a", 
+      "venue": "ACL", 
+      "year": 2004
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "2e5ebb2ed819b97c6c54570d684576387dc55e93", 
+      "title": "Reasoning about Object Affordances in a Knowledge Base Representation", 
+      "url": "https://www.semanticscholar.org/paper/2e5ebb2ed819b97c6c54570d684576387dc55e93", 
+      "venue": "ECCV", 
+      "year": 2014
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "282cfbfd98f838aa70e9975d9be7c4530f776a92", 
+      "title": "Word sense disambiguation: a survey", 
+      "url": "https://www.semanticscholar.org/paper/282cfbfd98f838aa70e9975d9be7c4530f776a92", 
+      "venue": "ArXiv", 
+      "year": 2015
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "1ba5e13efec49a769b64b40cbd526e7dc9a60820", 
+      "title": "Weakly Supervised Learning of Interactions between Humans and Objects", 
+      "url": "https://www.semanticscholar.org/paper/1ba5e13efec49a769b64b40cbd526e7dc9a60820", 
+      "venue": "IEEE Transactions on Pattern Analysis and Machine Intelligence", 
+      "year": 2012
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "c069629a51f6c1c301eb20ed77bc6b586c24ce32", 
+      "title": "The Caltech-UCSD Birds-200-2011 Dataset", 
+      "url": "https://www.semanticscholar.org/paper/c069629a51f6c1c301eb20ed77bc6b586c24ce32", 
+      "venue": "", 
+      "year": 2011
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "2f5102ec3f70d0dea98c957cc2cab4d15d83a2da", 
+      "title": "The Stanford CoreNLP Natural Language Processing Toolkit", 
+      "url": "https://www.semanticscholar.org/paper/2f5102ec3f70d0dea98c957cc2cab4d15d83a2da", 
+      "venue": "ACL", 
+      "year": 2014
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "9814df8bd00ba999c4d1e305a7e9bca579dc7c75", 
+      "title": "Framing Image Description as a Ranking Task: Data, Models and Evaluation Metrics", 
+      "url": "https://www.semanticscholar.org/paper/9814df8bd00ba999c4d1e305a7e9bca579dc7c75", 
+      "venue": "", 
+      "year": 2013
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "138c86b9283e4f26ff1583acdf4e51a5f88ccad1", 
+      "title": "Observing Human-Object Interactions: Using Spatial and Functional Compatibility for Recognition", 
+      "url": "https://www.semanticscholar.org/paper/138c86b9283e4f26ff1583acdf4e51a5f88ccad1", 
+      "venue": "IEEE Transactions on Pattern Analysis and Machine Intelligence", 
+      "year": 2009
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "76327da3ad7f9c04b7c194ec78d30d11da5b4c34", 
+      "title": "Relation Classification via Convolutional Deep Neural Network", 
+      "url": "https://www.semanticscholar.org/paper/76327da3ad7f9c04b7c194ec78d30d11da5b4c34", 
+      "venue": "COLING", 
+      "year": 2014
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "1a046b70ad8ce974d0cf904d81d31e1491027ed1", 
+      "title": "A Statistical Approach to Texture Classification from Single Images", 
+      "url": "https://www.semanticscholar.org/paper/1a046b70ad8ce974d0cf904d81d31e1491027ed1", 
+      "venue": "International Journal of Computer Vision", 
+      "year": 2004
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "39f3b1804b8df5be645a1dcb4a876e128385d9be", 
+      "title": "Improving the Fisher Kernel for Large-Scale Image Classification", 
+      "url": "https://www.semanticscholar.org/paper/39f3b1804b8df5be645a1dcb4a876e128385d9be", 
+      "venue": "ECCV", 
+      "year": 2010
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "424561d8585ff8ebce7d5d07de8dbf7aae5e7270", 
+      "title": "Faster R-CNN: Towards Real-Time Object Detection with Region Proposal Networks", 
+      "url": "https://www.semanticscholar.org/paper/424561d8585ff8ebce7d5d07de8dbf7aae5e7270", 
+      "venue": "IEEE Transactions on Pattern Analysis and Machine Intelligence", 
+      "year": 2015
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "9d1813749fcb36351fff850f0391968b62fc73b7", 
+      "title": "Introduction to a Large-Scale General Purpose Ground Truth Database: Methodology, Annotation Tool and Benchmarks", 
+      "url": "https://www.semanticscholar.org/paper/9d1813749fcb36351fff850f0391968b62fc73b7", 
+      "venue": "EMMCVPR", 
+      "year": 2007
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "47291646a01c8786abd1b168cb78e6af575f9318", 
+      "title": "AutoExtend: Extending Word Embeddings to Embeddings for Synsets and Lexemes", 
+      "url": "https://www.semanticscholar.org/paper/47291646a01c8786abd1b168cb78e6af575f9318", 
+      "venue": "ACL", 
+      "year": 2015
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "873eb8b91ab953cd7bb09491b2d1851c807033a7", 
+      "title": "Association for Computational Linguistics: Human Language Technologies The Second Joint Conference on Computational and Lexical Semantics SemEval", 
+      "url": "https://www.semanticscholar.org/paper/873eb8b91ab953cd7bb09491b2d1851c807033a7", 
+      "venue": "", 
+      "year": 2013
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "1aec04aa64f165bb075cc4ce6ad79d36c89d62b6", 
+      "title": "Long Short-Term Memory", 
+      "url": "https://www.semanticscholar.org/paper/1aec04aa64f165bb075cc4ce6ad79d36c89d62b6", 
+      "venue": "Neural Computation", 
+      "year": 1997
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "4afa6c2eb552ceef0e396fbfe449932492873034", 
+      "title": "Efficient Estimation of Word Representations in Vector Space", 
+      "url": "https://www.semanticscholar.org/paper/4afa6c2eb552ceef0e396fbfe449932492873034", 
+      "venue": "ArXiv", 
+      "year": 2013
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "04483e2c56695b19f6912b061769eb8c175a5a7a", 
+      "title": "From image descriptions to visual denotations: New similarity metrics for semantic inference over event descriptions", 
+      "url": "https://www.semanticscholar.org/paper/04483e2c56695b19f6912b061769eb8c175a5a7a", 
+      "venue": "TACL", 
+      "year": 2014
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "146f6f6ed688c905fb6e346ad02332efd5464616", 
+      "title": "Show, Attend and Tell: Neural Image Caption Generation with Visual Attention", 
+      "url": "https://www.semanticscholar.org/paper/146f6f6ed688c905fb6e346ad02332efd5464616", 
+      "venue": "ICML", 
+      "year": 2015
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "0280812635f60ceb6beb528af82e300b6aace6bb", 
+      "title": "Understanding Indoor Scenes Using 3D Geometric Phrases", 
+      "url": "https://www.semanticscholar.org/paper/0280812635f60ceb6beb528af82e300b6aace6bb", 
+      "venue": "2013 IEEE Conference on Computer Vision and Pattern Recognition", 
+      "year": 2013
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "27e38351e48fe4b7da2775bf94341738bc4da07e", 
+      "title": "Semantic Compositionality through Recursive Matrix-Vector Spaces", 
+      "url": "https://www.semanticscholar.org/paper/27e38351e48fe4b7da2775bf94341738bc4da07e", 
+      "venue": "EMNLP-CoNLL", 
+      "year": 2012
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "e07f6f2bbfe1527bd64eae531cc5865f53a80728", 
+      "title": "Visual Turing test for computer vision systems.", 
+      "url": "https://www.semanticscholar.org/paper/e07f6f2bbfe1527bd64eae531cc5865f53a80728", 
+      "venue": "Proceedings of the National Academy of Sciences of the United States of America", 
+      "year": 2015
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "3c1e1961db0f0a351d5a4e21cd30bcbd9f88be57", 
+      "title": "Discovering states and transformations in image collections", 
+      "url": "https://www.semanticscholar.org/paper/3c1e1961db0f0a351d5a4e21cd30bcbd9f88be57", 
+      "venue": "2015 IEEE Conference on Computer Vision and Pattern Recognition (CVPR)", 
+      "year": 2015
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "b4f4b0d39fd10baec34d3412d53515f1a4605222", 
+      "title": "Every Picture Tells a Story: Generating Sentences from Images", 
+      "url": "https://www.semanticscholar.org/paper/b4f4b0d39fd10baec34d3412d53515f1a4605222", 
+      "venue": "ECCV", 
+      "year": 2010
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "3fd31544cef124f425cf09ea3de16cd819250e5a", 
+      "title": "Using Corpus Statistics and WordNet Relations for Sense Identification", 
+      "url": "https://www.semanticscholar.org/paper/3fd31544cef124f425cf09ea3de16cd819250e5a", 
+      "venue": "Computational Linguistics", 
+      "year": 1998
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "9039e7ce523fe712cb56008283f158fda6783e3e", 
+      "title": "A Shortest Path Dependency Kernel for Relation Extraction", 
+      "url": "https://www.semanticscholar.org/paper/9039e7ce523fe712cb56008283f158fda6783e3e", 
+      "venue": "HLT/EMNLP", 
+      "year": 2005
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "2e384f057211426ac5922f1b33d2aa8df5d51f57", 
+      "title": "Describing objects by their attributes", 
+      "url": "https://www.semanticscholar.org/paper/2e384f057211426ac5922f1b33d2aa8df5d51f57", 
+      "venue": "2009 IEEE Conference on Computer Vision and Pattern Recognition", 
+      "year": 2009
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "3c43a60f5653310a18b4ba43f528c442488f1644", 
+      "title": "Are You Talking to a Machine? Dataset and Methods for Multilingual Image Question Answering", 
+      "url": "https://www.semanticscholar.org/paper/3c43a60f5653310a18b4ba43f528c442488f1644", 
+      "venue": "ArXiv", 
+      "year": 2015
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "19d3b02185ad36fb0b792f2a15a027c58ac91e8e", 
+      "title": "Im2Text: Describing Images Using 1 Million Captioned Photographs", 
+      "url": "https://www.semanticscholar.org/paper/19d3b02185ad36fb0b792f2a15a027c58ac91e8e", 
+      "venue": "NIPS", 
+      "year": 2011
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "87a937dff0ecffefd8a7e4ca4ce068aca9731a0a", 
+      "title": "Embracing Error to Enable Rapid Crowdsourcing", 
+      "url": "https://www.semanticscholar.org/paper/87a937dff0ecffefd8a7e4ca4ce068aca9731a0a", 
+      "venue": "CHI", 
+      "year": 2016
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "3dd2f70f48588e9bb89f1e5eec7f0d8750dd920a", 
+      "title": "Fast R-CNN", 
+      "url": "https://www.semanticscholar.org/paper/3dd2f70f48588e9bb89f1e5eec7f0d8750dd920a", 
+      "venue": "2015 IEEE International Conference on Computer Vision (ICCV)", 
+      "year": 2015
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "a15b10323ed6f8625908f51eed8023ea69f71c90", 
+      "title": "Image Question Answering: A Visual Semantic Embedding Model and a New Dataset", 
+      "url": "https://www.semanticscholar.org/paper/a15b10323ed6f8625908f51eed8023ea69f71c90", 
+      "venue": "ArXiv", 
+      "year": 2015
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "4c6aa0eb3cc9e159d3b8e686dfc139177950218a", 
+      "title": "We Are Dynamo: Overcoming Stalling and Friction in Collective Action for Crowd Workers", 
+      "url": "https://www.semanticscholar.org/paper/4c6aa0eb3cc9e159d3b8e686dfc139177950218a", 
+      "venue": "CHI", 
+      "year": 2015
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "40614596ea5ae9ac78a88bed0419366831f9715e", 
+      "title": "NEIL: Extracting Visual Knowledge from Web Data", 
+      "url": "https://www.semanticscholar.org/paper/40614596ea5ae9ac78a88bed0419366831f9715e", 
+      "venue": "2013 IEEE International Conference on Computer Vision", 
+      "year": 2013
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "50bc8a4e7e6ab9837c6244b29ff800f523494d65", 
+      "title": "Learning to Answer Questions from Image Using Convolutional Neural Network", 
+      "url": "https://www.semanticscholar.org/paper/50bc8a4e7e6ab9837c6244b29ff800f523494d65", 
+      "venue": "AAAI", 
+      "year": 2016
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "68cd1c7c0651b116a83abab8a7a46a29975d3b5f", 
+      "title": "Exploring Various Knowledge in Relation Extraction", 
+      "url": "https://www.semanticscholar.org/paper/68cd1c7c0651b116a83abab8a7a46a29975d3b5f", 
+      "venue": "ACL", 
+      "year": 2005
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "7152ef7c21b7c2981422044cc36bed84d32cb2f9", 
+      "title": "80 Million Tiny Images: A Large Data Set for Nonparametric Object and Scene Recognition", 
+      "url": "https://www.semanticscholar.org/paper/7152ef7c21b7c2981422044cc36bed84d32cb2f9", 
+      "venue": "IEEE Transactions on Pattern Analysis and Machine Intelligence", 
+      "year": 2008
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "5a16ca973bd2969ef1768664d26a6cd910445d96", 
+      "title": "Building Watson: An Overview of the DeepQA Project", 
+      "url": "https://www.semanticscholar.org/paper/5a16ca973bd2969ef1768664d26a6cd910445d96", 
+      "venue": "AI Magazine", 
+      "year": 2010
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "61e9706e1915e1bac8e9c5283ccaab9fb2cc54d0", 
+      "title": "Explain Images with Multimodal Recurrent Neural Networks", 
+      "url": "https://www.semanticscholar.org/paper/61e9706e1915e1bac8e9c5283ccaab9fb2cc54d0", 
+      "venue": "ArXiv", 
+      "year": 2014
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "0c3b4d51d5e64d27439b022c742abe63325ed771", 
+      "title": "Ask Your Neurons: A Neural-Based Approach to Answering Questions about Images", 
+      "url": "https://www.semanticscholar.org/paper/0c3b4d51d5e64d27439b022c742abe63325ed771", 
+      "venue": "2015 IEEE International Conference on Computer Vision (ICCV)", 
+      "year": 2015
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "26196511e307ec89466af06751a66ee2d95b6305", 
+      "title": "Cheap and Fast - But is it Good? Evaluating Non-Expert Annotations for Natural Language Tasks", 
+      "url": "https://www.semanticscholar.org/paper/26196511e307ec89466af06751a66ee2d95b6305", 
+      "venue": "EMNLP", 
+      "year": 2008
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "4931f177eff2bfedb1a1ce510e2ca4c7645d35d0", 
+      "title": "Cognition does not affect perception: Evaluating the evidence for \"top-down\" effects.", 
+      "url": "https://www.semanticscholar.org/paper/4931f177eff2bfedb1a1ce510e2ca4c7645d35d0", 
+      "venue": "The Behavioral and brain sciences", 
+      "year": 2016
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "e8de844fefd54541b71c9823416daa238be65546", 
+      "title": "Recognition using visual phrases", 
+      "url": "https://www.semanticscholar.org/paper/e8de844fefd54541b71c9823416daa238be65546", 
+      "venue": "CVPR", 
+      "year": 2011
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "ac2262101f469154b133dbeece52318692fec205", 
+      "title": "The Senseval-3 English Lexical Sample Task", 
+      "url": "https://www.semanticscholar.org/paper/ac2262101f469154b133dbeece52318692fec205", 
+      "venue": "", 
+      "year": 2004
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "604e9253336d1ee44b3c3c9b59ff4cb72b3f991b", 
+      "title": "StatSnowball: a statistical approach to extracting entity relationships", 
+      "url": "https://www.semanticscholar.org/paper/604e9253336d1ee44b3c3c9b59ff4cb72b3f991b", 
+      "venue": "WWW", 
+      "year": 2009
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "14318685b5959b51d0f1e3db34643eb2855dc6d9", 
+      "title": "Going deeper with convolutions", 
+      "url": "https://www.semanticscholar.org/paper/14318685b5959b51d0f1e3db34643eb2855dc6d9", 
+      "venue": "2015 IEEE Conference on Computer Vision and Pattern Recognition (CVPR)", 
+      "year": 2015
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "3a4c6777adcdfb613b8f0919f5959776b81e55ca", 
+      "title": "Incorporating Scene Context and Object Layout into Appearance Modeling", 
+      "url": "https://www.semanticscholar.org/paper/3a4c6777adcdfb613b8f0919f5959776b81e55ca", 
+      "venue": "2014 IEEE Conference on Computer Vision and Pattern Recognition", 
+      "year": 2014
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "0c115185dff6ebba359a712346c1bacbef631f78", 
+      "title": "Recognition by association via learning per-exemplar distances", 
+      "url": "https://www.semanticscholar.org/paper/0c115185dff6ebba359a712346c1bacbef631f78", 
+      "venue": "2008 IEEE Conference on Computer Vision and Pattern Recognition", 
+      "year": 2008
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "31a16af75d0526bf92bb9db7ebd38f15b35a2436", 
+      "title": "Beyond Nouns: Exploiting Prepositions and Comparative Adjectives for Learning Visual Classifiers", 
+      "url": "https://www.semanticscholar.org/paper/31a16af75d0526bf92bb9db7ebd38f15b35a2436", 
+      "venue": "ECCV", 
+      "year": 2008
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "5efe5c139ad02dd3c6737b5ea3609c0f25772164", 
+      "title": "Describing Common Human Visual Actions in Images", 
+      "url": "https://www.semanticscholar.org/paper/5efe5c139ad02dd3c6737b5ea3609c0f25772164", 
+      "venue": "BMVC", 
+      "year": 2015
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "069c40a8ca5305c9a0734c1f6134eb19a678f4ab", 
+      "title": "LabelMe: A Database and Web-Based Tool for Image Annotation", 
+      "url": "https://www.semanticscholar.org/paper/069c40a8ca5305c9a0734c1f6134eb19a678f4ab", 
+      "venue": "International Journal of Computer Vision", 
+      "year": 2007
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "370b5757a5379b15e30d619e4d3fb9e8e13f3256", 
+      "title": "Labeled Faces in the Wild: A Database for Studying Face Recognition in Unconstrained Environments", 
+      "url": "https://www.semanticscholar.org/paper/370b5757a5379b15e30d619e4d3fb9e8e13f3256", 
+      "venue": "", 
+      "year": 2007
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "108961c7366e36825ffed94ac9eab603e05b6bc6", 
+      "title": "Deep Visual-Semantic Alignments for Generating Image Descriptions", 
+      "url": "https://www.semanticscholar.org/paper/108961c7366e36825ffed94ac9eab603e05b6bc6", 
+      "venue": "IEEE Transactions on Pattern Analysis and Machine Intelligence", 
+      "year": 2015
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "3455c208504d5dc221732a61ce2b6efb3162f251", 
+      "title": "RMSProp and equilibrated adaptive learning rates for non-convex optimization", 
+      "url": "https://www.semanticscholar.org/paper/3455c208504d5dc221732a61ce2b6efb3162f251", 
+      "venue": "ArXiv", 
+      "year": 2015
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "a58a582b95a07932cb248f1b739e4ad739ead6b9", 
+      "title": "Visual Madlibs: Fill in the blank Image Generation and Question Answering", 
+      "url": "https://www.semanticscholar.org/paper/a58a582b95a07932cb248f1b739e4ad739ead6b9", 
+      "venue": "ArXiv", 
+      "year": 2015
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "9952d4d5717afd4a27157ed8b98b0ee3dcb70d6c", 
+      "title": "ImageNet Classification with Deep Convolutional Neural Networks", 
+      "url": "https://www.semanticscholar.org/paper/9952d4d5717afd4a27157ed8b98b0ee3dcb70d6c", 
+      "venue": "", 
+      "year": 2013
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "051830b0ea58d1568f19ec3297e301d9789c9a76", 
+      "title": "Bringing Semantics into Focus Using Visual Abstraction", 
+      "url": "https://www.semanticscholar.org/paper/051830b0ea58d1568f19ec3297e301d9789c9a76", 
+      "venue": "2013 IEEE Conference on Computer Vision and Pattern Recognition", 
+      "year": 2013
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "36fc694d2bc09569a67bdea6cfbcba8559232ae2", 
+      "title": "Toward Never Ending Language Learning", 
+      "url": "https://www.semanticscholar.org/paper/36fc694d2bc09569a67bdea6cfbcba8559232ae2", 
+      "venue": "AAAI Spring Symposium: Learning by Reading and Learning to Read", 
+      "year": 2009
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "061356704ec86334dbbc073985375fe13cd39088", 
+      "title": "Very Deep Convolutional Networks for Large-Scale Image Recognition", 
+      "url": "https://www.semanticscholar.org/paper/061356704ec86334dbbc073985375fe13cd39088", 
+      "venue": "ArXiv", 
+      "year": 2014
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "38211dc39e41273c0007889202c69f841e02248a", 
+      "title": "ImageNet: A large-scale hierarchical image database", 
+      "url": "https://www.semanticscholar.org/paper/38211dc39e41273c0007889202c69f841e02248a", 
+      "venue": "2009 IEEE Conference on Computer Vision and Pattern Recognition", 
+      "year": 2009
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "cd175f80821300931e81ed716b1e351b1a3aa11e", 
+      "title": "A Unified Model for Word Sense Representation and Disambiguation", 
+      "url": "https://www.semanticscholar.org/paper/cd175f80821300931e81ed716b1e351b1a3aa11e", 
+      "venue": "EMNLP", 
+      "year": 2014
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "bf5f67ebbe41f2fb1726a7c3c0be707366d5a4fb", 
+      "title": "Indoor Segmentation and Support Inference from RGBD Images", 
+      "url": "https://www.semanticscholar.org/paper/bf5f67ebbe41f2fb1726a7c3c0be707366d5a4fb", 
+      "venue": "ECCV", 
+      "year": 2012
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "11da2d589485685f792a8ac79d4c2e589e5f77bd", 
+      "title": "Show and tell: A neural image caption generator", 
+      "url": "https://www.semanticscholar.org/paper/11da2d589485685f792a8ac79d4c2e589e5f77bd", 
+      "venue": "2015 IEEE Conference on Computer Vision and Pattern Recognition (CVPR)", 
+      "year": 2015
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "9405df0490af3a797b8082d8bd36ad368785acfa", 
+      "title": "Semantic Parsing for Text to 3D Scene Generation", 
+      "url": "https://www.semanticscholar.org/paper/9405df0490af3a797b8082d8bd36ad368785acfa", 
+      "venue": "", 
+      "year": 2014
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "6b40f545d3d3f18b62112ba8d0e51feaad12d16a", 
+      "title": "Multimodal Neural Language Models", 
+      "url": "https://www.semanticscholar.org/paper/6b40f545d3d3f18b62112ba8d0e51feaad12d16a", 
+      "venue": "ICML", 
+      "year": 2014
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "696ca58d93f6404fea0fc75c62d1d7b378f47628", 
+      "title": "Microsoft COCO Captions: Data Collection and Evaluation Server", 
+      "url": "https://www.semanticscholar.org/paper/696ca58d93f6404fea0fc75c62d1d7b378f47628", 
+      "venue": "ArXiv", 
+      "year": 2015
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "1466642368b8bc3b3cf491d51e3517eb898d01a5", 
+      "title": "A Multi-World Approach to Question Answering about Real-World Scenes based on Uncertain Input", 
+      "url": "https://www.semanticscholar.org/paper/1466642368b8bc3b3cf491d51e3517eb898d01a5", 
+      "venue": "NIPS", 
+      "year": 2014
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "3126f14f7bffa67c4cc83096470fabd46e3e6004", 
+      "title": "Advances in Neural Information Processing Systems 8, NIPS, Denver, CO, November 27-30, 1995", 
+      "url": "https://www.semanticscholar.org/paper/3126f14f7bffa67c4cc83096470fabd46e3e6004", 
+      "venue": "NIPS", 
+      "year": 1996
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "f2c2fbc35d0541571f54790851de9fcd1adde085", 
+      "title": "OverFeat: Integrated Recognition, Localization and Detection using Convolutional Networks", 
+      "url": "https://www.semanticscholar.org/paper/f2c2fbc35d0541571f54790851de9fcd1adde085", 
+      "venue": "ArXiv", 
+      "year": 2013
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "d3353cdd2f3ae1c4a5e3ede5daa04e214137d621", 
+      "title": "Tree Kernel-Based Relation Extraction with Context-Sensitive Structured Parse Tree Information", 
+      "url": "https://www.semanticscholar.org/paper/d3353cdd2f3ae1c4a5e3ede5daa04e214137d621", 
+      "venue": "EMNLP-CoNLL", 
+      "year": 2007
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "66e6f08873325d37e0ec20a4769ce881e04e964e", 
+      "title": "The SUN Attribute Database: Beyond Categories for Deeper Scene Understanding", 
+      "url": "https://www.semanticscholar.org/paper/66e6f08873325d37e0ec20a4769ce881e04e964e", 
+      "venue": "International Journal of Computer Vision", 
+      "year": 2013
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "7fa51d9ebf688949571a86411c7baf13d30c74d0", 
+      "title": "Bleu: a Method for Automatic Evaluation of Machine Translation", 
+      "url": "https://www.semanticscholar.org/paper/7fa51d9ebf688949571a86411c7baf13d30c74d0", 
+      "venue": "ACL", 
+      "year": 2002
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "397fffa6f785762acb3cd3c96c4c6b65058b816f", 
+      "title": "Modeling mutual context of object and human pose in human-object interaction activities", 
+      "url": "https://www.semanticscholar.org/paper/397fffa6f785762acb3cd3c96c4c6b65058b816f", 
+      "venue": "2010 IEEE Computer Society Conference on Computer Vision and Pattern Recognition", 
+      "year": 2010
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "3b2697d76f035304bfeb57f6a682224c87645065", 
+      "title": "ImageNet Large Scale Visual Recognition Challenge", 
+      "url": "https://www.semanticscholar.org/paper/3b2697d76f035304bfeb57f6a682224c87645065", 
+      "venue": "International Journal of Computer Vision", 
+      "year": 2015
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "24ff26b9cf71d9f9a8e7dedf0cfe56d105363cd3", 
+      "title": "The Berkeley FrameNet Project", 
+      "url": "https://www.semanticscholar.org/paper/24ff26b9cf71d9f9a8e7dedf0cfe56d105363cd3", 
+      "venue": "COLING-ACL", 
+      "year": 1998
+    }
+  ], 
+  "title": "Visual Genome: Connecting Language and Vision Using Crowdsourced Dense Image Annotations", 
+  "url": "https://www.semanticscholar.org/paper/77863fb985fa0fa4036a85ee07e6e1bce4f0c15d", 
+  "venue": "International Journal of Computer Vision", 
+  "year": 2016
+}

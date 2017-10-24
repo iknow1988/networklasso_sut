@@ -1,0 +1,604 @@
+{
+  "authors": [
+    {
+      "authorId": "1735131", 
+      "name": "Sameer Pradhan", 
+      "url": "https://www.semanticscholar.org/author/1735131"
+    }, 
+    {
+      "authorId": "1866226", 
+      "name": "Wayne H. Ward", 
+      "url": "https://www.semanticscholar.org/author/1866226"
+    }, 
+    {
+      "authorId": "2483422", 
+      "name": "Kadri Hacioglu", 
+      "url": "https://www.semanticscholar.org/author/2483422"
+    }, 
+    {
+      "authorId": "2046588", 
+      "name": "James H. Martin", 
+      "url": "https://www.semanticscholar.org/author/2046588"
+    }, 
+    {
+      "authorId": "1746807", 
+      "name": "Daniel Jurafsky", 
+      "url": "https://www.semanticscholar.org/author/1746807"
+    }
+  ], 
+  "citationVelocity": 0, 
+  "citations": [
+    {
+      "isInfluential": false, 
+      "paperId": "7c50b378854c0dc9a6cf6a5ce6a2bfff2a486f8b", 
+      "title": "Integrative Semantic Dependency Parsing via Efficient Large-scale Feature Selection", 
+      "url": "https://www.semanticscholar.org/paper/7c50b378854c0dc9a6cf6a5ce6a2bfff2a486f8b"
+    }, 
+    {
+      "isInfluential": true, 
+      "paperId": "a9417fa5894e33d60c13f2bdb638702aa54e392b", 
+      "title": "A Grammar-driven Convolution Tree Kernel for Semantic Role Classification", 
+      "url": "https://www.semanticscholar.org/paper/a9417fa5894e33d60c13f2bdb638702aa54e392b"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "23c97e8d63b3cb2e08bb1a705650e6f0b41e64ce", 
+      "title": "Dependency Tree-based SRL with Proper Pruning and Extensive Feature Engineering", 
+      "url": "https://www.semanticscholar.org/paper/23c97e8d63b3cb2e08bb1a705650e6f0b41e64ce"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "b96178f1502a22d03992a06dc5974e19a736d05d", 
+      "title": "Analysis of combined features at semantic argument classification", 
+      "url": "https://www.semanticscholar.org/paper/b96178f1502a22d03992a06dc5974e19a736d05d"
+    }, 
+    {
+      "isInfluential": true, 
+      "paperId": "77b0727fa4d4954988f15163a281ffaa74d31d9c", 
+      "title": "Dependency-based Semantic Analysis of Natural-language Text", 
+      "url": "https://www.semanticscholar.org/paper/77b0727fa4d4954988f15163a281ffaa74d31d9c"
+    }, 
+    {
+      "isInfluential": true, 
+      "paperId": "6bfaff729d3f0ff924cdd1632a7797aebe8c63a9", 
+      "title": "Robust Semantic Role Labeling Using Parsing Variations and Semantic Classes", 
+      "url": "https://www.semanticscholar.org/paper/6bfaff729d3f0ff924cdd1632a7797aebe8c63a9"
+    }, 
+    {
+      "isInfluential": true, 
+      "paperId": "53423ffe082b577142935de58a5ae3291d22a22e", 
+      "title": "Experimental Evaluation of LTAG-Based Features for Semantic Role Labeling", 
+      "url": "https://www.semanticscholar.org/paper/53423ffe082b577142935de58a5ae3291d22a22e"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "0baf46fb6153f9e76d18b4dc291fb574d57c2403", 
+      "title": "Semantic Tree Kernels to Classify Predicate Argument Structures", 
+      "url": "https://www.semanticscholar.org/paper/0baf46fb6153f9e76d18b4dc291fb574d57c2403"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "f9d64eba847aec89f645a82919bde5c9a83342fe", 
+      "title": "LIMSI participation in the QAst 2009 track", 
+      "url": "https://www.semanticscholar.org/paper/f9d64eba847aec89f645a82919bde5c9a83342fe"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "aca8f56bac40dba510de9c544def301877dc930f", 
+      "title": "The Effect of Syntactic Representation on Semantic Role Labeling", 
+      "url": "https://www.semanticscholar.org/paper/aca8f56bac40dba510de9c544def301877dc930f"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "721058a1881facf1054c41c11cfb8b00fdc9a039", 
+      "title": "Latent SVMs for Semantic Role Labeling using LTAG Derivation Trees\u2217", 
+      "url": "https://www.semanticscholar.org/paper/721058a1881facf1054c41c11cfb8b00fdc9a039"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "1a1950e834c618b19f4bb4b15116a7d3e046dd8d", 
+      "title": "Semantic Role Labeling Using a Grammar-Driven Convolution Tree Kernel", 
+      "url": "https://www.semanticscholar.org/paper/1a1950e834c618b19f4bb4b15116a7d3e046dd8d"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "06c6efc834e745a5106b0a3d9a1025276d38dda4", 
+      "title": "Combination Strategies for Semantic Role Labeling", 
+      "url": "https://www.semanticscholar.org/paper/06c6efc834e745a5106b0a3d9a1025276d38dda4"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "822a8158c71aa65880f235342fd32a93e5a5a78c", 
+      "title": "A FrameNet-Based Semantic Role Labeler for Swedish", 
+      "url": "https://www.semanticscholar.org/paper/822a8158c71aa65880f235342fd32a93e5a5a78c"
+    }, 
+    {
+      "isInfluential": true, 
+      "paperId": "480f58c3c9d29d351a4a75b906fecc9a259f9354", 
+      "title": "Semantic Role Labeling Using Lexicalized Tree Adjoining Grammars", 
+      "url": "https://www.semanticscholar.org/paper/480f58c3c9d29d351a4a75b906fecc9a259f9354"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "084f6b2bc0d1f63fa1364ec23ec2ac0d4de0538b", 
+      "title": "Towards Robust Semantic Role Labeling", 
+      "url": "https://www.semanticscholar.org/paper/084f6b2bc0d1f63fa1364ec23ec2ac0d4de0538b"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "dd33893e418363b4c17ed600e858f286a4582deb", 
+      "title": "A Global Joint Model for Semantic Role Labeling", 
+      "url": "https://www.semanticscholar.org/paper/dd33893e418363b4c17ed600e858f286a4582deb"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "188c73b075b665fe96d10a23f7045ce2dc714b33", 
+      "title": "Semi-supervised Semantic Role Labeling via Graph-Alignment", 
+      "url": "https://www.semanticscholar.org/paper/188c73b075b665fe96d10a23f7045ce2dc714b33"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "3fb9c4c6a08cd44541540c072ee4fac8cf72c06a", 
+      "title": "CS229 Final Project Using WordNet and Clustering for Semantic Role Labeling", 
+      "url": "https://www.semanticscholar.org/paper/3fb9c4c6a08cd44541540c072ee4fac8cf72c06a"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "1fdf71585e33a7f86b12ae98a47c898627985a37", 
+      "title": "A Hybrid Convolution Tree Kernel for Semantic Role Labeling", 
+      "url": "https://www.semanticscholar.org/paper/1fdf71585e33a7f86b12ae98a47c898627985a37"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "f984468093412cb541467f635bd028f1346cee3a", 
+      "title": "Semantic roles modeling using statistical language models", 
+      "url": "https://www.semanticscholar.org/paper/f984468093412cb541467f635bd028f1346cee3a"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "fcc00343f47e7ae0c0fa92d59797ed37e4f9cb30", 
+      "title": "A Minimum Error Weighting Combination Strategy for Chinese Semantic Role Labeling", 
+      "url": "https://www.semanticscholar.org/paper/fcc00343f47e7ae0c0fa92d59797ed37e4f9cb30"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "1725fbe9fd8fd6eafefa15f09f6dfb43958d535f", 
+      "title": "Tree Kernels for Semantic Role Labeling", 
+      "url": "https://www.semanticscholar.org/paper/1725fbe9fd8fd6eafefa15f09f6dfb43958d535f"
+    }, 
+    {
+      "isInfluential": true, 
+      "paperId": "95fe11a40e689664389beb41d85a98cf95220dfe", 
+      "title": "Semantic Role Labeling via Tree Kernel Joint Inference", 
+      "url": "https://www.semanticscholar.org/paper/95fe11a40e689664389beb41d85a98cf95220dfe"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "3e25246d9f1c9bd76c6277bb95b8c81ed3a3c8b8", 
+      "title": "A Survey on Semantic Role Labeling and Dependency Parsing", 
+      "url": "https://www.semanticscholar.org/paper/3e25246d9f1c9bd76c6277bb95b8c81ed3a3c8b8"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "2f535d1ed9e01453251dd744286092db9e439d98", 
+      "title": "Labeling Chinese Predicates with Semantic Roles", 
+      "url": "https://www.semanticscholar.org/paper/2f535d1ed9e01453251dd744286092db9e439d98"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "255065920fc3873b4470dc492572cc9c15507563", 
+      "title": "QASR: Spoken Question Answering Using Semantic Role Labeling", 
+      "url": "https://www.semanticscholar.org/paper/255065920fc3873b4470dc492572cc9c15507563"
+    }, 
+    {
+      "isInfluential": true, 
+      "paperId": "3d1f6b2321f4e94441e4d962c01042a1d919f6a1", 
+      "title": "Can Semantic Roles Generalize Across Genres?", 
+      "url": "https://www.semanticscholar.org/paper/3d1f6b2321f4e94441e4d962c01042a1d919f6a1"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "cfd313e9aef276e498903dfa34303719e3a4ac19", 
+      "title": "Speech and Language Processing. Semantic Role Labeling", 
+      "url": "https://www.semanticscholar.org/paper/cfd313e9aef276e498903dfa34303719e3a4ac19"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "2bfbdeccfc348e5a6ec674be9580f01f4d9dede7", 
+      "title": "Automatic Semantic Role Labeling", 
+      "url": "https://www.semanticscholar.org/paper/2bfbdeccfc348e5a6ec674be9580f01f4d9dede7"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "63c2e4b3f88191780e1a7b4159d30044001183c9", 
+      "title": "Research of Semantic Role Labeling and Application in Patent Knowledge Extraction", 
+      "url": "https://www.semanticscholar.org/paper/63c2e4b3f88191780e1a7b4159d30044001183c9"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "29bd81a25fb617356e73dcb7a52e0298e620c63e", 
+      "title": "Content-based Information Retrieval by Named Entity Recognition and Verb Semantic Role Labelling", 
+      "url": "https://www.semanticscholar.org/paper/29bd81a25fb617356e73dcb7a52e0298e620c63e"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "09a3822afc0867d3e4ada5ea95ff9221088ad280", 
+      "title": "Using a Hybrid Convolution Tree Kernel for Semantic Role Labeling", 
+      "url": "https://www.semanticscholar.org/paper/09a3822afc0867d3e4ada5ea95ff9221088ad280"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "3db754a726355d739e2ac63a98dbd5833f888a31", 
+      "title": "QASR: question answering using semantic roles for speech interface", 
+      "url": "https://www.semanticscholar.org/paper/3db754a726355d739e2ac63a98dbd5833f888a31"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "bce05d56f24f77087ad458653aa8c5f811df4a5a", 
+      "title": "Using topic themes for multi-document summarization", 
+      "url": "https://www.semanticscholar.org/paper/bce05d56f24f77087ad458653aa8c5f811df4a5a"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "77366e5ce668cdb94e64c39ab64718da2237171f", 
+      "title": "Combining Lexical Resources: Mapping Between PropBank and VerbNet", 
+      "url": "https://www.semanticscholar.org/paper/77366e5ce668cdb94e64c39ab64718da2237171f"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "0db67cf78b496a76a4894c971205f83debb85048", 
+      "title": "A lightweight Chinese semantic dependency parsing model based on sentence compression", 
+      "url": "https://www.semanticscholar.org/paper/0db67cf78b496a76a4894c971205f83debb85048"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "424bbf30cf1c5c4f024fde416e7d3b0614309910", 
+      "title": "Distributed Tree Kernels", 
+      "url": "https://www.semanticscholar.org/paper/424bbf30cf1c5c4f024fde416e7d3b0614309910"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "0d97cbb7a79db7cee196df18e76e6916060917c1", 
+      "title": "Semantic Role Chunking Combining Complementary Syntactic Views", 
+      "url": "https://www.semanticscholar.org/paper/0d97cbb7a79db7cee196df18e76e6916060917c1"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "79fdddc388247a3fabdf3eadd74564c55f237fd0", 
+      "title": "Capturing the Semantics of Online News Sources for Business Intelligence Applications", 
+      "url": "https://www.semanticscholar.org/paper/79fdddc388247a3fabdf3eadd74564c55f237fd0"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "2103dc71d3954fd40809f32a58fe7093884f7fd3", 
+      "title": "Speech and Language Processing: an Introduction to Natural Language Processing, Computational Linguistics, and Speech Recognition. Computational Lexical Semantics 19.1 Word Sense Disambiguation: Overview", 
+      "url": "https://www.semanticscholar.org/paper/2103dc71d3954fd40809f32a58fe7093884f7fd3"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "77de8571fb6e6bfee253b7d32202de698526a143", 
+      "title": "A Sensemaking-based Information Foraging and Summarization System in Business Environments", 
+      "url": "https://www.semanticscholar.org/paper/77de8571fb6e6bfee253b7d32202de698526a143"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "5a40b53bbfbda2540b93357d5d09dbf4c1883667", 
+      "title": "Combining Constituent and Dependency Syntactic Views for Chinese Semantic Role Labeling", 
+      "url": "https://www.semanticscholar.org/paper/5a40b53bbfbda2540b93357d5d09dbf4c1883667"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "02068f1c7203a1f70cc1466108541831ad8106ca", 
+      "title": "Dan Jurafsky: Curriculum Vitae", 
+      "url": "https://www.semanticscholar.org/paper/02068f1c7203a1f70cc1466108541831ad8106ca"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "e2c86ef747d7448281a94ba88021f428ad10e5b3", 
+      "title": "Computing Similarities between Natural Language Descriptions of Knowledge and Skills", 
+      "url": "https://www.semanticscholar.org/paper/e2c86ef747d7448281a94ba88021f428ad10e5b3"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "4bb5f53c0f831d5cfe6a14283ee4b63a22d7d652", 
+      "title": "Generalizing semantic role annotations across syntactically similar verbs", 
+      "url": "https://www.semanticscholar.org/paper/4bb5f53c0f831d5cfe6a14283ee4b63a22d7d652"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "31b6c1cff07dc19d8adc2317e96ca42a71b8c421", 
+      "title": "Semantic Role Recognition Using Kernels on Weighted Marked Ordered Labeled Trees", 
+      "url": "https://www.semanticscholar.org/paper/31b6c1cff07dc19d8adc2317e96ca42a71b8c421"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "fcfdc55a1968a7154d7c86f0d8ac7223c93833dd", 
+      "title": "SRL TOOL: Heuristics-based Semantic Role Labeling through natural language processing", 
+      "url": "https://www.semanticscholar.org/paper/fcfdc55a1968a7154d7c86f0d8ac7223c93833dd"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "82bbd5b59f8f1dfa339668de16e1207f7ca85ddc", 
+      "title": "Matching Syntactic-Semantic Graphs For Semantic Relation Assignment", 
+      "url": "https://www.semanticscholar.org/paper/82bbd5b59f8f1dfa339668de16e1207f7ca85ddc"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "cbd085e4975f5733f65a172e4cd7b445b1c80c40", 
+      "title": "Natural Language Processing Methods for Automatic Illustration of Text", 
+      "url": "https://www.semanticscholar.org/paper/cbd085e4975f5733f65a172e4cd7b445b1c80c40"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "6cd221682377904c8d14b5c38198e565c69c1eb2", 
+      "title": "LTH: Semantic Structure Extraction using Nonprojective Dependency Trees", 
+      "url": "https://www.semanticscholar.org/paper/6cd221682377904c8d14b5c38198e565c69c1eb2"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "8311f5c987b0004a9c0414b2408fd250d486e5cc", 
+      "title": "An architecture for complex clinical question answering", 
+      "url": "https://www.semanticscholar.org/paper/8311f5c987b0004a9c0414b2408fd250d486e5cc"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "0d67c566dbe25b0de0af999bd0c33ecbe830ea5e", 
+      "title": "A Unified Knowledge Based Approach for Sense Disambiguation and Semantic Role Labeling", 
+      "url": "https://www.semanticscholar.org/paper/0d67c566dbe25b0de0af999bd0c33ecbe830ea5e"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "cc69df198651b0d28055a28615585dc73eff649b", 
+      "title": "Computational linking theory", 
+      "url": "https://www.semanticscholar.org/paper/cc69df198651b0d28055a28615585dc73eff649b"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "79d3fdc59b315242132d2a997c89e3f80a0a5e5c", 
+      "title": "Semantic Dependency Parsing of NomBank and PropBank: An Efficient Integrated Approach via a Large-scale Feature Selection", 
+      "url": "https://www.semanticscholar.org/paper/79d3fdc59b315242132d2a997c89e3f80a0a5e5c"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "3393b112081fb4344cf8613b0aaccef86aa7515f", 
+      "title": "Pattern Acquisition Methods for Information Extraction Systems", 
+      "url": "https://www.semanticscholar.org/paper/3393b112081fb4344cf8613b0aaccef86aa7515f"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "096b24687f581e2512624d6c691c04a1f695e510", 
+      "title": "Unsupervised Discovery of a Statistical Verb Lexicon", 
+      "url": "https://www.semanticscholar.org/paper/096b24687f581e2512624d6c691c04a1f695e510"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "4dfaa89eef8614c3bad50ac4a8d8d335332a8191", 
+      "title": "Enhancing Active Learning for Semantic Role Labeling via Compressed Dependency Trees", 
+      "url": "https://www.semanticscholar.org/paper/4dfaa89eef8614c3bad50ac4a8d8d335332a8191"
+    }, 
+    {
+      "isInfluential": true, 
+      "paperId": "0f43d9982ed91a6c7bab7dcd4a6f7ee96d4c250c", 
+      "title": "Forest-Based Semantic Role Labeling", 
+      "url": "https://www.semanticscholar.org/paper/0f43d9982ed91a6c7bab7dcd4a6f7ee96d4c250c"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "fc798bfcc79b91135c8b5f4a190f2d67145deadf", 
+      "title": "Transducing Sentences to Syntactic Feature Vectors: an Alternative Way to Parse?", 
+      "url": "https://www.semanticscholar.org/paper/fc798bfcc79b91135c8b5f4a190f2d67145deadf"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "921ca243495307efe0fa74929a3cc0c9e7a4214c", 
+      "title": "First Person Narrative Story Extraction and Retrieval", 
+      "url": "https://www.semanticscholar.org/paper/921ca243495307efe0fa74929a3cc0c9e7a4214c"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "7155e574d600e3f191eca05e439f65ea8f3bb8f4", 
+      "title": "Joint Inference for Bilingual Semantic Role Labeling", 
+      "url": "https://www.semanticscholar.org/paper/7155e574d600e3f191eca05e439f65ea8f3bb8f4"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "d8a63c0729bcef4fd1d41dc0e723620e48fbdc7d", 
+      "title": "OntoNotes: The 90% Solution", 
+      "url": "https://www.semanticscholar.org/paper/d8a63c0729bcef4fd1d41dc0e723620e48fbdc7d"
+    }, 
+    {
+      "isInfluential": true, 
+      "paperId": "2791e0d36ba23763195ac984453d61dbaff555da", 
+      "title": "Dependency-based Semantic Role Labeling of PropBank", 
+      "url": "https://www.semanticscholar.org/paper/2791e0d36ba23763195ac984453d61dbaff555da"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "c3d44ef41fc046b5bf6789589ec6f9555fe4a340", 
+      "title": "Learning to Transform Linguistic Graphs", 
+      "url": "https://www.semanticscholar.org/paper/c3d44ef41fc046b5bf6789589ec6f9555fe4a340"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "4d86fecf1610aa36a6a1f0b80a86fd35397ae5e5", 
+      "title": "A Semantic Feature for Verbal Predicate and Semantic Role Labeling Using SVMs", 
+      "url": "https://www.semanticscholar.org/paper/4d86fecf1610aa36a6a1f0b80a86fd35397ae5e5"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "a0ed2bba546d989311b666dac2ac33d2a8e3f6c9", 
+      "title": "A knowledge based approach for capturing rich semantic representations from text for intelligent systems", 
+      "url": "https://www.semanticscholar.org/paper/a0ed2bba546d989311b666dac2ac33d2a8e3f6c9"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "17365b792bc252b2cabbcd37de1a8283fe99b917", 
+      "title": "Semantic Annotation and Inference for Medical Knowledge Discovery", 
+      "url": "https://www.semanticscholar.org/paper/17365b792bc252b2cabbcd37de1a8283fe99b917"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "dfa2d0bbdaf4b19008b84f8c6c2143e65dbb473c", 
+      "title": "Survey: Semantic Role Labeling and Dependency Parsing", 
+      "url": "https://www.semanticscholar.org/paper/dfa2d0bbdaf4b19008b84f8c6c2143e65dbb473c"
+    }, 
+    {
+      "isInfluential": true, 
+      "paperId": "82cc7cfcc9976c837c373ba9993bcca599f6f4d7", 
+      "title": "Competitive generative models with structure learning for NLP classification tasks", 
+      "url": "https://www.semanticscholar.org/paper/82cc7cfcc9976c837c373ba9993bcca599f6f4d7"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "3d85e0cef2d3637c995dc0f34cfc027bb512d8aa", 
+      "title": "Exploration of the LTAG-Spinal Formalism and Treebank for Semantic Role Labeling", 
+      "url": "https://www.semanticscholar.org/paper/3d85e0cef2d3637c995dc0f34cfc027bb512d8aa"
+    }
+  ], 
+  "doi": null, 
+  "influentialCitationCount": 10, 
+  "paperId": "1ae5c1646ea445a670fe6cc8bf72b589dd9f6e5c", 
+  "references": [
+    {
+      "isInfluential": true, 
+      "paperId": "234760623e3112bf0350a7b795c46af22427e744", 
+      "title": "Identifying Semantic Roles Using Combinatory Categorial Grammar", 
+      "url": "https://www.semanticscholar.org/paper/234760623e3112bf0350a7b795c46af22427e744"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "47706198ac1b81aaee8b7a7164772bfc2e72e157", 
+      "title": "Semantic Role Labeling Using Dependency Trees", 
+      "url": "https://www.semanticscholar.org/paper/47706198ac1b81aaee8b7a7164772bfc2e72e157"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "007f917d7ceee1e9a2093e4556b9dc8ef0e18377", 
+      "title": "Use Of Deep Linguistic Features For The Recognition And Labeling Of Semantic Arguments", 
+      "url": "https://www.semanticscholar.org/paper/007f917d7ceee1e9a2093e4556b9dc8ef0e18377"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "04a8d271bc4384dbfbb417bfb625feb01cb44666", 
+      "title": "Automatic Labeling of Semantic Roles", 
+      "url": "https://www.semanticscholar.org/paper/04a8d271bc4384dbfbb417bfb625feb01cb44666"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "041fc6c50b09c808e8849711f1bf06f4c8069146", 
+      "title": "Target Word Detection and Semantic Role Chunking using Support Vector Machines", 
+      "url": "https://www.semanticscholar.org/paper/041fc6c50b09c808e8849711f1bf06f4c8069146"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "59ce9cdbde13affc05a6c1f48a51ee7b0fcb154b", 
+      "title": "The Penn Treebank: Annotating Predicate Argument Structure", 
+      "url": "https://www.semanticscholar.org/paper/59ce9cdbde13affc05a6c1f48a51ee7b0fcb154b"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "18d04fa815cbc9e7a2eeab189a4d7388cb43b0cb", 
+      "title": "Using Predicate-Argument Structures for Information Extraction", 
+      "url": "https://www.semanticscholar.org/paper/18d04fa815cbc9e7a2eeab189a4d7388cb43b0cb"
+    }, 
+    {
+      "isInfluential": true, 
+      "paperId": "220a47b587d1a5f4a464a04a4e06366059debeba", 
+      "title": "Generative Models for Statistical Parsing with Combinatory Categorial Grammar", 
+      "url": "https://www.semanticscholar.org/paper/220a47b587d1a5f4a464a04a4e06366059debeba"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "024f8d8462f25e016119f988406e6d9705126dcc", 
+      "title": "Variable Selection in Data Mining: Building a Predictive Model for Bankruptcy", 
+      "url": "https://www.semanticscholar.org/paper/024f8d8462f25e016119f988406e6d9705126dcc"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "531c793838c806b39cb63a9109382b27155672ab", 
+      "title": "Semantic Role Labeling by Tagging Syntactic Chunks", 
+      "url": "https://www.semanticscholar.org/paper/531c793838c806b39cb63a9109382b27155672ab"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "06b2b6c71b66db8cb82c7c42b85aa449b973354c", 
+      "title": "Use of Support Vector Learning for Chunk Identification", 
+      "url": "https://www.semanticscholar.org/paper/06b2b6c71b66db8cb82c7c42b85aa449b973354c"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "41ac86c2639ff1e6c90767ddbcdd8566ae24da10", 
+      "title": "Calibrating Features for Semantic Role Labeling", 
+      "url": "https://www.semanticscholar.org/paper/41ac86c2639ff1e6c90767ddbcdd8566ae24da10"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "6926c4a61777fdd45399b59ca03d9a7fae410c75", 
+      "title": "A Maximum-Entropy-Inspired Parser", 
+      "url": "https://www.semanticscholar.org/paper/6926c4a61777fdd45399b59ca03d9a7fae410c75"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "334d11e0d04ae895bac97a65a64137f21c4f8b80", 
+      "title": "The Necessity of Parsing for Predicate Argument Recognition", 
+      "url": "https://www.semanticscholar.org/paper/334d11e0d04ae895bac97a65a64137f21c4f8b80"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "308ba6a27e6a5252bab8d043f5251ab4469458b5", 
+      "title": "From TreeBank to PropBank", 
+      "url": "https://www.semanticscholar.org/paper/308ba6a27e6a5252bab8d043f5251ab4469458b5"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "6b2806600c0913b04c69c2bcceed64e828d1c2ac", 
+      "title": "Statistical inference under order restrictions with applications to toxicology", 
+      "url": "https://www.semanticscholar.org/paper/6b2806600c0913b04c69c2bcceed64e828d1c2ac"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "90edb0f07d0c308e5d609b2ba378ae1bf06f104f", 
+      "title": "Shallow Semantic Parsing using Support Vector Machines", 
+      "url": "https://www.semanticscholar.org/paper/90edb0f07d0c308e5d609b2ba378ae1bf06f104f"
+    }, 
+    {
+      "isInfluential": true, 
+      "paperId": "5332134b56af552515548e7e2ea1923cd63a5805", 
+      "title": "Acquiring Compact Lexicalized Grammars from a Cleaner Treebank", 
+      "url": "https://www.semanticscholar.org/paper/5332134b56af552515548e7e2ea1923cd63a5805"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "6a473e9e0a2183928b2d78bddf4b3d01ff46c454", 
+      "title": "Chunking with Support Vector Machines", 
+      "url": "https://www.semanticscholar.org/paper/6a473e9e0a2183928b2d78bddf4b3d01ff46c454"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "626300abc08d02a666728bd3da6becad3c379cf5", 
+      "title": "Dependency-based Evaluation of Minipar", 
+      "url": "https://www.semanticscholar.org/paper/626300abc08d02a666728bd3da6becad3c379cf5"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "837c2bf28887fc1a00e1b1148e5df748809da242", 
+      "title": "The Proposition Bank: An Annotated Corpus of Semantic Roles", 
+      "url": "https://www.semanticscholar.org/paper/837c2bf28887fc1a00e1b1148e5df748809da242"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "b4317b8a4490c84301907a61f5b8ebb26ab8828d", 
+      "title": "Discovery of inference rules for question-answering", 
+      "url": "https://www.semanticscholar.org/paper/b4317b8a4490c84301907a61f5b8ebb26ab8828d"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "d18248c0b6fd887b795be11ff53a8265bb29d62e", 
+      "title": "A Lightweight Semantic Chunker Based On Tagging", 
+      "url": "https://www.semanticscholar.org/paper/d18248c0b6fd887b795be11ff53a8265bb29d62e"
+    }
+  ], 
+  "title": "Semantic Role Labeling Using Different Syntactic Views", 
+  "url": "https://www.semanticscholar.org/paper/1ae5c1646ea445a670fe6cc8bf72b589dd9f6e5c", 
+  "venue": "ACL"
+}

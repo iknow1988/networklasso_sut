@@ -1,0 +1,668 @@
+{
+  "authors": [
+    {
+      "authorId": "1803520", 
+      "name": "Laurens van der Maaten", 
+      "url": "https://www.semanticscholar.org/author/1803520"
+    }, 
+    {
+      "authorId": "1743082", 
+      "name": "Minmin Chen", 
+      "url": "https://www.semanticscholar.org/author/1743082"
+    }, 
+    {
+      "authorId": "2342481", 
+      "name": "Stephen Tyree", 
+      "url": "https://www.semanticscholar.org/author/2342481"
+    }, 
+    {
+      "authorId": "7446832", 
+      "name": "Kilian Q. Weinberger", 
+      "url": "https://www.semanticscholar.org/author/7446832"
+    }
+  ], 
+  "citationVelocity": 18, 
+  "citations": [
+    {
+      "isInfluential": false, 
+      "paperId": "2075002e87bef14da12e4adf0bf30522be62fda9", 
+      "title": "Weakly supervised clustering: Learning fine-grained signals from coarse labels", 
+      "url": "https://www.semanticscholar.org/paper/2075002e87bef14da12e4adf0bf30522be62fda9", 
+      "venue": "", 
+      "year": 2013
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "247d66d30591fc0707e076da3d1a269c2b4fdf74", 
+      "title": "Adversarial Training for Unsupervised Bilingual Lexicon Induction", 
+      "url": "https://www.semanticscholar.org/paper/247d66d30591fc0707e076da3d1a269c2b4fdf74", 
+      "venue": "ACL", 
+      "year": 2017
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "fbf56c149ef3e84c70667ae88ccc967616c4c5ae", 
+      "title": "Adversarial Structured Output Prediction", 
+      "url": "https://www.semanticscholar.org/paper/fbf56c149ef3e84c70667ae88ccc967616c4c5ae", 
+      "venue": "", 
+      "year": 2014
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "0814b34be9d38805ed7b924d2e81491f40557ab7", 
+      "title": "Targeted feature dropout for robust slot filling in natural language understanding", 
+      "url": "https://www.semanticscholar.org/paper/0814b34be9d38805ed7b924d2e81491f40557ab7", 
+      "venue": "INTERSPEECH", 
+      "year": 2014
+    }, 
+    {
+      "isInfluential": true, 
+      "paperId": "cbd20c2199062724eee841016f1575cb7d5309b4", 
+      "title": "Dropout Training for SVMs with Data Augmentation", 
+      "url": "https://www.semanticscholar.org/paper/cbd20c2199062724eee841016f1575cb7d5309b4", 
+      "venue": "ArXiv", 
+      "year": 2015
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "5d5d4f49d6443c8529a6f5ebef5c499d47a869da", 
+      "title": "Improving Neural Networks with Dropout", 
+      "url": "https://www.semanticscholar.org/paper/5d5d4f49d6443c8529a6f5ebef5c499d47a869da", 
+      "venue": "", 
+      "year": 2013
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "7e0769e6857e28cadc507c47f2941a2538e69c9d", 
+      "title": "Offline Evaluation of Response Prediction in Online Advertising Auctions", 
+      "url": "https://www.semanticscholar.org/paper/7e0769e6857e28cadc507c47f2941a2538e69c9d", 
+      "venue": "WWW", 
+      "year": 2015
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "103f45ea9cb13b22510f905e1b6fc8d0d2f9bf96", 
+      "title": "Model Regularization for Stable Sample Rollouts", 
+      "url": "https://www.semanticscholar.org/paper/103f45ea9cb13b22510f905e1b6fc8d0d2f9bf96", 
+      "venue": "UAI", 
+      "year": 2014
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "2c243ba20c4793a73199a4dd2ef22fb6962a4132", 
+      "title": "Efficient Gradient-Based Inference through Transformations between Bayes Nets and Neural Nets", 
+      "url": "https://www.semanticscholar.org/paper/2c243ba20c4793a73199a4dd2ef22fb6962a4132", 
+      "venue": "ICML", 
+      "year": 2014
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "e4159d218294017292325e1d7875f47784ccd520", 
+      "title": "Adversarial Dropout for Supervised and Semi-supervised Learning", 
+      "url": "https://www.semanticscholar.org/paper/e4159d218294017292325e1d7875f47784ccd520", 
+      "venue": "ArXiv", 
+      "year": 2017
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "ef8625096ff0e19bc80f1bb39041997906eb9d99", 
+      "title": "Missing Data Imputation for Supervised Learning", 
+      "url": "https://www.semanticscholar.org/paper/ef8625096ff0e19bc80f1bb39041997906eb9d99", 
+      "venue": "ArXiv", 
+      "year": 2016
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "ee89a73e2ab3532e0b676327f22bf59dd6235703", 
+      "title": "Deep Learning of Transferable Representation for Scalable Domain Adaptation", 
+      "url": "https://www.semanticscholar.org/paper/ee89a73e2ab3532e0b676327f22bf59dd6235703", 
+      "venue": "IEEE Transactions on Knowledge and Data Engineering", 
+      "year": 2016
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "69d01e5b58b02779bc68c6696d85b022259c3a56", 
+      "title": "Adaptive Dropout Rates for Learning with Corrupted Features", 
+      "url": "https://www.semanticscholar.org/paper/69d01e5b58b02779bc68c6696d85b022259c3a56", 
+      "venue": "IJCAI", 
+      "year": 2015
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "0f93cc5f14407ffa34d6244304c6f659f102d357", 
+      "title": "Fast tagging of natural sounds using marginal co-regularization", 
+      "url": "https://www.semanticscholar.org/paper/0f93cc5f14407ffa34d6244304c6f659f102d357", 
+      "venue": "2017 IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP)", 
+      "year": 2017
+    }, 
+    {
+      "isInfluential": true, 
+      "paperId": "16ea3d530337277036df094f57c798c267176ca7", 
+      "title": "Learning Non-deterministic Representations with Energy-based Ensembles", 
+      "url": "https://www.semanticscholar.org/paper/16ea3d530337277036df094f57c798c267176ca7", 
+      "venue": "ArXiv", 
+      "year": 2014
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "6653962614099f3908b0245b0bc9b7157b1c0e92", 
+      "title": "Dropout training for Hidden Unit CRFs", 
+      "url": "https://www.semanticscholar.org/paper/6653962614099f3908b0245b0bc9b7157b1c0e92", 
+      "venue": "", 
+      "year": 2015
+    }, 
+    {
+      "isInfluential": true, 
+      "paperId": "18768ab2db59e14253c71bd75bf8481554620060", 
+      "title": "Dropout Training as Adaptive Regularization", 
+      "url": "https://www.semanticscholar.org/paper/18768ab2db59e14253c71bd75bf8481554620060", 
+      "venue": "NIPS", 
+      "year": 2013
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "1ed183fdeba4cafa3f8e2efeebf0582f7aa8822e", 
+      "title": "Distance metric learning using dropout: a structured regularization approach", 
+      "url": "https://www.semanticscholar.org/paper/1ed183fdeba4cafa3f8e2efeebf0582f7aa8822e", 
+      "venue": "KDD", 
+      "year": 2014
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "459d3adf0528bed82420374ffb9ff50c2cb34f03", 
+      "title": "To Drop or Not to Drop: Robustness, Consistency and Differential Privacy Properties of Dropout", 
+      "url": "https://www.semanticscholar.org/paper/459d3adf0528bed82420374ffb9ff50c2cb34f03", 
+      "venue": "ArXiv", 
+      "year": 2015
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "26e0353a5b1fdff83dd2fdcbf190467e22044562", 
+      "title": "Cost Sensitive Learning of Deep Feature Representations from Imbalanced Data", 
+      "url": "https://www.semanticscholar.org/paper/26e0353a5b1fdff83dd2fdcbf190467e22044562", 
+      "venue": "ArXiv", 
+      "year": 2015
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "67b60c720e9691c0d98dbd0b9004e99e6da3fc47", 
+      "title": "Efficient Vector Representation for Documents through Corruption", 
+      "url": "https://www.semanticscholar.org/paper/67b60c720e9691c0d98dbd0b9004e99e6da3fc47", 
+      "venue": "ArXiv", 
+      "year": 2017
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "4d3fb523b7892e0b7a7990366e02fae46d63dcb4", 
+      "title": "Fast Image Tagging", 
+      "url": "https://www.semanticscholar.org/paper/4d3fb523b7892e0b7a7990366e02fae46d63dcb4", 
+      "venue": "ICML", 
+      "year": 2013
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "191e0597531f78b69305e66321db0e31125569eb", 
+      "title": "Bayesian Masking: Sparse Bayesian Estimation with Weaker Shrinkage Bias", 
+      "url": "https://www.semanticscholar.org/paper/191e0597531f78b69305e66321db0e31125569eb", 
+      "venue": "ACML", 
+      "year": 2015
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "0f73c6082fadd96813eb9e94f5a0b61f532a8500", 
+      "title": "Iterative Splits of Quadratic Bounds for Scalable Binary Tensor Factorization", 
+      "url": "https://www.semanticscholar.org/paper/0f73c6082fadd96813eb9e94f5a0b61f532a8500", 
+      "venue": "UAI", 
+      "year": 2014
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "9920b1187d4b05607de2e937d7851bdaa3f4cebd", 
+      "title": "Efficient Learning by Directed Acyclic Graph For Resource Constrained Prediction", 
+      "url": "https://www.semanticscholar.org/paper/9920b1187d4b05607de2e937d7851bdaa3f4cebd", 
+      "venue": "NIPS", 
+      "year": 2015
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "9ccca698224219cf48068a0d1df111ce209a0ebe", 
+      "title": "Semi-Supervised and Unsupervised Extreme Learning Machines", 
+      "url": "https://www.semanticscholar.org/paper/9ccca698224219cf48068a0d1df111ce209a0ebe", 
+      "venue": "IEEE Trans. Cybernetics", 
+      "year": 2014
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "8199e831916554ad6d13d4e4d6414d748519ecbf", 
+      "title": "Shakeout: A New Approach to Regularized Deep Neural Network Training.", 
+      "url": "https://www.semanticscholar.org/paper/8199e831916554ad6d13d4e4d6414d748519ecbf", 
+      "venue": "IEEE transactions on pattern analysis and machine intelligence", 
+      "year": 2017
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "d117c00ddbd0ddf3b6eb2f744c2d88edc155e93a", 
+      "title": "The Convergence Behavior of Naive Bayes on Large Sparse Datasets", 
+      "url": "https://www.semanticscholar.org/paper/d117c00ddbd0ddf3b6eb2f744c2d88edc155e93a", 
+      "venue": "2015 IEEE International Conference on Data Mining", 
+      "year": 2015
+    }, 
+    {
+      "isInfluential": true, 
+      "paperId": "fee9f42aa4222d33199223624817654e4300d0b6", 
+      "title": "Domain Adaptation in the Absence of Source Domain Data", 
+      "url": "https://www.semanticscholar.org/paper/fee9f42aa4222d33199223624817654e4300d0b6", 
+      "venue": "KDD", 
+      "year": 2016
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "5087fe23ffe200697fc8553bac39105d653380a2", 
+      "title": "Triply Stochastic Variational Inference for Non-linear Beta Process Factor Analysis", 
+      "url": "https://www.semanticscholar.org/paper/5087fe23ffe200697fc8553bac39105d653380a2", 
+      "venue": "2016 IEEE 16th International Conference on Data Mining (ICDM)", 
+      "year": 2016
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "32ee75315fd7050bd7411087d9b3c7cf67b82b63", 
+      "title": "Feature Noising for Log-Linear Structured Prediction", 
+      "url": "https://www.semanticscholar.org/paper/32ee75315fd7050bd7411087d9b3c7cf67b82b63", 
+      "venue": "EMNLP", 
+      "year": 2013
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "428f460476aff58fddf642650a185473d7137654", 
+      "title": "DART: Dropouts meet Multiple Additive Regression Trees", 
+      "url": "https://www.semanticscholar.org/paper/428f460476aff58fddf642650a185473d7137654", 
+      "venue": "AISTATS", 
+      "year": 2015
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "1da8eabfd02436dda5f3131fe404dc840a04e6cc", 
+      "title": "Ments through Corruption", 
+      "url": "https://www.semanticscholar.org/paper/1da8eabfd02436dda5f3131fe404dc840a04e6cc", 
+      "venue": "", 
+      "year": 2017
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "a7abb1c0c16d6d41b14630c797a84379253c9aef", 
+      "title": "Steps Toward Deep Kernel Methods from Infinite Neural Networks", 
+      "url": "https://www.semanticscholar.org/paper/a7abb1c0c16d6d41b14630c797a84379253c9aef", 
+      "venue": "ArXiv", 
+      "year": 2015
+    }, 
+    {
+      "isInfluential": true, 
+      "paperId": "3d8ced7a0f00870b3e6108eb1465e9402db21b62", 
+      "title": "Balanced self-paced learning with feature corruption", 
+      "url": "https://www.semanticscholar.org/paper/3d8ced7a0f00870b3e6108eb1465e9402db21b62", 
+      "venue": "2017 International Joint Conference on Neural Networks (IJCNN)", 
+      "year": 2017
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "05f04128ee9d0242219028da275ef50b0f5b30fa", 
+      "title": "Fast margin-based cost-sensitive classification", 
+      "url": "https://www.semanticscholar.org/paper/05f04128ee9d0242219028da275ef50b0f5b30fa", 
+      "venue": "2014 IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP)", 
+      "year": 2014
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "34f25a8704614163c4095b3ee2fc969b60de4698", 
+      "title": "Dropout: a simple way to prevent neural networks from overfitting", 
+      "url": "https://www.semanticscholar.org/paper/34f25a8704614163c4095b3ee2fc969b60de4698", 
+      "venue": "Journal of Machine Learning Research", 
+      "year": 2014
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "018be717ddaad8ad70fff9483f00c6a0e7f5c2e4", 
+      "title": "Feature-Level Domain Adaptation", 
+      "url": "https://www.semanticscholar.org/paper/018be717ddaad8ad70fff9483f00c6a0e7f5c2e4", 
+      "venue": "Journal of Machine Learning Research", 
+      "year": 2016
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "2f7db82cb58642f7a2bf6e5546bdd7f04a641523", 
+      "title": "Plankton classification on imbalanced large scale database via convolutional neural networks with transfer learning", 
+      "url": "https://www.semanticscholar.org/paper/2f7db82cb58642f7a2bf6e5546bdd7f04a641523", 
+      "venue": "2016 IEEE International Conference on Image Processing (ICIP)", 
+      "year": 2016
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "e46419e457cea78ad28a56858e5bc8763bc3aa25", 
+      "title": "Bootstrap-Based Regularization for Low-Rank Matrix Estimation", 
+      "url": "https://www.semanticscholar.org/paper/e46419e457cea78ad28a56858e5bc8763bc3aa25", 
+      "venue": "Journal of Machine Learning Research", 
+      "year": 2016
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "6f02840be1e89d4d366054ab4d09bbb0fcacc7f3", 
+      "title": "Marginalizing stacked linear denoising autoencoders", 
+      "url": "https://www.semanticscholar.org/paper/6f02840be1e89d4d366054ab4d09bbb0fcacc7f3", 
+      "venue": "Journal of Machine Learning Research", 
+      "year": 2015
+    }, 
+    {
+      "isInfluential": true, 
+      "paperId": "3b9d939e279d963ccc8f5db457f30222221485b4", 
+      "title": "An Extended Framework for Marginalized Domain Adaptation", 
+      "url": "https://www.semanticscholar.org/paper/3b9d939e279d963ccc8f5db457f30222221485b4", 
+      "venue": "ArXiv", 
+      "year": 2017
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "b118e5ca88647661f27438a76c324db5f04a1b21", 
+      "title": "Fast dropout training", 
+      "url": "https://www.semanticscholar.org/paper/b118e5ca88647661f27438a76c324db5f04a1b21", 
+      "venue": "ICML", 
+      "year": 2013
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "72c095a63d9ab17a5e4b3cef8175c652b98a9a62", 
+      "title": "Unsupervised Domain Adaptation with Regularized Domain Instance Denoising", 
+      "url": "https://www.semanticscholar.org/paper/72c095a63d9ab17a5e4b3cef8175c652b98a9a62", 
+      "venue": "ECCV Workshops", 
+      "year": 2016
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "4c6ea3f77e84e2f65b3b2472e5580fdeb553e6a7", 
+      "title": "Altitude Training: Strong Bounds for Single-Layer Dropout", 
+      "url": "https://www.semanticscholar.org/paper/4c6ea3f77e84e2f65b3b2472e5580fdeb553e6a7", 
+      "venue": "NIPS", 
+      "year": 2014
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "9feb4625ed8605edcaab14251ff3d342a98a52c9", 
+      "title": "Training neural networks by marginalizing out hidden layer noise", 
+      "url": "https://www.semanticscholar.org/paper/9feb4625ed8605edcaab14251ff3d342a98a52c9", 
+      "venue": "Neural Computing and Applications", 
+      "year": 2017
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "81ffcb59b96ceb26d8f4c195dda9cbbb2fe7ba8d", 
+      "title": "Stable Autoencoding: A Flexible Framework for Regularized Low-Rank Matrix Estimation", 
+      "url": "https://www.semanticscholar.org/paper/81ffcb59b96ceb26d8f4c195dda9cbbb2fe7ba8d", 
+      "venue": "ICCS", 
+      "year": 2015
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "46773c8a2fa5012f7b3e16b44214de0da3f68859", 
+      "title": "DisturbLabel: Regularizing CNN on the Loss Layer", 
+      "url": "https://www.semanticscholar.org/paper/46773c8a2fa5012f7b3e16b44214de0da3f68859", 
+      "venue": "2016 IEEE Conference on Computer Vision and Pattern Recognition (CVPR)", 
+      "year": 2016
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "1a78b95d3e9991ff7df5d4939ba6b0c29b336613", 
+      "title": "Adversarial feature selection", 
+      "url": "https://www.semanticscholar.org/paper/1a78b95d3e9991ff7df5d4939ba6b0c29b336613", 
+      "venue": "2015 IEEE International Conference on Data Mining Workshop (ICDMW)", 
+      "year": 2015
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "03cd6f2297637a322bdd4519b8cee331ef42984b", 
+      "title": "Learning with Pseudo-Ensembles", 
+      "url": "https://www.semanticscholar.org/paper/03cd6f2297637a322bdd4519b8cee331ef42984b", 
+      "venue": "NIPS", 
+      "year": 2014
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "27937119d3f679e492876cd5843602af7456a475", 
+      "title": "Transformation Pursuit for Image Classification", 
+      "url": "https://www.semanticscholar.org/paper/27937119d3f679e492876cd5843602af7456a475", 
+      "venue": "2014 IEEE Conference on Computer Vision and Pattern Recognition", 
+      "year": 2014
+    }
+  ], 
+  "doi": null, 
+  "influentialCitationCount": 6, 
+  "paperId": "43f0e2207d628deba1f91c810c38f33a1978cd58", 
+  "references": [
+    {
+      "isInfluential": false, 
+      "paperId": "4850442c8db48500ada13a060c4d1584a575de81", 
+      "title": "Static prediction games for adversarial learning problems", 
+      "url": "https://www.semanticscholar.org/paper/4850442c8db48500ada13a060c4d1584a575de81", 
+      "venue": "Journal of Machine Learning Research", 
+      "year": 2012
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "4faec77e6051063ba44ed9d7d390e202bc10b07c", 
+      "title": "Training with Noise is Equivalent to Tikhonov Regularization", 
+      "url": "https://www.semanticscholar.org/paper/4faec77e6051063ba44ed9d7d390e202bc10b07c", 
+      "venue": "", 
+      "year": 1994
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "08cbed1690fb778b06343450ebe4f33057d5742a", 
+      "title": "Convex Learning with Invariances", 
+      "url": "https://www.semanticscholar.org/paper/08cbed1690fb778b06343450ebe4f33057d5742a", 
+      "venue": "NIPS", 
+      "year": 2007
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "280cd4a04cf7ecc36f84a7172483916a41403f5e", 
+      "title": "Multi-class AdaBoost", 
+      "url": "https://www.semanticscholar.org/paper/280cd4a04cf7ecc36f84a7172483916a41403f5e", 
+      "venue": "", 
+      "year": 2005
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "e6bef595cb78bcad4880aea6a3a73ecd32fbfe06", 
+      "title": "Domain Adaptation for Large-Scale Sentiment Classification: A Deep Learning Approach", 
+      "url": "https://www.semanticscholar.org/paper/e6bef595cb78bcad4880aea6a3a73ecd32fbfe06", 
+      "venue": "ICML", 
+      "year": 2011
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "4e4b9d8c3c9fb181e9fa1fe58d8840b51c83a4cf", 
+      "title": "Invariant Pattern Recognition by Semi-Definite Programming Machines", 
+      "url": "https://www.semanticscholar.org/paper/4e4b9d8c3c9fb181e9fa1fe58d8840b51c83a4cf", 
+      "venue": "NIPS", 
+      "year": 2003
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "b172a40c58fcf427536468fc14747eb8c240dd85", 
+      "title": "Nightmare at test time: Robust learning by feature deletion", 
+      "url": "https://www.semanticscholar.org/paper/b172a40c58fcf427536468fc14747eb8c240dd85", 
+      "venue": "Proceedings of the International Conference on Machine Learning", 
+      "year": 2006
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "c12057aa350e81fc8aed81d6f3c08a03b6361346", 
+      "title": "A Second Order Cone programming Formulation for Classifying Missing Data", 
+      "url": "https://www.semanticscholar.org/paper/c12057aa350e81fc8aed81d6f3c08a03b6361346", 
+      "venue": "NIPS", 
+      "year": 2004
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "8af33a4ec2b65b1ea70a19b2dbac991f57483918", 
+      "title": "Estimating a Kernel Fisher Discriminant in the Presence of Label Noise", 
+      "url": "https://www.semanticscholar.org/paper/8af33a4ec2b65b1ea70a19b2dbac991f57483918", 
+      "venue": "ICML", 
+      "year": 2001
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "3b2bf65ebee91249d1045709200a51d157b0176e", 
+      "title": "Extracting and composing robust features with denoising autoencoders", 
+      "url": "https://www.semanticscholar.org/paper/3b2bf65ebee91249d1045709200a51d157b0176e", 
+      "venue": "ICML", 
+      "year": 2008
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "17c0a7de3c17d31f79589d245852b57d083d386e", 
+      "title": "Optimal Brain Damage", 
+      "url": "https://www.semanticscholar.org/paper/17c0a7de3c17d31f79589d245852b57d083d386e", 
+      "venue": "NIPS", 
+      "year": 1989
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "17bdb111948e04b2496cb153ae77e51a6c79476d", 
+      "title": "Vicinal Risk Minimization", 
+      "url": "https://www.semanticscholar.org/paper/17bdb111948e04b2496cb153ae77e51a6c79476d", 
+      "venue": "NIPS", 
+      "year": 2000
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "1145b200353d2b4730b98e53ded86757eb6cfae3", 
+      "title": "Functional approximation by feed-forward networks: a least-squares approach to generalization", 
+      "url": "https://www.semanticscholar.org/paper/1145b200353d2b4730b98e53ded86757eb6cfae3", 
+      "venue": "IEEE Trans. Neural Networks", 
+      "year": 1994
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "271f8f98e7b345b6b181d15bb714ce94f7b1923e", 
+      "title": "Modeling pixel means and covariances using factorized third-order boltzmann machines", 
+      "url": "https://www.semanticscholar.org/paper/271f8f98e7b345b6b181d15bb714ce94f7b1923e", 
+      "venue": "2010 IEEE Computer Society Conference on Computer Vision and Pattern Recognition", 
+      "year": 2010
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "b48e8b68b7ccdc10bc8d568c37e26e488629968f", 
+      "title": "Second Order Cone Programming Approaches for Handling Missing and Uncertain Data", 
+      "url": "https://www.semanticscholar.org/paper/b48e8b68b7ccdc10bc8d568c37e26e488629968f", 
+      "venue": "Journal of Machine Learning Research", 
+      "year": 2006
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "239ec828003ce4a412c09688521ea383a9bf5861", 
+      "title": "Learning to classify with missing and corrupted features", 
+      "url": "https://www.semanticscholar.org/paper/239ec828003ce4a412c09688521ea383a9bf5861", 
+      "venue": "Machine Learning", 
+      "year": 2008
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "3554953715a4d7af3d4c9201d4080899b84fbad7", 
+      "title": "Max-margin Classification of Data with Absent Features", 
+      "url": "https://www.semanticscholar.org/paper/3554953715a4d7af3d4c9201d4080899b84fbad7", 
+      "venue": "Journal of Machine Learning Research", 
+      "year": 2008
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "2116b2eaaece4af9c28c32af2728f3d49b792cf9", 
+      "title": "Improving neural networks by preventing co-adaptation of feature detectors", 
+      "url": "https://www.semanticscholar.org/paper/2116b2eaaece4af9c28c32af2728f3d49b792cf9", 
+      "venue": "ArXiv", 
+      "year": 2012
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "54d2b5c64a67f65c5dd812b89e07973f97699552", 
+      "title": "Ieee Transactions on Pattern Analysis and Machine Intelligence 1 80 Million Tiny Images: a Large Dataset for Non-parametric Object and Scene Recognition", 
+      "url": "https://www.semanticscholar.org/paper/54d2b5c64a67f65c5dd812b89e07973f97699552", 
+      "venue": "", 
+      "year": 2008
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "40e5a40ae66d44e6c00d562d068d35db6922715d", 
+      "title": "Improving the Accuracy and Speed of Support Vector Machines", 
+      "url": "https://www.semanticscholar.org/paper/40e5a40ae66d44e6c00d562d068d35db6922715d", 
+      "venue": "NIPS", 
+      "year": 1996
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "779c3bb8e4a32b09539e5b0cf95dc450e71818c4", 
+      "title": "Robustness and Regularization of Support Vector Machines", 
+      "url": "https://www.semanticscholar.org/paper/779c3bb8e4a32b09539e5b0cf95dc450e71818c4", 
+      "venue": "Journal of Machine Learning Research", 
+      "year": 2009
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "093f96924e8567ee65b4aef63c6adeaf88e2014a", 
+      "title": "Creating artificial neural networks that generalize", 
+      "url": "https://www.semanticscholar.org/paper/093f96924e8567ee65b4aef63c6adeaf88e2014a", 
+      "venue": "Neural Networks", 
+      "year": 1991
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "8db26a22942404bd435909a16bb3a50cd67b4318", 
+      "title": "Marginalized Denoising Autoencoders for Domain Adaptation", 
+      "url": "https://www.semanticscholar.org/paper/8db26a22942404bd435909a16bb3a50cd67b4318", 
+      "venue": "ICML", 
+      "year": 2012
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "5d90f06bb70a0a3dced62413346235c02b1aa086", 
+      "title": "Learning Multiple Layers of Features from Tiny Images", 
+      "url": "https://www.semanticscholar.org/paper/5d90f06bb70a0a3dced62413346235c02b1aa086", 
+      "venue": "", 
+      "year": 2009
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "94db635f54d25bdb95edb42185aca93ba53b051b", 
+      "title": "Biographies, Bollywood, Boom-boxes and Blenders: Domain Adaptation for Sentiment Classification", 
+      "url": "https://www.semanticscholar.org/paper/94db635f54d25bdb95edb42185aca93ba53b051b", 
+      "venue": "ACL", 
+      "year": 2007
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "65858e2ed31459c468ef4d0b6a52837714d63b31", 
+      "title": "Robust support vector machines for classification and computational issues", 
+      "url": "https://www.semanticscholar.org/paper/65858e2ed31459c468ef4d0b6a52837714d63b31", 
+      "venue": "Optimization Methods and Software", 
+      "year": 2007
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "8650a37500346c52cae22f9180af67a50c715f89", 
+      "title": "Feature selection, L1 vs. L2 regularization, and rotational invariance", 
+      "url": "https://www.semanticscholar.org/paper/8650a37500346c52cae22f9180af67a50c715f89", 
+      "venue": "", 
+      "year": 2004
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "643e3a133916e2affb0181e1e35c910c123b7f9d", 
+      "title": "Feature Bagging: Preventing Weight Undertraining in Structured Discriminative Learning", 
+      "url": "https://www.semanticscholar.org/paper/643e3a133916e2affb0181e1e35c910c123b7f9d", 
+      "venue": "", 
+      "year": 2005
+    }
+  ], 
+  "title": "Learning with Marginalized Corrupted Features", 
+  "url": "https://www.semanticscholar.org/paper/43f0e2207d628deba1f91c810c38f33a1978cd58", 
+  "venue": "ICML", 
+  "year": 2013
+}

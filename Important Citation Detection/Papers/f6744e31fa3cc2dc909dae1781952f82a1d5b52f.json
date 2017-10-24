@@ -1,0 +1,815 @@
+{
+  "authors": [
+    {
+      "authorId": "22383809", 
+      "name": "Wei Zhang", 
+      "url": "https://www.semanticscholar.org/author/22383809"
+    }, 
+    {
+      "authorId": "2642131", 
+      "name": "Clement T. Yu", 
+      "url": "https://www.semanticscholar.org/author/2642131"
+    }, 
+    {
+      "authorId": "1808304", 
+      "name": "Weiyi Meng", 
+      "url": "https://www.semanticscholar.org/author/1808304"
+    }
+  ], 
+  "citationVelocity": 0, 
+  "citations": [
+    {
+      "isInfluential": false, 
+      "paperId": "1aa3ad912608a356044d6930b5353bec87d7c260", 
+      "title": "Interpreting the Public Sentiment Variations on Twitter", 
+      "url": "https://www.semanticscholar.org/paper/1aa3ad912608a356044d6930b5353bec87d7c260", 
+      "venue": "IEEE Transactions on Knowledge and Data Engineering", 
+      "year": 2014
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "dda6a9df943e9f078e31605b103e8133600d4c3c", 
+      "title": "Opinion Mining and Social Networks: A Promising Match", 
+      "url": "https://www.semanticscholar.org/paper/dda6a9df943e9f078e31605b103e8133600d4c3c", 
+      "venue": "2011 International Conference on Advances in Social Networks Analysis and Mining", 
+      "year": 2011
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "b7cdcb3ccfb5eb03504a3ed4dad2ef47eb3bc05f", 
+      "title": "Exploiting Social Debates for Opinion Ranking", 
+      "url": "https://www.semanticscholar.org/paper/b7cdcb3ccfb5eb03504a3ed4dad2ef47eb3bc05f", 
+      "venue": "KDIR", 
+      "year": 2014
+    }, 
+    {
+      "isInfluential": true, 
+      "paperId": "868090dcab9aec8ac29071e312e2aba24bca4990", 
+      "title": "Opinionated document retrieval using subjective triggers", 
+      "url": "https://www.semanticscholar.org/paper/868090dcab9aec8ac29071e312e2aba24bca4990", 
+      "venue": "JASIST", 
+      "year": 2011
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "5094fb158a741858f7311bdb4b7642c14ec32e13", 
+      "title": "Applying Opinion Mining to OSS selection process", 
+      "url": "https://www.semanticscholar.org/paper/5094fb158a741858f7311bdb4b7642c14ec32e13", 
+      "venue": "", 
+      "year": 2009
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "0a4a96d5e09f6709f46bc04eb3397a436fcf33fa", 
+      "title": "Sentiment-focused web crawling", 
+      "url": "https://www.semanticscholar.org/paper/0a4a96d5e09f6709f46bc04eb3397a436fcf33fa", 
+      "venue": "CIKM", 
+      "year": 2012
+    }, 
+    {
+      "isInfluential": true, 
+      "paperId": "035807c98563762ebfde6466e3c4d9f80354f148", 
+      "title": "Measuring Opinion Relevance in Latent Topic Space", 
+      "url": "https://www.semanticscholar.org/paper/035807c98563762ebfde6466e3c4d9f80354f148", 
+      "venue": "2011 IEEE Third Int'l Conference on Privacy, Security, Risk and Trust and 2011 IEEE Third Int'l Conference on Social Computing", 
+      "year": 2011
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "e2ef4ad1d3ecde9596524850dc28ce3b97d77d94", 
+      "title": "Construction of a sentimental word dictionary", 
+      "url": "https://www.semanticscholar.org/paper/e2ef4ad1d3ecde9596524850dc28ce3b97d77d94", 
+      "venue": "CIKM", 
+      "year": 2010
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "9bc3221c016a68b27dce62829fd439c552821774", 
+      "title": "Sentence-Level Opinion-Topic Association for Opinion Detection in Blogs", 
+      "url": "https://www.semanticscholar.org/paper/9bc3221c016a68b27dce62829fd439c552821774", 
+      "venue": "2009 International Conference on Advanced Information Networking and Applications Workshops", 
+      "year": 2009
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "835ac0e309fc774d33c566609b8849b813dbf897", 
+      "title": "Towards Less Biased Web Search", 
+      "url": "https://www.semanticscholar.org/paper/835ac0e309fc774d33c566609b8849b813dbf897", 
+      "venue": "ICTIR", 
+      "year": 2015
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "4dbdcdeaaddf9d31cc43fd32ab7316730529b543", 
+      "title": "Sentiment analysis on microblog utilizing appraisal theory", 
+      "url": "https://www.semanticscholar.org/paper/4dbdcdeaaddf9d31cc43fd32ab7316730529b543", 
+      "venue": "World Wide Web", 
+      "year": 2013
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "729c74f47573c7946e53e774cd89948cb1c9c374", 
+      "title": "Event based sentence level interpretation of sentiment variation in twitter data", 
+      "url": "https://www.semanticscholar.org/paper/729c74f47573c7946e53e774cd89948cb1c9c374", 
+      "venue": "2015 6th International Conference on Computing, Communication and Networking Technologies (ICCCNT)", 
+      "year": 2015
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "5399e179bd2965d700e314723ac1d8d0157fbc46", 
+      "title": "Mining contrastive opinions on political texts using cross-perspective topic model", 
+      "url": "https://www.semanticscholar.org/paper/5399e179bd2965d700e314723ac1d8d0157fbc46", 
+      "venue": "WSDM", 
+      "year": 2012
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "7c7811f8fed3fb5330f7ecac8fc8029a5a0d73e6", 
+      "title": "User engagement in online News: Under the scope of sentiment, interest, affect, and gaze", 
+      "url": "https://www.semanticscholar.org/paper/7c7811f8fed3fb5330f7ecac8fc8029a5a0d73e6", 
+      "venue": "JASIST", 
+      "year": 2014
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "1a034535af961db7a65e324e45311eb87e29da03", 
+      "title": "Topic sentiment analysis in twitter: a graph-based hashtag sentiment classification approach", 
+      "url": "https://www.semanticscholar.org/paper/1a034535af961db7a65e324e45311eb87e29da03", 
+      "venue": "CIKM", 
+      "year": 2011
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "f5c67f250d99817470a9f5d42e2f34c48e88b70b", 
+      "title": "Improving opinionated blog retrieval effectiveness with quality measures and temporal features", 
+      "url": "https://www.semanticscholar.org/paper/f5c67f250d99817470a9f5d42e2f34c48e88b70b", 
+      "venue": "World Wide Web", 
+      "year": 2013
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "fb2b2387893a89ae56c9b154834295f48280eb7b", 
+      "title": "Sentiment analysis on tweets for social events", 
+      "url": "https://www.semanticscholar.org/paper/fb2b2387893a89ae56c9b154834295f48280eb7b", 
+      "venue": "Proceedings of the 2013 IEEE 17th International Conference on Computer Supported Cooperative Work in Design (CSCWD)", 
+      "year": 2013
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "d34165943201648c839189ffe8145f8e3b0ffce9", 
+      "title": "AskUs: An Opinion Search Engine", 
+      "url": "https://www.semanticscholar.org/paper/d34165943201648c839189ffe8145f8e3b0ffce9", 
+      "venue": "2011 IEEE 11th International Conference on Data Mining Workshops", 
+      "year": 2011
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "a83477d84734364100af943875f9780b8e344dda", 
+      "title": "An effective statistical approach to blog post opinion retrieval", 
+      "url": "https://www.semanticscholar.org/paper/a83477d84734364100af943875f9780b8e344dda", 
+      "venue": "CIKM", 
+      "year": 2008
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "1fa795421ecb82e1e6d5266b597daf909b78eb30", 
+      "title": "Opinion Retrieval for Twitter Using Extrinsic Information", 
+      "url": "https://www.semanticscholar.org/paper/1fa795421ecb82e1e6d5266b597daf909b78eb30", 
+      "venue": "J. UCS", 
+      "year": 2016
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "15868ee41a9b78e7527c7aac56ad333683a5568f", 
+      "title": "Efficient Term Cloud Generation for Streaming Web Content", 
+      "url": "https://www.semanticscholar.org/paper/15868ee41a9b78e7527c7aac56ad333683a5568f", 
+      "venue": "ICWE", 
+      "year": 2010
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "8f0b32040e92a72d9e8a7179383299546491d97e", 
+      "title": "Can predicate-argument structures be used for contextual opinion retrieval from blogs?", 
+      "url": "https://www.semanticscholar.org/paper/8f0b32040e92a72d9e8a7179383299546491d97e", 
+      "venue": "World Wide Web", 
+      "year": 2012
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "44a362da99348d73d736507b8e8de9d29d189b6d", 
+      "title": "Opinion Mining: A Survey", 
+      "url": "https://www.semanticscholar.org/paper/44a362da99348d73d736507b8e8de9d29d189b6d", 
+      "venue": "", 
+      "year": 2015
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "59047bd509edd7e23e7d6434e6550246404f1c65", 
+      "title": "Opinion Retrieval in Twitter", 
+      "url": "https://www.semanticscholar.org/paper/59047bd509edd7e23e7d6434e6550246404f1c65", 
+      "venue": "ICWSM", 
+      "year": 2012
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "b08b4f26c6051921480ca09dedf27f06cad3c03a", 
+      "title": "Coarse-Fine Opinion Mining - WIA in NTCIR-7 MOAT Task", 
+      "url": "https://www.semanticscholar.org/paper/b08b4f26c6051921480ca09dedf27f06cad3c03a", 
+      "venue": "NTCIR", 
+      "year": 2008
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "aaa97d292088f30af1cc73c5e3b4313ee2e0b8e3", 
+      "title": "Using Hadoop for Large Scale Analysis on Twitter: A Technical Report", 
+      "url": "https://www.semanticscholar.org/paper/aaa97d292088f30af1cc73c5e3b4313ee2e0b8e3", 
+      "venue": "ArXiv", 
+      "year": 2016
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "e9b19e28dd49cfac2dd72e4220137ff9a34d1e53", 
+      "title": "Investigating Learning Approaches for Blog Post Opinion Retrieval", 
+      "url": "https://www.semanticscholar.org/paper/e9b19e28dd49cfac2dd72e4220137ff9a34d1e53", 
+      "venue": "ECIR", 
+      "year": 2009
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "31d52b80a23f279731d2f720814873a3fa6a7fff", 
+      "title": "Improve the effectiveness of the opinion retrieval and opinion polarity classification", 
+      "url": "https://www.semanticscholar.org/paper/31d52b80a23f279731d2f720814873a3fa6a7fff", 
+      "venue": "CIKM", 
+      "year": 2008
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "5f3cc6a18c017164942836f26c8af4f59690c29b", 
+      "title": "A framework for the theoretical evaluation of XML retrieval", 
+      "url": "https://www.semanticscholar.org/paper/5f3cc6a18c017164942836f26c8af4f59690c29b", 
+      "venue": "JASIST", 
+      "year": 2012
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "be03be546148c520b9850aad2607046042500dc2", 
+      "title": "Sentiment-oriented contextual advertising", 
+      "url": "https://www.semanticscholar.org/paper/be03be546148c520b9850aad2607046042500dc2", 
+      "venue": "Knowledge and Information Systems", 
+      "year": 2009
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "f4f6803ac8a5cda3613614ac4dfde1d65eabb194", 
+      "title": "Microblog bursty topic detection based on user relationship", 
+      "url": "https://www.semanticscholar.org/paper/f4f6803ac8a5cda3613614ac4dfde1d65eabb194", 
+      "venue": "2011 6th IEEE Joint International Information Technology and Artificial Intelligence Conference", 
+      "year": 2011
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "9cf5156937595cb6c5c8147fb90090b3825cac98", 
+      "title": "Large Scale Implementations for Twitter Sentiment Classification", 
+      "url": "https://www.semanticscholar.org/paper/9cf5156937595cb6c5c8147fb90090b3825cac98", 
+      "venue": "Algorithms", 
+      "year": 2017
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "0a2d0670dd49ce52825dd22a0a098d6a68b556e3", 
+      "title": "Language model-based sentence classification for opinion question answering systems", 
+      "url": "https://www.semanticscholar.org/paper/0a2d0670dd49ce52825dd22a0a098d6a68b556e3", 
+      "venue": "2009 International Multiconference on Computer Science and Information Technology", 
+      "year": 2009
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "3de70b366799b6e7a5d7857189b62cb52f033c70", 
+      "title": "Learning Knowledge from Relevant Webpage for Opinion Analysis", 
+      "url": "https://www.semanticscholar.org/paper/3de70b366799b6e7a5d7857189b62cb52f033c70", 
+      "venue": "2008 IEEE/WIC/ACM International Conference on Web Intelligence and Intelligent Agent Technology", 
+      "year": 2008
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "32d23a5d8754f7b2a6fccc2ebd87d83ea9c917ce", 
+      "title": "Towards a unified framework for opinion retrieval, mining and summarization", 
+      "url": "https://www.semanticscholar.org/paper/32d23a5d8754f7b2a6fccc2ebd87d83ea9c917ce", 
+      "venue": "Journal of Intelligent Information Systems", 
+      "year": 2012
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "0e9fbc2377cf8182187312f11913f8b0aaa675a1", 
+      "title": "Survey of Public Sentiment Interpretation on Twitter", 
+      "url": "https://www.semanticscholar.org/paper/0e9fbc2377cf8182187312f11913f8b0aaa675a1", 
+      "venue": "", 
+      "year": 2014
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "72352394d5e51e0def1450e83594e31159a1b7ea", 
+      "title": "A System of Systems Service Design for Social Media Analytics", 
+      "url": "https://www.semanticscholar.org/paper/72352394d5e51e0def1450e83594e31159a1b7ea", 
+      "venue": "2014 IEEE International Conference on Services Computing", 
+      "year": 2014
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "27381ae0b5369ad4d58f93c7e374361488f0dff7", 
+      "title": "Survey on mining subjective data on the web", 
+      "url": "https://www.semanticscholar.org/paper/27381ae0b5369ad4d58f93c7e374361488f0dff7", 
+      "venue": "Data Mining and Knowledge Discovery", 
+      "year": 2011
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "e4c0f58a39ca6e8644281ae5de961af5ed020fd2", 
+      "title": "The effect of negation on sentiment analysis and retrieval effectiveness", 
+      "url": "https://www.semanticscholar.org/paper/e4c0f58a39ca6e8644281ae5de961af5ed020fd2", 
+      "venue": "CIKM", 
+      "year": 2009
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "01b25d5b69759161d5df5226c303d824739a5171", 
+      "title": "Abstract\u2014bloggers' Opinions Related to Commercial Products/services Might Have a Significant Influence on Consumers' Purchasing Decisions. Some Negative Comments", 
+      "url": "https://www.semanticscholar.org/paper/01b25d5b69759161d5df5226c303d824739a5171", 
+      "venue": "", 
+      "year": 2012
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "7468ccd994c6bc066166806c3c97440b8d5e0f4a", 
+      "title": "Blog track research at TREC", 
+      "url": "https://www.semanticscholar.org/paper/7468ccd994c6bc066166806c3c97440b8d5e0f4a", 
+      "venue": "SIGIR Forum", 
+      "year": 2010
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "ff1276e688e4a5f6dd34146160924ff9d96ac38d", 
+      "title": "Feature-based opinion mining and ranking", 
+      "url": "https://www.semanticscholar.org/paper/ff1276e688e4a5f6dd34146160924ff9d96ac38d", 
+      "venue": "J. Comput. Syst. Sci.", 
+      "year": 2012
+    }, 
+    {
+      "isInfluential": true, 
+      "paperId": "0fec579cce7f2d2c315b2f6262da0ba4a96fcea3", 
+      "title": "Adaptive subjective triggers for opinionated document retrieval", 
+      "url": "https://www.semanticscholar.org/paper/0fec579cce7f2d2c315b2f6262da0ba4a96fcea3", 
+      "venue": "WSDM", 
+      "year": 2009
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "7dfd2bdb62a751a9ec143c989e00f8555ce2cf1f", 
+      "title": "Proximity-based opinion retrieval", 
+      "url": "https://www.semanticscholar.org/paper/7dfd2bdb62a751a9ec143c989e00f8555ce2cf1f", 
+      "venue": "SIGIR", 
+      "year": 2010
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "fa74b8bc0543e9d1a801cbdc25e913e0e7cfe987", 
+      "title": "Twitter power: Tweets as electronic word of mouth", 
+      "url": "https://www.semanticscholar.org/paper/fa74b8bc0543e9d1a801cbdc25e913e0e7cfe987", 
+      "venue": "JASIST", 
+      "year": 2009
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "ce8625072e718ea04c7e50aef697041294aea35b", 
+      "title": "Entity Centric Opinion Mining from Blogs", 
+      "url": "https://www.semanticscholar.org/paper/ce8625072e718ea04c7e50aef697041294aea35b", 
+      "venue": "", 
+      "year": 2013
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "dc7ffa3125e67e59256e79ec2c4e21ccfa4cf8bb", 
+      "title": "Computational approaches for mining user's opinions on the Web 2.0", 
+      "url": "https://www.semanticscholar.org/paper/dc7ffa3125e67e59256e79ec2c4e21ccfa4cf8bb", 
+      "venue": "Inf. Process. Manage.", 
+      "year": 2014
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "ffc02cd243227258310b42d3afe5382b03996e07", 
+      "title": "Personalised Information Gathering and Recommender Systems: Techniques and Trends", 
+      "url": "https://www.semanticscholar.org/paper/ffc02cd243227258310b42d3afe5382b03996e07", 
+      "venue": "EAI Endorsed Trans. Scalable Information Systems", 
+      "year": 2013
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "d6cf093099892e727a5940b8db3bb54a2ad1495c", 
+      "title": "An effective approach to tweets opinion retrieval", 
+      "url": "https://www.semanticscholar.org/paper/d6cf093099892e727a5940b8db3bb54a2ad1495c", 
+      "venue": "World Wide Web", 
+      "year": 2013
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "0c67c7b0ad86034f6033024f6fe853962b301867", 
+      "title": "Sentiment diversification with different biases", 
+      "url": "https://www.semanticscholar.org/paper/0c67c7b0ad86034f6033024f6fe853962b301867", 
+      "venue": "SIGIR", 
+      "year": 2013
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "7ac8df3aa3a75574207964f112f680a06bbc9d4d", 
+      "title": "Mining Subjective Data on the Web", 
+      "url": "https://www.semanticscholar.org/paper/7ac8df3aa3a75574207964f112f680a06bbc9d4d", 
+      "venue": "", 
+      "year": 2010
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "d18237a7569c41713ee4c0467321fa6f9c181acb", 
+      "title": "Knowledge Discovery in the Blogosphere: Approaches and Challenges", 
+      "url": "https://www.semanticscholar.org/paper/d18237a7569c41713ee4c0467321fa6f9c181acb", 
+      "venue": "IEEE Internet Computing", 
+      "year": 2010
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "b21baf03e6f4d1d2185228765afb8889154c18be", 
+      "title": "VISA: a visual sentiment analysis system", 
+      "url": "https://www.semanticscholar.org/paper/b21baf03e6f4d1d2185228765afb8889154c18be", 
+      "venue": "VINCI", 
+      "year": 2012
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "e2bdf720008ad55b28faca73638cf9c263ea3536", 
+      "title": "A Survey on Opinion Mining Framework", 
+      "url": "https://www.semanticscholar.org/paper/e2bdf720008ad55b28faca73638cf9c263ea3536", 
+      "venue": "", 
+      "year": 2013
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "0344737fa51e12abac9dd2e8ca2e0ab68d2b3266", 
+      "title": "Cut-based classification for user behavioral analysis on social websites", 
+      "url": "https://www.semanticscholar.org/paper/0344737fa51e12abac9dd2e8ca2e0ab68d2b3266", 
+      "venue": "2015 International Conference on Green Computing and Internet of Things (ICGCIoT)", 
+      "year": 2015
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "f67041613fa93b357d66d86f3ed3ba65f32e968c", 
+      "title": "Aggregation Methods for Proximity-Based Opinion Retrieval", 
+      "url": "https://www.semanticscholar.org/paper/f67041613fa93b357d66d86f3ed3ba65f32e968c", 
+      "venue": "ACM Trans. Inf. Syst.", 
+      "year": 2012
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "90e8afe787fd1978bef1c0e76d8d58246b8245a9", 
+      "title": "UIC at TREC 2010 Faceted Blog Distillation", 
+      "url": "https://www.semanticscholar.org/paper/90e8afe787fd1978bef1c0e76d8d58246b8245a9", 
+      "venue": "TREC", 
+      "year": 2010
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "d1cfd5477383523494c644b6bc8a2e6444ff3402", 
+      "title": "An Overview of Behavioral Analaysis Using Social Web Site Data", 
+      "url": "https://www.semanticscholar.org/paper/d1cfd5477383523494c644b6bc8a2e6444ff3402", 
+      "venue": "2015 Fifth International Conference on Communication Systems and Network Technologies", 
+      "year": 2015
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "279283c02d3c090916541970880861d6a711d5e5", 
+      "title": "Sentiment-focused Web Crawling a Thesis Submitted to the Graduate School of Natural and Applied Sciences of Middle East Technical University Avni Gu\u0308ral Vural in Partial Fulfillment of the Requirements for the Degree of Doctor of Philosophy", 
+      "url": "https://www.semanticscholar.org/paper/279283c02d3c090916541970880861d6a711d5e5", 
+      "venue": "", 
+      "year": 2013
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "fe425a8cd070b763155589b08e09bdb7d9024cd7", 
+      "title": "Large Scale Sentiment Analysis on Twitter with Spark", 
+      "url": "https://www.semanticscholar.org/paper/fe425a8cd070b763155589b08e09bdb7d9024cd7", 
+      "venue": "EDBT/ICDT Workshops", 
+      "year": 2016
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "804e218e9cb0b75e3d9210774e8b44401c64f008", 
+      "title": "Information Retrieval on the Blogosphere", 
+      "url": "https://www.semanticscholar.org/paper/804e218e9cb0b75e3d9210774e8b44401c64f008", 
+      "venue": "Foundations and Trends in Information Retrieval", 
+      "year": 2012
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "fb96792bed61b947f955c6959a953d841dca3f61", 
+      "title": "Explore the Possibility of Utilizing Blog Semantic Analysis for Domain Expert and Opinion Mining", 
+      "url": "https://www.semanticscholar.org/paper/fb96792bed61b947f955c6959a953d841dca3f61", 
+      "venue": "2009 International Conference on Intelligent Networking and Collaborative Systems", 
+      "year": 2009
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "2be7f8784a42e9459ceead93b2ee189fd26353c5", 
+      "title": "Jenseits der Suchmaschinen: Konzeption einer iterativen Informationssuche in Blogs", 
+      "url": "https://www.semanticscholar.org/paper/2be7f8784a42e9459ceead93b2ee189fd26353c5", 
+      "venue": "GeNeMe", 
+      "year": 2009
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "c6454127929b30e5eb6761ea91f4e483574f6c2e", 
+      "title": "Improving Blog Polarity Classification via Topic Analysis and Adaptive Methods", 
+      "url": "https://www.semanticscholar.org/paper/c6454127929b30e5eb6761ea91f4e483574f6c2e", 
+      "venue": "HLT-NAACL", 
+      "year": 2010
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "1ce98b403fa44b35221836074565bff88f0736f6", 
+      "title": "A large-scale sentiment analysis for Yahoo! answers", 
+      "url": "https://www.semanticscholar.org/paper/1ce98b403fa44b35221836074565bff88f0736f6", 
+      "venue": "WSDM", 
+      "year": 2012
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "1f09e8a4c897543253065cbcdbd6f4f0053d4ebf", 
+      "title": "Context Dependent Claim Detection", 
+      "url": "https://www.semanticscholar.org/paper/1f09e8a4c897543253065cbcdbd6f4f0053d4ebf", 
+      "venue": "COLING", 
+      "year": 2014
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "0b922a4a3f59794d50c9ba67013c7ec2f8fa9e40", 
+      "title": "Find me opinion sources in blogosphere: a unified framework for opinionated blog feed retrieval", 
+      "url": "https://www.semanticscholar.org/paper/0b922a4a3f59794d50c9ba67013c7ec2f8fa9e40", 
+      "venue": "WSDM", 
+      "year": 2012
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "b4ea38a4d2696c0d62e3d990fe5ec11508f860ad", 
+      "title": "Efficient Approximate Membership Localization using P-Prune algorithm in blogs", 
+      "url": "https://www.semanticscholar.org/paper/b4ea38a4d2696c0d62e3d990fe5ec11508f860ad", 
+      "venue": "2014 International Conference on Computer Communication and Informatics", 
+      "year": 2014
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "4966651027b50121e1b8ba4d5a3ee088aa5120c6", 
+      "title": "Distinguishing the Popularity between Topics: A System for Up-to-Date Opinion Retrieval and Mining in the Web", 
+      "url": "https://www.semanticscholar.org/paper/4966651027b50121e1b8ba4d5a3ee088aa5120c6", 
+      "venue": "CICLing", 
+      "year": 2013
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "489c83da2ef21f2cdcbafc239fa4f9d1a3a791d2", 
+      "title": "UIC at TREC 2007 Blog Track", 
+      "url": "https://www.semanticscholar.org/paper/489c83da2ef21f2cdcbafc239fa4f9d1a3a791d2", 
+      "venue": "TREC", 
+      "year": 2006
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "94ec35a97056b8772909c99edd22cc1c04e2aa0c", 
+      "title": "A Novel Model for the Evolution of Online Public Opinion Based on Fuzzy Cellular Automata Rules in Directed World Networks", 
+      "url": "https://www.semanticscholar.org/paper/94ec35a97056b8772909c99edd22cc1c04e2aa0c", 
+      "venue": "", 
+      "year": 2013
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "bd4665952ae8d2a4b405aede5bcbf8ed3e61b4c2", 
+      "title": "Collocation Polarity Disambiguation Using Web-based Pseudo Contexts", 
+      "url": "https://www.semanticscholar.org/paper/bd4665952ae8d2a4b405aede5bcbf8ed3e61b4c2", 
+      "venue": "EMNLP-CoNLL", 
+      "year": 2012
+    }
+  ], 
+  "doi": "10.1145/1321440.1321555", 
+  "influentialCitationCount": 3, 
+  "paperId": "f6744e31fa3cc2dc909dae1781952f82a1d5b52f", 
+  "references": [
+    {
+      "isInfluential": false, 
+      "paperId": "278b4ad41f54f753439c2485af147ee6635cec27", 
+      "title": "The TREC robust retrieval track", 
+      "url": "https://www.semanticscholar.org/paper/278b4ad41f54f753439c2485af147ee6635cec27", 
+      "venue": "SIGIR Forum", 
+      "year": 2005
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "d8aecee84541ff5644675c0a6d5e87be27ade831", 
+      "title": "Learning Subjective Language", 
+      "url": "https://www.semanticscholar.org/paper/d8aecee84541ff5644675c0a6d5e87be27ade831", 
+      "venue": "Computational Linguistics", 
+      "year": 2004
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "0a7fb47217e6d0e3b80159bc4f9e02a50ea1f391", 
+      "title": "Seeing Stars: Exploiting Class Relationships for Sentiment Categorization with Respect to Rating Scales", 
+      "url": "https://www.semanticscholar.org/paper/0a7fb47217e6d0e3b80159bc4f9e02a50ea1f391", 
+      "venue": "ACL", 
+      "year": 2005
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "105a0b3826710356e218685f87b20fe39c64c706", 
+      "title": "Opinion observer: analyzing and comparing opinions on the Web", 
+      "url": "https://www.semanticscholar.org/paper/105a0b3826710356e218685f87b20fe39c64c706", 
+      "venue": "WWW", 
+      "year": 2005
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "11a09b782c2803a79603cc4c575d2651fde0d527", 
+      "title": "Recognition and classification of noun phrases in queries for effective retrieval", 
+      "url": "https://www.semanticscholar.org/paper/11a09b782c2803a79603cc4c575d2651fde0d527", 
+      "venue": "CIKM", 
+      "year": 2007
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "41945fa95c822c6426ed255d25c91e9361100e88", 
+      "title": "Determining the semantic orientation of terms through gloss classification", 
+      "url": "https://www.semanticscholar.org/paper/41945fa95c822c6426ed255d25c91e9361100e88", 
+      "venue": "CIKM", 
+      "year": 2005
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "0b8a6aed79f0630e938ea65c683f045cf1336677", 
+      "title": "Query Expansion Using Local and Global Document Analysis", 
+      "url": "https://www.semanticscholar.org/paper/0b8a6aed79f0630e938ea65c683f045cf1336677", 
+      "venue": "SIGIR", 
+      "year": 1996
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "4f1fe957a29a2e422d4034f4510644714d33fb20", 
+      "title": "Thumbs up? Sentiment Classification using Machine Learning Techniques", 
+      "url": "https://www.semanticscholar.org/paper/4f1fe957a29a2e422d4034f4510644714d33fb20", 
+      "venue": "ArXiv", 
+      "year": 2002
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "b59abcfd7dbed8e284c4237c405f912adb1ad4ea", 
+      "title": "Predicting the Semantic Orientation of Adjectives", 
+      "url": "https://www.semanticscholar.org/paper/b59abcfd7dbed8e284c4237c405f912adb1ad4ea", 
+      "venue": "ACL", 
+      "year": 1997
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "cacf0ae9dfe8ea79cbf1babae8342ca5495bfce5", 
+      "title": "UIC at TREC 2006 Blog Track", 
+      "url": "https://www.semanticscholar.org/paper/cacf0ae9dfe8ea79cbf1babae8342ca5495bfce5", 
+      "venue": "proceedings of 15th TREC", 
+      "year": 2006
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "033b62167e7358c429738092109311af696e9137", 
+      "title": "Thumbs Up or Thumbs Down? Semantic Orientation Applied to Unsupervised Classification of Reviews", 
+      "url": "https://www.semanticscholar.org/paper/033b62167e7358c429738092109311af696e9137", 
+      "venue": "ACL", 
+      "year": 2002
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "4ed949b75b1d8e4daba7d74ed8b7965c41830349", 
+      "title": "Extracting Product Features and Opinions from Reviews", 
+      "url": "https://www.semanticscholar.org/paper/4ed949b75b1d8e4daba7d74ed8b7965c41830349", 
+      "venue": "HLT/EMNLP", 
+      "year": 2005
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "84bd007b64d8f2d99d9bbde3a232f55da00283bc", 
+      "title": "1 Making Large-scale Svm Learning Practical", 
+      "url": "https://www.semanticscholar.org/paper/84bd007b64d8f2d99d9bbde3a232f55da00283bc", 
+      "venue": "", 
+      "year": 1999
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "02880c9ac973046bf8d2fc802fb7ee4fc60c193b", 
+      "title": "Towards Answering Opinion Questions: Separating Facts From Opinions And Identifying The Polarity Of Opinion Sentences", 
+      "url": "https://www.semanticscholar.org/paper/02880c9ac973046bf8d2fc802fb7ee4fc60c193b", 
+      "venue": "", 
+      "year": 2003
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "df097c8359347eaa23d6efe902ab3db384854398", 
+      "title": "Multiple Ranking Strategies for Opinion Retrieval in Blogs - The University of Amsterdam at the 2006 TREC Blog Track", 
+      "url": "https://www.semanticscholar.org/paper/df097c8359347eaa23d6efe902ab3db384854398", 
+      "venue": "TREC", 
+      "year": 2006
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "14c5d485f4a114ed45acf27adb6c1ebf57c2c383", 
+      "title": "Effects of Adjective Orientation and Gradability on Sentence Subjectivity", 
+      "url": "https://www.semanticscholar.org/paper/14c5d485f4a114ed45acf27adb6c1ebf57c2c383", 
+      "venue": "COLING", 
+      "year": 2000
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "0470303953de1d19765423f719d8314e3cb91278", 
+      "title": "Using appraisal groups for sentiment analysis", 
+      "url": "https://www.semanticscholar.org/paper/0470303953de1d19765423f719d8314e3cb91278", 
+      "venue": "CIKM", 
+      "year": 2005
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "13e5f0c40c85ca8e01b3756963d5352358de7c29", 
+      "title": "Mining and summarizing customer reviews", 
+      "url": "https://www.semanticscholar.org/paper/13e5f0c40c85ca8e01b3756963d5352358de7c29", 
+      "venue": "KDD", 
+      "year": 2004
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "864d8d57112be5c7c65efcac3da9c932a01bf4fb", 
+      "title": "Identifying comparative sentences in text documents", 
+      "url": "https://www.semanticscholar.org/paper/864d8d57112be5c7c65efcac3da9c932a01bf4fb", 
+      "venue": "SIGIR", 
+      "year": 2006
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "c266ed8a18afa82b54077872fd6fb7732df48a37", 
+      "title": "Mining the peanut gallery: opinion extraction and semantic classification of product reviews", 
+      "url": "https://www.semanticscholar.org/paper/c266ed8a18afa82b54077872fd6fb7732df48a37", 
+      "venue": "WWW", 
+      "year": 2003
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "9141d85998eadb1bca5cca027ae07670cfafb015", 
+      "title": "Determining the Sentiment of Opinions", 
+      "url": "https://www.semanticscholar.org/paper/9141d85998eadb1bca5cca027ae07670cfafb015", 
+      "venue": "COLING", 
+      "year": 2004
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "0ebf7a35a5bca320ba72bcb87292359d6e7bb0ef", 
+      "title": "Major topic detection and its application to opinion summarization", 
+      "url": "https://www.semanticscholar.org/paper/0ebf7a35a5bca320ba72bcb87292359d6e7bb0ef", 
+      "venue": "SIGIR", 
+      "year": 2005
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "afb6f249f3aea4a7ff52db844856cde5760e1db6", 
+      "title": "Using Blog Properties to Improve Retrieval", 
+      "url": "https://www.semanticscholar.org/paper/afb6f249f3aea4a7ff52db844856cde5760e1db6", 
+      "venue": "ICWSM", 
+      "year": 2007
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "872182b8d8825d3bb1fd15f71bbdbdda19a259ba", 
+      "title": "Opinion Mining on the Web by Extracting Subject-Aspect-Evaluation Relations", 
+      "url": "https://www.semanticscholar.org/paper/872182b8d8825d3bb1fd15f71bbdbdda19a259ba", 
+      "venue": "AAAI Spring Symposium: Computational Approaches to Analyzing Weblogs", 
+      "year": 2006
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "d7c15e5f3190c6719dd6c0514d6b43a399cc7c82", 
+      "title": "An effective approach to document retrieval via utilizing WordNet and recognizing phrases", 
+      "url": "https://www.semanticscholar.org/paper/d7c15e5f3190c6719dd6c0514d6b43a399cc7c82", 
+      "venue": "SIGIR", 
+      "year": 2004
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "9c19da00f4c1ec4ce51e271f9804905c5a293eea", 
+      "title": "TREC 2006 at Maryland: Blog, Enterprise, Legal and QA Tracks", 
+      "url": "https://www.semanticscholar.org/paper/9c19da00f4c1ec4ce51e271f9804905c5a293eea", 
+      "venue": "TREC", 
+      "year": 2006
+    }
+  ], 
+  "title": "Opinion retrieval from blogs", 
+  "url": "https://www.semanticscholar.org/paper/f6744e31fa3cc2dc909dae1781952f82a1d5b52f", 
+  "venue": "CIKM", 
+  "year": 2007
+}

@@ -1,0 +1,382 @@
+{
+  "authors": [
+    {
+      "authorId": "6163131", 
+      "name": "Ed Collins", 
+      "url": "https://www.semanticscholar.org/author/6163131"
+    }, 
+    {
+      "authorId": "1736067", 
+      "name": "Isabelle Augenstein", 
+      "url": "https://www.semanticscholar.org/author/1736067"
+    }, 
+    {
+      "authorId": "8956060", 
+      "name": "Sebastian Riedel", 
+      "url": "https://www.semanticscholar.org/author/8956060"
+    }
+  ], 
+  "citationVelocity": 0, 
+  "citations": [], 
+  "doi": "10.18653/v1/K17-1021", 
+  "influentialCitationCount": 0, 
+  "paperId": "51dc23dc1d4133145623e73294ed9b06015a44fd", 
+  "references": [
+    {
+      "isInfluential": false, 
+      "paperId": "1da83be5d25d1afa9016b91199f3d83813a11dfb", 
+      "title": "Summarizing Scientific Articles: Experiments with Relevance and Rhetorical Status", 
+      "url": "https://www.semanticscholar.org/paper/1da83be5d25d1afa9016b91199f3d83813a11dfb", 
+      "venue": "Computational Linguistics", 
+      "year": 2002
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "9952d4d5717afd4a27157ed8b98b0ee3dcb70d6c", 
+      "title": "ImageNet Classification with Deep Convolutional Neural Networks", 
+      "url": "https://www.semanticscholar.org/paper/9952d4d5717afd4a27157ed8b98b0ee3dcb70d6c", 
+      "venue": "", 
+      "year": 2013
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "07843731bf4889ea28757d726e6867108ff9dbbb", 
+      "title": "Get To The Point: Summarization with Pointer-Generator Networks", 
+      "url": "https://www.semanticscholar.org/paper/07843731bf4889ea28757d726e6867108ff9dbbb", 
+      "venue": "ACL", 
+      "year": 2017
+    }, 
+    {
+      "isInfluential": true, 
+      "paperId": "1bc49abe5145055f1fa259bd4e700b1eb6b7f08d", 
+      "title": "SummaRuNNer: A Recurrent Neural Network based Sequence Model for Extractive Summarization of Documents", 
+      "url": "https://www.semanticscholar.org/paper/1bc49abe5145055f1fa259bd4e700b1eb6b7f08d", 
+      "venue": "AAAI", 
+      "year": 2017
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "4446055e5d6d762ec970476ed3f3ccf200877b60", 
+      "title": "Supervised Keyphrase Extraction as Positive Unlabeled Learning", 
+      "url": "https://www.semanticscholar.org/paper/4446055e5d6d762ec970476ed3f3ccf200877b60", 
+      "venue": "EMNLP", 
+      "year": 2016
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "6d9f0bcb44ac9a266e5de7eeada0f01b5f957d84", 
+      "title": "A compositional context sensitive multi-document summarizer: exploring the factors that influence summarization", 
+      "url": "https://www.semanticscholar.org/paper/6d9f0bcb44ac9a266e5de7eeada0f01b5f957d84", 
+      "venue": "SIGIR", 
+      "year": 2006
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "0cda68237d8ba29bd320c729e6b0855313aa9e7b", 
+      "title": "Analyzing the Dynamics of Research by Extracting Key Aspects of Scientific Papers", 
+      "url": "https://www.semanticscholar.org/paper/0cda68237d8ba29bd320c729e6b0855313aa9e7b", 
+      "venue": "IJCNLP", 
+      "year": 2011
+    }, 
+    {
+      "isInfluential": true, 
+      "paperId": "27e4b65121d3c88643d86dc91a9bdafdf223b988", 
+      "title": "Abstractive Text Summarization using Sequence-to-sequence RNNs and Beyond", 
+      "url": "https://www.semanticscholar.org/paper/27e4b65121d3c88643d86dc91a9bdafdf223b988", 
+      "venue": "CoNLL", 
+      "year": 2016
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "c08f3659478581fffdd1256dbca8e9c001458fc3", 
+      "title": "Overview of the CL-SciSumm 2016 Shared Task", 
+      "url": "https://www.semanticscholar.org/paper/c08f3659478581fffdd1256dbca8e9c001458fc3", 
+      "venue": "BIRNDL@JCDL", 
+      "year": 2016
+    }, 
+    {
+      "isInfluential": true, 
+      "paperId": "2c56d3a6e0c5260614ebd8bc843a29e18c4afbbc", 
+      "title": "A Trainable Document Summarizer", 
+      "url": "https://www.semanticscholar.org/paper/2c56d3a6e0c5260614ebd8bc843a29e18c4afbbc", 
+      "venue": "SIGIR", 
+      "year": 1995
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "0b59cbda5ee07196f36c0e888af9191d803b2091", 
+      "title": "SemEval-2010 Task 5 : Automatic Keyphrase Extraction from Scientific Articles", 
+      "url": "https://www.semanticscholar.org/paper/0b59cbda5ee07196f36c0e888af9191d803b2091", 
+      "venue": "SemEval@ACL", 
+      "year": 2010
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "3827c54958e653b5ce23e19a347f1f52e25592b8", 
+      "title": "Beyond SumBasic: Task-focused summarization with sentence simplification and lexical expansion", 
+      "url": "https://www.semanticscholar.org/paper/3827c54958e653b5ce23e19a347f1f52e25592b8", 
+      "venue": "Inf. Process. Manage.", 
+      "year": 2007
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "225409e428b1bee7660f6700277c00c8ba9bd9b0", 
+      "title": "MEAD - A Platform for Multidocument Multilingual Text Summarization", 
+      "url": "https://www.semanticscholar.org/paper/225409e428b1bee7660f6700277c00c8ba9bd9b0", 
+      "venue": "LREC", 
+      "year": 2004
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "cdf88a25d83bd7b0f28c67e1a5e2b84496f67906", 
+      "title": "Detecting (Un)Important Content for Single-Document News Summarization", 
+      "url": "https://www.semanticscholar.org/paper/cdf88a25d83bd7b0f28c67e1a5e2b84496f67906", 
+      "venue": "EACL", 
+      "year": 2017
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "8937f6ecd5e19b85c2875bad3e10e320fd15623b", 
+      "title": "LexRank: Graph-based Centrality as Salience in Text Summarization", 
+      "url": "https://www.semanticscholar.org/paper/8937f6ecd5e19b85c2875bad3e10e320fd15623b", 
+      "venue": "", 
+      "year": 2004
+    }, 
+    {
+      "isInfluential": true, 
+      "paperId": "34f25a8704614163c4095b3ee2fc969b60de4698", 
+      "title": "Dropout: a simple way to prevent neural networks from overfitting", 
+      "url": "https://www.semanticscholar.org/paper/34f25a8704614163c4095b3ee2fc969b60de4698", 
+      "venue": "Journal of Machine Learning Research", 
+      "year": 2014
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "4e8b3b71feed7c2575864f6b42d301822053d25d", 
+      "title": "Machine-Made Index for Technical Literature - An Experiment", 
+      "url": "https://www.semanticscholar.org/paper/4e8b3b71feed7c2575864f6b42d301822053d25d", 
+      "venue": "IBM Journal of Research and Development", 
+      "year": 1958
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "11f3474414d9c3fe3d9f85777b3292a5b31dd6f4", 
+      "title": "Summarization Based on Embedding Distributions", 
+      "url": "https://www.semanticscholar.org/paper/11f3474414d9c3fe3d9f85777b3292a5b31dd6f4", 
+      "venue": "EMNLP", 
+      "year": 2015
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "2b4c326582a5a86379816f7c78199886c84e638c", 
+      "title": "Using Machine Learning Methods and Linguistic Features in Single-Document Extractive Summarization", 
+      "url": "https://www.semanticscholar.org/paper/2b4c326582a5a86379816f7c78199886c84e638c", 
+      "venue": "DMNLP@PKDD/ECML", 
+      "year": 2016
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "0b88101ae68dcd4e1284aab1dc6e223569d8fa8c", 
+      "title": "MUSEEC: A Multilingual Text Summarization Tool", 
+      "url": "https://www.semanticscholar.org/paper/0b88101ae68dcd4e1284aab1dc6e223569d8fa8c", 
+      "venue": "ACL", 
+      "year": 2016
+    }, 
+    {
+      "isInfluential": true, 
+      "paperId": "2cb8497f9214735ffd1bd57db645794459b8ff41", 
+      "title": "Teaching Machines to Read and Comprehend", 
+      "url": "https://www.semanticscholar.org/paper/2cb8497f9214735ffd1bd57db645794459b8ff41", 
+      "venue": "NIPS", 
+      "year": 2015
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "80676b9c23d161fd1d6da43936d8393502eca6af", 
+      "title": "Exploring Content Models for Multi-Document Summarization", 
+      "url": "https://www.semanticscholar.org/paper/80676b9c23d161fd1d6da43936d8393502eca6af", 
+      "venue": "HLT-NAACL", 
+      "year": 2009
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "4a0db09d0c19dfeb78900164d46d4b06cd3fc9f3", 
+      "title": "Multi-Task Learning of Keyphrase Boundary Classification", 
+      "url": "https://www.semanticscholar.org/paper/4a0db09d0c19dfeb78900164d46d4b06cd3fc9f3", 
+      "venue": "ACL", 
+      "year": 2017
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "1aec04aa64f165bb075cc4ce6ad79d36c89d62b6", 
+      "title": "Long Short-Term Memory", 
+      "url": "https://www.semanticscholar.org/paper/1aec04aa64f165bb075cc4ce6ad79d36c89d62b6", 
+      "venue": "Neural Computation", 
+      "year": 1997
+    }, 
+    {
+      "isInfluential": true, 
+      "paperId": "5941eed5b0b4d4834fdc8b8f626f2154dfa786b7", 
+      "title": "Trainable Citation-enhanced Summarization of Scientific Articles", 
+      "url": "https://www.semanticscholar.org/paper/5941eed5b0b4d4834fdc8b8f626f2154dfa786b7", 
+      "venue": "BIRNDL@JCDL", 
+      "year": 2016
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "5109ce63a9a1ad33923bee2dc672c6951145c364", 
+      "title": "Extractive Summarization by Maximizing Semantic Volume", 
+      "url": "https://www.semanticscholar.org/paper/5109ce63a9a1ad33923bee2dc672c6951145c364", 
+      "venue": "EMNLP", 
+      "year": 2015
+    }, 
+    {
+      "isInfluential": true, 
+      "paperId": "75dbf8c630480045174330559e259f2f8a752f9f", 
+      "title": "Sentence-based Summarization of Scientific Documents The design and implementation of an online available automatic summarizer", 
+      "url": "https://www.semanticscholar.org/paper/75dbf8c630480045174330559e259f2f8a752f9f", 
+      "venue": "", 
+      "year": 2005
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "0a386ce12cc4ac26f5af5d43232bf307761f5c25", 
+      "title": "Extraction and generalisation of variables from scientific publications", 
+      "url": "https://www.semanticscholar.org/paper/0a386ce12cc4ac26f5af5d43232bf307761f5c25", 
+      "venue": "EMNLP", 
+      "year": 2015
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "3981b1c4fe4edba811bcbfcf743af82c768d3753", 
+      "title": "Neural Summarization by Extracting Sentences and Words", 
+      "url": "https://www.semanticscholar.org/paper/3981b1c4fe4edba811bcbfcf743af82c768d3753", 
+      "venue": "ACL", 
+      "year": 2016
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "b3bf6373ff41a115197cb5b30e57830c16130c2c", 
+      "title": "Using TF-IDF to Determine Word Relevance in Document Queries", 
+      "url": "https://www.semanticscholar.org/paper/b3bf6373ff41a115197cb5b30e57830c16130c2c", 
+      "venue": "", 
+      "year": 2003
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "7a67159fc7bc76d0b37930b55005a69b51241635", 
+      "title": "Abstractive Sentence Summarization with Attentive Recurrent Neural Networks", 
+      "url": "https://www.semanticscholar.org/paper/7a67159fc7bc76d0b37930b55005a69b51241635", 
+      "venue": "HLT-NAACL", 
+      "year": 2016
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "6e8cae3c7a1f9b6572c8fb318efc43f48edd24e8", 
+      "title": "Overview of the TAC 2008 Update Summarization Task", 
+      "url": "https://www.semanticscholar.org/paper/6e8cae3c7a1f9b6572c8fb318efc43f48edd24e8", 
+      "venue": "TAC", 
+      "year": 2008
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "9d85b17a9fd8b256f7eda6056c7218326c377e33", 
+      "title": "Event-Based Extractive Summarization", 
+      "url": "https://www.semanticscholar.org/paper/9d85b17a9fd8b256f7eda6056c7218326c377e33", 
+      "venue": "", 
+      "year": 2004
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "a6dcc17c6f3dbc2d203ade9ff671a895a9dead7c", 
+      "title": "The Automatic Creation of Literature Abstracts", 
+      "url": "https://www.semanticscholar.org/paper/a6dcc17c6f3dbc2d203ade9ff671a895a9dead7c", 
+      "venue": "IBM Journal of Research and Development", 
+      "year": 1958
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "a98d11d7d6c9717b8a761b3d702cb10a4a2e2c4a", 
+      "title": "Scientific Article Summarization Using Citation-Context and Article's Discourse Structure", 
+      "url": "https://www.semanticscholar.org/paper/a98d11d7d6c9717b8a761b3d702cb10a4a2e2c4a", 
+      "venue": "EMNLP", 
+      "year": 2015
+    }, 
+    {
+      "isInfluential": true, 
+      "paperId": "255e97d82f528b613dbe8883727abfd14f3f9f39", 
+      "title": "ROUGE: A Package For Automatic Evaluation Of Summaries", 
+      "url": "https://www.semanticscholar.org/paper/255e97d82f528b613dbe8883727abfd14f3f9f39", 
+      "venue": "", 
+      "year": 2004
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "38dde28d624b89ed568976a28dda64f0b0c048c2", 
+      "title": "Using Latent Semantic Analysis in Text Summarization and Summary Evaluation", 
+      "url": "https://www.semanticscholar.org/paper/38dde28d624b89ed568976a28dda64f0b0c048c2", 
+      "venue": "", 
+      "year": 2004
+    }, 
+    {
+      "isInfluential": true, 
+      "paperId": "0f6d8e5d9b243eaf1d3968d8cd272db64e536beb", 
+      "title": "Learning Summary Prior Representation for Extractive Summarization", 
+      "url": "https://www.semanticscholar.org/paper/0f6d8e5d9b243eaf1d3968d8cd272db64e536beb", 
+      "venue": "ACL", 
+      "year": 2015
+    }, 
+    {
+      "isInfluential": true, 
+      "paperId": "6386a75eb462dcac680bd9cc197cac5d7d7bef81", 
+      "title": "Automatic analysis, theme generation, and summarization of machine-readable texts.", 
+      "url": "https://www.semanticscholar.org/paper/6386a75eb462dcac680bd9cc197cac5d7d7bef81", 
+      "venue": "Science", 
+      "year": 1994
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "7b95d389bc6affe6a127d53b04bcfd68138f1a1a", 
+      "title": "TextRank: Bringing Order Into Texts", 
+      "url": "https://www.semanticscholar.org/paper/7b95d389bc6affe6a127d53b04bcfd68138f1a1a", 
+      "venue": "", 
+      "year": 2004
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "71007219617d0f5e2419c5c1ab1a0d6d0bc40b7e", 
+      "title": "SemEval 2017 Task 10: ScienceIE - Extracting Keyphrases and Relations from Scientific Publications", 
+      "url": "https://www.semanticscholar.org/paper/71007219617d0f5e2419c5c1ab1a0d6d0bc40b7e", 
+      "venue": "SemEval@ACL", 
+      "year": 2017
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "6f9d608f3f4fec70f793f0695e89ec8a69aa6323", 
+      "title": "Automatic summarising: The state of the art", 
+      "url": "https://www.semanticscholar.org/paper/6f9d608f3f4fec70f793f0695e89ec8a69aa6323", 
+      "venue": "Inf. Process. Manage.", 
+      "year": 2007
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "468b9055950c428b17f0bf2ff63fe48a6cb6c998", 
+      "title": "A Neural Attention Model for Abstractive Sentence Summarization", 
+      "url": "https://www.semanticscholar.org/paper/468b9055950c428b17f0bf2ff63fe48a6cb6c998", 
+      "venue": "EMNLP", 
+      "year": 2015
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "1eb11097acd3ded87ce4f6a159e1df499d79988b", 
+      "title": "Unsupervised learning of rhetorical structure with un-topic models", 
+      "url": "https://www.semanticscholar.org/paper/1eb11097acd3ded87ce4f6a159e1df499d79988b", 
+      "venue": "COLING", 
+      "year": 2014
+    }
+  ], 
+  "title": "A Supervised Approach to Extractive Summarisation of Scientific Papers", 
+  "url": "https://www.semanticscholar.org/paper/51dc23dc1d4133145623e73294ed9b06015a44fd", 
+  "venue": "CoNLL", 
+  "year": 2017
+}

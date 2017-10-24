@@ -1,0 +1,912 @@
+{
+  "authors": [
+    {
+      "authorId": "1741453", 
+      "name": "Aron Culotta", 
+      "url": "https://www.semanticscholar.org/author/1741453"
+    }, 
+    {
+      "authorId": "2987641", 
+      "name": "Michael L. Wick", 
+      "url": "https://www.semanticscholar.org/author/2987641"
+    }, 
+    {
+      "authorId": "1735747", 
+      "name": "Andrew McCallum", 
+      "url": "https://www.semanticscholar.org/author/1735747"
+    }
+  ], 
+  "citationVelocity": 0, 
+  "citations": [
+    {
+      "isInfluential": true, 
+      "paperId": "ddad9ba6a6b496fa63da02d897a5e6b72d1a39a3", 
+      "title": "Computational Models of Anaphora Resolution: A Survey", 
+      "url": "https://www.semanticscholar.org/paper/ddad9ba6a6b496fa63da02d897a5e6b72d1a39a3"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "1d830d8cc5446757873bba042f0c3ee830b050bf", 
+      "title": "A unified approach for schema matching, coreference and canonicalization", 
+      "url": "https://www.semanticscholar.org/paper/1d830d8cc5446757873bba042f0c3ee830b050bf"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "2e21b0c06983f69401d191dcf963f79a6a5c9521", 
+      "title": "Prune-and-Score: Learning for Greedy Coreference Resolution", 
+      "url": "https://www.semanticscholar.org/paper/2e21b0c06983f69401d191dcf963f79a6a5c9521"
+    }, 
+    {
+      "isInfluential": true, 
+      "paperId": "49142d5a6bfe788cbd0ca2e05cbd061ee86688bc", 
+      "title": "An Entity-Mention Model for Coreference Resolution with Inductive Logic Programming", 
+      "url": "https://www.semanticscholar.org/paper/49142d5a6bfe788cbd0ca2e05cbd061ee86688bc"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "f89c2fd3321764f753682d9ecd1ec8dc29ac21e4", 
+      "title": "Project Deliverable Report D5.1 \u2013 Writing Support and Feedback Design Work Package Wp5", 
+      "url": "https://www.semanticscholar.org/paper/f89c2fd3321764f753682d9ecd1ec8dc29ac21e4"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "b5ee045e84665a7e90bb688dc8080b2218b2eba4", 
+      "title": "Entity-Centric Coreference Resolution with Model Stacking", 
+      "url": "https://www.semanticscholar.org/paper/b5ee045e84665a7e90bb688dc8080b2218b2eba4"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "65cdab424fe449deaab359a1f8e16899ac91dd2a", 
+      "title": "FACTORIE: Probabilistic Programming via Imperatively Defined Factor Graphs", 
+      "url": "https://www.semanticscholar.org/paper/65cdab424fe449deaab359a1f8e16899ac91dd2a"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "2686a0b9f48d6e35a9f3eab5af23c06974a204e4", 
+      "title": "Enforcing Transitivity in Coreference Resolution", 
+      "url": "https://www.semanticscholar.org/paper/2686a0b9f48d6e35a9f3eab5af23c06974a204e4"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "50cabdb8d18531ce99bc6f947ccabdfdc8cbe01e", 
+      "title": "Easy-first Coreference Resolution", 
+      "url": "https://www.semanticscholar.org/paper/50cabdb8d18531ce99bc6f947ccabdfdc8cbe01e"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "e90ad592149a6f1d12783afc2a2e2e2911e3ce28", 
+      "title": "Simple Coreference Resolution with Rich Syntactic and Semantic Features: Is it enough?", 
+      "url": "https://www.semanticscholar.org/paper/e90ad592149a6f1d12783afc2a2e2e2911e3ce28"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "981f908bd9a70bdd486c1de4143b4f98854f35e1", 
+      "title": "SkipCor: Skip-Mention Coreference Resolution Using Linear-Chain Conditional Random Fields", 
+      "url": "https://www.semanticscholar.org/paper/981f908bd9a70bdd486c1de4143b4f98854f35e1"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "435f4dc51171569405db946f0ee26ff86bf85622", 
+      "title": "Learning Anaphoricity and Antecedent Ranking Features for Coreference Resolution", 
+      "url": "https://www.semanticscholar.org/paper/435f4dc51171569405db946f0ee26ff86bf85622"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "98cfdbb9e461da65ceae6bc9b76f502d461d25dd", 
+      "title": "Learning the Information Status of Noun Phrases in Spoken Dialogues", 
+      "url": "https://www.semanticscholar.org/paper/98cfdbb9e461da65ceae6bc9b76f502d461d25dd"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "b2688b811c28f69665732a5a68680c379a339fc9", 
+      "title": "Adaptive Clustering for Coreference Resolution with Deterministic Rules and Web-Based Language Models", 
+      "url": "https://www.semanticscholar.org/paper/b2688b811c28f69665732a5a68680c379a339fc9"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "25a51c099781f53e615139132488570924fb910a", 
+      "title": "Marmara Turkish Coreference Corpus and Coreference Resolution Baseline", 
+      "url": "https://www.semanticscholar.org/paper/25a51c099781f53e615139132488570924fb910a"
+    }, 
+    {
+      "isInfluential": true, 
+      "paperId": "cfb5799d467277686555aa5c9cce313c1091f558", 
+      "title": "Coreference resolution via hypergraph partitioning", 
+      "url": "https://www.semanticscholar.org/paper/cfb5799d467277686555aa5c9cce313c1091f558"
+    }, 
+    {
+      "isInfluential": true, 
+      "paperId": "abba83b5747e98d10ab982df9ae94cc799668f16", 
+      "title": "Simple Coreference Resolution with Rich Syntactic and Semantic Features", 
+      "url": "https://www.semanticscholar.org/paper/abba83b5747e98d10ab982df9ae94cc799668f16"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "b2da18b28fde224af80f8865f6c82f3d4ed0e755", 
+      "title": "Deterministic Coreference Resolution Based on Entity-Centric, Precision-Ranked Rules", 
+      "url": "https://www.semanticscholar.org/paper/b2da18b28fde224af80f8865f6c82f3d4ed0e755"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "48e5b8795bb2523f4cfb4dfb8bd1bc2a2d76c4a0", 
+      "title": "Semantic Grounding in Dialogue for Complex Problem Solving", 
+      "url": "https://www.semanticscholar.org/paper/48e5b8795bb2523f4cfb4dfb8bd1bc2a2d76c4a0"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "23f3abcd41b85d04784c126ad5c2a1a8120865db", 
+      "title": "A Joint Model for Quotation Attribution and Coreference Resolution", 
+      "url": "https://www.semanticscholar.org/paper/23f3abcd41b85d04784c126ad5c2a1a8120865db"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "59f5fe546e27a86a3a2bee235f53c46397f9b2ef", 
+      "title": "C3EL: A Joint Model for Cross-Document Co-Reference Resolution and Entity Linking", 
+      "url": "https://www.semanticscholar.org/paper/59f5fe546e27a86a3a2bee235f53c46397f9b2ef"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "01e2b73d836ac0f64e553b451422df26d1685df4", 
+      "title": "Multigraph Clustering for Unsupervised Coreference Resolution", 
+      "url": "https://www.semanticscholar.org/paper/01e2b73d836ac0f64e553b451422df26d1685df4"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "cfe9ed5d4a49454af833fe343ea52fb7d0ac3222", 
+      "title": "Anaphora Resolution in Portuguese An hybrid approach", 
+      "url": "https://www.semanticscholar.org/paper/cfe9ed5d4a49454af833fe343ea52fb7d0ac3222"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "955013855388524226fcde76a70ae2109f34d08d", 
+      "title": "Latent Trees for Coreference Resolution", 
+      "url": "https://www.semanticscholar.org/paper/955013855388524226fcde76a70ae2109f34d08d"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "8ca830972d325a094ff57545147d91d22c903542", 
+      "title": "An Adaptive Clustering Model that Integrates Expert Rules and N-gram Statistics for Coreference Resolution", 
+      "url": "https://www.semanticscholar.org/paper/8ca830972d325a094ff57545147d91d22c903542"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "3b354ecf411461f404faaff688a833f1b4057f56", 
+      "title": "Learning Structured Perceptrons for Coreference Resolution with Latent Antecedents and Non-local Features", 
+      "url": "https://www.semanticscholar.org/paper/3b354ecf411461f404faaff688a833f1b4057f56"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "11321d730b5528ca0f808664eb0e121cbae41ad0", 
+      "title": "Learning-based Multi-Sieve Co-reference Resolution with Knowledge", 
+      "url": "https://www.semanticscholar.org/paper/11321d730b5528ca0f808664eb0e121cbae41ad0"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "4a19517bfdb4582867a886c7b619f625f3f25ec0", 
+      "title": "Monte Carlo MCMC: Efficient Inference by Approximate Sampling", 
+      "url": "https://www.semanticscholar.org/paper/4a19517bfdb4582867a886c7b619f625f3f25ec0"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "2155fd50ca07d78674ee186b10beab1d5ef5dac3", 
+      "title": "Coreference: Current Trends and Future Directions", 
+      "url": "https://www.semanticscholar.org/paper/2155fd50ca07d78674ee186b10beab1d5ef5dac3"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "2025d9fb45384fb080f18dead753211522615006", 
+      "title": "Using Knowledge and Constraints To Find the Best Antecedent", 
+      "url": "https://www.semanticscholar.org/paper/2025d9fb45384fb080f18dead753211522615006"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "6c22be8f914c03cfa5448facfb5aaa0e5e0c567a", 
+      "title": "Joint Anaphoricity Detection and Coreference Resolution with Constrained Latent Structures", 
+      "url": "https://www.semanticscholar.org/paper/6c22be8f914c03cfa5448facfb5aaa0e5e0c567a"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "64dbbddca7d748c95ac4c19ff687746ff27282bc", 
+      "title": "Scalable Probabilistic Databases with Factor Graphs and MCMC", 
+      "url": "https://www.semanticscholar.org/paper/64dbbddca7d748c95ac4c19ff687746ff27282bc"
+    }, 
+    {
+      "isInfluential": true, 
+      "paperId": "9320080378acb537e813a06646d7892c9a034b63", 
+      "title": "ELERFED: Final Report", 
+      "url": "https://www.semanticscholar.org/paper/9320080378acb537e813a06646d7892c9a034b63"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "030c2bbc84896c6114ebb3b2d4850df4143b1597", 
+      "title": "Learning and Inference in Weighted Logic with Application to Natural Language Processing", 
+      "url": "https://www.semanticscholar.org/paper/030c2bbc84896c6114ebb3b2d4850df4143b1597"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "654f4582ef00ed49ef4159a5a87ae02bef690d24", 
+      "title": "Using domain knowledge and domain-inspired discourse model for coreference resolution for clinical narratives", 
+      "url": "https://www.semanticscholar.org/paper/654f4582ef00ed49ef4159a5a87ae02bef690d24"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "1c79ef0d5fc39c179da975e5ec0c55b362f84a8b", 
+      "title": "Learning Global Features for Coreference Resolution", 
+      "url": "https://www.semanticscholar.org/paper/1c79ef0d5fc39c179da975e5ec0c55b362f84a8b"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "1ef4b1dd230079e4df1ce3551b1043fd785d5e39", 
+      "title": "(Co)Reference Resolution in Wikipedia", 
+      "url": "https://www.semanticscholar.org/paper/1ef4b1dd230079e4df1ce3551b1043fd785d5e39"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "b90196005b0f1eb0953758c16869633d7ca3399d", 
+      "title": "A Multi-Pass Sieve for Coreference Resolution", 
+      "url": "https://www.semanticscholar.org/paper/b90196005b0f1eb0953758c16869633d7ca3399d"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "40407ead42323006418e834d2e6d0ca2b7fa70ac", 
+      "title": "A Corpus for Cross-Document Co-reference", 
+      "url": "https://www.semanticscholar.org/paper/40407ead42323006418e834d2e6d0ca2b7fa70ac"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "0a7412b9b00e61886b21bbdb8eb521f23e215e54", 
+      "title": "Generic Statistical Relational Entity Resolution in Knowledge Graphs", 
+      "url": "https://www.semanticscholar.org/paper/0a7412b9b00e61886b21bbdb8eb521f23e215e54"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "2193bcc5d9fd2798865d2aa7c0207685404dd13d", 
+      "title": "CoNLL-2012 Shared Task: Modeling Multilingual Unrestricted Coreference in OntoNotes", 
+      "url": "https://www.semanticscholar.org/paper/2193bcc5d9fd2798865d2aa7c0207685404dd13d"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "3501f4dfaf6448c5e8cc57acaa06a75979a0b1f0", 
+      "title": "Large-Scale Cross-Document Coreference Using Distributed Inference and Hierarchical Models", 
+      "url": "https://www.semanticscholar.org/paper/3501f4dfaf6448c5e8cc57acaa06a75979a0b1f0"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "3f7dc193f46a7932a35e8fc3faeaae634013c667", 
+      "title": "Probabilistic Reasoning in the Semantic Web using Markov Logic", 
+      "url": "https://www.semanticscholar.org/paper/3f7dc193f46a7932a35e8fc3faeaae634013c667"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "1c0f2e97329d41ae528741686294841817821620", 
+      "title": "Active Learning for Coreference Resolution", 
+      "url": "https://www.semanticscholar.org/paper/1c0f2e97329d41ae528741686294841817821620"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "e1a7982af36f0bedf74931e3cd5665952d0fb8c6", 
+      "title": "Structuring E-Commerce Inventory", 
+      "url": "https://www.semanticscholar.org/paper/e1a7982af36f0bedf74931e3cd5665952d0fb8c6"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "1fcc320fb6eacf12b00ce4f415be8eadf6cb3c9e", 
+      "title": "Supervised Noun Phrase Coreference Research: The First Fifteen Years", 
+      "url": "https://www.semanticscholar.org/paper/1fcc320fb6eacf12b00ce4f415be8eadf6cb3c9e"
+    }, 
+    {
+      "isInfluential": true, 
+      "paperId": "a72d1b50797cee5ae7a783925b0f9be6318c24d3", 
+      "title": "End-to-End Coreference Resolution via Hypergraph Partitioning", 
+      "url": "https://www.semanticscholar.org/paper/a72d1b50797cee5ae7a783925b0f9be6318c24d3"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "045977c149c3086cb0eb0595370a0bb0260c76eb", 
+      "title": "Recognizing Anaphora Reference in Persian Sentences", 
+      "url": "https://www.semanticscholar.org/paper/045977c149c3086cb0eb0595370a0bb0260c76eb"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "3f8c72144366d0545a5673bd8e16c372a1c76292", 
+      "title": "A Constraint-Based Hypergraph Partitioning Approach to Coreference Resolution", 
+      "url": "https://www.semanticscholar.org/paper/3f8c72144366d0545a5673bd8e16c372a1c76292"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "fb2d078681b3b3f60bd5992938c0edc579c85e7b", 
+      "title": "Probabilistic joint models incorporating logic and learning via structured variational approximation for information extraction", 
+      "url": "https://www.semanticscholar.org/paper/fb2d078681b3b3f60bd5992938c0edc579c85e7b"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "193ad334f669737f421b58198f787470d506e698", 
+      "title": "Joint inference of entities, relations, and coreference", 
+      "url": "https://www.semanticscholar.org/paper/193ad334f669737f421b58198f787470d506e698"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "6cdf529baca3e24ef2a9d543a96fa1df15338bf9", 
+      "title": "Joint Apposition Extraction with Syntactic and Semantic Constraints", 
+      "url": "https://www.semanticscholar.org/paper/6cdf529baca3e24ef2a9d543a96fa1df15338bf9"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "645d076e2abb64e5f671223d549a87d327541b26", 
+      "title": "Advances in Ranking", 
+      "url": "https://www.semanticscholar.org/paper/645d076e2abb64e5f671223d549a87d327541b26"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "2c67ded0d9cdb423c5e9cfbc8383258fbb0635da", 
+      "title": "Constraint-Driven Rank-Based Learning for Information Extraction", 
+      "url": "https://www.semanticscholar.org/paper/2c67ded0d9cdb423c5e9cfbc8383258fbb0635da"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "3369b093991fe7d687b9ff33ecaf9d037d7d59e6", 
+      "title": "An integrated discriminative probabilistic approach to information extraction", 
+      "url": "https://www.semanticscholar.org/paper/3369b093991fe7d687b9ff33ecaf9d037d7d59e6"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "a03df0d1a46f4394c8c93a2a0a94c7e09a94482f", 
+      "title": "Evaluation Metrics For End-to-End Coreference Resolution Systems", 
+      "url": "https://www.semanticscholar.org/paper/a03df0d1a46f4394c8c93a2a0a94c7e09a94482f"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "2ad68d81b981ce1addf13b2ac0628e4a5f07461c", 
+      "title": "Communicative gestures in coreference identification in multiparty meetings", 
+      "url": "https://www.semanticscholar.org/paper/2ad68d81b981ce1addf13b2ac0628e4a5f07461c"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "24e47467806342ca8f47eca74e7b4f54bac18b26", 
+      "title": "Narrowing the Modeling Gap: A Cluster-Ranking Approach to Coreference Resolution", 
+      "url": "https://www.semanticscholar.org/paper/24e47467806342ca8f47eca74e7b4f54bac18b26"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "5759298cb9206f15a26314f595b7317d72e0a22a", 
+      "title": "Two Discourse Driven Language Models for Semantics", 
+      "url": "https://www.semanticscholar.org/paper/5759298cb9206f15a26314f595b7317d72e0a22a"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "1d50ced0a4cf9cf2f83f556b76a49f38753d19c1", 
+      "title": "Combining ILP and MLN for Coreference Resolution", 
+      "url": "https://www.semanticscholar.org/paper/1d50ced0a4cf9cf2f83f556b76a49f38753d19c1"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "5d437f098752798b601e5171311e74184dd05843", 
+      "title": "Supervised Models for Coreference Resolution", 
+      "url": "https://www.semanticscholar.org/paper/5d437f098752798b601e5171311e74184dd05843"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "18b8e3b084e087c34df0186a721ab180114a6af4", 
+      "title": "Coreference Resolution across Corpora: Languages, Coding Schemes, and Preprocessing Information", 
+      "url": "https://www.semanticscholar.org/paper/18b8e3b084e087c34df0186a721ab180114a6af4"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "0af0a902968f0ef53da25442506ba8b158125d0d", 
+      "title": "Supporting Natural Language Processing with Background Knowledge: Coreference Resolution Case", 
+      "url": "https://www.semanticscholar.org/paper/0af0a902968f0ef53da25442506ba8b158125d0d"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "7719679e6255c51d157116fcfbc858b7e7dfdb59", 
+      "title": "Coreference Resolution in a Modular, Entity-Centered Model", 
+      "url": "https://www.semanticscholar.org/paper/7719679e6255c51d157116fcfbc858b7e7dfdb59"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "0a273fd76fceaf12c1d5065847d2792fad33426d", 
+      "title": "Iterative joint extraction of entities, relationships and coreferences from text sources", 
+      "url": "https://www.semanticscholar.org/paper/0a273fd76fceaf12c1d5065847d2792fad33426d"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "e06271cf5a6dc49315b1fd878ccd273a89b4b42a", 
+      "title": "An Incremental Model for Coreference Resolution with Restrictive Antecedent Accessibility", 
+      "url": "https://www.semanticscholar.org/paper/e06271cf5a6dc49315b1fd878ccd273a89b4b42a"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "0bc2720a759c863529f1a4a2382dc0ae34b8283e", 
+      "title": "A Joint Framework for Coreference Resolution and Mention Head Detection", 
+      "url": "https://www.semanticscholar.org/paper/0bc2720a759c863529f1a4a2382dc0ae34b8283e"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "6c549bc15dce990185ec52294339a875522a4bb9", 
+      "title": "Monte Carlo MCMC: Efficient Inference by Sampling Factors", 
+      "url": "https://www.semanticscholar.org/paper/6c549bc15dce990185ec52294339a875522a4bb9"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "b9d3265febfa06c22533bd391814ac8e17388c0b", 
+      "title": "An Incremental Entity-Mention Model for Coreference Resolution with Restrictive Antecedent Accessibility", 
+      "url": "https://www.semanticscholar.org/paper/b9d3265febfa06c22533bd391814ac8e17388c0b"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "d3fd306aafd48d59dc332719ac7af8f3dfe260dd", 
+      "title": "Coreference Resolution using Markov Logic Network", 
+      "url": "https://www.semanticscholar.org/paper/d3fd306aafd48d59dc332719ac7af8f3dfe260dd"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "e7d24df49facdb4d9576656ebc1d51f29c2cf6d7", 
+      "title": "Coreference resolution: A review of general methodologies and applications in the clinical domain", 
+      "url": "https://www.semanticscholar.org/paper/e7d24df49facdb4d9576656ebc1d51f29c2cf6d7"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "135d2489d2aaa2a22f3298b4baf3a442626f7ad9", 
+      "title": "Events are Not Simple: Identity, Non-Identity, and Quasi-Identity", 
+      "url": "https://www.semanticscholar.org/paper/135d2489d2aaa2a22f3298b4baf3a442626f7ad9"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "4f8e6bb7af5110c425c137db60676687af13636d", 
+      "title": "ENCORE: Experiments with a Synthetic Entity Co-reference Resolution Tool", 
+      "url": "https://www.semanticscholar.org/paper/4f8e6bb7af5110c425c137db60676687af13636d"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "383b9b9621b10e45cfb252e0f5b402f1831c32f6", 
+      "title": "Cross-Document Co-Reference Resolution using Sample-Based Clustering with Knowledge Enrichment", 
+      "url": "https://www.semanticscholar.org/paper/383b9b9621b10e45cfb252e0f5b402f1831c32f6"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "440e2d2e2deaeb87349ab9f4da99f821cfa9a7bf", 
+      "title": "A Discriminative Hierarchical Model for Fast Coreference at Large Scale", 
+      "url": "https://www.semanticscholar.org/paper/440e2d2e2deaeb87349ab9f4da99f821cfa9a7bf"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "16fc54b3933c20b25ac25016108b41dc1903373e", 
+      "title": "Inference and Learning in Large Factor Graphs with Adaptive Proposal Distributions and a Rank-based Objective", 
+      "url": "https://www.semanticscholar.org/paper/16fc54b3933c20b25ac25016108b41dc1903373e"
+    }, 
+    {
+      "isInfluential": true, 
+      "paperId": "30753bc1f583ba7ce71dd0186e109813cd658616", 
+      "title": "Markov Logic for Machine Reading", 
+      "url": "https://www.semanticscholar.org/paper/30753bc1f583ba7ce71dd0186e109813cd658616"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "2cd07df8f20f8ca1d995abd3d28537d0bc6f1c49", 
+      "title": "MAP inference in Large Factor Graphs with Reinforcement Learning", 
+      "url": "https://www.semanticscholar.org/paper/2cd07df8f20f8ca1d995abd3d28537d0bc6f1c49"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "d67b9880d4e0d5d85c8c90b0419333eec4100128", 
+      "title": "He says, she says. Pat says, Tricia says. How much reference resolution matters for entity extraction, relation extraction, and social network analysis", 
+      "url": "https://www.semanticscholar.org/paper/d67b9880d4e0d5d85c8c90b0419333eec4100128"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "2262f573055b78d0eae306ecfe856373d21dcd13", 
+      "title": "An Entity Based Model for Coreference Resolution", 
+      "url": "https://www.semanticscholar.org/paper/2262f573055b78d0eae306ecfe856373d21dcd13"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "272de8b46bc60674188e399f81c2aa36ffa67ea9", 
+      "title": "SampleRank: Learning Preferences from Atomic Gradients", 
+      "url": "https://www.semanticscholar.org/paper/272de8b46bc60674188e399f81c2aa36ffa67ea9"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "6ac46d1a11b487ec7d513e3594ac3576580d3098", 
+      "title": "Semantic and Syntactic Features for Dutch Coreference Resolution", 
+      "url": "https://www.semanticscholar.org/paper/6ac46d1a11b487ec7d513e3594ac3576580d3098"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "877727ae31daac60f413e4eee95514bb344465fd", 
+      "title": "A Discriminative Approach to Ontology Mapping", 
+      "url": "https://www.semanticscholar.org/paper/877727ae31daac60f413e4eee95514bb344465fd"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "38660d4cf198453e26f18c23234a1e47b891aa3f", 
+      "title": "Machine learning-based coreference resolution of concepts in clinical documents", 
+      "url": "https://www.semanticscholar.org/paper/38660d4cf198453e26f18c23234a1e47b891aa3f"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "23717750c2d9b07b5a279a732dbfd31439e67112", 
+      "title": "Latent Structures for Coreference Resolution", 
+      "url": "https://www.semanticscholar.org/paper/23717750c2d9b07b5a279a732dbfd31439e67112"
+    }, 
+    {
+      "isInfluential": true, 
+      "paperId": "2cd37f86daea54a9308aa7de5ef22eab8f9f45dd", 
+      "title": "Understanding the Value of Features for Coreference Resolution", 
+      "url": "https://www.semanticscholar.org/paper/2cd37f86daea54a9308aa7de5ef22eab8f9f45dd"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "b4cf065f1853fa4738a17be256135fcfb3311fbf", 
+      "title": "Relational Classification Using Automatically Extracted Relations by Record Linkage", 
+      "url": "https://www.semanticscholar.org/paper/b4cf065f1853fa4738a17be256135fcfb3311fbf"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "e25205d0c7ea32cb3e4d64a31c965d683397ca84", 
+      "title": "Distantly Labeling Data for Large Scale Cross-Document Coreference", 
+      "url": "https://www.semanticscholar.org/paper/e25205d0c7ea32cb3e4d64a31c965d683397ca84"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "0531e6259488a428c79e82054d30e4bfc78e50fd", 
+      "title": "SampleRank: Training Factor Graphs with Atomic Gradients", 
+      "url": "https://www.semanticscholar.org/paper/0531e6259488a428c79e82054d30e4bfc78e50fd"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "e344cea1765340ca021e7d462804324ea77a7d69", 
+      "title": "Aron Culotta Research Interests", 
+      "url": "https://www.semanticscholar.org/paper/e344cea1765340ca021e7d462804324ea77a7d69"
+    }, 
+    {
+      "isInfluential": true, 
+      "paperId": "47834b2bd24a8deca51d39158adb7fb7d027b231", 
+      "title": "Unsupervised Models of Entity Reference Resolution", 
+      "url": "https://www.semanticscholar.org/paper/47834b2bd24a8deca51d39158adb7fb7d027b231"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "0180e633fabaf47cd80c1c016e79c71faee719c4", 
+      "title": "Learning Greedy Policies for the Easy-First Framework", 
+      "url": "https://www.semanticscholar.org/paper/0180e633fabaf47cd80c1c016e79c71faee719c4"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "86128b764ea86caa207298a092f70f8bedc8ba3f", 
+      "title": "CoNLL-2011 Shared Task: Modeling Unrestricted Coreference in OntoNotes", 
+      "url": "https://www.semanticscholar.org/paper/86128b764ea86caa207298a092f70f8bedc8ba3f"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "2ba0544c82a41568d2c9272365d0813be3565f29", 
+      "title": "A Deterministic Coreference System with Rich Syntactic Features and Semantic Knowledge", 
+      "url": "https://www.semanticscholar.org/paper/2ba0544c82a41568d2c9272365d0813be3565f29"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "3e96fb5911e8f5e7d14ee40f7ef40ae2df2f97e7", 
+      "title": "Using Background Knowledge to Support Coreference Resolution", 
+      "url": "https://www.semanticscholar.org/paper/3e96fb5911e8f5e7d14ee40f7ef40ae2df2f97e7"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "5373350b3a43e8fb8c7b6eec79ebac5aba006ad8", 
+      "title": "Advances in Learning and Inference for Partition-wise Models of Coreference Resolution", 
+      "url": "https://www.semanticscholar.org/paper/5373350b3a43e8fb8c7b6eec79ebac5aba006ad8"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "a5154749f720c0d688cee0a1093af67451149c55", 
+      "title": "Unsupervised Coreference Resolution by Utilizing the Most Informative Relations", 
+      "url": "https://www.semanticscholar.org/paper/a5154749f720c0d688cee0a1093af67451149c55"
+    }, 
+    {
+      "isInfluential": true, 
+      "paperId": "0b2b5cba20dcb7f622f265a72e5fcf6a351ef20b", 
+      "title": "BLANC: Implementing the Rand index for coreference evaluation", 
+      "url": "https://www.semanticscholar.org/paper/0b2b5cba20dcb7f622f265a72e5fcf6a351ef20b"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "a88153c40ec1c85668e5bec9b6e9adbc54c7bb36", 
+      "title": "A Global Relaxation Labeling Approach to Coreference Resolution", 
+      "url": "https://www.semanticscholar.org/paper/a88153c40ec1c85668e5bec9b6e9adbc54c7bb36"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "9adce2271698602cb86c4694c680a84a36c1caa0", 
+      "title": "Iterativno pridobivanje semantic\u030cnih podatkov iz nestrukturiranih besedilnih virov", 
+      "url": "https://www.semanticscholar.org/paper/9adce2271698602cb86c4694c680a84a36c1caa0"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "9e1d00a0ebde19ccbdc10edf18f99a130c5af2e1", 
+      "title": "Coreference analysis in clinical notes: a multi-pass sieve with alternate anaphora resolution modules", 
+      "url": "https://www.semanticscholar.org/paper/9e1d00a0ebde19ccbdc10edf18f99a130c5af2e1"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "23ec30758cf51ce71664eba70ad908f91cdb7492", 
+      "title": "Automated Discovery of Social Networks in Online Learning Communities", 
+      "url": "https://www.semanticscholar.org/paper/23ec30758cf51ce71664eba70ad908f91cdb7492"
+    }, 
+    {
+      "isInfluential": true, 
+      "paperId": "8a56fd9a3f4ac2e4642258377e087accc9748a6c", 
+      "title": "Coreference Resolution: Current Trends and Future Directions", 
+      "url": "https://www.semanticscholar.org/paper/8a56fd9a3f4ac2e4642258377e087accc9748a6c"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "c8372200858e89206c068d54b5c53847a07353bc", 
+      "title": "A Ranking Approach to Persian Pronoun Resolution", 
+      "url": "https://www.semanticscholar.org/paper/c8372200858e89206c068d54b5c53847a07353bc"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "eb2659df50f38d496eef0425220c6975b8ebfaa9", 
+      "title": "Exclamatives and heightened emotion: Extracting pragmatic generalizations from large corpora", 
+      "url": "https://www.semanticscholar.org/paper/eb2659df50f38d496eef0425220c6975b8ebfaa9"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "019933f4b4b78346f9256849cbee4c30387f8174", 
+      "title": "Dynamic Knowledge-Base Alignment for Coreference Resolution", 
+      "url": "https://www.semanticscholar.org/paper/019933f4b4b78346f9256849cbee4c30387f8174"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "24813a13faa751c334086f5112743091343ccfba", 
+      "title": "BART: A Modular Toolkit for Coreference Resolution", 
+      "url": "https://www.semanticscholar.org/paper/24813a13faa751c334086f5112743091343ccfba"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "07295d6836d8fadd4150328d33659e5022fccc2f", 
+      "title": "Structured machine learning: the next ten years", 
+      "url": "https://www.semanticscholar.org/paper/07295d6836d8fadd4150328d33659e5022fccc2f"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "0c042eaf93d775aa77e9e5cea50a639bf18a8e71", 
+      "title": "Coreference Resolution with World Knowledge", 
+      "url": "https://www.semanticscholar.org/paper/0c042eaf93d775aa77e9e5cea50a639bf18a8e71"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "40fecfca97ae67cc2e92e6e9074dd8a9b091e158", 
+      "title": "Extending English ACE 2005 Corpus Annotation with Ground-truth Links to Wikipedia", 
+      "url": "https://www.semanticscholar.org/paper/40fecfca97ae67cc2e92e6e9074dd8a9b091e158"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "2eeadaeb14fdd4a3d12821498b1a0fa768b25fe1", 
+      "title": "Chinese coreference resolution with ensemble learning", 
+      "url": "https://www.semanticscholar.org/paper/2eeadaeb14fdd4a3d12821498b1a0fa768b25fe1"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "448fb28797e73dd69a205e80c470cc33bb212065", 
+      "title": "Assessing confidence of knowledge base content with an experimental study in entity resolution", 
+      "url": "https://www.semanticscholar.org/paper/448fb28797e73dd69a205e80c470cc33bb212065"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "567b4b649fde07b01a10d61a7580ab918e63b2f0", 
+      "title": "Joint Unsupervised Coreference Resolution with Markov Logic", 
+      "url": "https://www.semanticscholar.org/paper/567b4b649fde07b01a10d61a7580ab918e63b2f0"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "1e85283883d2acb70a5fca105a04c86fe7f8de9e", 
+      "title": "Training structural SVMs when exact inference is intractable", 
+      "url": "https://www.semanticscholar.org/paper/1e85283883d2acb70a5fca105a04c86fe7f8de9e"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "f34767171abc7e0b2534a4821339c23fb50e8728", 
+      "title": "Supervised Ontology to Document Interlinking", 
+      "url": "https://www.semanticscholar.org/paper/f34767171abc7e0b2534a4821339c23fb50e8728"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "332a9f4d525b93b4759d98791c2f98de4a0a8ea4", 
+      "title": "Query-Aware MCMC", 
+      "url": "https://www.semanticscholar.org/paper/332a9f4d525b93b4759d98791c2f98de4a0a8ea4"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "be2f82cfd32c41d6493dc3ffb414de27b4f9e15b", 
+      "title": "A Constrained Latent Variable Model for Coreference Resolution", 
+      "url": "https://www.semanticscholar.org/paper/be2f82cfd32c41d6493dc3ffb414de27b4f9e15b"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "2cd4c86b657f2544a63eeff2fb5a3a51928d2d75", 
+      "title": "Parse, Price and Cut--Delayed Column and Row Generation for Graph Based Parsers", 
+      "url": "https://www.semanticscholar.org/paper/2cd4c86b657f2544a63eeff2fb5a3a51928d2d75"
+    }
+  ], 
+  "doi": null, 
+  "influentialCitationCount": 11, 
+  "paperId": "48a5214cfcf264c89cbea75c901080bc65ecc9ec", 
+  "references": [
+    {
+      "isInfluential": false, 
+      "paperId": "53c643b283f4c220428f5c3f33b99cc3392b17e8", 
+      "title": "Discriminative Training of Markov Logic Networks", 
+      "url": "https://www.semanticscholar.org/paper/53c643b283f4c220428f5c3f33b99cc3392b17e8"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "610fe707f4563d0c4cc3fd092d8dee1b2972d6ec", 
+      "title": "A Linear Programming Formulation for Global Inference in Natural Language Tasks", 
+      "url": "https://www.semanticscholar.org/paper/610fe707f4563d0c4cc3fd092d8dee1b2972d6ec"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "28b9bacde6499f8cc6f7e70feee4232107211e39", 
+      "title": "Ultraconservative Online Algorithms for Multiclass Problems", 
+      "url": "https://www.semanticscholar.org/paper/28b9bacde6499f8cc6f7e70feee4232107211e39"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "2749cb94f92170f79d0e8ad266605a871767f38a", 
+      "title": "Markov logic networks", 
+      "url": "https://www.semanticscholar.org/paper/2749cb94f92170f79d0e8ad266605a871767f38a"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "2cdd630572b49e19f4a16822516b237a32bafb83", 
+      "title": "A Machine Learning Approach to Coreference Resolution of Noun Phrases", 
+      "url": "https://www.semanticscholar.org/paper/2cdd630572b49e19f4a16822516b237a32bafb83"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "4d7cb60727c067ce261fd590c79e3518fc5f630d", 
+      "title": "Concerning Measures in First Order Calculi*", 
+      "url": "https://www.semanticscholar.org/paper/4d7cb60727c067ce261fd590c79e3518fc5f630d"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "01189ef908a078b8115d0d9e99d4d38af0efeb77", 
+      "title": "BLOG: Relational Modeling with Unknown Objects", 
+      "url": "https://www.semanticscholar.org/paper/01189ef908a078b8115d0d9e99d4d38af0efeb77"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "7763664597fead0bcbf21832975ddd63c202bf40", 
+      "title": "First-order probabilistic inference", 
+      "url": "https://www.semanticscholar.org/paper/7763664597fead0bcbf21832975ddd63c202bf40"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "4f410ab5c8b12b34b38421241366ee456bbebab9", 
+      "title": "Incorporating Non-local Information into Information Extraction Systems by Gibbs Sampling", 
+      "url": "https://www.semanticscholar.org/paper/4f410ab5c8b12b34b38421241366ee456bbebab9"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "19fcb7a41deb075d9a7d9881ec8130e122d222ff", 
+      "title": "Lifted First-Order Probabilistic Inference", 
+      "url": "https://www.semanticscholar.org/paper/19fcb7a41deb075d9a7d9881ec8130e122d222ff"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "539ea86fa738afd939fb18566107c971461f8548", 
+      "title": "Learning as search optimization: approximate large margin methods for structured prediction", 
+      "url": "https://www.semanticscholar.org/paper/539ea86fa738afd939fb18566107c971461f8548"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "f9f3a4ed4fd42e77c5c04799104e482c610d8dfa", 
+      "title": "A Mention-Synchronous Coreference Resolution Algorithm Based On the Bell Tree", 
+      "url": "https://www.semanticscholar.org/paper/f9f3a4ed4fd42e77c5c04799104e482c610d8dfa"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "0fc2adcb8f4bdbacb4f3dd442c87ffeb49e2a4e9", 
+      "title": "A Large-Scale Exploration of Effective Global Features for a Joint Entity Detection and Tracking Model", 
+      "url": "https://www.semanticscholar.org/paper/0fc2adcb8f4bdbacb4f3dd442c87ffeb49e2a4e9"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "4b512f10838e05f5b2eee94bfbd20f3d9c4ecb9b", 
+      "title": "Algorithms for Scoring Coreference Chains", 
+      "url": "https://www.semanticscholar.org/paper/4b512f10838e05f5b2eee94bfbd20f3d9c4ecb9b"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "720b1441fa1126ddf0efad710ee24b268037c5cd", 
+      "title": "Tractable Learning and Inference with High-Order Representations", 
+      "url": "https://www.semanticscholar.org/paper/720b1441fa1126ddf0efad710ee24b268037c5cd"
+    }, 
+    {
+      "isInfluential": true, 
+      "paperId": "38623c0273a0b2cec32fc797aaa99b8aef3c4472", 
+      "title": "Machine Learning for Coreference Resolution: From Local Classification to Global Ranking", 
+      "url": "https://www.semanticscholar.org/paper/38623c0273a0b2cec32fc797aaa99b8aef3c4472"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "bfb83894a70f1d93e10a6af8a110e21b81eff996", 
+      "title": "Parallel Optimization: Theory, Algorithms and Applications", 
+      "url": "https://www.semanticscholar.org/paper/bfb83894a70f1d93e10a6af8a110e21b81eff996"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "34ad5ea056d9a74646be0880d84c26325b68cef4", 
+      "title": "BESTCUT: A Graph Algorithm for Coreference Resolution", 
+      "url": "https://www.semanticscholar.org/paper/34ad5ea056d9a74646be0880d84c26325b68cef4"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "882b5750af428257c4fd7d79e3034ee51d92b381", 
+      "title": "Collective Information Extraction with Relational Markov Networks", 
+      "url": "https://www.semanticscholar.org/paper/882b5750af428257c4fd7d79e3034ee51d92b381"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "42224e661412a4e25e5f06e89dadf83696950d7d", 
+      "title": "Collective Segmentation and Labeling of Distant Entities in Information Extraction", 
+      "url": "https://www.semanticscholar.org/paper/42224e661412a4e25e5f06e89dadf83696950d7d"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "014bb6c3d56ce4734f5e08b52129b1c7eb6758d7", 
+      "title": "BLOG: Probabilistic Models with Unknown Objects", 
+      "url": "https://www.semanticscholar.org/paper/014bb6c3d56ce4734f5e08b52129b1c7eb6758d7"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "3b50241cc2e05680fb598320e7c1022488262a0f", 
+      "title": "A Ranking Approach to Pronoun Resolution", 
+      "url": "https://www.semanticscholar.org/paper/3b50241cc2e05680fb598320e7c1022488262a0f"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "600bd3cd8309fc3e3f97f172716253befd3a9fb9", 
+      "title": "An Analysis of First-Order Logics of Probability", 
+      "url": "https://www.semanticscholar.org/paper/600bd3cd8309fc3e3f97f172716253befd3a9fb9"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "073efbe391421dfebe5b62a1a30d76c82f188493", 
+      "title": "Piecewise Training for Undirected Models", 
+      "url": "https://www.semanticscholar.org/paper/073efbe391421dfebe5b62a1a30d76c82f188493"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "0e1a7b1b06a7c1b4f56489e083ade64b474d5345", 
+      "title": "Toward Conditional Models of Identity Uncertainty with Application to Proper Noun Coreference", 
+      "url": "https://www.semanticscholar.org/paper/0e1a7b1b06a7c1b4f56489e083ade64b474d5345"
+    }, 
+    {
+      "isInfluential": true, 
+      "paperId": "4c877c086e5cb57e1f5c16fc662e637419c5a7df", 
+      "title": "Improving Machine Learning Approaches to Coreference Resolution", 
+      "url": "https://www.semanticscholar.org/paper/4c877c086e5cb57e1f5c16fc662e637419c5a7df"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "cbb786e7e42d02de0080299dc2e114357e816002", 
+      "title": "Conditional Models of Identity Uncertainty with Application to Noun Coreference", 
+      "url": "https://www.semanticscholar.org/paper/cbb786e7e42d02de0080299dc2e114357e816002"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "6d462f42354b4fc3eb3d5bdfdbc41a0c11e23f5a", 
+      "title": "Maximum Entropy Probabilistic Logic", 
+      "url": "https://www.semanticscholar.org/paper/6d462f42354b4fc3eb3d5bdfdbc41a0c11e23f5a"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "41828fc3dab24784f95e6976e8aaa73f68e1840e", 
+      "title": "Incremental Parsing with the Perceptron Algorithm", 
+      "url": "https://www.semanticscholar.org/paper/41828fc3dab24784f95e6976e8aaa73f68e1840e"
+    }
+  ], 
+  "title": "First-Order Probabilistic Models for Coreference Resolution", 
+  "url": "https://www.semanticscholar.org/paper/48a5214cfcf264c89cbea75c901080bc65ecc9ec", 
+  "venue": "HLT-NAACL"
+}

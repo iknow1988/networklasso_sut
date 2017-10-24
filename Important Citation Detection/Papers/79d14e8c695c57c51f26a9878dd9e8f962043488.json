@@ -1,0 +1,701 @@
+{
+  "authors": [
+    {
+      "authorId": "2925442", 
+      "name": "David Vickrey", 
+      "url": "https://www.semanticscholar.org/author/2925442"
+    }, 
+    {
+      "authorId": "2994676", 
+      "name": "Luke Biewald", 
+      "url": "https://www.semanticscholar.org/author/2994676"
+    }, 
+    {
+      "authorId": "1891386", 
+      "name": "Marc Teyssier", 
+      "url": "https://www.semanticscholar.org/author/1891386"
+    }, 
+    {
+      "authorId": "1736370", 
+      "name": "Daphne Koller", 
+      "url": "https://www.semanticscholar.org/author/1736370"
+    }
+  ], 
+  "citationVelocity": 0, 
+  "citations": [
+    {
+      "isInfluential": false, 
+      "paperId": "5e9bbbcde06786ca97c16915648ba1176a1b2997", 
+      "title": "Prospects and Trends in Data-Driven Machine Translation", 
+      "url": "https://www.semanticscholar.org/paper/5e9bbbcde06786ca97c16915648ba1176a1b2997"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "47a06b600080e8b68d4adbab28a959d122d2abf4", 
+      "title": "Discourse in Statistical Machine Translation", 
+      "url": "https://www.semanticscholar.org/paper/47a06b600080e8b68d4adbab28a959d122d2abf4"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "6e4a78eecb2b4f0ae9b1ee78578e79ffbaab8e56", 
+      "title": "A Semantic Evaluation of Machine Translation Lexical Choice", 
+      "url": "https://www.semanticscholar.org/paper/6e4a78eecb2b4f0ae9b1ee78578e79ffbaab8e56"
+    }, 
+    {
+      "isInfluential": true, 
+      "paperId": "345f7ff170fc3d8e7daa9aa25332b6a51eac8b96", 
+      "title": "Context-based translation of constant concept values in E-business", 
+      "url": "https://www.semanticscholar.org/paper/345f7ff170fc3d8e7daa9aa25332b6a51eac8b96"
+    }, 
+    {
+      "isInfluential": true, 
+      "paperId": "886106df79e30b4ad3435f641fada45de33de3b9", 
+      "title": "Word Sense Induction for Better Lexical Choice", 
+      "url": "https://www.semanticscholar.org/paper/886106df79e30b4ad3435f641fada45de33de3b9"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "2dd459fd7443f2f028865c29b3689efa1ab538d8", 
+      "title": "Breaking Sticks and Ambiguities with Adaptive Skip-gram", 
+      "url": "https://www.semanticscholar.org/paper/2dd459fd7443f2f028865c29b3689efa1ab538d8"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "6756cb9dc27647f32faa7539a44e6436a90db83c", 
+      "title": "Graph Connectivity Measures for Unsupervised Word Sense Disambiguation", 
+      "url": "https://www.semanticscholar.org/paper/6756cb9dc27647f32faa7539a44e6436a90db83c"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "1237fe43db516b8fd98d3a4e0c552de2738bea18", 
+      "title": "Demystifying the Semantics of Relevant Objects in Scholarly Collections: A Probabilistic Approach", 
+      "url": "https://www.semanticscholar.org/paper/1237fe43db516b8fd98d3a4e0c552de2738bea18"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "4ddb00924fa011e7ef0c69de124fba81c6b6cead", 
+      "title": "Target-Side Context for Discriminative Models in Statistical Machine Translation", 
+      "url": "https://www.semanticscholar.org/paper/4ddb00924fa011e7ef0c69de124fba81c6b6cead"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "4880230443e8db4f8786bbbd67c1364525dc64c6", 
+      "title": "Seventh Framework Programme Theme 3 Information and Communication Technologies Panacea Project Platform for Automatic, Normalized Annotation and Cost-effective Acquisition of Language Resources for Human Language Technologies Criteria for Evaluation of Resources, Technology and Integration", 
+      "url": "https://www.semanticscholar.org/paper/4880230443e8db4f8786bbbd67c1364525dc64c6"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "33392a56db887ec1793e24a2d669563f3ae9540c", 
+      "title": "Context-Dependent Phrasal Translation Lexicons for Statistical Machine Translation", 
+      "url": "https://www.semanticscholar.org/paper/33392a56db887ec1793e24a2d669563f3ae9540c"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "526681298ff568e837f8afbcd6b22c32290d9614", 
+      "title": "The UPC-lsi Discriminative Phrase Selection System: NIST MT Evaluation 2008", 
+      "url": "https://www.semanticscholar.org/paper/526681298ff568e837f8afbcd6b22c32290d9614"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "f0036ab545a7e5c73ebf564715f553300157be14", 
+      "title": "Kim, Su Nam and Timothy Baldwin (to appear) Word Sense Disambiguation and Noun Compounds, ACM Transactions on Speech and Language Processing", 
+      "url": "https://www.semanticscholar.org/paper/f0036ab545a7e5c73ebf564715f553300157be14"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "25a918df17637824f0306341a1b462259f134e7e", 
+      "title": "One sense per context cluster: Improving word sense disambiguation using web-scale phrase clustering", 
+      "url": "https://www.semanticscholar.org/paper/25a918df17637824f0306341a1b462259f134e7e"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "a24da0e17336db16d082e1e8340fc6618a4d2921", 
+      "title": "Supertags as Source Language Context in Hierarchical Phrase-Based SMT", 
+      "url": "https://www.semanticscholar.org/paper/a24da0e17336db16d082e1e8340fc6618a4d2921"
+    }, 
+    {
+      "isInfluential": true, 
+      "paperId": "070e7b66df9e539e09ae2469eeb8df5e30475af5", 
+      "title": "Discriminative Phrase Selection", 
+      "url": "https://www.semanticscholar.org/paper/070e7b66df9e539e09ae2469eeb8df5e30475af5"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "2545f822694a4c1752e51f4a7df6defcfe2b7a21", 
+      "title": "Towards Semantic-based Hybrid Machine Translation between Bulgarian and English", 
+      "url": "https://www.semanticscholar.org/paper/2545f822694a4c1752e51f4a7df6defcfe2b7a21"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "dbae7683d15b0cf50ee17b78a04d83d13d0a639d", 
+      "title": "NEUNLPLab Chinese Word Sense Induction System for SIGHAN Bakeoff 2010", 
+      "url": "https://www.semanticscholar.org/paper/dbae7683d15b0cf50ee17b78a04d83d13d0a639d"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "391521ef05f2033c349c5202f87f7d2347c3a955", 
+      "title": "Decision Trees for Lexical Smoothing in Statistical Machine Translation", 
+      "url": "https://www.semanticscholar.org/paper/391521ef05f2033c349c5202f87f7d2347c3a955"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "cc91c8ea5f969476fb4fad5b9e92a20b079c699e", 
+      "title": "Unsupervised False Friend Disambiguation Using Contextual Word Clusters and Parallel Word Alignments", 
+      "url": "https://www.semanticscholar.org/paper/cc91c8ea5f969476fb4fad5b9e92a20b079c699e"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "9fd4ebc491b8dc460b2f0d51d578a27c0e2d6437", 
+      "title": "Effective Phrase Prediction", 
+      "url": "https://www.semanticscholar.org/paper/9fd4ebc491b8dc460b2f0d51d578a27c0e2d6437"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "9ccabbdaa331aefcdbe17faf01ff19a77f3e261c", 
+      "title": "Utilizing Source Context in Statistical Machine Translation", 
+      "url": "https://www.semanticscholar.org/paper/9ccabbdaa331aefcdbe17faf01ff19a77f3e261c"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "10fe7e5a53bdacf17dd5888bcc8357ce5417fd4a", 
+      "title": "Triplet lexicon models for statistical machine translation", 
+      "url": "https://www.semanticscholar.org/paper/10fe7e5a53bdacf17dd5888bcc8357ce5417fd4a"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "319083576ecc0422c9c429a09a5a990eba292d40", 
+      "title": "A Sense-Based Translation Model for Statistical Machine Translation", 
+      "url": "https://www.semanticscholar.org/paper/319083576ecc0422c9c429a09a5a990eba292d40"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "68d8acc3b8d3284846a3ad373e82ba19b76b40b6", 
+      "title": "Rich Source-Side Context for Statistical Machine Translation", 
+      "url": "https://www.semanticscholar.org/paper/68d8acc3b8d3284846a3ad373e82ba19b76b40b6"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "d3697151f82cbb6b494a082d36cb4daa65c0a574", 
+      "title": "Measuring the Adequacy of Cross-Lingual Paraphrases in a Machine Translation Setting", 
+      "url": "https://www.semanticscholar.org/paper/d3697151f82cbb6b494a082d36cb4daa65c0a574"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "86412c2bfdd80feeac55646dfc4f9607b1d98ce0", 
+      "title": "CLUE-Aligner: An Alignment Tool to Annotate Pairs of Paraphrastic and Translation Units", 
+      "url": "https://www.semanticscholar.org/paper/86412c2bfdd80feeac55646dfc4f9607b1d98ce0"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "f691d7d2c2828fef5456a7a3ae015b064b292ef6", 
+      "title": "Translation-oriented Word Sense Induction Based on Parallel Corpora", 
+      "url": "https://www.semanticscholar.org/paper/f691d7d2c2828fef5456a7a3ae015b064b292ef6"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "0cf22a4c059a5c9be7b6f3ad292ba434fa8a0d55", 
+      "title": "An Evaluation and Possible Improvement Path for Current SMT Behavior on Ambiguous Nouns", 
+      "url": "https://www.semanticscholar.org/paper/0cf22a4c059a5c9be7b6f3ad292ba434fa8a0d55"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "4bc1ca138ea6dbf2c25fcf132a9f74b6f278b0df", 
+      "title": "Context-aware Discriminative Phrase Selection for Statistical Machine Translation", 
+      "url": "https://www.semanticscholar.org/paper/4bc1ca138ea6dbf2c25fcf132a9f74b6f278b0df"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "9c8b003ab0b8a0ec8f7f33c83e32c60cbed4ec6c", 
+      "title": "Unsupervised training of maximum-entropy models for lexical selection in rule-based machine translation", 
+      "url": "https://www.semanticscholar.org/paper/9c8b003ab0b8a0ec8f7f33c83e32c60cbed4ec6c"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "062f72eba26daaf391450d0d9b374ff6d03b275a", 
+      "title": "Ambiguity Reduction for Machine Translation: Human-Computer Collaboration", 
+      "url": "https://www.semanticscholar.org/paper/062f72eba26daaf391450d0d9b374ff6d03b275a"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "47d816bb03aefca088f5f6e02498a3a0e651b6a7", 
+      "title": "Unsupervised Cross-Lingual Lexical Substitution", 
+      "url": "https://www.semanticscholar.org/paper/47d816bb03aefca088f5f6e02498a3a0e651b6a7"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "730c8cb1d3ca2988167cb54b75ccb5495ce2317f", 
+      "title": "Scalable Discriminative Learning for Natural Language Parsing and Translation", 
+      "url": "https://www.semanticscholar.org/paper/730c8cb1d3ca2988167cb54b75ccb5495ce2317f"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "15943592ef5efacf73c94583a99559e81246f1b3", 
+      "title": "Dynamic EM in Neologism Evolution", 
+      "url": "https://www.semanticscholar.org/paper/15943592ef5efacf73c94583a99559e81246f1b3"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "88c58751dc4005047db1a56b1d4e99f090365633", 
+      "title": "Word sense and semantic relations in noun compounds", 
+      "url": "https://www.semanticscholar.org/paper/88c58751dc4005047db1a56b1d4e99f090365633"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "3e6a2a4397719cdf22e5e788640d83476bd67ff3", 
+      "title": "Improving Text-to-Pictograph Translation Through Word Sense Disambiguation", 
+      "url": "https://www.semanticscholar.org/paper/3e6a2a4397719cdf22e5e788640d83476bd67ff3"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "a48feeb43abe4b339b16d31b80248d60e579d4e7", 
+      "title": "An Empirical Analysis of Source Context Features for Phrase-Based Statistical Machine Translation", 
+      "url": "https://www.semanticscholar.org/paper/a48feeb43abe4b339b16d31b80248d60e579d4e7"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "7188d328e037f112c105cccaf50436c5643e5022", 
+      "title": "Improving Word Sense Induction by Exploiting Semantic Relevance", 
+      "url": "https://www.semanticscholar.org/paper/7188d328e037f112c105cccaf50436c5643e5022"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "1024e441abdc1e4251973aa1c9bbfbc929dd3261", 
+      "title": "An Experimental Study of Graph Connectivity for Unsupervised Word Sense Disambiguation", 
+      "url": "https://www.semanticscholar.org/paper/1024e441abdc1e4251973aa1c9bbfbc929dd3261"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "26317c007a410e70a75262c21cac225767b41e3e", 
+      "title": "Prediction of Words in Statistical Machine Translation using a Multilayer Perceptron", 
+      "url": "https://www.semanticscholar.org/paper/26317c007a410e70a75262c21cac225767b41e3e"
+    }, 
+    {
+      "isInfluential": true, 
+      "paperId": "46694d5751b0399f45dea014026342e511870c0f", 
+      "title": "Disambiguation of English Contractions for Machine Translation of TV Subtitles", 
+      "url": "https://www.semanticscholar.org/paper/46694d5751b0399f45dea014026342e511870c0f"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "2f1d233447c0226849bce2d529d12d1681662e1f", 
+      "title": "A Hybrid Relational Approach for WSD - First Results", 
+      "url": "https://www.semanticscholar.org/paper/2f1d233447c0226849bce2d529d12d1681662e1f"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "f54fdd4a8e46f02db26bddd430d7a76a98167f2b", 
+      "title": "A Proposal for an Arabic-to-english Smt System", 
+      "url": "https://www.semanticscholar.org/paper/f54fdd4a8e46f02db26bddd430d7a76a98167f2b"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "02ff3c7fbe943910d30f046ed0076a06021ecd50", 
+      "title": "Semi-Supervised Word Sense Disambiguation Using Word Embeddings in General and Specific Domains", 
+      "url": "https://www.semanticscholar.org/paper/02ff3c7fbe943910d30f046ed0076a06021ecd50"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "808915d255ab25250f1dae176de8ade04614bef6", 
+      "title": "Multilingual Word Sense Induction to Improve Web Search Result Clustering", 
+      "url": "https://www.semanticscholar.org/paper/808915d255ab25250f1dae176de8ade04614bef6"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "32c1df63016ea51b28ff8540ac2fd02c4fe9b5d7", 
+      "title": "A Game-Theoretic Approach to Word Sense Disambiguation", 
+      "url": "https://www.semanticscholar.org/paper/32c1df63016ea51b28ff8540ac2fd02c4fe9b5d7"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "43ea30165dbe52264a86fb17b2dd248c04e5675d", 
+      "title": "Unsupervised similarity-based word sense disambiguation using context vectors and sentential word importance", 
+      "url": "https://www.semanticscholar.org/paper/43ea30165dbe52264a86fb17b2dd248c04e5675d"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "7d71772fdbb37e1edf936cf9aacff0713d0089c8", 
+      "title": "Semantic to intelligent web era: building blocks, applications, and current trends", 
+      "url": "https://www.semanticscholar.org/paper/7d71772fdbb37e1edf936cf9aacff0713d0089c8"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "2ce902812835c22a7575fd914fc3c83dea5eb978", 
+      "title": "A Hybrid Relational Approach for Word Sense Disambiguation in Machine Translation", 
+      "url": "https://www.semanticscholar.org/paper/2ce902812835c22a7575fd914fc3c83dea5eb978"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "f003cc9e022a4b859287f64714ddd80feebfac7b", 
+      "title": "The cross-lingual lexical substitution task", 
+      "url": "https://www.semanticscholar.org/paper/f003cc9e022a4b859287f64714ddd80feebfac7b"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "9950a0ee5bfa370fa490636cecddf7731dd6cf2f", 
+      "title": "Seventh Framework Programme Theme 3 Information and Communication Technologies Panacea Project Platform for Automatic, Normalized Annotation and Cost-effective Acquisition of Language Resources for Human Language Technologies Parallel Technology Tools and Resources", 
+      "url": "https://www.semanticscholar.org/paper/9950a0ee5bfa370fa490636cecddf7731dd6cf2f"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "adced97d95c2c557eb11d9e1b2d3c2eb76a426ce", 
+      "title": "Exploitation of Machine Learning Techniques in Modelling Phrase Movements for Machine Translation", 
+      "url": "https://www.semanticscholar.org/paper/adced97d95c2c557eb11d9e1b2d3c2eb76a426ce"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "2cc0439b1fef57e6e5bba9d14d5486636295b17e", 
+      "title": "Arabic-English Semantic Word Class Alignment to Improve Statistical Machine Translation", 
+      "url": "https://www.semanticscholar.org/paper/2cc0439b1fef57e6e5bba9d14d5486636295b17e"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "00f3adb51ccac1ff10b34ae164fb4eb56302f864", 
+      "title": "WSD for n-best reranking and local language modeling in SMT", 
+      "url": "https://www.semanticscholar.org/paper/00f3adb51ccac1ff10b34ae164fb4eb56302f864"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "20cc937ec9a6a2c8abeb308241cd43f2d3608987", 
+      "title": "Chinese Word Sense Induction with Basic Clustering Algorithms", 
+      "url": "https://www.semanticscholar.org/paper/20cc937ec9a6a2c8abeb308241cd43f2d3608987"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "8cc85543c41d67a2a4066926cbedaeab11f3ab77", 
+      "title": "Dependency Relations as Source Context in Phrase-Based SMT", 
+      "url": "https://www.semanticscholar.org/paper/8cc85543c41d67a2a4066926cbedaeab11f3ab77"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "c7cc713118a05228c74f793820a8455998e10171", 
+      "title": "n-Best Reranking for the Efficient Integration of Word Sense Disambiguation and Statistical Machine Translation", 
+      "url": "https://www.semanticscholar.org/paper/c7cc713118a05228c74f793820a8455998e10171"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "15eee005ea4676bff6a95715cf05b0ac9c31b1d5", 
+      "title": "Disambiguating Noun Compounds", 
+      "url": "https://www.semanticscholar.org/paper/15eee005ea4676bff6a95715cf05b0ac9c31b1d5"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "6b553126197a34ac168ce08ff9d8587c283072ef", 
+      "title": "Structure learning for natural language processing", 
+      "url": "https://www.semanticscholar.org/paper/6b553126197a34ac168ce08ff9d8587c283072ef"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "e67ba9555ad427ec625e2599ef56b9fde997b06e", 
+      "title": "D-Bees: A novel method inspired by bee colony optimization for solving word sense disambiguation", 
+      "url": "https://www.semanticscholar.org/paper/e67ba9555ad427ec625e2599ef56b9fde997b06e"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "65369398cdd0883c2315eaf95b3294a7cfa19e3c", 
+      "title": "A Discriminative Lexicon Model for Complex Morphology", 
+      "url": "https://www.semanticscholar.org/paper/65369398cdd0883c2315eaf95b3294a7cfa19e3c"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "610211d5d7ef7f26e08af6f17885615e2d42c898", 
+      "title": "A Survey of Techniques for Unsupervised Word Sense Induction", 
+      "url": "https://www.semanticscholar.org/paper/610211d5d7ef7f26e08af6f17885615e2d42c898"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "3d87f565d9b9db7800c9fda091c1be4e0eb412da", 
+      "title": "Translation Evaluation: from Fragmented Tools and Data Sets to an Integrated Ecosystem Proceedings Edited by Organising Committee Programme Committee towards a Systematic and Human-informed Paradigm for High-quality Machine Translation", 
+      "url": "https://www.semanticscholar.org/paper/3d87f565d9b9db7800c9fda091c1be4e0eb412da"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "5115264873a04182f49f3f5ad11a2a093fc0a9fc", 
+      "title": "How Phrase Sense Disambiguation outperforms Word Sense Disambiguation for Statistical Machine Translation", 
+      "url": "https://www.semanticscholar.org/paper/5115264873a04182f49f3f5ad11a2a093fc0a9fc"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "89ff1beabc6a5765111bc489a121d588d12bd39b", 
+      "title": "Discriminative Phrase-Based Models for Arabic Machine Translation", 
+      "url": "https://www.semanticscholar.org/paper/89ff1beabc6a5765111bc489a121d588d12bd39b"
+    }, 
+    {
+      "isInfluential": true, 
+      "paperId": "2ffc206d686d4b540bc6ff7ee48ac7e5e3513ae3", 
+      "title": "Scalable Purely-Discriminative Training for Word and Tree Transducers", 
+      "url": "https://www.semanticscholar.org/paper/2ffc206d686d4b540bc6ff7ee48ac7e5e3513ae3"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "c1e48526eddd68b5bf98739a578ab69a009f570d", 
+      "title": "Word sense disambiguation: A survey", 
+      "url": "https://www.semanticscholar.org/paper/c1e48526eddd68b5bf98739a578ab69a009f570d"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "c19abfe062ade87155f8738da4583d56ab344edb", 
+      "title": "A Sense-Topic Model for Word Sense Induction with Unsupervised Data Enrichment", 
+      "url": "https://www.semanticscholar.org/paper/c19abfe062ade87155f8738da4583d56ab344edb"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "41bf66717feeaca005a9e579652b870d1c8da99d", 
+      "title": "Ensemble Methods for Unsupervised WSD", 
+      "url": "https://www.semanticscholar.org/paper/41bf66717feeaca005a9e579652b870d1c8da99d"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "b913f1803062837bd2a56de005bb4d1125d6d89f", 
+      "title": "Using Supertags as Source Language Context in SMT", 
+      "url": "https://www.semanticscholar.org/paper/b913f1803062837bd2a56de005bb4d1125d6d89f"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "ccb3c14fe71981915dbc27f1c32502b40bb7d263", 
+      "title": "Word Sense Induction with Multilingual Features Representation", 
+      "url": "https://www.semanticscholar.org/paper/ccb3c14fe71981915dbc27f1c32502b40bb7d263"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "03fe1c4cb11282449f5cab88f8e1d5d29e5e1ace", 
+      "title": "Flexible finite-state lexical selection for rule-based machine translation", 
+      "url": "https://www.semanticscholar.org/paper/03fe1c4cb11282449f5cab88f8e1d5d29e5e1ace"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "61e0acb635ce2828a18a0eb36749493a9eab974c", 
+      "title": "Master's Thesis", 
+      "url": "https://www.semanticscholar.org/paper/61e0acb635ce2828a18a0eb36749493a9eab974c"
+    }, 
+    {
+      "isInfluential": true, 
+      "paperId": "495ffe1df804273eaac83706bb02b5204bcef1e4", 
+      "title": "Empirical Machine Translation and its Evaluation", 
+      "url": "https://www.semanticscholar.org/paper/495ffe1df804273eaac83706bb02b5204bcef1e4"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "abbcc331ea4a6d9355332b2816da35b01eda4a3b", 
+      "title": "Augmenting a Bilingual Lexicon with Information for Word Translation Disambiguation", 
+      "url": "https://www.semanticscholar.org/paper/abbcc331ea4a6d9355332b2816da35b01eda4a3b"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "f5ac6e2e0db53b6a572dcd2cadeb43e39c088ea5", 
+      "title": "Kamusi Pre:D - Source-Side Disambiguation and a Sense Aligned Multilingual Lexicon", 
+      "url": "https://www.semanticscholar.org/paper/f5ac6e2e0db53b6a572dcd2cadeb43e39c088ea5"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "324c6657d868a9209f243ec16b1c6c82492fac9d", 
+      "title": "An Information Retrieval Approach to Sense Ranking", 
+      "url": "https://www.semanticscholar.org/paper/324c6657d868a9209f243ec16b1c6c82492fac9d"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "d9a1efa3c8130a7f26cb2e8b9ceff7ab88a5a8ec", 
+      "title": "Deliverable D5.1: Report on the State of the Art of Named Entity and Wsd", 
+      "url": "https://www.semanticscholar.org/paper/d9a1efa3c8130a7f26cb2e8b9ceff7ab88a5a8ec"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "603336f4b24ade85cba363b4815916ac0611fb20", 
+      "title": "Bayesian Word Sense Induction", 
+      "url": "https://www.semanticscholar.org/paper/603336f4b24ade85cba363b4815916ac0611fb20"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "8fda400ccf7c0724b8a41e8881311644e2a942fd", 
+      "title": "Kim, Su Nam and Timothy Baldwin (2007) Disambiguating Noun Compounds, In Proceedings of the Twenty-Second Conference on Artificial Intelligence (AAAI-07), Vancouver, Canada, pp. 901-6", 
+      "url": "https://www.semanticscholar.org/paper/8fda400ccf7c0724b8a41e8881311644e2a942fd"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "b51b0e46da4372557ae85361f8796a47a36f91a9", 
+      "title": "Clasificacion de los metodos para la mejora de WSD", 
+      "url": "https://www.semanticscholar.org/paper/b51b0e46da4372557ae85361f8796a47a36f91a9"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "511320c3dec3315ba1a687ddce38e5018d549a88", 
+      "title": "Making Sense of Sense: Bringing Psycholinguistics and Computational Linguistics Together Workshop Program Multilingual versus Monolingual Wsd Characterizing Response Types and Revealing Noun Ambiguity in German Association Norms Using Wordnet-based Context Vectors to Estimate the Semantic Relatedness of Concepts", 
+      "url": "https://www.semanticscholar.org/paper/511320c3dec3315ba1a687ddce38e5018d549a88"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "12f17c64eb20f051552295d2c928f036f5b8163b", 
+      "title": "On the Use of Automatically Acquired Examples for All-Nouns Word Sense Disambiguation", 
+      "url": "https://www.semanticscholar.org/paper/12f17c64eb20f051552295d2c928f036f5b8163b"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "922e1fc75ff411a314c4fc6534581f3b65c82fd1", 
+      "title": "ISCAS: A System for Chinese Word Sense Induction Based on K-means Algorithm", 
+      "url": "https://www.semanticscholar.org/paper/922e1fc75ff411a314c4fc6534581f3b65c82fd1"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "1f9eb9857a4eb34c6e56c1ef6ebd33b60ffacbaa", 
+      "title": "Multilingual Versus Monolingual WSD", 
+      "url": "https://www.semanticscholar.org/paper/1f9eb9857a4eb34c6e56c1ef6ebd33b60ffacbaa"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "d1dfeb007ed551aab4f4ec89bf3fbd5a56df6646", 
+      "title": "Comparison of Extended Lexicon Models in Search and Rescoring for SMT", 
+      "url": "https://www.semanticscholar.org/paper/d1dfeb007ed551aab4f4ec89bf3fbd5a56df6646"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "e421fc9b8d368d6a9542cc384abe0d43cdd57209", 
+      "title": "Improving Statistical Machine Translation Using Word Sense Disambiguation", 
+      "url": "https://www.semanticscholar.org/paper/e421fc9b8d368d6a9542cc384abe0d43cdd57209"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "43430d432d4a812c5903a77478d4290bbfc5d593", 
+      "title": "Were the clocks striking or surprising? Using WSD to improve MT performance", 
+      "url": "https://www.semanticscholar.org/paper/43430d432d4a812c5903a77478d4290bbfc5d593"
+    }, 
+    {
+      "isInfluential": true, 
+      "paperId": "7bbe1d4b48d1efeb790ea7878ba21cd1c41f6a92", 
+      "title": "Automatic Identification of Cognates, False Friends, and Partial Cognates", 
+      "url": "https://www.semanticscholar.org/paper/7bbe1d4b48d1efeb790ea7878ba21cd1c41f6a92"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "00e2411d67034fc90ce7449aba801ba4f3bd50df", 
+      "title": "Word Sense Disambiguation Improves Statistical Machine Translation", 
+      "url": "https://www.semanticscholar.org/paper/00e2411d67034fc90ce7449aba801ba4f3bd50df"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "cffc77dc35c179166bb37124a759585cbcfd5d8a", 
+      "title": "Translation Context Sensitive WSD", 
+      "url": "https://www.semanticscholar.org/paper/cffc77dc35c179166bb37124a759585cbcfd5d8a"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "15db5a26387669d8c6fb7b97963faa0434745c48", 
+      "title": "Memory-based learning of word translation", 
+      "url": "https://www.semanticscholar.org/paper/15db5a26387669d8c6fb7b97963faa0434745c48"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "b67fffa8379a68e7c3ec921329a55a39e3d028f4", 
+      "title": "Discourse Structure in Machine Translation Evaluation", 
+      "url": "https://www.semanticscholar.org/paper/b67fffa8379a68e7c3ec921329a55a39e3d028f4"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "b27138cd6f2ab2bfd52d66ec49df9f8716fefc8f", 
+      "title": "Going Beyond Word Cooccurrences in Global Lexical Selection for Statistical Machine Translation using a Multilayer Perceptron", 
+      "url": "https://www.semanticscholar.org/paper/b27138cd6f2ab2bfd52d66ec49df9f8716fefc8f"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "62830c2a582f51eb13578610626816853827452c", 
+      "title": "Nasari: Integrating explicit knowledge and corpus statistics for a multilingual representation of concepts and entities", 
+      "url": "https://www.semanticscholar.org/paper/62830c2a582f51eb13578610626816853827452c"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "763aa9edf7ace88242d60b2dd634a54c87ab3f37", 
+      "title": "Common Textile Vocabularies and Documents: A Conceptual Foundation of a Globally Interoperable Textile e-Marketplace", 
+      "url": "https://www.semanticscholar.org/paper/763aa9edf7ace88242d60b2dd634a54c87ab3f37"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "f5935e108038e08c40450f74965fceacf2706d90", 
+      "title": "Word Sense Disambiguation and Machine Translation", 
+      "url": "https://www.semanticscholar.org/paper/f5935e108038e08c40450f74965fceacf2706d90"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "933cc7a7dbba3af00f49e80441cc99d05649ceb8", 
+      "title": "Improving Translation Selection with Supersenses", 
+      "url": "https://www.semanticscholar.org/paper/933cc7a7dbba3af00f49e80441cc99d05649ceb8"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "b4cba7cf0e8ebac72ed1f61641feb59f7106fac9", 
+      "title": "Tree-Structured Models of Multitext: Theory, Design and Experiments", 
+      "url": "https://www.semanticscholar.org/paper/b4cba7cf0e8ebac72ed1f61641feb59f7106fac9"
+    }
+  ], 
+  "doi": null, 
+  "influentialCitationCount": 7, 
+  "paperId": "79d14e8c695c57c51f26a9878dd9e8f962043488", 
+  "references": [
+    {
+      "isInfluential": false, 
+      "paperId": "4534716afd8f8348107612b19910d48fd9db86a1", 
+      "title": "Feature-Rich Statistical Translation of Noun Phrases", 
+      "url": "https://www.semanticscholar.org/paper/4534716afd8f8348107612b19910d48fd9db86a1"
+    }, 
+    {
+      "isInfluential": true, 
+      "paperId": "3ad60c4b460e54fe94894d9e80f695fd3d41b294", 
+      "title": "Word Sense Disambiguation vs. Statistical Machine Translation", 
+      "url": "https://www.semanticscholar.org/paper/3ad60c4b460e54fe94894d9e80f695fd3d41b294"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "37fadfb6d60e83e24c72d8a90da5644b39d6e8f0", 
+      "title": "Discriminative Training and Maximum Entropy Models for Statistical Machine Translation", 
+      "url": "https://www.semanticscholar.org/paper/37fadfb6d60e83e24c72d8a90da5644b39d6e8f0"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "00bbbf3af78f80651e9f955209ee72711fa5d412", 
+      "title": "On Discriminative vs. Generative Classifiers: A comparison of logistic regression and naive Bayes", 
+      "url": "https://www.semanticscholar.org/paper/00bbbf3af78f80651e9f955209ee72711fa5d412"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "444dc7fe40b5702e79e908834ca2fcfdbc422cd2", 
+      "title": "An Unsupervised Method for Word Sense Tagging using Parallel Corpora", 
+      "url": "https://www.semanticscholar.org/paper/444dc7fe40b5702e79e908834ca2fcfdbc422cd2"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "2104e207097124737769ceb156fc448e2b97a07a", 
+      "title": "Fast Decoding and Optimal Decoding for Machine Translation", 
+      "url": "https://www.semanticscholar.org/paper/2104e207097124737769ceb156fc448e2b97a07a"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "4af182338ee63754d4569c26cb6a5c3bbdd8cf2a", 
+      "title": "A Maximum Entropy Approach to Natural Language Processing", 
+      "url": "https://www.semanticscholar.org/paper/4af182338ee63754d4569c26cb6a5c3bbdd8cf2a"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "0228df458946aecc024540ed90840c789590a3a7", 
+      "title": "An Introduction to the Conjugate Gradient Method Without the Agonizing Pain", 
+      "url": "https://www.semanticscholar.org/paper/0228df458946aecc024540ed90840c789590a3a7"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "3a2c3cf32c8c214cccebc45ebc2a2a1dd7d1e658", 
+      "title": "Exploiting Parallel Texts for Word Sense Disambiguation: An Empirical Study", 
+      "url": "https://www.semanticscholar.org/paper/3a2c3cf32c8c214cccebc45ebc2a2a1dd7d1e658"
+    }, 
+    {
+      "isInfluential": true, 
+      "paperId": "d87ceda3042f781c341ac17109d1e94a717f5f60", 
+      "title": "Book Reviews: WordNet: An Electronic Lexical Database", 
+      "url": "https://www.semanticscholar.org/paper/d87ceda3042f781c341ac17109d1e94a717f5f60"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "9703efad5e36e1ef3ab2292144c1a796515e5f6a", 
+      "title": "The Mathematics of Statistical Machine Translation: Parameter Estimation", 
+      "url": "https://www.semanticscholar.org/paper/9703efad5e36e1ef3ab2292144c1a796515e5f6a"
+    }
+  ], 
+  "title": "Word-Sense Disambiguation for Machine Translation", 
+  "url": "https://www.semanticscholar.org/paper/79d14e8c695c57c51f26a9878dd9e8f962043488", 
+  "venue": "HLT/EMNLP"
+}

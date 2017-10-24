@@ -1,0 +1,835 @@
+{
+  "authors": [
+    {
+      "authorId": "1740213", 
+      "name": "Pedro M. Domingos", 
+      "url": "https://www.semanticscholar.org/author/1740213"
+    }, 
+    {
+      "authorId": "3021654", 
+      "name": "Daniel Lowd", 
+      "url": "https://www.semanticscholar.org/author/3021654"
+    }, 
+    {
+      "authorId": "8406924", 
+      "name": "Stanley Kok", 
+      "url": "https://www.semanticscholar.org/author/8406924"
+    }, 
+    {
+      "authorId": "3046228", 
+      "name": "Aniruddh Nath", 
+      "url": "https://www.semanticscholar.org/author/3046228"
+    }, 
+    {
+      "authorId": "1759772", 
+      "name": "Hoifung Poon", 
+      "url": "https://www.semanticscholar.org/author/1759772"
+    }, 
+    {
+      "authorId": "2347225", 
+      "name": "Matthew Richardson", 
+      "url": "https://www.semanticscholar.org/author/2347225"
+    }, 
+    {
+      "authorId": "2487970", 
+      "name": "Parag Singla", 
+      "url": "https://www.semanticscholar.org/author/2487970"
+    }
+  ], 
+  "citationVelocity": 0, 
+  "citations": [
+    {
+      "isInfluential": false, 
+      "paperId": "783fcd1e7894b2476052bf1c1ef6eebd4e102d8c", 
+      "title": "How Minds Will Be Built", 
+      "url": "https://www.semanticscholar.org/paper/783fcd1e7894b2476052bf1c1ef6eebd4e102d8c", 
+      "venue": "", 
+      "year": 2012
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "c70e183ee11636f878074d70590f2ba2e03abf5d", 
+      "title": "Metric-Based Data Mining Model for Genealogical Record Linkage", 
+      "url": "https://www.semanticscholar.org/paper/c70e183ee11636f878074d70590f2ba2e03abf5d", 
+      "venue": "2007 IEEE International Conference on Information Reuse and Integration", 
+      "year": 2007
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "42af476be7f08b70af8d415316d7ff400afc0319", 
+      "title": "Knowledge Unit Relation Recognition Based on Markov Logic Networks", 
+      "url": "https://www.semanticscholar.org/paper/42af476be7f08b70af8d415316d7ff400afc0319", 
+      "venue": "JNW", 
+      "year": 2014
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "e6fa118f30c9dae197687b3bcb20866e6d0d5357", 
+      "title": "A Generalized Multidimensional Evaluation Framework for Player Goal Recognition", 
+      "url": "https://www.semanticscholar.org/paper/e6fa118f30c9dae197687b3bcb20866e6d0d5357", 
+      "venue": "AIIDE", 
+      "year": 2016
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "5984db3e62444e420b10b4353e1ceaca5eca6aa3", 
+      "title": "Biased evidence assimilation under bounded Bayesian rationality", 
+      "url": "https://www.semanticscholar.org/paper/5984db3e62444e420b10b4353e1ceaca5eca6aa3", 
+      "venue": "", 
+      "year": 2006
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "004a75617299057c3cab521277fe6caed23f9734", 
+      "title": "Models for Music Analysis From a Markov Logic Networks Perspective", 
+      "url": "https://www.semanticscholar.org/paper/004a75617299057c3cab521277fe6caed23f9734", 
+      "venue": "IEEE/ACM Transactions on Audio, Speech, and Language Processing", 
+      "year": 2017
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "c30e2bab9c4c4e3d93f25f13f7802d6a5786509a", 
+      "title": "Utilizing Stacking for Feature Reduction in Graph-Based Genealogical Record Linkage", 
+      "url": "https://www.semanticscholar.org/paper/c30e2bab9c4c4e3d93f25f13f7802d6a5786509a", 
+      "venue": "", 
+      "year": 2008
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "5462fef5d583e3073b9d547d4d16d92f630c9a08", 
+      "title": "Automatic Knowledge Base Construction using Probabilistic Extraction, Deductive Reasoning, and Human Feedback", 
+      "url": "https://www.semanticscholar.org/paper/5462fef5d583e3073b9d547d4d16d92f630c9a08", 
+      "venue": "", 
+      "year": 2012
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "fab31cbb5f1964a07a2feffb9febe0ea8af67f68", 
+      "title": "Introducing DRAIL: a Step Towards Declarative Deep Relational Learning", 
+      "url": "https://www.semanticscholar.org/paper/fab31cbb5f1964a07a2feffb9febe0ea8af67f68", 
+      "venue": "", 
+      "year": 2016
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "bfa51cf7fa3e0b10893908d909cd8932d76bb7ae", 
+      "title": "Bootstrapping Relation Extraction Using Parallel News Articles", 
+      "url": "https://www.semanticscholar.org/paper/bfa51cf7fa3e0b10893908d909cd8932d76bb7ae", 
+      "venue": "", 
+      "year": 2011
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "46d00ed0f57fcebc1ae4dc797e5e11f0928b3fbd", 
+      "title": "Towards a New Cognitive Hourglass: Uniform Implementation of Cognitive Architecture via Factor Graphs", 
+      "url": "https://www.semanticscholar.org/paper/46d00ed0f57fcebc1ae4dc797e5e11f0928b3fbd", 
+      "venue": "", 
+      "year": 2009
+    }, 
+    {
+      "isInfluential": true, 
+      "paperId": "dd5d59b840f6c1cec1951899df739936c4751fa9", 
+      "title": "ILP turns 20", 
+      "url": "https://www.semanticscholar.org/paper/dd5d59b840f6c1cec1951899df739936c4751fa9", 
+      "venue": "Machine Learning", 
+      "year": 2011
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "588d3f616365866ffd10e540746c65ad3e0ba666", 
+      "title": "Markov Logic in Infinite Domains", 
+      "url": "https://www.semanticscholar.org/paper/588d3f616365866ffd10e540746c65ad3e0ba666", 
+      "venue": "Probabilistic, Logical and Relational Learning - A Further Synthesis", 
+      "year": 2007
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "bcdc45d1a4df719cff44196083d542aa3107e6ff", 
+      "title": "Probabilistic Abductive Logic Programming using Dirichlet Priors", 
+      "url": "https://www.semanticscholar.org/paper/bcdc45d1a4df719cff44196083d542aa3107e6ff", 
+      "venue": "PLP@ICLP", 
+      "year": 2015
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "2db95f769a8786053e3076913b159ab40b9f5250", 
+      "title": "A flat histogram method for inference with probabilistic and deterministic constraints", 
+      "url": "https://www.semanticscholar.org/paper/2db95f769a8786053e3076913b159ab40b9f5250", 
+      "venue": "", 
+      "year": 2010
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "10df379f259c1fe53cfe7dad7ad90d31da3e8103", 
+      "title": "The Symbolic Interior Point Method", 
+      "url": "https://www.semanticscholar.org/paper/10df379f259c1fe53cfe7dad7ad90d31da3e8103", 
+      "venue": "AAAI", 
+      "year": 2017
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "25862494d2421ed7cb8cce1a9968fc31e5e14851", 
+      "title": "Integrating vision for human-robot interaction", 
+      "url": "https://www.semanticscholar.org/paper/25862494d2421ed7cb8cce1a9968fc31e5e14851", 
+      "venue": "2010 IEEE Computer Society Conference on Computer Vision and Pattern Recognition - Workshops", 
+      "year": 2010
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "2e763a73413fe3db021d92101685e590d18c7b6c", 
+      "title": "Generalizability of Goal Recognition Models in Narrative-Centered Learning Environments", 
+      "url": "https://www.semanticscholar.org/paper/2e763a73413fe3db021d92101685e590d18c7b6c", 
+      "venue": "UMAP", 
+      "year": 2014
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "347534efb187c3d73afa8ff7f634841e252b2735", 
+      "title": "Using Answer Set Programming to Integrate RNA Expression with Signalling Pathway Information to Infer How Mutations Affect Ageing", 
+      "url": "https://www.semanticscholar.org/paper/347534efb187c3d73afa8ff7f634841e252b2735", 
+      "venue": "PloS one", 
+      "year": 2012
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "49d64ea3ee90932903ca19efb8f4140e46d2b825", 
+      "title": "Knowledge Extraction and Knowledge Integration governed by \u0141ukasiewicz Logics", 
+      "url": "https://www.semanticscholar.org/paper/49d64ea3ee90932903ca19efb8f4140e46d2b825", 
+      "venue": "ArXiv", 
+      "year": 2016
+    }, 
+    {
+      "isInfluential": true, 
+      "paperId": "fd309262ad74f4c6919529f4e6dd54a1cb7946ea", 
+      "title": "Focused Grounding for Markov Logic Networks", 
+      "url": "https://www.semanticscholar.org/paper/fd309262ad74f4c6919529f4e6dd54a1cb7946ea", 
+      "venue": "FLAIRS Conference", 
+      "year": 2012
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "6ea2ae3adf9ec3d67d4c1b8a308aec490552b9bb", 
+      "title": "Towards driving autonomously: Autonomous cruise control in urban environments", 
+      "url": "https://www.semanticscholar.org/paper/6ea2ae3adf9ec3d67d4c1b8a308aec490552b9bb", 
+      "venue": "2013 IEEE Intelligent Vehicles Symposium (IV)", 
+      "year": 2013
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "96bc0660763d9af947236b1515a52f90f9d2d1f3", 
+      "title": "An Integrated Implementation of Rule, Semantic, Episodic and Constraint Memories via Factor Graphs and a Bayesian Decision Cycle", 
+      "url": "https://www.semanticscholar.org/paper/96bc0660763d9af947236b1515a52f90f9d2d1f3", 
+      "venue": "", 
+      "year": 2010
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "901e89d6ca04f1c37c28518b757ae1272cb6b8e6", 
+      "title": "Learning Applicability Conditions in AI Planning from Partial Observations", 
+      "url": "https://www.semanticscholar.org/paper/901e89d6ca04f1c37c28518b757ae1272cb6b8e6", 
+      "venue": "", 
+      "year": 2009
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "dc713a2232d0eabb29f04ab48ddbf2baaabd06de", 
+      "title": "Markov Logic Networks for Situated Incremental Natural Language Understanding", 
+      "url": "https://www.semanticscholar.org/paper/dc713a2232d0eabb29f04ab48ddbf2baaabd06de", 
+      "venue": "SIGDIAL Conference", 
+      "year": 2012
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "705e9bab4a149338dccd769126cb4f880f3a839e", 
+      "title": "Toward knowledge-rich data mining", 
+      "url": "https://www.semanticscholar.org/paper/705e9bab4a149338dccd769126cb4f880f3a839e", 
+      "venue": "Data Mining and Knowledge Discovery", 
+      "year": 2007
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "07da6dd9b3a72ab042cbaf6e23d4594f4fe06aee", 
+      "title": "Reasoning about Continuous Uncertainty in the Situation Calculus", 
+      "url": "https://www.semanticscholar.org/paper/07da6dd9b3a72ab042cbaf6e23d4594f4fe06aee", 
+      "venue": "IJCAI", 
+      "year": 2013
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "04138da3bac26f83a9d57152118d4cd5cc8c717d", 
+      "title": "Adaptive Graph Walk Based Similarity Measures in Entity-Relation Graphs", 
+      "url": "https://www.semanticscholar.org/paper/04138da3bac26f83a9d57152118d4cd5cc8c717d", 
+      "venue": "", 
+      "year": 2008
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "5c214acee802b1afbca33dd41c04aec6bd5e04e2", 
+      "title": "Probabilistic Selection in AgentSpeak(L)", 
+      "url": "https://www.semanticscholar.org/paper/5c214acee802b1afbca33dd41c04aec6bd5e04e2", 
+      "venue": "ArXiv", 
+      "year": 2014
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "2d536ec014b8d25b1e6213beb57749f406004ad8", 
+      "title": "Repairing Inconsistent Taxonomies Using MAP Inference and Rules of Thumb", 
+      "url": "https://www.semanticscholar.org/paper/2d536ec014b8d25b1e6213beb57749f406004ad8", 
+      "venue": "Web-KRM@CIKM", 
+      "year": 2014
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "78cebd9f4610d876435e5f95abaafc25b8da6271", 
+      "title": "Accelerated Adaptive Markov Chain for Partition Function Computation", 
+      "url": "https://www.semanticscholar.org/paper/78cebd9f4610d876435e5f95abaafc25b8da6271", 
+      "venue": "NIPS", 
+      "year": 2011
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "ceae3fe8f7b751d8a3570d36fc9428bd584a1752", 
+      "title": "Exact Sampling for Regular and Markov Constraints with Belief Propagation", 
+      "url": "https://www.semanticscholar.org/paper/ceae3fe8f7b751d8a3570d36fc9428bd584a1752", 
+      "venue": "CP", 
+      "year": 2015
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "e261a5a848028d3b2a8fef2b633a72a410c786e6", 
+      "title": "Markov Logic Networks for Spatial Language in Reference Resolution", 
+      "url": "https://www.semanticscholar.org/paper/e261a5a848028d3b2a8fef2b633a72a410c786e6", 
+      "venue": "", 
+      "year": 2012
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "93466a748c727b4eb4e772e1d933cec94bb90123", 
+      "title": "Towards Uniform Implementation of Architectural Diversity", 
+      "url": "https://www.semanticscholar.org/paper/93466a748c727b4eb4e772e1d933cec94bb90123", 
+      "venue": "AAAI Fall Symposium: Multi-Representational Architectures for Human-Level Intelligence", 
+      "year": 2009
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "924e60a8665854db72cc8d3519bb646745c31fdf", 
+      "title": "Plp 2015 Probabilistic Logic Programming 2nd International Workshop on Probabilistic Logic Programming Co-located with 31st International Conference on Logic Program- Ming (iclp 2015) Organizing Committee Program Committee", 
+      "url": "https://www.semanticscholar.org/paper/924e60a8665854db72cc8d3519bb646745c31fdf", 
+      "venue": "", 
+      "year": 2015
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "1f906f304c54d401f9e3f83f678da2733285764b", 
+      "title": "Deriving a Large-Scale Taxonomy from Wikipedia", 
+      "url": "https://www.semanticscholar.org/paper/1f906f304c54d401f9e3f83f678da2733285764b", 
+      "venue": "AAAI", 
+      "year": 2007
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "455b5730034b217d7bfe334b4576f2dc044ad94a", 
+      "title": "A representation for human gesture recognition and beyond", 
+      "url": "https://www.semanticscholar.org/paper/455b5730034b217d7bfe334b4576f2dc044ad94a", 
+      "venue": "2013 Fourth International Conference on Computing, Communications and Networking Technologies (ICCCNT)", 
+      "year": 2013
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "7db897b00c67b830c81ce86dcbb0b10872bba0b8", 
+      "title": "Satisfying Information eeds on the Web: a Survey of Web Information Retrieval*", 
+      "url": "https://www.semanticscholar.org/paper/7db897b00c67b830c81ce86dcbb0b10872bba0b8", 
+      "venue": "", 
+      "year": 2008
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "9708f6f2049e98272d385a6591c3a8779e8fdb0b", 
+      "title": "Multi-agent event recognition in structured scenarios", 
+      "url": "https://www.semanticscholar.org/paper/9708f6f2049e98272d385a6591c3a8779e8fdb0b", 
+      "venue": "CVPR", 
+      "year": 2011
+    }, 
+    {
+      "isInfluential": true, 
+      "paperId": "5d53e73dfae2cd9a8f4a5e23fa94f12ef171475e", 
+      "title": "Beyond Rewards : Learning from Richer Supervision", 
+      "url": "https://www.semanticscholar.org/paper/5d53e73dfae2cd9a8f4a5e23fa94f12ef171475e", 
+      "venue": "", 
+      "year": 2013
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "82c3739ce76a4c83ef04b979a89561a52577ff0d", 
+      "title": "Thesis Proposal Algorithms for Answering Queries with Graphical Models", 
+      "url": "https://www.semanticscholar.org/paper/82c3739ce76a4c83ef04b979a89561a52577ff0d", 
+      "venue": "", 
+      "year": 2009
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "82d2993bbee0d9dd3e35d365b04eb0b1d1ee4f1a", 
+      "title": "Rethinking cognitive architecture via graphical models", 
+      "url": "https://www.semanticscholar.org/paper/82d2993bbee0d9dd3e35d365b04eb0b1d1ee4f1a", 
+      "venue": "Cognitive Systems Research", 
+      "year": 2011
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "88f8049c9f948919944c13213a86771bbfc88506", 
+      "title": "Challenges in Learning Optimum Models for Complex First Order Activity Recognition Settings", 
+      "url": "https://www.semanticscholar.org/paper/88f8049c9f948919944c13213a86771bbfc88506", 
+      "venue": "", 
+      "year": 2012
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "03629f12cb0855972666be845ad31fbdcb550729", 
+      "title": "Understanding Social Networks From a Multiagent Perspective", 
+      "url": "https://www.semanticscholar.org/paper/03629f12cb0855972666be845ad31fbdcb550729", 
+      "venue": "IEEE Transactions on Parallel and Distributed Systems", 
+      "year": 2014
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "43c5dadba8b0f3d716e523f90d145a19c6b31ccc", 
+      "title": "Generic Inference in Latent Gaussian Process Models", 
+      "url": "https://www.semanticscholar.org/paper/43c5dadba8b0f3d716e523f90d145a19c6b31ccc", 
+      "venue": "", 
+      "year": 2016
+    }, 
+    {
+      "isInfluential": true, 
+      "paperId": "64b868cdbd04a81997f4368082f99eef89d359db", 
+      "title": "Biography and Future Challenges", 
+      "url": "https://www.semanticscholar.org/paper/64b868cdbd04a81997f4368082f99eef89d359db", 
+      "venue": "", 
+      "year": 2011
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "0c1f5250742fd98feef416454e7f2f469fcf5642", 
+      "title": "2.1.1 What is Probabilistic Logic Learning..................... 2", 
+      "url": "https://www.semanticscholar.org/paper/0c1f5250742fd98feef416454e7f2f469fcf5642", 
+      "venue": "", 
+      "year": 2006
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "a6e7eb0fc31ae3340d92089e3fc6ab0152852791", 
+      "title": "What\u2019s Missing in AI: The Interface Layer", 
+      "url": "https://www.semanticscholar.org/paper/a6e7eb0fc31ae3340d92089e3fc6ab0152852791", 
+      "venue": "", 
+      "year": null
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "77212ddb48bfd64562d5f2ea7046e278cb0acff3", 
+      "title": "Learning action models from plan examples using weighted MAX-SAT", 
+      "url": "https://www.semanticscholar.org/paper/77212ddb48bfd64562d5f2ea7046e278cb0acff3", 
+      "venue": "Artif. Intell.", 
+      "year": 2007
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "66a9cf710b553b60ba128c4ee78f1397aeef76a0", 
+      "title": "Scalable Inference for Gaussian Process Models with Black-Box Likelihoods", 
+      "url": "https://www.semanticscholar.org/paper/66a9cf710b553b60ba128c4ee78f1397aeef76a0", 
+      "venue": "NIPS", 
+      "year": 2015
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "457d3ca924afc21719d19175caf285aa575d1c90", 
+      "title": "Analyzing Structured Scenarios by Tracking People and Their Limbs", 
+      "url": "https://www.semanticscholar.org/paper/457d3ca924afc21719d19175caf285aa575d1c90", 
+      "venue": "", 
+      "year": 2010
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "199d0b4a8c4ed8cdcfccf5cd041438e031246e66", 
+      "title": "Reinforcement Learning with Markov Logic Networks", 
+      "url": "https://www.semanticscholar.org/paper/199d0b4a8c4ed8cdcfccf5cd041438e031246e66", 
+      "venue": "MICAI", 
+      "year": 2008
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "848f51cae92a8ed72be091317859ea3067bbb6f7", 
+      "title": "Context based meaning extraction by means of markov logic", 
+      "url": "https://www.semanticscholar.org/paper/848f51cae92a8ed72be091317859ea3067bbb6f7", 
+      "venue": "", 
+      "year": 2010
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "e22ce226c4e930881ff7774cc143b305acd066af", 
+      "title": "Parsing PCFG within a General Probabilistic Inference Framework", 
+      "url": "https://www.semanticscholar.org/paper/e22ce226c4e930881ff7774cc143b305acd066af", 
+      "venue": "", 
+      "year": 2009
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "633e96ad4aee710b49337a80bb9c781cfe318966", 
+      "title": "Probing the Space of Optimal Markov Logic Networks for Sequence Labeling", 
+      "url": "https://www.semanticscholar.org/paper/633e96ad4aee710b49337a80bb9c781cfe318966", 
+      "venue": "ILP", 
+      "year": 2012
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "07295d6836d8fadd4150328d33659e5022fccc2f", 
+      "title": "Structured machine learning: the next ten years", 
+      "url": "https://www.semanticscholar.org/paper/07295d6836d8fadd4150328d33659e5022fccc2f", 
+      "venue": "Machine Learning", 
+      "year": 2008
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "03ebf2673135f61db9d40b5e330a076cd02c72d5", 
+      "title": "Using Statistico-Relational Model for Activity Recognition in Smart Home", 
+      "url": "https://www.semanticscholar.org/paper/03ebf2673135f61db9d40b5e330a076cd02c72d5", 
+      "venue": "AmI", 
+      "year": 2015
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "524b35f49e854f0cec5b829ee6cea143e9f27a47", 
+      "title": "Extending BM25 with multiple query operators", 
+      "url": "https://www.semanticscholar.org/paper/524b35f49e854f0cec5b829ee6cea143e9f27a47", 
+      "venue": "SIGIR", 
+      "year": 2012
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "600325e813fb9481ad5bbc2e6c54fad5ae36b8bd", 
+      "title": "Transfer and Structure Learning in Markov Logic Networks", 
+      "url": "https://www.semanticscholar.org/paper/600325e813fb9481ad5bbc2e6c54fad5ae36b8bd", 
+      "venue": "", 
+      "year": 2010
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "48555d2cf443a90f4ed63c44281f5e81b7815c5c", 
+      "title": "Incremental Construction of Robust but Deep Semantic Representations for Use in Responsive Dialogue Systems", 
+      "url": "https://www.semanticscholar.org/paper/48555d2cf443a90f4ed63c44281f5e81b7815c5c", 
+      "venue": "", 
+      "year": 2012
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "12b0b5b4ab47e857e6c50344233df596dfdb6ea3", 
+      "title": "Relevance estimation of traffic elements using Markov logic networks", 
+      "url": "https://www.semanticscholar.org/paper/12b0b5b4ab47e857e6c50344233df596dfdb6ea3", 
+      "venue": "2011 14th International IEEE Conference on Intelligent Transportation Systems (ITSC)", 
+      "year": 2011
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "9d0e9a137edbdf46cba129221006669971d62e44", 
+      "title": "DroidMLN: A Markov Logic Network Approach to Detect Android Malware", 
+      "url": "https://www.semanticscholar.org/paper/9d0e9a137edbdf46cba129221006669971d62e44", 
+      "venue": "2013 12th International Conference on Machine Learning and Applications", 
+      "year": 2013
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "b6a21e80e3ede83bbdee93c896c35966e669f459", 
+      "title": "Learning through Overcoming Inconsistencies", 
+      "url": "https://www.semanticscholar.org/paper/b6a21e80e3ede83bbdee93c896c35966e669f459", 
+      "venue": "2016 27th International Workshop on Database and Expert Systems Applications (DEXA)", 
+      "year": 2016
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "b0f75104a7e9a77c7a8f2addc414f8edebd92b9d", 
+      "title": "Creating a Knowledge Base from a Collaboratively Generated Encyclopedia", 
+      "url": "https://www.semanticscholar.org/paper/b0f75104a7e9a77c7a8f2addc414f8edebd92b9d", 
+      "venue": "HLT-NAACL", 
+      "year": 2007
+    }
+  ], 
+  "doi": "10.1145/2933575.2935321", 
+  "influentialCitationCount": 4, 
+  "paperId": "8b8ab057fec81fda064b0c315b239646635ca4fb", 
+  "references": [
+    {
+      "isInfluential": false, 
+      "paperId": "53c643b283f4c220428f5c3f33b99cc3392b17e8", 
+      "title": "Discriminative Training of Markov Logic Networks", 
+      "url": "https://www.semanticscholar.org/paper/53c643b283f4c220428f5c3f33b99cc3392b17e8", 
+      "venue": "AAAI", 
+      "year": 2005
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "1a3802bf5afe8cf0b8a6b957cb993136077bdc3c", 
+      "title": "Discriminative Probabilistic Models for Relational Data", 
+      "url": "https://www.semanticscholar.org/paper/1a3802bf5afe8cf0b8a6b957cb993136077bdc3c", 
+      "venue": "UAI", 
+      "year": 2002
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "8e21838f3c145b65f4c6e0d03d80cb82fb0b54ff", 
+      "title": "Efficient Weight Learning for Markov Logic Networks", 
+      "url": "https://www.semanticscholar.org/paper/8e21838f3c145b65f4c6e0d03d80cb82fb0b54ff", 
+      "venue": "PKDD", 
+      "year": 2007
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "d35f8c6ed6d2f94c0e0603ec57a6d501a1276de4", 
+      "title": "Foundations of Logic Programming, 2nd Edition", 
+      "url": "https://www.semanticscholar.org/paper/d35f8c6ed6d2f94c0e0603ec57a6d501a1276de4", 
+      "venue": "", 
+      "year": 1987
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "5181ee3518caf654239b5c0e32a166b3361b0737", 
+      "title": "Sound and Efficient Inference with Probabilistic and Deterministic Dependencies", 
+      "url": "https://www.semanticscholar.org/paper/5181ee3518caf654239b5c0e32a166b3361b0737", 
+      "venue": "AAAI", 
+      "year": 2006
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "0529133c67cd1326bf2ee67b7cb963b4d93bc584", 
+      "title": "Generalized Belief Propagation", 
+      "url": "https://www.semanticscholar.org/paper/0529133c67cd1326bf2ee67b7cb963b4d93bc584", 
+      "venue": "NIPS", 
+      "year": 2000
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "b1d974d8ef4446115a8052808d9e9d510d2d2571", 
+      "title": "A Machine-Oriented Logic Based on the Resolution Principle", 
+      "url": "https://www.semanticscholar.org/paper/b1d974d8ef4446115a8052808d9e9d510d2d2571", 
+      "venue": "J. ACM", 
+      "year": 1965
+    }, 
+    {
+      "isInfluential": true, 
+      "paperId": "1ad6b249d546a9a4bf8782e0703ecef50b66f3ff", 
+      "title": "Towards Efficient Sampling: Exploiting Random Walk Strategies", 
+      "url": "https://www.semanticscholar.org/paper/1ad6b249d546a9a4bf8782e0703ecef50b66f3ff", 
+      "venue": "AAAI", 
+      "year": 2004
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "a7a137d03b4dd62373aaeaf600e459c846643bf0", 
+      "title": "Improving the Accuracy and Efficiency of MAP Inference for Markov Logic", 
+      "url": "https://www.semanticscholar.org/paper/a7a137d03b4dd62373aaeaf600e459c846643bf0", 
+      "venue": "UAI", 
+      "year": 2008
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "1d733fc29d102dbecf7414e713e505b1b042dc8c", 
+      "title": "A general stochastic approach to solving problems with hard and soft constraints", 
+      "url": "https://www.semanticscholar.org/paper/1d733fc29d102dbecf7414e713e505b1b042dc8c", 
+      "venue": "Satisfiability Problem: Theory and Applications", 
+      "year": 1996
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "0fedb3f3459bb591c3c2e30beb7dd0a9d3af3bcc", 
+      "title": "Mining knowledge-sharing sites for viral marketing", 
+      "url": "https://www.semanticscholar.org/paper/0fedb3f3459bb591c3c2e30beb7dd0a9d3af3bcc", 
+      "venue": "KDD", 
+      "year": 2002
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "abeeb201671691e38b835970c8b671d58c4313ea", 
+      "title": "Logical foundations of artificial intelligence", 
+      "url": "https://www.semanticscholar.org/paper/abeeb201671691e38b835970c8b671d58c4313ea", 
+      "venue": "", 
+      "year": 1988
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "4f83478a85a817ed18253ded25853d16af8e1c0f", 
+      "title": "Learning the structure of Markov logic networks", 
+      "url": "https://www.semanticscholar.org/paper/4f83478a85a817ed18253ded25853d16af8e1c0f", 
+      "venue": "ICML", 
+      "year": 2005
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "3a5b52852c369d29e9aaf58f2a86d96e4543894e", 
+      "title": "A General Method for Reducing the Complexity of Relational Inference and its Application to MCMC", 
+      "url": "https://www.semanticscholar.org/paper/3a5b52852c369d29e9aaf58f2a86d96e4543894e", 
+      "venue": "AAAI", 
+      "year": 2008
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "6171479b47bf6f56b57f98d80ecdecfb3d29cbb7", 
+      "title": "From knowledge bases to decision models", 
+      "url": "https://www.semanticscholar.org/paper/6171479b47bf6f56b57f98d80ecdecfb3d29cbb7", 
+      "venue": "Knowledge Eng. Review", 
+      "year": 1992
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "7783fd2984ac139194d21c10bd83b4c9764826a3", 
+      "title": "Probabilistic Reasoning in Intelligent Systems: Networks of Plausible Inference (Judea Pearl)", 
+      "url": "https://www.semanticscholar.org/paper/7783fd2984ac139194d21c10bd83b4c9764826a3", 
+      "venue": "SIAM Review", 
+      "year": 1989
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "492b70d6482bfa3b1f477ebf3b19aa09a030fd40", 
+      "title": "Lifted First-Order Belief Propagation", 
+      "url": "https://www.semanticscholar.org/paper/492b70d6482bfa3b1f477ebf3b19aa09a030fd40", 
+      "venue": "AAAI", 
+      "year": 2008
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "c00293c783b4570db6dee3cbb931aa5088305dd1", 
+      "title": "Template Based Inference in Symmetric Relational Markov Random Fields", 
+      "url": "https://www.semanticscholar.org/paper/c00293c783b4570db6dee3cbb931aa5088305dd1", 
+      "venue": "UAI", 
+      "year": 2007
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "1267fe36b5ece49a9d8f913eb67716a040bbcced", 
+      "title": "On the limited memory BFGS method for large scale optimization", 
+      "url": "https://www.semanticscholar.org/paper/1267fe36b5ece49a9d8f913eb67716a040bbcced", 
+      "venue": "Math. Program.", 
+      "year": 1989
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "1a630ace1ce69ab72d657767615a17e432d86441", 
+      "title": "Joint Inference in Information Extraction", 
+      "url": "https://www.semanticscholar.org/paper/1a630ace1ce69ab72d657767615a17e432d86441", 
+      "venue": "AAAI", 
+      "year": 2007
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "3fa0439b384dda8d0aa48caaf4640ee23147fa97", 
+      "title": "Memory-Efficient Inference in Relational Domains", 
+      "url": "https://www.semanticscholar.org/paper/3fa0439b384dda8d0aa48caaf4640ee23147fa97", 
+      "venue": "AAAI", 
+      "year": 2006
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "3b8e7c8220d3883d54960d896a73045f3c70ac17", 
+      "title": "Discriminative Training Methods For Hidden Markov Models: Theory And Experiments With Perceptron Algorithms", 
+      "url": "https://www.semanticscholar.org/paper/3b8e7c8220d3883d54960d896a73045f3c70ac17", 
+      "venue": "", 
+      "year": 2002
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "554f3b32b956035fbfabba730c6f0300d6955dce", 
+      "title": "Learning logical definitions from relations", 
+      "url": "https://www.semanticscholar.org/paper/554f3b32b956035fbfabba730c6f0300d6955dce", 
+      "venue": "Machine Learning", 
+      "year": 1990
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "2749cb94f92170f79d0e8ad266605a871767f38a", 
+      "title": "Markov logic networks", 
+      "url": "https://www.semanticscholar.org/paper/2749cb94f92170f79d0e8ad266605a871767f38a", 
+      "venue": "Machine Learning", 
+      "year": 2006
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "937c3e93a15cc416af330f9fcbcf447f7ad77e1e", 
+      "title": "On the Hardness of Approximate Reasoning", 
+      "url": "https://www.semanticscholar.org/paper/937c3e93a15cc416af330f9fcbcf447f7ad77e1e", 
+      "venue": "IJCAI", 
+      "year": 1993
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "0fddb1a0317b51183f7f045432861ec5170f63db", 
+      "title": "Relational Learning with Statistical Predicate Invention: Better Models for Hypertext", 
+      "url": "https://www.semanticscholar.org/paper/0fddb1a0317b51183f7f045432861ec5170f63db", 
+      "venue": "Machine Learning", 
+      "year": 2001
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "6b57448c69f10450252facd5c1d39c4506560353", 
+      "title": "Extracting Semantic Networks from Text Via Relational Clustering", 
+      "url": "https://www.semanticscholar.org/paper/6b57448c69f10450252facd5c1d39c4506560353", 
+      "venue": "ECML/PKDD", 
+      "year": 2008
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "17c18e62e1e474675c98904982cd8e0070c2e746", 
+      "title": "Statistical predicate invention", 
+      "url": "https://www.semanticscholar.org/paper/17c18e62e1e474675c98904982cd8e0070c2e746", 
+      "venue": "ICML", 
+      "year": 2007
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "480b1e3419d38363604016a2746f3f9b3bdc7de6", 
+      "title": "Mining the network value of customers", 
+      "url": "https://www.semanticscholar.org/paper/480b1e3419d38363604016a2746f3f9b3bdc7de6", 
+      "venue": "KDD", 
+      "year": 2001
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "943588e0df950203d281bfd0c2f9c43673dfef26", 
+      "title": "A Scaled Conjugate Gradient Algorithm for Fast Supervised Learning", 
+      "url": "https://www.semanticscholar.org/paper/943588e0df950203d281bfd0c2f9c43673dfef26", 
+      "venue": "", 
+      "year": 1991
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "5a802ebd39c70f52dc180eca5d0a7fa4f6b73bbe", 
+      "title": "Bottom-up learning of Markov logic network structure", 
+      "url": "https://www.semanticscholar.org/paper/5a802ebd39c70f52dc180eca5d0a7fa4f6b73bbe", 
+      "venue": "ICML", 
+      "year": 2007
+    }, 
+    {
+      "isInfluential": true, 
+      "paperId": "cf9fec67129a0f0f9ebb1ba5ff411c2fa63ff723", 
+      "title": "Inductive logic programming - techniques and applications", 
+      "url": "https://www.semanticscholar.org/paper/cf9fec67129a0f0f9ebb1ba5ff411c2fa63ff723", 
+      "venue": "Ellis Horwood series in artificial intelligence", 
+      "year": 1994
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "b4d972cd8a6503f6066986d38d321101cd250bce", 
+      "title": "WinBUGS - A Bayesian modelling framework: Concepts, structure, and extensibility", 
+      "url": "https://www.semanticscholar.org/paper/b4d972cd8a6503f6066986d38d321101cd250bce", 
+      "venue": "Statistics and Computing", 
+      "year": 2000
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "588d3f616365866ffd10e540746c65ad3e0ba666", 
+      "title": "Markov Logic in Infinite Domains", 
+      "url": "https://www.semanticscholar.org/paper/588d3f616365866ffd10e540746c65ad3e0ba666", 
+      "venue": "Probabilistic, Logical and Relational Learning - A Further Synthesis", 
+      "year": 2007
+    }
+  ], 
+  "title": "Unifying Logical and Statistical AI", 
+  "url": "https://www.semanticscholar.org/paper/8b8ab057fec81fda064b0c315b239646635ca4fb", 
+  "venue": "LICS", 
+  "year": 2006
+}

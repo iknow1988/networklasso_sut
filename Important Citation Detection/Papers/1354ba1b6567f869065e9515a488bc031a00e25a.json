@@ -1,0 +1,595 @@
+{
+  "authors": [
+    {
+      "authorId": "1703360", 
+      "name": "Xin Dong", 
+      "url": "https://www.semanticscholar.org/author/1703360"
+    }, 
+    {
+      "authorId": "1718798", 
+      "name": "Evgeniy Gabrilovich", 
+      "url": "https://www.semanticscholar.org/author/1718798"
+    }, 
+    {
+      "authorId": "1728179", 
+      "name": "Geremy Heitz", 
+      "url": "https://www.semanticscholar.org/author/1728179"
+    }, 
+    {
+      "authorId": "1800950", 
+      "name": "Wilko Horn", 
+      "url": "https://www.semanticscholar.org/author/1800950"
+    }, 
+    {
+      "authorId": "18842485", 
+      "name": "Kevin Murphy", 
+      "url": "https://www.semanticscholar.org/author/18842485"
+    }, 
+    {
+      "authorId": "2673870", 
+      "name": "Shaohua Sun", 
+      "url": "https://www.semanticscholar.org/author/2673870"
+    }, 
+    {
+      "authorId": "1726357", 
+      "name": "Wei Zhang", 
+      "url": "https://www.semanticscholar.org/author/1726357"
+    }
+  ], 
+  "citationVelocity": 0, 
+  "citations": [
+    {
+      "isInfluential": false, 
+      "paperId": "0ad1d033d4d7dfb1c3e8dc3bdaadf0601d56e4ff", 
+      "title": "An Automatic Discovery Framework of Cross-Source Data Inconsistency for Web Big Data", 
+      "url": "https://www.semanticscholar.org/paper/0ad1d033d4d7dfb1c3e8dc3bdaadf0601d56e4ff", 
+      "venue": "2015 Third International Conference on Advanced Cloud and Big Data", 
+      "year": 2015
+    }, 
+    {
+      "isInfluential": true, 
+      "paperId": "580f1c262d1ec3ac15227161232ae8dc25a2474e", 
+      "title": "Fusing time-dependent web table data", 
+      "url": "https://www.semanticscholar.org/paper/580f1c262d1ec3ac15227161232ae8dc25a2474e", 
+      "venue": "WebDB", 
+      "year": 2016
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "701239a3f657dd50ba4d125803e05424c48e0f92", 
+      "title": "Truth Discovery Algorithms: An Experimental Evaluation", 
+      "url": "https://www.semanticscholar.org/paper/701239a3f657dd50ba4d125803e05424c48e0f92", 
+      "venue": "ArXiv", 
+      "year": 2014
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "e0bb1e561f651901d68c25f800e17283b2dbe8a2", 
+      "title": "Data veracity estimation with ensembling truth discovery methods", 
+      "url": "https://www.semanticscholar.org/paper/e0bb1e561f651901d68c25f800e17283b2dbe8a2", 
+      "venue": "2015 IEEE International Conference on Big Data (Big Data)", 
+      "year": 2015
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "b84406a1407d492a5978dba21105fdb7b59bf1c4", 
+      "title": "Deriving Intensional Descriptions for Web Services", 
+      "url": "https://www.semanticscholar.org/paper/b84406a1407d492a5978dba21105fdb7b59bf1c4", 
+      "venue": "CIKM", 
+      "year": 2015
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "6109a04e98efb746be96ad28a7acb7ee3d29d7ea", 
+      "title": "Reliable Medical Diagnosis from Crowdsourcing: Discover Trustworthy Answers from Non-Experts", 
+      "url": "https://www.semanticscholar.org/paper/6109a04e98efb746be96ad28a7acb7ee3d29d7ea", 
+      "venue": "WSDM", 
+      "year": 2017
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "1b189d721adbf1d2bab93b7ed6ce826e188b0b99", 
+      "title": "A Survey on Truth Discovery", 
+      "url": "https://www.semanticscholar.org/paper/1b189d721adbf1d2bab93b7ed6ce826e188b0b99", 
+      "venue": "SIGKDD Explorations", 
+      "year": 2015
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "023a796ce6493df9bbf0c49fa25e39afe0e02611", 
+      "title": "Distilling Information Reliability and Source Trustworthiness from Digital Traces", 
+      "url": "https://www.semanticscholar.org/paper/023a796ce6493df9bbf0c49fa25e39afe0e02611", 
+      "venue": "WWW", 
+      "year": 2017
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "16b5fde8871189e633ffe0b68f35804c2f2f3816", 
+      "title": "Entity-centric Data Fusion on the Web", 
+      "url": "https://www.semanticscholar.org/paper/16b5fde8871189e633ffe0b68f35804c2f2f3816", 
+      "venue": "HT", 
+      "year": 2017
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "a48dca9eda1507887da9d2cccb98df0b560d7c34", 
+      "title": "CrowdFusion: A Crowdsourced Approach on Data Fusion Refinement", 
+      "url": "https://www.semanticscholar.org/paper/a48dca9eda1507887da9d2cccb98df0b560d7c34", 
+      "venue": "2017 IEEE 33rd International Conference on Data Engineering (ICDE)", 
+      "year": 2017
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "39d6f2d674d213ecc51a2b17d803361a3d605835", 
+      "title": "ScaLeKB: scalable learning and inference over large knowledge bases", 
+      "url": "https://www.semanticscholar.org/paper/39d6f2d674d213ecc51a2b17d803361a3d605835", 
+      "venue": "The VLDB Journal", 
+      "year": 2016
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "0ba16f6b7920cdbdd4cf2f1e507053a90165a0ad", 
+      "title": "Scaling up copy detection", 
+      "url": "https://www.semanticscholar.org/paper/0ba16f6b7920cdbdd4cf2f1e507053a90165a0ad", 
+      "venue": "2015 IEEE 31st International Conference on Data Engineering", 
+      "year": 2015
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "7ee17d2001c9fcef63e3a56610cacc743861d944", 
+      "title": "Extracting Databases from Dark Data with DeepDive", 
+      "url": "https://www.semanticscholar.org/paper/7ee17d2001c9fcef63e3a56610cacc743861d944", 
+      "venue": "SIGMOD Conference", 
+      "year": 2016
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "4a72c71f839707a60d8f0a69e5794104a54c44a2", 
+      "title": "DeepDive: declarative knowledge base construction", 
+      "url": "https://www.semanticscholar.org/paper/4a72c71f839707a60d8f0a69e5794104a54c44a2", 
+      "venue": "Commun. ACM", 
+      "year": 2016
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "e01c4177fb9ffff49891b995418ec67be922bb7a", 
+      "title": "Temporal Rules Discovery for Web Data Cleaning", 
+      "url": "https://www.semanticscholar.org/paper/e01c4177fb9ffff49891b995418ec67be922bb7a", 
+      "venue": "PVLDB", 
+      "year": 2015
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "1587b435c9dda00944b2762634914744c176928f", 
+      "title": "Web Data Knowledge Extraction", 
+      "url": "https://www.semanticscholar.org/paper/1587b435c9dda00944b2762634914744c176928f", 
+      "venue": "ArXiv", 
+      "year": 2016
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "082ac3eabd3120595342ff05c13c2fdc00c6ff03", 
+      "title": "Database Meets Deep Learning: Challenges and Opportunities", 
+      "url": "https://www.semanticscholar.org/paper/082ac3eabd3120595342ff05c13c2fdc00c6ff03", 
+      "venue": "SIGMOD Record", 
+      "year": 2016
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "117da44f01ef45ef8223bec8f9c2346b131321f4", 
+      "title": "Knowledge-Based Trust: Estimating the Trustworthiness of Web Sources", 
+      "url": "https://www.semanticscholar.org/paper/117da44f01ef45ef8223bec8f9c2346b131321f4", 
+      "venue": "PVLDB", 
+      "year": 2015
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "870fca95bd140249485095d8b9c1c25a42f94def", 
+      "title": "A bootstrapping approach to entity linkage on the Semantic Web", 
+      "url": "https://www.semanticscholar.org/paper/870fca95bd140249485095d8b9c1c25a42f94def", 
+      "venue": "J. Web Sem.", 
+      "year": 2015
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "cc457e4b8d767a4d4bda11daaf80521fbd8130eb", 
+      "title": "A Challenge for Long-Term Knowledge Base Maintenance", 
+      "url": "https://www.semanticscholar.org/paper/cc457e4b8d767a4d4bda11daaf80521fbd8130eb", 
+      "venue": "J. Data and Information Quality", 
+      "year": 2015
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "0c104479f336242e1c4455ddb97ee571b0c29923", 
+      "title": "Reinforcement Learning for Multi-Step Expert Advice", 
+      "url": "https://www.semanticscholar.org/paper/0c104479f336242e1c4455ddb97ee571b0c29923", 
+      "venue": "AAMAS", 
+      "year": 2017
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "258445f455a35653890286cad2a763cfba5c0397", 
+      "title": "Towards a Pattern-based Semantic Enrichment of Bibliographic Entities", 
+      "url": "https://www.semanticscholar.org/paper/258445f455a35653890286cad2a763cfba5c0397", 
+      "venue": "TCDL Bulletin", 
+      "year": 2016
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "12756c318bbfda4478282af0ac0c060bae9b7c13", 
+      "title": "Relevance Scores for Triples from Type-Like Relations", 
+      "url": "https://www.semanticscholar.org/paper/12756c318bbfda4478282af0ac0c060bae9b7c13", 
+      "venue": "SIGIR", 
+      "year": 2015
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "5342eedce3f963d077583c0d732fa92a1f620eb3", 
+      "title": "Visualization of Trustworthiness Graphs", 
+      "url": "https://www.semanticscholar.org/paper/5342eedce3f963d077583c0d732fa92a1f620eb3", 
+      "venue": "WWW", 
+      "year": 2015
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "01bac6d975afbe0cb568b9bae9146604c488e478", 
+      "title": "The Arabic Knowledge Graph: Opportunities and Challenges", 
+      "url": "https://www.semanticscholar.org/paper/01bac6d975afbe0cb568b9bae9146604c488e478", 
+      "venue": "2017 IEEE 11th International Conference on Semantic Computing (ICSC)", 
+      "year": 2017
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "042da2f5b3c4e91015e01a7bbb884d192cd03df8", 
+      "title": "Generating Actionable Knowledge from Big Data", 
+      "url": "https://www.semanticscholar.org/paper/042da2f5b3c4e91015e01a7bbb884d192cd03df8", 
+      "venue": "SIGMOD PhD Symposium", 
+      "year": 2015
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "03fa2b8725c274d71391b917b5820959a9f0beaf", 
+      "title": "Holistic entity matching across knowledge graphs", 
+      "url": "https://www.semanticscholar.org/paper/03fa2b8725c274d71391b917b5820959a9f0beaf", 
+      "venue": "2015 IEEE International Conference on Big Data (Big Data)", 
+      "year": 2015
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "2aba939d884130af73ef5894bf3728e0f48d1008", 
+      "title": "Keys for Graphs", 
+      "url": "https://www.semanticscholar.org/paper/2aba939d884130af73ef5894bf3728e0f48d1008", 
+      "venue": "PVLDB", 
+      "year": 2015
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "7c1f3525fc036540e8ca22a3cedf2ed95abd4086", 
+      "title": "Knowledge Curation and Knowledge Fusion: Challenges, Models and Applications", 
+      "url": "https://www.semanticscholar.org/paper/7c1f3525fc036540e8ca22a3cedf2ed95abd4086", 
+      "venue": "SIGMOD Conference", 
+      "year": 2015
+    }, 
+    {
+      "isInfluential": true, 
+      "paperId": "210d300aceb92632374027ede22d1d13b9a5dfe8", 
+      "title": "Incremental knowledge base construction using DeepDive", 
+      "url": "https://www.semanticscholar.org/paper/210d300aceb92632374027ede22d1d13b9a5dfe8", 
+      "venue": "The VLDB Journal", 
+      "year": 2015
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "383478370162b80f1ef24ccc9c95e156fc808077", 
+      "title": "Data X-Ray: A Diagnostic Tool for Data Errors", 
+      "url": "https://www.semanticscholar.org/paper/383478370162b80f1ef24ccc9c95e156fc808077", 
+      "venue": "SIGMOD Conference", 
+      "year": 2015
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "60cb5302d8c2944e28523ef921b54eeaf1822382", 
+      "title": "KATARA: A Data Cleaning System Powered by Knowledge Bases and Crowdsourcing", 
+      "url": "https://www.semanticscholar.org/paper/60cb5302d8c2944e28523ef921b54eeaf1822382", 
+      "venue": "SIGMOD Conference", 
+      "year": 2015
+    }
+  ], 
+  "doi": null, 
+  "influentialCitationCount": 2, 
+  "paperId": "1354ba1b6567f869065e9515a488bc031a00e25a", 
+  "references": [
+    {
+      "isInfluential": true, 
+      "paperId": "00a3f6924f90fcd77e6e7e6534b957a75d0ced07", 
+      "title": "Yago: a core of semantic knowledge", 
+      "url": "https://www.semanticscholar.org/paper/00a3f6924f90fcd77e6e7e6534b957a75d0ced07", 
+      "venue": "WWW", 
+      "year": 2007
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "ab50b1801ec9585642f320e12b1488599bff030e", 
+      "title": "Biperpedia: An Ontology for Search Applications", 
+      "url": "https://www.semanticscholar.org/paper/ab50b1801ec9585642f320e12b1488599bff030e", 
+      "venue": "PVLDB", 
+      "year": 2014
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "af2a807c5e32a35765850c6b6891f471d7bc7aea", 
+      "title": "Latent credibility analysis", 
+      "url": "https://www.semanticscholar.org/paper/af2a807c5e32a35765850c6b6891f471d7bc7aea", 
+      "venue": "WWW", 
+      "year": 2013
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "5f4c05ba08fac9cde40235ebd4eb9abc6ed2d712", 
+      "title": "Authoritative Sources in a Hyperlinked Environment", 
+      "url": "https://www.semanticscholar.org/paper/5f4c05ba08fac9cde40235ebd4eb9abc6ed2d712", 
+      "venue": "", 
+      "year": 1998
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "66b43dbeef7a13a7f1dd36ce7564e888f7196ac5", 
+      "title": "Mining collective intelligence in diverse groups", 
+      "url": "https://www.semanticscholar.org/paper/66b43dbeef7a13a7f1dd36ce7564e888f7196ac5", 
+      "venue": "WWW", 
+      "year": 2013
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "0541d5338adc48276b3b8cd3a141d799e2d40150", 
+      "title": "MapReduce: Simplified Data Processing on Large Clusters", 
+      "url": "https://www.semanticscholar.org/paper/0541d5338adc48276b3b8cd3a141d799e2d40150", 
+      "venue": "OSDI", 
+      "year": 2004
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "2cca87876d142c75626304700fb599e7944cf338", 
+      "title": "Truth Discovery and Copying Detection in a Dynamic World", 
+      "url": "https://www.semanticscholar.org/paper/2cca87876d142c75626304700fb599e7944cf338", 
+      "venue": "PVLDB", 
+      "year": 2009
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "a95193b340445a83018a31fa15499223cf3b9259", 
+      "title": "Schema Matching And Mapping-based Data Integration", 
+      "url": "https://www.semanticscholar.org/paper/a95193b340445a83018a31fa15499223cf3b9259", 
+      "venue": "", 
+      "year": 2015
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "1976c9eeccc7115d18a04f1e7fb5145db6b96002", 
+      "title": "Freebase: a collaboratively created graph database for structuring human knowledge", 
+      "url": "https://www.semanticscholar.org/paper/1976c9eeccc7115d18a04f1e7fb5145db6b96002", 
+      "venue": "SIGMOD Conference", 
+      "year": 2008
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "4607f09a348c87f95aedd7711b24d8bf614fe58c", 
+      "title": "A Bayesian Approach to Discovering Truth from Conflicting Sources for Data Integration", 
+      "url": "https://www.semanticscholar.org/paper/4607f09a348c87f95aedd7711b24d8bf614fe58c", 
+      "venue": "PVLDB", 
+      "year": 2012
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "562115d024fa065a5388a9cc64010e634eabdde9", 
+      "title": "Google's Deep Web crawl", 
+      "url": "https://www.semanticscholar.org/paper/562115d024fa065a5388a9cc64010e634eabdde9", 
+      "venue": "PVLDB", 
+      "year": 2008
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "a12cd3d9ae5530a90302a6e4af477e6e24fa0f95", 
+      "title": "Integrating Conflicting Data: The Role of Source Dependence", 
+      "url": "https://www.semanticscholar.org/paper/a12cd3d9ae5530a90302a6e4af477e6e24fa0f95", 
+      "venue": "PVLDB", 
+      "year": 2009
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "579e1e9217cfed6d563cedf8f8fdcd1604fc0917", 
+      "title": "Knowing What to Believe (when you already know something)", 
+      "url": "https://www.semanticscholar.org/paper/579e1e9217cfed6d563cedf8f8fdcd1604fc0917", 
+      "venue": "COLING", 
+      "year": 2010
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "8f8139b63a2fc0b3ae8413acaef47acd35a356e0", 
+      "title": "Distant supervision for relation extraction without labeled data", 
+      "url": "https://www.semanticscholar.org/paper/8f8139b63a2fc0b3ae8413acaef47acd35a356e0", 
+      "venue": "ACL/IJCNLP", 
+      "year": 2009
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "65821014abe934029310cb10d4e329645acd4817", 
+      "title": "Truth Discovery with Multiple Conflicting Information Providers on the Web", 
+      "url": "https://www.semanticscholar.org/paper/65821014abe934029310cb10d4e329645acd4817", 
+      "venue": "IEEE Transactions on Knowledge and Data Engineering", 
+      "year": 2007
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "55d176b92d5740d039e1c8ebbad025d460de9ae0", 
+      "title": "AMIE: association rule mining under incomplete evidence in ontological knowledge bases", 
+      "url": "https://www.semanticscholar.org/paper/55d176b92d5740d039e1c8ebbad025d460de9ae0", 
+      "venue": "WWW", 
+      "year": 2013
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "79a4ce582dae39b2cbb0fab5de1179fe2581ce95", 
+      "title": "Data fusion", 
+      "url": "https://www.semanticscholar.org/paper/79a4ce582dae39b2cbb0fab5de1179fe2581ce95", 
+      "venue": "ACM Comput. Surv.", 
+      "year": 2008
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "2e50fa3360990aad1fc65a89231d16f8d3373836", 
+      "title": "Modeling Missing Data in Distant Supervision for Information Extraction", 
+      "url": "https://www.semanticscholar.org/paper/2e50fa3360990aad1fc65a89231d16f8d3373836", 
+      "venue": "TACL", 
+      "year": 2013
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "96227b819c31e9159963d3e7202acd4f5f85100e", 
+      "title": "Making Better Informed Trust Decisions with Generalized Fact-Finding", 
+      "url": "https://www.semanticscholar.org/paper/96227b819c31e9159963d3e7202acd4f5f85100e", 
+      "venue": "IJCAI", 
+      "year": 2011
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "2ffe1157df90ce94cb91f28074b43b58135cedac", 
+      "title": "A Probabilistic Model for Estimating Real-valued Truth from Conflicting Sources", 
+      "url": "https://www.semanticscholar.org/paper/2ffe1157df90ce94cb91f28074b43b58135cedac", 
+      "venue": "", 
+      "year": 2012
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "41f1ebd4c8486614f5830794220df217281d507c", 
+      "title": "Semi-supervised truth discovery", 
+      "url": "https://www.semanticscholar.org/paper/41f1ebd4c8486614f5830794220df217281d507c", 
+      "venue": "WWW", 
+      "year": 2011
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "0cd75bc954961e164818141e172820112ff4c95f", 
+      "title": "Fusing data with correlations", 
+      "url": "https://www.semanticscholar.org/paper/0cd75bc954961e164818141e172820112ff4c95f", 
+      "venue": "SIGMOD Conference", 
+      "year": 2014
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "515b9903cb55e548b6732e953a1bd51f457c6353", 
+      "title": "WebTables: exploring the power of tables on the web", 
+      "url": "https://www.semanticscholar.org/paper/515b9903cb55e548b6732e953a1bd51f457c6353", 
+      "venue": "PVLDB", 
+      "year": 2008
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "9bdef4898c3cbdc196a4d076e9bd5df38b97f28d", 
+      "title": "An Analysis of Structured Data on the Web", 
+      "url": "https://www.semanticscholar.org/paper/9bdef4898c3cbdc196a4d076e9bd5df38b97f28d", 
+      "venue": "PVLDB", 
+      "year": 2012
+    }, 
+    {
+      "isInfluential": true, 
+      "paperId": "2c00bbc530200bc4b55a9b70c11b3bbd42113d9a", 
+      "title": "Elementary: Large-Scale Knowledge-Base Construction via Machine Learning and Statistical Inference", 
+      "url": "https://www.semanticscholar.org/paper/2c00bbc530200bc4b55a9b70c11b3bbd42113d9a", 
+      "venue": "Int. J. Semantic Web Inf. Syst.", 
+      "year": 2012
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "453c5a0ff2b97746de65153a2ea39799458585e7", 
+      "title": "Online Data Fusion", 
+      "url": "https://www.semanticscholar.org/paper/453c5a0ff2b97746de65153a2ea39799458585e7", 
+      "venue": "PVLDB", 
+      "year": 2011
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "4f84bcbddad1e931b0328be6e0a96ca731c538f8", 
+      "title": "Truth Finding on the Deep Web: Is the Problem Solved?", 
+      "url": "https://www.semanticscholar.org/paper/4f84bcbddad1e931b0328be6e0a96ca731c538f8", 
+      "venue": "PVLDB", 
+      "year": 2012
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "0e5ebc2eb31b6c78ee0dee10246efeeaf587f7f4", 
+      "title": "Corroborating information from disagreeing views", 
+      "url": "https://www.semanticscholar.org/paper/0e5ebc2eb31b6c78ee0dee10246efeeaf587f7f4", 
+      "venue": "WSDM", 
+      "year": 2010
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "c8713e4bdd66298fa89e3d2f6598dfd8114acd3d", 
+      "title": "Reprint of: The anatomy of a large-scale hypertextual web search engine", 
+      "url": "https://www.semanticscholar.org/paper/c8713e4bdd66298fa89e3d2f6598dfd8114acd3d", 
+      "venue": "Computer Networks", 
+      "year": 1998
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "448fb28797e73dd69a205e80c470cc33bb212065", 
+      "title": "Assessing confidence of knowledge base content with an experimental study in entity resolution", 
+      "url": "https://www.semanticscholar.org/paper/448fb28797e73dd69a205e80c470cc33bb212065", 
+      "venue": "AKBC@CIKM", 
+      "year": 2013
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "128d2482c0968cbd7639ecbe7dca97c11cf51570", 
+      "title": "Local and Global Algorithms for Disambiguation to Wikipedia", 
+      "url": "https://www.semanticscholar.org/paper/128d2482c0968cbd7639ecbe7dca97c11cf51570", 
+      "venue": "ACL", 
+      "year": 2011
+    }, 
+    {
+      "isInfluential": true, 
+      "paperId": "2d03baec8ac1568e6813aa43d625d552524f977e", 
+      "title": "Toward an Architecture for Never-Ending Language Learning", 
+      "url": "https://www.semanticscholar.org/paper/2d03baec8ac1568e6813aa43d625d552524f977e", 
+      "venue": "AAAI", 
+      "year": 2010
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "4c7779938bd80f62f80d6964c89a97476eef7c69", 
+      "title": "Less is More: Selecting Sources Wisely for Integration", 
+      "url": "https://www.semanticscholar.org/paper/4c7779938bd80f62f80d6964c89a97476eef7c69", 
+      "venue": "PVLDB", 
+      "year": 2012
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "4fd6f95aca0da395078d63c4f3be5a51f3ffef55", 
+      "title": "Global Detection of Complex Copying Relationships Between Sources", 
+      "url": "https://www.semanticscholar.org/paper/4fd6f95aca0da395078d63c4f3be5a51f3ffef55", 
+      "venue": "PVLDB", 
+      "year": 2010
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "38526532f66d5bcd7b47cea0ed9642b9b232d50f", 
+      "title": "Data fusion - Resolving Data Conflicts for Integration", 
+      "url": "https://www.semanticscholar.org/paper/38526532f66d5bcd7b47cea0ed9642b9b232d50f", 
+      "venue": "PVLDB", 
+      "year": 2009
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "28b0bc42f2a7d95a2811f17ba4bd85c4d48d0246", 
+      "title": "Probabilistic Models to Reconcile Complex Data from Inaccurate Data Sources", 
+      "url": "https://www.semanticscholar.org/paper/28b0bc42f2a7d95a2811f17ba4bd85c4d48d0246", 
+      "venue": "CAiSE", 
+      "year": 2010
+    }
+  ], 
+  "title": "From Data Fusion to Knowledge Fusion", 
+  "url": "https://www.semanticscholar.org/paper/1354ba1b6567f869065e9515a488bc031a00e25a", 
+  "venue": "PVLDB", 
+  "year": 2014
+}

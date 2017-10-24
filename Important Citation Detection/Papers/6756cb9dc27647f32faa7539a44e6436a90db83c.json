@@ -1,0 +1,826 @@
+{
+  "authors": [
+    {
+      "authorId": "1733928", 
+      "name": "Roberto Navigli", 
+      "url": "https://www.semanticscholar.org/author/1733928"
+    }, 
+    {
+      "authorId": "1747893", 
+      "name": "Mirella Lapata", 
+      "url": "https://www.semanticscholar.org/author/1747893"
+    }
+  ], 
+  "citationVelocity": 0, 
+  "citations": [
+    {
+      "isInfluential": false, 
+      "paperId": "4c75a9a399c2f78348b7db07d0e4a542b349f630", 
+      "title": "Combining Orthogonal Monolingual and Multilingual Sources of Evidence for All Words WSD", 
+      "url": "https://www.semanticscholar.org/paper/4c75a9a399c2f78348b7db07d0e4a542b349f630", 
+      "venue": "ACL", 
+      "year": 2010
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "ab8d3b861ee7d73f92dfbd6a532cdc76466d0572", 
+      "title": "Evaluating knowledge-poor and knowledge-rich features in automatic classification: A case study in WSD", 
+      "url": "https://www.semanticscholar.org/paper/ab8d3b861ee7d73f92dfbd6a532cdc76466d0572", 
+      "venue": "2012 IEEE 13th International Symposium on Computational Intelligence and Informatics (CINTI)", 
+      "year": 2012
+    }, 
+    {
+      "isInfluential": true, 
+      "paperId": "534534e32f5e477eeb3301faa6265c23d221f684", 
+      "title": "Personalizing PageRank for Word Sense Disambiguation", 
+      "url": "https://www.semanticscholar.org/paper/534534e32f5e477eeb3301faa6265c23d221f684", 
+      "venue": "EACL", 
+      "year": 2009
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "6743c210ffd0a828bb47379c6c22c9b0f905269e", 
+      "title": "TaxoLearn: A Semantic Approach to Domain Taxonomy Learning", 
+      "url": "https://www.semanticscholar.org/paper/6743c210ffd0a828bb47379c6c22c9b0f905269e", 
+      "venue": "2012 IEEE/WIC/ACM International Conferences on Web Intelligence and Intelligent Agent Technology", 
+      "year": 2012
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "479eb8654fd446ff8f3ebd398cd858f59aeeda59", 
+      "title": "An Investigation on Polysemy and Lexical Organization of Verbs", 
+      "url": "https://www.semanticscholar.org/paper/479eb8654fd446ff8f3ebd398cd858f59aeeda59", 
+      "venue": "", 
+      "year": 2010
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "bed7d0ed2e492dd5ae3e6aafde0f089754069713", 
+      "title": "A survey of graphs in natural language", 
+      "url": "https://www.semanticscholar.org/paper/bed7d0ed2e492dd5ae3e6aafde0f089754069713", 
+      "venue": "", 
+      "year": 2015
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "194587b9d80e29aa6e50e9b0c628b581b66ea364", 
+      "title": "Semantic Class Learning from the Web with Hyponym Pattern Linkage Graphs", 
+      "url": "https://www.semanticscholar.org/paper/194587b9d80e29aa6e50e9b0c628b581b66ea364", 
+      "venue": "ACL", 
+      "year": 2008
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "c44addf352f25f28f69ca9f9422c0e463783206f", 
+      "title": "Natural Language Engineering", 
+      "url": "https://www.semanticscholar.org/paper/c44addf352f25f28f69ca9f9422c0e463783206f", 
+      "venue": "", 
+      "year": 2014
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "08ea56f50a9b4136dee53b6a00ccdcb4b440477d", 
+      "title": "On the Capability of Sense Space Model for Word Sense Disambiguation", 
+      "url": "https://www.semanticscholar.org/paper/08ea56f50a9b4136dee53b6a00ccdcb4b440477d", 
+      "venue": "2012 International Conference on Information Science and Applications", 
+      "year": 2012
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "c4225cd7e44610679dbf0a6eadc90b18231cd536", 
+      "title": "Analyzing the Impact of UMLS Relations on Word-sense Disambiguation Accuracy", 
+      "url": "https://www.semanticscholar.org/paper/c4225cd7e44610679dbf0a6eadc90b18231cd536", 
+      "venue": "EUSPN/ICTH", 
+      "year": 2013
+    }, 
+    {
+      "isInfluential": true, 
+      "paperId": "a8064f0f322eddb4b59b01f0576b3c34a18a0aa7", 
+      "title": "Embedding Senses for Efficient Graph-based Word Sense Disambiguation", 
+      "url": "https://www.semanticscholar.org/paper/a8064f0f322eddb4b59b01f0576b3c34a18a0aa7", 
+      "venue": "TextGraphs@NAACL-HLT", 
+      "year": 2016
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "41dc5f9e4a77005780e6f05310f02ec696ffeed4", 
+      "title": "DAEBAK!: Peripheral Diversity for Multilingual Word Sense Disambiguation", 
+      "url": "https://www.semanticscholar.org/paper/41dc5f9e4a77005780e6f05310f02ec696ffeed4", 
+      "venue": "SemEval@NAACL-HLT", 
+      "year": 2013
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "8e1d2148dff16e90db8ff3fc3d3048b9e1e277a7", 
+      "title": "A comparative study between possibilistic and probabilistic approaches for monolingual word sense disambiguation", 
+      "url": "https://www.semanticscholar.org/paper/8e1d2148dff16e90db8ff3fc3d3048b9e1e277a7", 
+      "venue": "Knowledge and Information Systems", 
+      "year": 2014
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "be94b6e6603f90bec659cebb012b858c90a58f69", 
+      "title": "Linking Documents to Encyclopedic Knowledge", 
+      "url": "https://www.semanticscholar.org/paper/be94b6e6603f90bec659cebb012b858c90a58f69", 
+      "venue": "IEEE Intelligent Systems", 
+      "year": 2008
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "9c4a4eef075da2e62a4a2cb637d042201f9cae7d", 
+      "title": "Entity-Linking via Graph-Distance Minimization", 
+      "url": "https://www.semanticscholar.org/paper/9c4a4eef075da2e62a4a2cb637d042201f9cae7d", 
+      "venue": "GRAPHITE", 
+      "year": 2014
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "32c1df63016ea51b28ff8540ac2fd02c4fe9b5d7", 
+      "title": "A Game-Theoretic Approach to Word Sense Disambiguation", 
+      "url": "https://www.semanticscholar.org/paper/32c1df63016ea51b28ff8540ac2fd02c4fe9b5d7", 
+      "venue": "Computational Linguistics", 
+      "year": 2017
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "63ae984d3498809749d43ec2d6dadd1553f40044", 
+      "title": "Graph connectivity for unsupervised Word Sense Disambiguation for HINDI language", 
+      "url": "https://www.semanticscholar.org/paper/63ae984d3498809749d43ec2d6dadd1553f40044", 
+      "venue": "2015 International Conference on Innovations in Information, Embedded and Communication Systems (ICIIECS)", 
+      "year": 2015
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "258981fc7b4b4c36b444ec37be4bd86fb037d123", 
+      "title": "Building Instance Knowledge Network for Word Sense Disambiguation", 
+      "url": "https://www.semanticscholar.org/paper/258981fc7b4b4c36b444ec37be4bd86fb037d123", 
+      "venue": "ACSC", 
+      "year": 2011
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "9d723d99d04ffedad2b78c387918f339591b349f", 
+      "title": "Graph-based Word Sense Disambiguation of biomedical documents", 
+      "url": "https://www.semanticscholar.org/paper/9d723d99d04ffedad2b78c387918f339591b349f", 
+      "venue": "Bioinformatics", 
+      "year": 2010
+    }, 
+    {
+      "isInfluential": true, 
+      "paperId": "9fa1653a3210839c05cf8db145f4ae01285193a5", 
+      "title": "Unsupervised All-words Word Sense Disambiguation with Grammatical Dependencies", 
+      "url": "https://www.semanticscholar.org/paper/9fa1653a3210839c05cf8db145f4ae01285193a5", 
+      "venue": "IJCNLP", 
+      "year": 2008
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "e82e8d5a3b8ebb744a894a69d30357c3552148dd", 
+      "title": "Evaluation of the Impact of User-Cognitive Styles on the Assessment of Text Summarization", 
+      "url": "https://www.semanticscholar.org/paper/e82e8d5a3b8ebb744a894a69d30357c3552148dd", 
+      "venue": "IEEE Trans. Systems, Man, and Cybernetics, Part A", 
+      "year": 2011
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "7d39094f99afc868e085c562bee15d47dd7b25fc", 
+      "title": "Graph Connectivity Measures for Unsupervised Parameter Tuning of Graph-Based Sense Induction Systems.", 
+      "url": "https://www.semanticscholar.org/paper/7d39094f99afc868e085c562bee15d47dd7b25fc", 
+      "venue": "", 
+      "year": 2009
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "1c0c2a44deb42aafa915e61203176995e488d5a5", 
+      "title": "Deepening Prose Comprehension by Incremental Free Text Conceptual Graph Mining and Knowledge", 
+      "url": "https://www.semanticscholar.org/paper/1c0c2a44deb42aafa915e61203176995e488d5a5", 
+      "venue": "2016 International Conference on Cyber-Enabled Distributed Computing and Knowledge Discovery (CyberC)", 
+      "year": 2016
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "61e47e515b9c7c73b4b18db4b09b07c935bda5d0", 
+      "title": "An Experimental Study on Unsupervised Graph-based Word Sense Disambiguation", 
+      "url": "https://www.semanticscholar.org/paper/61e47e515b9c7c73b4b18db4b09b07c935bda5d0", 
+      "venue": "CICLing", 
+      "year": 2010
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "6c062cc749711ecfea25f1117a59ac1c1302cb9f", 
+      "title": "Extracting and Grounding Context-Aware Sentiment Lexicons", 
+      "url": "https://www.semanticscholar.org/paper/6c062cc749711ecfea25f1117a59ac1c1302cb9f", 
+      "venue": "", 
+      "year": 2013
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "5d29c15f81ddf042f1fc31e0ccc40ff47204bcf0", 
+      "title": "Graph-based Semantic Relatedness for Named Entity Disambiguation", 
+      "url": "https://www.semanticscholar.org/paper/5d29c15f81ddf042f1fc31e0ccc40ff47204bcf0", 
+      "venue": "", 
+      "year": 2009
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "553cc212bc2a1cb64f8e0c5108549cde83d1471e", 
+      "title": "Unsupervised Graph-based Word Sense Disambiguation Using lexical relation of WordNet", 
+      "url": "https://www.semanticscholar.org/paper/553cc212bc2a1cb64f8e0c5108549cde83d1471e", 
+      "venue": "", 
+      "year": 2011
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "0280b83c7a66ec282f7754ae120bb272e93b0693", 
+      "title": "Semantic clustering of XML documents", 
+      "url": "https://www.semanticscholar.org/paper/0280b83c7a66ec282f7754ae120bb272e93b0693", 
+      "venue": "ACM Trans. Inf. Syst.", 
+      "year": 2010
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "ac5e7697a342f504a34f8e943d5f02c670216e16", 
+      "title": "Incorporating Coreference Resolution into Word Sense Disambiguation", 
+      "url": "https://www.semanticscholar.org/paper/ac5e7697a342f504a34f8e943d5f02c670216e16", 
+      "venue": "CICLing", 
+      "year": 2011
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "303a4d9ec33d4e2a6593f7601c7407e191d70eaa", 
+      "title": "Knowledge-based sense disambiguation (almost) for all structures", 
+      "url": "https://www.semanticscholar.org/paper/303a4d9ec33d4e2a6593f7601c7407e191d70eaa", 
+      "venue": "Inf. Syst.", 
+      "year": 2011
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "cb19188c1f9349602d183029eee9b538575ae3e6", 
+      "title": "Density Maximization in Context-Sense Metric Space for All-words WSD", 
+      "url": "https://www.semanticscholar.org/paper/cb19188c1f9349602d183029eee9b538575ae3e6", 
+      "venue": "ACL", 
+      "year": 2013
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "c1e48526eddd68b5bf98739a578ab69a009f570d", 
+      "title": "Word sense disambiguation: A survey", 
+      "url": "https://www.semanticscholar.org/paper/c1e48526eddd68b5bf98739a578ab69a009f570d", 
+      "venue": "ACM Comput. Surv.", 
+      "year": 2009
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "cace5acb8bdbb24a6fe7a6548bebd951ed465de6", 
+      "title": "Knowledge-Based WSD on Specific Domains: Performing Better than Generic Supervised WSD", 
+      "url": "https://www.semanticscholar.org/paper/cace5acb8bdbb24a6fe7a6548bebd951ed465de6", 
+      "venue": "", 
+      "year": 2009
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "1bf9f80383b7f23a98f193042459f5a119b2f41e", 
+      "title": "Knowledge-Based WSD and Specific Domains: Performing Better than Generic Supervised WSD", 
+      "url": "https://www.semanticscholar.org/paper/1bf9f80383b7f23a98f193042459f5a119b2f41e", 
+      "venue": "IJCAI", 
+      "year": 2009
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "c78180441f987a62a322a20d45778d2cd0723994", 
+      "title": "Unsupervised Word Sense Disambiguation Using Neighborhood Knowledge 1", 
+      "url": "https://www.semanticscholar.org/paper/c78180441f987a62a322a20d45778d2cd0723994", 
+      "venue": "", 
+      "year": 2012
+    }, 
+    {
+      "isInfluential": true, 
+      "paperId": "424c0100bbe911cde1b7e82626f0f1615c2bdac0", 
+      "title": "Random Walks for Knowledge-Based Word Sense Disambiguation", 
+      "url": "https://www.semanticscholar.org/paper/424c0100bbe911cde1b7e82626f0f1615c2bdac0", 
+      "venue": "Computational Linguistics", 
+      "year": 2014
+    }, 
+    {
+      "isInfluential": true, 
+      "paperId": "94d40500b42198c2e177153c6ea721df36ce4c80", 
+      "title": "A survey of graphs in natural language processing", 
+      "url": "https://www.semanticscholar.org/paper/94d40500b42198c2e177153c6ea721df36ce4c80", 
+      "venue": "Natural Language Engineering", 
+      "year": 2015
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "897c312f2f6f877863bb3d432bf16581303fb501", 
+      "title": "Deep Submodular Functions", 
+      "url": "https://www.semanticscholar.org/paper/897c312f2f6f877863bb3d432bf16581303fb501", 
+      "venue": "ArXiv", 
+      "year": 2017
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "b43047aa5770c3547f87f353633706e01b08b0ed", 
+      "title": "Unsupervised Word Sense Disambiguation", 
+      "url": "https://www.semanticscholar.org/paper/b43047aa5770c3547f87f353633706e01b08b0ed", 
+      "venue": "", 
+      "year": 2013
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "f4bb655825fb5efd21655bf94cf8cd78103be959", 
+      "title": "Incremental Global Event Extraction", 
+      "url": "https://www.semanticscholar.org/paper/f4bb655825fb5efd21655bf94cf8cd78103be959", 
+      "venue": "COLING", 
+      "year": 2016
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "32d11d3e8434a2f0831104dbf42c2c0962cc76c7", 
+      "title": "TreeMatch: A Fully Unsupervised WSD System Using Dependency Knowledge on a Specific Domain", 
+      "url": "https://www.semanticscholar.org/paper/32d11d3e8434a2f0831104dbf42c2c0962cc76c7", 
+      "venue": "SemEval@ACL", 
+      "year": 2010
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "16fdda66f3f8fd59438a5faf83df9a2787e3d692", 
+      "title": "Contextual Modeling for Meeting Translation Using Unsupervised Word Sense Disambiguation", 
+      "url": "https://www.semanticscholar.org/paper/16fdda66f3f8fd59438a5faf83df9a2787e3d692", 
+      "venue": "COLING", 
+      "year": 2010
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "04b6c8fbbdff88aeed0ab5cadeb71fdb93398f8f", 
+      "title": "Unsupervised Word Sense Disambiguation Using Markov Random Field and Dependency Parser", 
+      "url": "https://www.semanticscholar.org/paper/04b6c8fbbdff88aeed0ab5cadeb71fdb93398f8f", 
+      "venue": "AAAI", 
+      "year": 2015
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "2f0d7d3732f3580d024460ecbd4e77e7a264a348", 
+      "title": "Word Sense Disambiguation as an Integer Linear Programming Problem", 
+      "url": "https://www.semanticscholar.org/paper/2f0d7d3732f3580d024460ecbd4e77e7a264a348", 
+      "venue": "SETN", 
+      "year": 2012
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "93cbd1f313dad71b355a9743fba64182e63c3b81", 
+      "title": "Wikify!: linking documents to encyclopedic knowledge", 
+      "url": "https://www.semanticscholar.org/paper/93cbd1f313dad71b355a9743fba64182e63c3b81", 
+      "venue": "CIKM", 
+      "year": 2007
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "d9a1efa3c8130a7f26cb2e8b9ceff7ab88a5a8ec", 
+      "title": "Deliverable D5.1: Report on the State of the Art of Named Entity and Wsd", 
+      "url": "https://www.semanticscholar.org/paper/d9a1efa3c8130a7f26cb2e8b9ceff7ab88a5a8ec", 
+      "venue": "", 
+      "year": 2015
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "434acac36330543f8469ec3922d08188824014a4", 
+      "title": "Graph Based Algorithms for Word Sense Induction and Disambiguation", 
+      "url": "https://www.semanticscholar.org/paper/434acac36330543f8469ec3922d08188824014a4", 
+      "venue": "", 
+      "year": 2012
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "745a3f0c3e0e42a4dc26b6bedd573630bcd24d03", 
+      "title": "Computer Crime Investigation by Means of Fuzzy Semantic Maps", 
+      "url": "https://www.semanticscholar.org/paper/745a3f0c3e0e42a4dc26b6bedd573630bcd24d03", 
+      "venue": "2009 IEEE/WIC/ACM International Joint Conference on Web Intelligence and Intelligent Agent Technology", 
+      "year": 2009
+    }, 
+    {
+      "isInfluential": true, 
+      "paperId": "25fb5466b0b7691e2244a9ba56da24fbbe603938", 
+      "title": "An Iterative 'Sudoku Style' Approach to Subgraph-based Word Sense Disambiguation", 
+      "url": "https://www.semanticscholar.org/paper/25fb5466b0b7691e2244a9ba56da24fbbe603938", 
+      "venue": "*SEM@COLING", 
+      "year": 2014
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "7d1384643a320b6ceb43ca8cce2460fc386ceef8", 
+      "title": "Gcon: a graph-based technique for resolving ambiguity in query translation candidates", 
+      "url": "https://www.semanticscholar.org/paper/7d1384643a320b6ceb43ca8cce2460fc386ceef8", 
+      "venue": "SAC", 
+      "year": 2008
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "083efec06d268d7b67172ed8cdb76fd594839330", 
+      "title": "Unsupervised Graph-basedWord Sense Disambiguation Using Measures of Word Semantic Similarity", 
+      "url": "https://www.semanticscholar.org/paper/083efec06d268d7b67172ed8cdb76fd594839330", 
+      "venue": "International Conference on Semantic Computing (ICSC 2007)", 
+      "year": 2007
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "f86fac378715207fdcc9c87e2d1d41d18aba5c2c", 
+      "title": "Making Sense of Microposts (#msm2013)", 
+      "url": "https://www.semanticscholar.org/paper/f86fac378715207fdcc9c87e2d1d41d18aba5c2c", 
+      "venue": "", 
+      "year": 2013
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "517cc5155ecd954ef7a9b9b82a64c2e2d95dc4ed", 
+      "title": "Extracting and Grounding Contextualized Sentiment Lexicons", 
+      "url": "https://www.semanticscholar.org/paper/517cc5155ecd954ef7a9b9b82a64c2e2d95dc4ed", 
+      "venue": "IEEE Intelligent Systems", 
+      "year": 2013
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "0a7410ab6e6e40c430b94ab93daab24eca278ecd", 
+      "title": "Natural Language Engineering", 
+      "url": "https://www.semanticscholar.org/paper/0a7410ab6e6e40c430b94ab93daab24eca278ecd", 
+      "venue": "", 
+      "year": 2015
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "a4a2bff7743b2d232496958bf270a3e7d7b638ad", 
+      "title": "Unsupervised weighted graph for Word Sense Disambiguation", 
+      "url": "https://www.semanticscholar.org/paper/a4a2bff7743b2d232496958bf270a3e7d7b638ad", 
+      "venue": "2011 World Congress on Information and Communication Technologies", 
+      "year": 2011
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "fd2093d788c8f27421b1eaa8942db845a03ed2aa", 
+      "title": "Disambiguation of medline abstracts using topic models", 
+      "url": "https://www.semanticscholar.org/paper/fd2093d788c8f27421b1eaa8942db845a03ed2aa", 
+      "venue": "DTMBIO '11", 
+      "year": 2011
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "383bac36fdc64ad121009806f114777200bffd30", 
+      "title": "Collective approaches to named entity disambiguation", 
+      "url": "https://www.semanticscholar.org/paper/383bac36fdc64ad121009806f114777200bffd30", 
+      "venue": "", 
+      "year": 2014
+    }, 
+    {
+      "isInfluential": true, 
+      "paperId": "1a8f4eec71b4c0dbb566ade2ef45268914ce5971", 
+      "title": "Networks and Natural Language Processing", 
+      "url": "https://www.semanticscholar.org/paper/1a8f4eec71b4c0dbb566ade2ef45268914ce5971", 
+      "venue": "AI Magazine", 
+      "year": 2008
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "f3fe317d7f5115bd3d2c45f7c2ae0463cc1657db", 
+      "title": "An improved approach to word sense disambiguation", 
+      "url": "https://www.semanticscholar.org/paper/f3fe317d7f5115bd3d2c45f7c2ae0463cc1657db", 
+      "venue": "2014 IEEE International Symposium on Signal Processing and Information Technology (ISSPIT)", 
+      "year": 2014
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "f7f832b3f91d2aba8b15cc84940269c62c5e1cd0", 
+      "title": "Word Sense-Aware Machine Translation: Including Senses as Contextual Features for Improved Translation Models", 
+      "url": "https://www.semanticscholar.org/paper/f7f832b3f91d2aba8b15cc84940269c62c5e1cd0", 
+      "venue": "LREC", 
+      "year": 2016
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "66325e6736962ece695f697cfa98d9920909e0ac", 
+      "title": "NERTUW: Named Entity Recognition on Tweets using Wikipedia", 
+      "url": "https://www.semanticscholar.org/paper/66325e6736962ece695f697cfa98d9920909e0ac", 
+      "venue": "#MSM", 
+      "year": 2013
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "91d13b5203153900e73207286281fcec87067e85", 
+      "title": "Unsupervised graph-based Word Sense Disambiguation of biomedical documents", 
+      "url": "https://www.semanticscholar.org/paper/91d13b5203153900e73207286281fcec87067e85", 
+      "venue": "2013 IEEE 15th International Conference on e-Health Networking, Applications and Services (Healthcom 2013)", 
+      "year": 2013
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "0a98af2db4628a0b1ca456eebe9c5ea3a9e22b6f", 
+      "title": "First Steps in Using Word Senses as Contextual Features in Maxent Models for Machine Translation", 
+      "url": "https://www.semanticscholar.org/paper/0a98af2db4628a0b1ca456eebe9c5ea3a9e22b6f", 
+      "venue": "", 
+      "year": 2015
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "9305086f2a990dc4acfbbf0ee13da12dc978fdb5", 
+      "title": "Probabilistic Latent Semantic Analysis for Unsupervised Word Sense Disambiguation", 
+      "url": "https://www.semanticscholar.org/paper/9305086f2a990dc4acfbbf0ee13da12dc978fdb5", 
+      "venue": "", 
+      "year": 2013
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "a005cb1922ce052aa74e24f3ef11894db3d256d1", 
+      "title": "Exploiting domain information for Word Sense Disambiguation of medical documents", 
+      "url": "https://www.semanticscholar.org/paper/a005cb1922ce052aa74e24f3ef11894db3d256d1", 
+      "venue": "JAMIA", 
+      "year": 2012
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "c6dacb3124e579ef3362a64c55b9f8472af0a7a4", 
+      "title": "Discovering Latent Concepts and Exploiting Ontological Features for Semantic Text Search", 
+      "url": "https://www.semanticscholar.org/paper/c6dacb3124e579ef3362a64c55b9f8472af0a7a4", 
+      "venue": "IJCNLP", 
+      "year": 2011
+    }, 
+    {
+      "isInfluential": true, 
+      "paperId": "8e8ba9acf84f054203ecfddc712050614d5d71f5", 
+      "title": "Entity-based Coreference Resolution combined with Discourse-New Detection", 
+      "url": "https://www.semanticscholar.org/paper/8e8ba9acf84f054203ecfddc712050614d5d71f5", 
+      "venue": "", 
+      "year": 2011
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "aa9b3352f7de6f6b6b3b684ddc3b01a55cfde186", 
+      "title": "Query sense disambiguation leveraging large scale user behavioral data", 
+      "url": "https://www.semanticscholar.org/paper/aa9b3352f7de6f6b6b3b684ddc3b01a55cfde186", 
+      "venue": "2015 IEEE International Conference on Big Data (Big Data)", 
+      "year": 2015
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "43ea30165dbe52264a86fb17b2dd248c04e5675d", 
+      "title": "Unsupervised similarity-based word sense disambiguation using context vectors and sentential word importance", 
+      "url": "https://www.semanticscholar.org/paper/43ea30165dbe52264a86fb17b2dd248c04e5675d", 
+      "venue": "TSLP", 
+      "year": 2012
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "69030896c1909a844be5c656d3116f97809bd345", 
+      "title": "Semantic Relatedness Approach for Named Entity Disambiguation", 
+      "url": "https://www.semanticscholar.org/paper/69030896c1909a844be5c656d3116f97809bd345", 
+      "venue": "IRCDL", 
+      "year": 2010
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "db0bc5172af5648c889a116b9e48dbbb1dbc78e1", 
+      "title": "A novel XML document structure comparison framework based-on sub-tree commonalities and label semantics", 
+      "url": "https://www.semanticscholar.org/paper/db0bc5172af5648c889a116b9e48dbbb1dbc78e1", 
+      "venue": "J. Web Sem.", 
+      "year": 2012
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "62830c2a582f51eb13578610626816853827452c", 
+      "title": "Nasari: Integrating explicit knowledge and corpus statistics for a multilingual representation of concepts and entities", 
+      "url": "https://www.semanticscholar.org/paper/62830c2a582f51eb13578610626816853827452c", 
+      "venue": "Artif. Intell.", 
+      "year": 2016
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "bb699c0bd56fcec50725afd94df71e279613ef18", 
+      "title": "Unsupervised Translation Disambiguation for Cross-Domain Statistical Machine Translation", 
+      "url": "https://www.semanticscholar.org/paper/bb699c0bd56fcec50725afd94df71e279613ef18", 
+      "venue": "", 
+      "year": 2012
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "a306142a9bb03557c8876eaf79a1b2b4f088f407", 
+      "title": "Graph-based Centrality Algorithms for Unsupervised Word Sense Disambiguation", 
+      "url": "https://www.semanticscholar.org/paper/a306142a9bb03557c8876eaf79a1b2b4f088f407", 
+      "venue": "", 
+      "year": 2008
+    }, 
+    {
+      "isInfluential": true, 
+      "paperId": "44749dc3ed65710eb309a3e64aa73253978d62f8", 
+      "title": "Using the Multilingual Central Repository for Graph-Based Word Sense Disambiguation", 
+      "url": "https://www.semanticscholar.org/paper/44749dc3ed65710eb309a3e64aa73253978d62f8", 
+      "venue": "LREC", 
+      "year": 2008
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "2d643f2e3efd2d2543cd6824bec0cd5e9da85437", 
+      "title": "Graph-Based Named Entity Linking with Wikipedia", 
+      "url": "https://www.semanticscholar.org/paper/2d643f2e3efd2d2543cd6824bec0cd5e9da85437", 
+      "venue": "WISE", 
+      "year": 2011
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "4bbea5fdd7ca0da7b776bc8e6b5349b6b37ce22a", 
+      "title": "Robust and Efficient Page Rank for Word Sense Disambiguation", 
+      "url": "https://www.semanticscholar.org/paper/4bbea5fdd7ca0da7b776bc8e6b5349b6b37ce22a", 
+      "venue": "", 
+      "year": 2010
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "85a9275ccf1822c5e02311f7820378f43353dce2", 
+      "title": "Enriched Page Rank for Multilingual Word Sense Disambiguation", 
+      "url": "https://www.semanticscholar.org/paper/85a9275ccf1822c5e02311f7820378f43353dce2", 
+      "venue": "IIR", 
+      "year": 2011
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "807482d4b41c55d48a93855098477c366185213a", 
+      "title": "A Discourse-Aware Graph-Based Content-Selection Framework", 
+      "url": "https://www.semanticscholar.org/paper/807482d4b41c55d48a93855098477c366185213a", 
+      "venue": "INLG", 
+      "year": 2010
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "a8306f1eb7fe0b02d2b2b000206ff73575800318", 
+      "title": "Path-Based Semantic Relatedness on Linked Data and Its Use to Word and Entity Disambiguation", 
+      "url": "https://www.semanticscholar.org/paper/a8306f1eb7fe0b02d2b2b000206ff73575800318", 
+      "venue": "International Semantic Web Conference", 
+      "year": 2015
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "9fd99aa40d0cd152651bfd0009b8b71539092e48", 
+      "title": "Rada Mihalcea and Dragomir Radev: Graph-based natural language processing and information retrieval", 
+      "url": "https://www.semanticscholar.org/paper/9fd99aa40d0cd152651bfd0009b8b71539092e48", 
+      "venue": "Machine Translation", 
+      "year": 2011
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "6e621feba6fa2ff894807d38ee7b648be89b227b", 
+      "title": "Small in Size, Big in Precision: A Case for Using Language-Specific Lexical Resources for Word Sense Disambiguation", 
+      "url": "https://www.semanticscholar.org/paper/6e621feba6fa2ff894807d38ee7b648be89b227b", 
+      "venue": "", 
+      "year": 2015
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "8c1e9dac0a2e74a5b7d8ff2a680e4d2cd1590531", 
+      "title": "LINDEN: linking named entities with knowledge base via semantic knowledge", 
+      "url": "https://www.semanticscholar.org/paper/8c1e9dac0a2e74a5b7d8ff2a680e4d2cd1590531", 
+      "venue": "WWW", 
+      "year": 2012
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "1024e441abdc1e4251973aa1c9bbfbc929dd3261", 
+      "title": "An Experimental Study of Graph Connectivity for Unsupervised Word Sense Disambiguation", 
+      "url": "https://www.semanticscholar.org/paper/1024e441abdc1e4251973aa1c9bbfbc929dd3261", 
+      "venue": "IEEE Transactions on Pattern Analysis and Machine Intelligence", 
+      "year": 2010
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "0a5611bb1d6d6a416c9f82bfd3a5530ececfc353", 
+      "title": "Kernel Fuzzy C-Means Clustering for Word Sense Disambiguation in", 
+      "url": "https://www.semanticscholar.org/paper/0a5611bb1d6d6a416c9f82bfd3a5530ececfc353", 
+      "venue": "", 
+      "year": 2016
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "b3096a9581a9d85ff3613cb85caeeb38e588412a", 
+      "title": "A Unified Multilingual Semantic Representation of Concepts", 
+      "url": "https://www.semanticscholar.org/paper/b3096a9581a9d85ff3613cb85caeeb38e588412a", 
+      "venue": "ACL", 
+      "year": 2015
+    }
+  ], 
+  "doi": null, 
+  "influentialCitationCount": 9, 
+  "paperId": "6756cb9dc27647f32faa7539a44e6436a90db83c", 
+  "references": [
+    {
+      "isInfluential": false, 
+      "paperId": "a9b2040cc48c41cf3ccd85e4e95b3baefc1b0459", 
+      "title": "Evaluating sense disambiguation across diverse parameter spaces", 
+      "url": "https://www.semanticscholar.org/paper/a9b2040cc48c41cf3ccd85e4e95b3baefc1b0459", 
+      "venue": "Natural Language Engineering", 
+      "year": 2002
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "f9a25e0dc776857fc24ebc7115c980312f2719b1", 
+      "title": "A Semantic Concordance", 
+      "url": "https://www.semanticscholar.org/paper/f9a25e0dc776857fc24ebc7115c980312f2719b1", 
+      "venue": "", 
+      "year": 1993
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "76e4e034c20bea86edcc6e71bbaddb47fafeecbc", 
+      "title": "Automatic sense disambiguation using machine readable dictionaries: how to tell a pine cone from an ice cream cone", 
+      "url": "https://www.semanticscholar.org/paper/76e4e034c20bea86edcc6e71bbaddb47fafeecbc", 
+      "venue": "SIGDOC", 
+      "year": 1986
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "6d4001c4f07e9380768db8b68d0badd52739b3f9", 
+      "title": "Unsupervised Large-Vocabulary Word Sense Disambiguation with Graph-based Algorithms for Sequence Data Labeling", 
+      "url": "https://www.semanticscholar.org/paper/6d4001c4f07e9380768db8b68d0badd52739b3f9", 
+      "venue": "HLT/EMNLP", 
+      "year": 2005
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "14d93298fcaa18ba85b83ec775bbcde711072036", 
+      "title": "Determining Word Sense Dominance Using a Thesaurus", 
+      "url": "https://www.semanticscholar.org/paper/14d93298fcaa18ba85b83ec775bbcde711072036", 
+      "venue": "EACL", 
+      "year": 2006
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "9e1320584ecdb93779428be9876eb51cdc0e9f4c", 
+      "title": "Differentiating Homonymy and Polysemy in Information Retrieval", 
+      "url": "https://www.semanticscholar.org/paper/9e1320584ecdb93779428be9876eb51cdc0e9f4c", 
+      "venue": "HLT/EMNLP", 
+      "year": 2005
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "47beb19a33d50b0e1357a8111c37b370d81ae45c", 
+      "title": "Pattern Abstraction And Term Similarity For Word Sense Disambiguation: IRST At Senseval-3", 
+      "url": "https://www.semanticscholar.org/paper/47beb19a33d50b0e1357a8111c37b370d81ae45c", 
+      "venue": "", 
+      "year": 2004
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "10f2c743c85ccd9b14a289b6154af973df1ed96c", 
+      "title": "Identifying sets of key players in a social network", 
+      "url": "https://www.semanticscholar.org/paper/10f2c743c85ccd9b14a289b6154af973df1ed96c", 
+      "venue": "Computational & Mathematical Organization Theory", 
+      "year": 2006
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "db82c8e83d2ef333250126655511498b8114b18e", 
+      "title": "Robust Textual Inference via Graph Matching", 
+      "url": "https://www.semanticscholar.org/paper/db82c8e83d2ef333250126655511498b8114b18e", 
+      "venue": "HLT/EMNLP", 
+      "year": 2005
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "4fe3339321a29d3f175e7586290398f9a55f4310", 
+      "title": "The English All-Words Task", 
+      "url": "https://www.semanticscholar.org/paper/4fe3339321a29d3f175e7586290398f9a55f4310", 
+      "venue": "", 
+      "year": 2004
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "723f4317f405a8c09d441cefe31ff719890b678c", 
+      "title": "Using Lexical Chains For Text Summarization", 
+      "url": "https://www.semanticscholar.org/paper/723f4317f405a8c09d441cefe31ff719890b678c", 
+      "venue": "", 
+      "year": 1997
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "41bf66717feeaca005a9e579652b870d1c8da99d", 
+      "title": "Ensemble Methods for Unsupervised WSD", 
+      "url": "https://www.semanticscholar.org/paper/41bf66717feeaca005a9e579652b870d1c8da99d", 
+      "venue": "ACL", 
+      "year": 2006
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "eb4b48209faf0a75d38434e8445dc0419d8aedc6", 
+      "title": "Getting Serious About Word Sense Disambiguation", 
+      "url": "https://www.semanticscholar.org/paper/eb4b48209faf0a75d38434e8445dc0419d8aedc6", 
+      "venue": "", 
+      "year": 1997
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "25c0609be240b06b02a3198bcd008424e5511c5c", 
+      "title": "Word-Sense Disambiguation for Machine Translation", 
+      "url": "https://www.semanticscholar.org/paper/25c0609be240b06b02a3198bcd008424e5511c5c", 
+      "venue": "HLT/EMNLP", 
+      "year": 2005
+    }
+  ], 
+  "title": "Graph Connectivity Measures for Unsupervised Word Sense Disambiguation", 
+  "url": "https://www.semanticscholar.org/paper/6756cb9dc27647f32faa7539a44e6436a90db83c", 
+  "venue": "IJCAI", 
+  "year": 2007
+}

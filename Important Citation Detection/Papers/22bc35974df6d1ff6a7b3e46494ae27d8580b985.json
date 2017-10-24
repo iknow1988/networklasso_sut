@@ -1,0 +1,615 @@
+{
+  "authors": [
+    {
+      "authorId": "1783941", 
+      "name": "Yasemin Altun", 
+      "url": "https://www.semanticscholar.org/author/1783941"
+    }, 
+    {
+      "authorId": "3709728", 
+      "name": "Thomas Hofmann", 
+      "url": "https://www.semanticscholar.org/author/3709728"
+    }, 
+    {
+      "authorId": "1691629", 
+      "name": "Alexander J. Smola", 
+      "url": "https://www.semanticscholar.org/author/1691629"
+    }
+  ], 
+  "citationVelocity": 0, 
+  "citations": [
+    {
+      "isInfluential": false, 
+      "paperId": "883e6db32a7277edfadc22d93758f042f0656db9", 
+      "title": "A Review of Kernel Methods in Machine Learning", 
+      "url": "https://www.semanticscholar.org/paper/883e6db32a7277edfadc22d93758f042f0656db9", 
+      "venue": "", 
+      "year": 2006
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "58702003d5f46ee6299144b888f448e1885931e3", 
+      "title": "Lower Bounds for BMRM and Faster Rates for Training SVMs", 
+      "url": "https://www.semanticscholar.org/paper/58702003d5f46ee6299144b888f448e1885931e3", 
+      "venue": "ArXiv", 
+      "year": 2009
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "73fa8e329018330fca08e02e969e27f0e3f1b632", 
+      "title": "Convex Hidden Markov Models", 
+      "url": "https://www.semanticscholar.org/paper/73fa8e329018330fca08e02e969e27f0e3f1b632", 
+      "venue": "", 
+      "year": null
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "61919c190b42ec6050145a46e376823a1e82536f", 
+      "title": "Discriminative Temporal Smoothing for Activity Recognition from Wearable Sensors", 
+      "url": "https://www.semanticscholar.org/paper/61919c190b42ec6050145a46e376823a1e82536f", 
+      "venue": "UCS", 
+      "year": 2007
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "0d4fe56e306d2d3ed4fa272ecbc5fe018eeb850a", 
+      "title": "Search-based structured prediction", 
+      "url": "https://www.semanticscholar.org/paper/0d4fe56e306d2d3ed4fa272ecbc5fe018eeb850a", 
+      "venue": "Machine Learning", 
+      "year": 2009
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "af5580ca30f2e3ed7f8cd46fb219745c14b1a603", 
+      "title": "Variational inference for infinite mixtures of sparse Gaussian processes through KL-correction", 
+      "url": "https://www.semanticscholar.org/paper/af5580ca30f2e3ed7f8cd46fb219745c14b1a603", 
+      "venue": "2016 IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP)", 
+      "year": 2016
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "1a0dfbb811b0591543fe9907647807ce5930202c", 
+      "title": "Hi Detector, What's Wrong with that Object? Identifying Irregular Object From Images by Modelling the Detection Score Distribution", 
+      "url": "https://www.semanticscholar.org/paper/1a0dfbb811b0591543fe9907647807ce5930202c", 
+      "venue": "ArXiv", 
+      "year": 2016
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "1f1d553be51339208c572f927354033e86a5be36", 
+      "title": "Machine Learning for Image Based Motion Capture", 
+      "url": "https://www.semanticscholar.org/paper/1f1d553be51339208c572f927354033e86a5be36", 
+      "venue": "", 
+      "year": 2006
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "0247f7d70ff6be751440117ccdefe8fec0a04a4d", 
+      "title": "Learning Structural Kernels for Natural Language Processing", 
+      "url": "https://www.semanticscholar.org/paper/0247f7d70ff6be751440117ccdefe8fec0a04a4d", 
+      "venue": "TACL", 
+      "year": 2015
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "1e716b39c74dd4967b16eb3a6a2e7220e4e07c97", 
+      "title": "Predicting Structured Data Advances in Neural Information Processing Systems Predicting Structured Data Library of Congress Cataloging-in-publication Data", 
+      "url": "https://www.semanticscholar.org/paper/1e716b39c74dd4967b16eb3a6a2e7220e4e07c97", 
+      "venue": "", 
+      "year": 2006
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "4d48f151606eeae8d5ea67592fd2274bd3033180", 
+      "title": "Challenges in Statistical Machine Learning", 
+      "url": "https://www.semanticscholar.org/paper/4d48f151606eeae8d5ea67592fd2274bd3033180", 
+      "venue": "", 
+      "year": 2006
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "c1a2e7c574693f0d563d0cc20f05a8b1189478ef", 
+      "title": "Structured Prediction of Generalized Matching Graphs", 
+      "url": "https://www.semanticscholar.org/paper/c1a2e7c574693f0d563d0cc20f05a8b1189478ef", 
+      "venue": "", 
+      "year": 2008
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "394f454a83d840a07cbde1a3cfd512b4885170e2", 
+      "title": "Estimating Conditional Densities of Structured Outputs in RKHS", 
+      "url": "https://www.semanticscholar.org/paper/394f454a83d840a07cbde1a3cfd512b4885170e2", 
+      "venue": "", 
+      "year": null
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "fda19a271bbb462eabaa93c57b42a3517f23b68e", 
+      "title": "Sequential Learning for Tonal Analysis", 
+      "url": "https://www.semanticscholar.org/paper/fda19a271bbb462eabaa93c57b42a3517f23b68e", 
+      "venue": "", 
+      "year": 2008
+    }, 
+    {
+      "isInfluential": true, 
+      "paperId": "7283cca67aa37ec814b8a94dd2052636e3342b48", 
+      "title": "Graph-based LearningModels for Information Retrieval: A Survey", 
+      "url": "https://www.semanticscholar.org/paper/7283cca67aa37ec814b8a94dd2052636e3342b48", 
+      "venue": "", 
+      "year": 2006
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "e1d77997b84c56a4d1865f4386a04c820fd1491a", 
+      "title": "Practical Structured Learning Techniques for Natural Language Processing", 
+      "url": "https://www.semanticscholar.org/paper/e1d77997b84c56a4d1865f4386a04c820fd1491a", 
+      "venue": "", 
+      "year": 2006
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "9e49e7825ce6cb8ef2867be8510f1e4f35fa7a8f", 
+      "title": "Conditional Graphical Models", 
+      "url": "https://www.semanticscholar.org/paper/9e49e7825ce6cb8ef2867be8510f1e4f35fa7a8f", 
+      "venue": "", 
+      "year": 2007
+    }, 
+    {
+      "isInfluential": true, 
+      "paperId": "d150a250b0e8db7bdca02562cf85ded9d8cac000", 
+      "title": "Bayesian inference and experimental design for large generalised linear models", 
+      "url": "https://www.semanticscholar.org/paper/d150a250b0e8db7bdca02562cf85ded9d8cac000", 
+      "venue": "", 
+      "year": 2010
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "f1d1ee4b13fc8b58a941c2d36cf5568f9ee1f774", 
+      "title": "Dual Optimization of Conditional Probability Models", 
+      "url": "https://www.semanticscholar.org/paper/f1d1ee4b13fc8b58a941c2d36cf5568f9ee1f774", 
+      "venue": "", 
+      "year": null
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "3fc463704efe366c8a14c11313513dba85c6345f", 
+      "title": "Multi-View Hidden Markov Perceptrons", 
+      "url": "https://www.semanticscholar.org/paper/3fc463704efe366c8a14c11313513dba85c6345f", 
+      "venue": "LWA", 
+      "year": 2005
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "1b510da41d9328fb14d3c3563157af0aa45da77a", 
+      "title": "Bayesian Structured Prediction Using Gaussian Processes", 
+      "url": "https://www.semanticscholar.org/paper/1b510da41d9328fb14d3c3563157af0aa45da77a", 
+      "venue": "ArXiv", 
+      "year": 2013
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "31e91ec22d4f665ce03b4b3bf2e6a5490a2629ca", 
+      "title": "Gaussian Process Pseudo-Likelihood Models for Sequence Labeling", 
+      "url": "https://www.semanticscholar.org/paper/31e91ec22d4f665ce03b4b3bf2e6a5490a2629ca", 
+      "venue": "ECML/PKDD", 
+      "year": 2016
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "fe589277815df426456193d00ae8c9194194bb0a", 
+      "title": "A Conditional Model for Tonal Analysis", 
+      "url": "https://www.semanticscholar.org/paper/fe589277815df426456193d00ae8c9194194bb0a", 
+      "venue": "ISMIS", 
+      "year": 2006
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "84558cdc8b0269d1deb6cf36c6795601b96f223e", 
+      "title": "Multi-view Discriminative Sequential Learning", 
+      "url": "https://www.semanticscholar.org/paper/84558cdc8b0269d1deb6cf36c6795601b96f223e", 
+      "venue": "ECML", 
+      "year": 2005
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "9f0e28784bd3fd9a6247c8451ec4a08cd1a599ec", 
+      "title": "Gaussian process regression flow for analysis of motion trajectories", 
+      "url": "https://www.semanticscholar.org/paper/9f0e28784bd3fd9a6247c8451ec4a08cd1a599ec", 
+      "venue": "2011 International Conference on Computer Vision", 
+      "year": 2011
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "1cc7f849f25d42e8d04e50e05b4e818f7e55d13a", 
+      "title": "Approximations for Binary Gaussian Process Classification", 
+      "url": "https://www.semanticscholar.org/paper/1cc7f849f25d42e8d04e50e05b4e818f7e55d13a", 
+      "venue": "", 
+      "year": 2013
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "1b7bd7052bfb8ca50485a9236f2e0d2e9be1398d", 
+      "title": "What&#x2019;s Wrong with That Object? Identifying Images of Unusual Objects by Modelling the Detection Score Distribution", 
+      "url": "https://www.semanticscholar.org/paper/1b7bd7052bfb8ca50485a9236f2e0d2e9be1398d", 
+      "venue": "2016 IEEE Conference on Computer Vision and Pattern Recognition (CVPR)", 
+      "year": 2016
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "748c9cbe77c08686a2c5e1bee3fbd7ef54b851bc", 
+      "title": "A Tutorial Review of RKHS Methods in Machine Learning", 
+      "url": "https://www.semanticscholar.org/paper/748c9cbe77c08686a2c5e1bee3fbd7ef54b851bc", 
+      "venue": "", 
+      "year": 2005
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "2c8caf1b127d011c9df9aad30aa13cb8947868dc", 
+      "title": "Analyzing Probability Vectors for Named Entity Statistical Machine Transliteration", 
+      "url": "https://www.semanticscholar.org/paper/2c8caf1b127d011c9df9aad30aa13cb8947868dc", 
+      "venue": "", 
+      "year": 2012
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "4f2008516c93abfae735b2986bdfd6471c8c24c7", 
+      "title": "A Review of Sequential Supervised Learning", 
+      "url": "https://www.semanticscholar.org/paper/4f2008516c93abfae735b2986bdfd6471c8c24c7", 
+      "venue": "", 
+      "year": 2004
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "5fcc136a4f3eb692955da8764fe507ab945d1f6b", 
+      "title": "Abstract of \" Discriminative Methods for Label Sequence Learning \" Ii Discriminative Methods for Label Sequence Learning", 
+      "url": "https://www.semanticscholar.org/paper/5fcc136a4f3eb692955da8764fe507ab945d1f6b", 
+      "venue": "", 
+      "year": 2005
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "7dc37aafb25554b6b523551174ce7fc2774e98e2", 
+      "title": "Kernel Methods in Machine Learning 1", 
+      "url": "https://www.semanticscholar.org/paper/7dc37aafb25554b6b523551174ce7fc2774e98e2", 
+      "venue": "", 
+      "year": 2008
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "1f0540f184914bcdf498806ba9ef092ed440f560", 
+      "title": "Learning Discriminative Models with Incomplete Data", 
+      "url": "https://www.semanticscholar.org/paper/1f0540f184914bcdf498806ba9ef092ed440f560", 
+      "venue": "", 
+      "year": 2006
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "2e7b9bfb6f93698a0c5f2f3b287831d3012a33b7", 
+      "title": "Models for Learning Spatial Interactions in Natural Images for Context-Based Classification", 
+      "url": "https://www.semanticscholar.org/paper/2e7b9bfb6f93698a0c5f2f3b287831d3012a33b7", 
+      "venue": "", 
+      "year": 2005
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "6c1863c6e56372a604f39ba33d8468a511809bc0", 
+      "title": "Video Event Recognition by Combining HDP and Gaussian Process", 
+      "url": "https://www.semanticscholar.org/paper/6c1863c6e56372a604f39ba33d8468a511809bc0", 
+      "venue": "2015 IEEE International Conference on Computer Vision Workshop (ICCVW)", 
+      "year": 2015
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "246d81ad3517488a5e16118ec0ba707c28e49fca", 
+      "title": "Magic Moments for Structured Output Prediction", 
+      "url": "https://www.semanticscholar.org/paper/246d81ad3517488a5e16118ec0ba707c28e49fca", 
+      "venue": "", 
+      "year": null
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "033f66f7b4559ca7a308af3a58e612d7e819346a", 
+      "title": "Bayesian Kernel Methods for Natural Language Processing", 
+      "url": "https://www.semanticscholar.org/paper/033f66f7b4559ca7a308af3a58e612d7e819346a", 
+      "venue": "ACL", 
+      "year": 2014
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "d529bce0d14bb7d154df0be72df9574df0be886a", 
+      "title": "Classification of Protein Interaction Sentences via Gaussian Processes", 
+      "url": "https://www.semanticscholar.org/paper/d529bce0d14bb7d154df0be72df9574df0be886a", 
+      "venue": "PRIB", 
+      "year": 2009
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "8b8f45b411644835fc1b6f232ab71566988c1dcb", 
+      "title": "An introduction to structured discriminative learning", 
+      "url": "https://www.semanticscholar.org/paper/8b8f45b411644835fc1b6f232ab71566988c1dcb", 
+      "venue": "", 
+      "year": 2006
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "644a97b5fee3d01c58f77f8f9de8e7fc4eb53f40", 
+      "title": "1 A Short Tour of Kernel Methods for Graphs", 
+      "url": "https://www.semanticscholar.org/paper/644a97b5fee3d01c58f77f8f9de8e7fc4eb53f40", 
+      "venue": "", 
+      "year": 2005
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "539ea86fa738afd939fb18566107c971461f8548", 
+      "title": "Learning as search optimization: approximate large margin methods for structured prediction", 
+      "url": "https://www.semanticscholar.org/paper/539ea86fa738afd939fb18566107c971461f8548", 
+      "venue": "ICML", 
+      "year": 2005
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "7a377bf9002a1597f5f0f569b41a4be8225a8729", 
+      "title": "GPstruct: Bayesian Structured Prediction Using Gaussian Processes", 
+      "url": "https://www.semanticscholar.org/paper/7a377bf9002a1597f5f0f569b41a4be8225a8729", 
+      "venue": "IEEE Transactions on Pattern Analysis and Machine Intelligence", 
+      "year": 2015
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "3e7b0d8917be791f506dac64375de2c57233ac55", 
+      "title": "Maximum Margin Semi-Supervised Learning for Structured Variables", 
+      "url": "https://www.semanticscholar.org/paper/3e7b0d8917be791f506dac64375de2c57233ac55", 
+      "venue": "", 
+      "year": 2005
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "2cd07df8f20f8ca1d995abd3d28537d0bc6f1c49", 
+      "title": "MAP inference in Large Factor Graphs with Reinforcement Learning", 
+      "url": "https://www.semanticscholar.org/paper/2cd07df8f20f8ca1d995abd3d28537d0bc6f1c49", 
+      "venue": "", 
+      "year": 2009
+    }, 
+    {
+      "isInfluential": true, 
+      "paperId": "1084bbe579d501c0fa1ed94f8070270c2c393559", 
+      "title": "Conditional Graphical Models for Protein Structure Prediction", 
+      "url": "https://www.semanticscholar.org/paper/1084bbe579d501c0fa1ed94f8070270c2c393559", 
+      "venue": "", 
+      "year": 2005
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "0801d44bdedf49dc764e0e351cef62dd142460b3", 
+      "title": "Pattern Discovery for Hypothesis Generation in Biology", 
+      "url": "https://www.semanticscholar.org/paper/0801d44bdedf49dc764e0e351cef62dd142460b3", 
+      "venue": "", 
+      "year": 2005
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "32c50f80cd5d146040e36c14aef3baaf306e308b", 
+      "title": "Large Scale Hidden Semi-Markov SVMs", 
+      "url": "https://www.semanticscholar.org/paper/32c50f80cd5d146040e36c14aef3baaf306e308b", 
+      "venue": "NIPS", 
+      "year": 2006
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "206abb6c155a58e970cdd74b591d6b34ed9b229c", 
+      "title": "Discriminative Image Segmentation: Applications to Hyperspectral Data", 
+      "url": "https://www.semanticscholar.org/paper/206abb6c155a58e970cdd74b591d6b34ed9b229c", 
+      "venue": "", 
+      "year": 2011
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "38c45de63764204f190c9c4192943d2a5694a556", 
+      "title": "Learning Discriminative Models with Incomplete", 
+      "url": "https://www.semanticscholar.org/paper/38c45de63764204f190c9c4192943d2a5694a556", 
+      "venue": "", 
+      "year": 2011
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "229a6cc065b6a7bb2ebcb6baf74f36768d91a463", 
+      "title": "Protein interaction detection in sentences via Gaussian Processes: a preliminary evaluation", 
+      "url": "https://www.semanticscholar.org/paper/229a6cc065b6a7bb2ebcb6baf74f36768d91a463", 
+      "venue": "IJDMB", 
+      "year": 2011
+    }
+  ], 
+  "doi": "10.1145/1015330.1015433", 
+  "influentialCitationCount": 3, 
+  "paperId": "22bc35974df6d1ff6a7b3e46494ae27d8580b985", 
+  "references": [
+    {
+      "isInfluential": true, 
+      "paperId": "56dfa7b09295f6bd79d1b81bfacc156fa7171aa4", 
+      "title": "Kernel Logistic Regression and the Import Vector Machine", 
+      "url": "https://www.semanticscholar.org/paper/56dfa7b09295f6bd79d1b81bfacc156fa7171aa4", 
+      "venue": "NIPS", 
+      "year": 2001
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "8e597460557d44de07ec570738cd2b42cdcc2580", 
+      "title": "Sparse Greedy Gaussian Process Regression", 
+      "url": "https://www.semanticscholar.org/paper/8e597460557d44de07ec570738cd2b42cdcc2580", 
+      "venue": "NIPS", 
+      "year": 2000
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "4b03b01eae30f74e16d34a052bed20eb2004bdcc", 
+      "title": "Insights into Spoken Language Gleaned from Phonetic Transcription of the Switchboard Corpus", 
+      "url": "https://www.semanticscholar.org/paper/4b03b01eae30f74e16d34a052bed20eb2004bdcc", 
+      "venue": "", 
+      "year": 1996
+    }, 
+    {
+      "isInfluential": true, 
+      "paperId": "b6fff8b8ea77f157913986e7af53951d9fc1128e", 
+      "title": "Using the Nystr\u00f6m Method to Speed Up Kernel Machines", 
+      "url": "https://www.semanticscholar.org/paper/b6fff8b8ea77f157913986e7af53951d9fc1128e", 
+      "venue": "NIPS", 
+      "year": 2000
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "6da81d06942996cc369f2f5e499b758ea06be37b", 
+      "title": "Fast Sparse Gaussian Process Methods: The Informative Vector Machine", 
+      "url": "https://www.semanticscholar.org/paper/6da81d06942996cc369f2f5e499b758ea06be37b", 
+      "venue": "NIPS", 
+      "year": 2002
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "931d701052bcb7159987bcbe08870646219d587a", 
+      "title": "An Equivalence Between Sparse Approximation And Support Vector Machines", 
+      "url": "https://www.semanticscholar.org/paper/931d701052bcb7159987bcbe08870646219d587a", 
+      "venue": "Neural Computation", 
+      "year": 1998
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "3fab92869cfab684b3ffb1c16a771e9c3b774acd", 
+      "title": "The Use of Classifiers in Sequential Inference", 
+      "url": "https://www.semanticscholar.org/paper/3fab92869cfab684b3ffb1c16a771e9c3b774acd", 
+      "venue": "NIPS", 
+      "year": 2000
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "dd0978a594290f6dc530e65983d79a056874185c", 
+      "title": "Sparse Greedy Matrix Approximation for Machine Learning", 
+      "url": "https://www.semanticscholar.org/paper/dd0978a594290f6dc530e65983d79a056874185c", 
+      "venue": "ICML", 
+      "year": 2000
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "5a26ec6568152731ce1667a426307ebccff5a50e", 
+      "title": "On the Algorithmic Implementation of Multiclass Kernel-based Vector Machines", 
+      "url": "https://www.semanticscholar.org/paper/5a26ec6568152731ce1667a426307ebccff5a50e", 
+      "venue": "Journal of Machine Learning Research", 
+      "year": 2001
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "f0ddbcb32e50514de5c89c8ceca58345c5a43948", 
+      "title": "Bayesian Classification With Gaussian Processes", 
+      "url": "https://www.semanticscholar.org/paper/f0ddbcb32e50514de5c89c8ceca58345c5a43948", 
+      "venue": "IEEE Trans. Pattern Anal. Mach. Intell.", 
+      "year": 1998
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "0023a61b26cf1ed5c63fe512535c845f86dfa4d1", 
+      "title": "Hidden Markov Support Vector Machines", 
+      "url": "https://www.semanticscholar.org/paper/0023a61b26cf1ed5c63fe512535c845f86dfa4d1", 
+      "venue": "ICML", 
+      "year": 2003
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "61a559a5ab77b449758795c86c6ff8a42b389987", 
+      "title": "Discriminative Learning for Label Sequences via Boosting", 
+      "url": "https://www.semanticscholar.org/paper/61a559a5ab77b449758795c86c6ff8a42b389987", 
+      "venue": "NIPS", 
+      "year": 2002
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "085e7e7d093164d6a9408e107e0ab56b6d92563b", 
+      "title": "Sparse On-Line Gaussian Processes", 
+      "url": "https://www.semanticscholar.org/paper/085e7e7d093164d6a9408e107e0ab56b6d92563b", 
+      "venue": "Neural Computation", 
+      "year": 2002
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "0c0447d51faa597116f9e5adeeed85b82d0e2795", 
+      "title": "Computing upper and lower bounds on likelihoods in intractable networks", 
+      "url": "https://www.semanticscholar.org/paper/0c0447d51faa597116f9e5adeeed85b82d0e2795", 
+      "venue": "UAI", 
+      "year": 1996
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "3b74aa66dd2e4ac0f9be884f810eab6c3cbd57ba", 
+      "title": "Support vector machines for multi-class pattern recognition", 
+      "url": "https://www.semanticscholar.org/paper/3b74aa66dd2e4ac0f9be884f810eab6c3cbd57ba", 
+      "venue": "ESANN", 
+      "year": 1999
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "03bee059bd7228cb01486e39a88d6b4673f86381", 
+      "title": "MARK: a boosting algorithm for heterogeneous kernel models", 
+      "url": "https://www.semanticscholar.org/paper/03bee059bd7228cb01486e39a88d6b4673f86381", 
+      "venue": "KDD", 
+      "year": 2002
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "24770585a6aa3dead91b5ad42bb151b1ae70b316", 
+      "title": "Maximum Entropy Markov Models for Information Extraction and Segmentation", 
+      "url": "https://www.semanticscholar.org/paper/24770585a6aa3dead91b5ad42bb151b1ae70b316", 
+      "venue": "ICML", 
+      "year": 2000
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "2497edbea9676e08d3c85ec7f9705efcf13d6b81", 
+      "title": "A family of algorithms for approximate Bayesian inference", 
+      "url": "https://www.semanticscholar.org/paper/2497edbea9676e08d3c85ec7f9705efcf13d6b81", 
+      "venue": "", 
+      "year": 2001
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "05357314fe2da7c2248b03d89b7ab9e358cbf01e", 
+      "title": "Learning with kernels", 
+      "url": "https://www.semanticscholar.org/paper/05357314fe2da7c2248b03d89b7ab9e358cbf01e", 
+      "venue": "", 
+      "year": 1998
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "e1361d3377ac5283266c430e8b0e6596ce05a89c", 
+      "title": "Gaussian Processes for Classification: Mean-Field Algorithms", 
+      "url": "https://www.semanticscholar.org/paper/e1361d3377ac5283266c430e8b0e6596ce05a89c", 
+      "venue": "Neural Computation", 
+      "year": 2000
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "0c7f52c753a65ceaf3755e20b906ffd0c05c994a", 
+      "title": "Conditional Random Fields: Probabilistic Models for Segmenting and Labeling Sequence Data", 
+      "url": "https://www.semanticscholar.org/paper/0c7f52c753a65ceaf3755e20b906ffd0c05c994a", 
+      "venue": "ICML", 
+      "year": 2001
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "ae4e946bdbb378ec9e6011b4041088fde1ba2faf", 
+      "title": "Variational Gaussian process classifiers", 
+      "url": "https://www.semanticscholar.org/paper/ae4e946bdbb378ec9e6011b4041088fde1ba2faf", 
+      "venue": "IEEE Trans. Neural Netw. Learning Syst.", 
+      "year": 2000
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "3b8e7c8220d3883d54960d896a73045f3c70ac17", 
+      "title": "Discriminative Training Methods For Hidden Markov Models: Theory And Experiments With Perceptron Algorithms", 
+      "url": "https://www.semanticscholar.org/paper/3b8e7c8220d3883d54960d896a73045f3c70ac17", 
+      "venue": "", 
+      "year": 2002
+    }
+  ], 
+  "title": "Gaussian process classification for segmenting and annotating sequences", 
+  "url": "https://www.semanticscholar.org/paper/22bc35974df6d1ff6a7b3e46494ae27d8580b985", 
+  "venue": "ICML", 
+  "year": 2004
+}

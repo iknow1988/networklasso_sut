@@ -1,0 +1,926 @@
+{
+  "authors": [
+    {
+      "authorId": "4088091", 
+      "name": "Hwee Tou Ng", 
+      "url": "https://www.semanticscholar.org/author/4088091"
+    }, 
+    {
+      "authorId": "2069266", 
+      "name": "Siew Mei Wu", 
+      "url": "https://www.semanticscholar.org/author/2069266"
+    }, 
+    {
+      "authorId": "1806852", 
+      "name": "Ted Briscoe", 
+      "url": "https://www.semanticscholar.org/author/1806852"
+    }, 
+    {
+      "authorId": "3271719", 
+      "name": "Christian Hadiwinoto", 
+      "url": "https://www.semanticscholar.org/author/3271719"
+    }, 
+    {
+      "authorId": "2867752", 
+      "name": "Raymond Hendy Susanto", 
+      "url": "https://www.semanticscholar.org/author/2867752"
+    }, 
+    {
+      "authorId": "2785193", 
+      "name": "Christopher Bryant", 
+      "url": "https://www.semanticscholar.org/author/2785193"
+    }
+  ], 
+  "citationVelocity": 33, 
+  "citations": [
+    {
+      "isInfluential": false, 
+      "paperId": "29275636d7abb96de3816fd0c556f7d3a34bcf62", 
+      "title": "Tuning a Grammar Correction System for Increased Precision", 
+      "url": "https://www.semanticscholar.org/paper/29275636d7abb96de3816fd0c556f7d3a34bcf62", 
+      "venue": "CoNLL Shared Task", 
+      "year": 2014
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "1a4c7736f3e0b4806dbd6b6ae24b258d83e81c2f", 
+      "title": "Towards a standard evaluation method for grammatical error detection and correction", 
+      "url": "https://www.semanticscholar.org/paper/1a4c7736f3e0b4806dbd6b6ae24b258d83e81c2f", 
+      "venue": "HLT-NAACL", 
+      "year": 2015
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "c87faf5f3083c5adb68ce28fdc9d495df7b58492", 
+      "title": "Automated Evaluation of Scientific Writing: AESW Shared Task Proposal", 
+      "url": "https://www.semanticscholar.org/paper/c87faf5f3083c5adb68ce28fdc9d495df7b58492", 
+      "venue": "BEA@NAACL-HLT", 
+      "year": 2015
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "e230b0ebccc0d74c08fa77108a0e32589e0c20ff", 
+      "title": "A Report on the Automatic Evaluation of Scientific Writing Shared Task", 
+      "url": "https://www.semanticscholar.org/paper/e230b0ebccc0d74c08fa77108a0e32589e0c20ff", 
+      "venue": "BEA@NAACL-HLT", 
+      "year": 2016
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "5e18c45054e6dd89076016ec323ff83e84a3039f", 
+      "title": "Candidate re-ranking for SMT-based grammatical error correction", 
+      "url": "https://www.semanticscholar.org/paper/5e18c45054e6dd89076016ec323ff83e84a3039f", 
+      "venue": "BEA@NAACL-HLT", 
+      "year": 2016
+    }, 
+    {
+      "isInfluential": true, 
+      "paperId": "92c4413c2a344f297f2eb6f96800bcc7de01ad37", 
+      "title": "Grammatical error correction in non-native English", 
+      "url": "https://www.semanticscholar.org/paper/92c4413c2a344f297f2eb6f96800bcc7de01ad37", 
+      "venue": "", 
+      "year": 2017
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "c90672fe943fa4a7b1c7e8f7ff68fc7ead16d702", 
+      "title": "Overview of the NLP-TEA 2015 Shared Task for Chinese Grammatical Error Diagnosis", 
+      "url": "https://www.semanticscholar.org/paper/c90672fe943fa4a7b1c7e8f7ff68fc7ead16d702", 
+      "venue": "", 
+      "year": 2015
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "4af6bbbc01d4e5882b84963fb37a98f6dce2933b", 
+      "title": "Ground Truth for Grammaticality Correction Metrics", 
+      "url": "https://www.semanticscholar.org/paper/4af6bbbc01d4e5882b84963fb37a98f6dce2933b", 
+      "venue": "ACL", 
+      "year": 2015
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "f1e8f81a776ddefb621007370c56454f47c0cdce", 
+      "title": "Automated Grammatical Error Correction for Language Learners", 
+      "url": "https://www.semanticscholar.org/paper/f1e8f81a776ddefb621007370c56454f47c0cdce", 
+      "venue": "COLING", 
+      "year": 2014
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "40433fe8e79b39a5365e988b3fe97b9462da807a", 
+      "title": "Computer-assisted stylistic revision with incomplete and noisy feedback. A pilot study", 
+      "url": "https://www.semanticscholar.org/paper/40433fe8e79b39a5365e988b3fe97b9462da807a", 
+      "venue": "BEA@NAACL-HLT", 
+      "year": 2016
+    }, 
+    {
+      "isInfluential": true, 
+      "paperId": "ad9b83a2b4274bbf2002d56b1ec80091ab87d306", 
+      "title": "Detecting Off-topic Responses to Visual Prompts", 
+      "url": "https://www.semanticscholar.org/paper/ad9b83a2b4274bbf2002d56b1ec80091ab87d306", 
+      "venue": "ArXiv", 
+      "year": 2017
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "0f40808b6369f3380418173ac32474757f509f0c", 
+      "title": "The joint student response analysis and recognizing textual entailment challenge: making sense of student responses in educational applications", 
+      "url": "https://www.semanticscholar.org/paper/0f40808b6369f3380418173ac32474757f509f0c", 
+      "venue": "Language Resources and Evaluation", 
+      "year": 2016
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "1ab7142e0fae1033cd390773394b24baed12e075", 
+      "title": "Automatic Grammatical Error Detection for Chinese based on Conditional Random Field", 
+      "url": "https://www.semanticscholar.org/paper/1ab7142e0fae1033cd390773394b24baed12e075", 
+      "venue": "", 
+      "year": 2016
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "51e58ac760a466dda48dfe470b44688277fe2d89", 
+      "title": "The WikEd Error Corpus: A Corpus of Corrective Wikipedia Edits and Its Application to Grammatical Error Correction", 
+      "url": "https://www.semanticscholar.org/paper/51e58ac760a466dda48dfe470b44688277fe2d89", 
+      "venue": "PolTAL", 
+      "year": 2014
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "61f728e9e2756ac7ea642c6b2c1a5cba5806377e", 
+      "title": "Introduction to the Special Issue on Chinese Spell Checking", 
+      "url": "https://www.semanticscholar.org/paper/61f728e9e2756ac7ea642c6b2c1a5cba5806377e", 
+      "venue": "ACM Trans. Asian & Low-Resource Lang. Inf. Process.", 
+      "year": 2015
+    }, 
+    {
+      "isInfluential": true, 
+      "paperId": "282692034f8ffb97ae88398e1415d8f4a59c0523", 
+      "title": "JFLEG: A Fluency Corpus and Benchmark for Grammatical Error Correction", 
+      "url": "https://www.semanticscholar.org/paper/282692034f8ffb97ae88398e1415d8f4a59c0523", 
+      "venue": "EACL", 
+      "year": 2017
+    }, 
+    {
+      "isInfluential": true, 
+      "paperId": "89aa46127b6b41807656224fff1766e81a4d4216", 
+      "title": "Error detection in content word combinations", 
+      "url": "https://www.semanticscholar.org/paper/89aa46127b6b41807656224fff1766e81a4d4216", 
+      "venue": "", 
+      "year": 2015
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "7041280a628db8217ccdbb130b7211cda359e987", 
+      "title": "Grammatical error correction using hybrid systems and type filtering", 
+      "url": "https://www.semanticscholar.org/paper/7041280a628db8217ccdbb130b7211cda359e987", 
+      "venue": "CoNLL Shared Task", 
+      "year": 2014
+    }, 
+    {
+      "isInfluential": true, 
+      "paperId": "077ab82aee0fe5583b4d4b1858ff185d7607020d", 
+      "title": "Improving Chinese Grammatical Error Correction using Corpus Augmentation and Hierarchical Phrase-based Statistical Machine Translation", 
+      "url": "https://www.semanticscholar.org/paper/077ab82aee0fe5583b4d4b1858ff185d7607020d", 
+      "venue": "", 
+      "year": 2015
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "036e0955c1714d2ac0089e09d8407ab4df8a8add", 
+      "title": "An Extended Version of the KoKo German L1 Learner Corpus", 
+      "url": "https://www.semanticscholar.org/paper/036e0955c1714d2ac0089e09d8407ab4df8a8add", 
+      "venue": "CLiC-it/EVALITA", 
+      "year": 2016
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "3e089c6c3f9e8f4a243f0106f23d31dfcaa34a88", 
+      "title": "Exploiting Unlabeled Data for Neural Grammatical Error Detection", 
+      "url": "https://www.semanticscholar.org/paper/3e089c6c3f9e8f4a243f0106f23d31dfcaa34a88", 
+      "venue": "Journal of Computer Science and Technology", 
+      "year": 2017
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "2572b675884a92ec7e667c725e6295d0c7d9a815", 
+      "title": "A Nested Attention Neural Hybrid Model for Grammatical Error Correction", 
+      "url": "https://www.semanticscholar.org/paper/2572b675884a92ec7e667c725e6295d0c7d9a815", 
+      "venue": "ACL", 
+      "year": 2017
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "869d418b5ccd4a5f6a018916bd99578048a153a8", 
+      "title": "POSTECH Grammatical Error Correction System in the CoNLL-2014 Shared Task", 
+      "url": "https://www.semanticscholar.org/paper/869d418b5ccd4a5f6a018916bd99578048a153a8", 
+      "venue": "CoNLL Shared Task", 
+      "year": 2014
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "6f6b397267946e3faaac4e5fa587e1876fe69da2", 
+      "title": "Neural Language Correction with Character-Based Attention", 
+      "url": "https://www.semanticscholar.org/paper/6f6b397267946e3faaac4e5fa587e1876fe69da2", 
+      "venue": "ArXiv", 
+      "year": 2016
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "1fef5031fb9aea24d5b8e943376428adfff54e1c", 
+      "title": "Cross-Lingual Lexico-Semantic Transfer in Language Learning", 
+      "url": "https://www.semanticscholar.org/paper/1fef5031fb9aea24d5b8e943376428adfff54e1c", 
+      "venue": "ACL", 
+      "year": 2016
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "fd1fb350ce34c5d687e89383cd8f2dfb06778df3", 
+      "title": "Automatic Generation of Review Matrices as Multi-document Summarization of Scientific Papers", 
+      "url": "https://www.semanticscholar.org/paper/fd1fb350ce34c5d687e89383cd8f2dfb06778df3", 
+      "venue": "BIRNDL@SIGIR", 
+      "year": 2017
+    }, 
+    {
+      "isInfluential": true, 
+      "paperId": "4b843cf45babcd909cc3f5b5cd17587c91624ca1", 
+      "title": "Chinese Preposition Selection for Grammatical Error Diagnosis", 
+      "url": "https://www.semanticscholar.org/paper/4b843cf45babcd909cc3f5b5cd17587c91624ca1", 
+      "venue": "COLING", 
+      "year": 2016
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "4cac1e1eb876ffdcfda5a62d5237f942b519a502", 
+      "title": "Automatic Annotation and Evaluation of Error Types for Grammatical Error Correction", 
+      "url": "https://www.semanticscholar.org/paper/4cac1e1eb876ffdcfda5a62d5237f942b519a502", 
+      "venue": "ACL", 
+      "year": 2017
+    }, 
+    {
+      "isInfluential": true, 
+      "paperId": "0a3381f0432c5cfe491c718349d7a44e5814592c", 
+      "title": "Compositional Sequence Labeling Models for Error Detection in Learner Writing", 
+      "url": "https://www.semanticscholar.org/paper/0a3381f0432c5cfe491c718349d7a44e5814592c", 
+      "venue": "ACL", 
+      "year": 2016
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "b9067abeda0b6376fc0add64feb432e2b9b1351d", 
+      "title": "Adapting Grammatical Error Correction Based on the Native Language of Writers with Neural Network Joint Models", 
+      "url": "https://www.semanticscholar.org/paper/b9067abeda0b6376fc0add64feb432e2b9b1351d", 
+      "venue": "EMNLP", 
+      "year": 2016
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "376529c7585902a0d4f64f160eae09ddcf22f323", 
+      "title": "Developing learner corpus annotation for Chinese grammatical errors", 
+      "url": "https://www.semanticscholar.org/paper/376529c7585902a0d4f64f160eae09ddcf22f323", 
+      "venue": "2016 International Conference on Asian Language Processing (IALP)", 
+      "year": 2016
+    }, 
+    {
+      "isInfluential": true, 
+      "paperId": "2869d62eb3904dafff3f9796ad63bff26a3bf042", 
+      "title": "CoNLL 2014 Shared Task: Grammatical Error Correction with a Syntactic N-gram Language Model from a Big Corpora", 
+      "url": "https://www.semanticscholar.org/paper/2869d62eb3904dafff3f9796ad63bff26a3bf042", 
+      "venue": "CoNLL Shared Task", 
+      "year": 2014
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "f4cb1ecae150ef2e363b9b34dd74b691c313f169", 
+      "title": "A Unified Framework for Grammar Error Correction", 
+      "url": "https://www.semanticscholar.org/paper/f4cb1ecae150ef2e363b9b34dd74b691c313f169", 
+      "venue": "CoNLL Shared Task", 
+      "year": 2014
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "d15ccb2dd9f912b398db1f151490fec34313d82f", 
+      "title": "Grammatical Error Detection Using Tagger Disagreement", 
+      "url": "https://www.semanticscholar.org/paper/d15ccb2dd9f912b398db1f151490fec34313d82f", 
+      "venue": "CoNLL Shared Task", 
+      "year": 2014
+    }, 
+    {
+      "isInfluential": true, 
+      "paperId": "4ffd3fbbefc45d7847687a82cad166bac14a5fc7", 
+      "title": "There's No Comparison: Reference-less Evaluation Metrics in Grammatical Error Correction", 
+      "url": "https://www.semanticscholar.org/paper/4ffd3fbbefc45d7847687a82cad166bac14a5fc7", 
+      "venue": "EMNLP", 
+      "year": 2016
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "48d44601258aa75494a674ac5393d27ef859f5d6", 
+      "title": "Chinese Grammatical Error Diagnosis Using Ensemble Learning", 
+      "url": "https://www.semanticscholar.org/paper/48d44601258aa75494a674ac5393d27ef859f5d6", 
+      "venue": "", 
+      "year": 2015
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "0517d86d8837a0be82d4bd5a4aff3d77676abdaf", 
+      "title": "Universal Dependencies for Learner English", 
+      "url": "https://www.semanticscholar.org/paper/0517d86d8837a0be82d4bd5a4aff3d77676abdaf", 
+      "venue": "ACL", 
+      "year": 2016
+    }, 
+    {
+      "isInfluential": true, 
+      "paperId": "ce70420263a4827205e1cc9756096016be7a7f18", 
+      "title": "'Calling on the classical phone': a distributional model of adjective-noun errors in learners' English", 
+      "url": "https://www.semanticscholar.org/paper/ce70420263a4827205e1cc9756096016be7a7f18", 
+      "venue": "COLING", 
+      "year": 2016
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "f9a22e9713aaa8293f522ae948d2603f2d6bfeee", 
+      "title": "Artificial Error Generation with Machine Translation and Syntactic Patterns", 
+      "url": "https://www.semanticscholar.org/paper/f9a22e9713aaa8293f522ae948d2603f2d6bfeee", 
+      "venue": "ArXiv", 
+      "year": 2017
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "9441cb2e1b995bca6a902d73d851c350aa96bf11", 
+      "title": "Grammatical Error Correction: Machine Translation and Classifiers", 
+      "url": "https://www.semanticscholar.org/paper/9441cb2e1b995bca6a902d73d851c350aa96bf11", 
+      "venue": "ACL", 
+      "year": 2016
+    }, 
+    {
+      "isInfluential": true, 
+      "paperId": "d183311e163c1f5903a57c90f8de97fd1c090769", 
+      "title": "Factored Statistical Machine Translation for Grammatical Error Correction", 
+      "url": "https://www.semanticscholar.org/paper/d183311e163c1f5903a57c90f8de97fd1c090769", 
+      "venue": "CoNLL Shared Task", 
+      "year": 2014
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "48bd7b1bec3df233c2cd41845c9090ef30ab4ccd", 
+      "title": "Sentence-Level Grammatical Error Identification as Sequence-to-Sequence Correction", 
+      "url": "https://www.semanticscholar.org/paper/48bd7b1bec3df233c2cd41845c9090ef30ab4ccd", 
+      "venue": "BEA@NAACL-HLT", 
+      "year": 2016
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "4bd68f6ddb70c159a028cac01a4677702861373f", 
+      "title": "Auxiliary Objectives for Neural Error Detection Models", 
+      "url": "https://www.semanticscholar.org/paper/4bd68f6ddb70c159a028cac01a4677702861373f", 
+      "venue": "ArXiv", 
+      "year": 2017
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "87c73705a1e73bd297b5102fa36740538558fa49", 
+      "title": "Personalized Exercises for Preposition Learning", 
+      "url": "https://www.semanticscholar.org/paper/87c73705a1e73bd297b5102fa36740538558fa49", 
+      "venue": "ACL", 
+      "year": 2016
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "9b35e78917ea80a2ee61cd6f20a27604eee17f9d", 
+      "title": "Leveraging Native Data to Correct Preposition Errors in Learners' Dutch", 
+      "url": "https://www.semanticscholar.org/paper/9b35e78917ea80a2ee61cd6f20a27604eee17f9d", 
+      "venue": "LREC", 
+      "year": 2016
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "86b1f4decbd4bf6297e29c9c7a3c920575baa8b8", 
+      "title": "Semi-supervised Multitask Learning for Sequence Labeling", 
+      "url": "https://www.semanticscholar.org/paper/86b1f4decbd4bf6297e29c9c7a3c920575baa8b8", 
+      "venue": "ACL", 
+      "year": 2017
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "dac078305a2aff48f2ecd2fa8dc8c37b3e96cd2c", 
+      "title": "Exploiting N-Best Hypotheses to Improve an SMT Approach to Grammatical Error Correction", 
+      "url": "https://www.semanticscholar.org/paper/dac078305a2aff48f2ecd2fa8dc8c37b3e96cd2c", 
+      "venue": "IJCAI", 
+      "year": 2016
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "8c1fd0a75938a2680458f155e60b5bb71be05f84", 
+      "title": "Spelling Correction for Morphologically Rich Language: a Case Study of Russian", 
+      "url": "https://www.semanticscholar.org/paper/8c1fd0a75938a2680458f155e60b5bb71be05f84", 
+      "venue": "", 
+      "year": 2017
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "0e4b34364ce53f031f55fbdfca402f78d0c8147b", 
+      "title": "Predicting the Spelling Difficulty of Words for Language Learners", 
+      "url": "https://www.semanticscholar.org/paper/0e4b34364ce53f031f55fbdfca402f78d0c8147b", 
+      "venue": "BEA@NAACL-HLT", 
+      "year": 2016
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "20670106b08c46dca23241b1f0180bd44b8dcc67", 
+      "title": "System Combination for Grammatical Error Correction", 
+      "url": "https://www.semanticscholar.org/paper/20670106b08c46dca23241b1f0180bd44b8dcc67", 
+      "venue": "EMNLP", 
+      "year": 2014
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "8364a06c5a883b3e89a91e043f52fd9b91df40a0", 
+      "title": "Crossing the Border Twice: Reimporting Prepositions to Alleviate L1-Specific Transfer Errors", 
+      "url": "https://www.semanticscholar.org/paper/8364a06c5a883b3e89a91e043f52fd9b91df40a0", 
+      "venue": "", 
+      "year": 2017
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "966ad1d0cff9f018abd4e45bdcc26a1a8eeb5866", 
+      "title": "Connecting NLP and Language Learning", 
+      "url": "https://www.semanticscholar.org/paper/966ad1d0cff9f018abd4e45bdcc26a1a8eeb5866", 
+      "venue": "", 
+      "year": 2014
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "cedebd6e4571a2971fa0665190b20211348eec53", 
+      "title": "Constrained Multi-Task Learning for Automated Essay Scoring", 
+      "url": "https://www.semanticscholar.org/paper/cedebd6e4571a2971fa0665190b20211348eec53", 
+      "venue": "ACL", 
+      "year": 2016
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "ccdd300d075686183e9de5b19b48a90905f1045a", 
+      "title": "Detection of Chinese Word Usage Errors for Non-Native Chinese Learners with Bidirectional LSTM", 
+      "url": "https://www.semanticscholar.org/paper/ccdd300d075686183e9de5b19b48a90905f1045a", 
+      "venue": "ACL", 
+      "year": 2017
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "7004283c67157f38d6fb469dbcbfaeb9ab7336aa", 
+      "title": "Grammatical Error Detection and Correction using a Single Maximum Entropy Model", 
+      "url": "https://www.semanticscholar.org/paper/7004283c67157f38d6fb469dbcbfaeb9ab7336aa", 
+      "venue": "CoNLL Shared Task", 
+      "year": 2014
+    }, 
+    {
+      "isInfluential": true, 
+      "paperId": "2a1898d6374179fa8ca6bec9a15ea6fd682798d8", 
+      "title": "Discriminative Reranking for Grammatical Error Correction with Statistical Machine Translation", 
+      "url": "https://www.semanticscholar.org/paper/2a1898d6374179fa8ca6bec9a15ea6fd682798d8", 
+      "venue": "HLT-NAACL", 
+      "year": 2016
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "2849be8d081baf4a4ff2b9945cff8120f245ee1d", 
+      "title": "Phrase-based Machine Translation is State-of-the-Art for Automatic Grammatical Error Correction", 
+      "url": "https://www.semanticscholar.org/paper/2849be8d081baf4a4ff2b9945cff8120f245ee1d", 
+      "venue": "EMNLP", 
+      "year": 2016
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "2adea38534f918ea672e2fcb22c23d6e0c363433", 
+      "title": "The NTNU-YZU System in the AESW Shared Task: Automated Evaluation of Scientific Writing Using a Convolutional Neural Network", 
+      "url": "https://www.semanticscholar.org/paper/2adea38534f918ea672e2fcb22c23d6e0c363433", 
+      "venue": "BEA@NAACL-HLT", 
+      "year": 2016
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "45a7f7b2b0866d28f9f79496724936256ef2b346", 
+      "title": "The First QALB Shared Task on Automatic Text Correction for Arabic", 
+      "url": "https://www.semanticscholar.org/paper/45a7f7b2b0866d28f9f79496724936256ef2b346", 
+      "venue": "", 
+      "year": 2014
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "919097c8d145aba4780852db800d26efb167a26e", 
+      "title": "Grammatical Error Correction Considering Multi-word Expressions", 
+      "url": "https://www.semanticscholar.org/paper/919097c8d145aba4780852db800d26efb167a26e", 
+      "venue": "", 
+      "year": 2015
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "61d6b681016312a7b7ed9ed72d62e84586c54e1f", 
+      "title": "The Columbia System in the QALB-2014 Shared Task on Arabic Error Correction", 
+      "url": "https://www.semanticscholar.org/paper/61d6b681016312a7b7ed9ed72d62e84586c54e1f", 
+      "venue": "", 
+      "year": 2014
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "463edc002d3b8c6e5cdb0ffdfe6bb16b366a81d4", 
+      "title": "Chinese Grammatical Error Diagnosis System Based on Hybrid Model", 
+      "url": "https://www.semanticscholar.org/paper/463edc002d3b8c6e5cdb0ffdfe6bb16b366a81d4", 
+      "venue": "", 
+      "year": 2015
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "273ab3b0182d558b66c3f48036d0e44f91f5e7e7", 
+      "title": "The effect of disfluencies and learner errors on the parsing of spoken learner language", 
+      "url": "https://www.semanticscholar.org/paper/273ab3b0182d558b66c3f48036d0e44f91f5e7e7", 
+      "venue": "", 
+      "year": 2014
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "0ca3ff3e5c71c03817b31c3c560f714da43c2e61", 
+      "title": "Foreebank: Syntactic Analysis of Customer Support Forums", 
+      "url": "https://www.semanticscholar.org/paper/0ca3ff3e5c71c03817b31c3c560f714da43c2e61", 
+      "venue": "EMNLP", 
+      "year": 2015
+    }, 
+    {
+      "isInfluential": true, 
+      "paperId": "1ff4e6d70eb1524034d305eff8996f2778cb1bdc", 
+      "title": "Reassessing the Goals of Grammatical Error Correction: Fluency Instead of Grammaticality", 
+      "url": "https://www.semanticscholar.org/paper/1ff4e6d70eb1524034d305eff8996f2778cb1bdc", 
+      "venue": "TACL", 
+      "year": 2016
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "aee178b37de758109134157a16b851f4d5420000", 
+      "title": "Using Learner Data to Improve Error Correction in Adjective-Noun Combinations", 
+      "url": "https://www.semanticscholar.org/paper/aee178b37de758109134157a16b851f4d5420000", 
+      "venue": "BEA@NAACL-HLT", 
+      "year": 2015
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "407f511c3001488a028eb4b63a20982abd8b48f3", 
+      "title": "Automatic Detection of Sentence Fragments", 
+      "url": "https://www.semanticscholar.org/paper/407f511c3001488a028eb4b63a20982abd8b48f3", 
+      "venue": "ACL", 
+      "year": 2015
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "a846d784a4bafea5c9ff32ace12c6de1adf6d2c2", 
+      "title": "Building a State-of-the-Art Grammatical Error Correction System", 
+      "url": "https://www.semanticscholar.org/paper/a846d784a4bafea5c9ff32ace12c6de1adf6d2c2", 
+      "venue": "TACL", 
+      "year": 2014
+    }, 
+    {
+      "isInfluential": true, 
+      "paperId": "e08b71b4e46a220726f5a0cfa4a234c1f9983b46", 
+      "title": "Automatic Detection of Comma Splices", 
+      "url": "https://www.semanticscholar.org/paper/e08b71b4e46a220726f5a0cfa4a234c1f9983b46", 
+      "venue": "PACLIC", 
+      "year": 2014
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "c4be6e98e384d032dbfd4835d1675807f656bd02", 
+      "title": "Overview of NLP-TEA 2016 Shared Task for Chinese Grammatical Error Diagnosis", 
+      "url": "https://www.semanticscholar.org/paper/c4be6e98e384d032dbfd4835d1675807f656bd02", 
+      "venue": "", 
+      "year": 2016
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "558044f59a1855fbd08a747fb0fd1ea1ee7c19af", 
+      "title": "Grammatical error correction using neural machine translation", 
+      "url": "https://www.semanticscholar.org/paper/558044f59a1855fbd08a747fb0fd1ea1ee7c19af", 
+      "venue": "HLT-NAACL", 
+      "year": 2016
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "4d39bf1897890cf99ed33fdfae5df3c7c4c62afe", 
+      "title": "CItA: an L1 Italian Learners Corpus to Study the Development of Writing Competence", 
+      "url": "https://www.semanticscholar.org/paper/4d39bf1897890cf99ed33fdfae5df3c7c4c62afe", 
+      "venue": "LREC", 
+      "year": 2016
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "d55fb8b2cca40b8104b45e703a4427a4ca4e3e6c", 
+      "title": "Automatic Extraction of Learner Errors in ESL Sentences Using Linguistically Enhanced Alignments", 
+      "url": "https://www.semanticscholar.org/paper/d55fb8b2cca40b8104b45e703a4427a4ca4e3e6c", 
+      "venue": "COLING", 
+      "year": 2016
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "993d043e7d44859f6bd824b03078affee0b11bea", 
+      "title": "Bi-LSTM Neural Networks for Chinese Grammatical Error Diagnosis", 
+      "url": "https://www.semanticscholar.org/paper/993d043e7d44859f6bd824b03078affee0b11bea", 
+      "venue": "", 
+      "year": 2016
+    }, 
+    {
+      "isInfluential": true, 
+      "paperId": "4ad72f02acd09a78e05d23a9a9ac5564897b96f8", 
+      "title": "The AMU System in the CoNLL-2014 Shared Task: Grammatical Error Correction by Data-Intensive and Feature-Rich Statistical Machine Translation", 
+      "url": "https://www.semanticscholar.org/paper/4ad72f02acd09a78e05d23a9a9ac5564897b96f8", 
+      "venue": "CoNLL Shared Task", 
+      "year": 2014
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "2564f779c9f5ba7342eecf8c86fcaf4735803728", 
+      "title": "Adapting Sequence Models for Sentence Correction", 
+      "url": "https://www.semanticscholar.org/paper/2564f779c9f5ba7342eecf8c86fcaf4735803728", 
+      "venue": "ArXiv", 
+      "year": 2017
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "cfd747fd72a061f040477b180c20178a57b185d3", 
+      "title": "The Second QALB Shared Task on Automatic Text Correction for Arabic", 
+      "url": "https://www.semanticscholar.org/paper/cfd747fd72a061f040477b180c20178a57b185d3", 
+      "venue": "", 
+      "year": 2015
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "2f9dbe9a1c4d4b3bcf94977e636e9eab4cced5ad", 
+      "title": "Issues in preprocessing current datasets for grammatical error correction", 
+      "url": "https://www.semanticscholar.org/paper/2f9dbe9a1c4d4b3bcf94977e636e9eab4cced5ad", 
+      "venue": "", 
+      "year": 2016
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "59a6a924bea66e596b91dc26b3c7a6a906a6ef93", 
+      "title": "Neural Network Translation Models for Grammatical Error Correction", 
+      "url": "https://www.semanticscholar.org/paper/59a6a924bea66e596b91dc26b3c7a6a906a6ef93", 
+      "venue": "IJCAI", 
+      "year": 2016
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "e6eb3b001b56993e496384263701dad14e8f1850", 
+      "title": "Human Evaluation of Grammatical Error Correction Systems", 
+      "url": "https://www.semanticscholar.org/paper/e6eb3b001b56993e496384263701dad14e8f1850", 
+      "venue": "EMNLP", 
+      "year": 2015
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "935c188dedc9ffc967f2924bd42ed531e9ec2509", 
+      "title": "How Far are We from Fully Automatic High Quality Grammatical Error Correction?", 
+      "url": "https://www.semanticscholar.org/paper/935c188dedc9ffc967f2924bd42ed531e9ec2509", 
+      "venue": "ACL", 
+      "year": 2015
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "6c13dff9462a69928fe7cc472c594998e66de1c0", 
+      "title": "The Illinois-Columbia System in the CoNLL-2014 Shared Task", 
+      "url": "https://www.semanticscholar.org/paper/6c13dff9462a69928fe7cc472c594998e66de1c0", 
+      "venue": "CoNLL Shared Task", 
+      "year": 2014
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "19f5d33e6814ddab2d17a97a77bb6525db784d35", 
+      "title": "Artificial error generation for translation-based grammatical error correction", 
+      "url": "https://www.semanticscholar.org/paper/19f5d33e6814ddab2d17a97a77bb6525db784d35", 
+      "venue": "", 
+      "year": 2016
+    }
+  ], 
+  "doi": null, 
+  "influentialCitationCount": 15, 
+  "paperId": "20499f3c6fe9f84a12c9def941e2e12846a00c77", 
+  "references": [
+    {
+      "isInfluential": true, 
+      "paperId": "4ad72f02acd09a78e05d23a9a9ac5564897b96f8", 
+      "title": "The AMU System in the CoNLL-2014 Shared Task: Grammatical Error Correction by Data-Intensive and Feature-Rich Statistical Machine Translation", 
+      "url": "https://www.semanticscholar.org/paper/4ad72f02acd09a78e05d23a9a9ac5564897b96f8", 
+      "venue": "CoNLL Shared Task", 
+      "year": 2014
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "9e463eefadbcd336c69270a299666e4104d50159", 
+      "title": "A Coefficient of Agreement for Nominal Scales 1", 
+      "url": "https://www.semanticscholar.org/paper/9e463eefadbcd336c69270a299666e4104d50159", 
+      "venue": "", 
+      "year": 2006
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "6476f695cb4601ce9c6db3f354d6932af3fc9736", 
+      "title": "The Cambridge Learner Corpus - error coding and analysis for lexicography and ELT", 
+      "url": "https://www.semanticscholar.org/paper/6476f695cb4601ce9c6db3f354d6932af3fc9736", 
+      "venue": "", 
+      "year": 2003
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "9a8ebbfc26eb959e111c5c4ad8159aad142cccbc", 
+      "title": "Helping Our Own: The HOO 2011 Pilot Shared Task", 
+      "url": "https://www.semanticscholar.org/paper/9a8ebbfc26eb959e111c5c4ad8159aad142cccbc", 
+      "venue": "ENLG", 
+      "year": 2011
+    }, 
+    {
+      "isInfluential": true, 
+      "paperId": "2869d62eb3904dafff3f9796ad63bff26a3bf042", 
+      "title": "CoNLL 2014 Shared Task: Grammatical Error Correction with a Syntactic N-gram Language Model from a Big Corpora", 
+      "url": "https://www.semanticscholar.org/paper/2869d62eb3904dafff3f9796ad63bff26a3bf042", 
+      "venue": "CoNLL Shared Task", 
+      "year": 2014
+    }, 
+    {
+      "isInfluential": true, 
+      "paperId": "d183311e163c1f5903a57c90f8de97fd1c090769", 
+      "title": "Factored Statistical Machine Translation for Grammatical Error Correction", 
+      "url": "https://www.semanticscholar.org/paper/d183311e163c1f5903a57c90f8de97fd1c090769", 
+      "venue": "CoNLL Shared Task", 
+      "year": 2014
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "2b931169b489b27b79fbe5bdef955d6247c70733", 
+      "title": "Native Judgments of Non-Native Usage: Experiments in Preposition Error Detection", 
+      "url": "https://www.semanticscholar.org/paper/2b931169b489b27b79fbe5bdef955d6247c70733", 
+      "venue": "", 
+      "year": 2008
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "b4b745fb18980de6bae3e61b1e5cd3c74c3c0b6d", 
+      "title": "Using Mostly Native Data to Correct Errors in Learners' Writing: A Meta-Classifier Approach", 
+      "url": "https://www.semanticscholar.org/paper/b4b745fb18980de6bae3e61b1e5cd3c74c3c0b6d", 
+      "venue": "", 
+      "year": 2010
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "92d7238f2b39aa6db57361c01676d8c71d145ee8", 
+      "title": "Grammatical Error Correction Using Integer Linear Programming", 
+      "url": "https://www.semanticscholar.org/paper/92d7238f2b39aa6db57361c01676d8c71d145ee8", 
+      "venue": "ACL", 
+      "year": 2013
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "3673bccde93025e05431a2bcac4e8ff18c9c273a", 
+      "title": "Natural Language Processing with Python", 
+      "url": "https://www.semanticscholar.org/paper/3673bccde93025e05431a2bcac4e8ff18c9c273a", 
+      "venue": "", 
+      "year": 2009
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "ee455537e727cf921263540134949b7042ba6521", 
+      "title": "Detecting errors in English article usage by non-native speakers", 
+      "url": "https://www.semanticscholar.org/paper/ee455537e727cf921263540134949b7042ba6521", 
+      "venue": "Natural Language Engineering", 
+      "year": 2006
+    }, 
+    {
+      "isInfluential": true, 
+      "paperId": "7004283c67157f38d6fb469dbcbfaeb9ab7336aa", 
+      "title": "Grammatical Error Detection and Correction using a Single Maximum Entropy Model", 
+      "url": "https://www.semanticscholar.org/paper/7004283c67157f38d6fb469dbcbfaeb9ab7336aa", 
+      "venue": "CoNLL Shared Task", 
+      "year": 2014
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "7a464ab4095530b140a7f366b14935ec0b8d9b25", 
+      "title": "Using Parse Features for Preposition Selection and Error Detection", 
+      "url": "https://www.semanticscholar.org/paper/7a464ab4095530b140a7f366b14935ec0b8d9b25", 
+      "venue": "ACL", 
+      "year": 2010
+    }, 
+    {
+      "isInfluential": true, 
+      "paperId": "29275636d7abb96de3816fd0c556f7d3a34bcf62", 
+      "title": "Tuning a Grammar Correction System for Increased Precision", 
+      "url": "https://www.semanticscholar.org/paper/29275636d7abb96de3816fd0c556f7d3a34bcf62", 
+      "venue": "CoNLL Shared Task", 
+      "year": 2014
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "45e678c580484fb89e4318ab2221a7c2ab9378c6", 
+      "title": "Building a Large Annotated Corpus of Learner English: The NUS Corpus of Learner English", 
+      "url": "https://www.semanticscholar.org/paper/45e678c580484fb89e4318ab2221a7c2ab9378c6", 
+      "venue": "BEA@NAACL-HLT", 
+      "year": 2013
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "18b534c7207a1376fa92e87fe0d2cfb358d98c51", 
+      "title": "Accurate Unlexicalized Parsing", 
+      "url": "https://www.semanticscholar.org/paper/18b534c7207a1376fa92e87fe0d2cfb358d98c51", 
+      "venue": "ACL", 
+      "year": 2003
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "1a2ea7741b7fa1156d6785f13f3d6fa949b4f6bc", 
+      "title": "Better Evaluation for Grammatical Error Correction", 
+      "url": "https://www.semanticscholar.org/paper/1a2ea7741b7fa1156d6785f13f3d6fa949b4f6bc", 
+      "venue": "HLT-NAACL", 
+      "year": 2012
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "ed22b3756da4eabf26c6a2eda169bde275399e4c", 
+      "title": "Automated Grammatical Error Detection for Language Learners", 
+      "url": "https://www.semanticscholar.org/paper/ed22b3756da4eabf26c6a2eda169bde275399e4c", 
+      "venue": "Automated Grammatical Error Detection for Language Learners", 
+      "year": 2010
+    }, 
+    {
+      "isInfluential": true, 
+      "paperId": "7041280a628db8217ccdbb130b7211cda359e987", 
+      "title": "Grammatical error correction using hybrid systems and type filtering", 
+      "url": "https://www.semanticscholar.org/paper/7041280a628db8217ccdbb130b7211cda359e987", 
+      "venue": "CoNLL Shared Task", 
+      "year": 2014
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "ff63b6cd2d3034a03ddb3d91008674e40d2ded7e", 
+      "title": "Correcting Semantic Collocation Errors with L1-induced Paraphrases", 
+      "url": "https://www.semanticscholar.org/paper/ff63b6cd2d3034a03ddb3d91008674e40d2ded7e", 
+      "venue": "EMNLP", 
+      "year": 2011
+    }, 
+    {
+      "isInfluential": true, 
+      "paperId": "6c13dff9462a69928fe7cc472c594998e66de1c0", 
+      "title": "The Illinois-Columbia System in the CoNLL-2014 Shared Task", 
+      "url": "https://www.semanticscholar.org/paper/6c13dff9462a69928fe7cc472c594998e66de1c0", 
+      "venue": "CoNLL Shared Task", 
+      "year": 2014
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "32a437ecdc20cc76c01e37c08920317ea18fde50", 
+      "title": "Generating Typed Dependency Parses from Phrase Structure Parses", 
+      "url": "https://www.semanticscholar.org/paper/32a437ecdc20cc76c01e37c08920317ea18fde50", 
+      "venue": "", 
+      "year": 2006
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "839a7f9537567a5df3726e41bdb968e907186eed", 
+      "title": "A Beam-Search Decoder for Grammatical Error Correction", 
+      "url": "https://www.semanticscholar.org/paper/839a7f9537567a5df3726e41bdb968e907186eed", 
+      "venue": "EMNLP-CoNLL", 
+      "year": 2012
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "664e1a939f095e8718d92d3af1a9e2eb99823d71", 
+      "title": "A New Dataset and Method for Automatically Grading ESOL Texts", 
+      "url": "https://www.semanticscholar.org/paper/664e1a939f095e8718d92d3af1a9e2eb99823d71", 
+      "venue": "ACL", 
+      "year": 2011
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "2a2786035dd7791e5e996ea31b8b385be7e06a89", 
+      "title": "Generating Confusion Sets for Context-Sensitive Error Correction", 
+      "url": "https://www.semanticscholar.org/paper/2a2786035dd7791e5e996ea31b8b385be7e06a89", 
+      "venue": "EMNLP", 
+      "year": 2010
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "99c9efd007f1a26a9b2d084b2bdd884f7556ee41", 
+      "title": "HOO 2012: A Report on the Preposition and Determiner Error Correction Shared Task", 
+      "url": "https://www.semanticscholar.org/paper/99c9efd007f1a26a9b2d084b2bdd884f7556ee41", 
+      "venue": "BEA@NAACL-HLT", 
+      "year": 2012
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "1e3e191dd5c546f2cd9b4ce7da171787a1ffcddd", 
+      "title": "Grammatical Error Correction with Alternating Structure Optimization", 
+      "url": "https://www.semanticscholar.org/paper/1e3e191dd5c546f2cd9b4ce7da171787a1ffcddd", 
+      "venue": "ACL", 
+      "year": 2011
+    }
+  ], 
+  "title": "The CoNLL-2014 Shared Task on Grammatical Error Correction", 
+  "url": "https://www.semanticscholar.org/paper/20499f3c6fe9f84a12c9def941e2e12846a00c77", 
+  "venue": "CoNLL Shared Task", 
+  "year": 2014
+}

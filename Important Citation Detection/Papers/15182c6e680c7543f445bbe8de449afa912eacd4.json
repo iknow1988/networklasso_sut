@@ -1,0 +1,825 @@
+{
+  "authors": [
+    {
+      "authorId": "1785622", 
+      "name": "Jin-Dong Kim", 
+      "url": "https://www.semanticscholar.org/author/1785622"
+    }, 
+    {
+      "authorId": "1708916", 
+      "name": "Sampo Pyysalo", 
+      "url": "https://www.semanticscholar.org/author/1708916"
+    }, 
+    {
+      "authorId": "1700386", 
+      "name": "Tomoko Ohta", 
+      "url": "https://www.semanticscholar.org/author/1700386"
+    }, 
+    {
+      "authorId": "1962698", 
+      "name": "Robert Bossy", 
+      "url": "https://www.semanticscholar.org/author/1962698"
+    }, 
+    {
+      "authorId": "2076635", 
+      "name": "Ngan Nguyen", 
+      "url": "https://www.semanticscholar.org/author/2076635"
+    }, 
+    {
+      "authorId": "7871755", 
+      "name": "Junichi Tsujii", 
+      "url": "https://www.semanticscholar.org/author/7871755"
+    }
+  ], 
+  "citationVelocity": 0, 
+  "citations": [
+    {
+      "isInfluential": false, 
+      "paperId": "44107a021d2e6b8ee35b761417734f09d633c571", 
+      "title": "Overview of the ID, EPI and REL tasks of BioNLP Shared Task 2011", 
+      "url": "https://www.semanticscholar.org/paper/44107a021d2e6b8ee35b761417734f09d633c571"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "c0633bf40e403fb943030e91c2e3f5061de7252b", 
+      "title": "Adverse Drug Event prediction combining shallow analysis and machine learning", 
+      "url": "https://www.semanticscholar.org/paper/c0633bf40e403fb943030e91c2e3f5061de7252b"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "d42cb7cf98fd9dcfa017684409c875e394e240b4", 
+      "title": "Bridging the Gap Between Scope-based and Event-based Negation/Speculation Annotations: A Bridge Not Too Far", 
+      "url": "https://www.semanticscholar.org/paper/d42cb7cf98fd9dcfa017684409c875e394e240b4"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "9ee289dbda34e13e0e35df9b343738b107fd7ce6", 
+      "title": "Domain Adaptation with Active Learning for Coreference Resolution", 
+      "url": "https://www.semanticscholar.org/paper/9ee289dbda34e13e0e35df9b343738b107fd7ce6"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "0554094a81e9ee02ed92e9260ec36e53c19666a2", 
+      "title": "Event extraction across multiple levels of biological organization", 
+      "url": "https://www.semanticscholar.org/paper/0554094a81e9ee02ed92e9260ec36e53c19666a2"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "7fae00f4230c5c02d610260742e5252aaf06412e", 
+      "title": "Annotating the biomedical literature for the human variome", 
+      "url": "https://www.semanticscholar.org/paper/7fae00f4230c5c02d610260742e5252aaf06412e"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "38e375aeeeb1937d03c3c80128a70d8e7a74441f", 
+      "title": "Annotating and Evaluating Text for Stem Cell Research", 
+      "url": "https://www.semanticscholar.org/paper/38e375aeeeb1937d03c3c80128a70d8e7a74441f"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "6cf2bba143013f392518f7496526bbebd8920e41", 
+      "title": "The Genia Event and Protein Coreference tasks of the BioNLP Shared Task 2011", 
+      "url": "https://www.semanticscholar.org/paper/6cf2bba143013f392518f7496526bbebd8920e41"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "0d54255352b2d442eb8ae36efd0ccfb97fffbb4a", 
+      "title": "An adaptive annotation approach for biomedical entity and relation recognition", 
+      "url": "https://www.semanticscholar.org/paper/0d54255352b2d442eb8ae36efd0ccfb97fffbb4a"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "7978c6b8f34f96eafa3acb1ff4d5fdc1d80c97cd", 
+      "title": "Extracting semantically enriched events from biomedical literature", 
+      "url": "https://www.semanticscholar.org/paper/7978c6b8f34f96eafa3acb1ff4d5fdc1d80c97cd"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "3598e8b4664477cb82b9887c78e4d178a2437f5c", 
+      "title": "The Genia Event Extraction Shared Task, 2013 Edition - Overview", 
+      "url": "https://www.semanticscholar.org/paper/3598e8b4664477cb82b9887c78e4d178a2437f5c"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "7f89acc5748a145187602e6169ff784c96ba8f56", 
+      "title": "Towards Pathway Curation Through Literature Mining - A Case Study Using PharmGKB", 
+      "url": "https://www.semanticscholar.org/paper/7f89acc5748a145187602e6169ff784c96ba8f56"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "697fff60132fe44db0eca322f7cd462e872e3555", 
+      "title": "Biomedical relation extraction using stochastic difference equations", 
+      "url": "https://www.semanticscholar.org/paper/697fff60132fe44db0eca322f7cd462e872e3555"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "240b073e3f5198f1f4a52498c11e3eda7e8712f9", 
+      "title": "Analysis of Coreference Relations in the Biomedical Literature", 
+      "url": "https://www.semanticscholar.org/paper/240b073e3f5198f1f4a52498c11e3eda7e8712f9"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "d927152ff32707af5b2770700cd7cd2d8c89d399", 
+      "title": "Overview of the Entity Relations (REL) supporting task of BioNLP Shared Task 2011", 
+      "url": "https://www.semanticscholar.org/paper/d927152ff32707af5b2770700cd7cd2d8c89d399"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "1057851418d9b90e506fd81f4c09aeca2048dbeb", 
+      "title": "Towards Exhaustive Event Extraction for Protein Modifications", 
+      "url": "https://www.semanticscholar.org/paper/1057851418d9b90e506fd81f4c09aeca2048dbeb"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "1de33bae3f586816dba6ffafcdffde264d7eeb6f", 
+      "title": "BioCause: Annotating and analysing causality in the biomedical domain", 
+      "url": "https://www.semanticscholar.org/paper/1de33bae3f586816dba6ffafcdffde264d7eeb6f"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "b0b687e62f52ca5ede6bb6d3a5b82f3f08a0bb9c", 
+      "title": "TEES 2.1: Automated Annotation Scheme Learning in the BioNLP 2013 Shared Task", 
+      "url": "https://www.semanticscholar.org/paper/b0b687e62f52ca5ede6bb6d3a5b82f3f08a0bb9c"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "52bdf7d7892b1ddff22c31426522dc1fc3fa6e85", 
+      "title": "Learning Biological Processes with Global Constraints", 
+      "url": "https://www.semanticscholar.org/paper/52bdf7d7892b1ddff22c31426522dc1fc3fa6e85"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "84d6099e7e8c57b63989379bf90fbc16989999b1", 
+      "title": "Integrating Coreference Resolution for BEL Statement Generation", 
+      "url": "https://www.semanticscholar.org/paper/84d6099e7e8c57b63989379bf90fbc16989999b1"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "62a40b1224f81af506a950ed0c5a574d18510b35", 
+      "title": "Medical Event Extraction using Frame Semantics - Challenges and Opportunities", 
+      "url": "https://www.semanticscholar.org/paper/62a40b1224f81af506a950ed0c5a574d18510b35"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "9a6e65c62578b1277a194704a1b13f46393d2477", 
+      "title": "BioNLP 2013", 
+      "url": "https://www.semanticscholar.org/paper/9a6e65c62578b1277a194704a1b13f46393d2477"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "328663b377a569c66b3274ed74137e69659df717", 
+      "title": "Expose\u0301 for Diploma Thesis Joint Extraction of Proteins and Bio-Molecular Events using Imperatively Defined Factor Graphs", 
+      "url": "https://www.semanticscholar.org/paper/328663b377a569c66b3274ed74137e69659df717"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "1005df00b5e26247af12e73d52ee3d932cd20e5f", 
+      "title": "LABDA at the 2016 BioASQ challenge task 4a: Semantic Indexing by using ElasticSearch", 
+      "url": "https://www.semanticscholar.org/paper/1005df00b5e26247af12e73d52ee3d932cd20e5f"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "8015df66ef0ad4303355f5142e6aae0774528788", 
+      "title": "Predicting Future Scientific Discoveries Based on a Networked Analysis of the Past Literature", 
+      "url": "https://www.semanticscholar.org/paper/8015df66ef0ad4303355f5142e6aae0774528788"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "0a4b7b1ab406d22fbdc5460f36dfd1c5ddbf62cd", 
+      "title": "An analysis of gene/protein associations at PubMed scale", 
+      "url": "https://www.semanticscholar.org/paper/0a4b7b1ab406d22fbdc5460f36dfd1c5ddbf62cd"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "552430567941100b1700059fa6ad2c8c9d4c3fa9", 
+      "title": "VERSE: Event and Relation Extraction in the BioNLP 2016 Shared Task", 
+      "url": "https://www.semanticscholar.org/paper/552430567941100b1700059fa6ad2c8c9d4c3fa9"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "41a34945f301ed6c39cf28f108de9215426b03c6", 
+      "title": "Mining the pharmacogenomics literature - a survey of the state of the art", 
+      "url": "https://www.semanticscholar.org/paper/41a34945f301ed6c39cf28f108de9215426b03c6"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "79b27ccd69e4fe5dcc91129ecabbf8d0ce89e336", 
+      "title": "Building A Contrasting Taxa Extractor for Relation Identification from Assertions: BIOlogical Taxonomy & Ontology Phrase Extraction System", 
+      "url": "https://www.semanticscholar.org/paper/79b27ccd69e4fe5dcc91129ecabbf8d0ce89e336"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "07fe26f10ab2eb7ba7ad7df5096813c949dcabc9", 
+      "title": "Fast and Robust Joint Models for Biomedical Event Extraction", 
+      "url": "https://www.semanticscholar.org/paper/07fe26f10ab2eb7ba7ad7df5096813c949dcabc9"
+    }, 
+    {
+      "isInfluential": true, 
+      "paperId": "1ca96a40f256ff6b4ef59f74d90284a4f8abda10", 
+      "title": "Adapting a General Semantic Interpretation Approach to Biological Event Extraction", 
+      "url": "https://www.semanticscholar.org/paper/1ca96a40f256ff6b4ef59f74d90284a4f8abda10"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "57bda802a08680793aefd713fca1f97067817c40", 
+      "title": "Performance and limitations of the linguistically motivated Cocoa/Peaberry system in a broad biological domain.", 
+      "url": "https://www.semanticscholar.org/paper/57bda802a08680793aefd713fca1f97067817c40"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "0dc862df222f36c3894eb09970231d8f98bc6319", 
+      "title": "CheNER: a tool for the identification of chemical entities and their classes in biomedical literature", 
+      "url": "https://www.semanticscholar.org/paper/0dc862df222f36c3894eb09970231d8f98bc6319"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "565d93118ee53eca946f6ad97078936c4e65cf44", 
+      "title": "Double Layered Learning for Biological Event Extraction from Text", 
+      "url": "https://www.semanticscholar.org/paper/565d93118ee53eca946f6ad97078936c4e65cf44"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "f229a9548ec4dd10302d5de4ca4d7cbb0d2bfa6a", 
+      "title": "From Pathways to Biomolecular Events: Opportunities and Challenges", 
+      "url": "https://www.semanticscholar.org/paper/f229a9548ec4dd10302d5de4ca4d7cbb0d2bfa6a"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "28f89738d8bac6e27baff46b05dc2d46937c185e", 
+      "title": "Approximate Subgraph Matching-Based Literature Mining for Biomedical Events and Relations", 
+      "url": "https://www.semanticscholar.org/paper/28f89738d8bac6e27baff46b05dc2d46937c185e"
+    }, 
+    {
+      "isInfluential": true, 
+      "paperId": "391c00495de723dd459e9834c8af0a353fe44b92", 
+      "title": "Boosting automatic event extraction from the literature using domain adaptation and coreference resolution", 
+      "url": "https://www.semanticscholar.org/paper/391c00495de723dd459e9834c8af0a353fe44b92"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "7bd885c184c8011485ed698869c4ce2b49c99c11", 
+      "title": "Text Mining of Protein Phosphorylation Information Using a Generalizable Rule-Based Approach", 
+      "url": "https://www.semanticscholar.org/paper/7bd885c184c8011485ed698869c4ce2b49c99c11"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "4015b1c470f0f5624a1469014c5272e6dd15c7c7", 
+      "title": "Extracting Biological Pathway Models From NLP Event Representations", 
+      "url": "https://www.semanticscholar.org/paper/4015b1c470f0f5624a1469014c5272e6dd15c7c7"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "e694e352fad3b37ede96d8212619b8e25228436a", 
+      "title": "Semantic querying over knowledge in biomedical text corpora annotated with multiple ontologies", 
+      "url": "https://www.semanticscholar.org/paper/e694e352fad3b37ede96d8212619b8e25228436a"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "5cac2094517490fc2cd9aa4276a64d72aaf67f46", 
+      "title": "Event Extraction as Dependency Parsing for BioNLP 2011", 
+      "url": "https://www.semanticscholar.org/paper/5cac2094517490fc2cd9aa4276a64d72aaf67f46"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "5a52857892e15cf4bb0ae2ee452db0c697206af0", 
+      "title": "A corpus of full-text journal articles is a robust evaluation tool for revealing differences in performance of biomedical natural language processing tools", 
+      "url": "https://www.semanticscholar.org/paper/5a52857892e15cf4bb0ae2ee452db0c697206af0"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "39cd4639e724523fe517c18df87a3daa20814799", 
+      "title": "Knowledge-based extraction of adverse drug events from biomedical text", 
+      "url": "https://www.semanticscholar.org/paper/39cd4639e724523fe517c18df87a3daa20814799"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "2db9761916954bee7f1fb9c8647aba23aaa5303e", 
+      "title": "Integrating Large-Scale Text Mining and Co-Expression Networks: Targeting NADP(H) Metabolism in E. coli with Event Extraction", 
+      "url": "https://www.semanticscholar.org/paper/2db9761916954bee7f1fb9c8647aba23aaa5303e"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "3e4b678aa140be3a3a0703b32cc4556e07d85528", 
+      "title": "Relation Annotation for Understanding Research Papers", 
+      "url": "https://www.semanticscholar.org/paper/3e4b678aa140be3a3a0703b32cc4556e07d85528"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "6feae62b4c1b0fdbae369a8c590fb0f2408bd4e6", 
+      "title": "Recent Advances and Emerging Applications in Text and Data Mining for Biomedical Discovery", 
+      "url": "https://www.semanticscholar.org/paper/6feae62b4c1b0fdbae369a8c590fb0f2408bd4e6"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "000f7632edc046869388b9537eecc5d89258ee0a", 
+      "title": "Optimizing graph-based patterns to extract biomedical events from the literature", 
+      "url": "https://www.semanticscholar.org/paper/000f7632edc046869388b9537eecc5d89258ee0a"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "e3f92a378a12e2a2b1b3e7bfd5dd62fd5e5d0e0d", 
+      "title": "Event-based text mining for biology and functional genomics", 
+      "url": "https://www.semanticscholar.org/paper/e3f92a378a12e2a2b1b3e7bfd5dd62fd5e5d0e0d"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "b8472b394125768bb53615cc53cb2ef1ae38b112", 
+      "title": "Overview of the Infectious Diseases (ID) task of BioNLP Shared Task 2011", 
+      "url": "https://www.semanticscholar.org/paper/b8472b394125768bb53615cc53cb2ef1ae38b112"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "7f8d30af4db76d4d73b96fdbf794da36fe7af97a", 
+      "title": "OntoGene web services for biomedical text mining", 
+      "url": "https://www.semanticscholar.org/paper/7f8d30af4db76d4d73b96fdbf794da36fe7af97a"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "6ea2fb558f085b486719a32b7ee4083eb553df95", 
+      "title": "Relieving the Computational Bottleneck: Joint Inference for Event Extraction with High-Dimensional Features", 
+      "url": "https://www.semanticscholar.org/paper/6ea2fb558f085b486719a32b7ee4083eb553df95"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "92b98cc109f8e529b9d6a60b612fbc9b4100a71f", 
+      "title": "BioC interoperability track overview", 
+      "url": "https://www.semanticscholar.org/paper/92b98cc109f8e529b9d6a60b612fbc9b4100a71f"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "a718eb7da205fd86c80e5a04d86b558695497b23", 
+      "title": "Biomolecular Event Extraction using a Stacked Generalization based Classifier", 
+      "url": "https://www.semanticscholar.org/paper/a718eb7da205fd86c80e5a04d86b558695497b23"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "6721970a4075e17bd721bbb43a480d46a3033e0c", 
+      "title": "BelSmile: a biomedical semantic role labeling approach for extracting biological expression language from text", 
+      "url": "https://www.semanticscholar.org/paper/6721970a4075e17bd721bbb43a480d46a3033e0c"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "feeedbbd701aa1421d74a8bb4b2ef1644f14c77d", 
+      "title": "Generalizing an Approximate Subgraph Matching-based System to Extract Events in Molecular Biology and Cancer Genetics", 
+      "url": "https://www.semanticscholar.org/paper/feeedbbd701aa1421d74a8bb4b2ef1644f14c77d"
+    }, 
+    {
+      "isInfluential": true, 
+      "paperId": "735938a7abc55aadad1cafd1c30139d2282a4eaf", 
+      "title": "Evaluating Large-scale Text Mining Applications Beyond the Traditional Numeric Performance Measures", 
+      "url": "https://www.semanticscholar.org/paper/735938a7abc55aadad1cafd1c30139d2282a4eaf"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "63fcd05c76049a5c1dfa0cb91eb68baf719cf7c0", 
+      "title": "Making the most of limited training data using distant supervision", 
+      "url": "https://www.semanticscholar.org/paper/63fcd05c76049a5c1dfa0cb91eb68baf719cf7c0"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "df12bfa33b58e933b57fcd7eeca3acd1e7e2581f", 
+      "title": "Event Extraction from Biomedical Literature", 
+      "url": "https://www.semanticscholar.org/paper/df12bfa33b58e933b57fcd7eeca3acd1e7e2581f"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "dad1aa8f90e0aec57abe4937ec686c32a9e3baa2", 
+      "title": "Event-centric Document Similarity for Biomedical Literature", 
+      "url": "https://www.semanticscholar.org/paper/dad1aa8f90e0aec57abe4937ec686c32a9e3baa2"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "8141f08f9239ea963da10381eaa2c953395cdbe7", 
+      "title": "The contribution of co-reference resolution to supervised relation detection between bacteria and biotopes entities", 
+      "url": "https://www.semanticscholar.org/paper/8141f08f9239ea963da10381eaa2c953395cdbe7"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "743e12c46ad5e4ec2ce59df075caef816c76063b", 
+      "title": "Biological network evaluation and relation discovery from scientific literature", 
+      "url": "https://www.semanticscholar.org/paper/743e12c46ad5e4ec2ce59df075caef816c76063b"
+    }, 
+    {
+      "isInfluential": true, 
+      "paperId": "5664f8d9ab62cfa005386125740377b862da5853", 
+      "title": "Exploring Biomolecular Literature with EVEX: Connecting Genes through Events, Homology, and Indirect Associations", 
+      "url": "https://www.semanticscholar.org/paper/5664f8d9ab62cfa005386125740377b862da5853"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "727f6f3dc031a7afd1dabce0976fcc55909104d4", 
+      "title": "Automatic query generation using word embeddings for retrieving passages describing experimental methods", 
+      "url": "https://www.semanticscholar.org/paper/727f6f3dc031a7afd1dabce0976fcc55909104d4"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "bee16e2cfd7ac41b55e6fcd3553cd84068fd8326", 
+      "title": "Automatic recognition of conceptualization zones in scientific articles and two life science applications", 
+      "url": "https://www.semanticscholar.org/paper/bee16e2cfd7ac41b55e6fcd3553cd84068fd8326"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "e39814eb74766a34202493999381bb3ca337f1b8", 
+      "title": "Biological network extraction from scientific literature: state of the art and challenges", 
+      "url": "https://www.semanticscholar.org/paper/e39814eb74766a34202493999381bb3ca337f1b8"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "d4dda3153a59f9e54d11e8d8321402b0bbaecd55", 
+      "title": "New Resources and Perspectives for Biomedical Event Extraction", 
+      "url": "https://www.semanticscholar.org/paper/d4dda3153a59f9e54d11e8d8321402b0bbaecd55"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "7ca30de325fdc2cf5d3cc1751746fe3ec0cca17d", 
+      "title": "Automated Neuroanatomical Relation Extraction: A Linguistically Motivated Approach with a PVT Connectivity Graph Case Study", 
+      "url": "https://www.semanticscholar.org/paper/7ca30de325fdc2cf5d3cc1751746fe3ec0cca17d"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "64c5453c6ef8a53a750bd2daa0b7b381caba2181", 
+      "title": "\u201cOut of the Box\u201d Information Extraction: a Case Study using Bio-Medical Texts", 
+      "url": "https://www.semanticscholar.org/paper/64c5453c6ef8a53a750bd2daa0b7b381caba2181"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "b519439f0777142c02d675647ca7c04d36cbc41b", 
+      "title": "Predicting Conjunct Propagation and Other Extended Stanford Dependencies", 
+      "url": "https://www.semanticscholar.org/paper/b519439f0777142c02d675647ca7c04d36cbc41b"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "ddf4e591bbd85a0c84b6e466ceee8798744a4bb3", 
+      "title": "A Novel Sample Selection Strategy for Imbalanced Data of Biomedical Event Extraction with Joint Scoring Mechanism", 
+      "url": "https://www.semanticscholar.org/paper/ddf4e591bbd85a0c84b6e466ceee8798744a4bb3"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "13c32467dfef41c3f448f3bdbc90fb83b2591afe", 
+      "title": "A review on computational systems biology of pathogen\u2013host interactions", 
+      "url": "https://www.semanticscholar.org/paper/13c32467dfef41c3f448f3bdbc90fb83b2591afe"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "076c2e290c6008f93283e8602dcf72adb67577b2", 
+      "title": "Toward knowledge support for analysis and interpretation of complex traits", 
+      "url": "https://www.semanticscholar.org/paper/076c2e290c6008f93283e8602dcf72adb67577b2"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "0000fbac5b40987eb17d6db3f7003633acb0eddb", 
+      "title": "Learning Efficient Information Extraction on Heterogeneous Texts", 
+      "url": "https://www.semanticscholar.org/paper/0000fbac5b40987eb17d6db3f7003633acb0eddb"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "30f8ddae9e2c8b4b5ea2a472ec170ac8d9ea2ade", 
+      "title": "Literature mining of protein-residue associations with graph rules learned through distant supervision", 
+      "url": "https://www.semanticscholar.org/paper/30f8ddae9e2c8b4b5ea2a472ec170ac8d9ea2ade"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "75d45d41a130e9ba1259a6144b5758a8f8855678", 
+      "title": "SeeDev Binary Event Extraction using SVMs and a Rich Feature Set", 
+      "url": "https://www.semanticscholar.org/paper/75d45d41a130e9ba1259a6144b5758a8f8855678"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "083ea7e7e442ba18c912c1be28aab5e36b2b5b8f", 
+      "title": "A Dataset for ICD-10 Coding of Death Certificates: Creation and Usage", 
+      "url": "https://www.semanticscholar.org/paper/083ea7e7e442ba18c912c1be28aab5e36b2b5b8f"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "962d13fddc38083b3480f5033bfc87cea8359d52", 
+      "title": "An Overview of Biomolecular Event Extraction from Scientific Documents", 
+      "url": "https://www.semanticscholar.org/paper/962d13fddc38083b3480f5033bfc87cea8359d52"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "e3f29560851e1de1e0fbd6d51bdee334fbb57db6", 
+      "title": "A Novel Feature Selection Strategy for Enhanced Biomedical Event Extraction Using the Turku System", 
+      "url": "https://www.semanticscholar.org/paper/e3f29560851e1de1e0fbd6d51bdee334fbb57db6"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "23d61f1489539120f851cbdfdceb7e349791094d", 
+      "title": "Information extraction as a filtering task", 
+      "url": "https://www.semanticscholar.org/paper/23d61f1489539120f851cbdfdceb7e349791094d"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "5a170cac2ef111d171b7eb74616762cc731a3906", 
+      "title": "Meta-Knowledge Annotation at the Event Level: Comparison between Abstracts and Full Papers", 
+      "url": "https://www.semanticscholar.org/paper/5a170cac2ef111d171b7eb74616762cc731a3906"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "88a38c33d2207524e3c42203f46c2fd2e77edd49", 
+      "title": "Overview of the Epigenetics and Post-translational Modifications (EPI) task of BioNLP Shared Task 2011", 
+      "url": "https://www.semanticscholar.org/paper/88a38c33d2207524e3c42203f46c2fd2e77edd49"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "950fb9a17c8fa7feedc012c9da0ffe7aad8dd166", 
+      "title": "Complex Biological Event Extraction from Full Text using Signatures of Linguistic and Semantic Features", 
+      "url": "https://www.semanticscholar.org/paper/950fb9a17c8fa7feedc012c9da0ffe7aad8dd166"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "1dde23b7126910acd2c05510fbf59a1b9a74326d", 
+      "title": "Constructing a semantic predication gold standard from the biomedical literature", 
+      "url": "https://www.semanticscholar.org/paper/1dde23b7126910acd2c05510fbf59a1b9a74326d"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "2562f12070323d0207ee036944e52f51828c593c", 
+      "title": "A detailed error analysis of 13 kernel methods for protein\u2013protein interaction extraction", 
+      "url": "https://www.semanticscholar.org/paper/2562f12070323d0207ee036944e52f51828c593c"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "2ad3b9d7f03a6382fa3577a285d62946a5703820", 
+      "title": "Learning to Automatically Solve Logic Grid Puzzles", 
+      "url": "https://www.semanticscholar.org/paper/2ad3b9d7f03a6382fa3577a285d62946a5703820"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "2b5aadb2586707433beb21121677289d196e6144", 
+      "title": "brat: a Web-based Tool for NLP-Assisted Text Annotation", 
+      "url": "https://www.semanticscholar.org/paper/2b5aadb2586707433beb21121677289d196e6144"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "71dcfc7dbb20ac772fd01bf2e4c6cac4fbf0b926", 
+      "title": "Inducing Context Gazetteers from Encyclopedic Databases for Named Entity Recognition", 
+      "url": "https://www.semanticscholar.org/paper/71dcfc7dbb20ac772fd01bf2e4c6cac4fbf0b926"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "2a4604f550ab0cd8027d4f3f968112fba3ae2c44", 
+      "title": "ASM Kernel: Graph Kernel using Approximate Subgraph Matching for Relation Extraction", 
+      "url": "https://www.semanticscholar.org/paper/2a4604f550ab0cd8027d4f3f968112fba3ae2c44"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "d4ef5a32c24cec600b8918370a79347424b7a138", 
+      "title": "Hybrid methods for ICD-10 coding of death certificates", 
+      "url": "https://www.semanticscholar.org/paper/d4ef5a32c24cec600b8918370a79347424b7a138"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "2df4c7474d62278606b298492dd20e07fe5e7ae7", 
+      "title": "Using Kybots for Extracting Events in Biomedical Texts", 
+      "url": "https://www.semanticscholar.org/paper/2df4c7474d62278606b298492dd20e07fe5e7ae7"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "18316530dc2966fc025a3384979b98547b1bc72e", 
+      "title": "CoMAGC: a corpus with multi-faceted annotations of gene-cancer relations", 
+      "url": "https://www.semanticscholar.org/paper/18316530dc2966fc025a3384979b98547b1bc72e"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "bb71578e27892529a6d6e71f09df65316027dd62", 
+      "title": "TrigNER: automatically optimized biomedical event trigger recognition on scientific documents", 
+      "url": "https://www.semanticscholar.org/paper/bb71578e27892529a6d6e71f09df65316027dd62"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "5edd74a7d50d5b4a7fcffeee6eb0e6749a114a10", 
+      "title": "BioNLP Shared Task 2011: Supporting Resources", 
+      "url": "https://www.semanticscholar.org/paper/5edd74a7d50d5b4a7fcffeee6eb0e6749a114a10"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "04e32f07dfc391828d0d146c57fa282ea944665a", 
+      "title": "Improving Feature-Based Biomedical Event Extraction System by Integrating Argument Information", 
+      "url": "https://www.semanticscholar.org/paper/04e32f07dfc391828d0d146c57fa282ea944665a"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "5ce23838dd9020108aca9a54a6bcd4abcc107e50", 
+      "title": "Overview of the Bacteria Biotope Task at BioNLP Shared Task 2016", 
+      "url": "https://www.semanticscholar.org/paper/5ce23838dd9020108aca9a54a6bcd4abcc107e50"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "1713699a05cb53d1db3f25673a6b4d4d9710ad1b", 
+      "title": "An integrated text mining framework for metabolic interaction network reconstruction", 
+      "url": "https://www.semanticscholar.org/paper/1713699a05cb53d1db3f25673a6b4d4d9710ad1b"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "6396ab37641d36be4c26420e58adeb8665914c3b", 
+      "title": "Modeling Biological Processes for Reading Comprehension", 
+      "url": "https://www.semanticscholar.org/paper/6396ab37641d36be4c26420e58adeb8665914c3b"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "b0195c3792864b44fd99dbea87dd9226d6eab9b2", 
+      "title": "Modeling human newspaper readers: The Fuzzy Believer approach", 
+      "url": "https://www.semanticscholar.org/paper/b0195c3792864b44fd99dbea87dd9226d6eab9b2"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "2c468f4ae49218a3ddcd688f604b7c4970bef885", 
+      "title": "Robust Biomedical Event Extraction with Dual Decomposition and Minimal Domain Adaptation", 
+      "url": "https://www.semanticscholar.org/paper/2c468f4ae49218a3ddcd688f604b7c4970bef885"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "ca5d66d906555e93c064ca6aa1f39b9ad8e3b405", 
+      "title": "Ranking of Disease Gene Associations from large Corpora of Scientific Publications", 
+      "url": "https://www.semanticscholar.org/paper/ca5d66d906555e93c064ca6aa1f39b9ad8e3b405"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "8955186c6000decdf713acf1423468df50f427e1", 
+      "title": "Overview of the Cancer Genetics (CG) task of BioNLP Shared Task 2013", 
+      "url": "https://www.semanticscholar.org/paper/8955186c6000decdf713acf1423468df50f427e1"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "63c538b6e80584a8551d3cd0b136c087b5deef3c", 
+      "title": "Event Extraction in pieces:Tackling the partial event identification problem on unseen corpora", 
+      "url": "https://www.semanticscholar.org/paper/63c538b6e80584a8551d3cd0b136c087b5deef3c"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "67650376769aabd43c17de366f96a58961d8d7e0", 
+      "title": "Biomedical Text Mining: A Survey of Recent Progress", 
+      "url": "https://www.semanticscholar.org/paper/67650376769aabd43c17de366f96a58961d8d7e0"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "97c9b4ef33af9d084996c7a93c8dc520d56fc925", 
+      "title": "Generalizing Biomedical Event Extraction", 
+      "url": "https://www.semanticscholar.org/paper/97c9b4ef33af9d084996c7a93c8dc520d56fc925"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "15f4a102618bc228b2e10ed7a620734424cc2680", 
+      "title": "Detection and categorization of bacteria habitats using shallow linguistic analysis", 
+      "url": "https://www.semanticscholar.org/paper/15f4a102618bc228b2e10ed7a620734424cc2680"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "6e633eeb9075db007110dfa55592dd86290957dd", 
+      "title": "Bag of What? Simple Noun Phrase Extraction for Text Analysis", 
+      "url": "https://www.semanticscholar.org/paper/6e633eeb9075db007110dfa55592dd86290957dd"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "1341a7ea84ed0d718707c60323a0770e8651c654", 
+      "title": "Biomedical Event Extraction by Multi-class Classification of Pairs of Text Entities", 
+      "url": "https://www.semanticscholar.org/paper/1341a7ea84ed0d718707c60323a0770e8651c654"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "fd5b4f797948ffdeea02ea627d248e6ddd330c5a", 
+      "title": "A New Framework for Domain Adaptation without Model Retraining", 
+      "url": "https://www.semanticscholar.org/paper/fd5b4f797948ffdeea02ea627d248e6ddd330c5a"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "16d778295efe0f4c2bfac2ae37f7223d316ed9eb", 
+      "title": "From Graphs to Events: A Subgraph Matching Approach for Information Extraction from Biomedical Text", 
+      "url": "https://www.semanticscholar.org/paper/16d778295efe0f4c2bfac2ae37f7223d316ed9eb"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "9519b848d8a7d2afdc934db1d543c15c8b1123ba", 
+      "title": "Large-Scale Event Extraction from Literature with Multi-Level Gene Normalization", 
+      "url": "https://www.semanticscholar.org/paper/9519b848d8a7d2afdc934db1d543c15c8b1123ba"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "627934426366b7cb3f240003dd91513dec3d0fcb", 
+      "title": "PubMed-Scale Event Extraction for Post-Translational Modifications, Epigenetics and Protein Structural Relations", 
+      "url": "https://www.semanticscholar.org/paper/627934426366b7cb3f240003dd91513dec3d0fcb"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "066685ff36bfa1171a80291d537a091f1dd182b7", 
+      "title": "Biomedical entity extraction using machine-learning based approaches", 
+      "url": "https://www.semanticscholar.org/paper/066685ff36bfa1171a80291d537a091f1dd182b7"
+    }
+  ], 
+  "doi": null, 
+  "influentialCitationCount": 4, 
+  "paperId": "15182c6e680c7543f445bbe8de449afa912eacd4", 
+  "references": [
+    {
+      "isInfluential": false, 
+      "paperId": "2c146a4ec3578f951e895d6c2fe3386860433f0b", 
+      "title": "SemEval-2010 Task 8: Multi-Way Classification of Semantic Relations between Pairs of Nominals", 
+      "url": "https://www.semanticscholar.org/paper/2c146a4ec3578f951e895d6c2fe3386860433f0b"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "2b1b9563613470e3b0c63f6e6f47443376f5deae", 
+      "title": "Named Entity Recognition for Bacterial Type IV Secretion Systems", 
+      "url": "https://www.semanticscholar.org/paper/2b1b9563613470e3b0c63f6e6f47443376f5deae"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "407435afd7cd3f7637365395e07a19cc9171831d", 
+      "title": "BioNLP Shared Task 2011 - Bacteria Biotope", 
+      "url": "https://www.semanticscholar.org/paper/407435afd7cd3f7637365395e07a19cc9171831d"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "d927152ff32707af5b2770700cd7cd2d8c89d399", 
+      "title": "Overview of the Entity Relations (REL) supporting task of BioNLP Shared Task 2011", 
+      "url": "https://www.semanticscholar.org/paper/d927152ff32707af5b2770700cd7cd2d8c89d399"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "00248a60f905f49c451e106ee6647823e9359e6c", 
+      "title": "Overview of Genia Event Task in BioNLP Shared Task 2011", 
+      "url": "https://www.semanticscholar.org/paper/00248a60f905f49c451e106ee6647823e9359e6c"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "b8472b394125768bb53615cc53cb2ef1ae38b112", 
+      "title": "Overview of the Infectious Diseases (ID) task of BioNLP Shared Task 2011", 
+      "url": "https://www.semanticscholar.org/paper/b8472b394125768bb53615cc53cb2ef1ae38b112"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "43a61c5228acc58a776b00411105f854f9da2331", 
+      "title": "Coreference Resolution in Biomedical Texts: a Machine Learning Approach", 
+      "url": "https://www.semanticscholar.org/paper/43a61c5228acc58a776b00411105f854f9da2331"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "48685f26b32d199e6a4d80f6c61e62cc9738e403", 
+      "title": "Two Strong Baselines for the BioNLP 2009 Event Extraction Task", 
+      "url": "https://www.semanticscholar.org/paper/48685f26b32d199e6a4d80f6c61e62cc9738e403"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "ad79e22049992249b564ef51a1a3e1653c386460", 
+      "title": "Event extraction for systems biology by text mining the literature.", 
+      "url": "https://www.semanticscholar.org/paper/ad79e22049992249b564ef51a1a3e1653c386460"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "7d9683ea8ef504f2c3b63e9347beb8debe5408cb", 
+      "title": "BioNLP Shared Task 2011 \u2013 Bacteria Gene Interactions and Renaming", 
+      "url": "https://www.semanticscholar.org/paper/7d9683ea8ef504f2c3b63e9347beb8debe5408cb"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "5edd74a7d50d5b4a7fcffeee6eb0e6749a114a10", 
+      "title": "BioNLP Shared Task 2011: Supporting Resources", 
+      "url": "https://www.semanticscholar.org/paper/5edd74a7d50d5b4a7fcffeee6eb0e6749a114a10"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "f1ae781dfe425c8026a20dbb474770b696cfb172", 
+      "title": "Complex event extraction at PubMed scale", 
+      "url": "https://www.semanticscholar.org/paper/f1ae781dfe425c8026a20dbb474770b696cfb172"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "2281398b8127adcedbdd70342d64c2fe6b3cceac", 
+      "title": "Extracting synonymous gene and protein terms from biological literature", 
+      "url": "https://www.semanticscholar.org/paper/2281398b8127adcedbdd70342d64c2fe6b3cceac"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "62af7a0d0ab4b53e7c2230c3eebd7ef0521b61dc", 
+      "title": "Towards Event Extraction from Full Texts on Infectious Diseases", 
+      "url": "https://www.semanticscholar.org/paper/62af7a0d0ab4b53e7c2230c3eebd7ef0521b61dc"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "bb13eb440c38db3afacad04ae60ec37525890239", 
+      "title": "Syntax Annotation for the GENIA Corpus", 
+      "url": "https://www.semanticscholar.org/paper/bb13eb440c38db3afacad04ae60ec37525890239"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "3269d8a68411eb85d71a903730253aacc89c1aea", 
+      "title": "The Protein Information Resource", 
+      "url": "https://www.semanticscholar.org/paper/3269d8a68411eb85d71a903730253aacc89c1aea"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "0c89ebcdc082d53c3e296951c584deeffe5d784e", 
+      "title": "Corpus annotation for mining biomedical events from literature", 
+      "url": "https://www.semanticscholar.org/paper/0c89ebcdc082d53c3e296951c584deeffe5d784e"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "195cde8b7ecce1eca96b06602a193701e58a5cab", 
+      "title": "Overview of BioNLP\u201909 Shared Task on Event Extraction", 
+      "url": "https://www.semanticscholar.org/paper/195cde8b7ecce1eca96b06602a193701e58a5cab"
+    }
+  ], 
+  "title": "Overview of BioNLP Shared Task 2011", 
+  "url": "https://www.semanticscholar.org/paper/15182c6e680c7543f445bbe8de449afa912eacd4", 
+  "venue": ""
+}

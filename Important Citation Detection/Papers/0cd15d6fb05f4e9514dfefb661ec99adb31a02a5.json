@@ -1,0 +1,717 @@
+{
+  "authors": [
+    {
+      "authorId": "5036702", 
+      "name": "Brian Edward Roark", 
+      "url": "https://www.semanticscholar.org/author/5036702"
+    }
+  ], 
+  "citationVelocity": 0, 
+  "citations": [
+    {
+      "isInfluential": false, 
+      "paperId": "ffea7f0fd89dc940107cdf94f7decfcc42315c67", 
+      "title": "A Neural Syntactic Language Model", 
+      "url": "https://www.semanticscholar.org/paper/ffea7f0fd89dc940107cdf94f7decfcc42315c67", 
+      "venue": "Machine Learning", 
+      "year": 2005
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "2099818ee725771f033e987b92272d368a491a55", 
+      "title": "Using Random Forests in the Structured Language Model", 
+      "url": "https://www.semanticscholar.org/paper/2099818ee725771f033e987b92272d368a491a55", 
+      "venue": "NIPS", 
+      "year": 2004
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "3dd84d87615ab472c9999fbaa6f7c98d641c283d", 
+      "title": "Incremental Semantics for Dialogue Processing: Requirements, and a Comparison of Two Approaches", 
+      "url": "https://www.semanticscholar.org/paper/3dd84d87615ab472c9999fbaa6f7c98d641c283d", 
+      "venue": "IWCS", 
+      "year": 2015
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "8983e466a19a67c75a70d09dbd40ffc18297dfc5", 
+      "title": "Language Modeling Using Efficient Best-first Bottom-up Parsing", 
+      "url": "https://www.semanticscholar.org/paper/8983e466a19a67c75a70d09dbd40ffc18297dfc5", 
+      "venue": "", 
+      "year": 2003
+    }, 
+    {
+      "isInfluential": true, 
+      "paperId": "687c537e55c05353985144e3e72bbd02dcdfe19c", 
+      "title": "Joint Satisfaction of Syntactic and Pragmatic Constraints Improves Incremental Spoken Language Understanding", 
+      "url": "https://www.semanticscholar.org/paper/687c537e55c05353985144e3e72bbd02dcdfe19c", 
+      "venue": "EACL", 
+      "year": 2012
+    }, 
+    {
+      "isInfluential": true, 
+      "paperId": "203aab49b723e8a080588cef2021a367a39259ef", 
+      "title": "Induction of Greedy Controllers for Deterministic Treebank Parsers", 
+      "url": "https://www.semanticscholar.org/paper/203aab49b723e8a080588cef2021a367a39259ef", 
+      "venue": "EMNLP", 
+      "year": 2004
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "9c81188d46522a71a77c48686b7a9b0d97350cf1", 
+      "title": "Top-down Tree Long Short-Term Memory Networks", 
+      "url": "https://www.semanticscholar.org/paper/9c81188d46522a71a77c48686b7a9b0d97350cf1", 
+      "venue": "HLT-NAACL", 
+      "year": 2016
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "93e208bdf51ac478b6eacd420d8a5dfce096c6ef", 
+      "title": "Left-corner Transitions on Dependency Parsing", 
+      "url": "https://www.semanticscholar.org/paper/93e208bdf51ac478b6eacd420d8a5dfce096c6ef", 
+      "venue": "COLING", 
+      "year": 2014
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "3f39499cebc839479bb6c52bd44bab0fec78f8e3", 
+      "title": "Phonetically aided syntactic parsing of spoken language", 
+      "url": "https://www.semanticscholar.org/paper/3f39499cebc839479bb6c52bd44bab0fec78f8e3", 
+      "venue": "KONVENS", 
+      "year": 2012
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "3bb45466dfb9770e706d1e63205e266e7761f915", 
+      "title": "Training Connectionist Models For The Structured Language Model", 
+      "url": "https://www.semanticscholar.org/paper/3bb45466dfb9770e706d1e63205e266e7761f915", 
+      "venue": "", 
+      "year": 2003
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "423bb31072c8a4151520df3c3e8cf44dc9ebe29c", 
+      "title": "Comparing Local and Sequential Models for Statistical Incremental Natural Language Understanding", 
+      "url": "https://www.semanticscholar.org/paper/423bb31072c8a4151520df3c3e8cf44dc9ebe29c", 
+      "venue": "SIGDIAL Conference", 
+      "year": 2010
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "48555d2cf443a90f4ed63c44281f5e81b7815c5c", 
+      "title": "Incremental Construction of Robust but Deep Semantic Representations for Use in Responsive Dialogue Systems", 
+      "url": "https://www.semanticscholar.org/paper/48555d2cf443a90f4ed63c44281f5e81b7815c5c", 
+      "venue": "", 
+      "year": 2012
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "43cd81482dc12cd4437fbe2d3ce31ec710da1875", 
+      "title": "Left-corner Methods for Syntactic Modeling with Universal Structural Constraints", 
+      "url": "https://www.semanticscholar.org/paper/43cd81482dc12cd4437fbe2d3ce31ec710da1875", 
+      "venue": "ArXiv", 
+      "year": 2016
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "52c0860868f488f2f6c823a1c375b24fbd9855a3", 
+      "title": "Syntactic Surprisal Affects Spoken Word Duration in Conversational Contexts", 
+      "url": "https://www.semanticscholar.org/paper/52c0860868f488f2f6c823a1c375b24fbd9855a3", 
+      "venue": "EMNLP-CoNLL", 
+      "year": 2012
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "7a0d6b4ff7ff3824617912f95a2f52c8955aca9a", 
+      "title": "In-Order Transition-based Constituent Parsing", 
+      "url": "https://www.semanticscholar.org/paper/7a0d6b4ff7ff3824617912f95a2f52c8955aca9a", 
+      "venue": "ArXiv", 
+      "year": 2017
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "f37cba27c325af151a3d6ae87e9f0d7e6d49e491", 
+      "title": "The INPROTK 2012 Release: A Toolkit for Incremental Spoken Dialogue Processing", 
+      "url": "https://www.semanticscholar.org/paper/f37cba27c325af151a3d6ae87e9f0d7e6d49e491", 
+      "venue": "ITG Conference on Speech Communication", 
+      "year": 2012
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "97c801e1280066ef4cbd18fc5cbe85b52018ea0a", 
+      "title": "Computational Psycholinguistics", 
+      "url": "https://www.semanticscholar.org/paper/97c801e1280066ef4cbd18fc5cbe85b52018ea0a", 
+      "venue": "", 
+      "year": 2009
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "4c1c954d03f80210d2bf27e5dee86ddc44f0f531", 
+      "title": "Random Forests In Language Modeling", 
+      "url": "https://www.semanticscholar.org/paper/4c1c954d03f80210d2bf27e5dee86ddc44f0f531", 
+      "venue": "", 
+      "year": 2004
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "7c346777169c60dcf04f24af5b58dc0db1e78901", 
+      "title": "Punctuation: Making a Point in Unsupervised Dependency Parsing", 
+      "url": "https://www.semanticscholar.org/paper/7c346777169c60dcf04f24af5b58dc0db1e78901", 
+      "venue": "CoNLL", 
+      "year": 2011
+    }, 
+    {
+      "isInfluential": true, 
+      "paperId": "7f1806fd6264059cf35101f7c9b348639a5b338d", 
+      "title": "Head-Driven Parsing for Word Lattices", 
+      "url": "https://www.semanticscholar.org/paper/7f1806fd6264059cf35101f7c9b348639a5b338d", 
+      "venue": "ACL", 
+      "year": 2004
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "3e6acc60983e0cca9fff7494728b9156edb5b625", 
+      "title": "The InproTK 2012 release", 
+      "url": "https://www.semanticscholar.org/paper/3e6acc60983e0cca9fff7494728b9156edb5b625", 
+      "venue": "", 
+      "year": 2012
+    }, 
+    {
+      "isInfluential": true, 
+      "paperId": "5a03eea43e128f49218ed95b909da1136c757e57", 
+      "title": "A Study on Richer Syntactic Dependencies for Structured Language Modeling", 
+      "url": "https://www.semanticscholar.org/paper/5a03eea43e128f49218ed95b909da1136c757e57", 
+      "venue": "ACL", 
+      "year": 2002
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "0cc00f0c679274cc0388fd9da2ec2b758304be55", 
+      "title": "Combining Syntax and Thematic Fit in a Probabilistic Model of Sentence Processing", 
+      "url": "https://www.semanticscholar.org/paper/0cc00f0c679274cc0388fd9da2ec2b758304be55", 
+      "venue": "", 
+      "year": 2006
+    }
+  ], 
+  "doi": null, 
+  "influentialCitationCount": 4, 
+  "paperId": "0cd15d6fb05f4e9514dfefb661ec99adb31a02a5", 
+  "references": [
+    {
+      "isInfluential": false, 
+      "paperId": "400f07b03ee82367431fb5400b084e166fb2d93a", 
+      "title": "Edit Detection and Parsing for Transcribed Speech", 
+      "url": "https://www.semanticscholar.org/paper/400f07b03ee82367431fb5400b084e166fb2d93a", 
+      "venue": "NAACL", 
+      "year": 2001
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "110443841ae2a5466d5cdb3e417491573c0e1151", 
+      "title": "Memoization in Top-Down Parsing", 
+      "url": "https://www.semanticscholar.org/paper/110443841ae2a5466d5cdb3e417491573c0e1151", 
+      "venue": "Computational Linguistics", 
+      "year": 1995
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "a6321f13f91b4d1e265d7334b006928f1eb36ed2", 
+      "title": "Generalized Left Corner Parsing", 
+      "url": "https://www.semanticscholar.org/paper/a6321f13f91b4d1e265d7334b006928f1eb36ed2", 
+      "venue": "POPL", 
+      "year": 1977
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "346bcbebafd193aba689269da2de51bfaf163df2", 
+      "title": "Discriminative Reranking for Natural Language Parsing", 
+      "url": "https://www.semanticscholar.org/paper/346bcbebafd193aba689269da2de51bfaf163df2", 
+      "venue": "ICML", 
+      "year": 2000
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "8c45b924418731c692c76b0280965f606486f5ac", 
+      "title": "Edge-Based Best-First Chart Parsing", 
+      "url": "https://www.semanticscholar.org/paper/8c45b924418731c692c76b0280965f606486f5ac", 
+      "venue": "", 
+      "year": 1998
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "1575554ddebd61a507304c7498322624b99336bd", 
+      "title": "Tree Adjunct Grammars", 
+      "url": "https://www.semanticscholar.org/paper/1575554ddebd61a507304c7498322624b99336bd", 
+      "venue": "J. Comput. Syst. Sci.", 
+      "year": 1975
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "012a9bbb397dd2445b12716aa13c7f2375fb85af", 
+      "title": "Variations on incremental interpretation", 
+      "url": "https://www.semanticscholar.org/paper/012a9bbb397dd2445b12716aa13c7f2375fb85af", 
+      "venue": "", 
+      "year": 1993
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "b8719183f3579e6f0bdf2d98ee500097a28cb9cf", 
+      "title": "Compilers: Principles, Techniques, and Tools", 
+      "url": "https://www.semanticscholar.org/paper/b8719183f3579e6f0bdf2d98ee500097a28cb9cf", 
+      "venue": "Addison-Wesley series in computer science / World student series edition", 
+      "year": 1986
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "a3f2744f914e14a6515b9424d7f8e81661506e8e", 
+      "title": "Reanalysis and Limited Repair Parsing: Leaping off the Garden Path", 
+      "url": "https://www.semanticscholar.org/paper/a3f2744f914e14a6515b9424d7f8e81661506e8e", 
+      "venue": "", 
+      "year": 1998
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "d5d38c53083fbfa6f5d213396ed17db0f25a5ba4", 
+      "title": "Integration of visual and linguistic information in spoken language comprehension.", 
+      "url": "https://www.semanticscholar.org/paper/d5d38c53083fbfa6f5d213396ed17db0f25a5ba4", 
+      "venue": "Science", 
+      "year": 1995
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "05f95ecf9bb1bee6f1e1d72afeb15201c1826a7d", 
+      "title": "Measuring efficiency in high-accuracy, broad-coverage statistical parsing", 
+      "url": "https://www.semanticscholar.org/paper/05f95ecf9bb1bee6f1e1d72afeb15201c1826a7d", 
+      "venue": "ArXiv", 
+      "year": 2000
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "54c846ee00c6132d70429cc279e8577f63ed05e4", 
+      "title": "A Linear Observed Time Statistical Parser Based on Maximum Entropy Models", 
+      "url": "https://www.semanticscholar.org/paper/54c846ee00c6132d70429cc279e8577f63ed05e4", 
+      "venue": "ArXiv", 
+      "year": 1997
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "2e9bbe61a9bffb6653d03e7a5702ece512dabf18", 
+      "title": "PCFG Models of Linguistic Tree Representations", 
+      "url": "https://www.semanticscholar.org/paper/2e9bbe61a9bffb6653d03e7a5702ece512dabf18", 
+      "venue": "Computational Linguistics", 
+      "year": 1998
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "6926c4a61777fdd45399b59ca03d9a7fae410c75", 
+      "title": "A Maximum-Entropy-Inspired Parser", 
+      "url": "https://www.semanticscholar.org/paper/6926c4a61777fdd45399b59ca03d9a7fae410c75", 
+      "venue": "ANLP", 
+      "year": 2000
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "045e3adaf0621e89694b7907b71a71a617108030", 
+      "title": "Interaction with context during human sentence processing.", 
+      "url": "https://www.semanticscholar.org/paper/045e3adaf0621e89694b7907b71a71a617108030", 
+      "venue": "Cognition", 
+      "year": 1988
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "353f12ccb9c0193f3908a2e077edaca85837105c", 
+      "title": "Introduction to Automata Theory, Languages and Computation", 
+      "url": "https://www.semanticscholar.org/paper/353f12ccb9c0193f3908a2e077edaca85837105c", 
+      "venue": "", 
+      "year": 1979
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "a959ae0f08228d5d04eb46d5dc1ec3f4c9ee91d7", 
+      "title": "A Probabilistic Earley Parser as a Psycholinguistic Model", 
+      "url": "https://www.semanticscholar.org/paper/a959ae0f08228d5d04eb46d5dc1ec3f4c9ee91d7", 
+      "venue": "NAACL", 
+      "year": 2001
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "33287b031a04952007edf273df9cd30c4d53b3b8", 
+      "title": "Efficient Parsing for Bilexical Context-Free Grammars and Head Automaton Grammars", 
+      "url": "https://www.semanticscholar.org/paper/33287b031a04952007edf273df9cd30c4d53b3b8", 
+      "venue": "ACL", 
+      "year": 1999
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "27372a49979ffcbf747f53b66141b01511605839", 
+      "title": "Deterministic Left Corner Parsing (Extended Abstract)", 
+      "url": "https://www.semanticscholar.org/paper/27372a49979ffcbf747f53b66141b01511605839", 
+      "venue": "SWAT", 
+      "year": 1970
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "06fd7d924d499fbc62ccbcc2e458fb6c187bcf6f", 
+      "title": "Foundations of Statistical Natural Language Processing", 
+      "url": "https://www.semanticscholar.org/paper/06fd7d924d499fbc62ccbcc2e458fb6c187bcf6f", 
+      "venue": "Information Retrieval", 
+      "year": 2001
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "d2721ae72da23ead4e475e46beec584c701cb0ee", 
+      "title": "Interleaving Syntax and Semantics in an Efficient Bottom-Up Parser", 
+      "url": "https://www.semanticscholar.org/paper/d2721ae72da23ead4e475e46beec584c701cb0ee", 
+      "venue": "", 
+      "year": 1994
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "2652c6a08ebcf75d4448cecef6faa058021aeba1", 
+      "title": "Exploiting Syntactic Structure for Natural Language Modeling", 
+      "url": "https://www.semanticscholar.org/paper/2652c6a08ebcf75d4448cecef6faa058021aeba1", 
+      "venue": "ArXiv", 
+      "year": 1998
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "146641239c015fa39cb227360bba98aff8824b88", 
+      "title": "Compact non-left-recursive grammars using the selective left-corner transform and factoring", 
+      "url": "https://www.semanticscholar.org/paper/146641239c015fa39cb227360bba98aff8824b88", 
+      "venue": "COLING", 
+      "year": 2000
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "cd72b93b2d4d0eb75a974e308a62a457f432381d", 
+      "title": "Using probabilistic shift-reduce parsing in speech recognition systems", 
+      "url": "https://www.semanticscholar.org/paper/cd72b93b2d4d0eb75a974e308a62a457f432381d", 
+      "venue": "ICSLP", 
+      "year": 1992
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "0a49921b0245d08d7f3e42e38149dab5df014c47", 
+      "title": "Syntactic structure assembly in human parsing: a computational model based on competitive inhibition and a lexicalist grammar.", 
+      "url": "https://www.semanticscholar.org/paper/0a49921b0245d08d7f3e42e38149dab5df014c47", 
+      "venue": "Cognition", 
+      "year": 2000
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "d0d5641c979c4597afd4f61c009798a17a367dc6", 
+      "title": "Estimation of Probabilistic Context-Free Grammars", 
+      "url": "https://www.semanticscholar.org/paper/d0d5641c979c4597afd4f61c009798a17a367dc6", 
+      "venue": "Computational Linguistics", 
+      "year": 1998
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "39c26afd9bf91c8b4456111ae486a381d70e5868", 
+      "title": "Putting language into language modeling", 
+      "url": "https://www.semanticscholar.org/paper/39c26afd9bf91c8b4456111ae486a381d70e5868", 
+      "venue": "EUROSPEECH", 
+      "year": 1999
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "1f7e1126fe113d8f0322ed63798ed095fc1bce76", 
+      "title": "Building Probabilistic Models for Natural Language", 
+      "url": "https://www.semanticscholar.org/paper/1f7e1126fe113d8f0322ed63798ed095fc1bce76", 
+      "venue": "ArXiv", 
+      "year": 1996
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "8ad8e98574a275930bf04a477ce3532fd13c503c", 
+      "title": "Generalized Probabilistic LR Parsing of Natural Language (Corpora) with Unification-Based Grammars", 
+      "url": "https://www.semanticscholar.org/paper/8ad8e98574a275930bf04a477ce3532fd13c503c", 
+      "venue": "Computational Linguistics", 
+      "year": 1993
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "0e429e1dbf888ac74d5bdb7212030e6935572c89", 
+      "title": "Probabilistic Top-Down Parsing and Language Modeling", 
+      "url": "https://www.semanticscholar.org/paper/0e429e1dbf888ac74d5bdb7212030e6935572c89", 
+      "venue": "Computational Linguistics", 
+      "year": 2001
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "00ee355ef7b6d527476df57f742acea9c264885f", 
+      "title": "Recognition Performance of a Structured Language Model", 
+      "url": "https://www.semanticscholar.org/paper/00ee355ef7b6d527476df57f742acea9c264885f", 
+      "venue": "EUROSPEECH", 
+      "year": 1999
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "10007391361e17f41aa92f3430c00830dff3be6a", 
+      "title": "Three Generative, Lexicalised Models for Statistical Parsing", 
+      "url": "https://www.semanticscholar.org/paper/10007391361e17f41aa92f3430c00830dff3be6a", 
+      "venue": "ACL", 
+      "year": 1997
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "31181e73befea410e25de462eccd0e74ba8fea0b", 
+      "title": "Introduction to Algorithms, 3rd Edition", 
+      "url": "https://www.semanticscholar.org/paper/31181e73befea410e25de462eccd0e74ba8fea0b", 
+      "venue": "", 
+      "year": 2009
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "c7bccb3e23792f4be94da1465864251f709d2ee2", 
+      "title": "Serial versus Parallel Sentence Comprehension", 
+      "url": "https://www.semanticscholar.org/paper/c7bccb3e23792f4be94da1465864251f709d2ee2", 
+      "venue": "", 
+      "year": 1998
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "bcd7cc92f6162f3fcc29c1c109acca8bef27e1e9", 
+      "title": "Supertagging: An Approach To Almost Parsing", 
+      "url": "https://www.semanticscholar.org/paper/bcd7cc92f6162f3fcc29c1c109acca8bef27e1e9", 
+      "venue": "", 
+      "year": 1999
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "aa3dd8420d1feef1b01c07e63752f2d386822114", 
+      "title": "Linguistic complexity: locality of syntactic dependencies.", 
+      "url": "https://www.semanticscholar.org/paper/aa3dd8420d1feef1b01c07e63752f2d386822114", 
+      "venue": "Cognition", 
+      "year": 1998
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "e866f2b8fb3e2af97eee1f84cc2dea38501b559f", 
+      "title": "Efficient probabilistic top-down and left-corner parsing", 
+      "url": "https://www.semanticscholar.org/paper/e866f2b8fb3e2af97eee1f84cc2dea38501b559f", 
+      "venue": "ACL", 
+      "year": 1999
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "157eee747cadb936761628af8b0c5890a884f59b", 
+      "title": "Parsing of Context Free Languages", 
+      "url": "https://www.semanticscholar.org/paper/157eee747cadb936761628af8b0c5890a884f59b", 
+      "venue": "", 
+      "year": 1997
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "2f5e613bfafbd8b5a580eb66becea001697c45f5", 
+      "title": "Probabilistic Parsing Using Left Corner Language Models", 
+      "url": "https://www.semanticscholar.org/paper/2f5e613bfafbd8b5a580eb66becea001697c45f5", 
+      "venue": "ArXiv", 
+      "year": 1997
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "0b44fcbeea9415d400c5f5789d6b892b6f98daff", 
+      "title": "Building a Large Annotated Corpus of English: The Penn Treebank", 
+      "url": "https://www.semanticscholar.org/paper/0b44fcbeea9415d400c5f5789d6b892b6f98daff", 
+      "venue": "Computational Linguistics", 
+      "year": 1993
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "0abfb66d1b634709cf03dd15de02059c7672c33a", 
+      "title": "Finite-state Approximation of Constraint-based Grammars using Left-corner Grammar Transforms", 
+      "url": "https://www.semanticscholar.org/paper/0abfb66d1b634709cf03dd15de02059c7672c33a", 
+      "venue": "COLING-ACL", 
+      "year": 1998
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "a087a7dec1a92780ad8e1200a40c8fb0cd3d5bd4", 
+      "title": "Distinguishing serial and parallel parsing.", 
+      "url": "https://www.semanticscholar.org/paper/a087a7dec1a92780ad8e1200a40c8fb0cd3d5bd4", 
+      "venue": "Journal of psycholinguistic research", 
+      "year": 2000
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "03fe68306560052104ce3847d686922dc7c7f60c", 
+      "title": "Connectionist sentence processing in perspective", 
+      "url": "https://www.semanticscholar.org/paper/03fe68306560052104ce3847d686922dc7c7f60c", 
+      "venue": "Cognitive Science", 
+      "year": 1999
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "5673dd08429e1ad6adfa19ab94c610d87d0ab130", 
+      "title": "Aggregate and mixed-order Markov models for statistical language processing", 
+      "url": "https://www.semanticscholar.org/paper/5673dd08429e1ad6adfa19ab94c610d87d0ab130", 
+      "venue": "ArXiv", 
+      "year": 1997
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "2a5e619f2c5f4220438b1357e596db5b1578398d", 
+      "title": "Statistical Parsing with a Context-Free Grammar and Word Statistics", 
+      "url": "https://www.semanticscholar.org/paper/2a5e619f2c5f4220438b1357e596db5b1578398d", 
+      "venue": "AAAI/IAAI", 
+      "year": 1997
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "d921036a6cb7e340b019afa557a19bc65586a1ad", 
+      "title": "Elements of information theory (2. ed.)", 
+      "url": "https://www.semanticscholar.org/paper/d921036a6cb7e340b019afa557a19bc65586a1ad", 
+      "venue": "", 
+      "year": 2006
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "1223b8d5f8280236eaa1315c6b1abc359b19c32d", 
+      "title": "Syntactic ambiguity resolution in discourse: modeling the effects of referential context and lexical frequency.", 
+      "url": "https://www.semanticscholar.org/paper/1223b8d5f8280236eaa1315c6b1abc359b19c32d", 
+      "venue": "Journal of experimental psychology. Learning, memory, and cognition", 
+      "year": 1998
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "5968067c696653fec60325633fb676f9134bd1db", 
+      "title": "Relating Probabilistic Grammars and Automata", 
+      "url": "https://www.semanticscholar.org/paper/5968067c696653fec60325633fb676f9134bd1db", 
+      "venue": "ACL", 
+      "year": 1999
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "9f6e77f60181492c2f1fddbc3aaa5520ec9fa810", 
+      "title": "A Probabilistic Model of Lexical and Syntactic Access and Disambiguation", 
+      "url": "https://www.semanticscholar.org/paper/9f6e77f60181492c2f1fddbc3aaa5520ec9fa810", 
+      "venue": "Cognitive Science", 
+      "year": 1996
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "76182c9a21dda0ba4c434d45c6b1d1ae3809efbc", 
+      "title": "A Maximum Entropy Approach to Adaptive Statistical Language Modeling", 
+      "url": "https://www.semanticscholar.org/paper/76182c9a21dda0ba4c434d45c6b1d1ae3809efbc", 
+      "venue": "", 
+      "year": 1996
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "2fe076e0aa0188a9ec5c53dd147e25d7ee69496f", 
+      "title": "Using a stochastic context-free grammar as a language model for speech recognition", 
+      "url": "https://www.semanticscholar.org/paper/2fe076e0aa0188a9ec5c53dd147e25d7ee69496f", 
+      "venue": "ICASSP", 
+      "year": 1995
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "5a966349df4600250fab6af96f81dacdac200472", 
+      "title": "Parsing in a Dynamical System: An Attractor-based Account of the Interaction of Lexical and Structural Constraints in Sentence Processing", 
+      "url": "https://www.semanticscholar.org/paper/5a966349df4600250fab6af96f81dacdac200472", 
+      "venue": "", 
+      "year": 2001
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "16568e028cb044cc0963ecd8bf9902a45ba167a8", 
+      "title": "Monotonic Syntactic Processing: A Cross-linguistic Study of Attachment and Reanalysis", 
+      "url": "https://www.semanticscholar.org/paper/16568e028cb044cc0963ecd8bf9902a45ba167a8", 
+      "venue": "", 
+      "year": 1999
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "aa10525fc138340ef6015b171f3d61175c814617", 
+      "title": "A Whole Sentence Maximum Entropy Language Model", 
+      "url": "https://www.semanticscholar.org/paper/aa10525fc138340ef6015b171f3d61175c814617", 
+      "venue": "", 
+      "year": 1997
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "1cc01d28f76853cb5359dcb6dc13dcb2aab22247", 
+      "title": "Modeling the Influence of Thematic Fit (and Other Constraints) in On-line Sentence Comprehension", 
+      "url": "https://www.semanticscholar.org/paper/1cc01d28f76853cb5359dcb6dc13dcb2aab22247", 
+      "venue": "", 
+      "year": 1998
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "62ea2ef8b7d98cf3a3b912a62a7a42ee82650e6b", 
+      "title": "An Efficient Context-Free Parsing Algorithm", 
+      "url": "https://www.semanticscholar.org/paper/62ea2ef8b7d98cf3a3b912a62a7a42ee82650e6b", 
+      "venue": "Commun. ACM", 
+      "year": 1970
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "130fc701104853388b5567032529ca07fe798f55", 
+      "title": "Precise N-Gram Probabilities from Stochastic Context-Free Grammars", 
+      "url": "https://www.semanticscholar.org/paper/130fc701104853388b5567032529ca07fe798f55", 
+      "venue": "ACL", 
+      "year": 1994
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "172c8881cf438aa2ecb5a9c81637369a41d40a1f", 
+      "title": "Left-Corner Parsing And Psychological Plausibility", 
+      "url": "https://www.semanticscholar.org/paper/172c8881cf438aa2ecb5a9c81637369a41d40a1f", 
+      "venue": "COLING", 
+      "year": 1992
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "b23182f15c0e6b0ccf4a0389022ec89ca0b34ef3", 
+      "title": "Refinement of a Structured Language Model", 
+      "url": "https://www.semanticscholar.org/paper/b23182f15c0e6b0ccf4a0389022ec89ca0b34ef3", 
+      "venue": "ArXiv", 
+      "year": 1998
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "2ec6a16dac801da1d99967da1f5378cc6d2db64e", 
+      "title": "Context-Free Grammars: Covers, Normal Forms, and Parsing", 
+      "url": "https://www.semanticscholar.org/paper/2ec6a16dac801da1d99967da1f5378cc6d2db64e", 
+      "venue": "Lecture Notes in Computer Science", 
+      "year": 1980
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "3201dd37c17893a96e53c838ef9f2ac21f643c04", 
+      "title": "An Efficient Probabilistic Context-Free Parsing Algorithm that Computes Prefix Probabilities", 
+      "url": "https://www.semanticscholar.org/paper/3201dd37c17893a96e53c838ef9f2ac21f643c04", 
+      "venue": "Computational Linguistics", 
+      "year": 1995
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "067e2572dacf3e16275e594d383b9dfdc821f472", 
+      "title": "Probabilistic Parsing and Psychological Plausibility", 
+      "url": "https://www.semanticscholar.org/paper/067e2572dacf3e16275e594d383b9dfdc821f472", 
+      "venue": "COLING", 
+      "year": 2000
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "34b51001891b3104be96a8d4c31ef80c76b01b08", 
+      "title": "Lexical Nature of Syntactic Ambiguity Resolution", 
+      "url": "https://www.semanticscholar.org/paper/34b51001891b3104be96a8d4c31ef80c76b01b08", 
+      "venue": "", 
+      "year": 1994
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "1f1d8d35b074dd775a02b126a4285b07b9fda9da", 
+      "title": "Exploiting Syntactic Structure for Language Modeling", 
+      "url": "https://www.semanticscholar.org/paper/1f1d8d35b074dd775a02b126a4285b07b9fda9da", 
+      "venue": "COLING-ACL", 
+      "year": 1998
+    }
+  ], 
+  "title": "Robust Probabilistic Predictive Syntactic Processing: Motivations, Models, and Applications Contents", 
+  "url": "https://www.semanticscholar.org/paper/0cd15d6fb05f4e9514dfefb661ec99adb31a02a5", 
+  "venue": "", 
+  "year": null
+}

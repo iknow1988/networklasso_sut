@@ -1,0 +1,561 @@
+{
+  "authors": [
+    {
+      "authorId": "1809400", 
+      "name": "Ian J. Goodfellow", 
+      "url": "https://www.semanticscholar.org/author/1809400"
+    }, 
+    {
+      "authorId": "1778734", 
+      "name": "Mehdi Mirza", 
+      "url": "https://www.semanticscholar.org/author/1778734"
+    }, 
+    {
+      "authorId": "3324256", 
+      "name": "Xia Da", 
+      "url": "https://www.semanticscholar.org/author/3324256"
+    }, 
+    {
+      "authorId": "1760871", 
+      "name": "Aaron C. Courville", 
+      "url": "https://www.semanticscholar.org/author/1760871"
+    }, 
+    {
+      "authorId": "1751762", 
+      "name": "Yoshua Bengio", 
+      "url": "https://www.semanticscholar.org/author/1751762"
+    }
+  ], 
+  "citationVelocity": 29, 
+  "citations": [
+    {
+      "isInfluential": false, 
+      "paperId": "a3473e352b24342212a673356f8f74a4f026ce0f", 
+      "title": "Sequential Covariance-Matrix Estimation with Application to Mitigating Catastrophic Forgetting", 
+      "url": "https://www.semanticscholar.org/paper/a3473e352b24342212a673356f8f74a4f026ce0f", 
+      "venue": "2015 IEEE 14th International Conference on Machine Learning and Applications (ICMLA)", 
+      "year": 2015
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "c2565fad98fbcf3e554c5fbf6982d67dbe702df5", 
+      "title": "Understanding Locally Competitive Networks", 
+      "url": "https://www.semanticscholar.org/paper/c2565fad98fbcf3e554c5fbf6982d67dbe702df5", 
+      "venue": "ArXiv", 
+      "year": 2014
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "2722e3929d5096addfce1c069c1b2551738e1e45", 
+      "title": "Deep Learning in Neural Networks: an Overview Contents 1 Introduction to Deep Learning (dl) in Neural Networks (nns) 4", 
+      "url": "https://www.semanticscholar.org/paper/2722e3929d5096addfce1c069c1b2551738e1e45", 
+      "venue": "", 
+      "year": 2014
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "46a8b4a6079618f59f1ea58b9aeadbc9e0927337", 
+      "title": "Draft: Deep Learning in Neural Networks: An Overview", 
+      "url": "https://www.semanticscholar.org/paper/46a8b4a6079618f59f1ea58b9aeadbc9e0927337", 
+      "venue": "", 
+      "year": 2014
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "5151d6cb3a4eaec14a56944d58338251fca344ab", 
+      "title": "Overcoming catastrophic forgetting in neural networks", 
+      "url": "https://www.semanticscholar.org/paper/5151d6cb3a4eaec14a56944d58338251fca344ab", 
+      "venue": "Proceedings of the National Academy of Sciences of the United States of America", 
+      "year": 2017
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "ce387a6ac00c1e23a9e1aa4a2ce4800b1066e177", 
+      "title": "Error-Driven Incremental Learning in Deep Convolutional Neural Network for Large-Scale Image Classification", 
+      "url": "https://www.semanticscholar.org/paper/ce387a6ac00c1e23a9e1aa4a2ce4800b1066e177", 
+      "venue": "ACM Multimedia", 
+      "year": 2014
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "ec06832fe5b4c0629648824414c9de1555e976d4", 
+      "title": "Incremental learning for bootstrapping object classifier models", 
+      "url": "https://www.semanticscholar.org/paper/ec06832fe5b4c0629648824414c9de1555e976d4", 
+      "venue": "2016 IEEE 19th International Conference on Intelligent Transportation Systems (ITSC)", 
+      "year": 2016
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "6d67d94a8b700d6686d2de3799ab74b2d9917970", 
+      "title": "Resource-efficient incremental learning in very high dimensions", 
+      "url": "https://www.semanticscholar.org/paper/6d67d94a8b700d6686d2de3799ab74b2d9917970", 
+      "venue": "", 
+      "year": 2017
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "3ecc71263d5dd8a51438e351f0a27fba5a6e7592", 
+      "title": "Meta Networks", 
+      "url": "https://www.semanticscholar.org/paper/3ecc71263d5dd8a51438e351f0a27fba5a6e7592", 
+      "venue": "ICML", 
+      "year": 2017
+    }, 
+    {
+      "isInfluential": true, 
+      "paperId": "461308b4ea79e8aff2f3bbbe3dfda92f94be6be0", 
+      "title": "Continual Learning Through Synaptic Intelligence", 
+      "url": "https://www.semanticscholar.org/paper/461308b4ea79e8aff2f3bbbe3dfda92f94be6be0", 
+      "venue": "ICML", 
+      "year": 2017
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "1156e22f16dba81a905cd01db550d113c51dcd38", 
+      "title": "Dual-Memory Deep Learning Architectures for Lifelong Learning of Everyday Human Behaviors", 
+      "url": "https://www.semanticscholar.org/paper/1156e22f16dba81a905cd01db550d113c51dcd38", 
+      "venue": "IJCAI", 
+      "year": 2016
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "62e3bf1a21ac64d1c39f1161cd35d513f14999d4", 
+      "title": "Rejection and online learning with prototype-based classifiers in adaptive metrical spaces", 
+      "url": "https://www.semanticscholar.org/paper/62e3bf1a21ac64d1c39f1161cd35d513f14999d4", 
+      "venue": "", 
+      "year": 2016
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "b858b23ea3b7680c5ff67e537d1a6404853f02ac", 
+      "title": "Improved deep reinforcement learning for robotics through distribution-based experience retention", 
+      "url": "https://www.semanticscholar.org/paper/b858b23ea3b7680c5ff67e537d1a6404853f02ac", 
+      "venue": "2016 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS)", 
+      "year": 2016
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "9da0175502d23a3e36d03da8cf9a4ab0d1d4bee0", 
+      "title": "CORe50: a New Dataset and Benchmark for Continuous Object Recognition", 
+      "url": "https://www.semanticscholar.org/paper/9da0175502d23a3e36d03da8cf9a4ab0d1d4bee0", 
+      "venue": "ArXiv", 
+      "year": 2017
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "73437321c096547e4bb92ef1b7c2055512517c21", 
+      "title": "Diffusion-based neuromodulation can eliminate catastrophic forgetting in simple neural networks", 
+      "url": "https://www.semanticscholar.org/paper/73437321c096547e4bb92ef1b7c2055512517c21", 
+      "venue": "ArXiv", 
+      "year": 2017
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "5b41300d6c46e1415fbf64aa16e47af3dc3e9d8e", 
+      "title": "Reduction of catastrophic forgetting with transfer learning and ternary output codes", 
+      "url": "https://www.semanticscholar.org/paper/5b41300d6c46e1415fbf64aa16e47af3dc3e9d8e", 
+      "venue": "2015 International Joint Conference on Neural Networks (IJCNN)", 
+      "year": 2015
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "958a6a0c8a57b51ecdc7f428b4d38b5a0d8782cd", 
+      "title": "Universal approximation of nonlinear system predictions in sigmoid activation functions using artificial neural networks", 
+      "url": "https://www.semanticscholar.org/paper/958a6a0c8a57b51ecdc7f428b4d38b5a0d8782cd", 
+      "venue": "2014 IEEE International Conference on Computational Intelligence and Computing Research", 
+      "year": 2014
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "80641047beed084d431cd26d202edfac72ce9551", 
+      "title": "The Usefulness of Past Knowledge when Learning a New Task in Deep Neural Networks", 
+      "url": "https://www.semanticscholar.org/paper/80641047beed084d431cd26d202edfac72ce9551", 
+      "venue": "CoCo@NIPS", 
+      "year": 2015
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "80101671661a688e6c9bab75265fa00056718dc8", 
+      "title": "Online metric learning for an adaptation to confidence drift", 
+      "url": "https://www.semanticscholar.org/paper/80101671661a688e6c9bab75265fa00056718dc8", 
+      "venue": "2016 International Joint Conference on Neural Networks (IJCNN)", 
+      "year": 2016
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "ae3ea38c7e32b50171dc80c6229c8ab12d721617", 
+      "title": "A Bio-Inspired Incremental Learning Architecture for Applied Perceptual Problems", 
+      "url": "https://www.semanticscholar.org/paper/ae3ea38c7e32b50171dc80c6229c8ab12d721617", 
+      "venue": "Cognitive Computation", 
+      "year": 2016
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "5321dc7c41d155e25be294596e0dfd75abb994e9", 
+      "title": "Neural Networks Leverage Corpus-wide Information for Part-of-speech Tagging", 
+      "url": "https://www.semanticscholar.org/paper/5321dc7c41d155e25be294596e0dfd75abb994e9", 
+      "venue": "EMNLP", 
+      "year": 2014
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "c9bc1b03b50863a24d417501e7e0b1182bb2c900", 
+      "title": "DCNNs on a Diet: Sampling Strategies for Reducing the Training Set Size", 
+      "url": "https://www.semanticscholar.org/paper/c9bc1b03b50863a24d417501e7e0b1182bb2c900", 
+      "venue": "ArXiv", 
+      "year": 2016
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "ea160ca21b2a8c4402b077d6338e6a679aa9d7b9", 
+      "title": "Less-forgetting Learning in Deep Neural Networks", 
+      "url": "https://www.semanticscholar.org/paper/ea160ca21b2a8c4402b077d6338e6a679aa9d7b9", 
+      "venue": "ArXiv", 
+      "year": 2016
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "10a602dafb74450fb30a869e2e50992b73f7deaa", 
+      "title": "Improved multitask learning through synaptic intelligence", 
+      "url": "https://www.semanticscholar.org/paper/10a602dafb74450fb30a869e2e50992b73f7deaa", 
+      "venue": "ArXiv", 
+      "year": 2017
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "97255eda36c5057e63affcdd9954e188a2d53a39", 
+      "title": "Thinking Required", 
+      "url": "https://www.semanticscholar.org/paper/97255eda36c5057e63affcdd9954e188a2d53a39", 
+      "venue": "ArXiv", 
+      "year": 2015
+    }, 
+    {
+      "isInfluential": true, 
+      "paperId": "1a4734fc44babb24ce955ec5ea8a5d7d3aa1c96d", 
+      "title": "Biologically inspired incremental learning for high-dimensional spaces", 
+      "url": "https://www.semanticscholar.org/paper/1a4734fc44babb24ce955ec5ea8a5d7d3aa1c96d", 
+      "venue": "2015 Joint IEEE International Conference on Development and Learning and Epigenetic Robotics (ICDL-EpiRob)", 
+      "year": 2015
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "ceee9ba72a021ae5604db04a93fdcff421d60216", 
+      "title": "Encoder Based Lifelong Learning", 
+      "url": "https://www.semanticscholar.org/paper/ceee9ba72a021ae5604db04a93fdcff421d60216", 
+      "venue": "ArXiv", 
+      "year": 2017
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "674801d0acdb6c823b866ed9daff5547b0b69621", 
+      "title": "Analyzing Knowledge Transfer in Deep Q-Networks for Autonomously Handling Multiple Intersections", 
+      "url": "https://www.semanticscholar.org/paper/674801d0acdb6c823b866ed9daff5547b0b69621", 
+      "venue": "ArXiv", 
+      "year": 2017
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "0a9148716ab8a4771d3fee3b81edc5b354fe74ce", 
+      "title": "Neuron clustering for mitigating catastrophic forgetting in feedforward neural networks", 
+      "url": "https://www.semanticscholar.org/paper/0a9148716ab8a4771d3fee3b81edc5b354fe74ce", 
+      "venue": "2014 IEEE Symposium on Computational Intelligence in Dynamic and Uncertain Environments (CIDUE)", 
+      "year": 2014
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "406d606fa027e2cdb81e67e692a780324cb97e1f", 
+      "title": "ASP: Learning to Forget with Adaptive Synaptic Plasticity in Spiking Neural Networks", 
+      "url": "https://www.semanticscholar.org/paper/406d606fa027e2cdb81e67e692a780324cb97e1f", 
+      "venue": "ArXiv", 
+      "year": 2017
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "9213538b4f6f067e70bedc0709901b39481254c1", 
+      "title": "Active Long Term Memory Networks", 
+      "url": "https://www.semanticscholar.org/paper/9213538b4f6f067e70bedc0709901b39481254c1", 
+      "venue": "ArXiv", 
+      "year": 2016
+    }, 
+    {
+      "isInfluential": true, 
+      "paperId": "560a2c96557067de70f5e0d5febeeaac16206ac1", 
+      "title": "Measuring Catastrophic Forgetting in Neural Networks", 
+      "url": "https://www.semanticscholar.org/paper/560a2c96557067de70f5e0d5febeeaac16206ac1", 
+      "venue": "", 
+      "year": 2017
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "0beaf17d42b1171dd245131825d2de67000f45ac", 
+      "title": "Expert Gate: Lifelong Learning with a Network of Experts", 
+      "url": "https://www.semanticscholar.org/paper/0beaf17d42b1171dd245131825d2de67000f45ac", 
+      "venue": "ArXiv", 
+      "year": 2016
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "220e1ad837504bb71284ec2c363413049bc38c41", 
+      "title": "Combining offline and online classifiers for life-long learning", 
+      "url": "https://www.semanticscholar.org/paper/220e1ad837504bb71284ec2c363413049bc38c41", 
+      "venue": "2015 International Joint Conference on Neural Networks (IJCNN)", 
+      "year": 2015
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "6d9d7aac988e3b31726b645b153d625a2d848942", 
+      "title": "A Strategy for an Uncompromising Incremental Learner", 
+      "url": "https://www.semanticscholar.org/paper/6d9d7aac988e3b31726b645b153d625a2d848942", 
+      "venue": "ArXiv", 
+      "year": 2017
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "126df9f24e29feee6e49e135da102fbbd9154a48", 
+      "title": "Deep Learning in Neural Networks: An Overview", 
+      "url": "https://www.semanticscholar.org/paper/126df9f24e29feee6e49e135da102fbbd9154a48", 
+      "venue": "Neural Networks", 
+      "year": 2015
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "5796ba3a657261a49ca9333865b8606980111371", 
+      "title": "A Closer Look at Memorization in Deep Networks", 
+      "url": "https://www.semanticscholar.org/paper/5796ba3a657261a49ca9333865b8606980111371", 
+      "venue": "ICML", 
+      "year": 2017
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "047d9cc043a221cbf9f9668a648d03c0f38eaf79", 
+      "title": "Semi-supervised Tuning from Temporal Coherence", 
+      "url": "https://www.semanticscholar.org/paper/047d9cc043a221cbf9f9668a648d03c0f38eaf79", 
+      "venue": "ICPR", 
+      "year": 2016
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "eb5fb44ad365d1c53fb6dbb6a4a6523e88144d83", 
+      "title": "Unsupervised Neuron Selection for Mitigating Catastrophic Forgetting in Neural Networks", 
+      "url": "https://www.semanticscholar.org/paper/eb5fb44ad365d1c53fb6dbb6a4a6523e88144d83", 
+      "venue": "", 
+      "year": 2014
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "8cf8ab722a1dc2ae5809583d2eb367d89b579a0f", 
+      "title": "All for One: Multi-Modal, Multi-Tasking", 
+      "url": "https://www.semanticscholar.org/paper/8cf8ab722a1dc2ae5809583d2eb367d89b579a0f", 
+      "venue": "", 
+      "year": 2016
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "346ea13584852e77198e8bc4ed5ec556e942f3bf", 
+      "title": "Playing SNES in the Retro Learning Environment", 
+      "url": "https://www.semanticscholar.org/paper/346ea13584852e77198e8bc4ed5ec556e942f3bf", 
+      "venue": "ArXiv", 
+      "year": 2016
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "6d7de7aba56d23826a1fa870e328a47c51052b7a", 
+      "title": "Continual Learning with Deep Generative Replay", 
+      "url": "https://www.semanticscholar.org/paper/6d7de7aba56d23826a1fa870e328a47c51052b7a", 
+      "venue": "ArXiv", 
+      "year": 2017
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "091d1712b97c0353b9a79e8563e7f174a8fd5450", 
+      "title": "The importance of experience replay database composition in deep reinforcement learning", 
+      "url": "https://www.semanticscholar.org/paper/091d1712b97c0353b9a79e8563e7f174a8fd5450", 
+      "venue": "", 
+      "year": 2015
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "05469df372a567dcef62b7ba447685fd5a5efb80", 
+      "title": "DeepSpace: An Online Deep Learning Framework for Mobile Big Data to Understand Human Mobility Patterns", 
+      "url": "https://www.semanticscholar.org/paper/05469df372a567dcef62b7ba447685fd5a5efb80", 
+      "venue": "ArXiv", 
+      "year": 2016
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "eb052fa9b324b4c130f5a77f97cd39de6c1ee33f", 
+      "title": "Molecular De Novo Design through Deep Reinforcement Learning", 
+      "url": "https://www.semanticscholar.org/paper/eb052fa9b324b4c130f5a77f97cd39de6c1ee33f", 
+      "venue": "ArXiv", 
+      "year": 2017
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "1b6fb8528ff67998ac5bc9f83ab81ae59b2b3e0f", 
+      "title": "Overcoming Catastrophic Interference by Conceptors", 
+      "url": "https://www.semanticscholar.org/paper/1b6fb8528ff67998ac5bc9f83ab81ae59b2b3e0f", 
+      "venue": "ArXiv", 
+      "year": 2017
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "ca11dc3a8064583aaf79061866bbcf04caece162", 
+      "title": "Disentangled Representations in Neural Models", 
+      "url": "https://www.semanticscholar.org/paper/ca11dc3a8064583aaf79061866bbcf04caece162", 
+      "venue": "ArXiv", 
+      "year": 2016
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "1703631a938b397ba7e858161ce16448f6046d6f", 
+      "title": "iCaRL: Incremental Classifier and Representation Learning", 
+      "url": "https://www.semanticscholar.org/paper/1703631a938b397ba7e858161ce16448f6046d6f", 
+      "venue": "ArXiv", 
+      "year": 2016
+    }, 
+    {
+      "isInfluential": true, 
+      "paperId": "c65487e55e549833688cb8ad754c4df874198aee", 
+      "title": "Overcoming Catastrophic Forgetting by Incremental Moment Matching", 
+      "url": "https://www.semanticscholar.org/paper/c65487e55e549833688cb8ad754c4df874198aee", 
+      "venue": "ArXiv", 
+      "year": 2017
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "09755f549468209199565f8037061281080c968f", 
+      "title": "Interactive machine learning for health informatics: when do we need the human-in-the-loop?", 
+      "url": "https://www.semanticscholar.org/paper/09755f549468209199565f8037061281080c968f", 
+      "venue": "Brain Informatics", 
+      "year": 2016
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "16306acc88856b920b3a3c1709d7359c8250add0", 
+      "title": "Gradient Episodic Memory for Continuum Learning", 
+      "url": "https://www.semanticscholar.org/paper/16306acc88856b920b3a3c1709d7359c8250add0", 
+      "venue": "ArXiv", 
+      "year": 2017
+    }
+  ], 
+  "doi": null, 
+  "influentialCitationCount": 4, 
+  "paperId": "1e1e274d9dde08a5e6a02daf86405d1cee5ec5cd", 
+  "references": [
+    {
+      "isInfluential": false, 
+      "paperId": "855d0f722d75cc56a66a00ede18ace96bafee6bd", 
+      "title": "Theano: new features and speed improvements", 
+      "url": "https://www.semanticscholar.org/paper/855d0f722d75cc56a66a00ede18ace96bafee6bd", 
+      "venue": "ArXiv", 
+      "year": 2012
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "0bfefbd0c8abf8f16fd5a1a94451a8f413cfaab1", 
+      "title": "Why there are complementary learning systems in the hippocampus and neocortex: insights from the successes and failures of connectionist models of learning and memory.", 
+      "url": "https://www.semanticscholar.org/paper/0bfefbd0c8abf8f16fd5a1a94451a8f413cfaab1", 
+      "venue": "Psychological review", 
+      "year": 1995
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "0e67bac2937f5f53f310564efa547efd82c0371d", 
+      "title": "Random Search for Hyper-Parameter Optimization", 
+      "url": "https://www.semanticscholar.org/paper/0e67bac2937f5f53f310564efa547efd82c0371d", 
+      "venue": "Journal of Machine Learning Research", 
+      "year": 2012
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "359964dbef8d6ce7aab7bb2b1e09a11be99649b6", 
+      "title": "Compete to Compute", 
+      "url": "https://www.semanticscholar.org/paper/359964dbef8d6ce7aab7bb2b1e09a11be99649b6", 
+      "venue": "NIPS", 
+      "year": 2013
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "0d6203718c15f137fda2f295c96269bc2b254644", 
+      "title": "Learning Recurrent Neural Networks with Hessian-Free Optimization", 
+      "url": "https://www.semanticscholar.org/paper/0d6203718c15f137fda2f295c96269bc2b254644", 
+      "venue": "ICML", 
+      "year": 2011
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "2f7ad26514bce4df6c8ebc42c90383ef3a974df4", 
+      "title": "Pylearn2: a machine learning research library", 
+      "url": "https://www.semanticscholar.org/paper/2f7ad26514bce4df6c8ebc42c90383ef3a974df4", 
+      "venue": "ArXiv", 
+      "year": 2013
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "94db635f54d25bdb95edb42185aca93ba53b051b", 
+      "title": "Biographies, Bollywood, Boom-boxes and Blenders: Domain Adaptation for Sentiment Classification", 
+      "url": "https://www.semanticscholar.org/paper/94db635f54d25bdb95edb42185aca93ba53b051b", 
+      "venue": "ACL", 
+      "year": 2007
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "df6eb063db25e313f2e6dad4b7b352e3b62db873", 
+      "title": "Rank, Trace-Norm and Max-Norm", 
+      "url": "https://www.semanticscholar.org/paper/df6eb063db25e313f2e6dad4b7b352e3b62db873", 
+      "venue": "COLT", 
+      "year": 2005
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "e6bef595cb78bcad4880aea6a3a73ecd32fbfe06", 
+      "title": "Domain Adaptation for Large-Scale Sentiment Classification: A Deep Learning Approach", 
+      "url": "https://www.semanticscholar.org/paper/e6bef595cb78bcad4880aea6a3a73ecd32fbfe06", 
+      "venue": "ICML", 
+      "year": 2011
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "591b52d24eb95f5ec3622b814bc91ac872acda9e", 
+      "title": "Connectionist models of recognition memory: constraints imposed by learning and forgetting functions.", 
+      "url": "https://www.semanticscholar.org/paper/591b52d24eb95f5ec3622b814bc91ac872acda9e", 
+      "venue": "Psychological review", 
+      "year": 1990
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "2116b2eaaece4af9c28c32af2728f3d49b792cf9", 
+      "title": "Improving neural networks by preventing co-adaptation of feature detectors", 
+      "url": "https://www.semanticscholar.org/paper/2116b2eaaece4af9c28c32af2728f3d49b792cf9", 
+      "venue": "ArXiv", 
+      "year": 2012
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "83174a52f38c80427e237446ccda79e2a9170742", 
+      "title": "Deep Sparse Rectifier Neural Networks", 
+      "url": "https://www.semanticscholar.org/paper/83174a52f38c80427e237446ccda79e2a9170742", 
+      "venue": "AISTATS", 
+      "year": 2011
+    }, 
+    {
+      "isInfluential": true, 
+      "paperId": "5d5d4f49d6443c8529a6f5ebef5c499d47a869da", 
+      "title": "Improving Neural Networks with Dropout", 
+      "url": "https://www.semanticscholar.org/paper/5d5d4f49d6443c8529a6f5ebef5c499d47a869da", 
+      "venue": "", 
+      "year": 2013
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "8ec543a9e6b4ae5b3c9f6f938ae5a9bdf77d82ac", 
+      "title": "Maxout Networks", 
+      "url": "https://www.semanticscholar.org/paper/8ec543a9e6b4ae5b3c9f6f938ae5a9bdf77d82ac", 
+      "venue": "ICML", 
+      "year": 2013
+    }
+  ], 
+  "title": "An Empirical Investigation of Catastrophic Forgeting in Gradient-Based Neural Networks", 
+  "url": "https://www.semanticscholar.org/paper/1e1e274d9dde08a5e6a02daf86405d1cee5ec5cd", 
+  "venue": "ArXiv", 
+  "year": 2013
+}

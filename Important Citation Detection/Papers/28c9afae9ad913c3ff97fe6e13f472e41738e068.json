@@ -1,0 +1,788 @@
+{
+  "authors": [
+    {
+      "authorId": "2143373", 
+      "name": "Nathan Schneider", 
+      "url": "https://www.semanticscholar.org/author/2143373"
+    }, 
+    {
+      "authorId": "2072361", 
+      "name": "Emily Danchik", 
+      "url": "https://www.semanticscholar.org/author/2072361"
+    }, 
+    {
+      "authorId": "1745899", 
+      "name": "Chris Dyer", 
+      "url": "https://www.semanticscholar.org/author/1745899"
+    }, 
+    {
+      "authorId": "1685669", 
+      "name": "Noah A. Smith", 
+      "url": "https://www.semanticscholar.org/author/1685669"
+    }
+  ], 
+  "citationVelocity": 16, 
+  "citations": [
+    {
+      "isInfluential": false, 
+      "paperId": "ad442c9d80d63c0e5806fa6507b1daee7e8a1f7b", 
+      "title": "Detection of Verbal Multi-Word Expressions via Conditional Random Fields with Syntactic Dependency Features and Semantic Re-Ranking", 
+      "url": "https://www.semanticscholar.org/paper/ad442c9d80d63c0e5806fa6507b1daee7e8a1f7b", 
+      "venue": "", 
+      "year": 2017
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "039926b29fc5a7e78b44c564bc199ce2b8d35fbb", 
+      "title": "The PARSEME Shared Task on Automatic Identification of Verbal Multiword Expressions", 
+      "url": "https://www.semanticscholar.org/paper/039926b29fc5a7e78b44c564bc199ce2b8d35fbb", 
+      "venue": "", 
+      "year": 2017
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "3ee021415440e797b205baa6bff160a9171cbdd8", 
+      "title": "ICL-HD at SemEval-2016 Task 10: Improving the Detection of Minimal Semantic Units and their Meanings with an Ontology and Word Embeddings", 
+      "url": "https://www.semanticscholar.org/paper/3ee021415440e797b205baa6bff160a9171cbdd8", 
+      "venue": "SemEval@NAACL-HLT", 
+      "year": 2016
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "275a6dd72ca2dbeb81150b634ea967fc6e7bbb94", 
+      "title": "A Word Embedding Approach to Predicting the Compositionality of Multiword Expressions", 
+      "url": "https://www.semanticscholar.org/paper/275a6dd72ca2dbeb81150b634ea967fc6e7bbb94", 
+      "venue": "HLT-NAACL", 
+      "year": 2015
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "0d3e8e524197153f9f25f71c183d0be4c0877948", 
+      "title": "Investigating the Opacity of Verb-Noun Multiword Expression Usages in Context", 
+      "url": "https://www.semanticscholar.org/paper/0d3e8e524197153f9f25f71c183d0be4c0877948", 
+      "venue": "", 
+      "year": 2017
+    }, 
+    {
+      "isInfluential": true, 
+      "paperId": "992212efa393d27d65400da093ef3dd777dc6ec5", 
+      "title": "ICE: Idiom and Collocation Extractor for Research and Education", 
+      "url": "https://www.semanticscholar.org/paper/992212efa393d27d65400da093ef3dd777dc6ec5", 
+      "venue": "EACL", 
+      "year": 2017
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "029d6eae5e4a2c0ed26be6dd7f4cba0ac3929f31", 
+      "title": "SemEval-2016 Task 10: Detecting Minimal Semantic Units and their Meanings (DiMSUM)", 
+      "url": "https://www.semanticscholar.org/paper/029d6eae5e4a2c0ed26be6dd7f4cba0ac3929f31", 
+      "venue": "SemEval@NAACL-HLT", 
+      "year": 2016
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "8aa8e58f601b9358ad371ac2e94033b463394bb9", 
+      "title": "Big Data Small Data, In Domain Out-of Domain, Known Word Unknown Word: The Impact of Word Representations on Sequence Labelling Tasks", 
+      "url": "https://www.semanticscholar.org/paper/8aa8e58f601b9358ad371ac2e94033b463394bb9", 
+      "venue": "CoNLL", 
+      "year": 2015
+    }, 
+    {
+      "isInfluential": true, 
+      "paperId": "1fec1e4d4b7c934bef171e6bc3679256851182de", 
+      "title": "A Lexical Resource of Hebrew Verb-Noun Multi-Word Expressions", 
+      "url": "https://www.semanticscholar.org/paper/1fec1e4d4b7c934bef171e6bc3679256851182de", 
+      "venue": "LREC", 
+      "year": 2016
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "527045e45707ac069f40c9f89eea500f22793219", 
+      "title": "Language Resources for Italian: towards the Development of a Corpus of Annotated Italian Multiword Expressions", 
+      "url": "https://www.semanticscholar.org/paper/527045e45707ac069f40c9f89eea500f22793219", 
+      "venue": "CLiC-it/EVALITA", 
+      "year": 2016
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "8ec316bfe7a1543ca9f117ccbf641251f9585da9", 
+      "title": "UW-CSE: Detecting Multiword Expressions and Supersenses using Double-Chained Conditional Random Fields", 
+      "url": "https://www.semanticscholar.org/paper/8ec316bfe7a1543ca9f117ccbf641251f9585da9", 
+      "venue": "", 
+      "year": 2016
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "2e30071ba93afbc511034e3b5ef6213182e38731", 
+      "title": "Impact of MWE Resources on Multiword Recognition", 
+      "url": "https://www.semanticscholar.org/paper/2e30071ba93afbc511034e3b5ef6213182e38731", 
+      "venue": "MWE@ACL", 
+      "year": 2016
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "ec6029f12cc8dc1f00954d775808c7058bf218b0", 
+      "title": "Learning Paraphrasing for Multiword Expressions", 
+      "url": "https://www.semanticscholar.org/paper/ec6029f12cc8dc1f00954d775808c7058bf218b0", 
+      "venue": "MWE@ACL", 
+      "year": 2016
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "3e8d2a11a3ed6d9ebdd178a420b3c019c5356fae", 
+      "title": "Never-Ending Multiword Expressions Learning", 
+      "url": "https://www.semanticscholar.org/paper/3e8d2a11a3ed6d9ebdd178a420b3c019c5356fae", 
+      "venue": "MWE@NAACL-HLT", 
+      "year": 2015
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "88be9a834716c12211ea2b4be9bee37fe6a58d87", 
+      "title": "Joint Dependency Parsing and Multiword Expression Tokenization", 
+      "url": "https://www.semanticscholar.org/paper/88be9a834716c12211ea2b4be9bee37fe6a58d87", 
+      "venue": "ACL", 
+      "year": 2015
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "9a90a1146e2e6eb3878182d8c05b7b825a805af9", 
+      "title": "UW-CSE at SemEval-2016 Task 10: Detecting Multiword Expressions and Supersenses using Double-Chained Conditional Random Fields", 
+      "url": "https://www.semanticscholar.org/paper/9a90a1146e2e6eb3878182d8c05b7b825a805af9", 
+      "venue": "SemEval@NAACL-HLT", 
+      "year": 2016
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "71803f100facf5388c700015e9feb5ed6d29ceea", 
+      "title": "A Dependency Parser for Tweets", 
+      "url": "https://www.semanticscholar.org/paper/71803f100facf5388c700015e9feb5ed6d29ceea", 
+      "venue": "EMNLP", 
+      "year": 2014
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "04d4af63b4504eff0077f39f4a4759e86caf0792", 
+      "title": "UFRGS&LIF at SemEval-2016 Task 10: Rule-Based MWE Identification and Predominant-Supersense Tagging", 
+      "url": "https://www.semanticscholar.org/paper/04d4af63b4504eff0077f39f4a4759e86caf0792", 
+      "venue": "SemEval@NAACL-HLT", 
+      "year": 2016
+    }, 
+    {
+      "isInfluential": true, 
+      "paperId": "fd7a81a9226d8a9bffe1a3fa3a6d785259080ee8", 
+      "title": "Identification of Ambiguous Multiword Expressions Using Sequence Models and Lexical Resources", 
+      "url": "https://www.semanticscholar.org/paper/fd7a81a9226d8a9bffe1a3fa3a6d785259080ee8", 
+      "venue": "", 
+      "year": 2017
+    }, 
+    {
+      "isInfluential": true, 
+      "paperId": "91e9f4a7c5be958c858214f099ff1ead30a1c9b0", 
+      "title": "A New Approach for Idiom Identification Using Meanings and the Web", 
+      "url": "https://www.semanticscholar.org/paper/91e9f4a7c5be958c858214f099ff1ead30a1c9b0", 
+      "venue": "RANLP", 
+      "year": 2015
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "06e8423646334f203a30dc57cd783a1d8082357e", 
+      "title": "Determining the Multiword Expression Inventory of a Surprise Language", 
+      "url": "https://www.semanticscholar.org/paper/06e8423646334f203a30dc57cd783a1d8082357e", 
+      "venue": "COLING", 
+      "year": 2016
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "25370a5cd20e08ad1013989ea33de4d64143d856", 
+      "title": "A Transition-Based Directed Acyclic Graph Parser for UCCA", 
+      "url": "https://www.semanticscholar.org/paper/25370a5cd20e08ad1013989ea33de4d64143d856", 
+      "venue": "ACL", 
+      "year": 2017
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "211266fbf78f0706f73cf6d4b4ac045254c48bb3", 
+      "title": "Comprehensive Annotation of Multiword Expressions in a Social Web Corpus", 
+      "url": "https://www.semanticscholar.org/paper/211266fbf78f0706f73cf6d4b4ac045254c48bb3", 
+      "venue": "LREC", 
+      "year": 2014
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "3e59584dc3b18b0b23bbb5b4d2652ad67eb7fe34", 
+      "title": "WHUNlp at SemEval-2016 Task DiMSUM: A Pilot Study in Detecting Minimal Semantic Units and their Meanings using Supervised Models", 
+      "url": "https://www.semanticscholar.org/paper/3e59584dc3b18b0b23bbb5b4d2652ad67eb7fe34", 
+      "venue": "SemEval@NAACL-HLT", 
+      "year": 2016
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "0b8e48c31bfefe6e65cf811a96d7dfeafe2195a0", 
+      "title": "Lexical Semantic Analysis in Natural Language Text", 
+      "url": "https://www.semanticscholar.org/paper/0b8e48c31bfefe6e65cf811a96d7dfeafe2195a0", 
+      "venue": "", 
+      "year": 2012
+    }, 
+    {
+      "isInfluential": true, 
+      "paperId": "2b7330818a230992d67d09adf42f71f4de475ec8", 
+      "title": "Deep Learning Models For Multiword Expression Identification", 
+      "url": "https://www.semanticscholar.org/paper/2b7330818a230992d67d09adf42f71f4de475ec8", 
+      "venue": "*SEM", 
+      "year": 2017
+    }, 
+    {
+      "isInfluential": true, 
+      "paperId": "269177a2f2609ebe5c27ba39edb9ed67dbc10326", 
+      "title": "Building a Lexicon of Formulaic Language for Language Learners", 
+      "url": "https://www.semanticscholar.org/paper/269177a2f2609ebe5c27ba39edb9ed67dbc10326", 
+      "venue": "MWE@NAACL-HLT", 
+      "year": 2015
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "28e1221384acded198ffbdb5d5a027e6d61befa2", 
+      "title": "Big Data Small Data, In Domain Out-of Domain, Known Word Unknown Word: The Impact of Word Representation on Sequence Labelling Tasks", 
+      "url": "https://www.semanticscholar.org/paper/28e1221384acded198ffbdb5d5a027e6d61befa2", 
+      "venue": "", 
+      "year": 2015
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "eaffaf8acd0c34c5754deb508ebfcee2d197c04a", 
+      "title": "A Transition-Based System for Joint Lexical and Syntactic Analysis", 
+      "url": "https://www.semanticscholar.org/paper/eaffaf8acd0c34c5754deb508ebfcee2d197c04a", 
+      "venue": "ACL", 
+      "year": 2016
+    }, 
+    {
+      "isInfluential": true, 
+      "paperId": "919097c8d145aba4780852db800d26efb167a26e", 
+      "title": "Grammatical Error Correction Considering Multi-word Expressions", 
+      "url": "https://www.semanticscholar.org/paper/919097c8d145aba4780852db800d26efb167a26e", 
+      "venue": "", 
+      "year": 2015
+    }, 
+    {
+      "isInfluential": true, 
+      "paperId": "121eaf5638b11a622a0861e15e96af4d8a9344d2", 
+      "title": "An Efficient Annotation for Phrasal Verbs using Dependency Information", 
+      "url": "https://www.semanticscholar.org/paper/121eaf5638b11a622a0861e15e96af4d8a9344d2", 
+      "venue": "PACLIC", 
+      "year": 2015
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "5e9d9ccfe0a1ef4af8486559d1686bd50181eca4", 
+      "title": "A Word Embedding Approach to Identifying Verb-Noun Idiomatic Combinations", 
+      "url": "https://www.semanticscholar.org/paper/5e9d9ccfe0a1ef4af8486559d1686bd50181eca4", 
+      "venue": "MWE@ACL", 
+      "year": 2016
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "6c5d2e4bc54beb4260cd56f9a45bf90e98d1187d", 
+      "title": "A Corpus and Model Integrating Multiword Expressions and Supersenses", 
+      "url": "https://www.semanticscholar.org/paper/6c5d2e4bc54beb4260cd56f9a45bf90e98d1187d", 
+      "venue": "HLT-NAACL", 
+      "year": 2015
+    }, 
+    {
+      "isInfluential": true, 
+      "paperId": "296eaf037949a4fb7f929169e33b3221eac3bff4", 
+      "title": "Deep Lexical Segmentation and Syntactic Parsing in the Easy-First Dependency Framework", 
+      "url": "https://www.semanticscholar.org/paper/296eaf037949a4fb7f929169e33b3221eac3bff4", 
+      "venue": "HLT-NAACL", 
+      "year": 2016
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "524dd11ce1249bae235bf06de89621c59c18286e", 
+      "title": "The ATILF-LLF System for Parseme Shared Task: a Transition-based Verbal Multiword Expression Tagger", 
+      "url": "https://www.semanticscholar.org/paper/524dd11ce1249bae235bf06de89621c59c18286e", 
+      "venue": "", 
+      "year": 2017
+    }
+  ], 
+  "doi": null, 
+  "influentialCitationCount": 9, 
+  "paperId": "28c9afae9ad913c3ff97fe6e13f472e41738e068", 
+  "references": [
+    {
+      "isInfluential": false, 
+      "paperId": "2277f6a02acbeaeb70d71158b968a7ee166d63ca", 
+      "title": "Parsing Models for Identifying Multiword Expressions", 
+      "url": "https://www.semanticscholar.org/paper/2277f6a02acbeaeb70d71158b968a7ee166d63ca", 
+      "venue": "Computational Linguistics", 
+      "year": 2013
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "18e7507c493ba5c90b36af6612f19ff81321fd00", 
+      "title": "Identifying Idiomatic Expressions Using Automatic Word-Alignment", 
+      "url": "https://www.semanticscholar.org/paper/18e7507c493ba5c90b36af6612f19ff81321fd00", 
+      "venue": "", 
+      "year": 2006
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "c60ca28eb2b2fd6c85d8040621717f3f8b9174a5", 
+      "title": "Prague Czech-English Dependency Treebank Resource for Structure-based MT", 
+      "url": "https://www.semanticscholar.org/paper/c60ca28eb2b2fd6c85d8040621717f3f8b9174a5", 
+      "venue": "", 
+      "year": 2005
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "4c3535d8d8993c53ab5913f37c96a6c9688dd431", 
+      "title": "Construction of an Idiom Corpus and its Application to Idiom Identification based on WSD Incorporating Idiom-Specific Features", 
+      "url": "https://www.semanticscholar.org/paper/4c3535d8d8993c53ab5913f37c96a6c9688dd431", 
+      "venue": "EMNLP", 
+      "year": 2008
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "890c1201d3edef7104ba9d75078ed90f9c30c93b", 
+      "title": "A model-theoretic coreference scoring scheme", 
+      "url": "https://www.semanticscholar.org/paper/890c1201d3edef7104ba9d75078ed90f9c30c93b", 
+      "venue": "MUC", 
+      "year": 1995
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "1c2381e357c6829c551baee403650e6022ae6c40", 
+      "title": "Semi-Supervised Learning for Natural Language", 
+      "url": "https://www.semanticscholar.org/paper/1c2381e357c6829c551baee403650e6022ae6c40", 
+      "venue": "", 
+      "year": 2005
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "1b8c932573a5d8f35ecb4b9e5387abf6f2f4e403", 
+      "title": "mwetoolkit: a Framework for Multiword Expression Identification", 
+      "url": "https://www.semanticscholar.org/paper/1b8c932573a5d8f35ecb4b9e5387abf6f2f4e403", 
+      "venue": "LREC", 
+      "year": 2010
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "64d23b43efd29dba8aa43dd85ee69d597f74ca83", 
+      "title": "Broad-Coverage Sense Disambiguation and Information Extraction with a Supersense Sequence Tagger", 
+      "url": "https://www.semanticscholar.org/paper/64d23b43efd29dba8aa43dd85ee69d597f74ca83", 
+      "venue": "EMNLP", 
+      "year": 2006
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "28d9c89f946a39d3c4146bf32ddff546845e1801", 
+      "title": "Simple Semi-supervised Dependency Parsing", 
+      "url": "https://www.semanticscholar.org/paper/28d9c89f946a39d3c4146bf32ddff546845e1801", 
+      "venue": "ACL", 
+      "year": 2008
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "2d18af01c0a4d46d0852d165be8d15faaf387700", 
+      "title": "Construction of English MWE Dictionary and its Application to POS Tagging", 
+      "url": "https://www.semanticscholar.org/paper/2d18af01c0a4d46d0852d165be8d15faaf387700", 
+      "venue": "MWE@NAACL-HLT", 
+      "year": 2013
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "b5f826e3939fa6d6f09b2b504f70b274b3246f6b", 
+      "title": "Multiword Expressions", 
+      "url": "https://www.semanticscholar.org/paper/b5f826e3939fa6d6f09b2b504f70b274b3246f6b", 
+      "venue": "Handbook of Natural Language Processing", 
+      "year": 2010
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "4c15b129a8da55127e4e2fe47f54799d0a313367", 
+      "title": "Word Representations: A Simple and General Method for Semi-Supervised Learning", 
+      "url": "https://www.semanticscholar.org/paper/4c15b129a8da55127e4e2fe47f54799d0a313367", 
+      "venue": "ACL", 
+      "year": 2010
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "2d69d32091b68af5158ef8f17fa7b560ef9722ef", 
+      "title": "Lexical association measures and collocation extraction", 
+      "url": "https://www.semanticscholar.org/paper/2d69d32091b68af5158ef8f17fa7b560ef9722ef", 
+      "venue": "Language Resources and Evaluation", 
+      "year": 2010
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "75d84165b852f24a5558f42eb684aaf1d4003f85", 
+      "title": "Characterizing Derivation Trees of Context-Free Grammars through a Generalization of Finite Automata Theory", 
+      "url": "https://www.semanticscholar.org/paper/75d84165b852f24a5558f42eb684aaf1d4003f85", 
+      "venue": "J. Comput. Syst. Sci.", 
+      "year": 1967
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "0a0bb7f534f73354944fe6e4464d0dc6f96946be", 
+      "title": "Improved Part-of-Speech Tagging for Online Conversational Text with Word Clusters", 
+      "url": "https://www.semanticscholar.org/paper/0a0bb7f534f73354944fe6e4464d0dc6f96946be", 
+      "venue": "HLT-NAACL", 
+      "year": 2013
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "6d1ec802547fbf40f34b4ef5380d76a0c6321d14", 
+      "title": "Extraction of multi-word expressions from small parallel corpora", 
+      "url": "https://www.semanticscholar.org/paper/6d1ec802547fbf40f34b4ef5380d76a0c6321d14", 
+      "venue": "Natural Language Engineering", 
+      "year": 2010
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "0b44fcbeea9415d400c5f5789d6b892b6f98daff", 
+      "title": "Building a Large Annotated Corpus of English: The Penn Treebank", 
+      "url": "https://www.semanticscholar.org/paper/0b44fcbeea9415d400c5f5789d6b892b6f98daff", 
+      "venue": "Computational Linguistics", 
+      "year": 1993
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "211266fbf78f0706f73cf6d4b4ac045254c48bb3", 
+      "title": "Comprehensive Annotation of Multiword Expressions in a Social Web Corpus", 
+      "url": "https://www.semanticscholar.org/paper/211266fbf78f0706f73cf6d4b4ac045254c48bb3", 
+      "venue": "LREC", 
+      "year": 2014
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "5c0d174dea6c493b5d21606a3b387c271ca1f0af", 
+      "title": "Multiword Expressions in the Context of Statistical Machine Translation", 
+      "url": "https://www.semanticscholar.org/paper/5c0d174dea6c493b5d21606a3b387c271ca1f0af", 
+      "venue": "IJCNLP", 
+      "year": 2013
+    }, 
+    {
+      "isInfluential": true, 
+      "paperId": "f9a25e0dc776857fc24ebc7115c980312f2719b1", 
+      "title": "A Semantic Concordance", 
+      "url": "https://www.semanticscholar.org/paper/f9a25e0dc776857fc24ebc7115c980312f2719b1", 
+      "venue": "", 
+      "year": 1993
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "be7b0fd0d904c3221dad88bacf911b31da116697", 
+      "title": "Verb Noun Construction MWE Token Classification", 
+      "url": "https://www.semanticscholar.org/paper/be7b0fd0d904c3221dad88bacf911b31da116697", 
+      "venue": "", 
+      "year": 2009
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "3b8e7c8220d3883d54960d896a73045f3c70ac17", 
+      "title": "Discriminative Training Methods For Hidden Markov Models: Theory And Experiments With Perceptron Algorithms", 
+      "url": "https://www.semanticscholar.org/paper/3b8e7c8220d3883d54960d896a73045f3c70ac17", 
+      "venue": "", 
+      "year": 2002
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "d88045f9aab635411360b23612d2e132c557e917", 
+      "title": "Bayesian Text Segmentation for Index Term Identification and Keyphrase Extraction", 
+      "url": "https://www.semanticscholar.org/paper/d88045f9aab635411360b23612d2e132c557e917", 
+      "venue": "COLING", 
+      "year": 2012
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "296a23caef06d12ac753834c5b0a083175772271", 
+      "title": "Learning English Light Verb Constructions: Contextual or Statistical", 
+      "url": "https://www.semanticscholar.org/paper/296a23caef06d12ac753834c5b0a083175772271", 
+      "venue": "", 
+      "year": 2011
+    }, 
+    {
+      "isInfluential": true, 
+      "paperId": "87f2101c46f191512a62f78c68a2560d35ce613b", 
+      "title": "Named Entity Recognition in Tweets: An Experimental Study", 
+      "url": "https://www.semanticscholar.org/paper/87f2101c46f191512a62f78c68a2560d35ce613b", 
+      "venue": "EMNLP", 
+      "year": 2011
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "a61251209708dc74addb9e842fbf3b9d757da4bf", 
+      "title": "Using Statistics in Lexical Analysis", 
+      "url": "https://www.semanticscholar.org/paper/a61251209708dc74addb9e842fbf3b9d757da4bf", 
+      "venue": "", 
+      "year": 1991
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "66536feb1320fe5b8fb6111b3ffaf126c36eb0bb", 
+      "title": "A Broad Evaluation of Techniques for Automatic Acquisition of Multiword Expressions", 
+      "url": "https://www.semanticscholar.org/paper/66536feb1320fe5b8fb6111b3ffaf126c36eb0bb", 
+      "venue": "", 
+      "year": 2012
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "6751965e64be1a67eb13198efe1ec5f41ef2e430", 
+      "title": "Discriminative Strategies to Integrate Multiword Expression Recognition and Parsing", 
+      "url": "https://www.semanticscholar.org/paper/6751965e64be1a67eb13198efe1ec5f41ef2e430", 
+      "venue": "ACL", 
+      "year": 2012
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "3673bccde93025e05431a2bcac4e8ff18c9c273a", 
+      "title": "Natural Language Processing with Python", 
+      "url": "https://www.semanticscholar.org/paper/3673bccde93025e05431a2bcac4e8ff18c9c273a", 
+      "venue": "", 
+      "year": 2009
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "4e23321871d5ad2dbbddd4f34a4b7eda870f9ee1", 
+      "title": "Formulaic Language in Native and Second Language Speakers: Psycholinguistics, Corpus Linguistics, and TESOL", 
+      "url": "https://www.semanticscholar.org/paper/4e23321871d5ad2dbbddd4f34a4b7eda870f9ee1", 
+      "venue": "", 
+      "year": 2009
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "0c7f52c753a65ceaf3755e20b906ffd0c05c994a", 
+      "title": "Conditional Random Fields: Probabilistic Models for Segmenting and Labeling Sequence Data", 
+      "url": "https://www.semanticscholar.org/paper/0c7f52c753a65ceaf3755e20b906ffd0c05c994a", 
+      "venue": "ICML", 
+      "year": 2001
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "3a1175715f1a551cfdf0edbb975e4c2c80eed0e0", 
+      "title": "Recall-Oriented Learning of Named Entities in Arabic Wikipedia", 
+      "url": "https://www.semanticscholar.org/paper/3a1175715f1a551cfdf0edbb975e4c2c80eed0e0", 
+      "venue": "EACL", 
+      "year": 2012
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "9b9607b78ca1896738ec1fbf0633032bc74fbec2", 
+      "title": "Large Margin Classification Using the Perceptron Algorithm", 
+      "url": "https://www.semanticscholar.org/paper/9b9607b78ca1896738ec1fbf0633032bc74fbec2", 
+      "venue": "", 
+      "year": 2007
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "58cb0ae65f7131230cf7c0881cf825e9d492c285", 
+      "title": "Learning to detect english and hungarian light verb constructions", 
+      "url": "https://www.semanticscholar.org/paper/58cb0ae65f7131230cf7c0881cf825e9d492c285", 
+      "venue": "TSLP", 
+      "year": 2013
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "27496a2ee337db705e7c611dea1fd8e6f41437c2", 
+      "title": "Design Challenges and Misconceptions in Named Entity Recognition", 
+      "url": "https://www.semanticscholar.org/paper/27496a2ee337db705e7c611dea1fd8e6f41437c2", 
+      "venue": "CoNLL", 
+      "year": 2009
+    }, 
+    {
+      "isInfluential": true, 
+      "paperId": "d87ceda3042f781c341ac17109d1e94a717f5f60", 
+      "title": "Book Reviews: WordNet: An Electronic Lexical Database", 
+      "url": "https://www.semanticscholar.org/paper/d87ceda3042f781c341ac17109d1e94a717f5f60", 
+      "venue": "", 
+      "year": 1998
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "08ca5648ea03200b05a232c49aff67d0f77e10e4", 
+      "title": "Automatic Discovery of Non-Compositional Compounds in Parallel Data", 
+      "url": "https://www.semanticscholar.org/paper/08ca5648ea03200b05a232c49aff67d0f77e10e4", 
+      "venue": "ArXiv", 
+      "year": 1997
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "c37d0caf05d586a242faf8394e6f7684d0479ba2", 
+      "title": "BLANC: Implementing the Rand index for coreference evaluation", 
+      "url": "https://www.semanticscholar.org/paper/c37d0caf05d586a242faf8394e6f7684d0479ba2", 
+      "venue": "Natural Language Engineering", 
+      "year": 2011
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "09a32fbe37b6e2af1b7c93b181a383c930a93a04", 
+      "title": "Multiword Expression Identification with Tree Substitution Grammars: A Parsing tour de force with French", 
+      "url": "https://www.semanticscholar.org/paper/09a32fbe37b6e2af1b7c93b181a383c930a93a04", 
+      "venue": "EMNLP", 
+      "year": 2011
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "0671e80c8cfc6293919094b97b660aa3b2cce53d", 
+      "title": "Identification of Multi-word Expressions by Combining Multiple Linguistic Information Sources", 
+      "url": "https://www.semanticscholar.org/paper/0671e80c8cfc6293919094b97b660aa3b2cce53d", 
+      "venue": "EMNLP", 
+      "year": 2011
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "9a03780a36373e4781f006721a1d095e280d76dc", 
+      "title": "Exploiting Semantic Constraints for Estimating Supersenses with CRFs", 
+      "url": "https://www.semanticscholar.org/paper/9a03780a36373e4781f006721a1d095e280d76dc", 
+      "venue": "SDM", 
+      "year": 2009
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "a981164ea4597b27d3abf189c90f4e5933290db4", 
+      "title": "A generic and open framework for multiword expressions treatment: from acquisition to applications. (Un environnement g\u00e9n\u00e9rique et ouvert pour le traitement des expressions polylexicales)", 
+      "url": "https://www.semanticscholar.org/paper/a981164ea4597b27d3abf189c90f4e5933290db4", 
+      "venue": "", 
+      "year": 2012
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "2fdfbf38229368496640d1e734e27b0fb4ab2949", 
+      "title": "MWU-Aware Part-of-Speech Tagging with a CRF Model and Lexical Resources", 
+      "url": "https://www.semanticscholar.org/paper/2fdfbf38229368496640d1e734e27b0fb4ab2949", 
+      "venue": "", 
+      "year": 2011
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "90ce1a2996de5fdc00160f00cb734fac611f5781", 
+      "title": "Sorting out the Most Confusing English Phrasal Verbs", 
+      "url": "https://www.semanticscholar.org/paper/90ce1a2996de5fdc00160f00cb734fac611f5781", 
+      "venue": "*SEM@NAACL-HLT", 
+      "year": 2012
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "ee3e354fd4711c70608b6ac27931d1c1cba6d2de", 
+      "title": "Looking for Prepositional Verbs in Corpus Data", 
+      "url": "https://www.semanticscholar.org/paper/ee3e354fd4711c70608b6ac27931d1c1cba6d2de", 
+      "venue": "", 
+      "year": 2005
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "99c6174c0997f772d774f5a49ea1af01253ed944", 
+      "title": "Task-based Evaluation of Multiword Expressions: a Pilot Study in Statistical Machine Translation", 
+      "url": "https://www.semanticscholar.org/paper/99c6174c0997f772d774f5a49ea1af01253ed944", 
+      "venue": "HLT-NAACL", 
+      "year": 2010
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "e1d77997b84c56a4d1865f4386a04c820fd1491a", 
+      "title": "Practical Structured Learning Techniques for Natural Language Processing", 
+      "url": "https://www.semanticscholar.org/paper/e1d77997b84c56a4d1865f4386a04c820fd1491a", 
+      "venue": "", 
+      "year": 2006
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "025af71c61a6b3eb4647f70fda4b8fa114537c2c", 
+      "title": "Generative Models of Monolingual and Bilingual Gappy Patterns", 
+      "url": "https://www.semanticscholar.org/paper/025af71c61a6b3eb4647f70fda4b8fa114537c2c", 
+      "venue": "", 
+      "year": 2011
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "6a3c39a1641a6a82d0a4edd540e4b170fcf09463", 
+      "title": "Hidden Markov tree models for semantic class induction", 
+      "url": "https://www.semanticscholar.org/paper/6a3c39a1641a6a82d0a4edd540e4b170fcf09463", 
+      "venue": "CoNLL", 
+      "year": 2013
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "34df04a170cce2dc0fc198f7e649bea81736a001", 
+      "title": "Light Verb Constructions in the SzegedParalellFX English-Hungarian Parallel Corpus", 
+      "url": "https://www.semanticscholar.org/paper/34df04a170cce2dc0fc198f7e649bea81736a001", 
+      "venue": "LREC", 
+      "year": 2012
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "d9f430f4fb57236b96b6afe6765791c9cc3aab5e", 
+      "title": "Opinion Expression Mining by Exploiting Keyphrase Extraction", 
+      "url": "https://www.semanticscholar.org/paper/d9f430f4fb57236b96b6afe6765791c9cc3aab5e", 
+      "venue": "IJCNLP", 
+      "year": 2011
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "ad269ba941949a1d66b6649a71d752784c576dc3", 
+      "title": "Name Tagging with Word Clusters and Discriminative Training", 
+      "url": "https://www.semanticscholar.org/paper/ad269ba941949a1d66b6649a71d752784c576dc3", 
+      "venue": "HLT-NAACL", 
+      "year": 2004
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "0f6586e3e9536039559aa038734ae269e502e867", 
+      "title": "Multilingual Deep Lexical Acquisition for HPSGs via Supertagging", 
+      "url": "https://www.semanticscholar.org/paper/0f6586e3e9536039559aa038734ae269e502e867", 
+      "venue": "EMNLP", 
+      "year": 2006
+    }, 
+    {
+      "isInfluential": true, 
+      "paperId": "3fa58a0dcbf7392e02f744a0f729ba8010b7334c", 
+      "title": "Feature-Rich Part-of-Speech Tagging with a Cyclic Dependency Network", 
+      "url": "https://www.semanticscholar.org/paper/3fa58a0dcbf7392e02f744a0f729ba8010b7334c", 
+      "venue": "HLT-NAACL", 
+      "year": 2003
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "16f471592d674484471735afec2afd4338e49b21", 
+      "title": "Text Chunking using Transformation-Based Learning", 
+      "url": "https://www.semanticscholar.org/paper/16f471592d674484471735afec2afd4338e49b21", 
+      "venue": "ArXiv", 
+      "year": 1995
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "29dbbdc15f6616504ce5f507ecb4a970fb7d372a", 
+      "title": "Syntactic Identification of Occurrences of Multiword Expressions in Text using a Lexicon with Dependency Structures", 
+      "url": "https://www.semanticscholar.org/paper/29dbbdc15f6616504ce5f507ecb4a970fb7d372a", 
+      "venue": "MWE@NAACL-HLT", 
+      "year": 2013
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "0c3cb9f183932e268002a3acaee12419dd979614", 
+      "title": "Multiword Expressions: A Pain in the Neck for NLP", 
+      "url": "https://www.semanticscholar.org/paper/0c3cb9f183932e268002a3acaee12419dd979614", 
+      "venue": "CICLing", 
+      "year": 2002
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "7ae7fadd722ec3c0d06422532bfd4701924b0d83", 
+      "title": "Building a Treebank for French", 
+      "url": "https://www.semanticscholar.org/paper/7ae7fadd722ec3c0d06422532bfd4701924b0d83", 
+      "venue": "LREC", 
+      "year": 2000
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "b4402efcbdaceb282d73c59a01b81a9de66ca3e3", 
+      "title": "The VNC-Tokens Dataset", 
+      "url": "https://www.semanticscholar.org/paper/b4402efcbdaceb282d73c59a01b81a9de66ca3e3", 
+      "venue": "", 
+      "year": 2008
+    }
+  ], 
+  "title": "Discriminative Lexical Semantic Segmentation with Gaps: Running the MWE Gamut", 
+  "url": "https://www.semanticscholar.org/paper/28c9afae9ad913c3ff97fe6e13f472e41738e068", 
+  "venue": "TACL", 
+  "year": 2014
+}

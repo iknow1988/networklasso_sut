@@ -1,0 +1,546 @@
+{
+  "authors": [
+    {
+      "authorId": "1768111", 
+      "name": "Taro Watanabe", 
+      "url": "https://www.semanticscholar.org/author/1768111"
+    }, 
+    {
+      "authorId": "1698363", 
+      "name": "Eiichiro Sumita", 
+      "url": "https://www.semanticscholar.org/author/1698363"
+    }
+  ], 
+  "citationVelocity": 0, 
+  "citations": [
+    {
+      "isInfluential": false, 
+      "paperId": "2b501d64fa2abe12224d6d0dd982119f7ffd2f43", 
+      "title": "Easy-First Dependency Parsing with Hierarchical Tree LSTMs", 
+      "url": "https://www.semanticscholar.org/paper/2b501d64fa2abe12224d6d0dd982119f7ffd2f43", 
+      "venue": "TACL", 
+      "year": 2016
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "7a0d6b4ff7ff3824617912f95a2f52c8955aca9a", 
+      "title": "In-Order Transition-based Constituent Parsing", 
+      "url": "https://www.semanticscholar.org/paper/7a0d6b4ff7ff3824617912f95a2f52c8955aca9a", 
+      "venue": "ArXiv", 
+      "year": 2017
+    }, 
+    {
+      "isInfluential": true, 
+      "paperId": "0e08a9fa9d85646f52665be81e82b6755fba9c77", 
+      "title": "Expected F-Measure Training for Shift-Reduce Parsing with Recurrent Neural Networks", 
+      "url": "https://www.semanticscholar.org/paper/0e08a9fa9d85646f52665be81e82b6755fba9c77", 
+      "venue": "HLT-NAACL", 
+      "year": 2016
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "fd900722b061f23ee82ae6257f7a1b4c4a4f1740", 
+      "title": "Encoder-Decoder Shift-Reduce Syntactic Parsing", 
+      "url": "https://www.semanticscholar.org/paper/fd900722b061f23ee82ae6257f7a1b4c4a4f1740", 
+      "venue": "ArXiv", 
+      "year": 2017
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "087f4285d504513f4b06319153fa43132c34fc60", 
+      "title": "LSTM Shift-Reduce CCG Parsing", 
+      "url": "https://www.semanticscholar.org/paper/087f4285d504513f4b06319153fa43132c34fc60", 
+      "venue": "EMNLP", 
+      "year": 2016
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "112634929e11c747f80d3ad74a8dd4bfc6f3794f", 
+      "title": "Shift-Reduce CCG Parsing using Neural Network Models", 
+      "url": "https://www.semanticscholar.org/paper/112634929e11c747f80d3ad74a8dd4bfc6f3794f", 
+      "venue": "HLT-NAACL", 
+      "year": 2016
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "0ff9ea8409c932baf3c0302c89ede79add1431aa", 
+      "title": "Globally Normalized Transition-Based Neural Networks", 
+      "url": "https://www.semanticscholar.org/paper/0ff9ea8409c932baf3c0302c89ede79add1431aa", 
+      "venue": "ACL", 
+      "year": 2016
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "19d78d8c072b60294792c523742a8609accf3890", 
+      "title": "A Primer on Neural Network Models for Natural Language Processing", 
+      "url": "https://www.semanticscholar.org/paper/19d78d8c072b60294792c523742a8609accf3890", 
+      "venue": "J. Artif. Intell. Res.", 
+      "year": 2016
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "7f4c35d9f69ff3ca798e7f4f0947bf232a3c15e8", 
+      "title": "Reducing Lexical Features in Parsing by Word Embeddings", 
+      "url": "https://www.semanticscholar.org/paper/7f4c35d9f69ff3ca798e7f4f0947bf232a3c15e8", 
+      "venue": "PACLIC", 
+      "year": 2015
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "715dde17239c52b3f9924a5a35edc32b0f27830b", 
+      "title": "Span-Based Constituency Parsing with a Structure-Label System and Provably Optimal Dynamic Oracles", 
+      "url": "https://www.semanticscholar.org/paper/715dde17239c52b3f9924a5a35edc32b0f27830b", 
+      "venue": "EMNLP", 
+      "year": 2016
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "029bf880f3774d9bf735cd447b032f681626adba", 
+      "title": "Agreement on Target-bidirectional Neural Machine Translation", 
+      "url": "https://www.semanticscholar.org/paper/029bf880f3774d9bf735cd447b032f681626adba", 
+      "venue": "HLT-NAACL", 
+      "year": 2016
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "ee4fe17237c810fd36b49d6581d00b491c27d5fb", 
+      "title": "Evaluating a Deterministic Shift-Reduce Neural Parser for Constituent Parsing", 
+      "url": "https://www.semanticscholar.org/paper/ee4fe17237c810fd36b49d6581d00b491c27d5fb", 
+      "venue": "LREC", 
+      "year": 2016
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "610212c729680cf0635f0e280dcddd94b8c87a1d", 
+      "title": "Transition-Based Left-Corner Parsing for Identifying PTB-Style Nonlocal Dependencies", 
+      "url": "https://www.semanticscholar.org/paper/610212c729680cf0635f0e280dcddd94b8c87a1d", 
+      "venue": "ACL", 
+      "year": 2016
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "e5363b97a0722c9fa92f989eb69f0a3ea8944e68", 
+      "title": "A Neural Probabilistic Structured-Prediction Method for Transition-Based Natural Language Processing", 
+      "url": "https://www.semanticscholar.org/paper/e5363b97a0722c9fa92f989eb69f0a3ea8944e68", 
+      "venue": "J. Artif. Intell. Res.", 
+      "year": 2017
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "b4fd524944b2e8f243ba6a140012954d16af71d2", 
+      "title": "Neural Greedy Constituent Parsing with Dynamic Oracles", 
+      "url": "https://www.semanticscholar.org/paper/b4fd524944b2e8f243ba6a140012954d16af71d2", 
+      "venue": "ACL", 
+      "year": 2016
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "6b5da884d4405eed8da18e5fe4dc7127545a3175", 
+      "title": "Polyglot Neural Language Models: A Case Study in Cross-Lingual Phonetic Representation Learning", 
+      "url": "https://www.semanticscholar.org/paper/6b5da884d4405eed8da18e5fe4dc7127545a3175", 
+      "venue": "HLT-NAACL", 
+      "year": 2016
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "4726696d1fba1fa1a3a30fdfd0a84c9a855411e3", 
+      "title": "Transition-Based Neural Word Segmentation", 
+      "url": "https://www.semanticscholar.org/paper/4726696d1fba1fa1a3a30fdfd0a84c9a855411e3", 
+      "venue": "ACL", 
+      "year": 2016
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "28703eef8fe505e8bd592ced3ce52a597097b031", 
+      "title": "Sequence-to-Sequence Learning as Beam-Search Optimization", 
+      "url": "https://www.semanticscholar.org/paper/28703eef8fe505e8bd592ced3ce52a597097b031", 
+      "venue": "EMNLP", 
+      "year": 2016
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "55346826fbe985e3d3cd5b455abf869bcda6e9bd", 
+      "title": "Shift-Reduce Constituent Parsing with Neural Lookahead Features", 
+      "url": "https://www.semanticscholar.org/paper/55346826fbe985e3d3cd5b455abf869bcda6e9bd", 
+      "venue": "TACL", 
+      "year": 2017
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "c46c63ebda9644f453f3df5e37b7eea7ef91ec11", 
+      "title": "Indonesian shift-reduce constituent parser", 
+      "url": "https://www.semanticscholar.org/paper/c46c63ebda9644f453f3df5e37b7eea7ef91ec11", 
+      "venue": "2016 International Conference on Data and Software Engineering (ICoDSE)", 
+      "year": 2016
+    }
+  ], 
+  "doi": null, 
+  "influentialCitationCount": 1, 
+  "paperId": "2288985b24b95be22eb25bfba8a63e77d9c4115f", 
+  "references": [
+    {
+      "isInfluential": false, 
+      "paperId": "0894b06cff1cd0903574acaa7fcf071b144ae775", 
+      "title": "Fast and Robust Neural Network Joint Models for Statistical Machine Translation", 
+      "url": "https://www.semanticscholar.org/paper/0894b06cff1cd0903574acaa7fcf071b144ae775", 
+      "venue": "ACL", 
+      "year": 2014
+    }, 
+    {
+      "isInfluential": true, 
+      "paperId": "209ba9f612f34583a23b75c0e8dadc410c400bb2", 
+      "title": "Parsing with Compositional Vector Grammars", 
+      "url": "https://www.semanticscholar.org/paper/209ba9f612f34583a23b75c0e8dadc410c400bb2", 
+      "venue": "ACL", 
+      "year": 2013
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "87e10591db57b2688dcb9c77412c94a4aa01af88", 
+      "title": "Efficient Online and Batch Learning Using Forward Backward Splitting", 
+      "url": "https://www.semanticscholar.org/paper/87e10591db57b2688dcb9c77412c94a4aa01af88", 
+      "venue": "Journal of Machine Learning Research", 
+      "year": 2009
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "57e7f1c49b7a90b69c83569611c36198c9118b23", 
+      "title": "A Connectionist Parser with Recursive Sentence Structure and Lexical Disambiguation", 
+      "url": "https://www.semanticscholar.org/paper/57e7f1c49b7a90b69c83569611c36198c9118b23", 
+      "venue": "AAAI", 
+      "year": 1992
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "c8523bba348d00b65c516518281a35837509d617", 
+      "title": "Learning Task-Dependent Distributed Representations by Backpropagation Through Structure", 
+      "url": "https://www.semanticscholar.org/paper/c8523bba348d00b65c516518281a35837509d617", 
+      "venue": "", 
+      "year": 1996
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "46134df50c88bce074d451252aa029676f9c5093", 
+      "title": "Probabilistic CFG with Latent Annotations", 
+      "url": "https://www.semanticscholar.org/paper/46134df50c88bce074d451252aa029676f9c5093", 
+      "venue": "ACL", 
+      "year": 2005
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "293bfda2981cb2af272430fa35139a702d863749", 
+      "title": "Recursive Distributed Representations", 
+      "url": "https://www.semanticscholar.org/paper/293bfda2981cb2af272430fa35139a702d863749", 
+      "venue": "Artif. Intell.", 
+      "year": 1990
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "6360f24c6eeb30f76c4f5eaf1a64dfb8c433bcc5", 
+      "title": "SARDSRN: A Neural Network Shift-Reduce Parser", 
+      "url": "https://www.semanticscholar.org/paper/6360f24c6eeb30f76c4f5eaf1a64dfb8c433bcc5", 
+      "venue": "IJCAI", 
+      "year": 1999
+    }, 
+    {
+      "isInfluential": true, 
+      "paperId": "174bbdb96252454cbb40a9c4e53335996235a008", 
+      "title": "Fast and Accurate Shift-Reduce Constituent Parsing", 
+      "url": "https://www.semanticscholar.org/paper/174bbdb96252454cbb40a9c4e53335996235a008", 
+      "venue": "ACL", 
+      "year": 2013
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "05aba481e8a221df5d8775a3bb749001e7f2525e", 
+      "title": "Adaptive Subgradient Methods for Online Learning and Stochastic Optimization", 
+      "url": "https://www.semanticscholar.org/paper/05aba481e8a221df5d8775a3bb749001e7f2525e", 
+      "venue": "COLT", 
+      "year": 2010
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "18b534c7207a1376fa92e87fe0d2cfb358d98c51", 
+      "title": "Accurate Unlexicalized Parsing", 
+      "url": "https://www.semanticscholar.org/paper/18b534c7207a1376fa92e87fe0d2cfb358d98c51", 
+      "venue": "ACL", 
+      "year": 2003
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "0ecb33ced5b0976accdf13817151f80568b6fdcb", 
+      "title": "Coarse-to-Fine n-Best Parsing and MaxEnt Discriminative Reranking", 
+      "url": "https://www.semanticscholar.org/paper/0ecb33ced5b0976accdf13817151f80568b6fdcb", 
+      "venue": "ACL", 
+      "year": 2005
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "41828fc3dab24784f95e6976e8aaa73f68e1840e", 
+      "title": "Incremental Parsing with the Perceptron Algorithm", 
+      "url": "https://www.semanticscholar.org/paper/41828fc3dab24784f95e6976e8aaa73f68e1840e", 
+      "venue": "ACL", 
+      "year": 2004
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "48462d94cc1119c9655d3591a49017db330cc86d", 
+      "title": "Parser Showdown at the Wall Street Corral: An Empirical Investigation of Error Types in Parser Output", 
+      "url": "https://www.semanticscholar.org/paper/48462d94cc1119c9655d3591a49017db330cc86d", 
+      "venue": "EMNLP-CoNLL", 
+      "year": 2012
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "36678a7074addf103449407c6b0bb0bc421a45d7", 
+      "title": "Finding Structure in Time", 
+      "url": "https://www.semanticscholar.org/paper/36678a7074addf103449407c6b0bb0bc421a45d7", 
+      "venue": "Cognitive Science", 
+      "year": 1990
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "0883fc5797a082b66e54d184cbcdc94275b4ff90", 
+      "title": "Towards Incremental Parsing of Natural Language Using Recursive Neural Networks", 
+      "url": "https://www.semanticscholar.org/paper/0883fc5797a082b66e54d184cbcdc94275b4ff90", 
+      "venue": "Applied Intelligence", 
+      "year": 2003
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "ea9d2a2b4ce11aaf85136840c65f3bc9c03ab649", 
+      "title": "Understanding the difficulty of training deep feedforward neural networks", 
+      "url": "https://www.semanticscholar.org/paper/ea9d2a2b4ce11aaf85136840c65f3bc9c03ab649", 
+      "venue": "AISTATS", 
+      "year": 2010
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "7e3b5f0ffec62944f4b97a50553a12a39f54ba4a", 
+      "title": "Recurrent Neural Networks for Word Alignment Model", 
+      "url": "https://www.semanticscholar.org/paper/7e3b5f0ffec62944f4b97a50553a12a39f54ba4a", 
+      "venue": "ACL", 
+      "year": 2014
+    }, 
+    {
+      "isInfluential": true, 
+      "paperId": "9c8affd69f19c1e3fed565d2b07aa98784b106a1", 
+      "title": "Joint POS Tagging and Transition-based Constituent Parsing in Chinese with Non-local Features", 
+      "url": "https://www.semanticscholar.org/paper/9c8affd69f19c1e3fed565d2b07aa98784b106a1", 
+      "venue": "ACL", 
+      "year": 2014
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "044f78097a5944f8e5b5fa60641f35c03a07f1f7", 
+      "title": "A fast and simple algorithm for training neural probabilistic language models", 
+      "url": "https://www.semanticscholar.org/paper/044f78097a5944f8e5b5fa60641f35c03a07f1f7", 
+      "venue": "ICML", 
+      "year": 2012
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "d84b9507ff9687a900fde451f27106d930c1b838", 
+      "title": "Learning Accurate, Compact, and Interpretable Tree Annotation", 
+      "url": "https://www.semanticscholar.org/paper/d84b9507ff9687a900fde451f27106d930c1b838", 
+      "venue": "ACL", 
+      "year": 2006
+    }, 
+    {
+      "isInfluential": true, 
+      "paperId": "d156fcd29ea1287852d9df6b541e67ac6f6bda4a", 
+      "title": "The Penn Chinese TreeBank: Phrase structure annotation of a large corpus", 
+      "url": "https://www.semanticscholar.org/paper/d156fcd29ea1287852d9df6b541e67ac6f6bda4a", 
+      "venue": "Natural Language Engineering", 
+      "year": 2005
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "10007391361e17f41aa92f3430c00830dff3be6a", 
+      "title": "Three Generative, Lexicalised Models for Statistical Parsing", 
+      "url": "https://www.semanticscholar.org/paper/10007391361e17f41aa92f3430c00830dff3be6a", 
+      "venue": "ACL", 
+      "year": 1997
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "16f63ebc5b393524b48932946cb1ba3b6ac5c702", 
+      "title": "Simple Customization of Recursive Neural Networks for Semantic Relation Classification", 
+      "url": "https://www.semanticscholar.org/paper/16f63ebc5b393524b48932946cb1ba3b6ac5c702", 
+      "venue": "EMNLP", 
+      "year": 2013
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "2f768dda2f047a067aa56a20c9e322b15ef60331", 
+      "title": "An empirical study of learning rates in deep neural networks for speech recognition", 
+      "url": "https://www.semanticscholar.org/paper/2f768dda2f047a067aa56a20c9e322b15ef60331", 
+      "venue": "2013 IEEE International Conference on Acoustics, Speech and Signal Processing", 
+      "year": 2013
+    }, 
+    {
+      "isInfluential": true, 
+      "paperId": "1174297ddcf08937a94d8efe4c1efb65f3b92fd8", 
+      "title": "Discriminative Training of a Neural Network Statistical Parser", 
+      "url": "https://www.semanticscholar.org/paper/1174297ddcf08937a94d8efe4c1efb65f3b92fd8", 
+      "venue": "ACL", 
+      "year": 2004
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "47a87c2cbdd928bb081974d308b3d9cf678d257e", 
+      "title": "Recurrent neural network based language model", 
+      "url": "https://www.semanticscholar.org/paper/47a87c2cbdd928bb081974d308b3d9cf678d257e", 
+      "venue": "INTERSPEECH", 
+      "year": 2010
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "723e55901724533dc79c2255ce044fef858db9ae", 
+      "title": "Wide coverage natural language processing using kernel methods and neural networks for structured data", 
+      "url": "https://www.semanticscholar.org/paper/723e55901724533dc79c2255ce044fef858db9ae", 
+      "venue": "Pattern Recognition Letters", 
+      "year": 2005
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "0cbc08adb7a85770d53ac3ce9b2dce2f8f4871ef", 
+      "title": "The Inside-Outside Recursive Neural Network model for Dependency Parsing", 
+      "url": "https://www.semanticscholar.org/paper/0cbc08adb7a85770d53ac3ce9b2dce2f8f4871ef", 
+      "venue": "EMNLP", 
+      "year": 2014
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "0b44fcbeea9415d400c5f5789d6b892b6f98daff", 
+      "title": "Building a Large Annotated Corpus of English: The Penn Treebank", 
+      "url": "https://www.semanticscholar.org/paper/0b44fcbeea9415d400c5f5789d6b892b6f98daff", 
+      "venue": "Computational Linguistics", 
+      "year": 1993
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "4c15b129a8da55127e4e2fe47f54799d0a313367", 
+      "title": "Word Representations: A Simple and General Method for Semi-Supervised Learning", 
+      "url": "https://www.semanticscholar.org/paper/4c15b129a8da55127e4e2fe47f54799d0a313367", 
+      "venue": "ACL", 
+      "year": 2010
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "155baea065396a150f0f8875e088355800fa9449", 
+      "title": "Head-Driven Statistical Models for Natural Language Parsing", 
+      "url": "https://www.semanticscholar.org/paper/155baea065396a150f0f8875e088355800fa9449", 
+      "venue": "Computational Linguistics", 
+      "year": 2003
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "a76aac7697a9ad2f0d522fbd15b553697f1eb7bc", 
+      "title": "Transition-based Dependency Parsing Using Recursive Neural Networks", 
+      "url": "https://www.semanticscholar.org/paper/a76aac7697a9ad2f0d522fbd15b553697f1eb7bc", 
+      "venue": "", 
+      "year": 2013
+    }, 
+    {
+      "isInfluential": true, 
+      "paperId": "171f360eaf6a9242cf2f8b4edbc87633e011543f", 
+      "title": "Inducing History Representations for Broad Coverage Statistical Parsing", 
+      "url": "https://www.semanticscholar.org/paper/171f360eaf6a9242cf2f8b4edbc87633e011543f", 
+      "venue": "HLT-NAACL", 
+      "year": 2003
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "6926c4a61777fdd45399b59ca03d9a7fae410c75", 
+      "title": "A Maximum-Entropy-Inspired Parser", 
+      "url": "https://www.semanticscholar.org/paper/6926c4a61777fdd45399b59ca03d9a7fae410c75", 
+      "venue": "ANLP", 
+      "year": 2000
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "346bcbebafd193aba689269da2de51bfaf163df2", 
+      "title": "Discriminative Reranking for Natural Language Parsing", 
+      "url": "https://www.semanticscholar.org/paper/346bcbebafd193aba689269da2de51bfaf163df2", 
+      "venue": "ICML", 
+      "year": 2000
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "4add8164f2de84223235a6cd8240bdf0fefe2b3f", 
+      "title": "Improved Inference for Unlexicalized Parsing", 
+      "url": "https://www.semanticscholar.org/paper/4add8164f2de84223235a6cd8240bdf0fefe2b3f", 
+      "venue": "HLT-NAACL", 
+      "year": 2007
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "3fa58a0dcbf7392e02f744a0f729ba8010b7334c", 
+      "title": "Feature-Rich Part-of-Speech Tagging with a Cyclic Dependency Network", 
+      "url": "https://www.semanticscholar.org/paper/3fa58a0dcbf7392e02f744a0f729ba8010b7334c", 
+      "venue": "HLT-NAACL", 
+      "year": 2003
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "1aec04aa64f165bb075cc4ce6ad79d36c89d62b6", 
+      "title": "Long Short-Term Memory", 
+      "url": "https://www.semanticscholar.org/paper/1aec04aa64f165bb075cc4ce6ad79d36c89d62b6", 
+      "venue": "Neural Computation", 
+      "year": 1997
+    }, 
+    {
+      "isInfluential": true, 
+      "paperId": "859af6e67aec769c58ec1ea6a971108a60df0b9d", 
+      "title": "Structured Perceptron with Inexact Search", 
+      "url": "https://www.semanticscholar.org/paper/859af6e67aec769c58ec1ea6a971108a60df0b9d", 
+      "venue": "HLT-NAACL", 
+      "year": 2012
+    }, 
+    {
+      "isInfluential": true, 
+      "paperId": "769c349911fb4b31659d0fb31ad08e173abf6762", 
+      "title": "A Classifier-Based Parser With Linear Run-Time Complexity", 
+      "url": "https://www.semanticscholar.org/paper/769c349911fb4b31659d0fb31ad08e173abf6762", 
+      "venue": "", 
+      "year": 2005
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "13eba30632154428725983fcd8343f3f1b3f0695", 
+      "title": "A Fast and Accurate Dependency Parser using Neural Networks", 
+      "url": "https://www.semanticscholar.org/paper/13eba30632154428725983fcd8343f3f1b3f0695", 
+      "venue": "EMNLP", 
+      "year": 2014
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "0122e063ca5f0f9fb9d144d44d41421503252010", 
+      "title": "Large Scale Distributed Deep Networks", 
+      "url": "https://www.semanticscholar.org/paper/0122e063ca5f0f9fb9d144d44d41421503252010", 
+      "venue": "NIPS", 
+      "year": 2012
+    }, 
+    {
+      "isInfluential": true, 
+      "paperId": "865081156ed7506d21de25d7b865f278b6b8191d", 
+      "title": "Transition-Based Parsing of the Chinese Treebank using a Global Discriminative Model", 
+      "url": "https://www.semanticscholar.org/paper/865081156ed7506d21de25d7b865f278b6b8191d", 
+      "venue": "IWPT", 
+      "year": 2009
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "19017e68fa44438132935c526a45ca573f33c8e6", 
+      "title": "Less Grammar, More Features", 
+      "url": "https://www.semanticscholar.org/paper/19017e68fa44438132935c526a45ca573f33c8e6", 
+      "venue": "ACL", 
+      "year": 2014
+    }
+  ], 
+  "title": "Transition-based Neural Constituent Parsing", 
+  "url": "https://www.semanticscholar.org/paper/2288985b24b95be22eb25bfba8a63e77d9c4115f", 
+  "venue": "ACL", 
+  "year": 2015
+}

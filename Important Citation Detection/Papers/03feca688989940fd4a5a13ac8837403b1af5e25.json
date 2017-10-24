@@ -1,0 +1,623 @@
+{
+  "authors": [
+    {
+      "authorId": "2652197", 
+      "name": "Xuchen Yao", 
+      "url": "https://www.semanticscholar.org/author/2652197"
+    }, 
+    {
+      "authorId": "7536576", 
+      "name": "Benjamin Van Durme", 
+      "url": "https://www.semanticscholar.org/author/7536576"
+    }, 
+    {
+      "authorId": "1763608", 
+      "name": "Chris Callison-Burch", 
+      "url": "https://www.semanticscholar.org/author/1763608"
+    }, 
+    {
+      "authorId": "2965320", 
+      "name": "Peter Clark", 
+      "url": "https://www.semanticscholar.org/author/2965320"
+    }
+  ], 
+  "citationVelocity": 29, 
+  "citations": [
+    {
+      "isInfluential": false, 
+      "paperId": "25ac694fa23f733679496a139e9168472e267865", 
+      "title": "Convolutional Neural Networks vs. Convolution Kernels: Feature Engineering for Answer Sentence Reranking", 
+      "url": "https://www.semanticscholar.org/paper/25ac694fa23f733679496a139e9168472e267865"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "9877a4b41ec80e8db7b1b3b8fa87b95d94179713", 
+      "title": "Learning Semantic Relatedness in Community Question Answering Using Neural Models", 
+      "url": "https://www.semanticscholar.org/paper/9877a4b41ec80e8db7b1b3b8fa87b95d94179713"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "00b29d896781fb9d74687d5a6b3cd411a063ddba", 
+      "title": "Bayesian Supervised Domain Adaptation for Short Text Similarity", 
+      "url": "https://www.semanticscholar.org/paper/00b29d896781fb9d74687d5a6b3cd411a063ddba"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "44bccaba201bcf44ecc3d1b81a4218bb4b96c015", 
+      "title": "Tree Edit Distance Cannot be Computed in Strongly Subcubic Time (unless APSP can)", 
+      "url": "https://www.semanticscholar.org/paper/44bccaba201bcf44ecc3d1b81a4218bb4b96c015"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "03fe39386ce90e10ec87f10e00532c5cf30b244f", 
+      "title": "WikiQA: A Challenge Dataset for Open-Domain Question Answering", 
+      "url": "https://www.semanticscholar.org/paper/03fe39386ce90e10ec87f10e00532c5cf30b244f"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "60605dc7210eb9986c7e8c037430ffb37a0da532", 
+      "title": "Biomedical Question Answering using the YodaQA System: Prototype Notes", 
+      "url": "https://www.semanticscholar.org/paper/60605dc7210eb9986c7e8c037430ffb37a0da532"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "64bb0792e187663e8589bc92a7824e00887febcb", 
+      "title": "FAQ-based Question Answering via Word Alignment", 
+      "url": "https://www.semanticscholar.org/paper/64bb0792e187663e8589bc92a7824e00887febcb"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "68e4aedc69518d8db2f143bd3952668aa41c762c", 
+      "title": "Noise-Contrastive Estimation for Answer Selection with Deep Neural Networks", 
+      "url": "https://www.semanticscholar.org/paper/68e4aedc69518d8db2f143bd3952668aa41c762c"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "b691476c61807bcafba8d4ba10de5353cab3829e", 
+      "title": "Predicate Argument Alignment using a Global Coherence Model", 
+      "url": "https://www.semanticscholar.org/paper/b691476c61807bcafba8d4ba10de5353cab3829e"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "a62b58c267fddfa06545a7fc63a3c62ef7dc9e15", 
+      "title": "Deep Learning for Answer Sentence Selection", 
+      "url": "https://www.semanticscholar.org/paper/a62b58c267fddfa06545a7fc63a3c62ef7dc9e15"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "a0c098337a726274db31bc5ec67d17c29c5e7eae", 
+      "title": "In Defense of Word Embedding for Generic Text Representation", 
+      "url": "https://www.semanticscholar.org/paper/a0c098337a726274db31bc5ec67d17c29c5e7eae"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "5f70c352e2ceefdb09d842959562c41ba2bfa3a8", 
+      "title": "Passing a USA National Bar Exam: a First Corpus for Experimentation", 
+      "url": "https://www.semanticscholar.org/paper/5f70c352e2ceefdb09d842959562c41ba2bfa3a8"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "828dbeb7cf922dc9b6657dd169b8d26d2b58eedb", 
+      "title": "A Long Short-Term Memory Model for Answer Sentence Selection in Question Answering", 
+      "url": "https://www.semanticscholar.org/paper/828dbeb7cf922dc9b6657dd169b8d26d2b58eedb"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "2c41fb6c7a1297a09a045f8c8f4fbba8800229a3", 
+      "title": "PARMA: A Predicate Argument Aligner", 
+      "url": "https://www.semanticscholar.org/paper/2c41fb6c7a1297a09a045f8c8f4fbba8800229a3"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "52956422f86722aca6becb67ea4c3ad61f0c1aea", 
+      "title": "Inner Attention based Recurrent Neural Networks for Answer Selection", 
+      "url": "https://www.semanticscholar.org/paper/52956422f86722aca6becb67ea4c3ad61f0c1aea"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "9a7b75c6f1cbe0ac184cf5d598ef85070d52c327", 
+      "title": "SemEval-2015 Task 3: Answer Selection in Community Question Answering", 
+      "url": "https://www.semanticscholar.org/paper/9a7b75c6f1cbe0ac184cf5d598ef85070d52c327"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "6c61c81ba6df1f47734e7c5bcf928c9276bfce2c", 
+      "title": "DLS$@$CU at SemEval-2016 Task 1: Supervised Models of Sentence Similarity", 
+      "url": "https://www.semanticscholar.org/paper/6c61c81ba6df1f47734e7c5bcf928c9276bfce2c"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "1375a19dd4429a064d7fee959ff07d495ba8c06c", 
+      "title": "Semi-Markov Phrase-Based Monolingual Alignment", 
+      "url": "https://www.semanticscholar.org/paper/1375a19dd4429a064d7fee959ff07d495ba8c06c"
+    }, 
+    {
+      "isInfluential": true, 
+      "paperId": "3e393df4a5731fb7b49cf2f527fed1ee4e6e6942", 
+      "title": "Question Answering Using Enhanced Lexical Semantic Models", 
+      "url": "https://www.semanticscholar.org/paper/3e393df4a5731fb7b49cf2f527fed1ee4e6e6942"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "9bbce25210862a4e475ad843f2dddd9df0fdebb3", 
+      "title": "Summarizing Answers in Non-Factoid Community Question-Answering", 
+      "url": "https://www.semanticscholar.org/paper/9bbce25210862a4e475ad843f2dddd9df0fdebb3"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "0476b7d387d2a6381a784b2b89ccf7baef098f5e", 
+      "title": "Pairwise Word Interaction Modeling with Deep Neural Networks for Semantic Similarity Measurement", 
+      "url": "https://www.semanticscholar.org/paper/0476b7d387d2a6381a784b2b89ccf7baef098f5e"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "24b4746688c15c8580d1000d4f4ac63f5eb79561", 
+      "title": "LSTM-based Deep Learning Models for non-factoid answer selection", 
+      "url": "https://www.semanticscholar.org/paper/24b4746688c15c8580d1000d4f4ac63f5eb79561"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "97ef1e8e5860ba2102058cccb39bae94c0d441fb", 
+      "title": "Automatic Coupling of Answer Extraction and Information Retrieval", 
+      "url": "https://www.semanticscholar.org/paper/97ef1e8e5860ba2102058cccb39bae94c0d441fb"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "31cdbbda291190dc444545db823faeb2de184501", 
+      "title": "LSTM-based Deep Learning Models for Answer Ranking", 
+      "url": "https://www.semanticscholar.org/paper/31cdbbda291190dc444545db823faeb2de184501"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "00d7f652c4147163dbfd3aa60c97471e7afa4861", 
+      "title": "Question Answering on Freebase via Relation Extraction and Textual Evidence", 
+      "url": "https://www.semanticscholar.org/paper/00d7f652c4147163dbfd3aa60c97471e7afa4861"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "f5039907a0c2efa8a9472ce6faf8ee1d1799e153", 
+      "title": "A Case-Based Reasoning Approach to Convert Natural Language into First Order Logic", 
+      "url": "https://www.semanticscholar.org/paper/f5039907a0c2efa8a9472ce6faf8ee1d1799e153"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "ea70aefddcd70b0f63e3588468453790cfc9e598", 
+      "title": "Automatically Extracting High-ality Negative Examples for Answer Selection inestion Answering", 
+      "url": "https://www.semanticscholar.org/paper/ea70aefddcd70b0f63e3588468453790cfc9e598"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "32b0e58be4914e7c655dcce533a19f20daee6cc5", 
+      "title": "SemEval-2016 Task 3: Community Question Answering", 
+      "url": "https://www.semanticscholar.org/paper/32b0e58be4914e7c655dcce533a19f20daee6cc5"
+    }, 
+    {
+      "isInfluential": true, 
+      "paperId": "7aa63f414a4d7c6e4369a15a04dc5d3eb5da2b0e", 
+      "title": "Automatic Feature Engineering for Answer Selection and Extraction", 
+      "url": "https://www.semanticscholar.org/paper/7aa63f414a4d7c6e4369a15a04dc5d3eb5da2b0e"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "8e04c039a2ab5ea8bcb4029100b99c9764147dec", 
+      "title": "Assessing the Impact of Syntactic and Semantic Structures for Answer Passages Reranking", 
+      "url": "https://www.semanticscholar.org/paper/8e04c039a2ab5ea8bcb4029100b99c9764147dec"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "add066d420bb2cf59ba8d51647426d7167dd5ccc", 
+      "title": "Thread-Level Information for Comment Classification in Community Question Answering", 
+      "url": "https://www.semanticscholar.org/paper/add066d420bb2cf59ba8d51647426d7167dd5ccc"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "4db2330c32989a7f4e392980fc61a4773e1b0e32", 
+      "title": "How to Build Templates for RDF Question/Answering: An Uncertain Graph Similarity Join Approach", 
+      "url": "https://www.semanticscholar.org/paper/4db2330c32989a7f4e392980fc61a4773e1b0e32"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "73d826d4c2363701b88e3e234fe3b8756c0f9671", 
+      "title": "Learning to Rank Short Text Pairs with Convolutional Deep Neural Networks", 
+      "url": "https://www.semanticscholar.org/paper/73d826d4c2363701b88e3e234fe3b8756c0f9671"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "29990c3f2d38b052414886bae5f35cbac8224033", 
+      "title": "M$^2$S-Net: Multi-Modal Similarity Metric Learning based Deep Convolutional Network for Answer Selection", 
+      "url": "https://www.semanticscholar.org/paper/29990c3f2d38b052414886bae5f35cbac8224033"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "2305f0f7302edf3b4993e02aa2315447c37e36bf", 
+      "title": "ABiRCNN with neural tensor network for answer selection", 
+      "url": "https://www.semanticscholar.org/paper/2305f0f7302edf3b4993e02aa2315447c37e36bf"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "3dc8f5a7dcdfbdfad4a14bd9a4587de1fb1c2c22", 
+      "title": "Discriminative Information Retrieval for Knowledge Discovery", 
+      "url": "https://www.semanticscholar.org/paper/3dc8f5a7dcdfbdfad4a14bd9a4587de1fb1c2c22"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "9d2bfb28ea197ec1a0f4266aefde2f9129638193", 
+      "title": "Hybrid Question Answering over Knowledge Base and Free Text", 
+      "url": "https://www.semanticscholar.org/paper/9d2bfb28ea197ec1a0f4266aefde2f9129638193"
+    }, 
+    {
+      "isInfluential": true, 
+      "paperId": "59018eb4d0a5161a12cdca42cbcb6bf78d73612f", 
+      "title": "A Joint Model for Answer Sentence Ranking and Answer Extraction", 
+      "url": "https://www.semanticscholar.org/paper/59018eb4d0a5161a12cdca42cbcb6bf78d73612f"
+    }, 
+    {
+      "isInfluential": true, 
+      "paperId": "a065e3b757a87852ca88eab5639e084aa942f70a", 
+      "title": "Back to Basics for Monolingual Alignment: Exploiting Word Similarity and Contextual Evidence", 
+      "url": "https://www.semanticscholar.org/paper/a065e3b757a87852ca88eab5639e084aa942f70a"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "e7ba4a3bb3b59b20e8cdca0f83b1133c380f3fff", 
+      "title": "Learning to Rank Question Answer Pairs with Holographic Dual LSTM Architecture", 
+      "url": "https://www.semanticscholar.org/paper/e7ba4a3bb3b59b20e8cdca0f83b1133c380f3fff"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "cb251429bb45acff3074add06ce20706dfc76e55", 
+      "title": "Discriminative Information Retrieval for Question Answering Sentence Selection", 
+      "url": "https://www.semanticscholar.org/paper/cb251429bb45acff3074add06ce20706dfc76e55"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "10fa13117d33291d0570f00c3d09254a09afb62c", 
+      "title": "An Exploration of Approaches to Integrating Neural Reranking Models in Multi-Stage Ranking Architectures", 
+      "url": "https://www.semanticscholar.org/paper/10fa13117d33291d0570f00c3d09254a09afb62c"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "4697052d5eb48b40700bdc25045fdd21ceb5a5a0", 
+      "title": "Transforming Dependency Structures to Logical Forms for Semantic Parsing", 
+      "url": "https://www.semanticscholar.org/paper/4697052d5eb48b40700bdc25045fdd21ceb5a5a0"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "3c3e27872d7f1a0f783c49b809a58d3ad4b8d904", 
+      "title": "Exploring the Effectiveness of Convolutional Neural Networks for Answer Selection in End-to-End Question Answering", 
+      "url": "https://www.semanticscholar.org/paper/3c3e27872d7f1a0f783c49b809a58d3ad4b8d904"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "42f099e885352ea3bf8aed612b5f5ffa334a8bd3", 
+      "title": "Attention-based encoder-decoder model for answer selection in question answering", 
+      "url": "https://www.semanticscholar.org/paper/42f099e885352ea3bf8aed612b5f5ffa334a8bd3"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "5b8c127cd01ee237c45c2841ac78cd69b48a87c3", 
+      "title": "Enabling Efficient Question Answer Retrieval via Hyperbolic Neural Networks", 
+      "url": "https://www.semanticscholar.org/paper/5b8c127cd01ee237c45c2841ac78cd69b48a87c3"
+    }, 
+    {
+      "isInfluential": true, 
+      "paperId": "364c1a3df58d87cb40ab33fdf3831cf2862f3570", 
+      "title": "aNMM: Ranking Short Answer Texts with Attention-Based Neural Matching Model", 
+      "url": "https://www.semanticscholar.org/paper/364c1a3df58d87cb40ab33fdf3831cf2862f3570"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "8519097e35e16bfcddd686d551daf08106627d0c", 
+      "title": "Effective Shared Representations with Multitask Learning for Community Question Answering", 
+      "url": "https://www.semanticscholar.org/paper/8519097e35e16bfcddd686d551daf08106627d0c"
+    }, 
+    {
+      "isInfluential": true, 
+      "paperId": "2c7916912e92b69d61dcf5819286bb5f450a4b63", 
+      "title": "Building structures from classifiers for passage reranking", 
+      "url": "https://www.semanticscholar.org/paper/2c7916912e92b69d61dcf5819286bb5f450a4b63"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "fb5fb15c3a8663f7d2f8447bf4e315b39a06ed81", 
+      "title": "Hand in Glove: Deep Feature Fusion Network Architectures for Answer Quality Prediction in Community Question Answering", 
+      "url": "https://www.semanticscholar.org/paper/fb5fb15c3a8663f7d2f8447bf4e315b39a06ed81"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "0b60f3506d053c808e0c423960ea24c5097ac638", 
+      "title": "Learning Text Pair Similarity with Context-sensitive Autoencoders", 
+      "url": "https://www.semanticscholar.org/paper/0b60f3506d053c808e0c423960ea24c5097ac638"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "4e8e560328f8d7358535913d56b35f0ac89606be", 
+      "title": "Attentive Pooling Networks", 
+      "url": "https://www.semanticscholar.org/paper/4e8e560328f8d7358535913d56b35f0ac89606be"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "e7bcd3de26dd1000d974ab97445d0634070dea4c", 
+      "title": "A Unified Kernel Approach for Learning Typed Sentence Rewritings", 
+      "url": "https://www.semanticscholar.org/paper/e7bcd3de26dd1000d974ab97445d0634070dea4c"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "99f088540f33d2a5504fee5e2454b54fbe0c0655", 
+      "title": "Beyond Factoid QA: Effective Methods for Non-factoid Answer Sentence Retrieval", 
+      "url": "https://www.semanticscholar.org/paper/99f088540f33d2a5504fee5e2454b54fbe0c0655"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "0434b160bb97fb8f0533d056db81898a4a76ffec", 
+      "title": "Answer Quality Prediction Joint Textual and Non-Textual Features", 
+      "url": "https://www.semanticscholar.org/paper/0434b160bb97fb8f0533d056db81898a4a76ffec"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "12e3afc75204bc3ccb9aa1b03a3e357e43b6ba66", 
+      "title": "Evaluation for Partial Event Coreference", 
+      "url": "https://www.semanticscholar.org/paper/12e3afc75204bc3ccb9aa1b03a3e357e43b6ba66"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "8d065949fad7e49597d0add35c83e3d3183938c1", 
+      "title": "Taking the best from the Crowd: Learning Question Passage Classification from Noisy Data", 
+      "url": "https://www.semanticscholar.org/paper/8d065949fad7e49597d0add35c83e3d3183938c1"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "4d7485c4837ebe75d2b94b6aa1f91e8e84f95998", 
+      "title": "Experiments with Convolutional Neural Network Models for Answer Selection", 
+      "url": "https://www.semanticscholar.org/paper/4d7485c4837ebe75d2b94b6aa1f91e8e84f95998"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "bdf28e3cadbabda3261bd904c37edea66ab84766", 
+      "title": "Dataset and Neural Recurrent Sequence Labeling Model for Open-Domain Factoid Question Answering", 
+      "url": "https://www.semanticscholar.org/paper/bdf28e3cadbabda3261bd904c37edea66ab84766"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "b14e6ce5a2361e956db02d938f5aabff22369699", 
+      "title": "Incorporating Label Dependency for Answer Quality Tagging in Community Question Answering via CNN-LSTM-CRF", 
+      "url": "https://www.semanticscholar.org/paper/b14e6ce5a2361e956db02d938f5aabff22369699"
+    }, 
+    {
+      "isInfluential": true, 
+      "paperId": "1261fe9bfde319abcc5d011bc70f7e7547b5258f", 
+      "title": "Improved Representation Learning for Question Answer Matching", 
+      "url": "https://www.semanticscholar.org/paper/1261fe9bfde319abcc5d011bc70f7e7547b5258f"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "7e5955481e9d197cc1cd1b64a90fbd245b88c886", 
+      "title": "Modeling of the Question Answering Task in the YodaQA System", 
+      "url": "https://www.semanticscholar.org/paper/7e5955481e9d197cc1cd1b64a90fbd245b88c886"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "cc0e2d1e2dd622eaa468ee85110a3482baa84f38", 
+      "title": "Tree Matching Using Data Shaping", 
+      "url": "https://www.semanticscholar.org/paper/cc0e2d1e2dd622eaa468ee85110a3482baa84f38"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "1f82e24644e53f7984e31408b3ce949e6749e00b", 
+      "title": "Using Sparse Coding for Answer Summarization in Non-Factoid Community Question-Answering", 
+      "url": "https://www.semanticscholar.org/paper/1f82e24644e53f7984e31408b3ce949e6749e00b"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "d780b5de3fbd0f92647be2f19be14e92f6f8b6f5", 
+      "title": "Semantics-based Graph Approach to Complex Question-Answering", 
+      "url": "https://www.semanticscholar.org/paper/d780b5de3fbd0f92647be2f19be14e92f6f8b6f5"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "fae2092079a30401341abc4cf3a48c055d3106ba", 
+      "title": "Modeling Relational Information in Question-Answer Pairs with Convolutional Neural Networks", 
+      "url": "https://www.semanticscholar.org/paper/fae2092079a30401341abc4cf3a48c055d3106ba"
+    }
+  ], 
+  "doi": null, 
+  "influentialCitationCount": 7, 
+  "paperId": "03feca688989940fd4a5a13ac8837403b1af5e25", 
+  "references": [
+    {
+      "isInfluential": true, 
+      "paperId": "8032c9626c7dbc33ac79ce6900b99df28822a41f", 
+      "title": "Tree Edit Models for Recognizing Textual Entailments, Paraphrases, and Answers to Questions", 
+      "url": "https://www.semanticscholar.org/paper/8032c9626c7dbc33ac79ce6900b99df28822a41f"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "6c6609e0f9e8bf25ed2ca6f57cb6023382d629bf", 
+      "title": "Automatic Derivation of Surface Text Patterns for a Maximum Entropy Based Question Answering System", 
+      "url": "https://www.semanticscholar.org/paper/6c6609e0f9e8bf25ed2ca6f57cb6023382d629bf"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "939ee70d7fd420580eec89ad543f21ab92644f81", 
+      "title": "Exploiting Syntactic and Shallow Semantic Kernels for Question Answer Classification", 
+      "url": "https://www.semanticscholar.org/paper/939ee70d7fd420580eec89ad543f21ab92644f81"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "05a78c9daf602e950112842a3eebe78be1e7f1c7", 
+      "title": "Enabling domain experts to convey questions to a machine: a modified, template-based approach", 
+      "url": "https://www.semanticscholar.org/paper/05a78c9daf602e950112842a3eebe78be1e7f1c7"
+    }, 
+    {
+      "isInfluential": true, 
+      "paperId": "02434c866bf753975d1881607f063b6b6de9b011", 
+      "title": "TASM: Top-k Approximate Subtree Matching", 
+      "url": "https://www.semanticscholar.org/paper/02434c866bf753975d1881607f063b6b6de9b011"
+    }, 
+    {
+      "isInfluential": true, 
+      "paperId": "277ff0c74cc72663d0aabbeae25a3e97b245457c", 
+      "title": "Simple Fast Algorithms for the Editing Distance Between Trees and Related Problems", 
+      "url": "https://www.semanticscholar.org/paper/277ff0c74cc72663d0aabbeae25a3e97b245457c"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "2860f2b2a579b7c488b68e5770db55d47dc06d77", 
+      "title": "Learning Question Classifiers", 
+      "url": "https://www.semanticscholar.org/paper/2860f2b2a579b7c488b68e5770db55d47dc06d77"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "f82c3f6223d1d7d82fc5b04b7e27347a75ea275c", 
+      "title": "Testing the Reasoning for Question Answering Validation", 
+      "url": "https://www.semanticscholar.org/paper/f82c3f6223d1d7d82fc5b04b7e27347a75ea275c"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "d6bf67fac447ce6e7c1ec546ca56af30a4060040", 
+      "title": "Quasi-Synchronous Grammars: Alignment By Soft Projection Of Syntactic Dependencies", 
+      "url": "https://www.semanticscholar.org/paper/d6bf67fac447ce6e7c1ec546ca56af30a4060040"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "2bdbea0ce990ecb4f9001d3afb261f246aa8595a", 
+      "title": "Analysis of Statistical Question Classification for Fact-Based Questions", 
+      "url": "https://www.semanticscholar.org/paper/2bdbea0ce990ecb4f9001d3afb261f246aa8595a"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "4a7f8987748828ec6010bff2a5dac6b33d4de659", 
+      "title": "Performance Issues and Error Analysis in an Open-Domain Question Answering System", 
+      "url": "https://www.semanticscholar.org/paper/4a7f8987748828ec6010bff2a5dac6b33d4de659"
+    }, 
+    {
+      "isInfluential": true, 
+      "paperId": "33c1928180d4de567ef0711ee6c500e18cb6dfe0", 
+      "title": "Automatic web news extraction using tree edit distance", 
+      "url": "https://www.semanticscholar.org/paper/33c1928180d4de567ef0711ee6c500e18cb6dfe0"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "847cc664c794b86ad47eae88a72077f42fa054bc", 
+      "title": "Complex Cross-lingual Question Answering as a Sequential Classification and Multi-Document Summarization Task", 
+      "url": "https://www.semanticscholar.org/paper/847cc664c794b86ad47eae88a72077f42fa054bc"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "16f8c3572a9d48aa0248c27dd2618e64a31419e8", 
+      "title": "Is It the Right Answer? Exploiting Web Redundancy for Answer Validation", 
+      "url": "https://www.semanticscholar.org/paper/16f8c3572a9d48aa0248c27dd2618e64a31419e8"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "e5d9bd94a65f3ed497a4d36e089b1393b0e5520d", 
+      "title": "Probabilistic Tree-Edit Models with Structured Latent Variables for Textual Entailment and Question Answering", 
+      "url": "https://www.semanticscholar.org/paper/e5d9bd94a65f3ed497a4d36e089b1393b0e5520d"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "0c7f52c753a65ceaf3755e20b906ffd0c05c994a", 
+      "title": "Conditional Random Fields: Probabilistic Models for Segmenting and Labeling Sequence Data", 
+      "url": "https://www.semanticscholar.org/paper/0c7f52c753a65ceaf3755e20b906ffd0c05c994a"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "5afbc0e1cb4cfb6f22bb1b11de3498a610a99ec7", 
+      "title": "Parsing And Question Classification For Question Answering", 
+      "url": "https://www.semanticscholar.org/paper/5afbc0e1cb4cfb6f22bb1b11de3498a610a99ec7"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "5a16ca973bd2969ef1768664d26a6cd910445d96", 
+      "title": "Building Watson: An Overview of the DeepQA Project", 
+      "url": "https://www.semanticscholar.org/paper/5a16ca973bd2969ef1768664d26a6cd910445d96"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "4c4a95645bb719cb53d668cca3b104e529746377", 
+      "title": "Using Conditional Random Fields to Extract Contexts and Answers of Questions from Online Forums", 
+      "url": "https://www.semanticscholar.org/paper/4c4a95645bb719cb53d668cca3b104e529746377"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "8ae3492af43f1b6ffedb61ac45d81d8ca1f24de7", 
+      "title": "Question classification with log-linear models", 
+      "url": "https://www.semanticscholar.org/paper/8ae3492af43f1b6ffedb61ac45d81d8ca1f24de7"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "ae1b4eb285f461cfbd638ab85b504e39f4c8a907", 
+      "title": "A comparison of statistical significance tests for information retrieval evaluation", 
+      "url": "https://www.semanticscholar.org/paper/ae1b4eb285f461cfbd638ab85b504e39f4c8a907"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "f17568a5139c9f345f11d1307b2da394b7bcbdfe", 
+      "title": "A survey on tree edit distance and related problems", 
+      "url": "https://www.semanticscholar.org/paper/f17568a5139c9f345f11d1307b2da394b7bcbdfe"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "6d8c9fcce8177d6f8d122d653c7d32d7624d6714", 
+      "title": "The WEKA data mining software: an update", 
+      "url": "https://www.semanticscholar.org/paper/6d8c9fcce8177d6f8d122d653c7d32d7624d6714"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "08745f22d0abbe66e486f0985c985ecf1eab4e9e", 
+      "title": "Question classification using support vector machines", 
+      "url": "https://www.semanticscholar.org/paper/08745f22d0abbe66e486f0985c985ecf1eab4e9e"
+    }, 
+    {
+      "isInfluential": true, 
+      "paperId": "118be9cf31ecf5cbdd49a19da8615b593ec61a4c", 
+      "title": "What is the Jeopardy Model? A Quasi-Synchronous Grammar for QA", 
+      "url": "https://www.semanticscholar.org/paper/118be9cf31ecf5cbdd49a19da8615b593ec61a4c"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "846a3c8833e809810f2b5f8ea7982b95e8bb42d1", 
+      "title": "Online Large-Margin Training of Dependency Parsers", 
+      "url": "https://www.semanticscholar.org/paper/846a3c8833e809810f2b5f8ea7982b95e8bb42d1"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "4a20be7840c238ce931d0d285f757e9485d21bf4", 
+      "title": "An Algorithm that Learns What's in a Name", 
+      "url": "https://www.semanticscholar.org/paper/4a20be7840c238ce931d0d285f757e9485d21bf4"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "d680b29d34bd1c08d874d9c2eab43931b7602669", 
+      "title": "Mapping Dependencies Trees: An Application to Question Answering", 
+      "url": "https://www.semanticscholar.org/paper/d680b29d34bd1c08d874d9c2eab43931b7602669"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "755c2d5f12caa2dd7f0de039bac1f013d697fb66", 
+      "title": "Question Classification with Support Vector Machines and Error Correcting Codes", 
+      "url": "https://www.semanticscholar.org/paper/755c2d5f12caa2dd7f0de039bac1f013d697fb66"
+    }, 
+    {
+      "isInfluential": true, 
+      "paperId": "505da4d6f9618028c7977a2b4d4b625b26897080", 
+      "title": "Recognizing Textual Entailment with Tree Edit Distance Algorithms", 
+      "url": "https://www.semanticscholar.org/paper/505da4d6f9618028c7977a2b4d4b625b26897080"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "24beb987b722d4a25d3157a43000e685aa8f8874", 
+      "title": "A Maximum Entropy Model For Part-Of-Speech Tagging", 
+      "url": "https://www.semanticscholar.org/paper/24beb987b722d4a25d3157a43000e685aa8f8874"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "0a847b256cb483a58be4a9e905540e32ab1571ef", 
+      "title": "Patterns of Potential Answer Expressions as Clues to the Right Answers", 
+      "url": "https://www.semanticscholar.org/paper/0a847b256cb483a58be4a9e905540e32ab1571ef"
+    }
+  ], 
+  "title": "Answer Extraction as Sequence Tagging with Tree Edit Distance", 
+  "url": "https://www.semanticscholar.org/paper/03feca688989940fd4a5a13ac8837403b1af5e25", 
+  "venue": "HLT-NAACL"
+}

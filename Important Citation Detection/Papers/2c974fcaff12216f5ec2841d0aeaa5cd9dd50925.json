@@ -1,0 +1,702 @@
+{
+  "authors": [
+    {
+      "authorId": "2556884", 
+      "name": "Valentin I. Spitkovsky", 
+      "url": "https://www.semanticscholar.org/author/2556884"
+    }, 
+    {
+      "authorId": "1767307", 
+      "name": "Hiyan Alshawi", 
+      "url": "https://www.semanticscholar.org/author/1767307"
+    }, 
+    {
+      "authorId": "1746807", 
+      "name": "Daniel Jurafsky", 
+      "url": "https://www.semanticscholar.org/author/1746807"
+    }
+  ], 
+  "citationVelocity": 0, 
+  "citations": [
+    {
+      "isInfluential": false, 
+      "paperId": "3562343e4807404935e3a851598fecb43a239654", 
+      "title": "Weakly-Supervised Learning with Cost-Augmented Contrastive Estimation", 
+      "url": "https://www.semanticscholar.org/paper/3562343e4807404935e3a851598fecb43a239654"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "3ccf1dad8c4422fdff56b695fd8b20fcbe0887a7", 
+      "title": "A convex and feature-rich discriminative approach to dependency grammar induction", 
+      "url": "https://www.semanticscholar.org/paper/3ccf1dad8c4422fdff56b695fd8b20fcbe0887a7"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "072212c6f460e432f1a8e9536909c66df0cb3b95", 
+      "title": "Joint Learning of Constituency and Dependency Grammars by Decomposed Cross-Lingual Induction", 
+      "url": "https://www.semanticscholar.org/paper/072212c6f460e432f1a8e9536909c66df0cb3b95"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "3f2e3fd46d955ed16ad79b95974184b0fd2d931d", 
+      "title": "Multilingual Dependency Parsing: Using Machine Translated Texts instead of Parallel Corpora", 
+      "url": "https://www.semanticscholar.org/paper/3f2e3fd46d955ed16ad79b95974184b0fd2d931d"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "e3170e0d9ef73f4fd9c76fdd4a26d04ad4206b87", 
+      "title": "A new parsing algorithm", 
+      "url": "https://www.semanticscholar.org/paper/e3170e0d9ef73f4fd9c76fdd4a26d04ad4206b87"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "5db246172589acb31660fd149efb2b1279f63275", 
+      "title": "Unsupervised Neural Dependency Parsing", 
+      "url": "https://www.semanticscholar.org/paper/5db246172589acb31660fd149efb2b1279f63275"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "43cd81482dc12cd4437fbe2d3ce31ec710da1875", 
+      "title": "Left-corner Methods for Syntactic Modeling with Universal Structural Constraints", 
+      "url": "https://www.semanticscholar.org/paper/43cd81482dc12cd4437fbe2d3ce31ec710da1875"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "63ac777af60e6fcd1a105f7001fce499bb3a3d2e", 
+      "title": "Low-Resource Semantic Role Labeling", 
+      "url": "https://www.semanticscholar.org/paper/63ac777af60e6fcd1a105f7001fce499bb3a3d2e"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "f3081189c876b8538483d662f9edd17d23132ead", 
+      "title": "Spectral Probablistic Modeling and Applications to Natural Language Processing", 
+      "url": "https://www.semanticscholar.org/paper/f3081189c876b8538483d662f9edd17d23132ead"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "32d3e513cbf33f43e91a7145055409091ac31fad", 
+      "title": "Density-Driven Cross-Lingual Transfer of Dependency Parsers", 
+      "url": "https://www.semanticscholar.org/paper/32d3e513cbf33f43e91a7145055409091ac31fad"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "2083b17387176f726f550401502d1477ee33c444", 
+      "title": "Probing the Linguistic Strengths and Limitations of Unsupervised Grammar Induction", 
+      "url": "https://www.semanticscholar.org/paper/2083b17387176f726f550401502d1477ee33c444"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "3b77c9cea685a1005f3d6fb1328f99367f8fc520", 
+      "title": "Unsupervised Dependency Parsing with Transferring Distribution via Parallel Guidance and Entropy Regularization", 
+      "url": "https://www.semanticscholar.org/paper/3b77c9cea685a1005f3d6fb1328f99367f8fc520"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "436a195205b7abc76a2776ab1391d6d59340d7e7", 
+      "title": "Unsupervised Dependency Parsing: Let's Use Supervised Parsers", 
+      "url": "https://www.semanticscholar.org/paper/436a195205b7abc76a2776ab1391d6d59340d7e7"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "85232a180301d270953db9173bcd3f2cae17bb98", 
+      "title": "The Galactic Dependencies Treebanks: Getting More Data by Synthesizing New Languages", 
+      "url": "https://www.semanticscholar.org/paper/85232a180301d270953db9173bcd3f2cae17bb98"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "311de02e063e773fa01126e66da94096a2348817", 
+      "title": "Graphical Models with Structured Factors, Neural Factors, and Approximation-aware Training Working with Other Researchers Taught Me a Lot: Thanks to Spitkovsky Were Key for Replicating Prior Work. Thanks To", 
+      "url": "https://www.semanticscholar.org/paper/311de02e063e773fa01126e66da94096a2348817"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "87ceb5a669193959b44534d0962388c951a81c7e", 
+      "title": "Spectral Unsupervised Parsing with Additive Tree Metrics", 
+      "url": "https://www.semanticscholar.org/paper/87ceb5a669193959b44534d0962388c951a81c7e"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "16b269a5ec42374c01871ae93b73ff4356a38697", 
+      "title": "A Fast and Simple Online Synchronous Context Free Grammar Extractor", 
+      "url": "https://www.semanticscholar.org/paper/16b269a5ec42374c01871ae93b73ff4356a38697"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "b03965afec04778cf1ea6b2b534019f88b6cbed4", 
+      "title": "Learning Vector Representations for Sentences The Recursive Deep Learning Approach", 
+      "url": "https://www.semanticscholar.org/paper/b03965afec04778cf1ea6b2b534019f88b6cbed4"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "50843155d395d3f93151652220ac618c9efa90e6", 
+      "title": "Twelve Years of Unsupervised Dependency Parsing", 
+      "url": "https://www.semanticscholar.org/paper/50843155d395d3f93151652220ac618c9efa90e6"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "093510a9b17abb910c035ee4a7954320b23b8c6c", 
+      "title": "Labeled Grammar Induction with Minimal Supervision", 
+      "url": "https://www.semanticscholar.org/paper/093510a9b17abb910c035ee4a7954320b23b8c6c"
+    }
+  ], 
+  "doi": null, 
+  "influentialCitationCount": 0, 
+  "paperId": "2c974fcaff12216f5ec2841d0aeaa5cd9dd50925", 
+  "references": [
+    {
+      "isInfluential": false, 
+      "paperId": "432de0cfff7d4a57af61980e3f9fe7d96a61c647", 
+      "title": "Posterior Sparsity in Unsupervised Dependency Parsing", 
+      "url": "https://www.semanticscholar.org/paper/432de0cfff7d4a57af61980e3f9fe7d96a61c647"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "682cc4049f6cc50c1e84158432760bd1ffc38b83", 
+      "title": "Grammatical Bigrams", 
+      "url": "https://www.semanticscholar.org/paper/682cc4049f6cc50c1e84158432760bd1ffc38b83"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "371b240bebcaa68921aa87db4cd3a5d4e2a3a36b", 
+      "title": "Learning and development in neural networks: the importance of starting small.", 
+      "url": "https://www.semanticscholar.org/paper/371b240bebcaa68921aa87db4cd3a5d4e2a3a36b"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "0e90fdf91325a9cb51cd64c18ef19baad7c0881b", 
+      "title": "Experiments Using Stochastic Search For Text Planning", 
+      "url": "https://www.semanticscholar.org/paper/0e90fdf91325a9cb51cd64c18ef19baad7c0881b"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "4004494592b288e135602146ab290148c8ff58d8", 
+      "title": "Simple Unsupervised Grammar Induction from Raw Text with Cascaded Finite State Models", 
+      "url": "https://www.semanticscholar.org/paper/4004494592b288e135602146ab290148c8ff58d8"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "269ca71db6bfd6159af7c79b28e564ddd68b68c0", 
+      "title": "Data Perturbation for Escaping Local Maxima in Learning", 
+      "url": "https://www.semanticscholar.org/paper/269ca71db6bfd6159af7c79b28e564ddd68b68c0"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "68d0b245e9754de9f36cba305e4ce50ff868cb6a", 
+      "title": "Simple Robust Grammar Induction with Combinatory Categorial Grammars", 
+      "url": "https://www.semanticscholar.org/paper/68d0b245e9754de9f36cba305e4ce50ff868cb6a"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "0ed4071be20980f8edf7adb84b63c5bc62994a23", 
+      "title": "Boosting-Based System Combination for Machine Translation", 
+      "url": "https://www.semanticscholar.org/paper/0ed4071be20980f8edf7adb84b63c5bc62994a23"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "d25d0426c5d39d3507e443e3b6f0bcb0427b45f6", 
+      "title": "Exploiting Reducibility in Unsupervised Dependency Parsing", 
+      "url": "https://www.semanticscholar.org/paper/d25d0426c5d39d3507e443e3b6f0bcb0427b45f6"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "7a8475e88bef685273bfc0795f6ac68adf210a2a", 
+      "title": "Semi-Supervised Convex Training for Dependency Parsing", 
+      "url": "https://www.semanticscholar.org/paper/7a8475e88bef685273bfc0795f6ac68adf210a2a"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "6c7eee3ac36f1ee62c5992e1f0409301b34f829c", 
+      "title": "A New Method for Solving Hard Satisfiability Problems", 
+      "url": "https://www.semanticscholar.org/paper/6c7eee3ac36f1ee62c5992e1f0409301b34f829c"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "01996726f44253807537cec68393f1fce6a9cafa", 
+      "title": "Stochastic Neighbor Embedding", 
+      "url": "https://www.semanticscholar.org/paper/01996726f44253807537cec68393f1fce6a9cafa"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "08075b37f36fd47a0e1172e68176e06d730da02d", 
+      "title": "Axon pruning: an essential step underlying the developmental plasticity of neuronal connections.", 
+      "url": "https://www.semanticscholar.org/paper/08075b37f36fd47a0e1172e68176e06d730da02d"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "ed9a3200d6d0850fc2404d7205f5cc1b458d06f8", 
+      "title": "Fast Unsupervised Incremental Parsing", 
+      "url": "https://www.semanticscholar.org/paper/ed9a3200d6d0850fc2404d7205f5cc1b458d06f8"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "1e6f61c574fad2460d06d6f52295922f5c99857a", 
+      "title": "A Generative Constituent-Context Model for Improved Grammar Induction", 
+      "url": "https://www.semanticscholar.org/paper/1e6f61c574fad2460d06d6f52295922f5c99857a"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "124c106f4be570d554208afe77780996119876df", 
+      "title": "Nonconvex Global Optimization for Latent-Variable Models", 
+      "url": "https://www.semanticscholar.org/paper/124c106f4be570d554208afe77780996119876df"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "72d54ba4fed488a31022b6f37333550e041e93bc", 
+      "title": "How easy is local search?", 
+      "url": "https://www.semanticscholar.org/paper/72d54ba4fed488a31022b6f37333550e041e93bc"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "1680eaa31f30911e7460ff694b51794391bc7514", 
+      "title": "Corpus-Based Induction of Syntactic Structure: Models of Dependency and Constituency", 
+      "url": "https://www.semanticscholar.org/paper/1680eaa31f30911e7460ff694b51794391bc7514"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "677583cfc715ec44e85a37e8c4055301e0f8f009", 
+      "title": "Noise Strategies for Improving Local Search", 
+      "url": "https://www.semanticscholar.org/paper/677583cfc715ec44e85a37e8c4055301e0f8f009"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "050f479e281d52cee662316c2be86d9acb43b419", 
+      "title": "Concavity and Initialization for Unsupervised Dependency Parsing", 
+      "url": "https://www.semanticscholar.org/paper/050f479e281d52cee662316c2be86d9acb43b419"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "155baea065396a150f0f8875e088355800fa9449", 
+      "title": "Head-Driven Statistical Models for Natural Language Parsing", 
+      "url": "https://www.semanticscholar.org/paper/155baea065396a150f0f8875e088355800fa9449"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "4868a3174324e5ed1c2349020bc3e49571f088e9", 
+      "title": "Multiple Word Alignment with Profile Hidden Markov Models", 
+      "url": "https://www.semanticscholar.org/paper/4868a3174324e5ed1c2349020bc3e49571f088e9"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "7c346777169c60dcf04f24af5b58dc0db1e78901", 
+      "title": "Punctuation: Making a Point in Unsupervised Dependency Parsing", 
+      "url": "https://www.semanticscholar.org/paper/7c346777169c60dcf04f24af5b58dc0db1e78901"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "468b4f17efcd7ece53872fceff3e62c87f435a14", 
+      "title": "Comparison of genetic algorithms, random restart and two-opt switching for solving large location-allocation problems", 
+      "url": "https://www.semanticscholar.org/paper/468b4f17efcd7ece53872fceff3e62c87f435a14"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "11ec6378801e6f8a800260b565439ff1cd9c5f5a", 
+      "title": "Genetic Algorithms for Multiobjective Optimization: FormulationDiscussion and Generalization", 
+      "url": "https://www.semanticscholar.org/paper/11ec6378801e6f8a800260b565439ff1cd9c5f5a"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "02dcd2387e5cf7cf4f74dec4825256266b672bbb", 
+      "title": "Random Restarts in Minimum Error Rate Training for Statistical Machine Translation", 
+      "url": "https://www.semanticscholar.org/paper/02dcd2387e5cf7cf4f74dec4825256266b672bbb"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "10a9abb4c78f0be5cc85847f248d3e8277b3c810", 
+      "title": "The CoNLL 2007 Shared Task on Dependency Parsing", 
+      "url": "https://www.semanticscholar.org/paper/10a9abb4c78f0be5cc85847f248d3e8277b3c810"
+    }, 
+    {
+      "isInfluential": true, 
+      "paperId": "04f39720b9b20f8ab990228ae3fe4f473e750fe3", 
+      "title": "Probabilistic Graphical Models - Principles and Techniques", 
+      "url": "https://www.semanticscholar.org/paper/04f39720b9b20f8ab990228ae3fe4f473e750fe3"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "c07d0496c151e12629fca9de8e569efa9eb2943f", 
+      "title": "Random Restarts in Global Optimization", 
+      "url": "https://www.semanticscholar.org/paper/c07d0496c151e12629fca9de8e569efa9eb2943f"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "2a4423b10725e54ad72f4f1fcf77db5bc835f0a6", 
+      "title": "Optimization by simulated annealing.", 
+      "url": "https://www.semanticscholar.org/paper/2a4423b10725e54ad72f4f1fcf77db5bc835f0a6"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "0730f6ac1c5cdee82e0ab8a14db9e1e77768309d", 
+      "title": "Bootstrapping Dependency Grammar Inducers from Incomplete Sentence Fragments via Austere Models", 
+      "url": "https://www.semanticscholar.org/paper/0730f6ac1c5cdee82e0ab8a14db9e1e77768309d"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "bfe947a04e9716fb6a581d9609f448aa5daa50f1", 
+      "title": "Viterbi Training Improves Unsupervised Dependency Parsing", 
+      "url": "https://www.semanticscholar.org/paper/bfe947a04e9716fb6a581d9609f448aa5daa50f1"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "d90042dd73ec9a7c488b6aac0b2c5bf4bf03894e", 
+      "title": "Lexical Heads, Phrase Structure And The Induction Of Grammar", 
+      "url": "https://www.semanticscholar.org/paper/d90042dd73ec9a7c488b6aac0b2c5bf4bf03894e"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "b118e5ca88647661f27438a76c324db5f04a1b21", 
+      "title": "Fast dropout training", 
+      "url": "https://www.semanticscholar.org/paper/b118e5ca88647661f27438a76c324db5f04a1b21"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "34a597143c7fd04cf00f45f2aad4d2d1909c6c6f", 
+      "title": "Flexible shaping: how learning in small steps helps.", 
+      "url": "https://www.semanticscholar.org/paper/34a597143c7fd04cf00f45f2aad4d2d1909c6c6f"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "c768e1f02a1e7f054c6df2ed3298bcc386b1ebd7", 
+      "title": "The Base-rate Fallacy in Probability Judgments", 
+      "url": "https://www.semanticscholar.org/paper/c768e1f02a1e7f054c6df2ed3298bcc386b1ebd7"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "8c7fd0b3907a981719694e50b828003020020814", 
+      "title": "Products of Random Latent Variable Grammars", 
+      "url": "https://www.semanticscholar.org/paper/8c7fd0b3907a981719694e50b828003020020814"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "7b08deb4c11392b5d69f3fea0fb2684aac607d83", 
+      "title": "Lateen EM: Unsupervised Training with Multiple Objectives, Applied to Dependency Grammar Induction", 
+      "url": "https://www.semanticscholar.org/paper/7b08deb4c11392b5d69f3fea0fb2684aac607d83"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "31da99c95fa6d356d8d674af2a9b8e3f21753132", 
+      "title": "Baby Steps: How \u201cLess is More\u201d in Unsupervised Dependency Parsing", 
+      "url": "https://www.semanticscholar.org/paper/31da99c95fa6d356d8d674af2a9b8e3f21753132"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "d115adcbf63e989804912db1e656ec8debd1f040", 
+      "title": "Tabu Search - Part I", 
+      "url": "https://www.semanticscholar.org/paper/d115adcbf63e989804912db1e656ec8debd1f040"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "5211c32fb5849a14855a91a7ab16cfb83483cc1d", 
+      "title": "Unsupervised Word Sense Disambiguation Rivaling Supervised Methods", 
+      "url": "https://www.semanticscholar.org/paper/5211c32fb5849a14855a91a7ab16cfb83483cc1d"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "1a6c5a1d99ddd1de0ff0681e13fd73f9771cd2fc", 
+      "title": "Semi-supervised Relation Extraction with Large-scale Word Clustering", 
+      "url": "https://www.semanticscholar.org/paper/1a6c5a1d99ddd1de0ff0681e13fd73f9771cd2fc"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "3a777e70f12477fa87ce1f66566175740a1b63c5", 
+      "title": "Improving Unsupervised Dependency Parsing with Richer Contexts and Smoothing", 
+      "url": "https://www.semanticscholar.org/paper/3a777e70f12477fa87ce1f66566175740a1b63c5"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "2beb2197a8a03aea8d6e678b6cf8f4886f75315c", 
+      "title": "Automatic Learning of Language Model Structure", 
+      "url": "https://www.semanticscholar.org/paper/2beb2197a8a03aea8d6e678b6cf8f4886f75315c"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "18ac6094802676e21138babcd0ffbce5d89dc407", 
+      "title": "Using Semantic Cues to Learn Syntax", 
+      "url": "https://www.semanticscholar.org/paper/18ac6094802676e21138babcd0ffbce5d89dc407"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "e314b2eb4c4d959f47b6c41c51fffeb679a5161f", 
+      "title": "Stochastic Local Search Foundations and Applications", 
+      "url": "https://www.semanticscholar.org/paper/e314b2eb4c4d959f47b6c41c51fffeb679a5161f"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "b424fb6512c9f2519037299477e1369e20332c48", 
+      "title": "Instance Sense Induction from Attribute Sets", 
+      "url": "https://www.semanticscholar.org/paper/b424fb6512c9f2519037299477e1369e20332c48"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "9cafe5ea0a6c1d5763a7cd5450fa70c675b771e8", 
+      "title": "Viterbi Training for PCFGs: Hardness Results and Competitiveness of Uniform Initialization", 
+      "url": "https://www.semanticscholar.org/paper/9cafe5ea0a6c1d5763a7cd5450fa70c675b771e8"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "1133ed1f9a2864f0ab20f72c17263573519edee3", 
+      "title": "Unsupervised Dependency Parsing without Gold Part-of-Speech Tags", 
+      "url": "https://www.semanticscholar.org/paper/1133ed1f9a2864f0ab20f72c17263573519edee3"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "146bb2ea1fbdd86f81cd0dae7d3fd63decac9f5c", 
+      "title": "Genetic Algorithms in Search Optimization and Machine Learning", 
+      "url": "https://www.semanticscholar.org/paper/146bb2ea1fbdd86f81cd0dae7d3fd63decac9f5c"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "5a97c9831172dfcd116405c3842870122fe3d336", 
+      "title": "Ensemble Models for Dependency Parsing: Cheap and Good?", 
+      "url": "https://www.semanticscholar.org/paper/5a97c9831172dfcd116405c3842870122fe3d336"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "501363eb1c55d30e6151d99269afc5aa31f8a0c8", 
+      "title": "Plot Induction and Evolutionary Search for Story Generation", 
+      "url": "https://www.semanticscholar.org/paper/501363eb1c55d30e6151d99269afc5aa31f8a0c8"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "35911388f9542490b4e72f4656ab826fff1d99bb", 
+      "title": "Subjective Probability: A Judgment of Representativeness", 
+      "url": "https://www.semanticscholar.org/paper/35911388f9542490b4e72f4656ab826fff1d99bb"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "1d96b86ff1a3f34f576212f5e205900e0f7665d8", 
+      "title": "Inducing Syntactic Categories by Context Distribution Clustering", 
+      "url": "https://www.semanticscholar.org/paper/1d96b86ff1a3f34f576212f5e205900e0f7665d8"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "80b234b73f23ef8aeb574f5e678941c62d32ae34", 
+      "title": "Convex Clustering with Exemplar-Based Models", 
+      "url": "https://www.semanticscholar.org/paper/80b234b73f23ef8aeb574f5e678941c62d32ae34"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "226966243877f186d346be01047cf71cee1b5ec4", 
+      "title": "Online EM for Unsupervised Models", 
+      "url": "https://www.semanticscholar.org/paper/226966243877f186d346be01047cf71cee1b5ec4"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "387beefd9af55fb31beb218d2af5bdb4b696dd7f", 
+      "title": "Head automata for speech translation", 
+      "url": "https://www.semanticscholar.org/paper/387beefd9af55fb31beb218d2af5bdb4b696dd7f"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "d641ce8fe01ba5ae0ade43feaa1e1e2a7f4839b8", 
+      "title": "A View of the Em Algorithm That Justifies Incremental, Sparse, and Other Variants", 
+      "url": "https://www.semanticscholar.org/paper/d641ce8fe01ba5ae0ade43feaa1e1e2a7f4839b8"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "01e2a3ce84ad8949996fb1c7ab7c23593ee45787", 
+      "title": "Adaptation in Natural and Artificial Systems: An Introductory Analysis with Applications", 
+      "url": "https://www.semanticscholar.org/paper/01e2a3ce84ad8949996fb1c7ab7c23593ee45787"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "914defd598e28b745cd443724715baf6bc502a86", 
+      "title": "Psychological probability as a function of experienced frequency.", 
+      "url": "https://www.semanticscholar.org/paper/914defd598e28b745cd443724715baf6bc502a86"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "85978718f87a0299b6b3fbbc3e8c40210d21942b", 
+      "title": "On the Psychology of Prediction", 
+      "url": "https://www.semanticscholar.org/paper/85978718f87a0299b6b3fbbc3e8c40210d21942b"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "2116b2eaaece4af9c28c32af2728f3d49b792cf9", 
+      "title": "Improving neural networks by preventing co-adaptation of feature detectors", 
+      "url": "https://www.semanticscholar.org/paper/2116b2eaaece4af9c28c32af2728f3d49b792cf9"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "2f5a80ec5ff22543e71be771652efc7b52ed26f2", 
+      "title": "A Feature-Rich Constituent Context Model for Grammar Induction", 
+      "url": "https://www.semanticscholar.org/paper/2f5a80ec5ff22543e71be771652efc7b52ed26f2"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "b391dbe7bd1ab1cb8cde003efce2377b97d0b506", 
+      "title": "Minimized Models for Unsupervised Part-of-Speech Tagging", 
+      "url": "https://www.semanticscholar.org/paper/b391dbe7bd1ab1cb8cde003efce2377b97d0b506"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "0b44fcbeea9415d400c5f5789d6b892b6f98daff", 
+      "title": "Building a Large Annotated Corpus of English: The Penn Treebank", 
+      "url": "https://www.semanticscholar.org/paper/0b44fcbeea9415d400c5f5789d6b892b6f98daff"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "be0b34bf97b5e907189b11857d365dd8e0621a85", 
+      "title": "Grammar Induction: Beyond Local Search", 
+      "url": "https://www.semanticscholar.org/paper/be0b34bf97b5e907189b11857d365dd8e0621a85"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "035ef288f6b64c538fce4c16f6899ce6ef0fa833", 
+      "title": "Optimiztion of HMM by the Tabu Search Algorithm", 
+      "url": "https://www.semanticscholar.org/paper/035ef288f6b64c538fce4c16f6899ce6ef0fa833"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "64614bde9ff6694228a15c4a1a32bdb4b343b0de", 
+      "title": "On the Utility of Curricula in Unsupervised Learning of Probabilistic Grammars", 
+      "url": "https://www.semanticscholar.org/paper/64614bde9ff6694228a15c4a1a32bdb4b343b0de"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "aef37af4c16f5db72ef9e0134001bbdf8dba8acd", 
+      "title": "Minimization by Random Search Techniques", 
+      "url": "https://www.semanticscholar.org/paper/aef37af4c16f5db72ef9e0134001bbdf8dba8acd"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "97dd654e0985e35ad4be14841bcb70fde7300f46", 
+      "title": "Differential Evolution A Practical Approach to Global Optimization", 
+      "url": "https://www.semanticscholar.org/paper/97dd654e0985e35ad4be14841bcb70fde7300f46"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "0eb4af5b3e7a42e486b004ca37eb70e37f38e661", 
+      "title": "Cognition through the lifespan: mechanisms of change.", 
+      "url": "https://www.semanticscholar.org/paper/0eb4af5b3e7a42e486b004ca37eb70e37f38e661"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "3e4374749cd5ad51a6d379a4ce06d0184ef58bec", 
+      "title": "Cubic-time Parsing and Learning Algorithms for Grammatical Bigram Models", 
+      "url": "https://www.semanticscholar.org/paper/3e4374749cd5ad51a6d379a4ce06d0184ef58bec"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "2f58e5d42d87a6efc64f98fdfd5ad48324ae121b", 
+      "title": "Unambiguity Regularization for Unsupervised Learning of Probabilistic Grammars", 
+      "url": "https://www.semanticscholar.org/paper/2f58e5d42d87a6efc64f98fdfd5ad48324ae121b"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "1deed1a4a03e07aee3b8b8e4716f35033c715a57", 
+      "title": "CoNLL-X Shared Task on Multilingual Dependency Parsing", 
+      "url": "https://www.semanticscholar.org/paper/1deed1a4a03e07aee3b8b8e4716f35033c715a57"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "0b5d1e753e65415b6bb441c0db7ed47354187b49", 
+      "title": "TABU search", 
+      "url": "https://www.semanticscholar.org/paper/0b5d1e753e65415b6bb441c0db7ed47354187b49"
+    }, 
+    {
+      "isInfluential": true, 
+      "paperId": "4ce8bc485df9ac987f18d99c7af1d95f9cbea6b2", 
+      "title": "Deterministic Annealing for Clustering, Compression, Classification, Regression, and Related Optimization Problems", 
+      "url": "https://www.semanticscholar.org/paper/4ce8bc485df9ac987f18d99c7af1d95f9cbea6b2"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "07d9dd5c25c944bf009256cdcb622feda53dabba", 
+      "title": "Markov Chain Monte Carlo Maximum Likelihood", 
+      "url": "https://www.semanticscholar.org/paper/07d9dd5c25c944bf009256cdcb622feda53dabba"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "0483f4a33790b3eccfe59b1a818cacae597cbd6a", 
+      "title": "Unsupervised Induction of Tree Substitution Grammars for Dependency Parsing", 
+      "url": "https://www.semanticscholar.org/paper/0483f4a33790b3eccfe59b1a818cacae597cbd6a"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "1ca5f8b9a41fb182c7a2912f0e129c92f1af3dc2", 
+      "title": "Discovering Phonotactic Finite-State Automata by Genetic Search", 
+      "url": "https://www.semanticscholar.org/paper/1ca5f8b9a41fb182c7a2912f0e129c92f1af3dc2"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "1c37b0b78434f415ced54c87615cadacd955430a", 
+      "title": "Bounding and Comparing Methods for Correlation Clustering Beyond ILP", 
+      "url": "https://www.semanticscholar.org/paper/1c37b0b78434f415ced54c87615cadacd955430a"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "1cd2289bf1ea95ab0b316ba4aee927b6c1406c0f", 
+      "title": "Combining Distributional and Morphological Information for Part of Speech Induction", 
+      "url": "https://www.semanticscholar.org/paper/1cd2289bf1ea95ab0b316ba4aee927b6c1406c0f"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "79cc02209940e6fb5e3f631f84e1a196d495595e", 
+      "title": "Gibbs Sampling with Treeness Constraint in Unsupervised Dependency Parsing", 
+      "url": "https://www.semanticscholar.org/paper/79cc02209940e6fb5e3f631f84e1a196d495595e"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "71498bb85d5db7df5b2309598757ea264a20ea29", 
+      "title": "An Exact A* Method for Deciphering Letter-Substitution Ciphers", 
+      "url": "https://www.semanticscholar.org/paper/71498bb85d5db7df5b2309598757ea264a20ea29"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "1a0a415178d20754418987e312681f3fb0b40257", 
+      "title": "Unsupervised Models For Named Entity Classification", 
+      "url": "https://www.semanticscholar.org/paper/1a0a415178d20754418987e312681f3fb0b40257"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "08e94cf1808c65b1b7c7dd8177db47eb3457fff5", 
+      "title": "Optimization Models of Sound Systems Using Genetic Algorithms", 
+      "url": "https://www.semanticscholar.org/paper/08e94cf1808c65b1b7c7dd8177db47eb3457fff5"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "48d6ccca67eb52acfc796742c6cd14d37fdaba53", 
+      "title": "Stop-probability estimates computed on a large corpus improve Unsupervised Dependency Parsing", 
+      "url": "https://www.semanticscholar.org/paper/48d6ccca67eb52acfc796742c6cd14d37fdaba53"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "15a3ed7dfc005aa6f84f1e1fb81ef6d54ce3d8aa", 
+      "title": "Combining Labeled and Unlabeled Data with Co-Training", 
+      "url": "https://www.semanticscholar.org/paper/15a3ed7dfc005aa6f84f1e1fb81ef6d54ce3d8aa"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "0c0eab87d4855c42ae6395bf2e27eefe55003b4a", 
+      "title": "Inside-Outside Reestimation from Partially Bracketed Corpora", 
+      "url": "https://www.semanticscholar.org/paper/0c0eab87d4855c42ae6395bf2e27eefe55003b4a"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "761f8ac3f5a43dfa2d2ccd425a5ff211231652d5", 
+      "title": "Improved Constituent Context Model with Features", 
+      "url": "https://www.semanticscholar.org/paper/761f8ac3f5a43dfa2d2ccd425a5ff211231652d5"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "04a476abf34c0bf273f3cc886ce722b4575e2e2b", 
+      "title": "Three Dependency-and-Boundary Models for Grammar Induction", 
+      "url": "https://www.semanticscholar.org/paper/04a476abf34c0bf273f3cc886ce722b4575e2e2b"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "2f84d432e46ed1253764e238e3038c9c791790e7", 
+      "title": "Curriculum learning", 
+      "url": "https://www.semanticscholar.org/paper/2f84d432e46ed1253764e238e3038c9c791790e7"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "16c666dbead12ea96b1efd34ea5151b5a010d1cd", 
+      "title": "Generative Alignment and Semantic Parsing for Learning from Ambiguous Supervision", 
+      "url": "https://www.semanticscholar.org/paper/16c666dbead12ea96b1efd34ea5151b5a010d1cd"
+    }
+  ], 
+  "title": "Breaking Out of Local Optima with Count Transforms and Model Recombination: A Study in Grammar Induction", 
+  "url": "https://www.semanticscholar.org/paper/2c974fcaff12216f5ec2841d0aeaa5cd9dd50925", 
+  "venue": "EMNLP"
+}

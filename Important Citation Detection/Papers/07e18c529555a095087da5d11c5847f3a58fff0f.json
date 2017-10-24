@@ -1,0 +1,521 @@
+{
+  "authors": [
+    {
+      "authorId": "2714441", 
+      "name": "Ann Irvine", 
+      "url": "https://www.semanticscholar.org/author/2714441"
+    }, 
+    {
+      "authorId": "1983905", 
+      "name": "John Morgan", 
+      "url": "https://www.semanticscholar.org/author/1983905"
+    }, 
+    {
+      "authorId": "2954727", 
+      "name": "Marine Carpuat", 
+      "url": "https://www.semanticscholar.org/author/2954727"
+    }, 
+    {
+      "authorId": "1722360", 
+      "name": "Hal Daum\u00e9", 
+      "url": "https://www.semanticscholar.org/author/1722360"
+    }, 
+    {
+      "authorId": "2542900", 
+      "name": "Dragos Stefan Munteanu", 
+      "url": "https://www.semanticscholar.org/author/2542900"
+    }
+  ], 
+  "citationVelocity": 0, 
+  "citations": [
+    {
+      "isInfluential": false, 
+      "paperId": "03f05f98d310224045d353a875b633dbe223514f", 
+      "title": "Quality estimation-guided supplementary data selection for domain adaptation of statistical machine translation", 
+      "url": "https://www.semanticscholar.org/paper/03f05f98d310224045d353a875b633dbe223514f", 
+      "venue": "Machine Translation", 
+      "year": 2014
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "c44fa5feb81e9d91d351c93bfc7b7dc9a763d081", 
+      "title": "What's in a Domain? Analyzing Genre and Topic Differences in Statistical Machine Translation", 
+      "url": "https://www.semanticscholar.org/paper/c44fa5feb81e9d91d351c93bfc7b7dc9a763d081", 
+      "venue": "ACL", 
+      "year": 2015
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "17b56259fad04c7b378d8a051972b2f446c4aaee", 
+      "title": "An Empirical Comparison of Features and Tuning for Phrase-based Machine Translation", 
+      "url": "https://www.semanticscholar.org/paper/17b56259fad04c7b378d8a051972b2f446c4aaee", 
+      "venue": "WMT@ACL", 
+      "year": 2014
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "3d87f565d9b9db7800c9fda091c1be4e0eb412da", 
+      "title": "Translation Evaluation: from Fragmented Tools and Data Sets to an Integrated Ecosystem Proceedings Edited by Organising Committee Programme Committee towards a Systematic and Human-informed Paradigm for High-quality Machine Translation", 
+      "url": "https://www.semanticscholar.org/paper/3d87f565d9b9db7800c9fda091c1be4e0eb412da", 
+      "venue": "", 
+      "year": 2016
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "7968a806169ae1cd8b9f6948af4820c779d11ba6", 
+      "title": "Paraphrasing Out-of-Vocabulary Words with Word Embeddings and Semantic Lexicons for Low Resource Statistical Machine Translation", 
+      "url": "https://www.semanticscholar.org/paper/7968a806169ae1cd8b9f6948af4820c779d11ba6", 
+      "venue": "LREC", 
+      "year": 2016
+    }, 
+    {
+      "isInfluential": true, 
+      "paperId": "261375d678114e14c554432da0be0cab25b43e06", 
+      "title": "Register-Based Machine Translation Evaluation with Text Classification Techniques", 
+      "url": "https://www.semanticscholar.org/paper/261375d678114e14c554432da0be0cab25b43e06", 
+      "venue": "", 
+      "year": 2015
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "9d430144d09840128a72d72393e4e0c33e45867a", 
+      "title": "Neural versus Phrase-Based Machine Translation Quality: a Case Study", 
+      "url": "https://www.semanticscholar.org/paper/9d430144d09840128a72d72393e4e0c33e45867a", 
+      "venue": "EMNLP", 
+      "year": 2016
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "a0877144a992e047dadf2763cd2df31a909389b2", 
+      "title": "Using Comparable Corpora to Augment Low Resource SMT Models", 
+      "url": "https://www.semanticscholar.org/paper/a0877144a992e047dadf2763cd2df31a909389b2", 
+      "venue": "", 
+      "year": 2015
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "ae77c81ca39449a1d3bce047e1a2e50be65af028", 
+      "title": "Latent Domain Phrase-based Models for Adaptation", 
+      "url": "https://www.semanticscholar.org/paper/ae77c81ca39449a1d3bce047e1a2e50be65af028", 
+      "venue": "", 
+      "year": 2014
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "76b8cea682b3df446ffcfab4dd83653426a434a4", 
+      "title": "Discriminative Interlingual Representations Discriminative Interlingual Representations", 
+      "url": "https://www.semanticscholar.org/paper/76b8cea682b3df446ffcfab4dd83653426a434a4", 
+      "venue": "", 
+      "year": 2013
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "158381bd0271cc140d133d11d8500e21a15d7a63", 
+      "title": "Translation Model Adaptation Using Genre-Revealing Text Features", 
+      "url": "https://www.semanticscholar.org/paper/158381bd0271cc140d133d11d8500e21a15d7a63", 
+      "venue": "", 
+      "year": 2015
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "1ba47a8c52391a821f70893e7d16c49ce5e9558a", 
+      "title": "Adapting to All Domains at Once: Rewarding Domain Invariance in SMT", 
+      "url": "https://www.semanticscholar.org/paper/1ba47a8c52391a821f70893e7d16c49ce5e9558a", 
+      "venue": "TACL", 
+      "year": 2016
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "b7ffb9214dbcc0f75c1fc79a8a2d627beb9b685d", 
+      "title": "Diagnosing High-Quality Statistical Machine Translation Using Traces of Post-Edition Operations", 
+      "url": "https://www.semanticscholar.org/paper/b7ffb9214dbcc0f75c1fc79a8a2d627beb9b685d", 
+      "venue": "", 
+      "year": 2016
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "bdfd0b5f7e90138ee6998c5c4db2e6209a44bd10", 
+      "title": "Latent Domain Phrase-based Models for Adaptation", 
+      "url": "https://www.semanticscholar.org/paper/bdfd0b5f7e90138ee6998c5c4db2e6209a44bd10", 
+      "venue": "EMNLP", 
+      "year": 2014
+    }, 
+    {
+      "isInfluential": true, 
+      "paperId": "c48eba4b596b6dc455246bb4f659ed027773a5d1", 
+      "title": "A Survey of Domain Adaptation for Statistical Machine Translation", 
+      "url": "https://www.semanticscholar.org/paper/c48eba4b596b6dc455246bb4f659ed027773a5d1", 
+      "venue": "", 
+      "year": 2017
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "55c5c21f715def30a04229def84e5f6271059063", 
+      "title": "Monolingual Marginal Matching for Translation Model Adaptation", 
+      "url": "https://www.semanticscholar.org/paper/55c5c21f715def30a04229def84e5f6271059063", 
+      "venue": "EMNLP", 
+      "year": 2013
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "0bb45e864b0ee64b2f7e6feb1a048b0bbd5c4786", 
+      "title": "Using Comparable Corpora to Adapt MT Models to New Domains", 
+      "url": "https://www.semanticscholar.org/paper/0bb45e864b0ee64b2f7e6feb1a048b0bbd5c4786", 
+      "venue": "WMT@ACL", 
+      "year": 2014
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "5d77d2d478eb2dc132715401d271ea941c64aa26", 
+      "title": "Measuring \u2019Registerness\u2019 in Human and Machine Translation: A Text Classification Approach", 
+      "url": "https://www.semanticscholar.org/paper/5d77d2d478eb2dc132715401d271ea941c64aa26", 
+      "venue": "", 
+      "year": 2015
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "8490282e8734c360f717fe9dbc80543c36b439de", 
+      "title": "Translating without in-domain corpus: Machine translation post-editing with online learning techniques", 
+      "url": "https://www.semanticscholar.org/paper/8490282e8734c360f717fe9dbc80543c36b439de", 
+      "venue": "Computer Speech & Language", 
+      "year": 2015
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "30118c17c9a1f263c40a0a0f4de741a8fbb782f3", 
+      "title": "Five Shades of Noise: Analyzing Machine Translation Errors in User-Generated Text", 
+      "url": "https://www.semanticscholar.org/paper/30118c17c9a1f263c40a0a0f4de741a8fbb782f3", 
+      "venue": "", 
+      "year": 2015
+    }, 
+    {
+      "isInfluential": true, 
+      "paperId": "be86ee27f7d801ada6d777c3e9e4b9a834a073ff", 
+      "title": "Online Learning for Statistical Machine Translation", 
+      "url": "https://www.semanticscholar.org/paper/be86ee27f7d801ada6d777c3e9e4b9a834a073ff", 
+      "venue": "Computational Linguistics", 
+      "year": 2016
+    }
+  ], 
+  "doi": null, 
+  "influentialCitationCount": 3, 
+  "paperId": "07e18c529555a095087da5d11c5847f3a58fff0f", 
+  "references": [
+    {
+      "isInfluential": false, 
+      "paperId": "238c01b97cdcc7196e3fd4fcc0773ce1078ac7b3", 
+      "title": "Automatic Translation of Scientific Documents in the HAL Archive", 
+      "url": "https://www.semanticscholar.org/paper/238c01b97cdcc7196e3fd4fcc0773ce1078ac7b3", 
+      "venue": "LREC", 
+      "year": 2012
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "528ef763d7154913ca4a68ff61bc8f121d0f7e16", 
+      "title": "Improving Statistical Machine Translation Performance by Training Data Selection and Optimization", 
+      "url": "https://www.semanticscholar.org/paper/528ef763d7154913ca4a68ff61bc8f121d0f7e16", 
+      "venue": "EMNLP-CoNLL", 
+      "year": 2007
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "f2670fcc8a3e944d796775d1a2d96e5b81d79909", 
+      "title": "SenseSpotting: Never let your parallel data tie you to an old domain", 
+      "url": "https://www.semanticscholar.org/paper/f2670fcc8a3e944d796775d1a2d96e5b81d79909", 
+      "venue": "ACL", 
+      "year": 2013
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "0f8d394f8e9af127c40d2b9bd7568eac005855db", 
+      "title": "To Cache or Not To Cache? Experiments with Adaptive Models in Statistical Machine Translation", 
+      "url": "https://www.semanticscholar.org/paper/0f8d394f8e9af127c40d2b9bd7568eac005855db", 
+      "venue": "", 
+      "year": 2010
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "c285b9c52f3bf261e219eff8d6e3edb59a3a1a8f", 
+      "title": "Adaptation of the Translation Model for Statistical Machine Translation based on Information Retrieval", 
+      "url": "https://www.semanticscholar.org/paper/c285b9c52f3bf261e219eff8d6e3edb59a3a1a8f", 
+      "venue": "", 
+      "year": 2005
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "fbd201207e51f50f14235c5ea864ccccb6425325", 
+      "title": "News from OPUS \u2014 A Collection of Multilingual Parallel Corpora with Tools and Interfaces", 
+      "url": "https://www.semanticscholar.org/paper/fbd201207e51f50f14235c5ea864ccccb6425325", 
+      "venue": "", 
+      "year": 2009
+    }, 
+    {
+      "isInfluential": true, 
+      "paperId": "7cbf449aa4d9326e7ed0803083ae7a6ca4aa62ee", 
+      "title": "Exact Decoding of Phrase-Based Translation Models through Lagrangian Relaxation", 
+      "url": "https://www.semanticscholar.org/paper/7cbf449aa4d9326e7ed0803083ae7a6ca4aa62ee", 
+      "venue": "", 
+      "year": 2011
+    }, 
+    {
+      "isInfluential": true, 
+      "paperId": "22c6e35cfc1d45a631af371147939d65391fc41b", 
+      "title": "Assessing Phrase-Based Translation Models with Oracle Decoding", 
+      "url": "https://www.semanticscholar.org/paper/22c6e35cfc1d45a631af371147939d65391fc41b", 
+      "venue": "EMNLP", 
+      "year": 2010
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "00c06c570328d735de53eff78877ab2fad477c18", 
+      "title": "Fill-up versus interpolation methods for phrase-based SMT adaptation", 
+      "url": "https://www.semanticscholar.org/paper/00c06c570328d735de53eff78877ab2fad477c18", 
+      "venue": "IWSLT", 
+      "year": 2011
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "6e88be1f8dac507e4299d83724b8247014378a69", 
+      "title": "Language Model Adaptation for Statistical Machine Translation with Structured Query Models", 
+      "url": "https://www.semanticscholar.org/paper/6e88be1f8dac507e4299d83724b8247014378a69", 
+      "venue": "", 
+      "year": 2004
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "1a3b3dd1513cb358f30a87c0732885ce57a0df73", 
+      "title": "Combining translation and language model scoring for domain-specific data filtering", 
+      "url": "https://www.semanticscholar.org/paper/1a3b3dd1513cb358f30a87c0732885ce57a0df73", 
+      "venue": "IWSLT", 
+      "year": 2011
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "55c5c21f715def30a04229def84e5f6271059063", 
+      "title": "Monolingual Marginal Matching for Translation Model Adaptation", 
+      "url": "https://www.semanticscholar.org/paper/55c5c21f715def30a04229def84e5f6271059063", 
+      "venue": "EMNLP", 
+      "year": 2013
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "195df0de3c4c181d26391dd73746c7aefe709ab6", 
+      "title": "Experiments in Domain Adaptation for Statistical Machine Translation", 
+      "url": "https://www.semanticscholar.org/paper/195df0de3c4c181d26391dd73746c7aefe709ab6", 
+      "venue": "", 
+      "year": 2007
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "482283d4f23e1942d5bbd32b24f946eb6a06a2ef", 
+      "title": "Translation Quality-Based Supplementary Data Selection by Incremental Update of Translation Models", 
+      "url": "https://www.semanticscholar.org/paper/482283d4f23e1942d5bbd32b24f946eb6a06a2ef", 
+      "venue": "COLING", 
+      "year": 2012
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "4ee2eab4c298c1824a9fb8799ad8eed21be38d21", 
+      "title": "Moses: Open Source Toolkit for Statistical Machine Translation", 
+      "url": "https://www.semanticscholar.org/paper/4ee2eab4c298c1824a9fb8799ad8eed21be38d21", 
+      "venue": "ACL", 
+      "year": 2007
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "3cc1203d36b52997981346e2d3ca08d98c0114bb", 
+      "title": "Perplexity Minimization for Translation Model Domain Adaptation in Statistical Machine Translation", 
+      "url": "https://www.semanticscholar.org/paper/3cc1203d36b52997981346e2d3ca08d98c0114bb", 
+      "venue": "EACL", 
+      "year": 2012
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "3a3aa5fb618d977e17e062bb71a58073546d97db", 
+      "title": "Batch Tuning Strategies for Statistical Machine Translation", 
+      "url": "https://www.semanticscholar.org/paper/3a3aa5fb618d977e17e062bb71a58073546d97db", 
+      "venue": "HLT-NAACL", 
+      "year": 2012
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "7ec8bc90ebf2a2228cc5818ccf06dce99d54b5b2", 
+      "title": "Domain Adaptation in Statistical Machine Translation using Factored Translation Models", 
+      "url": "https://www.semanticscholar.org/paper/7ec8bc90ebf2a2228cc5818ccf06dce99d54b5b2", 
+      "venue": "", 
+      "year": 2010
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "396aabd694da04cdb846cb724ca9f866f345cbd5", 
+      "title": "Domain Adaptation via Pseudo In-Domain Data Selection", 
+      "url": "https://www.semanticscholar.org/paper/396aabd694da04cdb846cb724ca9f866f345cbd5", 
+      "venue": "EMNLP", 
+      "year": 2011
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "5aef483ebfd19b0cebe6f83e342081f0657336f9", 
+      "title": "HMM-Based Word Alignment in Statistical Translation", 
+      "url": "https://www.semanticscholar.org/paper/5aef483ebfd19b0cebe6f83e342081f0657336f9", 
+      "venue": "COLING", 
+      "year": 1996
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "24d3f56d961b7411c8290e17e74a7e8db9cb492d", 
+      "title": "Towards Automatic Error Analysis of Machine Translation Output", 
+      "url": "https://www.semanticscholar.org/paper/24d3f56d961b7411c8290e17e74a7e8db9cb492d", 
+      "venue": "Computational Linguistics", 
+      "year": 2011
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "1172367f0b629ea2a732e10eeffbadf810143431", 
+      "title": "Domain Adaptation for Machine Translation by Mining Unseen Words", 
+      "url": "https://www.semanticscholar.org/paper/1172367f0b629ea2a732e10eeffbadf810143431", 
+      "venue": "ACL", 
+      "year": 2011
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "b87dea5cb87b897cb92b92d5d31d71b5ef3bfae9", 
+      "title": "Error Analysis of Statistical Machine Translation Output", 
+      "url": "https://www.semanticscholar.org/paper/b87dea5cb87b897cb92b92d5d31d71b5ef3bfae9", 
+      "venue": "", 
+      "year": 2006
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "96694a94c04a62589f8f263650af99b34a0fff3d", 
+      "title": "Cache-based Document-level Statistical Machine Translation", 
+      "url": "https://www.semanticscholar.org/paper/96694a94c04a62589f8f263650af99b34a0fff3d", 
+      "venue": "EMNLP", 
+      "year": 2011
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "0c5a010e7a42752c63127691317ac9fc588a44aa", 
+      "title": "SemEval-2010 Task 2: Cross-Lingual Lexical Substitution", 
+      "url": "https://www.semanticscholar.org/paper/0c5a010e7a42752c63127691317ac9fc588a44aa", 
+      "venue": "SemEval@ACL", 
+      "year": 2009
+    }, 
+    {
+      "isInfluential": true, 
+      "paperId": "5dd96dbc3e3f12a05ee5a515f8306dad8c0c8a54", 
+      "title": "Edinburgh system description for the 2005 IWSLT speech translation evaluation", 
+      "url": "https://www.semanticscholar.org/paper/5dd96dbc3e3f12a05ee5a515f8306dad8c0c8a54", 
+      "venue": "IWSLT", 
+      "year": 2005
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "86d7e2b185a3d81871eceff2b4d78d3b79cc5f61", 
+      "title": "Goodness: A Method for Measuring Machine Translation Confidence", 
+      "url": "https://www.semanticscholar.org/paper/86d7e2b185a3d81871eceff2b4d78d3b79cc5f61", 
+      "venue": "ACL", 
+      "year": 2011
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "09da9e659de5f458277ace00529950f77f2986e7", 
+      "title": "Confidence Estimation for Machine Translation", 
+      "url": "https://www.semanticscholar.org/paper/09da9e659de5f458277ace00529950f77f2986e7", 
+      "venue": "COLING", 
+      "year": 2004
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "99e22bd91c8c86a5648188238fdeaec4468a064f", 
+      "title": "Improving Statistical Machine Translation Using Word Sense Disambiguation", 
+      "url": "https://www.semanticscholar.org/paper/99e22bd91c8c86a5648188238fdeaec4468a064f", 
+      "venue": "EMNLP-CoNLL", 
+      "year": 2007
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "3fa58a0dcbf7392e02f744a0f729ba8010b7334c", 
+      "title": "Feature-Rich Part-of-Speech Tagging with a Cyclic Dependency Network", 
+      "url": "https://www.semanticscholar.org/paper/3fa58a0dcbf7392e02f744a0f729ba8010b7334c", 
+      "venue": "HLT-NAACL", 
+      "year": 2003
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "3d8cd8758f085385a44da2bd8eb95a0aed9e2f9d", 
+      "title": "Analysis of translation model adaptation in statistical machine translation", 
+      "url": "https://www.semanticscholar.org/paper/3d8cd8758f085385a44da2bd8eb95a0aed9e2f9d", 
+      "venue": "IWSLT", 
+      "year": 2010
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "305480c165d87b95fbb0af333abe073d61d1b8d4", 
+      "title": "Hierarchical Phrase-Based Translation", 
+      "url": "https://www.semanticscholar.org/paper/305480c165d87b95fbb0af333abe073d61d1b8d4", 
+      "venue": "Computational Linguistics", 
+      "year": 2007
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "5eadc3b7e5b8b20325efe5137f185bbd6beefbc2", 
+      "title": "Mixing Multiple Translation Models in Statistical Machine Translation", 
+      "url": "https://www.semanticscholar.org/paper/5eadc3b7e5b8b20325efe5137f185bbd6beefbc2", 
+      "venue": "ACL", 
+      "year": 2012
+    }, 
+    {
+      "isInfluential": true, 
+      "paperId": "0a0dba86c980d4ba5f881aea0239fa689084e6c5", 
+      "title": "Mixture-Model Adaptation for SMT", 
+      "url": "https://www.semanticscholar.org/paper/0a0dba86c980d4ba5f881aea0239fa689084e6c5", 
+      "venue": "", 
+      "year": 2007
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "85f4b21ce40f697278b695bdd94acee236e4d572", 
+      "title": "Discriminative Corpus Weight Estimation for Machine Translation", 
+      "url": "https://www.semanticscholar.org/paper/85f4b21ce40f697278b695bdd94acee236e4d572", 
+      "venue": "EMNLP", 
+      "year": 2009
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "88147696810175f8e355392ccaade9b455a2b7a7", 
+      "title": "Discriminative Instance Weighting for Domain Adaptation in Statistical Machine Translation", 
+      "url": "https://www.semanticscholar.org/paper/88147696810175f8e355392ccaade9b455a2b7a7", 
+      "venue": "EMNLP", 
+      "year": 2010
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "3f2ee83d4dd3fbab8d23bdd66fefdd8209753b1b", 
+      "title": "On-line Language Model Biasing for Statistical Machine Translation", 
+      "url": "https://www.semanticscholar.org/paper/3f2ee83d4dd3fbab8d23bdd66fefdd8209753b1b", 
+      "venue": "ACL", 
+      "year": 2011
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "0ae44e80e4d008c081beb0723ff02279bdd709e1", 
+      "title": "LIMSI's experiments in domain adaptation for IWSLT11", 
+      "url": "https://www.semanticscholar.org/paper/0ae44e80e4d008c081beb0723ff02279bdd709e1", 
+      "venue": "IWSLT", 
+      "year": 2011
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "2277bbd8c7df268ac4c69bffc1b1b153744b017a", 
+      "title": "Analysing the Effect of Out-of-Domain Data on SMT Systems", 
+      "url": "https://www.semanticscholar.org/paper/2277bbd8c7df268ac4c69bffc1b1b153744b017a", 
+      "venue": "WMT@NAACL-HLT", 
+      "year": 2012
+    }
+  ], 
+  "title": "Measuring Machine Translation Errors in New Domains", 
+  "url": "https://www.semanticscholar.org/paper/07e18c529555a095087da5d11c5847f3a58fff0f", 
+  "venue": "TACL", 
+  "year": 2013
+}

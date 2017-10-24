@@ -1,0 +1,876 @@
+{
+  "authors": [
+    {
+      "authorId": "1685978", 
+      "name": "Ben Taskar", 
+      "url": "https://www.semanticscholar.org/author/1685978"
+    }, 
+    {
+      "authorId": "1685481", 
+      "name": "Simon Lacoste-Julien", 
+      "url": "https://www.semanticscholar.org/author/1685481"
+    }, 
+    {
+      "authorId": "1696412", 
+      "name": "Dan Klein", 
+      "url": "https://www.semanticscholar.org/author/1696412"
+    }
+  ], 
+  "citationVelocity": 0, 
+  "citations": [
+    {
+      "isInfluential": true, 
+      "paperId": "df1813a7e15c78136d2f335e8978447265d7a9aa", 
+      "title": "Improving Word Alignment by Semi-Supervised Ensemble", 
+      "url": "https://www.semanticscholar.org/paper/df1813a7e15c78136d2f335e8978447265d7a9aa"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "a6fd69a268981ae3e85e5a87d24a614c2d0ca97b", 
+      "title": "Integrating Graph-Based and Transition-Based Dependency Parsers", 
+      "url": "https://www.semanticscholar.org/paper/a6fd69a268981ae3e85e5a87d24a614c2d0ca97b"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "b7062699879d741fd57b3bd908cc53baa9cfb72d", 
+      "title": "Word Sequence Modeling using Deep Learning: an End-to-end Approach and its Applications", 
+      "url": "https://www.semanticscholar.org/paper/b7062699879d741fd57b3bd908cc53baa9cfb72d"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "7517b34c903ff244057c70e0b2aedcc8d13352fc", 
+      "title": "Using Syntax to Improve Word Alignment Precision for Syntax-Based Machine Translation", 
+      "url": "https://www.semanticscholar.org/paper/7517b34c903ff244057c70e0b2aedcc8d13352fc"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "43b124f756c5f85ab16e06df6cee7c3765d0a5f4", 
+      "title": "A Beam Search Algorithm for ITG Word Alignment", 
+      "url": "https://www.semanticscholar.org/paper/43b124f756c5f85ab16e06df6cee7c3765d0a5f4"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "1a3a81fb3d455de57c5e1e07a7c5601a7613a2db", 
+      "title": "Semi-Supervised Training for Statistical Word Alignment", 
+      "url": "https://www.semanticscholar.org/paper/1a3a81fb3d455de57c5e1e07a7c5601a7613a2db"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "01fea9e904e315837f3ff8660e058765db0ccfa4", 
+      "title": "Inf\u00e9rence de r\u00e8gles de propagation syntaxique pour l'alignement de mots", 
+      "url": "https://www.semanticscholar.org/paper/01fea9e904e315837f3ff8660e058765db0ccfa4"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "9d5e905f4bb589763f1591fbbd3b1940fc92a7dc", 
+      "title": "Probabilistic Models of Evolution and Language Change", 
+      "url": "https://www.semanticscholar.org/paper/9d5e905f4bb589763f1591fbbd3b1940fc92a7dc"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "42a98b6d53686ff7b52a86ce8d1bd3e61d96d7e6", 
+      "title": "Word-based Alignment, Phrase-based Translation: What's the Link? Word-based Alignment, Phrase-based Translation: What's the Link?", 
+      "url": "https://www.semanticscholar.org/paper/42a98b6d53686ff7b52a86ce8d1bd3e61d96d7e6"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "05e206a1820cdcbee09c01f27fd7ced1b4b3e45a", 
+      "title": "Contrastive Unsupervised Word Alignment with Non-Local Features", 
+      "url": "https://www.semanticscholar.org/paper/05e206a1820cdcbee09c01f27fd7ced1b4b3e45a"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "2ce44263ffa807f72100d42405bd0abec7f7cfad", 
+      "title": "Combination of Statistical Word Alignments Based on Multiple Preprocessing Schemes", 
+      "url": "https://www.semanticscholar.org/paper/2ce44263ffa807f72100d42405bd0abec7f7cfad"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "8875d7ba12642e58b06cee25ab3764a139d7e16d", 
+      "title": "Semi-supervised Word Alignment with Mechanical Turk", 
+      "url": "https://www.semanticscholar.org/paper/8875d7ba12642e58b06cee25ab3764a139d7e16d"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "39d47bd5de525314aec947c5fcdde75822523881", 
+      "title": "A Correction Model for Word Alignments", 
+      "url": "https://www.semanticscholar.org/paper/39d47bd5de525314aec947c5fcdde75822523881"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "2a473c438a3b09c7c0536180848654eecec23aa8", 
+      "title": "Using Discourse Commitments to Recognize Textual Entailment", 
+      "url": "https://www.semanticscholar.org/paper/2a473c438a3b09c7c0536180848654eecec23aa8"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "b37a785e98c86d85b5767f8b92cf1e5b2201c0d0", 
+      "title": "Refining Word Alignment with Discriminative Training", 
+      "url": "https://www.semanticscholar.org/paper/b37a785e98c86d85b5767f8b92cf1e5b2201c0d0"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "07680cc06194081737ccd46e5120ef1ca567b21a", 
+      "title": "A Java Implementation of an Extended Word Alignment Algorithm Based on the IBM Models", 
+      "url": "https://www.semanticscholar.org/paper/07680cc06194081737ccd46e5120ef1ca567b21a"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "c1a2e7c574693f0d563d0cc20f05a8b1189478ef", 
+      "title": "Structured Prediction of Generalized Matching Graphs", 
+      "url": "https://www.semanticscholar.org/paper/c1a2e7c574693f0d563d0cc20f05a8b1189478ef"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "29b6fab55175c1d7e94403aa8a5abb209a5f9f88", 
+      "title": "A Discriminative Approach to Tree Alignment", 
+      "url": "https://www.semanticscholar.org/paper/29b6fab55175c1d7e94403aa8a5abb209a5f9f88"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "8321d5b4fd34b973f646028d9c906f7811d3e2bc", 
+      "title": "Phrase Alignment Models for Statistical Machine Translation Phrase Alignment Models for Statistical Machine Translation Phrase Alignment Models for Statistical Machine Translation", 
+      "url": "https://www.semanticscholar.org/paper/8321d5b4fd34b973f646028d9c906f7811d3e2bc"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "ab33382e46439bf0139f1967511f47fd6a61d0b1", 
+      "title": "Word-Based Alignment, Phrase-Based Translation: What\u2019s the Link?", 
+      "url": "https://www.semanticscholar.org/paper/ab33382e46439bf0139f1967511f47fd6a61d0b1"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "0d864ac8b7a7664d992fc00178fbef6b36a3aeb4", 
+      "title": "On Correcting Inputs: Inverse Optimization for Online Structured Prediction", 
+      "url": "https://www.semanticscholar.org/paper/0d864ac8b7a7664d992fc00178fbef6b36a3aeb4"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "2e4a5108655bdf783a28f7ed23186b3df594c28a", 
+      "title": "Discriminative Unsupervised Alignment of Natural Language Instructions with Corresponding Video Segments", 
+      "url": "https://www.semanticscholar.org/paper/2e4a5108655bdf783a28f7ed23186b3df594c28a"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "5ab47ec05490da63ac6315aedaad5e69674095a9", 
+      "title": "Smaller Alignment Models for Better Translations: Unsupervised Word Alignment with the l0-norm", 
+      "url": "https://www.semanticscholar.org/paper/5ab47ec05490da63ac6315aedaad5e69674095a9"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "69324b128eb08d274c04dee7df5ae08a1ced9ddd", 
+      "title": "Mining Parenthetical Translations from the Web by Word Alignment", 
+      "url": "https://www.semanticscholar.org/paper/69324b128eb08d274c04dee7df5ae08a1ced9ddd"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "38be93547a49281dee0bb4b8e9aae703790ce069", 
+      "title": "Supervised Word Alignment for Phrase-based Statistical Machine Translation", 
+      "url": "https://www.semanticscholar.org/paper/38be93547a49281dee0bb4b8e9aae703790ce069"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "571cef6cee59309321536639a0c4924a5366b2a6", 
+      "title": "Gap Between Theory and Practice: Noise Sensitive Word Alignment in Machine Translation", 
+      "url": "https://www.semanticscholar.org/paper/571cef6cee59309321536639a0c4924a5366b2a6"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "37643aa6564a469e39e02da3f5528b0d7fdc694a", 
+      "title": "Better Word Alignments with Supervised ITG Models", 
+      "url": "https://www.semanticscholar.org/paper/37643aa6564a469e39e02da3f5528b0d7fdc694a"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "14dc598805d183906655cbae127e7f1ece4849dc", 
+      "title": "Syntactic Agreement in Bilingual Corpora", 
+      "url": "https://www.semanticscholar.org/paper/14dc598805d183906655cbae127e7f1ece4849dc"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "375e994c0faab8ccd735cfd4ceb8b1f6cfba6504", 
+      "title": "Improving Statistical Word Alignment with Various Clues", 
+      "url": "https://www.semanticscholar.org/paper/375e994c0faab8ccd735cfd4ceb8b1f6cfba6504"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "ba7976e361cd9d1dc3b20f50bbc4065d46408ef1", 
+      "title": "MAXSIM: A Maximum Similarity Metric for Machine Translation Evaluation", 
+      "url": "https://www.semanticscholar.org/paper/ba7976e361cd9d1dc3b20f50bbc4065d46408ef1"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "54af970fa7279edd384ac5a5e38115fb2a8833c0", 
+      "title": "Designing an Improved Discriminative Word Aligner", 
+      "url": "https://www.semanticscholar.org/paper/54af970fa7279edd384ac5a5e38115fb2a8833c0"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "791506f37e7dbf58565a52a089cdefe0fed631f8", 
+      "title": "Word Alignment via Quadratic Assignment", 
+      "url": "https://www.semanticscholar.org/paper/791506f37e7dbf58565a52a089cdefe0fed631f8"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "06d104be269dd1222d3d9ab4a6db9c7fcf5812db", 
+      "title": "A Semi-Supervised Word Alignment Algorithm with Partial Manual Alignments", 
+      "url": "https://www.semanticscholar.org/paper/06d104be269dd1222d3d9ab4a6db9c7fcf5812db"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "52f1cfd3b639335a23042ed7583c1214fa0bef3c", 
+      "title": "Combining Multiple Alignments to Improve Machine Translation", 
+      "url": "https://www.semanticscholar.org/paper/52f1cfd3b639335a23042ed7583c1214fa0bef3c"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "1d2fb6cc494f41741e00c28a8805c2cfd343c35f", 
+      "title": "Word alignment based recognizing textural entailment", 
+      "url": "https://www.semanticscholar.org/paper/1d2fb6cc494f41741e00c28a8805c2cfd343c35f"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "306d6184e72f95359806685a1095dcf45e5675e9", 
+      "title": "Automatic alignment of medical vs. general terminologies", 
+      "url": "https://www.semanticscholar.org/paper/306d6184e72f95359806685a1095dcf45e5675e9"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "75ce2ab9cd985a4159ff4f4f6d0483b76dae991e", 
+      "title": "Workshop: Application of LCC's GROUNDHOG System for RTE-4", 
+      "url": "https://www.semanticscholar.org/paper/75ce2ab9cd985a4159ff4f4f6d0483b76dae991e"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "9fc6060b6e009447f6d18019e61be1c64726a213", 
+      "title": "Training Conditional Random Fields Using Incomplete Annotations", 
+      "url": "https://www.semanticscholar.org/paper/9fc6060b6e009447f6d18019e61be1c64726a213"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "24a273c5268c5c9251cd10952d0d83f09a78e8e5", 
+      "title": "Large-scale Word Alignment Using Soft Dependency Cohesion Constraints", 
+      "url": "https://www.semanticscholar.org/paper/24a273c5268c5c9251cd10952d0d83f09a78e8e5"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "734d3c5a8e87468f7a196ad4cfc93c5043e5e16d", 
+      "title": "Word Alignment Based on Multi-Grain Model", 
+      "url": "https://www.semanticscholar.org/paper/734d3c5a8e87468f7a196ad4cfc93c5043e5e16d"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "358339357786ab4c48624635dede30eb6f9faefa", 
+      "title": "Joint Parsing and Alignment with Weakly Synchronized Grammars", 
+      "url": "https://www.semanticscholar.org/paper/358339357786ab4c48624635dede30eb6f9faefa"
+    }, 
+    {
+      "isInfluential": true, 
+      "paperId": "f2b5beec658b9d0fdcdbab54a3c7dc32362b16cd", 
+      "title": "Towards Syntactically Contrained Statistical Word Alignment", 
+      "url": "https://www.semanticscholar.org/paper/f2b5beec658b9d0fdcdbab54a3c7dc32362b16cd"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "3d7773dbeb5d122311d0d8fe3dd50f8a377f7b78", 
+      "title": "Using Global Constraints and Reranking to Improve Cognates Detection", 
+      "url": "https://www.semanticscholar.org/paper/3d7773dbeb5d122311d0d8fe3dd50f8a377f7b78"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "6bf300a928cce3441030aa6f7930fff37a14e85a", 
+      "title": "Machine Translation", 
+      "url": "https://www.semanticscholar.org/paper/6bf300a928cce3441030aa6f7930fff37a14e85a"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "b8deacde8425a6df15d157ccb68e21311dc84cbe", 
+      "title": "Estimating Word Alignment Quality for SMT Reordering Tasks", 
+      "url": "https://www.semanticscholar.org/paper/b8deacde8425a6df15d157ccb68e21311dc84cbe"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "3ca03ef57cb9a0e7f242f0690307dafde0c8677c", 
+      "title": "Unsupervised Resource Creation for Textual Inference Applications", 
+      "url": "https://www.semanticscholar.org/paper/3ca03ef57cb9a0e7f242f0690307dafde0c8677c"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "41d3880c21286f66062da24282b6760cb4fe3f30", 
+      "title": "Semi-Supervised Semantic Role Labeling via Structural Alignment", 
+      "url": "https://www.semanticscholar.org/paper/41d3880c21286f66062da24282b6760cb4fe3f30"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "dcd3444808185fe6818f986c763c2dfc413c495a", 
+      "title": "Cross-Lingual Annotation Projection Models for Role-Semantic Information", 
+      "url": "https://www.semanticscholar.org/paper/dcd3444808185fe6818f986c763c2dfc413c495a"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "1c54616f7271fe4bbbcaca754fdfe4bb0f3d4f64", 
+      "title": "An Introduction to Conditional Random Fields", 
+      "url": "https://www.semanticscholar.org/paper/1c54616f7271fe4bbbcaca754fdfe4bb0f3d4f64"
+    }, 
+    {
+      "isInfluential": true, 
+      "paperId": "60be889e00f6782609b1e05426e224b65b8b6617", 
+      "title": "Evidence-Based Word Alignment", 
+      "url": "https://www.semanticscholar.org/paper/60be889e00f6782609b1e05426e224b65b8b6617"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "627af83b214fdf1508387df0ff607b7b21fda9a2", 
+      "title": "Database-Text Alignment via Structured Multilabel Classification", 
+      "url": "https://www.semanticscholar.org/paper/627af83b214fdf1508387df0ff607b7b21fda9a2"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "8ce79fb6014607d7efcd476b1aa750ca0a6677c5", 
+      "title": "Unified Expectation Maximization", 
+      "url": "https://www.semanticscholar.org/paper/8ce79fb6014607d7efcd476b1aa750ca0a6677c5"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "8bb7ce6633c099126057c16585175459be9cc3c9", 
+      "title": "Discriminative Modeling of Extraction Sets for Machine Translation", 
+      "url": "https://www.semanticscholar.org/paper/8bb7ce6633c099126057c16585175459be9cc3c9"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "ad52a1c1c5f1ca3d7a1505b7948f83fa94061021", 
+      "title": "Phrase Alignment Models for Statistical Machine Translation", 
+      "url": "https://www.semanticscholar.org/paper/ad52a1c1c5f1ca3d7a1505b7948f83fa94061021"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "65e15aa9ad61e568a54857c9a7362ee0bc7b6d88", 
+      "title": "Non-Monotonic Sentence Alignment via Semisupervised Learning", 
+      "url": "https://www.semanticscholar.org/paper/65e15aa9ad61e568a54857c9a7362ee0bc7b6d88"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "3eba31e8d7000476f9fed392fff2e140137c7e23", 
+      "title": "Using Semantic Roles to Improve Question Answering", 
+      "url": "https://www.semanticscholar.org/paper/3eba31e8d7000476f9fed392fff2e140137c7e23"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "02b7fa2932131326cff12d3153a835b881314e0d", 
+      "title": "Discriminative Methods for Transliteration", 
+      "url": "https://www.semanticscholar.org/paper/02b7fa2932131326cff12d3153a835b881314e0d"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "7669c8e2edb9409dec9911ff20a5ba2d53d48ac0", 
+      "title": "Structured Prediction, Dual Extragradient and Bregman Projections", 
+      "url": "https://www.semanticscholar.org/paper/7669c8e2edb9409dec9911ff20a5ba2d53d48ac0"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "57150383c1c8b0d8a58beaa5b4993a43952a9f12", 
+      "title": "Incorporating Constituent Structure Constraint into Discriminative Word Alignment", 
+      "url": "https://www.semanticscholar.org/paper/57150383c1c8b0d8a58beaa5b4993a43952a9f12"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "61bee45a5a723b9f340a203c405088c835331212", 
+      "title": "Hierarchical Search for Word Alignment", 
+      "url": "https://www.semanticscholar.org/paper/61bee45a5a723b9f340a203c405088c835331212"
+    }, 
+    {
+      "isInfluential": true, 
+      "paperId": "a7f860c999096e3f610710abd39122df1fadbe3b", 
+      "title": "Soft Syntactic Constraints for Word Alignment through Discriminative Training", 
+      "url": "https://www.semanticscholar.org/paper/a7f860c999096e3f610710abd39122df1fadbe3b"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "1a878e4667fe55170252e3f41d38ddf85c87fcaf", 
+      "title": "Discriminative Machine Learning with Structure", 
+      "url": "https://www.semanticscholar.org/paper/1a878e4667fe55170252e3f41d38ddf85c87fcaf"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "bc3db492047da12beae9cc3ced5feea6b16df10b", 
+      "title": "A Discourse Commitment-Based Framework for Recognizing Textual Entailment", 
+      "url": "https://www.semanticscholar.org/paper/bc3db492047da12beae9cc3ced5feea6b16df10b"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "6447811a7cf20784e387d9cda1a0d22671b77e03", 
+      "title": "Variational Inference over Combinatorial Spaces", 
+      "url": "https://www.semanticscholar.org/paper/6447811a7cf20784e387d9cda1a0d22671b77e03"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "8749cb336383458fd54183c7d3a5d225fb8165f5", 
+      "title": "Title of Dissertation: Machine Translation by Pattern Matching Machine Translation by Pattern Matching", 
+      "url": "https://www.semanticscholar.org/paper/8749cb336383458fd54183c7d3a5d225fb8165f5"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "68608509f25f91054c56f49e800b935687b00fc9", 
+      "title": "Dependency Structure Trees in Syntax Based Machine Translation", 
+      "url": "https://www.semanticscholar.org/paper/68608509f25f91054c56f49e800b935687b00fc9"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "02fa8b01b4c5fd5c9bc758949a76718864c02890", 
+      "title": "International Workshop Natural Language Processing Methods and Corpora in Translation, Lexicography, and Language Learning", 
+      "url": "https://www.semanticscholar.org/paper/02fa8b01b4c5fd5c9bc758949a76718864c02890"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "bc7f0fb22b8b1e571e817302c16687d1e45b89fa", 
+      "title": "Faster Rates for training Max-Margin Markov Networks", 
+      "url": "https://www.semanticscholar.org/paper/bc7f0fb22b8b1e571e817302c16687d1e45b89fa"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "bb85d4d37873336322b92117ea3feb30e02faad6", 
+      "title": "Consensus versus Expertise : A Case Study of Word Alignment with Mechanical Turk", 
+      "url": "https://www.semanticscholar.org/paper/bb85d4d37873336322b92117ea3feb30e02faad6"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "8975251e19907c3a6afe93b8b4a8e913b2a1d518", 
+      "title": "DR AF T Smaller Alignment Models for Better Translations: Unsupervised Word Alignment with the l0-norm", 
+      "url": "https://www.semanticscholar.org/paper/8975251e19907c3a6afe93b8b4a8e913b2a1d518"
+    }, 
+    {
+      "isInfluential": true, 
+      "paperId": "898792ef7fe2a0ae00988046bfb1588ce49ad932", 
+      "title": "Discriminative Word Alignment by Linear Modeling", 
+      "url": "https://www.semanticscholar.org/paper/898792ef7fe2a0ae00988046bfb1588ce49ad932"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "9b12788644f85878230974be9def6472cfeec59a", 
+      "title": "A New Objective Function for Word Alignment", 
+      "url": "https://www.semanticscholar.org/paper/9b12788644f85878230974be9def6472cfeec59a"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "addcdc64a8e80f5591179b82ccc64c1293c88c2e", 
+      "title": "Computing Optimal Alignments for the IBM-3 Translation Model", 
+      "url": "https://www.semanticscholar.org/paper/addcdc64a8e80f5591179b82ccc64c1293c88c2e"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "5d78b19e33808af917f36ce5d7b256bf9cdd1ef8", 
+      "title": "A Comparison of Syntactically Motivated Word Alignment Spaces", 
+      "url": "https://www.semanticscholar.org/paper/5d78b19e33808af917f36ce5d7b256bf9cdd1ef8"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "22aa21754ebff4c4c8001c776b37b6b50df09fc6", 
+      "title": "TsinghuaAligner: A Statistical Bilingual Word Alignment System", 
+      "url": "https://www.semanticscholar.org/paper/22aa21754ebff4c4c8001c776b37b6b50df09fc6"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "0a9ef6aa7cf7dcd35867f8f0eef2a889a9f71209", 
+      "title": "Randomized Optimum Models for Structured Prediction", 
+      "url": "https://www.semanticscholar.org/paper/0a9ef6aa7cf7dcd35867f8f0eef2a889a9f71209"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "6fb74fc8ec03a3f23b01e898186748e6c4ac0085", 
+      "title": "Regularizing Mono- and Bi-Word Models for Word Alignment", 
+      "url": "https://www.semanticscholar.org/paper/6fb74fc8ec03a3f23b01e898186748e6c4ac0085"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "b871aa33b9cdd2c7af8e01991c6ad3c0f9088aa9", 
+      "title": "Classifier Ensemble approach to Dependency Parsing", 
+      "url": "https://www.semanticscholar.org/paper/b871aa33b9cdd2c7af8e01991c6ad3c0f9088aa9"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "e747f6af80421a278c9c6aeccb8abdf26445cb7f", 
+      "title": "Yawat: Yet Another Word Alignment Tool", 
+      "url": "https://www.semanticscholar.org/paper/e747f6af80421a278c9c6aeccb8abdf26445cb7f"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "2f492fdea681faa4db661d138e91022c8b72cc5b", 
+      "title": "Weighted Alignment Matrices for Statistical Machine Translation", 
+      "url": "https://www.semanticscholar.org/paper/2f492fdea681faa4db661d138e91022c8b72cc5b"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "8356d1ec5231156bc998357fffa98d0f4e3c9c35", 
+      "title": "Discriminant Models for Word Alignment", 
+      "url": "https://www.semanticscholar.org/paper/8356d1ec5231156bc998357fffa98d0f4e3c9c35"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "1abf21cce494f2a3b2f0a1d118abb500cb2c23ac", 
+      "title": "Generalized Expectation Criteria for Bootstrapping Extractors using Record-Text Alignment", 
+      "url": "https://www.semanticscholar.org/paper/1abf21cce494f2a3b2f0a1d118abb500cb2c23ac"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "2b2aefefc04aee8c01e730e07e31f09cc4c80665", 
+      "title": "A Convex Alternative to IBM Model 2", 
+      "url": "https://www.semanticscholar.org/paper/2b2aefefc04aee8c01e730e07e31f09cc4c80665"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "b20160e7831c05db3b3f55589b9efeb379fbe718", 
+      "title": "Smaller Alignment Models for Better Translations: Unsupervised Word Alignment with the `0-norm", 
+      "url": "https://www.semanticscholar.org/paper/b20160e7831c05db3b3f55589b9efeb379fbe718"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "8c7635bca49d86b50171cce3636993916e62738d", 
+      "title": "Large-scale Semi-supervised Learning for Natural Language Processing Examining Committee", 
+      "url": "https://www.semanticscholar.org/paper/8c7635bca49d86b50171cce3636993916e62738d"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "e8d5eee92ad86ebd3f54e2a028e59a97ddb83117", 
+      "title": "Maximum-entropy word alignment and posterior-based phrase extraction for machine translation", 
+      "url": "https://www.semanticscholar.org/paper/e8d5eee92ad86ebd3f54e2a028e59a97ddb83117"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "9def5c12a243744176ee46555856038d9895980c", 
+      "title": "Local Search with Very Large-Scale Neighborhoods for Optimal Permutations in Machine Translation\u2217", 
+      "url": "https://www.semanticscholar.org/paper/9def5c12a243744176ee46555856038d9895980c"
+    }, 
+    {
+      "isInfluential": true, 
+      "paperId": "8606671e9036a58c9e3fd96f8ed161edd4536e47", 
+      "title": "Improved Discriminative Bilingual Word Alignment", 
+      "url": "https://www.semanticscholar.org/paper/8606671e9036a58c9e3fd96f8ed161edd4536e47"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "647257bfc748b1d72bbf7525da9b18ab240a8686", 
+      "title": "Joint Workshop on Language Technology for Closely Related Languages, Varieties and Dialects", 
+      "url": "https://www.semanticscholar.org/paper/647257bfc748b1d72bbf7525da9b18ab240a8686"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "d5a6db07209c374ba610c67b42a4d765369378d5", 
+      "title": "A Survey of Statistical Machine Translation", 
+      "url": "https://www.semanticscholar.org/paper/d5a6db07209c374ba610c67b42a4d765369378d5"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "41d94d64236218d2a35a1f53af21a3a32a64e11c", 
+      "title": "EMDC: A Semi-supervised Approach for Word Alignment", 
+      "url": "https://www.semanticscholar.org/paper/41d94d64236218d2a35a1f53af21a3a32a64e11c"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "15e1b1d5278d746182dc9a2183c2fdf767f437c3", 
+      "title": "TakeTwo: A Word Aligner based on Self Learning", 
+      "url": "https://www.semanticscholar.org/paper/15e1b1d5278d746182dc9a2183c2fdf767f437c3"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "3629b977c9675a51476fdfd59795178b6b29fafb", 
+      "title": "Tailoring Word Alignments to Syntactic Machine Translation", 
+      "url": "https://www.semanticscholar.org/paper/3629b977c9675a51476fdfd59795178b6b29fafb"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "b325e0e66863a66147cbaa1078b850efda8c1fcf", 
+      "title": "Building Monolingual Word Alignment Corpus for the Greater China Region", 
+      "url": "https://www.semanticscholar.org/paper/b325e0e66863a66147cbaa1078b850efda8c1fcf"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "da465b208695afacca407fb000cda4a025d4a17f", 
+      "title": "Multilingual Cognate Identification using Integer Linear Programming", 
+      "url": "https://www.semanticscholar.org/paper/da465b208695afacca407fb000cda4a025d4a17f"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "1493aeacfa240052522bbb35d31b65e1fd4de8d2", 
+      "title": "Going Beyond AER: An Extensive Analysis of Word Alignments and Their Impact on MT", 
+      "url": "https://www.semanticscholar.org/paper/1493aeacfa240052522bbb35d31b65e1fd4de8d2"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "9be54d07166ee994a07c6f20aaaf7889826c090b", 
+      "title": "Chunk alignment for Corpus-Based Machine Translation", 
+      "url": "https://www.semanticscholar.org/paper/9be54d07166ee994a07c6f20aaaf7889826c090b"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "4aa88decb6cb5654fee85c36b25652284b68ad80", 
+      "title": "Accelerated Training of Max-Margin Markov Networks with Kernels", 
+      "url": "https://www.semanticscholar.org/paper/4aa88decb6cb5654fee85c36b25652284b68ad80"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "a6ac5efd38a5d44918b7f3d1033a48e7b92c675b", 
+      "title": "Statistical machine translation", 
+      "url": "https://www.semanticscholar.org/paper/a6ac5efd38a5d44918b7f3d1033a48e7b92c675b"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "c6608fdd919f2bc4f8d7412bab287527dcbcf505", 
+      "title": "Unsupervised Alignment of Natural Language with Video", 
+      "url": "https://www.semanticscholar.org/paper/c6608fdd919f2bc4f8d7412bab287527dcbcf505"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "433025fc4044ad8b531251edfb87326b2308e3aa", 
+      "title": "Using Levins verb classification for preposition sense selection in English to Indian language MT", 
+      "url": "https://www.semanticscholar.org/paper/433025fc4044ad8b531251edfb87326b2308e3aa"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "1e4c5e691df3914df8cb65b685fe1594ed3cbe28", 
+      "title": "A block bigram prediction model for statistical machine translation", 
+      "url": "https://www.semanticscholar.org/paper/1e4c5e691df3914df8cb65b685fe1594ed3cbe28"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "4766eb4f1abc64c52243191c707d8a672c841e95", 
+      "title": "Word Alignment via Submodular Maximization over Matroids", 
+      "url": "https://www.semanticscholar.org/paper/4766eb4f1abc64c52243191c707d8a672c841e95"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "32448ea97d13e2a286cf65f31e07775c55829793", 
+      "title": "A Pattern Matching Based Model for Implicit Opinion Question Identification", 
+      "url": "https://www.semanticscholar.org/paper/32448ea97d13e2a286cf65f31e07775c55829793"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "5606542a23f641d31629687d009eb13ca4b7e47a", 
+      "title": "Learning Better Rule Extraction with Translation Span Alignment", 
+      "url": "https://www.semanticscholar.org/paper/5606542a23f641d31629687d009eb13ca4b7e47a"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "8b83a9457a207c5a5782627446a4f61d9536d5b6", 
+      "title": "Cross-lingual Annotation Projection for Semantic Roles", 
+      "url": "https://www.semanticscholar.org/paper/8b83a9457a207c5a5782627446a4f61d9536d5b6"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "60950f675611c4b3cf8ee5b1ef250b7bc2498e2f", 
+      "title": "English to Tamil Transliteration using WEKA", 
+      "url": "https://www.semanticscholar.org/paper/60950f675611c4b3cf8ee5b1ef250b7bc2498e2f"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "c975dcd59093b072389707e865b3c250677f6fa3", 
+      "title": "A Maximum Entropy Approach to Combining Word Alignments", 
+      "url": "https://www.semanticscholar.org/paper/c975dcd59093b072389707e865b3c250677f6fa3"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "1c23e1ad1a538416e8123f128a87c928b09be868", 
+      "title": "Alignment by Agreement", 
+      "url": "https://www.semanticscholar.org/paper/1c23e1ad1a538416e8123f128a87c928b09be868"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "a03d2f53cd9938c595776dd41a62c515bd3dc060", 
+      "title": "Probabilistic Word Alignment under the $L_0$-norm", 
+      "url": "https://www.semanticscholar.org/paper/a03d2f53cd9938c595776dd41a62c515bd3dc060"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "24e40ccd96a54126ba544b2afe93df7294168608", 
+      "title": "Analyzing and Integrating Dependency Parsers", 
+      "url": "https://www.semanticscholar.org/paper/24e40ccd96a54126ba544b2afe93df7294168608"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "a7b3315c020681c3a142c8471500eb629cb57fdb", 
+      "title": "Applying Textual Entailment to the Interpretation of Metaphor", 
+      "url": "https://www.semanticscholar.org/paper/a7b3315c020681c3a142c8471500eb629cb57fdb"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "feac6a44131d8904b98649f81c4504202c74a5b4", 
+      "title": "Discriminative Models and Training Methods For Statistical Machine Translation", 
+      "url": "https://www.semanticscholar.org/paper/feac6a44131d8904b98649f81c4504202c74a5b4"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "55507038af2368e19a279bb9e6b906f4f87b66d2", 
+      "title": "Unsupervised Word Alignment with Arbitrary Features", 
+      "url": "https://www.semanticscholar.org/paper/55507038af2368e19a279bb9e6b906f4f87b66d2"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "0139dce3e2b09ddc78ae005c24ace1bb89dfb2d2", 
+      "title": "Supplementary Material : Variational Inference over Combinatorial Spaces", 
+      "url": "https://www.semanticscholar.org/paper/0139dce3e2b09ddc78ae005c24ace1bb89dfb2d2"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "7e3b5f0ffec62944f4b97a50553a12a39f54ba4a", 
+      "title": "Recurrent Neural Networks for Word Alignment Model", 
+      "url": "https://www.semanticscholar.org/paper/7e3b5f0ffec62944f4b97a50553a12a39f54ba4a"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "495ffe1df804273eaac83706bb02b5204bcef1e4", 
+      "title": "Empirical Machine Translation and its Evaluation", 
+      "url": "https://www.semanticscholar.org/paper/495ffe1df804273eaac83706bb02b5204bcef1e4"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "93b0ac546be21f938e82d8da0c0120b01d13eafa", 
+      "title": "Alignment-Based Discriminative String Similarity", 
+      "url": "https://www.semanticscholar.org/paper/93b0ac546be21f938e82d8da0c0120b01d13eafa"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "a88769291d7065336839cb48ca8d27e77ef82c6b", 
+      "title": "Exploiting Lexical Information and Discriminative Alignment Training in Statistical Machine Translation", 
+      "url": "https://www.semanticscholar.org/paper/a88769291d7065336839cb48ca8d27e77ef82c6b"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "1443b20ebbebba02b64cb3fee4fd3e35c3cfbd52", 
+      "title": "Measuring Word Alignment Quality for Statistical Machine Translation", 
+      "url": "https://www.semanticscholar.org/paper/1443b20ebbebba02b64cb3fee4fd3e35c3cfbd52"
+    }, 
+    {
+      "isInfluential": true, 
+      "paperId": "203a6c87ca3a45f7d0a37c5e529dcf81dcbf59b1", 
+      "title": "Discriminative Word Alignment with Conditional Random Fields", 
+      "url": "https://www.semanticscholar.org/paper/203a6c87ca3a45f7d0a37c5e529dcf81dcbf59b1"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "1bf465c8370310aa5e103cd834a547d4ac79d4d2", 
+      "title": "Discriminative Machine Translation Using Global Lexical Selection", 
+      "url": "https://www.semanticscholar.org/paper/1bf465c8370310aa5e103cd834a547d4ac79d4d2"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "02937917c2a7edbee32902ddcd44f3ce95c0cbc1", 
+      "title": "Fast Inference in Phrase Extraction Models with Belief Propagation", 
+      "url": "https://www.semanticscholar.org/paper/02937917c2a7edbee32902ddcd44f3ce95c0cbc1"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "a5a03fa0acb33e2ffc8e58a2752bc39103dd0ae5", 
+      "title": "SJTU CIT at TAC 2010: Guided Summarization Task", 
+      "url": "https://www.semanticscholar.org/paper/a5a03fa0acb33e2ffc8e58a2752bc39103dd0ae5"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "9950a0ee5bfa370fa490636cecddf7731dd6cf2f", 
+      "title": "Seventh Framework Programme Theme 3 Information and Communication Technologies Panacea Project Platform for Automatic, Normalized Annotation and Cost-effective Acquisition of Language Resources for Human Language Technologies Parallel Technology Tools and Resources", 
+      "url": "https://www.semanticscholar.org/paper/9950a0ee5bfa370fa490636cecddf7731dd6cf2f"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "8d62fb0eecc1de1a3e46f3259c3d66eeecaba431", 
+      "title": "A Simplified Approach to Word Alignment Algorithm for English-tamil Translation", 
+      "url": "https://www.semanticscholar.org/paper/8d62fb0eecc1de1a3e46f3259c3d66eeecaba431"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "ca54a09ba8126437614e6060d8f58fa6f9d35a4b", 
+      "title": "Natural Language Engineering", 
+      "url": "https://www.semanticscholar.org/paper/ca54a09ba8126437614e6060d8f58fa6f9d35a4b"
+    }, 
+    {
+      "isInfluential": true, 
+      "paperId": "2149743692aec2d7975849ec17267abbeb3c91ac", 
+      "title": "Structured Network Learning", 
+      "url": "https://www.semanticscholar.org/paper/2149743692aec2d7975849ec17267abbeb3c91ac"
+    }
+  ], 
+  "doi": null, 
+  "influentialCitationCount": 8, 
+  "paperId": "2b01277e351569c2c0d2620986c6394cccfea6b9", 
+  "references": [
+    {
+      "isInfluential": false, 
+      "paperId": "9c188b3291a7e83d667764be3377a99e15b4d988", 
+      "title": "The Complexity of Computing the Permanent", 
+      "url": "https://www.semanticscholar.org/paper/9c188b3291a7e83d667764be3377a99e15b4d988"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "72a46daa1192d8710df794f82116e44c37a46109", 
+      "title": "An \u03b5-Relaxation Method for Separable Convex Cost Network Flow Problems", 
+      "url": "https://www.semanticscholar.org/paper/72a46daa1192d8710df794f82116e44c37a46109"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "0c1f6f5acb751554a0152406aed98c98931bcecd", 
+      "title": "Structured Prediction via the Extragradient Method", 
+      "url": "https://www.semanticscholar.org/paper/0c1f6f5acb751554a0152406aed98c98931bcecd"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "057158cd15c2716411bcf7c5a28ef403a1e23009", 
+      "title": "Learning structured prediction models: a large margin approach", 
+      "url": "https://www.semanticscholar.org/paper/057158cd15c2716411bcf7c5a28ef403a1e23009"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "7d9eefd22206500b49f81b1fc925d923d10e2268", 
+      "title": "Combining Clues for Word Alignment", 
+      "url": "https://www.semanticscholar.org/paper/7d9eefd22206500b49f81b1fc925d923d10e2268"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "f421719fb76785d3167fcae03f1854b022b7a985", 
+      "title": "Combinatorial Optimization Polyhedra and Efficiency", 
+      "url": "https://www.semanticscholar.org/paper/f421719fb76785d3167fcae03f1854b022b7a985"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "3b8e7c8220d3883d54960d896a73045f3c70ac17", 
+      "title": "Discriminative Training Methods For Hidden Markov Models: Theory And Experiments With Perceptron Algorithms", 
+      "url": "https://www.semanticscholar.org/paper/3b8e7c8220d3883d54960d896a73045f3c70ac17"
+    }, 
+    {
+      "isInfluential": true, 
+      "paperId": "0e2795b1329b25ba3709584b96fd5cb4c96f6f22", 
+      "title": "A Systematic Comparison of Various Statistical Alignment Models", 
+      "url": "https://www.semanticscholar.org/paper/0e2795b1329b25ba3709584b96fd5cb4c96f6f22"
+    }, 
+    {
+      "isInfluential": true, 
+      "paperId": "38224f0aa39e4d4b9a0060e0fe3941f9e6d1bee1", 
+      "title": "Models of Translational Equivalence among Words", 
+      "url": "https://www.semanticscholar.org/paper/38224f0aa39e4d4b9a0060e0fe3941f9e6d1bee1"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "6e5551731cfb63ad3172c24814405645ab62bda8", 
+      "title": "A Statistical Approach to Machine Translation", 
+      "url": "https://www.semanticscholar.org/paper/6e5551731cfb63ad3172c24814405645ab62bda8"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "209a62a4deb87456d195c67c1ae712205a7e4c3d", 
+      "title": "Symmetric Word Alignments for Statistical Machine Translation", 
+      "url": "https://www.semanticscholar.org/paper/209a62a4deb87456d195c67c1ae712205a7e4c3d"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "29fce636eb13cfe52bb57efc2347758bc8063742", 
+      "title": "An Evaluation Exercise For Word Alignment", 
+      "url": "https://www.semanticscholar.org/paper/29fce636eb13cfe52bb57efc2347758bc8063742"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "5aef483ebfd19b0cebe6f83e342081f0657336f9", 
+      "title": "HMM-Based Word Alignment in Statistical Translation", 
+      "url": "https://www.semanticscholar.org/paper/5aef483ebfd19b0cebe6f83e342081f0657336f9"
+    }
+  ], 
+  "title": "A Discriminative Matching Approach to Word Alignment", 
+  "url": "https://www.semanticscholar.org/paper/2b01277e351569c2c0d2620986c6394cccfea6b9", 
+  "venue": "HLT/EMNLP"
+}

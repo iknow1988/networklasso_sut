@@ -1,0 +1,420 @@
+{
+  "authors": [
+    {
+      "authorId": "1745345", 
+      "name": "Zhimin He", 
+      "url": "https://www.semanticscholar.org/author/1745345"
+    }, 
+    {
+      "authorId": "2556632", 
+      "name": "Fayola Peters", 
+      "url": "https://www.semanticscholar.org/author/2556632"
+    }, 
+    {
+      "authorId": "1703872", 
+      "name": "Tim Menzies", 
+      "url": "https://www.semanticscholar.org/author/1703872"
+    }, 
+    {
+      "authorId": "2553710", 
+      "name": "Ye Yang", 
+      "url": "https://www.semanticscholar.org/author/2553710"
+    }
+  ], 
+  "citationVelocity": 0, 
+  "citations": [
+    {
+      "isInfluential": false, 
+      "paperId": "6334ee3a7812d9912263c5d616215509fe2b4f15", 
+      "title": "Automatically Learning Semantic Features for Defect Prediction", 
+      "url": "https://www.semanticscholar.org/paper/6334ee3a7812d9912263c5d616215509fe2b4f15", 
+      "venue": "2016 IEEE/ACM 38th International Conference on Software Engineering (ICSE)", 
+      "year": 2016
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "3430141dd62a89560974552b7f650b4d59bab8d0", 
+      "title": "Value and Applicability of Academic Projects Defect Datasets in Cross-Project Software Defect Prediction", 
+      "url": "https://www.semanticscholar.org/paper/3430141dd62a89560974552b7f650b4d59bab8d0", 
+      "venue": "2016 2nd International Conference on Computational Intelligence and Networks (CINE)", 
+      "year": 2016
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "57594d304f41006116bbc0e311495be6614919bc", 
+      "title": "An Improved SDA Based Defect Prediction Framework for Both Within-Project and Cross-Project Class-Imbalance Problems", 
+      "url": "https://www.semanticscholar.org/paper/57594d304f41006116bbc0e311495be6614919bc", 
+      "venue": "IEEE Transactions on Software Engineering", 
+      "year": 2017
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "b6ce7e53e7b3c30a0b651fe3794a36c8ea786153", 
+      "title": "Simpler Transfer Learning (Using \"Bellwethers\")", 
+      "url": "https://www.semanticscholar.org/paper/b6ce7e53e7b3c30a0b651fe3794a36c8ea786153", 
+      "venue": "ArXiv", 
+      "year": 2017
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "8c55e2743e25cf87d9539ea24b235c8353844ee7", 
+      "title": "Cost-sensitive transfer kernel canonical correlation analysis for heterogeneous defect prediction", 
+      "url": "https://www.semanticscholar.org/paper/8c55e2743e25cf87d9539ea24b235c8353844ee7", 
+      "venue": "Automated Software Engineering", 
+      "year": 2017
+    }, 
+    {
+      "isInfluential": true, 
+      "paperId": "aefb2790a2db282605adb1a312dee19e835583e3", 
+      "title": "Global vs. local models for cross-project defect prediction", 
+      "url": "https://www.semanticscholar.org/paper/aefb2790a2db282605adb1a312dee19e835583e3", 
+      "venue": "Empirical Software Engineering", 
+      "year": 2016
+    }, 
+    {
+      "isInfluential": true, 
+      "paperId": "138856c23ba526f8330bcdb7a0b99f2614ad3128", 
+      "title": "A systematic mapping study on cross-project defect prediction", 
+      "url": "https://www.semanticscholar.org/paper/138856c23ba526f8330bcdb7a0b99f2614ad3128", 
+      "venue": "ArXiv", 
+      "year": 2017
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "216932333a3cee5456ca50b29b06edbad1d0409f", 
+      "title": "Local-based active classification of test report to assist crowdsourced testing", 
+      "url": "https://www.semanticscholar.org/paper/216932333a3cee5456ca50b29b06edbad1d0409f", 
+      "venue": "2016 31st IEEE/ACM International Conference on Automated Software Engineering (ASE)", 
+      "year": 2016
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "31f95ddfa291671e026b191cf7165bd5b9b0c6c8", 
+      "title": "CrossPare: A Tool for Benchmarking Cross-Project Defect Predictions", 
+      "url": "https://www.semanticscholar.org/paper/31f95ddfa291671e026b191cf7165bd5b9b0c6c8", 
+      "venue": "2015 30th IEEE/ACM International Conference on Automated Software Engineering Workshop (ASEW)", 
+      "year": 2015
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "6b4915127f567a69c779ea46d098d9d044ea2fcf", 
+      "title": "Data Transformation in Cross-project Defect Prediction", 
+      "url": "https://www.semanticscholar.org/paper/6b4915127f567a69c779ea46d098d9d044ea2fcf", 
+      "venue": "Empirical Software Engineering", 
+      "year": 2017
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "3767f82afe9d8200cc5462bb23d2ac23165f405e", 
+      "title": "Too much automation? The bellwether effect and its implications for transfer learning", 
+      "url": "https://www.semanticscholar.org/paper/3767f82afe9d8200cc5462bb23d2ac23165f405e", 
+      "venue": "2016 31st IEEE/ACM International Conference on Automated Software Engineering (ASE)", 
+      "year": 2016
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "ecf6d3f62b296fcd688de1c1a6f8a0cc4fedd50b", 
+      "title": "Which Is More Important for Cross-Project Defect Prediction: Instance or Feature?", 
+      "url": "https://www.semanticscholar.org/paper/ecf6d3f62b296fcd688de1c1a6f8a0cc4fedd50b", 
+      "venue": "2016 International Conference on Software Analysis, Testing and Evolution (SATE)", 
+      "year": 2016
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "b5dfe871aece021eaff9c53bbd30bf3199ea4f76", 
+      "title": "Towards building a universal defect prediction model with rank transformed predictors", 
+      "url": "https://www.semanticscholar.org/paper/b5dfe871aece021eaff9c53bbd30bf3199ea4f76", 
+      "venue": "Empirical Software Engineering", 
+      "year": 2015
+    }, 
+    {
+      "isInfluential": true, 
+      "paperId": "41f6daaa88c8c80228ac347a46bff8a6635d72d3", 
+      "title": "Software Defect Prediction via Convolutional Neural Network", 
+      "url": "https://www.semanticscholar.org/paper/41f6daaa88c8c80228ac347a46bff8a6635d72d3", 
+      "venue": "2017 IEEE International Conference on Software Quality, Reliability and Security (QRS)", 
+      "year": 2017
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "23bc7376b58566898c64b142e4824ed35c69a359", 
+      "title": "Cross-Project Defect Prediction Using a Connectivity-Based Unsupervised Classifier", 
+      "url": "https://www.semanticscholar.org/paper/23bc7376b58566898c64b142e4824ed35c69a359", 
+      "venue": "2016 IEEE/ACM 38th International Conference on Software Engineering (ICSE)", 
+      "year": 2016
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "6946cb79300dcdece6da8300a3f12fcae9b7044d", 
+      "title": "TDSelector: A Training Data Selection Method for Cross-Project Defect Prediction", 
+      "url": "https://www.semanticscholar.org/paper/6946cb79300dcdece6da8300a3f12fcae9b7044d", 
+      "venue": "ArXiv", 
+      "year": 2016
+    }
+  ], 
+  "doi": "10.1109/ESEM.2013.20", 
+  "influentialCitationCount": 3, 
+  "paperId": "8ff41dc6a18c69683b6c64001a377eebfebbe1c8", 
+  "references": [
+    {
+      "isInfluential": true, 
+      "paperId": "87bd02c23c96dc602e3fa31890baaa0613bb75b1", 
+      "title": "Cross-project defect prediction: a large scale experiment on data vs. domain vs. process", 
+      "url": "https://www.semanticscholar.org/paper/87bd02c23c96dc602e3fa31890baaa0613bb75b1", 
+      "venue": "ESEC/SIGSOFT FSE", 
+      "year": 2009
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "033472178174f153607148e5781d9b9be8f2bfcc", 
+      "title": "Transfer Learning via Dimensionality Reduction", 
+      "url": "https://www.semanticscholar.org/paper/033472178174f153607148e5781d9b9be8f2bfcc", 
+      "venue": "AAAI", 
+      "year": 2008
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "a97b6e24fb05f638d32ecd850d0ab36f36af605a", 
+      "title": "Techniques for evaluating fault prediction models", 
+      "url": "https://www.semanticscholar.org/paper/a97b6e24fb05f638d32ecd850d0ab36f36af605a", 
+      "venue": "Empirical Software Engineering", 
+      "year": 2008
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "ac50b590dcefef497411418fbfca9043b453e808", 
+      "title": "A unifying view on dataset shift in classification", 
+      "url": "https://www.semanticscholar.org/paper/ac50b590dcefef497411418fbfca9043b453e808", 
+      "venue": "Pattern Recognition", 
+      "year": 2012
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "8dbe4f0c2ac6d258754d9474484e5695805de98d", 
+      "title": "Data Mining Static Code Attributes to Learn Defect Predictors", 
+      "url": "https://www.semanticscholar.org/paper/8dbe4f0c2ac6d258754d9474484e5695805de98d", 
+      "venue": "IEEE Transactions on Software Engineering", 
+      "year": 2007
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "07117994f0971b2fc2df95adb373c31c3d313442", 
+      "title": "Correcting Sample Selection Bias by Unlabeled Data", 
+      "url": "https://www.semanticscholar.org/paper/07117994f0971b2fc2df95adb373c31c3d313442", 
+      "venue": "NIPS", 
+      "year": 2006
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "13d4c2f76a7c1a4d0a71204e1d5d263a3f5a7986", 
+      "title": "Random Forests", 
+      "url": "https://www.semanticscholar.org/paper/13d4c2f76a7c1a4d0a71204e1d5d263a3f5a7986", 
+      "venue": "Machine Learning", 
+      "year": 2001
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "2a182d878dbf4a360af9ccf7e094239ac9526f96", 
+      "title": "Distances between Data Sets Based on Summary Statistics", 
+      "url": "https://www.semanticscholar.org/paper/2a182d878dbf4a360af9ccf7e094239ac9526f96", 
+      "venue": "Journal of Machine Learning Research", 
+      "year": 2007
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "4d364ce3728370ffbed22940feb23b825cf02924", 
+      "title": "Towards identifying software project clusters with regard to defect prediction", 
+      "url": "https://www.semanticscholar.org/paper/4d364ce3728370ffbed22940feb23b825cf02924", 
+      "venue": "PROMISE", 
+      "year": 2010
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "54881ce0a4469d9c428df2e542d9fc2008ae093e", 
+      "title": "Recalling the \"imprecision\" of cross-project defect prediction", 
+      "url": "https://www.semanticscholar.org/paper/54881ce0a4469d9c428df2e542d9fc2008ae093e", 
+      "venue": "SIGSOFT FSE", 
+      "year": 2012
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "1019f5202a594e1a315a9fd39098ff67de9042fd", 
+      "title": "Using Faults-Slip-Through Metric as a Predictor of Fault-Proneness", 
+      "url": "https://www.semanticscholar.org/paper/1019f5202a594e1a315a9fd39098ff67de9042fd", 
+      "venue": "2010 Asia Pacific Software Engineering Conference", 
+      "year": 2010
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "a25fbcbbae1e8f79c4360d26aa11a3abf1a11972", 
+      "title": "A Survey on Transfer Learning", 
+      "url": "https://www.semanticscholar.org/paper/a25fbcbbae1e8f79c4360d26aa11a3abf1a11972", 
+      "venue": "IEEE Transactions on Knowledge and Data Engineering", 
+      "year": 2010
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "02024a64d2af4df7fa008e1077b597cb90bedf14", 
+      "title": "Adaptive Concept Drift Detection", 
+      "url": "https://www.semanticscholar.org/paper/02024a64d2af4df7fa008e1077b597cb90bedf14", 
+      "venue": "SDM", 
+      "year": 2009
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "2c1a586432812b0b7620b37d96ac0df1b9be7261", 
+      "title": "How to Find Relevant Data for Effort Estimation?", 
+      "url": "https://www.semanticscholar.org/paper/2c1a586432812b0b7620b37d96ac0df1b9be7261", 
+      "venue": "2011 International Symposium on Empirical Software Engineering and Measurement", 
+      "year": 2011
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "0600fc43809517453db4744f77895d728d2ed825", 
+      "title": "Defect prediction from static code features: current\u00a0results, limitations, new approaches", 
+      "url": "https://www.semanticscholar.org/paper/0600fc43809517453db4744f77895d728d2ed825", 
+      "venue": "Automated Software Engineering", 
+      "year": 2010
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "046b7f6b48e4d9fcf173dea0a0802d7e87b383e1", 
+      "title": "Bagging Predictors", 
+      "url": "https://www.semanticscholar.org/paper/046b7f6b48e4d9fcf173dea0a0802d7e87b383e1", 
+      "venue": "Machine Learning", 
+      "year": 1996
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "a716fd2d4e49cb3e190e331bda680162611b21fe", 
+      "title": "Software metrics: successes, failures and new directions", 
+      "url": "https://www.semanticscholar.org/paper/a716fd2d4e49cb3e190e331bda680162611b21fe", 
+      "venue": "Journal of Systems and Software", 
+      "year": 1999
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "21305504e7ccde5505a4281419a5799bccc42378", 
+      "title": "Predicting the location and number of faults in large software systems", 
+      "url": "https://www.semanticscholar.org/paper/21305504e7ccde5505a4281419a5799bccc42378", 
+      "venue": "IEEE Transactions on Software Engineering", 
+      "year": 2005
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "00bbbf3af78f80651e9f955209ee72711fa5d412", 
+      "title": "On Discriminative vs. Generative Classifiers: A comparison of logistic regression and naive Bayes", 
+      "url": "https://www.semanticscholar.org/paper/00bbbf3af78f80651e9f955209ee72711fa5d412", 
+      "venue": "NIPS", 
+      "year": 2001
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "dafcc5d8fdc84d76b771c3b7ad07cd6c0b981d54", 
+      "title": "Transfer learning for cross-company software defect prediction", 
+      "url": "https://www.semanticscholar.org/paper/dafcc5d8fdc84d76b771c3b7ad07cd6c0b981d54", 
+      "venue": "Information & Software Technology", 
+      "year": 2012
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "75537bb4277a655a96198d47c6796a1bd7175011", 
+      "title": "Implications of ceiling effects in defect predictors", 
+      "url": "https://www.semanticscholar.org/paper/75537bb4277a655a96198d47c6796a1bd7175011", 
+      "venue": "PROMISE '08", 
+      "year": 2008
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "bcd1a65fba2962b44255acce537a6456fa66cd2c", 
+      "title": "Balancing Privacy and Utility in Cross-Company Defect Prediction", 
+      "url": "https://www.semanticscholar.org/paper/bcd1a65fba2962b44255acce537a6456fa66cd2c", 
+      "venue": "IEEE Transactions on Software Engineering", 
+      "year": 2013
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "99fbc31fd84737bb268360dafdf60742e09ad1a4", 
+      "title": "Adapting a fault prediction model to allow inter languagereuse", 
+      "url": "https://www.semanticscholar.org/paper/99fbc31fd84737bb268360dafdf60742e09ad1a4", 
+      "venue": "PROMISE '08", 
+      "year": 2008
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "63ab3758e56b617b2b5179c7967e32ad0440fe32", 
+      "title": "Statistical change detection for multi-dimensional data", 
+      "url": "https://www.semanticscholar.org/paper/63ab3758e56b617b2b5179c7967e32ad0440fe32", 
+      "venue": "KDD", 
+      "year": 2007
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "5fcdd1970bf75e6c00088d0cabd2e19538c97257", 
+      "title": "Benchmarking Classification Models for Software Defect Prediction: A Proposed Framework and Novel Findings", 
+      "url": "https://www.semanticscholar.org/paper/5fcdd1970bf75e6c00088d0cabd2e19538c97257", 
+      "venue": "IEEE Transactions on Software Engineering", 
+      "year": 2008
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "77da1e5a9571e88c7cfa638ea61ef7b4414cd16e", 
+      "title": "An investigation on the feasibility of cross-project defect prediction", 
+      "url": "https://www.semanticscholar.org/paper/77da1e5a9571e88c7cfa638ea61ef7b4414cd16e", 
+      "venue": "Automated Software Engineering", 
+      "year": 2011
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "cfe0a2bf6fb69e97b2d8173df35518e67efbf537", 
+      "title": "On the relative value of cross-company and within-company data for defect prediction", 
+      "url": "https://www.semanticscholar.org/paper/cfe0a2bf6fb69e97b2d8173df35518e67efbf537", 
+      "venue": "Empirical Software Engineering", 
+      "year": 2008
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "4823e52161ec339d4d3526099a5477321f6a9a0f", 
+      "title": "Domain Adaptation via Transfer Component Analysis", 
+      "url": "https://www.semanticscholar.org/paper/4823e52161ec339d4d3526099a5477321f6a9a0f", 
+      "venue": "IEEE Transactions on Neural Networks", 
+      "year": 2009
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "44e915a220ce74badf755aae870fa0b69ee2b82a", 
+      "title": "Naive (Bayes) at Forty: The Independence Assumption in Information Retrieval", 
+      "url": "https://www.semanticscholar.org/paper/44e915a220ce74badf755aae870fa0b69ee2b82a", 
+      "venue": "ECML", 
+      "year": 1998
+    }, 
+    {
+      "isInfluential": true, 
+      "paperId": "091c0a0a785f638ecf10d216258708eb9677beb0", 
+      "title": "A Kernel Method for the Two-Sample-Problem", 
+      "url": "https://www.semanticscholar.org/paper/091c0a0a785f638ecf10d216258708eb9677beb0", 
+      "venue": "NIPS", 
+      "year": 2006
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "0f3b8ab2f774d5a3077e1e4d40740e664281d813", 
+      "title": "Unsupervised Change Analysis Using Supervised Learning", 
+      "url": "https://www.semanticscholar.org/paper/0f3b8ab2f774d5a3077e1e4d40740e664281d813", 
+      "venue": "PAKDD", 
+      "year": 2008
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "8415e713e801c63c3d7e73434e990ffdaabc99c1", 
+      "title": "Domain Adaptation with Structural Correspondence Learning", 
+      "url": "https://www.semanticscholar.org/paper/8415e713e801c63c3d7e73434e990ffdaabc99c1", 
+      "venue": "EMNLP", 
+      "year": 2006
+    }
+  ], 
+  "title": "Learning from Open-Source Projects: An Empirical Study on Defect Prediction", 
+  "url": "https://www.semanticscholar.org/paper/8ff41dc6a18c69683b6c64001a377eebfebbe1c8", 
+  "venue": "2013 ACM / IEEE International Symposium on Empirical Software Engineering and Measurement", 
+  "year": 2013
+}

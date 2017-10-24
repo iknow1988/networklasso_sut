@@ -1,0 +1,843 @@
+{
+  "authors": [
+    {
+      "authorId": "1794976", 
+      "name": "Fangtao Li", 
+      "url": "https://www.semanticscholar.org/author/1794976"
+    }, 
+    {
+      "authorId": "1770858", 
+      "name": "Chao Han", 
+      "url": "https://www.semanticscholar.org/author/1770858"
+    }, 
+    {
+      "authorId": "1730108", 
+      "name": "Minlie Huang", 
+      "url": "https://www.semanticscholar.org/author/1730108"
+    }, 
+    {
+      "authorId": "1686240", 
+      "name": "Xiaoyan Zhu", 
+      "url": "https://www.semanticscholar.org/author/1686240"
+    }, 
+    {
+      "authorId": "1758619", 
+      "name": "Yingju Xia", 
+      "url": "https://www.semanticscholar.org/author/1758619"
+    }, 
+    {
+      "authorId": "21952284", 
+      "name": "Shu Zhang", 
+      "url": "https://www.semanticscholar.org/author/21952284"
+    }, 
+    {
+      "authorId": "1745355", 
+      "name": "Hao Yu", 
+      "url": "https://www.semanticscholar.org/author/1745355"
+    }
+  ], 
+  "citationVelocity": 24, 
+  "citations": [
+    {
+      "isInfluential": true, 
+      "paperId": "19cdd94060efb7a25ee366ddb906da9ff4e27401", 
+      "title": "An Association-Based Unified Framework for Mining Features and Opinion Words", 
+      "url": "https://www.semanticscholar.org/paper/19cdd94060efb7a25ee366ddb906da9ff4e27401", 
+      "venue": "ACM TIST", 
+      "year": 2015
+    }, 
+    {
+      "isInfluential": true, 
+      "paperId": "4d20d365e5adecfda4b7e90d5714d7fd2ee42b0d", 
+      "title": "Syntactic Patterns versus Word Alignment: Extracting Opinion Targets from Online Reviews", 
+      "url": "https://www.semanticscholar.org/paper/4d20d365e5adecfda4b7e90d5714d7fd2ee42b0d", 
+      "venue": "ACL", 
+      "year": 2013
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "38aad86b0e8d90b5b481e72784575dd4ccdc0c3b", 
+      "title": "Product Review Summarization by Exploiting Phrase Properties", 
+      "url": "https://www.semanticscholar.org/paper/38aad86b0e8d90b5b481e72784575dd4ccdc0c3b", 
+      "venue": "COLING", 
+      "year": 2016
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "b79e25bab10f1626d21c4c08d933ae318664bfc7", 
+      "title": "Analysis of opinionated text for opinion mining", 
+      "url": "https://www.semanticscholar.org/paper/b79e25bab10f1626d21c4c08d933ae318664bfc7", 
+      "venue": "ArXiv", 
+      "year": 2016
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "80cd9771b77c99c72e49578857684549aa50a75f", 
+      "title": "Leveraging Large Data with Weak Supervision for Joint Feature and Opinion Word Extraction", 
+      "url": "https://www.semanticscholar.org/paper/80cd9771b77c99c72e49578857684549aa50a75f", 
+      "venue": "Journal of Computer Science and Technology", 
+      "year": 2015
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "5882006a99e3414db982a123760bf0ec47a80907", 
+      "title": "Mining Opinion Words and Targets from Online Reviews in a Hybrid Framework", 
+      "url": "https://www.semanticscholar.org/paper/5882006a99e3414db982a123760bf0ec47a80907", 
+      "venue": "2015 IEEE/WIC/ACM International Conference on Web Intelligence and Intelligent Agent Technology (WI-IAT)", 
+      "year": 2015
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "94cdc4322bedc016c0f4f6705e9138c3773a1e24", 
+      "title": "Comparison of feature-level learning methods for mining online consumer reviews", 
+      "url": "https://www.semanticscholar.org/paper/94cdc4322bedc016c0f4f6705e9138c3773a1e24", 
+      "venue": "Expert Syst. Appl.", 
+      "year": 2012
+    }, 
+    {
+      "isInfluential": true, 
+      "paperId": "0ca02851664881c0a2e7c4770aecd174d98e23b2", 
+      "title": "Opinion Target Extraction Using Word-Based Translation Model", 
+      "url": "https://www.semanticscholar.org/paper/0ca02851664881c0a2e7c4770aecd174d98e23b2", 
+      "venue": "EMNLP-CoNLL", 
+      "year": 2012
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "d11c80143f5fe6d39b15c550b5468eefc40e5e9d", 
+      "title": "Fine Grained Opinion Mining from Online Reviews for Product Recommendation", 
+      "url": "https://www.semanticscholar.org/paper/d11c80143f5fe6d39b15c550b5468eefc40e5e9d", 
+      "venue": "", 
+      "year": 2016
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "e0f85ebb1aec99edf34b8ffef11405a3e8093e2d", 
+      "title": "A Novel Approach for Dynamic Polarity Mining from Customer Reviews", 
+      "url": "https://www.semanticscholar.org/paper/e0f85ebb1aec99edf34b8ffef11405a3e8093e2d", 
+      "venue": "Computer and Information Science", 
+      "year": 2013
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "1c72d8090f281f58d5b141a3917e341250ab4c8c", 
+      "title": "Recursive Neural Conditional Random Fields for Aspect-based Sentiment Analysis", 
+      "url": "https://www.semanticscholar.org/paper/1c72d8090f281f58d5b141a3917e341250ab4c8c", 
+      "venue": "EMNLP", 
+      "year": 2016
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "45a9c754e0598d01b34105fb7c92d578df8771c6", 
+      "title": "How to Evaluate Opinionated Keyphrase Extraction?", 
+      "url": "https://www.semanticscholar.org/paper/45a9c754e0598d01b34105fb7c92d578df8771c6", 
+      "venue": "WASSA@ACL", 
+      "year": 2012
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "1e7d7f76b3a7b494122f40c22487e60a51a2d1be", 
+      "title": "Social Collaborative Viewpoint Regression with Explainable Recommendations", 
+      "url": "https://www.semanticscholar.org/paper/1e7d7f76b3a7b494122f40c22487e60a51a2d1be", 
+      "venue": "WSDM", 
+      "year": 2017
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "17065ef0ae094be81d6c19e47ccb8cf8dc8f8f5c", 
+      "title": "Parametric and Non-parametric User-aware Sentiment Topic Models", 
+      "url": "https://www.semanticscholar.org/paper/17065ef0ae094be81d6c19e47ccb8cf8dc8f8f5c", 
+      "venue": "SIGIR", 
+      "year": 2015
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "2052171348b2b891e7a2cbf4d460df6c7d52bdcc", 
+      "title": "Learning Explainable User Sentiment and Preferences for Information Filtering", 
+      "url": "https://www.semanticscholar.org/paper/2052171348b2b891e7a2cbf4d460df6c7d52bdcc", 
+      "venue": "", 
+      "year": 2016
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "162387512135be6ef84bb54c7ea8fd700983da68", 
+      "title": "Joint Opinion Relation Detection Using One-Class Deep Neural Network", 
+      "url": "https://www.semanticscholar.org/paper/162387512135be6ef84bb54c7ea8fd700983da68", 
+      "venue": "COLING", 
+      "year": 2014
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "c6bbff8bbf9d79c3310f248e7f909429a1b566bb", 
+      "title": "USF: Chunking for Aspect-term Identification & Polarity Classification", 
+      "url": "https://www.semanticscholar.org/paper/c6bbff8bbf9d79c3310f248e7f909429a1b566bb", 
+      "venue": "SemEval@COLING", 
+      "year": 2014
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "2073092ff4cc993a365277a8be2a6eac57d0e798", 
+      "title": "Exploring sentiment parsing of microblogging texts for opinion polling on chinese public figures", 
+      "url": "https://www.semanticscholar.org/paper/2073092ff4cc993a365277a8be2a6eac57d0e798", 
+      "venue": "Applied Intelligence", 
+      "year": 2016
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "08281550b59e942475baee8c8c7a27e4246a8f7e", 
+      "title": "On the design of LDA models for aspect-based opinion mining", 
+      "url": "https://www.semanticscholar.org/paper/08281550b59e942475baee8c8c7a27e4246a8f7e", 
+      "venue": "CIKM", 
+      "year": 2012
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "2d5e004b36eaf5e019c334f589b2ca423e9d2d2e", 
+      "title": "Exploiting Domain Knowledge in Aspect Extraction", 
+      "url": "https://www.semanticscholar.org/paper/2d5e004b36eaf5e019c334f589b2ca423e9d2d2e", 
+      "venue": "EMNLP", 
+      "year": 2013
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "0d4fef0ef83c6bad2e14fe4a4880fa153f550974", 
+      "title": "Neural Networks for Open Domain Targeted Sentiment", 
+      "url": "https://www.semanticscholar.org/paper/0d4fef0ef83c6bad2e14fe4a4880fa153f550974", 
+      "venue": "EMNLP", 
+      "year": 2015
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "ae7d844c9d3034ffb8b6d9ab325b1c7d274fa03c", 
+      "title": "A Semantic Orientation Distinction Method for Opinion Mining in Tibetan Language", 
+      "url": "https://www.semanticscholar.org/paper/ae7d844c9d3034ffb8b6d9ab325b1c7d274fa03c", 
+      "venue": "2015 10th International Conference on Broadband and Wireless Computing, Communication and Applications (BWCCA)", 
+      "year": 2015
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "1aef5f0e31083080916712a95a95213bae458431", 
+      "title": "Product Aspect Ranking and Its Applications", 
+      "url": "https://www.semanticscholar.org/paper/1aef5f0e31083080916712a95a95213bae458431", 
+      "venue": "IEEE Transactions on Knowledge and Data Engineering", 
+      "year": 2014
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "04850809e4e31437039833753226b440a4fc8864", 
+      "title": "Deep Memory Networks for Attitude Identification", 
+      "url": "https://www.semanticscholar.org/paper/04850809e4e31437039833753226b440a4fc8864", 
+      "venue": "WSDM", 
+      "year": 2017
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "4a0c703fe51f60ae4e9b980b05e60046897a4b8c", 
+      "title": "Open Domain Targeted Sentiment", 
+      "url": "https://www.semanticscholar.org/paper/4a0c703fe51f60ae4e9b980b05e60046897a4b8c", 
+      "venue": "EMNLP", 
+      "year": 2013
+    }, 
+    {
+      "isInfluential": true, 
+      "paperId": "07709d8d0c1e570f5c402031a0eb5c772b88b5ba", 
+      "title": "Survey on Aspect-Level Sentiment Analysis", 
+      "url": "https://www.semanticscholar.org/paper/07709d8d0c1e570f5c402031a0eb5c772b88b5ba", 
+      "venue": "IEEE Transactions on Knowledge and Data Engineering", 
+      "year": 2016
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "19d748f959a24888f0239facf194085a4bf59f20", 
+      "title": "A Logic Programming Approach to Aspect Extraction in Opinion Mining", 
+      "url": "https://www.semanticscholar.org/paper/19d748f959a24888f0239facf194085a4bf59f20", 
+      "venue": "2013 IEEE/WIC/ACM International Joint Conferences on Web Intelligence (WI) and Intelligent Agent Technologies (IAT)", 
+      "year": 2013
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "3d84ee30d3b66c11ebc97ddaa95928d994516eca", 
+      "title": "Acquiring Broad Commonsense Knowledge for Sentiment Analysis Using Human Computation", 
+      "url": "https://www.semanticscholar.org/paper/3d84ee30d3b66c11ebc97ddaa95928d994516eca", 
+      "venue": "", 
+      "year": 2016
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "818575d1c4d1a8bd7b1b6ad9ac4513d77eb4a027", 
+      "title": "Aspect Extraction through Semi-Supervised Modeling", 
+      "url": "https://www.semanticscholar.org/paper/818575d1c4d1a8bd7b1b6ad9ac4513d77eb4a027", 
+      "venue": "ACL", 
+      "year": 2012
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "67631a79ca924e7d541dd0880fc44ddb50b10bc2", 
+      "title": "A Review Study of Co-Extracting Opinion Targets and Opinion Words from Online Reviews", 
+      "url": "https://www.semanticscholar.org/paper/67631a79ca924e7d541dd0880fc44ddb50b10bc2", 
+      "venue": "", 
+      "year": 2016
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "07da3a21216e601efba64f4f7af559c61e148851", 
+      "title": "Co-Extracting Opinion Targets and Opinion Words from Online Reviews Based on the Word Alignment Model", 
+      "url": "https://www.semanticscholar.org/paper/07da3a21216e601efba64f4f7af559c61e148851", 
+      "venue": "IEEE Transactions on Knowledge and Data Engineering", 
+      "year": 2015
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "d4bbc9b5fb0c8ab72790b2149925631e69d8a23d", 
+      "title": "Large-scale Opinion Relation Extraction with Distantly Supervised Neural Network", 
+      "url": "https://www.semanticscholar.org/paper/d4bbc9b5fb0c8ab72790b2149925631e69d8a23d", 
+      "venue": "EACL", 
+      "year": 2017
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "eaad80a5429171be30507644b88aa85620b4d80c", 
+      "title": "Product Aspect Ranking and Its Applications {tag} {/tag} Ijca Proceedings on National Conference on Recent Trends in Mobile and Cloud Computing Product Aspect Ranking and Its Applications Refer Ences Product Aspect Ranking and Its Applications", 
+      "url": "https://www.semanticscholar.org/paper/eaad80a5429171be30507644b88aa85620b4d80c", 
+      "venue": "", 
+      "year": 2017
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "9289281a2a88631427506fb5919ac4b391c75dc1", 
+      "title": "Mining Opinion Words and Opinion Targets in a Two-Stage Framework", 
+      "url": "https://www.semanticscholar.org/paper/9289281a2a88631427506fb5919ac4b391c75dc1", 
+      "venue": "ACL", 
+      "year": 2013
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "2669f918c5509d475a64710c49ae42a6172f7060", 
+      "title": "A Rule-Based Approach to Aspect Extraction from Product Reviews", 
+      "url": "https://www.semanticscholar.org/paper/2669f918c5509d475a64710c49ae42a6172f7060", 
+      "venue": "", 
+      "year": 2014
+    }, 
+    {
+      "isInfluential": true, 
+      "paperId": "a756a9f6ff7493d95b2608c32f98b86c71e8aabc", 
+      "title": "Product ranking using hierarchical aspect structures", 
+      "url": "https://www.semanticscholar.org/paper/a756a9f6ff7493d95b2608c32f98b86c71e8aabc", 
+      "venue": "Journal of Intelligent Information Systems", 
+      "year": 2016
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "0ece9e2827d0af7f47bef2e14e3d8986556e1bad", 
+      "title": "A probabilistic mixture model for mining and analyzing product search log", 
+      "url": "https://www.semanticscholar.org/paper/0ece9e2827d0af7f47bef2e14e3d8986556e1bad", 
+      "venue": "CIKM", 
+      "year": 2013
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "283aec86eb5dc9a3da6fac83bf55107d8a6ed171", 
+      "title": "Opinion mining on experience feedback: A case study on smartphones reviews", 
+      "url": "https://www.semanticscholar.org/paper/283aec86eb5dc9a3da6fac83bf55107d8a6ed171", 
+      "venue": "2015 IEEE 9th International Conference on Research Challenges in Information Science (RCIS)", 
+      "year": 2015
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "da41f94e843bf9272321756aa47c3329287321f5", 
+      "title": "An Unsupervised Neural Attention Model for Aspect Extraction", 
+      "url": "https://www.semanticscholar.org/paper/da41f94e843bf9272321756aa47c3329287321f5", 
+      "venue": "ACL", 
+      "year": 2017
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "28624120151d3edaf2d21ed25c32345c19a4d62e", 
+      "title": "Neural Network-Based Abstract Generation for Opinions and Arguments", 
+      "url": "https://www.semanticscholar.org/paper/28624120151d3edaf2d21ed25c32345c19a4d62e", 
+      "venue": "HLT-NAACL", 
+      "year": 2016
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "8f72933c1bbd7dcaadaed64511b74f87a55195f0", 
+      "title": "Multi-task Coupled Attentions for Category-specific Aspect and Opinion Terms Co-extraction", 
+      "url": "https://www.semanticscholar.org/paper/8f72933c1bbd7dcaadaed64511b74f87a55195f0", 
+      "venue": "ArXiv", 
+      "year": 2017
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "234bca5bb8ee713d168b77f1d7729c23e9623c1d", 
+      "title": "Hierarchical Multi-label Conditional Random Fields for Aspect-Oriented Opinion Mining", 
+      "url": "https://www.semanticscholar.org/paper/234bca5bb8ee713d168b77f1d7729c23e9623c1d", 
+      "venue": "ECIR", 
+      "year": 2014
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "75cda6502a2a1f5b7e9c9a6190db93d0b671df3d", 
+      "title": "Structured Aspect Extraction", 
+      "url": "https://www.semanticscholar.org/paper/75cda6502a2a1f5b7e9c9a6190db93d0b671df3d", 
+      "venue": "COLING", 
+      "year": 2016
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "82d59b113a30900cc1d6c0c90f7d524750878037", 
+      "title": "Says Who...? Identification of Expert versus Layman Critics' Reviews of Documentary Films", 
+      "url": "https://www.semanticscholar.org/paper/82d59b113a30900cc1d6c0c90f7d524750878037", 
+      "venue": "COLING", 
+      "year": 2016
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "2eb0c16b0e368ed74d4fe9443c9e643c4653a07f", 
+      "title": "Extracting Opinion Targets and Opinion Words from Online Reviews with Graph Co-ranking", 
+      "url": "https://www.semanticscholar.org/paper/2eb0c16b0e368ed74d4fe9443c9e643c4653a07f", 
+      "venue": "ACL", 
+      "year": 2014
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "975181c84a0991bb69f5af825e2019080d22cfcd", 
+      "title": "Opinion Target Extraction Using Partially-Supervised Word Alignment Model", 
+      "url": "https://www.semanticscholar.org/paper/975181c84a0991bb69f5af825e2019080d22cfcd", 
+      "venue": "IJCAI", 
+      "year": 2013
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "7e038f3a47d9fccaaa9189082b0182dcdfadc143", 
+      "title": "Joint Propagation and Refinement for Mining Opinion Words and Targets", 
+      "url": "https://www.semanticscholar.org/paper/7e038f3a47d9fccaaa9189082b0182dcdfadc143", 
+      "venue": "2014 IEEE International Conference on Data Mining Workshop", 
+      "year": 2014
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "e18df8e2de288db78078955cc63317c7eef9e1bd", 
+      "title": "Clustering Context-Dependent Opinion Target Words in Chinese Product Reviews", 
+      "url": "https://www.semanticscholar.org/paper/e18df8e2de288db78078955cc63317c7eef9e1bd", 
+      "venue": "Journal of Computer Science and Technology", 
+      "year": 2015
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "1f970f47fc34dbd919a60e2307cce3245dfa0eb8", 
+      "title": "Opinion Mining Based on Sentimental Analysis in Online Review", 
+      "url": "https://www.semanticscholar.org/paper/1f970f47fc34dbd919a60e2307cce3245dfa0eb8", 
+      "venue": "", 
+      "year": 2016
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "0a976cedcaa555571f8865d4ad75fcede02959b0", 
+      "title": "A least square based model for rating aspects and identifying important aspects on review text data", 
+      "url": "https://www.semanticscholar.org/paper/0a976cedcaa555571f8865d4ad75fcede02959b0", 
+      "venue": "2015 2nd National Foundation for Science and Technology Development Conference on Information and Computer Science (NICS)", 
+      "year": 2015
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "9e82cda513518567cad78abafca1f0611041783d", 
+      "title": "IHS R&D Belarus: Cross-domain extraction of product features using CRF", 
+      "url": "https://www.semanticscholar.org/paper/9e82cda513518567cad78abafca1f0611041783d", 
+      "venue": "SemEval@COLING", 
+      "year": 2014
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "586b2af1543319f6a435c63425d3578b44aae9fa", 
+      "title": "Inferring Dynamic User Interests in Streams of Short Texts for User Clustering", 
+      "url": "https://www.semanticscholar.org/paper/586b2af1543319f6a435c63425d3578b44aae9fa", 
+      "venue": "TOIS", 
+      "year": 2017
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "92b212c71a4b9245d0f36c16e2867c7dbf5a5316", 
+      "title": "Sentiment Extraction by Leveraging Aspect-Opinion Association Structure", 
+      "url": "https://www.semanticscholar.org/paper/92b212c71a4b9245d0f36c16e2867c7dbf5a5316", 
+      "venue": "CIKM", 
+      "year": 2015
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "dc7ffa3125e67e59256e79ec2c4e21ccfa4cf8bb", 
+      "title": "Computational approaches for mining user's opinions on the Web 2.0", 
+      "url": "https://www.semanticscholar.org/paper/dc7ffa3125e67e59256e79ec2c4e21ccfa4cf8bb", 
+      "venue": "Inf. Process. Manage.", 
+      "year": 2014
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "b9a426a68b609c67c9f6d99f8df23d5de4e5073b", 
+      "title": "INSTITUTO POLITE\u0301CNICO NACIONAL CENTRO DE INVESTIGACIO\u0301N EN COMPUTACIO\u0301N Laboratorio de Procesamiento de Lenguaje Natural Polarity summarization with opinion mining", 
+      "url": "https://www.semanticscholar.org/paper/b9a426a68b609c67c9f6d99f8df23d5de4e5073b", 
+      "venue": "", 
+      "year": 2014
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "53fbf1d6f78811762e79a9a7761807e553437299", 
+      "title": "FLAME: A Probabilistic Model Combining Aspect Based Opinion Mining and Collaborative Filtering", 
+      "url": "https://www.semanticscholar.org/paper/53fbf1d6f78811762e79a9a7761807e553437299", 
+      "venue": "WSDM", 
+      "year": 2015
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "1c554e724abfc2cee8c42b9f76bafa83fd256f0b", 
+      "title": "Aspect term extraction for sentiment analysis in large movie reviews using Gini Index feature selection method and SVM classifier", 
+      "url": "https://www.semanticscholar.org/paper/1c554e724abfc2cee8c42b9f76bafa83fd256f0b", 
+      "venue": "World Wide Web", 
+      "year": 2015
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "dcc288dc7d91764f14317412e798c438a77842d5", 
+      "title": "One seed to find them all: mining opinion features via association", 
+      "url": "https://www.semanticscholar.org/paper/dcc288dc7d91764f14317412e798c438a77842d5", 
+      "venue": "CIKM", 
+      "year": 2012
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "11d5cbdb7eaf4a6423662320a78995cc63726692", 
+      "title": "A Distant Supervision Method for Product Aspect Extraction from Customer Reviews", 
+      "url": "https://www.semanticscholar.org/paper/11d5cbdb7eaf4a6423662320a78995cc63726692", 
+      "venue": "2013 IEEE Seventh International Conference on Semantic Computing", 
+      "year": 2013
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "4d788ed9ee2fdbc60a539c4d3ca8428d545e87fa", 
+      "title": "Adaptive co-training SVM for sentiment classification on tweets", 
+      "url": "https://www.semanticscholar.org/paper/4d788ed9ee2fdbc60a539c4d3ca8428d545e87fa", 
+      "venue": "CIKM", 
+      "year": 2013
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "338529a4a2455414ae371439e491521149cff967", 
+      "title": "Multiple Product Aspect Ranking using Sentiment Classification", 
+      "url": "https://www.semanticscholar.org/paper/338529a4a2455414ae371439e491521149cff967", 
+      "venue": "", 
+      "year": 2015
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "7bdf57eb337f40605aacd57f4d334591ff9055d3", 
+      "title": "Twitter Opinion Topic Model: Extracting Product Opinions from Tweets by Leveraging Hashtags and Sentiment Lexicon", 
+      "url": "https://www.semanticscholar.org/paper/7bdf57eb337f40605aacd57f4d334591ff9055d3", 
+      "venue": "CIKM", 
+      "year": 2014
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "448477c23d934a8d15e03006a499c26b8bc1ceff", 
+      "title": "Unsupervised Word and Dependency Path Embeddings for Aspect Term Extraction", 
+      "url": "https://www.semanticscholar.org/paper/448477c23d934a8d15e03006a499c26b8bc1ceff", 
+      "venue": "IJCAI", 
+      "year": 2016
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "f7327c9a7c3a22cdf7f820d4457c8e34f1002f64", 
+      "title": "Comment based Seller Trust model for E-commerce", 
+      "url": "https://www.semanticscholar.org/paper/f7327c9a7c3a22cdf7f820d4457c8e34f1002f64", 
+      "venue": "2016 International Conference on Computational Techniques in Information and Communication Technologies (ICCTICT)", 
+      "year": 2016
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "2020d23b1155398f77beb3169275f39646d17158", 
+      "title": "Time-aware Multi-Viewpoint Summarization of Multilingual Social Text Streams", 
+      "url": "https://www.semanticscholar.org/paper/2020d23b1155398f77beb3169275f39646d17158", 
+      "venue": "CIKM", 
+      "year": 2016
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "02d0ecf88eddc6bf86a55d8c94369116140b64ce", 
+      "title": "Extracting Opinion Relations from Online Reviews Based on WAM", 
+      "url": "https://www.semanticscholar.org/paper/02d0ecf88eddc6bf86a55d8c94369116140b64ce", 
+      "venue": "", 
+      "year": 2016
+    }, 
+    {
+      "isInfluential": true, 
+      "paperId": "b11d874e3b51238ce0ae124568a61406f9ce9b53", 
+      "title": "Aspect extraction in sentiment analysis: comparative analysis and survey", 
+      "url": "https://www.semanticscholar.org/paper/b11d874e3b51238ce0ae124568a61406f9ce9b53", 
+      "venue": "Artificial Intelligence Review", 
+      "year": 2016
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "a1c738de35f2fd207ac6c800c2b70a66b80811fa", 
+      "title": "Aspect Term and Opinion Target Extraction from Web Product Reviews using Semi-markov Conditional Random Fields with Word Embeddings as Features", 
+      "url": "https://www.semanticscholar.org/paper/a1c738de35f2fd207ac6c800c2b70a66b80811fa", 
+      "venue": "WIMS", 
+      "year": 2016
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "8768fc3374b27c0ac023f5bf60da9ab50714b37e", 
+      "title": "Implicit Aspect Indicator Extraction for Aspect based Opinion Mining", 
+      "url": "https://www.semanticscholar.org/paper/8768fc3374b27c0ac023f5bf60da9ab50714b37e", 
+      "venue": "Int. J. Comput. Linguistics Appl.", 
+      "year": 2014
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "08f4d8e7626e55b7c4ffe1fd12eb034bc8022a43", 
+      "title": "Aspect Extraction with Automated Prior Knowledge Learning", 
+      "url": "https://www.semanticscholar.org/paper/08f4d8e7626e55b7c4ffe1fd12eb034bc8022a43", 
+      "venue": "ACL", 
+      "year": 2014
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "bc87585b4fc874a29bd1d9a031dce1807b2ba0e8", 
+      "title": "Summarizing Contrastive Themes via Hierarchical Non-Parametric Processes", 
+      "url": "https://www.semanticscholar.org/paper/bc87585b4fc874a29bd1d9a031dce1807b2ba0e8", 
+      "venue": "SIGIR", 
+      "year": 2015
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "ad54bd05344dc401ae92e132a71684c7b38422f5", 
+      "title": "A word-emoticon mutual reinforcement ranking model for building sentiment lexicon from massive collection of microblogs", 
+      "url": "https://www.semanticscholar.org/paper/ad54bd05344dc401ae92e132a71684c7b38422f5", 
+      "venue": "World Wide Web", 
+      "year": 2014
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "0dde6aecc3bf995cbcba191c873a85b17becb787", 
+      "title": "Tagging Opinion Phrases and their Targets in User Generated Textual Reviews", 
+      "url": "https://www.semanticscholar.org/paper/0dde6aecc3bf995cbcba191c873a85b17becb787", 
+      "venue": "WASSA@NAACL-HLT", 
+      "year": 2013
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "0de4ab252d299eea43ed945cc520c16a92a4c4cc", 
+      "title": "Explicit Document Modeling through Weighted Multiple-Instance Learning", 
+      "url": "https://www.semanticscholar.org/paper/0de4ab252d299eea43ed945cc520c16a92a4c4cc", 
+      "venue": "J. Artif. Intell. Res.", 
+      "year": 2017
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "688d8718e662d931d8c0ab1bfd03314c2ba711af", 
+      "title": "Gated Neural Networks for Targeted Sentiment Analysis", 
+      "url": "https://www.semanticscholar.org/paper/688d8718e662d931d8c0ab1bfd03314c2ba711af", 
+      "venue": "AAAI", 
+      "year": 2016
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "9d66cee00ba9dffba34ba0f340ba45cbc0a2e4a3", 
+      "title": "Cross-Domain Co-Extraction of Sentiment and Topic Lexicons", 
+      "url": "https://www.semanticscholar.org/paper/9d66cee00ba9dffba34ba0f340ba45cbc0a2e4a3", 
+      "venue": "ACL", 
+      "year": 2012
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "a0943db8d491f311310e74f69200d51590ea2459", 
+      "title": "The FLDA model for aspect-based opinion mining: addressing the cold start problem", 
+      "url": "https://www.semanticscholar.org/paper/a0943db8d491f311310e74f69200d51590ea2459", 
+      "venue": "WWW", 
+      "year": 2013
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "d0a86ee82018434b7275339801d9057536024bbb", 
+      "title": "Sentiment Analysis of Customer Reviews based on Hidden Markov Model", 
+      "url": "https://www.semanticscholar.org/paper/d0a86ee82018434b7275339801d9057536024bbb", 
+      "venue": "ICARCSET '15", 
+      "year": 2015
+    }
+  ], 
+  "doi": null, 
+  "influentialCitationCount": 6, 
+  "paperId": "1256c05bd50a80bb0a223ca94674c71fd61fad5a", 
+  "references": [
+    {
+      "isInfluential": false, 
+      "paperId": "b59abcfd7dbed8e284c4237c405f912adb1ad4ea", 
+      "title": "Predicting the Semantic Orientation of Adjectives", 
+      "url": "https://www.semanticscholar.org/paper/b59abcfd7dbed8e284c4237c405f912adb1ad4ea", 
+      "venue": "ACL", 
+      "year": 1997
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "4ed949b75b1d8e4daba7d74ed8b7965c41830349", 
+      "title": "Extracting Product Features and Opinions from Reviews", 
+      "url": "https://www.semanticscholar.org/paper/4ed949b75b1d8e4daba7d74ed8b7965c41830349", 
+      "venue": "HLT/EMNLP", 
+      "year": 2005
+    }, 
+    {
+      "isInfluential": true, 
+      "paperId": "13e5f0c40c85ca8e01b3756963d5352358de7c29", 
+      "title": "Mining and summarizing customer reviews", 
+      "url": "https://www.semanticscholar.org/paper/13e5f0c40c85ca8e01b3756963d5352358de7c29", 
+      "venue": "KDD", 
+      "year": 2004
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "033b62167e7358c429738092109311af696e9137", 
+      "title": "Thumbs Up or Thumbs Down? Semantic Orientation Applied to Unsupervised Classification of Reviews", 
+      "url": "https://www.semanticscholar.org/paper/033b62167e7358c429738092109311af696e9137", 
+      "venue": "ACL", 
+      "year": 2002
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "411d5ce6471e635ea96cf455e3f6229e0b3a887f", 
+      "title": "Identifying Expressions of Opinion in Context", 
+      "url": "https://www.semanticscholar.org/paper/411d5ce6471e635ea96cf455e3f6229e0b3a887f", 
+      "venue": "IJCAI", 
+      "year": 2007
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "06d0a9697a0f0242dbdeeff08ec5266b74bfe457", 
+      "title": "Fast Exact Inference with a Factored Model for Natural Language Parsing", 
+      "url": "https://www.semanticscholar.org/paper/06d0a9697a0f0242dbdeeff08ec5266b74bfe457", 
+      "venue": "NIPS", 
+      "year": 2002
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "8269f5706f991abdbe1272fa67b6302afad11f7c", 
+      "title": "Expanding Domain Sentiment Lexicon through Double Propagation", 
+      "url": "https://www.semanticscholar.org/paper/8269f5706f991abdbe1272fa67b6302afad11f7c", 
+      "venue": "IJCAI", 
+      "year": 2009
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "dea301ddc616ed7da7568b91a6627699fcbd07cd", 
+      "title": "Structured Models for Fine-to-Coarse Sentiment Analysis", 
+      "url": "https://www.semanticscholar.org/paper/dea301ddc616ed7da7568b91a6627699fcbd07cd", 
+      "venue": "ACL", 
+      "year": 2007
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "acc895879714ed3e947be7dfdcb7cc28d777722f", 
+      "title": "The utility of linguistic rules in opinion mining", 
+      "url": "https://www.semanticscholar.org/paper/acc895879714ed3e947be7dfdcb7cc28d777722f", 
+      "venue": "SIGIR", 
+      "year": 2007
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "0c7f52c753a65ceaf3755e20b906ffd0c05c994a", 
+      "title": "Conditional Random Fields: Probabilistic Models for Segmenting and Labeling Sequence Data", 
+      "url": "https://www.semanticscholar.org/paper/0c7f52c753a65ceaf3755e20b906ffd0c05c994a", 
+      "venue": "ICML", 
+      "year": 2001
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "8c8bf1efdbdbe37bd854192a7ba0716498e1802b", 
+      "title": "A Joint Model of Text and Aspect Ratings for Sentiment Summarization", 
+      "url": "https://www.semanticscholar.org/paper/8c8bf1efdbdbe37bd854192a7ba0716498e1802b", 
+      "venue": "ACL", 
+      "year": 2008
+    }, 
+    {
+      "isInfluential": true, 
+      "paperId": "9984b619a55394bed99f82c2282f00b00784925a", 
+      "title": "Adding Redundant Features for CRFs-based Sentence Sentiment Classification", 
+      "url": "https://www.semanticscholar.org/paper/9984b619a55394bed99f82c2282f00b00784925a", 
+      "venue": "EMNLP", 
+      "year": 2008
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "1c54616f7271fe4bbbcaca754fdfe4bb0f3d4f64", 
+      "title": "An Introduction to Conditional Random Fields", 
+      "url": "https://www.semanticscholar.org/paper/1c54616f7271fe4bbbcaca754fdfe4bb0f3d4f64", 
+      "venue": "Foundations and Trends in Machine Learning", 
+      "year": 2012
+    }, 
+    {
+      "isInfluential": true, 
+      "paperId": "40bf5c774fd7da2a312cfac9dd8521cf89e11d52", 
+      "title": "SENTIWORDNET: A Publicly Available Lexical Resource for Opinion Mining", 
+      "url": "https://www.semanticscholar.org/paper/40bf5c774fd7da2a312cfac9dd8521cf89e11d52", 
+      "venue": "", 
+      "year": 2006
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "308b39ea5aaf6f9a9d182142786c1b21d991dfd4", 
+      "title": "Movie review mining and summarization", 
+      "url": "https://www.semanticscholar.org/paper/308b39ea5aaf6f9a9d182142786c1b21d991dfd4", 
+      "venue": "CIKM", 
+      "year": 2006
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "6aedc02edbd48c06a70b3e7bfef8888ded61c83d", 
+      "title": "Topic sentiment mixture: modeling facets and opinions in weblogs", 
+      "url": "https://www.semanticscholar.org/paper/6aedc02edbd48c06a70b3e7bfef8888ded61c83d", 
+      "venue": "WWW", 
+      "year": 2007
+    }, 
+    {
+      "isInfluential": true, 
+      "paperId": "e9d17ab588df39ddf5f55d56df4816051dcc9d07", 
+      "title": "A Novel Lexicalized HMM-based Learning Framework for Web Opinion Mining", 
+      "url": "https://www.semanticscholar.org/paper/e9d17ab588df39ddf5f55d56df4816051dcc9d07", 
+      "venue": "", 
+      "year": 2009
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "fe0f5fb7791dfef081e18a95fa0f9b0c6796f833", 
+      "title": "Recognizing Contextual Polarity: An Exploration of Features for Phrase-Level Sentiment Analysis", 
+      "url": "https://www.semanticscholar.org/paper/fe0f5fb7791dfef081e18a95fa0f9b0c6796f833", 
+      "venue": "Computational Linguistics", 
+      "year": 2009
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "7b5b86b409faeaa656916214da1a3b11ad43a632", 
+      "title": "Identifying Sources of Opinions with Conditional Random Fields and Extraction Patterns", 
+      "url": "https://www.semanticscholar.org/paper/7b5b86b409faeaa656916214da1a3b11ad43a632", 
+      "venue": "HLT/EMNLP", 
+      "year": 2005
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "2ab8faaa1ee1791e6da911e408dee97681cfa58e", 
+      "title": "Multiple Aspect Ranking Using the Good Grief Algorithm", 
+      "url": "https://www.semanticscholar.org/paper/2ab8faaa1ee1791e6da911e408dee97681cfa58e", 
+      "venue": "HLT-NAACL", 
+      "year": 2007
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "7a3e03f1175067d6fc5d3308159be3df6e7c03c9", 
+      "title": "Tree-based reparameterization for approximate estimation on loopy graphs", 
+      "url": "https://www.semanticscholar.org/paper/7a3e03f1175067d6fc5d3308159be3df6e7c03c9", 
+      "venue": "", 
+      "year": 2001
+    }
+  ], 
+  "title": "Structure-Aware Review Mining and Summarization", 
+  "url": "https://www.semanticscholar.org/paper/1256c05bd50a80bb0a223ca94674c71fd61fad5a", 
+  "venue": "COLING", 
+  "year": 2010
+}

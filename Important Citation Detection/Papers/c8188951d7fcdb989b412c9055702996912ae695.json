@@ -1,0 +1,710 @@
+{
+  "authors": [
+    {
+      "authorId": "1913101", 
+      "name": "Robert West", 
+      "url": "https://www.semanticscholar.org/author/1913101"
+    }, 
+    {
+      "authorId": "1718798", 
+      "name": "Evgeniy Gabrilovich", 
+      "url": "https://www.semanticscholar.org/author/1718798"
+    }, 
+    {
+      "authorId": "18842485", 
+      "name": "Kevin Murphy", 
+      "url": "https://www.semanticscholar.org/author/18842485"
+    }, 
+    {
+      "authorId": "2673870", 
+      "name": "Shaohua Sun", 
+      "url": "https://www.semanticscholar.org/author/2673870"
+    }, 
+    {
+      "authorId": "1782019", 
+      "name": "Rahul Gupta", 
+      "url": "https://www.semanticscholar.org/author/1782019"
+    }, 
+    {
+      "authorId": "1690956", 
+      "name": "Dekang Lin", 
+      "url": "https://www.semanticscholar.org/author/1690956"
+    }
+  ], 
+  "citationVelocity": 31, 
+  "citations": [
+    {
+      "isInfluential": false, 
+      "paperId": "84f134f0472b43f998cba05162ff6b41c12659c3", 
+      "title": "Open Domain Question Answering via Semantic Enrichment", 
+      "url": "https://www.semanticscholar.org/paper/84f134f0472b43f998cba05162ff6b41c12659c3", 
+      "venue": "WWW", 
+      "year": 2015
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "819a42844f54e5566afa0a2189622105dd3d06fd", 
+      "title": "Semantic Parsing for Information Extraction", 
+      "url": "https://www.semanticscholar.org/paper/819a42844f54e5566afa0a2189622105dd3d06fd", 
+      "venue": "", 
+      "year": 2015
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "73f158f7e290c052cd3d74c8ab20445d2921dbdf", 
+      "title": "A Critical Examination of RESCAL for Completion of Knowledge Bases with Transitive Relations", 
+      "url": "https://www.semanticscholar.org/paper/73f158f7e290c052cd3d74c8ab20445d2921dbdf", 
+      "venue": "ArXiv", 
+      "year": 2016
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "554a822a88668878b127be698c4488badbb4e822", 
+      "title": "Improving Neural Knowledge Base Completion with Cross-Lingual Projections", 
+      "url": "https://www.semanticscholar.org/paper/554a822a88668878b127be698c4488badbb4e822", 
+      "venue": "EACL", 
+      "year": 2017
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "97746ed0db90e259be6028992c4810c122329c9f", 
+      "title": "Deductive and Analogical Reasoning on a Semantically Embedded Knowledge Graph", 
+      "url": "https://www.semanticscholar.org/paper/97746ed0db90e259be6028992c4810c122329c9f", 
+      "venue": "AGI", 
+      "year": 2017
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "15441fb7003d170b4710492a957bf5f78dd222e0", 
+      "title": "Commonsense Knowledge Base Completion", 
+      "url": "https://www.semanticscholar.org/paper/15441fb7003d170b4710492a957bf5f78dd222e0", 
+      "venue": "ACL", 
+      "year": 2016
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "4b129c53e93753ec8855e5e4d7b4d1a4d586d3b1", 
+      "title": "CoType: Joint Extraction of Typed Entities and Relations with Knowledge Bases", 
+      "url": "https://www.semanticscholar.org/paper/4b129c53e93753ec8855e5e4d7b4d1a4d586d3b1", 
+      "venue": "WWW", 
+      "year": 2017
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "d91eb4b84ef1905195f3429e46ecb48615e8d5e0", 
+      "title": "Probabilistic Belief Embedding for Large-Scale Knowledge Population", 
+      "url": "https://www.semanticscholar.org/paper/d91eb4b84ef1905195f3429e46ecb48615e8d5e0", 
+      "venue": "Cognitive Computation", 
+      "year": 2016
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "50de83b8a00f448b3e344701a60dfdcfd84881f4", 
+      "title": "STransE: a novel embedding model of entities and relationships in knowledge bases", 
+      "url": "https://www.semanticscholar.org/paper/50de83b8a00f448b3e344701a60dfdcfd84881f4", 
+      "venue": "HLT-NAACL", 
+      "year": 2016
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "197f5bc924ca3aef0efb65ec8fe6afe9238317db", 
+      "title": "An Entity-centric Approach for Overcoming Knowledge Graph Sparsity", 
+      "url": "https://www.semanticscholar.org/paper/197f5bc924ca3aef0efb65ec8fe6afe9238317db", 
+      "venue": "EMNLP", 
+      "year": 2015
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "35d4b405a9eef91da7d7e6bb1c06c54137f62b05", 
+      "title": "Constrained Information-Theoretic Tripartite Graph Clustering to Identify Semantically Similar Relations", 
+      "url": "https://www.semanticscholar.org/paper/35d4b405a9eef91da7d7e6bb1c06c54137f62b05", 
+      "venue": "IJCAI", 
+      "year": 2015
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "9a41111cf881b052555985bd8cf304ef9fc4f6d5", 
+      "title": "Distant IE by Bootstrapping Using Lists and Document Structure", 
+      "url": "https://www.semanticscholar.org/paper/9a41111cf881b052555985bd8cf304ef9fc4f6d5", 
+      "venue": "AAAI", 
+      "year": 2016
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "b1d8d7bc3da2079a46b39c4e2eb6f8417e9995cb", 
+      "title": "Subjective Knowledge Acquisition and Enrichment Powered By Crowdsourcing", 
+      "url": "https://www.semanticscholar.org/paper/b1d8d7bc3da2079a46b39c4e2eb6f8417e9995cb", 
+      "venue": "ArXiv", 
+      "year": 2017
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "39d6f2d674d213ecc51a2b17d803361a3d605835", 
+      "title": "ScaLeKB: scalable learning and inference over large knowledge bases", 
+      "url": "https://www.semanticscholar.org/paper/39d6f2d674d213ecc51a2b17d803361a3d605835", 
+      "venue": "The VLDB Journal", 
+      "year": 2016
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "34b39ed1879f11d8ab84b758f0b7ba292eabc279", 
+      "title": "Concept Expansion Using Web Tables", 
+      "url": "https://www.semanticscholar.org/paper/34b39ed1879f11d8ab84b758f0b7ba292eabc279", 
+      "venue": "WWW", 
+      "year": 2015
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "6fc677b7f3319b344eddd93e93ca4d65005f6cd2", 
+      "title": "Open-Vocabulary Semantic Parsing with both Distributional Statistics and Formal Knowledge", 
+      "url": "https://www.semanticscholar.org/paper/6fc677b7f3319b344eddd93e93ca4d65005f6cd2", 
+      "venue": "AAAI", 
+      "year": 2017
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "c22895b04e65409dd524ffb45122b6bacf2bda62", 
+      "title": "Queripidia: Query-specific Wikipedia Construction", 
+      "url": "https://www.semanticscholar.org/paper/c22895b04e65409dd524ffb45122b6bacf2bda62", 
+      "venue": "", 
+      "year": 2014
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "3afc8190029c83627e0f4dadca67d422261d2616", 
+      "title": "Methods for open information extraction and sense disambiguation on natural language text", 
+      "url": "https://www.semanticscholar.org/paper/3afc8190029c83627e0f4dadca67d422261d2616", 
+      "venue": "", 
+      "year": 2016
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "5f1ff8b631a67d7bf6e19d89535708ef1cc2bfe2", 
+      "title": "Improving the Quality of Linked Data Using Statistical Distributions", 
+      "url": "https://www.semanticscholar.org/paper/5f1ff8b631a67d7bf6e19d89535708ef1cc2bfe2", 
+      "venue": "Int. J. Semantic Web Inf. Syst.", 
+      "year": 2014
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "498bc138a17318ec547d3bffd5406e4c7117392e", 
+      "title": "CrowdGather: Entity Extraction over Structured Domains", 
+      "url": "https://www.semanticscholar.org/paper/498bc138a17318ec547d3bffd5406e4c7117392e", 
+      "venue": "ArXiv", 
+      "year": 2014
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "6b9fd372c745c84bfc10dd7b134f3b711a55e11d", 
+      "title": "Modeling Large-Scale Structured Relationships with Shared Memory for Knowledge Base Completion", 
+      "url": "https://www.semanticscholar.org/paper/6b9fd372c745c84bfc10dd7b134f3b711a55e11d", 
+      "venue": "", 
+      "year": 2016
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "1d62fef5724d8029995f8c92c4585a41d5d57176", 
+      "title": "Neighborhood Mixture Model for Knowledge Base Completion", 
+      "url": "https://www.semanticscholar.org/paper/1d62fef5724d8029995f8c92c4585a41d5d57176", 
+      "venue": "CoNLL", 
+      "year": 2016
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "009b32fde054a6fa26833c567aafd7501b99716f", 
+      "title": "Data mining in social networking sites : A social media mining approach to generate effective business strategies", 
+      "url": "https://www.semanticscholar.org/paper/009b32fde054a6fa26833c567aafd7501b99716f", 
+      "venue": "", 
+      "year": 2014
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "912bcce71f6c6b6f7a9be57664031edb7c072830", 
+      "title": "Distantly supervised Web relation extraction for knowledge base population", 
+      "url": "https://www.semanticscholar.org/paper/912bcce71f6c6b6f7a9be57664031edb7c072830", 
+      "venue": "Semantic Web", 
+      "year": 2016
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "2d2e53746269594ba3c6f677f6f2f19d6bf03dc5", 
+      "title": "Extracting Relations between Non-Standard Entities using Distant Supervision and Imitation Learning", 
+      "url": "https://www.semanticscholar.org/paper/2d2e53746269594ba3c6f677f6f2f19d6bf03dc5", 
+      "venue": "EMNLP", 
+      "year": 2015
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "095b979ac75fc70468f6894369dae0bcfc564c21", 
+      "title": "Multi-source named entity typing for social media", 
+      "url": "https://www.semanticscholar.org/paper/095b979ac75fc70468f6894369dae0bcfc564c21", 
+      "venue": "", 
+      "year": 2016
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "02f1626c63d4c6114b22869889d9cc479f4c6dfc", 
+      "title": "Incorporating Vector Space Similarity in Random Walk Inference over Knowledge Bases", 
+      "url": "https://www.semanticscholar.org/paper/02f1626c63d4c6114b22869889d9cc479f4c6dfc", 
+      "venue": "EMNLP", 
+      "year": 2014
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "824d0854a27ca72636b0f25b1090e7726688d988", 
+      "title": "How to read the web in portuguese using the never-ending language learner's principles", 
+      "url": "https://www.semanticscholar.org/paper/824d0854a27ca72636b0f25b1090e7726688d988", 
+      "venue": "2014 14th International Conference on Intelligent Systems Design and Applications", 
+      "year": 2014
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "d34e63c99bdabdf042babeb6f219a339377da134", 
+      "title": "Augmented Robotics Dialog System for Enhancing Human\u2013Robot Interaction", 
+      "url": "https://www.semanticscholar.org/paper/d34e63c99bdabdf042babeb6f219a339377da134", 
+      "venue": "Sensors", 
+      "year": 2015
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "d1bc7f154acf72df4314b7dc8fb0f73785f43541", 
+      "title": "Expansion of Tail Concept Using Web Tables", 
+      "url": "https://www.semanticscholar.org/paper/d1bc7f154acf72df4314b7dc8fb0f73785f43541", 
+      "venue": "", 
+      "year": 2014
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "f6c0fa3362c657156e19fc802afd2778a4043564", 
+      "title": "HEER: Heterogeneous graph embedding for emerging relation detection from news", 
+      "url": "https://www.semanticscholar.org/paper/f6c0fa3362c657156e19fc802afd2778a4043564", 
+      "venue": "2016 IEEE International Conference on Big Data (Big Data)", 
+      "year": 2016
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "2e17c3b883f0cdfe72e4877cdd88d3cc98e9836c", 
+      "title": "Learning to Reason with a Scalable Probabilistic Logic", 
+      "url": "https://www.semanticscholar.org/paper/2e17c3b883f0cdfe72e4877cdd88d3cc98e9836c", 
+      "venue": "", 
+      "year": 2015
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "3fd005e2f8c1132b8372865a600180cdb2e558b4", 
+      "title": "Improving Clinical Diagnosis Inference through Integration of Structured and Unstructured Knowledge", 
+      "url": "https://www.semanticscholar.org/paper/3fd005e2f8c1132b8372865a600180cdb2e558b4", 
+      "venue": "", 
+      "year": 2017
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "8bf73b47f5d3ac82187971311faa371d719fa08f", 
+      "title": "Commonsense reasoning based on betweenness and direction in distributional models\u2217", 
+      "url": "https://www.semanticscholar.org/paper/8bf73b47f5d3ac82187971311faa371d719fa08f", 
+      "venue": "", 
+      "year": 2015
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "64ea1937b118779757b21d13fef5bf5bddec7ed2", 
+      "title": "A Review of Relational Machine Learning for Knowledge Graphs", 
+      "url": "https://www.semanticscholar.org/paper/64ea1937b118779757b21d13fef5bf5bddec7ed2", 
+      "venue": "Proceedings of the IEEE", 
+      "year": 2016
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "0c186c7a89739f293554e7dc98ae391178e7648e", 
+      "title": "Context-aware Path Ranking for Knowledge Base Completion", 
+      "url": "https://www.semanticscholar.org/paper/0c186c7a89739f293554e7dc98ae391178e7648e", 
+      "venue": "IJCAI", 
+      "year": 2017
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "242512e09c584f29ac1e840df5f4ab5d4ff5c927", 
+      "title": "Automated News Suggestions for Populating Wikipedia Entity Pages", 
+      "url": "https://www.semanticscholar.org/paper/242512e09c584f29ac1e840df5f4ab5d4ff5c927", 
+      "venue": "CIKM", 
+      "year": 2015
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "7d5f83cb234a5640487bd258ace06d9dc967d222", 
+      "title": "Joint Information Extraction and Reasoning: A Scalable Statistical Relational Learning Approach", 
+      "url": "https://www.semanticscholar.org/paper/7d5f83cb234a5640487bd258ace06d9dc967d222", 
+      "venue": "ACL", 
+      "year": 2015
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "5b9c2b3f85920bc0e160b484ffa7a5f0a9d8f22a", 
+      "title": "Efficient and Expressive Knowledge Base Completion Using Subgraph Feature Extraction", 
+      "url": "https://www.semanticscholar.org/paper/5b9c2b3f85920bc0e160b484ffa7a5f0a9d8f22a", 
+      "venue": "EMNLP", 
+      "year": 2015
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "35547948c302f6aa30898bda94e7ee29dab463a2", 
+      "title": "Knowledge Base Completion via Coupled Path Ranking", 
+      "url": "https://www.semanticscholar.org/paper/35547948c302f6aa30898bda94e7ee29dab463a2", 
+      "venue": "ACL", 
+      "year": 2016
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "b692f9a6fdcf9936531e6a24302ee86b75d9e67a", 
+      "title": "German Typographers vs. German Grammar: Decomposition of Wikipedia Category Labels into Attribute-Value Pairs", 
+      "url": "https://www.semanticscholar.org/paper/b692f9a6fdcf9936531e6a24302ee86b75d9e67a", 
+      "venue": "WSDM", 
+      "year": 2017
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "1b8dffb0ef8e803aeeb7cfb8965084551d97a49a", 
+      "title": "Knowledge Base Inference using Bridging Entities", 
+      "url": "https://www.semanticscholar.org/paper/1b8dffb0ef8e803aeeb7cfb8965084551d97a49a", 
+      "venue": "EMNLP", 
+      "year": 2015
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "f3e77e81d8869e5adf9a5154619160e578d3008e", 
+      "title": "Automated question answering system using ontology and semantic role", 
+      "url": "https://www.semanticscholar.org/paper/f3e77e81d8869e5adf9a5154619160e578d3008e", 
+      "venue": "2017 International Conference on Innovative Mechanisms for Industry Applications (ICIMIA)", 
+      "year": 2017
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "1b0b64473e3dad669e04af2b7b6e2c4e4a318e6d", 
+      "title": "Question Answering with Knowledge Base, Web and Beyond", 
+      "url": "https://www.semanticscholar.org/paper/1b0b64473e3dad669e04af2b7b6e2c4e4a318e6d", 
+      "venue": "HLT-NAACL Tutorials", 
+      "year": 2016
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "ecadcf930138bdc812784e11c78f7ff5a5d10f88", 
+      "title": "Exploiting Connectivity for Case Construction in Learning by Reading", 
+      "url": "https://www.semanticscholar.org/paper/ecadcf930138bdc812784e11c78f7ff5a5d10f88", 
+      "venue": "", 
+      "year": 2015
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "226756461524d661c566812694a648ff7aad02cb", 
+      "title": "An Interpretable Knowledge Transfer Model for Knowledge Base Completion", 
+      "url": "https://www.semanticscholar.org/paper/226756461524d661c566812694a648ff7aad02cb", 
+      "venue": "ACL", 
+      "year": 2017
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "29ad7f29e9a4a013c04a6932e14d5c261c3ce694", 
+      "title": "Improving Information Extraction by Acquiring External Evidence with Reinforcement Learning", 
+      "url": "https://www.semanticscholar.org/paper/29ad7f29e9a4a013c04a6932e14d5c261c3ce694", 
+      "venue": "EMNLP", 
+      "year": 2016
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "033f25ad905ef2ed32a8331cf38b83953ff15922", 
+      "title": "A Review of Relational Machine Learning for Knowledge Graphs: From Multi-Relational Link Prediction to Automated Knowledge Graph Construction", 
+      "url": "https://www.semanticscholar.org/paper/033f25ad905ef2ed32a8331cf38b83953ff15922", 
+      "venue": "ArXiv", 
+      "year": 2015
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "4e278a0fe9fbfeceb29acde435706aa790aeda56", 
+      "title": "Inferring Missing Entity Type Instances for Knowledge Base Completion: New Dataset and Methods", 
+      "url": "https://www.semanticscholar.org/paper/4e278a0fe9fbfeceb29acde435706aa790aeda56", 
+      "venue": "HLT-NAACL", 
+      "year": 2015
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "c9ab80ca3b36e5abdebfa9a0d1ce810beff98393", 
+      "title": "Scalable Semantic Parsing with Partial Ontologies", 
+      "url": "https://www.semanticscholar.org/paper/c9ab80ca3b36e5abdebfa9a0d1ce810beff98393", 
+      "venue": "ACL", 
+      "year": 2015
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "889421ea22e1d919030a59fe0b118a2436851d5c", 
+      "title": "Dissecting German Grammar and Swiss Passports: Open-Domain Decomposition of Compositional Entries in Large-Scale Knowledge Repositories", 
+      "url": "https://www.semanticscholar.org/paper/889421ea22e1d919030a59fe0b118a2436851d5c", 
+      "venue": "IJCAI", 
+      "year": 2015
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "28136a9d80be130757afed0f9bb5e59ccb92edc5", 
+      "title": "Learning Embedding Representations for Knowledge Inference on Imperfect and Incomplete Repositories", 
+      "url": "https://www.semanticscholar.org/paper/28136a9d80be130757afed0f9bb5e59ccb92edc5", 
+      "venue": "2016 IEEE/WIC/ACM International Conference on Web Intelligence (WI)", 
+      "year": 2016
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "93b6329091e215b9ef007a85c07635f09e7b8adb", 
+      "title": "Knowledge graph refinement: A survey of approaches and evaluation methods", 
+      "url": "https://www.semanticscholar.org/paper/93b6329091e215b9ef007a85c07635f09e7b8adb", 
+      "venue": "Semantic Web", 
+      "year": 2017
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "238bd48bba0b9bf291df29c15949e6ec9ba65a10", 
+      "title": "Learning to Extract Events from Knowledge Base Revisions", 
+      "url": "https://www.semanticscholar.org/paper/238bd48bba0b9bf291df29c15949e6ec9ba65a10", 
+      "venue": "WWW", 
+      "year": 2017
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "1a6e3e2b5e15e0c67dea97d370904e25a99b3fb4", 
+      "title": "Quasar: Datasets for Question Answering by Search and Reading", 
+      "url": "https://www.semanticscholar.org/paper/1a6e3e2b5e15e0c67dea97d370904e25a99b3fb4", 
+      "venue": "ArXiv", 
+      "year": 2017
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "9f7cbae1e5c23687b1197d273851048f4bd6fbfd", 
+      "title": "Knowledge Base Completion Using Embeddings and Rules", 
+      "url": "https://www.semanticscholar.org/paper/9f7cbae1e5c23687b1197d273851048f4bd6fbfd", 
+      "venue": "IJCAI", 
+      "year": 2015
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "0e27493639268ecd35356e5e08d45e5d0dcd7fd8", 
+      "title": "Table Cell Search for Question Answering", 
+      "url": "https://www.semanticscholar.org/paper/0e27493639268ecd35356e5e08d45e5d0dcd7fd8", 
+      "venue": "WWW", 
+      "year": 2016
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "456398ac963c7df12dff7fb4417d5af775c9f71a", 
+      "title": "Accurate fact harvesting from natural language text in wikipedia with Lector", 
+      "url": "https://www.semanticscholar.org/paper/456398ac963c7df12dff7fb4417d5af775c9f71a", 
+      "venue": "WebDB", 
+      "year": 2016
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "eaede512ffebb375e3d76e9103d03a32b235e8f9", 
+      "title": "An MLP-based representation of neural tensor networks for the RDF data models", 
+      "url": "https://www.semanticscholar.org/paper/eaede512ffebb375e3d76e9103d03a32b235e8f9", 
+      "venue": "Neural Computing and Applications", 
+      "year": 2017
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "14809998ddd2ae59977f2f14156f43ca99f13ea6", 
+      "title": "Probabilistic Belief Embedding for Knowledge Base Completion", 
+      "url": "https://www.semanticscholar.org/paper/14809998ddd2ae59977f2f14156f43ca99f13ea6", 
+      "venue": "ArXiv", 
+      "year": 2015
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "31a288bb29c0dd4ab838439c69f61de531d7e081", 
+      "title": "Knowledge Discovery Through Spoken Dialog", 
+      "url": "https://www.semanticscholar.org/paper/31a288bb29c0dd4ab838439c69f61de531d7e081", 
+      "venue": "", 
+      "year": 2014
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "89d06c2996f379c602e64b4243f026cd164400d7", 
+      "title": "Question Answering from Unstructured Text by Retrieval and Comprehension", 
+      "url": "https://www.semanticscholar.org/paper/89d06c2996f379c602e64b4243f026cd164400d7", 
+      "venue": "ArXiv", 
+      "year": 2017
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "03489091c66fb77fd619af48af5ed5a521e2fdb5", 
+      "title": "An overview of embedding models of entities and relationships for knowledge base completion", 
+      "url": "https://www.semanticscholar.org/paper/03489091c66fb77fd619af48af5ed5a521e2fdb5", 
+      "venue": "ArXiv", 
+      "year": 2017
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "ded5fcbdca85c40c354e37a054924cff1310c8a4", 
+      "title": "Towards Time-Aware Knowledge Graph Completion", 
+      "url": "https://www.semanticscholar.org/paper/ded5fcbdca85c40c354e37a054924cff1310c8a4", 
+      "venue": "COLING", 
+      "year": 2016
+    }
+  ], 
+  "doi": "10.1145/2566486.2568032", 
+  "influentialCitationCount": 0, 
+  "paperId": "c8188951d7fcdb989b412c9055702996912ae695", 
+  "references": [
+    {
+      "isInfluential": false, 
+      "paperId": "66fa058b919385320a66233abc264f6fb3c9276e", 
+      "title": "OpenEval: Web Information Query Evaluation", 
+      "url": "https://www.semanticscholar.org/paper/66fa058b919385320a66233abc264f6fb3c9276e", 
+      "venue": "AAAI", 
+      "year": 2013
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "1ccf386465081b6f8cad5a753827de7576dfe436", 
+      "title": "Collective entity linking in web text: a graph-based method", 
+      "url": "https://www.semanticscholar.org/paper/1ccf386465081b6f8cad5a753827de7576dfe436", 
+      "venue": "SIGIR", 
+      "year": 2011
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "8f8139b63a2fc0b3ae8413acaef47acd35a356e0", 
+      "title": "Distant supervision for relation extraction without labeled data", 
+      "url": "https://www.semanticscholar.org/paper/8f8139b63a2fc0b3ae8413acaef47acd35a356e0", 
+      "venue": "ACL/IJCNLP", 
+      "year": 2009
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "6e27f9754075d4d8b78a7f1af56f7dd8adb55cf4", 
+      "title": "From information to knowledge: harvesting entities and relationships from web sources", 
+      "url": "https://www.semanticscholar.org/paper/6e27f9754075d4d8b78a7f1af56f7dd8adb55cf4", 
+      "venue": "PODS", 
+      "year": 2010
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "3f9af5cf873ddf8ade093ef4e199a95f58b6508f", 
+      "title": "Identifying Constant and Unique Relations by using Time-Series Text", 
+      "url": "https://www.semanticscholar.org/paper/3f9af5cf873ddf8ade093ef4e199a95f58b6508f", 
+      "venue": "EMNLP-CoNLL", 
+      "year": 2012
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "0b4726173cfac508ca91ab4bf8759575da5b9dc3", 
+      "title": "The effect of document retrieval quality on factoid question answering performance", 
+      "url": "https://www.semanticscholar.org/paper/0b4726173cfac508ca91ab4bf8759575da5b9dc3", 
+      "venue": "SIGIR", 
+      "year": 2004
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "1976c9eeccc7115d18a04f1e7fb5145db6b96002", 
+      "title": "Freebase: a collaboratively created graph database for structuring human knowledge", 
+      "url": "https://www.semanticscholar.org/paper/1976c9eeccc7115d18a04f1e7fb5145db6b96002", 
+      "venue": "SIGMOD Conference", 
+      "year": 2008
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "77d2698e8efadda698b0edb457cd8de75224bfa0", 
+      "title": "Knowledge Base Population: Successful Approaches and Challenges", 
+      "url": "https://www.semanticscholar.org/paper/77d2698e8efadda698b0edb457cd8de75224bfa0", 
+      "venue": "ACL", 
+      "year": 2011
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "00a3f6924f90fcd77e6e7e6534b957a75d0ced07", 
+      "title": "Yago: a core of semantic knowledge", 
+      "url": "https://www.semanticscholar.org/paper/00a3f6924f90fcd77e6e7e6534b957a75d0ced07", 
+      "venue": "WWW", 
+      "year": 2007
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "166fee9452934aa612c56d6162e5e2ba427bdfb3", 
+      "title": "Entity Disambiguation for Knowledge Base Population", 
+      "url": "https://www.semanticscholar.org/paper/166fee9452934aa612c56d6162e5e2ba427bdfb3", 
+      "venue": "COLING", 
+      "year": 2010
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "040678daf6a49a88345ee0c680fccfd134f24d4b", 
+      "title": "Introduction to information retrieval", 
+      "url": "https://www.semanticscholar.org/paper/040678daf6a49a88345ee0c680fccfd134f24d4b", 
+      "venue": "", 
+      "year": 2008
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "3abf5cf3f15aaa44b331c3da3c3601590b2095b0", 
+      "title": "Distant Supervision for Relation Extraction with an Incomplete Knowledge Base", 
+      "url": "https://www.semanticscholar.org/paper/3abf5cf3f15aaa44b331c3da3c3601590b2095b0", 
+      "venue": "HLT-NAACL", 
+      "year": 2013
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "1903eead9b0e5e52557566dc374a58189f864cc3", 
+      "title": "Conversing Learning: Active Learning and Active Social Interaction for Human Supervision in Never-Ending Learning Systems", 
+      "url": "https://www.semanticscholar.org/paper/1903eead9b0e5e52557566dc374a58189f864cc3", 
+      "venue": "IBERAMIA", 
+      "year": 2012
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "bf5eae3d1c3d81427cea945a100a696bed4135e4", 
+      "title": "Open-Domain Question Answering from Large Text Collection, M. Pa[scedil]ca", 
+      "url": "https://www.semanticscholar.org/paper/bf5eae3d1c3d81427cea945a100a696bed4135e4", 
+      "venue": "Journal of Logic, Language and Information", 
+      "year": 2004
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "0788fb1109b1db8c72776005c9c0af926a278017", 
+      "title": "The TREC-8 Question Answering Track Report", 
+      "url": "https://www.semanticscholar.org/paper/0788fb1109b1db8c72776005c9c0af926a278017", 
+      "venue": "TREC", 
+      "year": 1999
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "688ed5866d9884651dbfd6411e234129dfba4692", 
+      "title": "Selecting actions for resource-bounded information extraction using reinforcement learning", 
+      "url": "https://www.semanticscholar.org/paper/688ed5866d9884651dbfd6411e234129dfba4692", 
+      "venue": "WSDM", 
+      "year": 2012
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "1a2521e8ce69c61995bb6cd1854daa733e405577", 
+      "title": "UCD IIRG at TAC 2010 KBP Slot Filling Task", 
+      "url": "https://www.semanticscholar.org/paper/1a2521e8ce69c61995bb6cd1854daa733e405577", 
+      "venue": "TAC", 
+      "year": 2010
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "2b9cd09b949b7e69933d18ae408397e803987151", 
+      "title": "Knowledge vault: a web-scale approach to probabilistic knowledge fusion", 
+      "url": "https://www.semanticscholar.org/paper/2b9cd09b949b7e69933d18ae408397e803987151", 
+      "venue": "KDD", 
+      "year": 2014
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "2d03baec8ac1568e6813aa43d625d552524f977e", 
+      "title": "Toward an Architecture for Never-Ending Language Learning", 
+      "url": "https://www.semanticscholar.org/paper/2d03baec8ac1568e6813aa43d625d552524f977e", 
+      "venue": "AAAI", 
+      "year": 2010
+    }
+  ], 
+  "title": "Knowledge base completion via search-based question answering", 
+  "url": "https://www.semanticscholar.org/paper/c8188951d7fcdb989b412c9055702996912ae695", 
+  "venue": "WWW", 
+  "year": 2014
+}

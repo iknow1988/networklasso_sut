@@ -1,0 +1,843 @@
+{
+  "authors": [
+    {
+      "authorId": "4283636", 
+      "name": "Keith Henderson", 
+      "url": "https://www.semanticscholar.org/author/4283636"
+    }, 
+    {
+      "authorId": "2669281", 
+      "name": "Brian Gallagher", 
+      "url": "https://www.semanticscholar.org/author/2669281"
+    }, 
+    {
+      "authorId": "2871379", 
+      "name": "Lei Li", 
+      "url": "https://www.semanticscholar.org/author/2871379"
+    }, 
+    {
+      "authorId": "3255268", 
+      "name": "Leman Akoglu", 
+      "url": "https://www.semanticscholar.org/author/3255268"
+    }, 
+    {
+      "authorId": "1684421", 
+      "name": "Tina Eliassi-Rad", 
+      "url": "https://www.semanticscholar.org/author/1684421"
+    }, 
+    {
+      "authorId": "8163721", 
+      "name": "Hanghang Tong", 
+      "url": "https://www.semanticscholar.org/author/8163721"
+    }, 
+    {
+      "authorId": "9428676", 
+      "name": "Christos Faloutsos", 
+      "url": "https://www.semanticscholar.org/author/9428676"
+    }
+  ], 
+  "citationVelocity": 0, 
+  "citations": [
+    {
+      "isInfluential": false, 
+      "paperId": "4938dc9da7664470f7e69224c8541c6987cd0fe8", 
+      "title": "Big Graph Mining: Algorithms, Anomaly Detection, and Applications", 
+      "url": "https://www.semanticscholar.org/paper/4938dc9da7664470f7e69224c8541c6987cd0fe8", 
+      "venue": "", 
+      "year": 2013
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "75820f8f110b4096dc0c6d21d6684a488594ddc8", 
+      "title": "iDBMM: A Novel Algorithm to Model Dynamic Behavior in Large Evolving Graphs", 
+      "url": "https://www.semanticscholar.org/paper/75820f8f110b4096dc0c6d21d6684a488594ddc8", 
+      "venue": "2014 IEEE 12th International Conference on Dependable, Autonomic and Secure Computing", 
+      "year": 2014
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "59b234f453bfb4786c775de840b0386b3c19f68f", 
+      "title": "Structured Learning from Heterogeneous Behavior for Social Identity Linkage", 
+      "url": "https://www.semanticscholar.org/paper/59b234f453bfb4786c775de840b0386b3c19f68f", 
+      "venue": "IEEE Transactions on Knowledge and Data Engineering", 
+      "year": 2015
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "199369d8eaff23e00c106ef2ddc4181696600c1f", 
+      "title": "RolX: structural role extraction & mining in large graphs", 
+      "url": "https://www.semanticscholar.org/paper/199369d8eaff23e00c106ef2ddc4181696600c1f", 
+      "venue": "KDD", 
+      "year": 2012
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "86c6ff1f4f4fb5ed059566c836b9f52b4c964cf6", 
+      "title": "A Scalable Approach to Size-Independent Network Similarity", 
+      "url": "https://www.semanticscholar.org/paper/86c6ff1f4f4fb5ed059566c836b9f52b4c964cf6", 
+      "venue": "", 
+      "year": 2012
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "0fd22ab7873472a660e6e505a3578b27bd937f66", 
+      "title": "Connecting personal-scale sensing and networked community behavior to infer human activities", 
+      "url": "https://www.semanticscholar.org/paper/0fd22ab7873472a660e6e505a3578b27bd937f66", 
+      "venue": "UbiComp", 
+      "year": 2014
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "c1547f63a4f804544d77088e399bb8d2e53bd882", 
+      "title": "A model-based approach to anomaly detection in software architectures", 
+      "url": "https://www.semanticscholar.org/paper/c1547f63a4f804544d77088e399bb8d2e53bd882", 
+      "venue": "HotSoS", 
+      "year": 2016
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "bebf2afd034e5489970bca4119497e10d61e99a6", 
+      "title": "Some Advances in Role Discovery in Graphs", 
+      "url": "https://www.semanticscholar.org/paper/bebf2afd034e5489970bca4119497e10d61e99a6", 
+      "venue": "ArXiv", 
+      "year": 2016
+    }, 
+    {
+      "isInfluential": true, 
+      "paperId": "4249800d5958dcec7c936444a8cee7ec71c20b91", 
+      "title": "Predicting User Roles in Social Networks Using Transfer Learning with Feature Transformation", 
+      "url": "https://www.semanticscholar.org/paper/4249800d5958dcec7c936444a8cee7ec71c20b91", 
+      "venue": "2016 IEEE 16th International Conference on Data Mining Workshops (ICDMW)", 
+      "year": 2016
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "5ac20145c5d662320cdc55acd185626defe03c7d", 
+      "title": "BIG-ALIGN: Fast Bipartite Graph Alignment", 
+      "url": "https://www.semanticscholar.org/paper/5ac20145c5d662320cdc55acd185626defe03c7d", 
+      "venue": "2013 IEEE 13th International Conference on Data Mining", 
+      "year": 2013
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "025e224cf0f12f772c7efba4f7c6b769a2bf298b", 
+      "title": "Graph based anomaly detection and description: a survey", 
+      "url": "https://www.semanticscholar.org/paper/025e224cf0f12f772c7efba4f7c6b769a2bf298b", 
+      "venue": "Data Mining and Knowledge Discovery", 
+      "year": 2014
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "53987d229586c8457c716a4dd831d9cee9890921", 
+      "title": "An efficient reconciliation algorithm for social networks", 
+      "url": "https://www.semanticscholar.org/paper/53987d229586c8457c716a4dd831d9cee9890921", 
+      "venue": "PVLDB", 
+      "year": 2014
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "816d7bff3a6e9a07d2e569d61c7df5dc204176d7", 
+      "title": "Outlier Detection from Network Data with Subnetwork Interpretation", 
+      "url": "https://www.semanticscholar.org/paper/816d7bff3a6e9a07d2e569d61c7df5dc204176d7", 
+      "venue": "2016 IEEE 16th International Conference on Data Mining (ICDM)", 
+      "year": 2016
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "33184458615311a9ec4bc96c15a591598b6bc72a", 
+      "title": "RolX: Role Extraction and Mining in Large Networks", 
+      "url": "https://www.semanticscholar.org/paper/33184458615311a9ec4bc96c15a591598b6bc72a", 
+      "venue": "", 
+      "year": 2011
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "1eba35a51e822248422992743b5dfda55fd4c344", 
+      "title": "APATE: A novel approach for automated credit card transaction fraud detection using network-based extensions", 
+      "url": "https://www.semanticscholar.org/paper/1eba35a51e822248422992743b5dfda55fd4c344", 
+      "venue": "Decision Support Systems", 
+      "year": 2015
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "74ecb6b6b2ca9f49480a3c19fc2dfcfa6db5361f", 
+      "title": "Transforming Graph Data for Statistical Relational Learning", 
+      "url": "https://www.semanticscholar.org/paper/74ecb6b6b2ca9f49480a3c19fc2dfcfa6db5361f", 
+      "venue": "J. Artif. Intell. Res.", 
+      "year": 2012
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "22eced11d630e4fa4c0602a0e7374fe6099d522c", 
+      "title": "NetSimile: Agnostic Network Similarity via Multiple Social Theories", 
+      "url": "https://www.semanticscholar.org/paper/22eced11d630e4fa4c0602a0e7374fe6099d522c", 
+      "venue": "", 
+      "year": 2013
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "2ea604d967ca11ec869545ace248c41db6a49855", 
+      "title": "Unsupervised Approaches to Detecting Anomalous Behavior in the Bitcoin Transaction Network", 
+      "url": "https://www.semanticscholar.org/paper/2ea604d967ca11ec869545ace248c41db6a49855", 
+      "venue": "", 
+      "year": 2013
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "190b31f4952b775be3a407ed2710c0ae789689b8", 
+      "title": "NED: An Inter-Graph Node Metric on Edit Distance", 
+      "url": "https://www.semanticscholar.org/paper/190b31f4952b775be3a407ed2710c0ae789689b8", 
+      "venue": "", 
+      "year": 2016
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "24c20c0b80d8a040cc17139c8153448f22eb60b8", 
+      "title": "True Friends Let You Down: Benchmarking Social Graph Anonymization Schemes", 
+      "url": "https://www.semanticscholar.org/paper/24c20c0b80d8a040cc17139c8153448f22eb60b8", 
+      "venue": "AISec@CCS", 
+      "year": 2016
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "6a2747f94c839f04f4e978cb150349fd98027166", 
+      "title": "Change of Guard: The Next Generation of Social Graph De-anonymization Attacks", 
+      "url": "https://www.semanticscholar.org/paper/6a2747f94c839f04f4e978cb150349fd98027166", 
+      "venue": "AISec@CCS", 
+      "year": 2016
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "94db4000f793d9dbcaf3ceb22934e9590c008ff5", 
+      "title": "Effective Social Graph Deanonymization Based on Graph Structure and Descriptive Information", 
+      "url": "https://www.semanticscholar.org/paper/94db4000f793d9dbcaf3ceb22934e9590c008ff5", 
+      "venue": "ACM TIST", 
+      "year": 2015
+    }, 
+    {
+      "isInfluential": true, 
+      "paperId": "a79db84eb375121d3f991e1f39b962a30fd407c7", 
+      "title": "A Novel Graph-Based Descriptor for the Detection of Billing-Related Anomalies in Cellular Mobile Networks", 
+      "url": "https://www.semanticscholar.org/paper/a79db84eb375121d3f991e1f39b962a30fd407c7", 
+      "venue": "IEEE Transactions on Mobile Computing", 
+      "year": 2016
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "b87b8d760b561dfbe25d5121976b04a5dcdb037a", 
+      "title": "Learning to Predict the Presence of Nodes in Anonymized Graphs", 
+      "url": "https://www.semanticscholar.org/paper/b87b8d760b561dfbe25d5121976b04a5dcdb037a", 
+      "venue": "", 
+      "year": 2014
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "84c268fe82707c7626402dd2ca6f92ce8222a9c7", 
+      "title": "Graph Based Local Risk Estimation in Large Scale Online Social Networks", 
+      "url": "https://www.semanticscholar.org/paper/84c268fe82707c7626402dd2ca6f92ce8222a9c7", 
+      "venue": "SmartCity", 
+      "year": 2015
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "8d18c797cfd778524a6b87e230359761574e1069", 
+      "title": "Botnet detection using graph-based feature clustering", 
+      "url": "https://www.semanticscholar.org/paper/8d18c797cfd778524a6b87e230359761574e1069", 
+      "venue": "Journal of Big Data", 
+      "year": 2017
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "bfe858a9746a25b85ad817ce2d08b8613f190de3", 
+      "title": "Modeling Temporal Behavior in Large Networks: A Dynamic Mixed-Membership Model", 
+      "url": "https://www.semanticscholar.org/paper/bfe858a9746a25b85ad817ce2d08b8613f190de3", 
+      "venue": "", 
+      "year": 2011
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "37496865732cdcad23e86aff81e5bdd783d41d11", 
+      "title": "RolX: Extracting Predictive Roles from Graphs", 
+      "url": "https://www.semanticscholar.org/paper/37496865732cdcad23e86aff81e5bdd783d41d11", 
+      "venue": "", 
+      "year": 2011
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "50abcb390b919839eefcb5ea6343683e8073547d", 
+      "title": "Role-dynamics: fast mining of large dynamic networks", 
+      "url": "https://www.semanticscholar.org/paper/50abcb390b919839eefcb5ea6343683e8073547d", 
+      "venue": "WWW", 
+      "year": 2012
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "08082967d0e8d82c2b1acffad1f309cfcadc5972", 
+      "title": "Simultaneous detection of communities and roles from large networks", 
+      "url": "https://www.semanticscholar.org/paper/08082967d0e8d82c2b1acffad1f309cfcadc5972", 
+      "venue": "COSN", 
+      "year": 2014
+    }, 
+    {
+      "isInfluential": true, 
+      "paperId": "3a0a3c2ff35890271528dd061a8c412adbb9417c", 
+      "title": "NED: An Inter-Graph Node Metric Based On Edit Distance", 
+      "url": "https://www.semanticscholar.org/paper/3a0a3c2ff35890271528dd061a8c412adbb9417c", 
+      "venue": "PVLDB", 
+      "year": 2017
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "52e17f46bf81af81e3fb744a8e0058cb4bd2e22e", 
+      "title": "Growing a Graph Matching from a Handful of Seeds", 
+      "url": "https://www.semanticscholar.org/paper/52e17f46bf81af81e3fb744a8e0058cb4bd2e22e", 
+      "venue": "PVLDB", 
+      "year": 2015
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "23daca4fc12c49af4c427acb529b00bafee809f5", 
+      "title": "Role Discovery in Networks", 
+      "url": "https://www.semanticscholar.org/paper/23daca4fc12c49af4c427acb529b00bafee809f5", 
+      "venue": "IEEE Transactions on Knowledge and Data Engineering", 
+      "year": 2015
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "3647bcece87a87302c4a7cb06ebe52654495c2b2", 
+      "title": "NetSimile: A Scalable Approach to Size-Independent Network Similarity", 
+      "url": "https://www.semanticscholar.org/paper/3647bcece87a87302c4a7cb06ebe52654495c2b2", 
+      "venue": "ArXiv", 
+      "year": 2012
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "9cc098409b7197748f65c9785d5978b5818211e1", 
+      "title": "Spatial compactness meets topical consistency: jointly modeling links and content for community detection", 
+      "url": "https://www.semanticscholar.org/paper/9cc098409b7197748f65c9785d5978b5818211e1", 
+      "venue": "WSDM", 
+      "year": 2014
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "fa23fb85f1ebd7c3a314516dbb7d40dc679978ef", 
+      "title": "A Survey of Security and Privacy Research in Online Social Networks", 
+      "url": "https://www.semanticscholar.org/paper/fa23fb85f1ebd7c3a314516dbb7d40dc679978ef", 
+      "venue": "", 
+      "year": 2012
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "39054dbef6fd5f0bec6738fd2e660d048e8983c3", 
+      "title": "In-Network Neighborhood-Based Node Similarity Measure: A Unified Parametric Model", 
+      "url": "https://www.semanticscholar.org/paper/39054dbef6fd5f0bec6738fd2e660d048e8983c3", 
+      "venue": "ArXiv", 
+      "year": 2015
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "79729125917faca70a8c78b4c128646ef951f8fb", 
+      "title": "Controllable Information Sharing for User Accounts Linkage across Multiple Online Social Networks", 
+      "url": "https://www.semanticscholar.org/paper/79729125917faca70a8c78b4c128646ef951f8fb", 
+      "venue": "CIKM", 
+      "year": 2014
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "904e5d98aed9fee5992141f1e0231e6b858a6310", 
+      "title": "Towards Bisociative Knowledge Discovery", 
+      "url": "https://www.semanticscholar.org/paper/904e5d98aed9fee5992141f1e0231e6b858a6310", 
+      "venue": "Bisociative Knowledge Discovery", 
+      "year": 2012
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "c845d6e1660de62f29d71fe48994a7bc1d370bd4", 
+      "title": "Correlation of Node Importance Measures: An Empirical Study through Graph Robustness", 
+      "url": "https://www.semanticscholar.org/paper/c845d6e1660de62f29d71fe48994a7bc1d370bd4", 
+      "venue": "WWW", 
+      "year": 2015
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "d1364e1ef69a6a208f868c5895af3ac03a21f631", 
+      "title": "Localizing Temporal Anomalies in Large Evolving Graphs", 
+      "url": "https://www.semanticscholar.org/paper/d1364e1ef69a6a208f868c5895af3ac03a21f631", 
+      "venue": "SDM", 
+      "year": 2015
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "232b18fc98746291dbb2aee1d13952efa3f478a1", 
+      "title": "Modeling the Evolution of the Internet Topology: A Multi-Level Evaluation Framework", 
+      "url": "https://www.semanticscholar.org/paper/232b18fc98746291dbb2aee1d13952efa3f478a1", 
+      "venue": "", 
+      "year": 2011
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "902c5842bf0cb6d44dabb40075564a794c00c5b6", 
+      "title": "NetSimile: Scalable Network Similarity via Multiple Social Theories", 
+      "url": "https://www.semanticscholar.org/paper/902c5842bf0cb6d44dabb40075564a794c00c5b6", 
+      "venue": "", 
+      "year": 2014
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "bd7f679e6ead3703e02d65623b01950f8db355c1", 
+      "title": "Learning to de-anonymize social networks", 
+      "url": "https://www.semanticscholar.org/paper/bd7f679e6ead3703e02d65623b01950f8db355c1", 
+      "venue": "", 
+      "year": 2016
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "df3b70e53d8f67da0e2fed3bdfe4f0b9b2be08dc", 
+      "title": "Topic Model for Graph Mining", 
+      "url": "https://www.semanticscholar.org/paper/df3b70e53d8f67da0e2fed3bdfe4f0b9b2be08dc", 
+      "venue": "IEEE Trans. Cybernetics", 
+      "year": 2015
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "37b269a8c86b75d3b19c8390548c678d9f102d15", 
+      "title": "Modeling dynamic behavior in large evolving graphs", 
+      "url": "https://www.semanticscholar.org/paper/37b269a8c86b75d3b19c8390548c678d9f102d15", 
+      "venue": "WSDM", 
+      "year": 2013
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "303d2569bee76a2e6c52a32dbc16ca519c986f60", 
+      "title": "Com2: Fast Automatic Discovery of Temporal ('Comet') Communities", 
+      "url": "https://www.semanticscholar.org/paper/303d2569bee76a2e6c52a32dbc16ca519c986f60", 
+      "venue": "PAKDD", 
+      "year": 2014
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "49b9ed78e1978cdadd80269081367441d058ba3a", 
+      "title": "Within-Network Classification Using Radius-Constrained Neighborhood Patterns", 
+      "url": "https://www.semanticscholar.org/paper/49b9ed78e1978cdadd80269081367441d058ba3a", 
+      "venue": "CIKM", 
+      "year": 2014
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "03d7713378a134ec9577bb77b1ebb0c084a26dc3", 
+      "title": "Persistent Roles in Online Social Networks", 
+      "url": "https://www.semanticscholar.org/paper/03d7713378a134ec9577bb77b1ebb0c084a26dc3", 
+      "venue": "ECML/PKDD", 
+      "year": 2016
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "42f644784a039846201e1f485766d9830192c11c", 
+      "title": "A multi-level approach for evaluating internet topology generators", 
+      "url": "https://www.semanticscholar.org/paper/42f644784a039846201e1f485766d9830192c11c", 
+      "venue": "2013 IFIP Networking Conference", 
+      "year": 2013
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "4953a937b355f23316fdc1b34df1445c881ed52c", 
+      "title": "Threatening Privacy across Social Graphs: A Structural Features Approach", 
+      "url": "https://www.semanticscholar.org/paper/4953a937b355f23316fdc1b34df1445c881ed52c", 
+      "venue": "2014 IEEE International Conference on Data Mining Workshop", 
+      "year": 2014
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "5fae7e4c82e89908417c5188f1509f3f87f46a88", 
+      "title": "Discriminative Deep Random Walk for Network Classification", 
+      "url": "https://www.semanticscholar.org/paper/5fae7e4c82e89908417c5188f1509f3f87f46a88", 
+      "venue": "ACL", 
+      "year": 2016
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "1a67622ca58aa851afe36ad6c6e78f9fb9d691d2", 
+      "title": "DeepWalk: online learning of social representations", 
+      "url": "https://www.semanticscholar.org/paper/1a67622ca58aa851afe36ad6c6e78f9fb9d691d2", 
+      "venue": "KDD", 
+      "year": 2014
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "f602caa6f711f57369246fefa0d608d10bc7e35e", 
+      "title": "A Survey of Security and Privacy in Online Social Networks", 
+      "url": "https://www.semanticscholar.org/paper/f602caa6f711f57369246fefa0d608d10bc7e35e", 
+      "venue": "", 
+      "year": 2012
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "e97a7ec80a2c34335945aa27b3007968b9c9759e", 
+      "title": "Dynamic Behavioral Mixed-Membership Model for Large Evolving Networks", 
+      "url": "https://www.semanticscholar.org/paper/e97a7ec80a2c34335945aa27b3007968b9c9759e", 
+      "venue": "ArXiv", 
+      "year": 2012
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "3b8227f54a2237a0b9386d9359b7f0cf66f6af07", 
+      "title": "Eigen-Optimization on Large Graphs by Edge Manipulation", 
+      "url": "https://www.semanticscholar.org/paper/3b8227f54a2237a0b9386d9359b7f0cf66f6af07", 
+      "venue": "TKDD", 
+      "year": 2016
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "6c44b80abba119b60077251adb2f73e5ac24f0f6", 
+      "title": "Pairwise structural role mining for user categorization in information cascades", 
+      "url": "https://www.semanticscholar.org/paper/6c44b80abba119b60077251adb2f73e5ac24f0f6", 
+      "venue": "2015 IEEE/ACM International Conference on Advances in Social Networks Analysis and Mining (ASONAM)", 
+      "year": 2015
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "4e085352c2d0d7080a58d27bce080fea9e76a136", 
+      "title": "Node Immunization on Large Graphs: Theory and Algorithms", 
+      "url": "https://www.semanticscholar.org/paper/4e085352c2d0d7080a58d27bce080fea9e76a136", 
+      "venue": "IEEE Transactions on Knowledge and Data Engineering", 
+      "year": 2016
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "0b7702b74827027f39a191652b0adcd12b37d118", 
+      "title": "Guided learning for role discovery (GLRD): framework, algorithms, and applications", 
+      "url": "https://www.semanticscholar.org/paper/0b7702b74827027f39a191652b0adcd12b37d118", 
+      "venue": "KDD", 
+      "year": 2013
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "241b7e0e379ef45324d5fa2a4bf15d6fa8cf969c", 
+      "title": "Provably Fast Inference of Latent Features from Networks: with Applications to Learning Social Circles and Multilabel Classification", 
+      "url": "https://www.semanticscholar.org/paper/241b7e0e379ef45324d5fa2a4bf15d6fa8cf969c", 
+      "venue": "WWW", 
+      "year": 2015
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "60ff0bfb129b22c33bc858aae46845d7f62a4b84", 
+      "title": "An Automated System for Discovering Neighborhood Patterns in Ego Networks", 
+      "url": "https://www.semanticscholar.org/paper/60ff0bfb129b22c33bc858aae46845d7f62a4b84", 
+      "venue": "ArXiv", 
+      "year": 2015
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "7cb3403411bb562da14757c2ba905258750f65b9", 
+      "title": "Panther: Fast Top-k Similarity Search on Large Networks", 
+      "url": "https://www.semanticscholar.org/paper/7cb3403411bb562da14757c2ba905258750f65b9", 
+      "venue": "KDD", 
+      "year": 2015
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "180b730145943ad061bfc9dbe04426fb9674bd8b", 
+      "title": "LRBM: A Restricted Boltzmann Machine Based Approach for Representation Learning on Linked Data", 
+      "url": "https://www.semanticscholar.org/paper/180b730145943ad061bfc9dbe04426fb9674bd8b", 
+      "venue": "2014 IEEE International Conference on Data Mining", 
+      "year": 2014
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "1014d5590b203ca1e188ec91197edccd86353a56", 
+      "title": "Measuring in-network node similarity based on neighborhoods: a unified parametric approach", 
+      "url": "https://www.semanticscholar.org/paper/1014d5590b203ca1e188ec91197edccd86353a56", 
+      "venue": "Knowledge and Information Systems", 
+      "year": 2017
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "c815e1bc658dba59fa99160c619c1daabb117e50", 
+      "title": "Finding the Most Appropriate Auxiliary Data for Social Graph Deanonymization", 
+      "url": "https://www.semanticscholar.org/paper/c815e1bc658dba59fa99160c619c1daabb117e50", 
+      "venue": "", 
+      "year": 2014
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "3f9dec10307af8648608468defd9867a88c5dc59", 
+      "title": "Panther: Fast Top-k Similarity Search in Large Networks", 
+      "url": "https://www.semanticscholar.org/paper/3f9dec10307af8648608468defd9867a88c5dc59", 
+      "venue": "ArXiv", 
+      "year": 2015
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "6a91c23bdfcd4ae958e091a1c53c6b9185012687", 
+      "title": "DUKE: A Solution for Discovering Neighborhood Patterns in Ego Networks", 
+      "url": "https://www.semanticscholar.org/paper/6a91c23bdfcd4ae958e091a1c53c6b9185012687", 
+      "venue": "ICWSM", 
+      "year": 2015
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "fef11bcce42e255fae0e52ac374f95bba11e0231", 
+      "title": "Security and Privacy in Online Social Networks: A Survey", 
+      "url": "https://www.semanticscholar.org/paper/fef11bcce42e255fae0e52ac374f95bba11e0231", 
+      "venue": "EAI Endorsed Trans. Indust. Netw. & Intellig. Syst.", 
+      "year": 2011
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "e0004350962ecfa0d2262adc817f26f8fc540983", 
+      "title": "Transforming Graph Representations for Statistical Relational Learning", 
+      "url": "https://www.semanticscholar.org/paper/e0004350962ecfa0d2262adc817f26f8fc540983", 
+      "venue": "ArXiv", 
+      "year": 2012
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "1c059493904b2244d2280b8b4c0c7d3ca115be73", 
+      "title": "node2vec: Scalable Feature Learning for Networks", 
+      "url": "https://www.semanticscholar.org/paper/1c059493904b2244d2280b8b4c0c7d3ca115be73", 
+      "venue": "KDD", 
+      "year": 2016
+    }
+  ], 
+  "doi": "10.1145/2020408.2020512", 
+  "influentialCitationCount": 3, 
+  "paperId": "74998b31ba37d3d43429d15ad4efe57a03882ec8", 
+  "references": [
+    {
+      "isInfluential": false, 
+      "paperId": "5026d34eb5dd917a416461939ee76c1303055d42", 
+      "title": "Collective Cross-Document Relation Extraction Without Labelled Data", 
+      "url": "https://www.semanticscholar.org/paper/5026d34eb5dd917a416461939ee76c1303055d42", 
+      "venue": "EMNLP", 
+      "year": 2010
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "01c1f0e97ce5c74c714dc7aa43cb064f45cc3b04", 
+      "title": "R-MAT: A Recursive Model for Graph Mining", 
+      "url": "https://www.semanticscholar.org/paper/01c1f0e97ce5c74c714dc7aa43cb064f45cc3b04", 
+      "venue": "SDM", 
+      "year": 2004
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "2566a196a747362cfa65f1ae967e647b7ae4734a", 
+      "title": "Cross lingual text classification by mining multilingual topics from wikipedia", 
+      "url": "https://www.semanticscholar.org/paper/2566a196a747362cfa65f1ae967e647b7ae4734a", 
+      "venue": "WSDM", 
+      "year": 2011
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "2d3db65e12c332a8250265fdbd6055d69a98688e", 
+      "title": "Power laws, Pareto distributions and Zipf\u2019s law", 
+      "url": "https://www.semanticscholar.org/paper/2d3db65e12c332a8250265fdbd6055d69a98688e", 
+      "venue": "", 
+      "year": 2004
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "64df2643ae4d20d3f943192761de3d8e0b23de3e", 
+      "title": "The Web as a Graph: Measurements, Models, and Methods", 
+      "url": "https://www.semanticscholar.org/paper/64df2643ae4d20d3f943192761de3d8e0b23de3e", 
+      "venue": "COCOON", 
+      "year": 1999
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "8743aae2cb5875826076c800ab4b59d5dd37f90a", 
+      "title": "Using ghost edges for classification in sparsely labeled networks", 
+      "url": "https://www.semanticscholar.org/paper/8743aae2cb5875826076c800ab4b59d5dd37f90a", 
+      "venue": "KDD", 
+      "year": 2008
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "64daaf62d95f5f1d30819540a2072efcaa096651", 
+      "title": "On the Vulnerability of Large Graphs", 
+      "url": "https://www.semanticscholar.org/paper/64daaf62d95f5f1d30819540a2072efcaa096651", 
+      "venue": "2010 IEEE International Conference on Data Mining", 
+      "year": 2010
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "8bd682e46026b5fedae5727979fc76842072ac96", 
+      "title": "Collective multi-label classification", 
+      "url": "https://www.semanticscholar.org/paper/8bd682e46026b5fedae5727979fc76842072ac96", 
+      "venue": "CIKM", 
+      "year": 2005
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "a5c81ad06fcbf83f8d3192a5cecba285c564267a", 
+      "title": "Structure feature selection for graph classification", 
+      "url": "https://www.semanticscholar.org/paper/a5c81ad06fcbf83f8d3192a5cecba285c564267a", 
+      "venue": "CIKM", 
+      "year": 2008
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "3e9b7edc8791c128288e30c91b7c62c4213e2b4c", 
+      "title": "Learning a meta-level prior for feature relevance from multiple related tasks", 
+      "url": "https://www.semanticscholar.org/paper/3e9b7edc8791c128288e30c91b7c62c4213e2b4c", 
+      "venue": "ICML", 
+      "year": 2007
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "189ef562597987ef484b43ff2c9d3fca6b797309", 
+      "title": "Graphs over time: densification laws, shrinking diameters and possible explanations", 
+      "url": "https://www.semanticscholar.org/paper/189ef562597987ef484b43ff2c9d3fca6b797309", 
+      "venue": "KDD", 
+      "year": 2005
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "49d0c9d006262c094b1dfa9c28a15ed9be8765eb", 
+      "title": "Learning Multiple Related Tasks using Latent Independent Component Analysis", 
+      "url": "https://www.semanticscholar.org/paper/49d0c9d006262c094b1dfa9c28a15ed9be8765eb", 
+      "venue": "", 
+      "year": 2005
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "35a151d10f215c3f1eab2b7a504a5510239c9279", 
+      "title": "Self-Organization and Identification of Web Communities", 
+      "url": "https://www.semanticscholar.org/paper/35a151d10f215c3f1eab2b7a504a5510239c9279", 
+      "venue": "IEEE Computer", 
+      "year": 2002
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "0d06de003e8ca949b3b39f9a51750c050addb997", 
+      "title": "On Power-Law Relationships of the Internet Topology", 
+      "url": "https://www.semanticscholar.org/paper/0d06de003e8ca949b3b39f9a51750c050addb997", 
+      "venue": "", 
+      "year": 2000
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "94db635f54d25bdb95edb42185aca93ba53b051b", 
+      "title": "Biographies, Bollywood, Boom-boxes and Blenders: Domain Adaptation for Sentiment Classification", 
+      "url": "https://www.semanticscholar.org/paper/94db635f54d25bdb95edb42185aca93ba53b051b", 
+      "venue": "ACL", 
+      "year": 2007
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "1b108580cb9f230105f59698d387ca8013ac7900", 
+      "title": "Leveraging Label-Independent Features for Classification in Sparsely Labeled Networks: An Empirical Study", 
+      "url": "https://www.semanticscholar.org/paper/1b108580cb9f230105f59698d387ca8013ac7900", 
+      "venue": "SNAKDD", 
+      "year": 2008
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "ba99b4d087ed8eb0bb4914133218194ed18e03cd", 
+      "title": "Knowledge transfer via multiple model local structure mapping", 
+      "url": "https://www.semanticscholar.org/paper/ba99b4d087ed8eb0bb4914133218194ed18e03cd", 
+      "venue": "KDD", 
+      "year": 2008
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "0ec9ee064d9acc194adc0deace107d50a7f50c93", 
+      "title": "New perspectives and methods in link prediction", 
+      "url": "https://www.semanticscholar.org/paper/0ec9ee064d9acc194adc0deace107d50a7f50c93", 
+      "venue": "KDD", 
+      "year": 2010
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "a8dc47e370b17371e57ad070e669360794473efe", 
+      "title": "oddball: Spotting Anomalies in Weighted Graphs", 
+      "url": "https://www.semanticscholar.org/paper/a8dc47e370b17371e57ad070e669360794473efe", 
+      "venue": "PAKDD", 
+      "year": 2010
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "2a005868b79511cf8c924cd5990e2497527a0527", 
+      "title": "Community structure in social and biological networks.", 
+      "url": "https://www.semanticscholar.org/paper/2a005868b79511cf8c924cd5990e2497527a0527", 
+      "venue": "Proceedings of the National Academy of Sciences of the United States of America", 
+      "year": 2002
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "83db1d3004d1567660ad7b792a46ee9f3d942f22", 
+      "title": "Mining Behavior Graphs for \"Backtrace\" of Noncrashing Bugs", 
+      "url": "https://www.semanticscholar.org/paper/83db1d3004d1567660ad7b792a46ee9f3d942f22", 
+      "venue": "SDM", 
+      "year": 2005
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "3a41eadab7d75bd06401dcbf30074d770b2cebd4", 
+      "title": "Multi-label Feature Selection for Graph Classification", 
+      "url": "https://www.semanticscholar.org/paper/3a41eadab7d75bd06401dcbf30074d770b2cebd4", 
+      "venue": "2010 IEEE International Conference on Data Mining", 
+      "year": 2010
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "35d36a0935cb4c58f0d4a5cf277bce5bffec19dd", 
+      "title": "Metric forensics: a multi-level approach for mining volatile graphs", 
+      "url": "https://www.semanticscholar.org/paper/35d36a0935cb4c58f0d4a5cf277bce5bffec19dd", 
+      "venue": "KDD", 
+      "year": 2010
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "29a5e1d5f4f3a33f473f81bcc89efb174ee81053", 
+      "title": "A Simple Relational Classifier", 
+      "url": "https://www.semanticscholar.org/paper/29a5e1d5f4f3a33f473f81bcc89efb174ee81053", 
+      "venue": "", 
+      "year": 2003
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "45d9a0db23906842f4c3385e4f231ede34d32db0", 
+      "title": "The diameter of the world wide web", 
+      "url": "https://www.semanticscholar.org/paper/45d9a0db23906842f4c3385e4f231ede34d32db0", 
+      "venue": "ArXiv", 
+      "year": 1999
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "4509771bb71500d411ced0d1cb53722fb73c9716", 
+      "title": "Boosting for transfer learning", 
+      "url": "https://www.semanticscholar.org/paper/4509771bb71500d411ced0d1cb53722fb73c9716", 
+      "venue": "ICML", 
+      "year": 2007
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "e3dcbde5b31a16843d06999c9f75b0ce1fead126", 
+      "title": "Graph-based transfer learning", 
+      "url": "https://www.semanticscholar.org/paper/e3dcbde5b31a16843d06999c9f75b0ce1fead126", 
+      "venue": "CIKM", 
+      "year": 2009
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "1d6320a672b866444737880cee8a980f5cca6864", 
+      "title": "Graph-based anomaly detection", 
+      "url": "https://www.semanticscholar.org/paper/1d6320a672b866444737880cee8a980f5cca6864", 
+      "venue": "KDD", 
+      "year": 2003
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "c18b94640fae19389f055b029a269f01e78be41b", 
+      "title": "Scale-free characteristics of random networks: the topology of the world-wide web", 
+      "url": "https://www.semanticscholar.org/paper/c18b94640fae19389f055b029a269f01e78be41b", 
+      "venue": "", 
+      "year": 1999
+    }
+  ], 
+  "title": "It's who you know: graph mining using recursive structural features", 
+  "url": "https://www.semanticscholar.org/paper/74998b31ba37d3d43429d15ad4efe57a03882ec8", 
+  "venue": "KDD", 
+  "year": 2011
+}

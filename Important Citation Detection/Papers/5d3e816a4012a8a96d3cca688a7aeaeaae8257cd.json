@@ -1,0 +1,839 @@
+{
+  "authors": [
+    {
+      "authorId": "2347841", 
+      "name": "Leonid Velikovich", 
+      "url": "https://www.semanticscholar.org/author/2347841"
+    }, 
+    {
+      "authorId": "2418959", 
+      "name": "Sasha Blair-Goldensohn", 
+      "url": "https://www.semanticscholar.org/author/2418959"
+    }, 
+    {
+      "authorId": "3947307", 
+      "name": "Kerry Hannan", 
+      "url": "https://www.semanticscholar.org/author/3947307"
+    }, 
+    {
+      "authorId": "1886512", 
+      "name": "Ryan T. McDonald", 
+      "url": "https://www.semanticscholar.org/author/1886512"
+    }
+  ], 
+  "citationVelocity": 0, 
+  "citations": [
+    {
+      "isInfluential": false, 
+      "paperId": "5c99e053a4979573b914e56083e50ca63858dea9", 
+      "title": "Generating Semantic Orientation Lexicon using Large Data and Thesaurus", 
+      "url": "https://www.semanticscholar.org/paper/5c99e053a4979573b914e56083e50ca63858dea9"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "638e15b5331a5c7101867045fcd52c430132a7a6", 
+      "title": "Sobre normalizac\u0327a\u0303o e classificac\u0327a\u0303o de polaridade de textos opinativos na web", 
+      "url": "https://www.semanticscholar.org/paper/638e15b5331a5c7101867045fcd52c430132a7a6"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "32b7def677027d0d536c6cf7f39e8b1e763b209f", 
+      "title": "Improving Agreement and Disagreement Identification in Online Discussions with A Socially-Tuned Sentiment Lexicon", 
+      "url": "https://www.semanticscholar.org/paper/32b7def677027d0d536c6cf7f39e8b1e763b209f"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "ec1d92b3b01421e4f49da52fbcf96b9a9337002b", 
+      "title": "Sentiment strength detection for the social web", 
+      "url": "https://www.semanticscholar.org/paper/ec1d92b3b01421e4f49da52fbcf96b9a9337002b"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "f6cbd42be937dc0148359f55ba0a2f87c9c0317f", 
+      "title": "Bibliography Misc", 
+      "url": "https://www.semanticscholar.org/paper/f6cbd42be937dc0148359f55ba0a2f87c9c0317f"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "ad54bd05344dc401ae92e132a71684c7b38422f5", 
+      "title": "A word-emoticon mutual reinforcement ranking model for building sentiment lexicon from massive collection of microblogs", 
+      "url": "https://www.semanticscholar.org/paper/ad54bd05344dc401ae92e132a71684c7b38422f5"
+    }, 
+    {
+      "isInfluential": true, 
+      "paperId": "b2ad6e21f12cdcbb1e55e77ef9be7099bbdc0d18", 
+      "title": "Cooooooooooooooollllllllllllll!!!!!!!!!!!!!! Using Word Lengthening to Detect Sentiment in Microblogs *** Preprint Version ***", 
+      "url": "https://www.semanticscholar.org/paper/b2ad6e21f12cdcbb1e55e77ef9be7099bbdc0d18"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "faa809e3202a9fd6d28170f34baf095ca497b3e3", 
+      "title": "A Computational Model for Plot Units", 
+      "url": "https://www.semanticscholar.org/paper/faa809e3202a9fd6d28170f34baf095ca497b3e3"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "0a7410ab6e6e40c430b94ab93daab24eca278ecd", 
+      "title": "Natural Language Engineering", 
+      "url": "https://www.semanticscholar.org/paper/0a7410ab6e6e40c430b94ab93daab24eca278ecd"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "9a7e5a58ec090c78ea2ce8052f45ecfb4f42ec02", 
+      "title": "Learning to Mine Chinese Coordinate Terms Using the Web", 
+      "url": "https://www.semanticscholar.org/paper/9a7e5a58ec090c78ea2ce8052f45ecfb4f42ec02"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "94d40500b42198c2e177153c6ea721df36ce4c80", 
+      "title": "A survey of graphs in natural language processing", 
+      "url": "https://www.semanticscholar.org/paper/94d40500b42198c2e177153c6ea721df36ce4c80"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "33030c23f6e25e30b140615bb190d5e1632c3d3b", 
+      "title": "Toward a General Framework for Words and Pictures", 
+      "url": "https://www.semanticscholar.org/paper/33030c23f6e25e30b140615bb190d5e1632c3d3b"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "7a7590f59cc0df9ea0a37b132f9c9826c6311a8c", 
+      "title": "The CLSA Model: A Novel Framework for Concept-Level Sentiment Analysis", 
+      "url": "https://www.semanticscholar.org/paper/7a7590f59cc0df9ea0a37b132f9c9826c6311a8c"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "753599be7bdc3f4be860bdfbdb235f9d41be5d4c", 
+      "title": "Sentiment Classification in Under-Resourced Languages Using Graph-Based Semi-Supervised Learning Methods", 
+      "url": "https://www.semanticscholar.org/paper/753599be7bdc3f4be860bdfbdb235f9d41be5d4c"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "8ec1d8fd8c4ab60ba8b8db44f42e726bbe7ad18e", 
+      "title": "Bootstrapping polarity classifiers with rule-based classification", 
+      "url": "https://www.semanticscholar.org/paper/8ec1d8fd8c4ab60ba8b8db44f42e726bbe7ad18e"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "7210184c60f933ce4bff11f3b554b02ebbdb4c04", 
+      "title": "Statistical Text Analysis for Social Science", 
+      "url": "https://www.semanticscholar.org/paper/7210184c60f933ce4bff11f3b554b02ebbdb4c04"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "83027131e386545356a23edc78cf5c6883433e33", 
+      "title": "EmoSenticSpace: A novel framework for affective common-sense reasoning", 
+      "url": "https://www.semanticscholar.org/paper/83027131e386545356a23edc78cf5c6883433e33"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "8065d5f362148204e1090768fb0b3514be0b51d8", 
+      "title": "Distributional approaches to word meanings", 
+      "url": "https://www.semanticscholar.org/paper/8065d5f362148204e1090768fb0b3514be0b51d8"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "f70c2b77fac68a9b9a977bc56fb0d723dde5cbe5", 
+      "title": "Cross-Domain opinion WorD ExtraCtion moDEl", 
+      "url": "https://www.semanticscholar.org/paper/f70c2b77fac68a9b9a977bc56fb0d723dde5cbe5"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "be7254fe4ce602539351abd6903a7865eb9ea939", 
+      "title": "Generating contextualized sentiment lexica based on latent topics and user ratings", 
+      "url": "https://www.semanticscholar.org/paper/be7254fe4ce602539351abd6903a7865eb9ea939"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "c439146cbd0df603c0a0ffd83969589113929353", 
+      "title": "Sentic Computing A Common-Sense-Based Framework for Concept-Level Sentiment Analysis", 
+      "url": "https://www.semanticscholar.org/paper/c439146cbd0df603c0a0ffd83969589113929353"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "6cbe035d394a0e099365e6975f72288359ee2589", 
+      "title": "Connotation Frames: Typed Relations of Implied Sentiment in Predicate-Argument Structure", 
+      "url": "https://www.semanticscholar.org/paper/6cbe035d394a0e099365e6975f72288359ee2589"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "5250b0ceea33bcb01917777595e0f840fda6a49d", 
+      "title": "Lexicon-Based Methods for Sentiment Analysis", 
+      "url": "https://www.semanticscholar.org/paper/5250b0ceea33bcb01917777595e0f840fda6a49d"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "93d25a1215791e65745df56846d2a44ba01abee7", 
+      "title": "NTNU: Domain Semi-Independent Short Message Sentiment Classification", 
+      "url": "https://www.semanticscholar.org/paper/93d25a1215791e65745df56846d2a44ba01abee7"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "0ca017e408c1d0395aa6150c267f3e6a1250faef", 
+      "title": "Une proce\u0301dure automatique pour e\u0301tendre des normes lexicales par l\u2019analyse des cooccurrences dans des textes", 
+      "url": "https://www.semanticscholar.org/paper/0ca017e408c1d0395aa6150c267f3e6a1250faef"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "0714fc731c473384b439eb694362645dd1a38174", 
+      "title": "Morpho-syntactic Lexicon Generation Using Graph-based Semi-supervised Learning", 
+      "url": "https://www.semanticscholar.org/paper/0714fc731c473384b439eb694362645dd1a38174"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "d1670125e84e06a63e2df9b248f148d601100a62", 
+      "title": "Chinese-English mixed text normalization", 
+      "url": "https://www.semanticscholar.org/paper/d1670125e84e06a63e2df9b248f148d601100a62"
+    }, 
+    {
+      "isInfluential": true, 
+      "paperId": "342e8c636a33e65ded6ea40ecbca92685333fc56", 
+      "title": "Inducing Domain-Specific Sentiment Lexicons from Unlabeled Corpora", 
+      "url": "https://www.semanticscholar.org/paper/342e8c636a33e65ded6ea40ecbca92685333fc56"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "868690b14200a8e0e790351683a5b6a27bddcc9b", 
+      "title": "Constructing Sentiment Lexicons in Norwegian from a Large Text Corpus", 
+      "url": "https://www.semanticscholar.org/paper/868690b14200a8e0e790351683a5b6a27bddcc9b"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "3694d5b26cd9bbeb72f6a85552396adffff5e4fa", 
+      "title": "Supervised Ranking of Co-occurrence Profiles for Acquisition of Continuous Lexical Attributes", 
+      "url": "https://www.semanticscholar.org/paper/3694d5b26cd9bbeb72f6a85552396adffff5e4fa"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "f7180e6480fb77321277f930a9c85edc6c41ec98", 
+      "title": "Mining Arabic Business Reviews", 
+      "url": "https://www.semanticscholar.org/paper/f7180e6480fb77321277f930a9c85edc6c41ec98"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "f658ec29e744c6dee3d6f35eb699ec2771de83e5", 
+      "title": "for Computational Linguistics (EACL-06). 2006.", 
+      "url": "https://www.semanticscholar.org/paper/f658ec29e744c6dee3d6f35eb699ec2771de83e5"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "487f96497a390ca93aede1bc159a3587c234822e", 
+      "title": "Sentiment in Social Media: Bootstrapping Subjectivity Clues from Multilingual Twitter Streams and Exploiting Gender Language Differences on Twitter", 
+      "url": "https://www.semanticscholar.org/paper/487f96497a390ca93aede1bc159a3587c234822e"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "3f39036c63335884efbfacc7b98291a7f774c8be", 
+      "title": "Learning General Connotation of Words using Graph-based Algorithms", 
+      "url": "https://www.semanticscholar.org/paper/3f39036c63335884efbfacc7b98291a7f774c8be"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "8155c19335f791643c090c106a352ac808dbd824", 
+      "title": "Towards a Lexicon-grammar based Framework for NLP: an Opinion Mining Application", 
+      "url": "https://www.semanticscholar.org/paper/8155c19335f791643c090c106a352ac808dbd824"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "68586c8ce5d7b52a7fdc65351c89f9a24728c1c4", 
+      "title": "A Case Study of Sentiment Orientation Identification for Polish Texts", 
+      "url": "https://www.semanticscholar.org/paper/68586c8ce5d7b52a7fdc65351c89f9a24728c1c4"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "107fb80ff801894b6191d0613af41aba91c134a4", 
+      "title": "Building Large-Scale Twitter-Specific Sentiment Lexicon : A Representation Learning Approach", 
+      "url": "https://www.semanticscholar.org/paper/107fb80ff801894b6191d0613af41aba91c134a4"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "4292dd20b44dfda0c6c9058664d7b61f288ffd17", 
+      "title": "A Classification of Adjectives for Polarity Lexicons Enhancement", 
+      "url": "https://www.semanticscholar.org/paper/4292dd20b44dfda0c6c9058664d7b61f288ffd17"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "03df60fc983d5a91f55b72b99302240cc87385ab", 
+      "title": "HITIRSYS: Sentiment Analysis System in COAE2012", 
+      "url": "https://www.semanticscholar.org/paper/03df60fc983d5a91f55b72b99302240cc87385ab"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "921ac1e779fe7b052d46714f17d0413ab9c53a2a", 
+      "title": "A unified approach for domain-specific tweet sentiment analysis", 
+      "url": "https://www.semanticscholar.org/paper/921ac1e779fe7b052d46714f17d0413ab9c53a2a"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "65ffbabbf2e9010f0a0133c9a1dd980c4be33121", 
+      "title": "Pseudo Labeling for Scalable Semi-supervised Learning of Domain-specific Sentiment Lexicons", 
+      "url": "https://www.semanticscholar.org/paper/65ffbabbf2e9010f0a0133c9a1dd980c4be33121"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "3647f5d6cb3d5e60484ed3cc0f96f6a6e7d56f75", 
+      "title": "What\u2019s great and what\u2019s not: learning to classify the scope of negation for improved sentiment analysis", 
+      "url": "https://www.semanticscholar.org/paper/3647f5d6cb3d5e60484ed3cc0f96f6a6e7d56f75"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "72ac48b53eeb57e5d280c393dd4ea52cd183a49e", 
+      "title": "Generating Sentiment Lexicons for German Twitter", 
+      "url": "https://www.semanticscholar.org/paper/72ac48b53eeb57e5d280c393dd4ea52cd183a49e"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "853b5be1ac5705821694d1108c8402c724c12fd6", 
+      "title": "Towards building large-scale distributed systems for twitter sentiment analysis", 
+      "url": "https://www.semanticscholar.org/paper/853b5be1ac5705821694d1108c8402c724c12fd6"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "72999fe30a804f008975111c9f52e353752697cf", 
+      "title": "Two-Step Model for Sentiment Lexicon Extraction from Twitter Streams", 
+      "url": "https://www.semanticscholar.org/paper/72999fe30a804f008975111c9f52e353752697cf"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "e2b6017d4541c19ba33076e99fda3036ab76ff78", 
+      "title": "Is Twitter A Better Corpus for Measuring Sentiment Similarity?", 
+      "url": "https://www.semanticscholar.org/paper/e2b6017d4541c19ba33076e99fda3036ab76ff78"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "011f8f72da2b53f52fcbbfc4e5081983dab540d2", 
+      "title": "Sentiment Analysis and Opinion Mining", 
+      "url": "https://www.semanticscholar.org/paper/011f8f72da2b53f52fcbbfc4e5081983dab540d2"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "280ee33a680d463a42b58a8962d5c0b10b9a424a", 
+      "title": "Hybrid Models for Lexical Acquisition of Correlated Styles", 
+      "url": "https://www.semanticscholar.org/paper/280ee33a680d463a42b58a8962d5c0b10b9a424a"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "4fb4a1c5225001beb21a0b61b8bc268116cf16cd", 
+      "title": "ConnotationWordNet: Learning Connotation over the Word+Sense Network", 
+      "url": "https://www.semanticscholar.org/paper/4fb4a1c5225001beb21a0b61b8bc268116cf16cd"
+    }, 
+    {
+      "isInfluential": true, 
+      "paperId": "094e89f110b291467ff6dec5cd61e3e8bc213559", 
+      "title": "Sentiment lexicons", 
+      "url": "https://www.semanticscholar.org/paper/094e89f110b291467ff6dec5cd61e3e8bc213559"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "c5e3b065e352a93d8754b86baaf8ec20bf81a5c3", 
+      "title": "Building Sentiment Lexicons for All Major Languages", 
+      "url": "https://www.semanticscholar.org/paper/c5e3b065e352a93d8754b86baaf8ec20bf81a5c3"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "210318fb228a5a8f19fdf4e9b4c4192e48743fd5", 
+      "title": "Extracting Strong Sentiment Trends from Twitter", 
+      "url": "https://www.semanticscholar.org/paper/210318fb228a5a8f19fdf4e9b4c4192e48743fd5"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "439045bf6b8c4027924fca09c2781e128bb7d13a", 
+      "title": "Using Pivot-Based Paraphrasing and Sentiment Profiles to Improve a Subjectivity Lexicon for Essay Data", 
+      "url": "https://www.semanticscholar.org/paper/439045bf6b8c4027924fca09c2781e128bb7d13a"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "3296c12d8edfdd0ed867273458d6a4f683e1c30d", 
+      "title": "Acquiring a Dictionary of Emotion-Provoking Events", 
+      "url": "https://www.semanticscholar.org/paper/3296c12d8edfdd0ed867273458d6a4f683e1c30d"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "02acc46ccd36ce4fccbdc594d3e8992874e69178", 
+      "title": "Semi-supervised latent variable models for sentence-level sentiment analysis", 
+      "url": "https://www.semanticscholar.org/paper/02acc46ccd36ce4fccbdc594d3e8992874e69178"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "f046af523dc6b9c0067ff464b37e02d857fc2d19", 
+      "title": "A generic approach to generate opinion lists of phrases for opinion mining applications", 
+      "url": "https://www.semanticscholar.org/paper/f046af523dc6b9c0067ff464b37e02d857fc2d19"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "5ae0ed96b0ebb7d8a03840aaf64c53b07ff0c1e7", 
+      "title": "News Sentiment Analysis Based on Cross-Domain Sentiment Word Lists and Content Classifiers", 
+      "url": "https://www.semanticscholar.org/paper/5ae0ed96b0ebb7d8a03840aaf64c53b07ff0c1e7"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "7abe9d64f6ff2f0ea0e0e0e42e5fca3924025b77", 
+      "title": "Statistical Mechanical Analysis of Semantic Orientations on Lexical Network", 
+      "url": "https://www.semanticscholar.org/paper/7abe9d64f6ff2f0ea0e0e0e42e5fca3924025b77"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "6e6cdf5b0282d89de45c407fc76a4c218696e3e3", 
+      "title": "Predicting Movie Revenue from IMDb Data", 
+      "url": "https://www.semanticscholar.org/paper/6e6cdf5b0282d89de45c407fc76a4c218696e3e3"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "b7d1a64fecb1c3c2d09e18bd0b24c178e4d221de", 
+      "title": "Opinion Summarization for Hotel Reviews", 
+      "url": "https://www.semanticscholar.org/paper/b7d1a64fecb1c3c2d09e18bd0b24c178e4d221de"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "ba64ce98590a01064047ce063bceea9c57f4dd47", 
+      "title": "Negation and Speculation in Natural Language Processing (nesp-nlp 2010) Program Nesp-nlp 2010 Does Negation Really Matter? a Survey on the Role of Negation in Sentiment Analysis Evaluating a Meta-knowledge Annotation Scheme for Bio-events", 
+      "url": "https://www.semanticscholar.org/paper/ba64ce98590a01064047ce063bceea9c57f4dd47"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "fda765b7daa060cb29926e490d56e2276ceded1f", 
+      "title": "Automatic construction of domain and aspect specific sentiment lexicons for customer review mining", 
+      "url": "https://www.semanticscholar.org/paper/fda765b7daa060cb29926e490d56e2276ceded1f"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "4aef46ee1f7e1f8432b847c9014794f58c04855c", 
+      "title": "Mining slang and urban opinion words and phrases from cQA services: an optimization approach", 
+      "url": "https://www.semanticscholar.org/paper/4aef46ee1f7e1f8432b847c9014794f58c04855c"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "c26ac45ae1f3507b874e72249ea5ab4873259f78", 
+      "title": "Excitatory or Inhibitory: A New Semantic Orientation Extracts Contradiction and Causality from the Web", 
+      "url": "https://www.semanticscholar.org/paper/c26ac45ae1f3507b874e72249ea5ab4873259f78"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "19b980d65ae076fc28c14f44cd6d23b4ff450052", 
+      "title": "Graph-Based Semi-Supervised Learning", 
+      "url": "https://www.semanticscholar.org/paper/19b980d65ae076fc28c14f44cd6d23b4ff450052"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "c8e3cdad7d2102237cbde35b458ba518a009705b", 
+      "title": "\u0423\u0442\u043e\u0447\u043d\u0435\u043d\u0438\u0435 \u0440\u0443\u0441\u0441\u043a\u043e\u044f\u0437\u044b\u0447\u043d\u044b\u0445 \u0441\u043b\u043e\u0432\u0430\u0440\u0435\u0439 \u044d\u043c\u043e\u0446\u0438\u043e\u043d\u0430\u043b\u044c\u043d\u043e\u0439 \u043b\u0435\u043a\u0441\u0438\u043a\u0438 \u0441 \u0438\u0441\u043f\u043e\u043b\u044c\u0437\u043e\u0432\u0430\u043d\u0438\u0435\u043c \u0442\u0435\u0437\u0430\u0443\u0440\u0443\u0441\u0430 RuThes (Refinement of Russian Sentiment Lexicons Using RuThes Thesaurus)", 
+      "url": "https://www.semanticscholar.org/paper/c8e3cdad7d2102237cbde35b458ba518a009705b"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "10f68de13b995c2ddc98e20b87e7fabe6a5c972b", 
+      "title": "Streaming and Sketch Algorithms for Large Data NLP", 
+      "url": "https://www.semanticscholar.org/paper/10f68de13b995c2ddc98e20b87e7fabe6a5c972b"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "766d413470f2c5dddca5281c039513f0b93947ba", 
+      "title": "Inducing Lexical Style Properties for Paraphrase and Genre Differentiation", 
+      "url": "https://www.semanticscholar.org/paper/766d413470f2c5dddca5281c039513f0b93947ba"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "16b76f32d2430d027def49ab5e9331b31f6211da", 
+      "title": "Visions and open challenges for a knowledge-based culturomics", 
+      "url": "https://www.semanticscholar.org/paper/16b76f32d2430d027def49ab5e9331b31f6211da"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "42d8ae54c46d2102818ab49e81fe9dc9ca8c3ee4", 
+      "title": "A Statistical Parsing Framework for Sentiment Classification", 
+      "url": "https://www.semanticscholar.org/paper/42d8ae54c46d2102818ab49e81fe9dc9ca8c3ee4"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "651197fa244e3dcfbaa8ff4de8b3246519a443ab", 
+      "title": "Product Aspect Clustering by Incorporating Background Knowledge for Opinion Mining", 
+      "url": "https://www.semanticscholar.org/paper/651197fa244e3dcfbaa8ff4de8b3246519a443ab"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "3bff03b7b0b0c4e8f6384dbb2a95e4338d156524", 
+      "title": "Semi-Supervised Recursive Autoencoders for Predicting Sentiment Distributions", 
+      "url": "https://www.semanticscholar.org/paper/3bff03b7b0b0c4e8f6384dbb2a95e4338d156524"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "bed7d0ed2e492dd5ae3e6aafde0f089754069713", 
+      "title": "A survey of graphs in natural language", 
+      "url": "https://www.semanticscholar.org/paper/bed7d0ed2e492dd5ae3e6aafde0f089754069713"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "28b66b2b4dfbbe9f687c9f55afd043baa7da9c0a", 
+      "title": "Adapting Sentiment Lexicons Using Contextual Semantics for Sentiment Analysis of Twitter", 
+      "url": "https://www.semanticscholar.org/paper/28b66b2b4dfbbe9f687c9f55afd043baa7da9c0a"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "bd4665952ae8d2a4b405aede5bcbf8ed3e61b4c2", 
+      "title": "Collocation Polarity Disambiguation Using Web-based Pseudo Contexts", 
+      "url": "https://www.semanticscholar.org/paper/bd4665952ae8d2a4b405aede5bcbf8ed3e61b4c2"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "b88533bad6fb0857721d411b88761935af1d9ef0", 
+      "title": "Semi-Supervised Affective Meaning Lexicon Expansion Using Semantic and Distributed Word Representations", 
+      "url": "https://www.semanticscholar.org/paper/b88533bad6fb0857721d411b88761935af1d9ef0"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "ed511086b5099f889313aa027249be7ae3dd0e0f", 
+      "title": "Graph-Based Query Strategies for Active Learning", 
+      "url": "https://www.semanticscholar.org/paper/ed511086b5099f889313aa027249be7ae3dd0e0f"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "386946523e50cf3026419af1f3648b803d76e5bd", 
+      "title": "Aspect-Object Alignment with Integer Linear Programming in Opinion Mining", 
+      "url": "https://www.semanticscholar.org/paper/386946523e50cf3026419af1f3648b803d76e5bd"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "f3ec46a024545931b2daf4e361e0633e42fc9ce4", 
+      "title": "References (aaai-2011 Tutorial: Sentiment Analysis and Opinion Mining)", 
+      "url": "https://www.semanticscholar.org/paper/f3ec46a024545931b2daf4e361e0633e42fc9ce4"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "f00a2d24b5fa49c768d68e01c27e74e5993fadb5", 
+      "title": "Predicting Emotional Word Ratings using Distributional Representations and Signed Clustering", 
+      "url": "https://www.semanticscholar.org/paper/f00a2d24b5fa49c768d68e01c27e74e5993fadb5"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "e0afc7daa0ffecc6e59068a05b96185cb2b9359a", 
+      "title": "Real-Time Twitter Sentiment toward Midterm Exams", 
+      "url": "https://www.semanticscholar.org/paper/e0afc7daa0ffecc6e59068a05b96185cb2b9359a"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "65e4ca001d90b3b687ee7b9c5af50507d080d7fd", 
+      "title": "Who Needs Polls? Gauging Public Opinion from Twitter Data", 
+      "url": "https://www.semanticscholar.org/paper/65e4ca001d90b3b687ee7b9c5af50507d080d7fd"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "45c1d2f6c500071b10903426fa85ed5a14dac344", 
+      "title": "Mining User Intents in Twitter: A Semi-Supervised Approach to Inferring Intent Categories for Tweets", 
+      "url": "https://www.semanticscholar.org/paper/45c1d2f6c500071b10903426fa85ed5a14dac344"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "6658a32280829244cbdd4a6edddb91f42b52d2c4", 
+      "title": "Building a robust sentiment lexicon with (almost) no resource", 
+      "url": "https://www.semanticscholar.org/paper/6658a32280829244cbdd4a6edddb91f42b52d2c4"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "6ef44232d4e5891c1502d03452b1894837c5f980", 
+      "title": "Connotation Lexicon: A Dash of Sentiment Beneath the Surface Meaning", 
+      "url": "https://www.semanticscholar.org/paper/6ef44232d4e5891c1502d03452b1894837c5f980"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "15226e8f20f5e6956463c5798ccb8a28fc965f94", 
+      "title": "Analyzing semantic orientation of terms using Affinity Propagation", 
+      "url": "https://www.semanticscholar.org/paper/15226e8f20f5e6956463c5798ccb8a28fc965f94"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "7d9bab90415759bc6bfc13b7e5cf1e46f5034754", 
+      "title": "Social Media Sentiment and Consumer Confidence", 
+      "url": "https://www.semanticscholar.org/paper/7d9bab90415759bc6bfc13b7e5cf1e46f5034754"
+    }, 
+    {
+      "isInfluential": true, 
+      "paperId": "5557fb31fd3e852e8fe6ff902d017c5ac78b65a7", 
+      "title": "Cooooooooooooooollllllllllllll!!!!!!!!!!!!!! Using Word Lengthening to Detect Sentiment in Microblogs", 
+      "url": "https://www.semanticscholar.org/paper/5557fb31fd3e852e8fe6ff902d017c5ac78b65a7"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "76e1352af80fd9ca3b6ebd0cc86c2eb120ec800c", 
+      "title": "A :) Is Worth a Thousand Words: How People Attach Sentiment to Emoticons and Words in Tweets", 
+      "url": "https://www.semanticscholar.org/paper/76e1352af80fd9ca3b6ebd0cc86c2eb120ec800c"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "e7fe9430274b0d32fa1c3a4a7e15f4892d8dc985", 
+      "title": "Constructing a Swedish General Purpose Polarity Lexicon Random Walks in the People\u2019s Dictionary of Synonyms", 
+      "url": "https://www.semanticscholar.org/paper/e7fe9430274b0d32fa1c3a4a7e15f4892d8dc985"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "2063745d08868c928455f422202b72146a1960fb", 
+      "title": "Compositional Matrix-Space Models for Sentiment Analysis", 
+      "url": "https://www.semanticscholar.org/paper/2063745d08868c928455f422202b72146a1960fb"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "1644f693d13893f5e16a21069a017eeacb545fed", 
+      "title": "Opinion Mining and Sentiment Analysis in Social Networks: A Retweeting Structure-Aware Approach", 
+      "url": "https://www.semanticscholar.org/paper/1644f693d13893f5e16a21069a017eeacb545fed"
+    }, 
+    {
+      "isInfluential": true, 
+      "paperId": "6e9dd237c0bf8477318d1d6cc7d824dcc709e4e5", 
+      "title": "Construction automatique de ressources lexicales pour la fouille d'opinion", 
+      "url": "https://www.semanticscholar.org/paper/6e9dd237c0bf8477318d1d6cc7d824dcc709e4e5"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "52fc32e23226975c21d0c6e9ab729451a3f49b48", 
+      "title": "Sentiment Classification in Resource-Scarce Languages by using Label Propagation", 
+      "url": "https://www.semanticscholar.org/paper/52fc32e23226975c21d0c6e9ab729451a3f49b48"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "22bb95b77ab0bd190aa8dfeb03f22fc27e5d257e", 
+      "title": "Fast Approximate Nearest Neighbor Search", 
+      "url": "https://www.semanticscholar.org/paper/22bb95b77ab0bd190aa8dfeb03f22fc27e5d257e"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "65f8dcf46a75e37021752cc5757e64c82a7766b8", 
+      "title": "Fast Large-Scale Approximate Graph Construction for NLP", 
+      "url": "https://www.semanticscholar.org/paper/65f8dcf46a75e37021752cc5757e64c82a7766b8"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "d2291a3d4c19c25bb3fc8514e31f0806319809fa", 
+      "title": "FLAG: Fast Large-Scale Graph Construction for NLP", 
+      "url": "https://www.semanticscholar.org/paper/d2291a3d4c19c25bb3fc8514e31f0806319809fa"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "7b686fdf3b69f48a81349f27da7b513fe0b96821", 
+      "title": "Renovating word vectors to build Chinese sentiment lexicon", 
+      "url": "https://www.semanticscholar.org/paper/7b686fdf3b69f48a81349f27da7b513fe0b96821"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "9df02485d7e4e61597092da624d396b4869d0f6a", 
+      "title": "Exploring Demographic Language Variations to Improve Multilingual Sentiment Analysis in Social Media", 
+      "url": "https://www.semanticscholar.org/paper/9df02485d7e4e61597092da624d396b4869d0f6a"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "d45b4366b9f0b231153d7b6c6de6272a4b4c2296", 
+      "title": "Mining Software Quality from Software Reviews: Research Trends and Open Issues", 
+      "url": "https://www.semanticscholar.org/paper/d45b4366b9f0b231153d7b6c6de6272a4b4c2296"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "48e0dcd7bb5777b5d895bc90e4be6d3b4d8b367a", 
+      "title": "Exploring Sentiment in Social Media: Bootstrapping Subjectivity Clues from Multilingual Twitter Streams", 
+      "url": "https://www.semanticscholar.org/paper/48e0dcd7bb5777b5d895bc90e4be6d3b4d8b367a"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "936c7406de1dfdd22493785fc5d1e5614c6c2882", 
+      "title": "Detecting Visual Text", 
+      "url": "https://www.semanticscholar.org/paper/936c7406de1dfdd22493785fc5d1e5614c6c2882"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "13e0ac7cb888dabaffdb4fa304f644a6a2d5c0cb", 
+      "title": "Extracting Diverse Sentiment Expressions with Target-Dependent Polarity from Twitter", 
+      "url": "https://www.semanticscholar.org/paper/13e0ac7cb888dabaffdb4fa304f644a6a2d5c0cb"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "6b22f5f7f3d4dd4f177dd1277eaf1e36d6e3c885", 
+      "title": "A Random Walk-Based Model for Identifying Semantic Orientation", 
+      "url": "https://www.semanticscholar.org/paper/6b22f5f7f3d4dd4f177dd1277eaf1e36d6e3c885"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "f42be1da0bce8d3a5949d8c06d4d0e1a3e4f3455", 
+      "title": "Lost in Translations? Building Sentiment Lexicons using Context Based Machine Translation", 
+      "url": "https://www.semanticscholar.org/paper/f42be1da0bce8d3a5949d8c06d4d0e1a3e4f3455"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "0555c85f8e5292bf3c3ec86845bc00aeb5bd2d34", 
+      "title": "Connotation Frames: A Data-Driven Investigation", 
+      "url": "https://www.semanticscholar.org/paper/0555c85f8e5292bf3c3ec86845bc00aeb5bd2d34"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "7c67c9b9450fec012ae992ac7df6615a2668ab2d", 
+      "title": "Opinion Mining in Online Reviews: Recent Trends", 
+      "url": "https://www.semanticscholar.org/paper/7c67c9b9450fec012ae992ac7df6615a2668ab2d"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "6e442b4254ddf1037eb207b6d247636faeda5937", 
+      "title": "Sentiment lexicons for health-related opinion mining", 
+      "url": "https://www.semanticscholar.org/paper/6e442b4254ddf1037eb207b6d247636faeda5937"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "7d9c5cbe73aa83cd90f13839cc7f63ebcd8378e6", 
+      "title": "A Multi-Dimensional Bayesian Approach to Lexical Style", 
+      "url": "https://www.semanticscholar.org/paper/7d9c5cbe73aa83cd90f13839cc7f63ebcd8378e6"
+    }
+  ], 
+  "doi": null, 
+  "influentialCitationCount": 5, 
+  "paperId": "5d3e816a4012a8a96d3cca688a7aeaeaae8257cd", 
+  "references": [
+    {
+      "isInfluential": false, 
+      "paperId": "033b62167e7358c429738092109311af696e9137", 
+      "title": "Thumbs Up or Thumbs Down? Semantic Orientation Applied to Unsupervised Classification of Reviews", 
+      "url": "https://www.semanticscholar.org/paper/033b62167e7358c429738092109311af696e9137"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "0bf8e3dae34186233dd56543e36d559f22be3871", 
+      "title": "Sentiment Summarization: Evaluating and Learning User Preferences", 
+      "url": "https://www.semanticscholar.org/paper/0bf8e3dae34186233dd56543e36d559f22be3871"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "49a6ba0f8668e4da188017a45aec84c9336c7fe5", 
+      "title": "Learning Subjective Adjectives from Corpora", 
+      "url": "https://www.semanticscholar.org/paper/49a6ba0f8668e4da188017a45aec84c9336c7fe5"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "b59abcfd7dbed8e284c4237c405f912adb1ad4ea", 
+      "title": "Predicting the Semantic Orientation of Adjectives", 
+      "url": "https://www.semanticscholar.org/paper/b59abcfd7dbed8e284c4237c405f912adb1ad4ea"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "0b4220238ca00828b59d71d5d14a9ab17334af85", 
+      "title": "Adapting a Polarity Lexicon using Integer Linear Programming for Domain-Specific Sentiment Classification", 
+      "url": "https://www.semanticscholar.org/paper/0b4220238ca00828b59d71d5d14a9ab17334af85"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "00fce98c3fda59bcb84b6d0626fb3137d2fbb984", 
+      "title": "Web-Scale Distributional Similarity and Entity Set Expansion", 
+      "url": "https://www.semanticscholar.org/paper/00fce98c3fda59bcb84b6d0626fb3137d2fbb984"
+    }, 
+    {
+      "isInfluential": true, 
+      "paperId": "13e5f0c40c85ca8e01b3756963d5352358de7c29", 
+      "title": "Mining and summarizing customer reviews", 
+      "url": "https://www.semanticscholar.org/paper/13e5f0c40c85ca8e01b3756963d5352358de7c29"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "e3510f117223b346ab4344d14b1a4a206b8bf996", 
+      "title": "Multi-Document Summarization of Evaluative Text", 
+      "url": "https://www.semanticscholar.org/paper/e3510f117223b346ab4344d14b1a4a206b8bf996"
+    }, 
+    {
+      "isInfluential": true, 
+      "paperId": "303b0b6e6812c60944a4ac9914222ac28b0813a2", 
+      "title": "Recognizing Contextual Polarity in Phrase-Level Sentiment Analysis", 
+      "url": "https://www.semanticscholar.org/paper/303b0b6e6812c60944a4ac9914222ac28b0813a2"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "0f9f3b2899be4a0e164db04f9e93a3933d93a228", 
+      "title": "Learning Multilingual Subjective Language via Cross-Lingual Projections", 
+      "url": "https://www.semanticscholar.org/paper/0f9f3b2899be4a0e164db04f9e93a3933d93a228"
+    }, 
+    {
+      "isInfluential": true, 
+      "paperId": "40bf5c774fd7da2a312cfac9dd8521cf89e11d52", 
+      "title": "SENTIWORDNET: A Publicly Available Lexical Resource for Opinion Mining", 
+      "url": "https://www.semanticscholar.org/paper/40bf5c774fd7da2a312cfac9dd8521cf89e11d52"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "f49b65326ef56660ec34921c42f0c8834a7c3edd", 
+      "title": "Generating a Non-English Subjectivity Lexicon: Relations That Matter", 
+      "url": "https://www.semanticscholar.org/paper/f49b65326ef56660ec34921c42f0c8834a7c3edd"
+    }, 
+    {
+      "isInfluential": true, 
+      "paperId": "9141d85998eadb1bca5cca027ae07670cfafb015", 
+      "title": "Determining the Sentiment of Opinions", 
+      "url": "https://www.semanticscholar.org/paper/9141d85998eadb1bca5cca027ae07670cfafb015"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "b85951d2675925ed1877efcda17be59077d207c5", 
+      "title": "Multilingual Subjectivity Analysis Using Machine Translation", 
+      "url": "https://www.semanticscholar.org/paper/b85951d2675925ed1877efcda17be59077d207c5"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "4f1fe957a29a2e422d4034f4510644714d33fb20", 
+      "title": "Thumbs up? Sentiment Classification using Machine Learning Techniques", 
+      "url": "https://www.semanticscholar.org/paper/4f1fe957a29a2e422d4034f4510644714d33fb20"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "b61edf6d800e8e4f9285f0fb3707938ce9c03661", 
+      "title": "Pulse: Mining Customer Opinions from Free Text", 
+      "url": "https://www.semanticscholar.org/paper/b61edf6d800e8e4f9285f0fb3707938ce9c03661"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "69eccf3326fac8a684741cf7cb1e9dde6079c9cd", 
+      "title": "Building Lexicon for Sentiment Analysis from Massive Collection of HTML Documents", 
+      "url": "https://www.semanticscholar.org/paper/69eccf3326fac8a684741cf7cb1e9dde6079c9cd"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "1c30b2ad55a3db9d201a96616cb66dda3bb757bc", 
+      "title": "Learning Extraction Patterns For Subjective Expressions", 
+      "url": "https://www.semanticscholar.org/paper/1c30b2ad55a3db9d201a96616cb66dda3bb757bc"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "59fdc90e3a53600501d65b3e56edfb9cff864770", 
+      "title": "Building a Sentiment Summarizer for Local Service Reviews", 
+      "url": "https://www.semanticscholar.org/paper/59fdc90e3a53600501d65b3e56edfb9cff864770"
+    }, 
+    {
+      "isInfluential": true, 
+      "paperId": "841c52958004893b21bee9d6f8373e8a279f76c7", 
+      "title": "Semi-Supervised Polarity Lexicon Induction", 
+      "url": "https://www.semanticscholar.org/paper/841c52958004893b21bee9d6f8373e8a279f76c7"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "f026da36e3c85618e6f66f59adce884ed9683217", 
+      "title": "Large-scale Computation of Distributional Similarities for Queries", 
+      "url": "https://www.semanticscholar.org/paper/f026da36e3c85618e6f66f59adce884ed9683217"
+    }, 
+    {
+      "isInfluential": true, 
+      "paperId": "2a4ca461fa847e8433bab67e7bfe4620371c1f77", 
+      "title": "Learning from Labeled and Unlabeled Data with Label Propagation", 
+      "url": "https://www.semanticscholar.org/paper/2a4ca461fa847e8433bab67e7bfe4620371c1f77"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "dea301ddc616ed7da7568b91a6627699fcbd07cd", 
+      "title": "Structured Models for Fine-to-Coarse Sentiment Analysis", 
+      "url": "https://www.semanticscholar.org/paper/dea301ddc616ed7da7568b91a6627699fcbd07cd"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "104fa9c3294df3a6713d5dccea790b5682037c31", 
+      "title": "Generating High-Coverage Semantic Orientation Lexicons From Overtly Marked Words and a Thesaurus", 
+      "url": "https://www.semanticscholar.org/paper/104fa9c3294df3a6713d5dccea790b5682037c31"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "89af734dad7645ca3f3a7717443a1e49f37964bc", 
+      "title": "Yahoo! for Amazon: Sentiment Extraction from Small Talk on the Web", 
+      "url": "https://www.semanticscholar.org/paper/89af734dad7645ca3f3a7717443a1e49f37964bc"
+    }
+  ], 
+  "title": "The viability of web-derived polarity lexicons", 
+  "url": "https://www.semanticscholar.org/paper/5d3e816a4012a8a96d3cca688a7aeaeaae8257cd", 
+  "venue": "HLT-NAACL"
+}

@@ -1,0 +1,728 @@
+{
+  "authors": [
+    {
+      "authorId": "1750652", 
+      "name": "Jonathan Berant", 
+      "url": "https://www.semanticscholar.org/author/1750652"
+    }, 
+    {
+      "authorId": "3052879", 
+      "name": "Vivek Srikumar", 
+      "url": "https://www.semanticscholar.org/author/3052879"
+    }, 
+    {
+      "authorId": "3094758", 
+      "name": "Pei-Chun Chen", 
+      "url": "https://www.semanticscholar.org/author/3094758"
+    }, 
+    {
+      "authorId": "1824195", 
+      "name": "Abby Vander Linden", 
+      "url": "https://www.semanticscholar.org/author/1824195"
+    }, 
+    {
+      "authorId": "3193294", 
+      "name": "Brittany Harding", 
+      "url": "https://www.semanticscholar.org/author/3193294"
+    }, 
+    {
+      "authorId": "2988874", 
+      "name": "Brad Huang", 
+      "url": "https://www.semanticscholar.org/author/2988874"
+    }, 
+    {
+      "authorId": "2965320", 
+      "name": "Peter Clark", 
+      "url": "https://www.semanticscholar.org/author/2965320"
+    }, 
+    {
+      "authorId": "1812612", 
+      "name": "Christopher D. Manning", 
+      "url": "https://www.semanticscholar.org/author/1812612"
+    }
+  ], 
+  "citationVelocity": 27, 
+  "citations": [
+    {
+      "isInfluential": false, 
+      "paperId": "1bea6bbdb4aed87fff5390d42934a1d9b0a7bec4", 
+      "title": "A Thorough Examination of the CNN/Daily Mail Reading Comprehension Task", 
+      "url": "https://www.semanticscholar.org/paper/1bea6bbdb4aed87fff5390d42934a1d9b0a7bec4", 
+      "venue": "ACL", 
+      "year": 2016
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "ff0858c76442a86c50803917433f09ca0b42f3fe", 
+      "title": "Out-of-domain FrameNet Semantic Role Labeling", 
+      "url": "https://www.semanticscholar.org/paper/ff0858c76442a86c50803917433f09ca0b42f3fe", 
+      "venue": "EACL", 
+      "year": 2017
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "17a2b0c421b09bcb1b52444f0e25c31e7aed887e", 
+      "title": "Semantic Graphs for Mathematics Word Problems based on Mathematics Terminology", 
+      "url": "https://www.semanticscholar.org/paper/17a2b0c421b09bcb1b52444f0e25c31e7aed887e", 
+      "venue": "EDM", 
+      "year": 2015
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "5999282fc3cd947d4ed480e61781d936c5feee52", 
+      "title": "Memory Networks", 
+      "url": "https://www.semanticscholar.org/paper/5999282fc3cd947d4ed480e61781d936c5feee52", 
+      "venue": "ArXiv", 
+      "year": 2014
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "17230f5b3956188055a48c5f4f61d131cce0662f", 
+      "title": "Parsing Algebraic Word Problems into Equations", 
+      "url": "https://www.semanticscholar.org/paper/17230f5b3956188055a48c5f4f61d131cce0662f", 
+      "venue": "TACL", 
+      "year": 2015
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "6facf2019631fadf9d90165631c1667c40ebc902", 
+      "title": "Semantic Framework for Comparison Structures in Natural Language", 
+      "url": "https://www.semanticscholar.org/paper/6facf2019631fadf9d90165631c1667c40ebc902", 
+      "venue": "EMNLP", 
+      "year": 2015
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "471b2a411f498501ff74eea0959b6f3b76b79cf0", 
+      "title": "Generating Training Data for Semantic Role Labeling based on Label Transfer from Linked Lexical Resources", 
+      "url": "https://www.semanticscholar.org/paper/471b2a411f498501ff74eea0959b6f3b76b79cf0", 
+      "venue": "TACL", 
+      "year": 2016
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "30a0ccf00c7bd86268c63f64398c473d0a2faa97", 
+      "title": "Reading Comprehension at Entrance Exams 2015", 
+      "url": "https://www.semanticscholar.org/paper/30a0ccf00c7bd86268c63f64398c473d0a2faa97", 
+      "venue": "CLEF", 
+      "year": 2015
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "027ced58a1fb3600f438c856b9cc4e1ac24cb0a6", 
+      "title": "Getting More Out Of Syntax with PropS", 
+      "url": "https://www.semanticscholar.org/paper/027ced58a1fb3600f438c856b9cc4e1ac24cb0a6", 
+      "venue": "ArXiv", 
+      "year": 2016
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "32c27f18ffe4cbc9afeb6929c448a9502612323e", 
+      "title": "Graph Grammar Induction via Evolutionary Computation", 
+      "url": "https://www.semanticscholar.org/paper/32c27f18ffe4cbc9afeb6929c448a9502612323e", 
+      "venue": "EDM", 
+      "year": 2015
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "d780b5de3fbd0f92647be2f19be14e92f6f8b6f5", 
+      "title": "Semantics-based Graph Approach to Complex Question-Answering", 
+      "url": "https://www.semanticscholar.org/paper/d780b5de3fbd0f92647be2f19be14e92f6f8b6f5", 
+      "venue": "HLT-NAACL", 
+      "year": 2015
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "5bcf2beb3ece439cb3f973257b105bb8deee7504", 
+      "title": "Automatically Tagging Constructions of Causation and Their Slot-Fillers", 
+      "url": "https://www.semanticscholar.org/paper/5bcf2beb3ece439cb3f973257b105bb8deee7504", 
+      "venue": "TACL", 
+      "year": 2017
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "0b02fae6b63ae5c0faa4c1e90ce6897d7c76ede8", 
+      "title": "Dialog state tracking, a machine reading approach using a memory-enhanced neural network", 
+      "url": "https://www.semanticscholar.org/paper/0b02fae6b63ae5c0faa4c1e90ce6897d7c76ede8", 
+      "venue": "ArXiv", 
+      "year": 2016
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "9b89ccf854ea52e46575502d18d0611a7e212907", 
+      "title": "Automatic Construction of Inference-Supporting Knowledge Bases", 
+      "url": "https://www.semanticscholar.org/paper/9b89ccf854ea52e46575502d18d0611a7e212907", 
+      "venue": "", 
+      "year": 2014
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "7fa14b8881a1d777efb7119534a9c95db572a819", 
+      "title": "Multiple Choice Question Generation Utilizing An Ontology", 
+      "url": "https://www.semanticscholar.org/paper/7fa14b8881a1d777efb7119534a9c95db572a819", 
+      "venue": "", 
+      "year": 2017
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "1e22ed1cbec0dabd19164fa2543c824a1a14fd20", 
+      "title": "Dynamic Coattention Networks For Question Answering", 
+      "url": "https://www.semanticscholar.org/paper/1e22ed1cbec0dabd19164fa2543c824a1a14fd20", 
+      "venue": "ArXiv", 
+      "year": 2016
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "63023347e8c9215ef8dc346af24394450241472f", 
+      "title": "Robust Subgraph Generation Improves Abstract Meaning Representation Parsing", 
+      "url": "https://www.semanticscholar.org/paper/63023347e8c9215ef8dc346af24394450241472f", 
+      "venue": "ACL", 
+      "year": 2015
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "62f88e8fc3b44c5627f2b4721b08498d78103893", 
+      "title": "Exploring Question Understanding and Adaptation in Neural-Network-Based Question Answering", 
+      "url": "https://www.semanticscholar.org/paper/62f88e8fc3b44c5627f2b4721b08498d78103893", 
+      "venue": "ArXiv", 
+      "year": 2017
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "e1d5b0f99b9c7f659b5d2a258787f70e1e1f1699", 
+      "title": "Filter-Context Dynamic Coattention Networks for Question Answering", 
+      "url": "https://www.semanticscholar.org/paper/e1d5b0f99b9c7f659b5d2a258787f70e1e1f1699", 
+      "venue": "", 
+      "year": 2017
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "0b73e582a5e94524046a44a33bfe95e0c118a15c", 
+      "title": "Employing External Rich Knowledge for Machine Comprehension", 
+      "url": "https://www.semanticscholar.org/paper/0b73e582a5e94524046a44a33bfe95e0c118a15c", 
+      "venue": "IJCAI", 
+      "year": 2016
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "599da608a5076b1858cb47f80c2ed601b847b3bb", 
+      "title": "Machine Comprehension with Discourse Relations", 
+      "url": "https://www.semanticscholar.org/paper/599da608a5076b1858cb47f80c2ed601b847b3bb", 
+      "venue": "ACL", 
+      "year": 2015
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "72534107854fc7e11474490f80a0c39dc5f215ce", 
+      "title": "Dialog state tracking, a machine reading approach using Memory Network", 
+      "url": "https://www.semanticscholar.org/paper/72534107854fc7e11474490f80a0c39dc5f215ce", 
+      "venue": "EACL", 
+      "year": 2017
+    }, 
+    {
+      "isInfluential": true, 
+      "paperId": "cd58daede2a991cdac56ba2d7217348197f0d41d", 
+      "title": "Edm 2015 Workshops Proceedings 8 Th International Conference on Educational Data Mining (edm 2015) Katrien Vebert Edm 2015 Workshops Proceedings Preface", 
+      "url": "https://www.semanticscholar.org/paper/cd58daede2a991cdac56ba2d7217348197f0d41d", 
+      "venue": "", 
+      "year": 2015
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "2c526496f87aecc9dad9ba0cd20101c203e5463e", 
+      "title": "Learning Knowledge Graphs for Question Answering through Conversational Dialog", 
+      "url": "https://www.semanticscholar.org/paper/2c526496f87aecc9dad9ba0cd20101c203e5463e", 
+      "venue": "HLT-NAACL", 
+      "year": 2015
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "4ca8ff09f24f0838022f1d0b94af4331f6e538cd", 
+      "title": "Semantic Parsing to Probabilistic Programs for Situated Question Answering", 
+      "url": "https://www.semanticscholar.org/paper/4ca8ff09f24f0838022f1d0b94af4331f6e538cd", 
+      "venue": "EMNLP", 
+      "year": 2016
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "962d13fddc38083b3480f5033bfc87cea8359d52", 
+      "title": "An Overview of Biomolecular Event Extraction from Scientific Documents", 
+      "url": "https://www.semanticscholar.org/paper/962d13fddc38083b3480f5033bfc87cea8359d52", 
+      "venue": "Comp. Math. Methods in Medicine", 
+      "year": 2015
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "3a230b920825e2af7706814eaf193cf08614f558", 
+      "title": "Joint Extraction of Events and Entities within a Document Context", 
+      "url": "https://www.semanticscholar.org/paper/3a230b920825e2af7706814eaf193cf08614f558", 
+      "venue": "HLT-NAACL", 
+      "year": 2016
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "cb94666bbda235f9ee90ec11886e2ed22a624f4b", 
+      "title": "Bifocal Perspectives for Machine Comprehension", 
+      "url": "https://www.semanticscholar.org/paper/cb94666bbda235f9ee90ec11886e2ed22a624f4b", 
+      "venue": "", 
+      "year": 2017
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "62a7fc51bcca0f242cfadedff98a553afc3a1704", 
+      "title": "Hierarchical Question Answering for Long Documents", 
+      "url": "https://www.semanticscholar.org/paper/62a7fc51bcca0f242cfadedff98a553afc3a1704", 
+      "venue": "ArXiv", 
+      "year": 2016
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "b798cfd967e1a9ca5e7bc995d33a907bf65d1c7f", 
+      "title": "Gated Self-Matching Networks for Reading Comprehension and Question Answering", 
+      "url": "https://www.semanticscholar.org/paper/b798cfd967e1a9ca5e7bc995d33a907bf65d1c7f", 
+      "venue": "ACL", 
+      "year": 2017
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "ddf04002f9e25d98d356fde4c8ec2e275059f734", 
+      "title": "Dynamic Adaptive Network Intelligence", 
+      "url": "https://www.semanticscholar.org/paper/ddf04002f9e25d98d356fde4c8ec2e275059f734", 
+      "venue": "ArXiv", 
+      "year": 2015
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "53e133977559f240952f6c6cde78154ebfbaf8cd", 
+      "title": "Combining Natural Logic and Shallow Reasoning for Question Answering", 
+      "url": "https://www.semanticscholar.org/paper/53e133977559f240952f6c6cde78154ebfbaf8cd", 
+      "venue": "ACL", 
+      "year": 2016
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "259ca1877e11d1bea35d9006102681cb7bf50690", 
+      "title": "Inducing Semantic Representation from Text by Jointly Predicting and Factorizing Relations", 
+      "url": "https://www.semanticscholar.org/paper/259ca1877e11d1bea35d9006102681cb7bf50690", 
+      "venue": "ArXiv", 
+      "year": 2014
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "4c6fe6179c408e1fbb3871af13d1a8e64f766e54", 
+      "title": "Solving General Arithmetic Word Problems", 
+      "url": "https://www.semanticscholar.org/paper/4c6fe6179c408e1fbb3871af13d1a8e64f766e54", 
+      "venue": "EMNLP", 
+      "year": 2015
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "a95400c70c4beb609c77cc500677b2f1ed852e8e", 
+      "title": "Generating Questions and Multiple-Choice Answers using Semantic Analysis of Texts", 
+      "url": "https://www.semanticscholar.org/paper/a95400c70c4beb609c77cc500677b2f1ed852e8e", 
+      "venue": "COLING", 
+      "year": 2016
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "b053d70cfa69d4a40f8f9e95828f75e5a8cb9be4", 
+      "title": "Ask, and Shall You Receive? Understanding Desire Fulfillment in Natural Language Text", 
+      "url": "https://www.semanticscholar.org/paper/b053d70cfa69d4a40f8f9e95828f75e5a8cb9be4", 
+      "venue": "AAAI", 
+      "year": 2016
+    }, 
+    {
+      "isInfluential": true, 
+      "paperId": "6f146e69fcebfb07ec1625b9e5591b0f7f483a42", 
+      "title": "Joint Event Trigger Identification and Event Coreference Resolution with Structured Perceptron", 
+      "url": "https://www.semanticscholar.org/paper/6f146e69fcebfb07ec1625b9e5591b0f7f483a42", 
+      "venue": "EMNLP", 
+      "year": 2015
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "e5b64e77329fdab64f9c02651bb6a22838d29e91", 
+      "title": "Event Linking with Sentential Features from Convolutional Neural Networks", 
+      "url": "https://www.semanticscholar.org/paper/e5b64e77329fdab64f9c02651bb6a22838d29e91", 
+      "venue": "CoNLL", 
+      "year": 2016
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "91a24c0b3c42352dd2f2a98aabd1853a334330b0", 
+      "title": "Building Conceptual Maps from Scientific Articles", 
+      "url": "https://www.semanticscholar.org/paper/91a24c0b3c42352dd2f2a98aabd1853a334330b0", 
+      "venue": "", 
+      "year": 2015
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "bcfb048e9168bf906522fa0ae5c2435501f27f58", 
+      "title": "Event Coreference Resolution with Multi-Pass Sieves", 
+      "url": "https://www.semanticscholar.org/paper/bcfb048e9168bf906522fa0ae5c2435501f27f58", 
+      "venue": "LREC", 
+      "year": 2016
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "35c209c58dee77411aee62d7e72f4e8e4f69ad62", 
+      "title": "Building Large Machine Reading-Comprehension Datasets using Paragraph Vectors", 
+      "url": "https://www.semanticscholar.org/paper/35c209c58dee77411aee62d7e72f4e8e4f69ad62", 
+      "venue": "ArXiv", 
+      "year": 2016
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "2ad3b9d7f03a6382fa3577a285d62946a5703820", 
+      "title": "Learning to Automatically Solve Logic Grid Puzzles", 
+      "url": "https://www.semanticscholar.org/paper/2ad3b9d7f03a6382fa3577a285d62946a5703820", 
+      "venue": "EMNLP", 
+      "year": 2015
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "165db9e093be270d38ac4a264efff7507518727e", 
+      "title": "Towards AI-Complete Question Answering: A Set of Prerequisite Toy Tasks", 
+      "url": "https://www.semanticscholar.org/paper/165db9e093be270d38ac4a264efff7507518727e", 
+      "venue": "ArXiv", 
+      "year": 2015
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "6ac1962fd1f2b90da02c63c16af39a3c7a3e6df6", 
+      "title": "SQuAD: 100, 000+ Questions for Machine Comprehension of Text", 
+      "url": "https://www.semanticscholar.org/paper/6ac1962fd1f2b90da02c63c16af39a3c7a3e6df6", 
+      "venue": "EMNLP", 
+      "year": 2016
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "865ef3b0015341d8df8e4097a1e48b1599422b35", 
+      "title": "Revisiting the Evaluation for Cross Document Event Coreference", 
+      "url": "https://www.semanticscholar.org/paper/865ef3b0015341d8df8e4097a1e48b1599422b35", 
+      "venue": "COLING", 
+      "year": 2016
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "8d844cdb5ef314df58b60b0fed6a53ab9a482f1e", 
+      "title": "Advances in natural language processing.", 
+      "url": "https://www.semanticscholar.org/paper/8d844cdb5ef314df58b60b0fed6a53ab9a482f1e", 
+      "venue": "Science", 
+      "year": 2015
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "a252d64616bfaf6ac6c45061e116a41579784d7f", 
+      "title": "Why \u201cBlow Out\u201d? A Structural Analysis of the Movie Dialog Dataset", 
+      "url": "https://www.semanticscholar.org/paper/a252d64616bfaf6ac6c45061e116a41579784d7f", 
+      "venue": "", 
+      "year": 2016
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "4ff8c87775c28d42f22031bfea4c506f5acbc67b", 
+      "title": "Cross Sentence Inference for Process Knowledge", 
+      "url": "https://www.semanticscholar.org/paper/4ff8c87775c28d42f22031bfea4c506f5acbc67b", 
+      "venue": "EMNLP", 
+      "year": 2016
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "7dc6f957a8e9438738f66983e5cad34d386993c7", 
+      "title": "Learning Open Domain Knowledge from Text a Dissertation Submitted to the Department of Computer Science and the Committee on Graduate Studies of Stanford University in Partial Fulfillment of the Requirements for the Degree of Doctor of Philosophy", 
+      "url": "https://www.semanticscholar.org/paper/7dc6f957a8e9438738f66983e5cad34d386993c7", 
+      "venue": "", 
+      "year": 2016
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "7754647a7aa54c4fd1263a01e946ffa68bf1ba8b", 
+      "title": "Distilling Task Knowledge from How-To Communities", 
+      "url": "https://www.semanticscholar.org/paper/7754647a7aa54c4fd1263a01e946ffa68bf1ba8b", 
+      "venue": "WWW", 
+      "year": 2017
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "06a50490049c439a1448e1f807da3a88e6467544", 
+      "title": "Understanding Satirical Articles Using Common-Sense", 
+      "url": "https://www.semanticscholar.org/paper/06a50490049c439a1448e1f807da3a88e6467544", 
+      "venue": "TACL", 
+      "year": 2016
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "097889e0b93591d75de08f9da661ff882a1532f6", 
+      "title": "Learning Disentangled Representations with Semi-Supervised Deep Generative Models", 
+      "url": "https://www.semanticscholar.org/paper/097889e0b93591d75de08f9da661ff882a1532f6", 
+      "venue": "ArXiv", 
+      "year": 2017
+    }
+  ], 
+  "doi": null, 
+  "influentialCitationCount": 2, 
+  "paperId": "6396ab37641d36be4c26420e58adeb8665914c3b", 
+  "references": [
+    {
+      "isInfluential": false, 
+      "paperId": "610fe707f4563d0c4cc3fd092d8dee1b2972d6ec", 
+      "title": "A Linear Programming Formulation for Global Inference in Natural Language Tasks", 
+      "url": "https://www.semanticscholar.org/paper/610fe707f4563d0c4cc3fd092d8dee1b2972d6ec", 
+      "venue": "CoNLL", 
+      "year": 2004
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "d87ceda3042f781c341ac17109d1e94a717f5f60", 
+      "title": "Book Reviews: WordNet: An Electronic Lexical Database", 
+      "url": "https://www.semanticscholar.org/paper/d87ceda3042f781c341ac17109d1e94a717f5f60", 
+      "venue": "", 
+      "year": 1998
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "124f442cac7748c1182a2187f5eb233f54a50fa6", 
+      "title": "Jointly Identifying Temporal Relations with Markov Logic", 
+      "url": "https://www.semanticscholar.org/paper/124f442cac7748c1182a2187f5eb233f54a50fa6", 
+      "venue": "ACL/IJCNLP", 
+      "year": 2009
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "2f5102ec3f70d0dea98c957cc2cab4d15d83a2da", 
+      "title": "The Stanford CoreNLP Natural Language Processing Toolkit", 
+      "url": "https://www.semanticscholar.org/paper/2f5102ec3f70d0dea98c957cc2cab4d15d83a2da", 
+      "venue": "ACL", 
+      "year": 2014
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "1969a39db6f322a8e3f204fdc8c781bec5cf26d6", 
+      "title": "Learning to Map Sentences to Logical Form: Structured Classification with Probabilistic Categorial Grammars", 
+      "url": "https://www.semanticscholar.org/paper/1969a39db6f322a8e3f204fdc8c781bec5cf26d6", 
+      "venue": "UAI", 
+      "year": 2005
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "564257469fa44cdb57e4272f85253efb9acfd69d", 
+      "title": "MCTest: A Challenge Dataset for the Open-Domain Machine Comprehension of Text", 
+      "url": "https://www.semanticscholar.org/paper/564257469fa44cdb57e4272f85253efb9acfd69d", 
+      "venue": "EMNLP", 
+      "year": 2013
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "505ef6258a35bea5c5323bcc4896890b75c0d72f", 
+      "title": "Machine Reading", 
+      "url": "https://www.semanticscholar.org/paper/505ef6258a35bea5c5323bcc4896890b75c0d72f", 
+      "venue": "AAAI Spring Symposium: Machine Reading", 
+      "year": 2006
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "57463ade370bc55714c744efb926a9ac3e9ea7ea", 
+      "title": "Jointly Combining Implicit Constraints Improves Temporal Ordering", 
+      "url": "https://www.semanticscholar.org/paper/57463ade370bc55714c744efb926a9ac3e9ea7ea", 
+      "venue": "EMNLP", 
+      "year": 2008
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "393abbe9a712ffcc9cd87a7e6888326e02530bea", 
+      "title": "A Semi-Automatic Method For Annotating A Biomedical Proposition Bank", 
+      "url": "https://www.semanticscholar.org/paper/393abbe9a712ffcc9cd87a7e6888326e02530bea", 
+      "venue": "", 
+      "year": 2006
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "60b5779bed9ae726fc0d65e532655eb131499ad9", 
+      "title": "Learning Constraints for Consistent Timeline Extraction", 
+      "url": "https://www.semanticscholar.org/paper/60b5779bed9ae726fc0d65e532655eb131499ad9", 
+      "venue": "EMNLP-CoNLL", 
+      "year": 2012
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "15182c6e680c7543f445bbe8de449afa912eacd4", 
+      "title": "Overview of BioNLP Shared Task 2011", 
+      "url": "https://www.semanticscholar.org/paper/15182c6e680c7543f445bbe8de449afa912eacd4", 
+      "venue": "", 
+      "year": 2011
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "4e659eb55ee1929d909031d85091d2ac311ffd32", 
+      "title": "Deep Read: A Reading Comprehension System", 
+      "url": "https://www.semanticscholar.org/paper/4e659eb55ee1929d909031d85091d2ac311ffd32", 
+      "venue": "ACL", 
+      "year": 1999
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "3493c33b36f005d230469c456256cb1fe144376f", 
+      "title": "An NLP Curator (or: How I Learned to Stop Worrying and Love NLP Pipelines)", 
+      "url": "https://www.semanticscholar.org/paper/3493c33b36f005d230469c456256cb1fe144376f", 
+      "venue": "LREC", 
+      "year": 2012
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "52bdf7d7892b1ddff22c31426522dc1fc3fa6e85", 
+      "title": "Learning Biological Processes with Global Constraints", 
+      "url": "https://www.semanticscholar.org/paper/52bdf7d7892b1ddff22c31426522dc1fc3fa6e85", 
+      "venue": "", 
+      "year": 2013
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "2d03baec8ac1568e6813aa43d625d552524f977e", 
+      "title": "Toward an Architecture for Never-Ending Language Learning", 
+      "url": "https://www.semanticscholar.org/paper/2d03baec8ac1568e6813aa43d625d552524f977e", 
+      "venue": "AAAI", 
+      "year": 2010
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "2b5aadb2586707433beb21121677289d196e6144", 
+      "title": "brat: a Web-based Tool for NLP-Assisted Text Annotation", 
+      "url": "https://www.semanticscholar.org/paper/2b5aadb2586707433beb21121677289d196e6144", 
+      "venue": "EACL", 
+      "year": 2012
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "195cde8b7ecce1eca96b06602a193701e58a5cab", 
+      "title": "Overview of BioNLP\u201909 Shared Task on Event Extraction", 
+      "url": "https://www.semanticscholar.org/paper/195cde8b7ecce1eca96b06602a193701e58a5cab", 
+      "venue": "", 
+      "year": 2009
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "18f747cfca874808f26ab75c65066657a0f0a229", 
+      "title": "Learning for Semantic Parsing with Statistical Machine Translation", 
+      "url": "https://www.semanticscholar.org/paper/18f747cfca874808f26ab75c65066657a0f0a229", 
+      "venue": "HLT-NAACL", 
+      "year": 2006
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "14287f83e7bbfcc2de9c14be57fc39ef5026cb89", 
+      "title": "COGEX: A Logic Prover for Question Answering", 
+      "url": "https://www.semanticscholar.org/paper/14287f83e7bbfcc2de9c14be57fc39ef5026cb89", 
+      "venue": "HLT-NAACL", 
+      "year": 2003
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "f61b0c8b339586520c30e49530dbd5ceffaf335f", 
+      "title": "The Automatic Content Extraction (ACE) Program - Tasks, Data, and Evaluation", 
+      "url": "https://www.semanticscholar.org/paper/f61b0c8b339586520c30e49530dbd5ceffaf335f", 
+      "venue": "LREC", 
+      "year": 2004
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "0796f6cd7f0403a854d67d525e9b32af3b277331", 
+      "title": "Identifying Relations for Open Information Extraction", 
+      "url": "https://www.semanticscholar.org/paper/0796f6cd7f0403a854d67d525e9b32af3b277331", 
+      "venue": "EMNLP", 
+      "year": 2011
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "042db0977555fcd7d5eac67b26695cd918ecb44c", 
+      "title": "Semantic Parsing on Freebase from Question-Answer Pairs", 
+      "url": "https://www.semanticscholar.org/paper/042db0977555fcd7d5eac67b26695cd918ecb44c", 
+      "venue": "EMNLP", 
+      "year": 2013
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "3b8e7c8220d3883d54960d896a73045f3c70ac17", 
+      "title": "Discriminative Training Methods For Hidden Markov Models: Theory And Experiments With Perceptron Algorithms", 
+      "url": "https://www.semanticscholar.org/paper/3b8e7c8220d3883d54960d896a73045f3c70ac17", 
+      "venue": "", 
+      "year": 2002
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "a116b1875959d4473c9a684293cb503f319ad2e9", 
+      "title": "Driving Semantic Parsing from the World's Response", 
+      "url": "https://www.semanticscholar.org/paper/a116b1875959d4473c9a684293cb503f319ad2e9", 
+      "venue": "CoNLL", 
+      "year": 2010
+    }, 
+    {
+      "isInfluential": true, 
+      "paperId": "85701003162f5907f24a614ff6b21cfb731560c7", 
+      "title": "The Importance of Syntactic Parsing and Inference in Semantic Role Labeling", 
+      "url": "https://www.semanticscholar.org/paper/85701003162f5907f24a614ff6b21cfb731560c7", 
+      "venue": "Computational Linguistics", 
+      "year": 2008
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "10c52142b71267e22d57dcb610510a02a8f91d7d", 
+      "title": "Learning to Automatically Solve Algebra Word Problems", 
+      "url": "https://www.semanticscholar.org/paper/10c52142b71267e22d57dcb610510a02a8f91d7d", 
+      "venue": "ACL", 
+      "year": 2014
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "837c2bf28887fc1a00e1b1148e5df748809da242", 
+      "title": "The Proposition Bank: An Annotated Corpus of Semantic Roles", 
+      "url": "https://www.semanticscholar.org/paper/837c2bf28887fc1a00e1b1148e5df748809da242", 
+      "venue": "Computational Linguistics", 
+      "year": 2005
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "60df78bc14265d4b87ae5993d6b5781ccf7ec5d8", 
+      "title": "Concise Integer Linear Programming Formulations for Dependency Parsing", 
+      "url": "https://www.semanticscholar.org/paper/60df78bc14265d4b87ae5993d6b5781ccf7ec5d8", 
+      "venue": "ACL/IJCNLP", 
+      "year": 2009
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "79cd660c697d1f628b0083c09051d9ec39f40148", 
+      "title": "Paraphrase-Driven Learning for Open Question Answering", 
+      "url": "https://www.semanticscholar.org/paper/79cd660c697d1f628b0083c09051d9ec39f40148", 
+      "venue": "ACL", 
+      "year": 2013
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "0ec1a840e6895101b7040f7b32093785d4a0c0ef", 
+      "title": "Jointly Learning to Parse and Perceive: Connecting Natural Language to the Physical World", 
+      "url": "https://www.semanticscholar.org/paper/0ec1a840e6895101b7040f7b32093785d4a0c0ef", 
+      "venue": "TACL", 
+      "year": 2013
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "07fe26f10ab2eb7ba7ad7df5096813c949dcabc9", 
+      "title": "Fast and Robust Joint Models for Biomedical Event Extraction", 
+      "url": "https://www.semanticscholar.org/paper/07fe26f10ab2eb7ba7ad7df5096813c949dcabc9", 
+      "venue": "EMNLP", 
+      "year": 2011
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "39c230241d51b1435472115aaa8c62b94ab9927d", 
+      "title": "Joint Inference for Event Timeline Construction", 
+      "url": "https://www.semanticscholar.org/paper/39c230241d51b1435472115aaa8c62b94ab9927d", 
+      "venue": "EMNLP-CoNLL", 
+      "year": 2012
+    }
+  ], 
+  "title": "Modeling Biological Processes for Reading Comprehension", 
+  "url": "https://www.semanticscholar.org/paper/6396ab37641d36be4c26420e58adeb8665914c3b", 
+  "venue": "EMNLP", 
+  "year": 2014
+}

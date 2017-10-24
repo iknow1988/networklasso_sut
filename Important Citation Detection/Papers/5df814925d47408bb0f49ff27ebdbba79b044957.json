@@ -1,0 +1,775 @@
+{
+  "authors": [
+    {
+      "authorId": "2418071", 
+      "name": "Doug Downey", 
+      "url": "https://www.semanticscholar.org/author/2418071"
+    }, 
+    {
+      "authorId": "22124666", 
+      "name": "Matthew Broadhead", 
+      "url": "https://www.semanticscholar.org/author/22124666"
+    }, 
+    {
+      "authorId": "1741101", 
+      "name": "Oren Etzioni", 
+      "url": "https://www.semanticscholar.org/author/1741101"
+    }
+  ], 
+  "citationVelocity": 0, 
+  "citations": [
+    {
+      "isInfluential": false, 
+      "paperId": "d29b2760686621209eca8be7b1867613ebee11b1", 
+      "title": "SIGNET: Web Information Retrieval with NE Disambiguation Based on HMM and CRF", 
+      "url": "https://www.semanticscholar.org/paper/d29b2760686621209eca8be7b1867613ebee11b1", 
+      "venue": "", 
+      "year": null
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "9c84aa48284db48bcea31c84e1bcc9f6e40efff2", 
+      "title": "Extracting Knowledge from Twitter and The Web", 
+      "url": "https://www.semanticscholar.org/paper/9c84aa48284db48bcea31c84e1bcc9f6e40efff2", 
+      "venue": "", 
+      "year": 2013
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "4492eec9cdb88c33b2e986ec7e75c6526f3e759c", 
+      "title": "Introducing semantic variables in mixed distance measures: Impact on hierarchical clustering", 
+      "url": "https://www.semanticscholar.org/paper/4492eec9cdb88c33b2e986ec7e75c6526f3e759c", 
+      "venue": "Knowledge and Information Systems", 
+      "year": 2013
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "e57e7279776056c4f6a1ec3c3656f3e1d3646712", 
+      "title": "A Web-Mining Approach to Disambiguate Biomedical Acronym Expansions", 
+      "url": "https://www.semanticscholar.org/paper/e57e7279776056c4f6a1ec3c3656f3e1d3646712", 
+      "venue": "Informatica", 
+      "year": 2010
+    }, 
+    {
+      "isInfluential": true, 
+      "paperId": "7afe57c5665d4723fd07c50ac6deb1aad8574cd8", 
+      "title": "Web-Based Semantic Similarity: An Evaluation in the Biomedical Domain", 
+      "url": "https://www.semanticscholar.org/paper/7afe57c5665d4723fd07c50ac6deb1aad8574cd8", 
+      "venue": "Int. J. Software and Informatics", 
+      "year": 2010
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "0e7606dcb71e249838185424c9f9606a4b22ebfb", 
+      "title": "Sparse Information Extraction: Unsupervised Language Models to the Rescue", 
+      "url": "https://www.semanticscholar.org/paper/0e7606dcb71e249838185424c9f9606a4b22ebfb", 
+      "venue": "ACL", 
+      "year": 2007
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "940d4df05a90c0b7b376f61b483c123600d39629", 
+      "title": "Machine Reading at the University of Washington", 
+      "url": "https://www.semanticscholar.org/paper/940d4df05a90c0b7b376f61b483c123600d39629", 
+      "venue": "", 
+      "year": 2010
+    }, 
+    {
+      "isInfluential": true, 
+      "paperId": "0b1a5e7cf57dc4fade5e4d469b10234be822e982", 
+      "title": "Ontology-driven web-based semantic similarity", 
+      "url": "https://www.semanticscholar.org/paper/0b1a5e7cf57dc4fade5e4d469b10234be822e982", 
+      "venue": "Journal of Intelligent Information Systems", 
+      "year": 2009
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "053df27d241bda74ab6d42245e58403c31e3a2b2", 
+      "title": "Annotating Large Email Datasets for Named Entity Recognition with Mechanical Turk", 
+      "url": "https://www.semanticscholar.org/paper/053df27d241bda74ab6d42245e58403c31e3a2b2", 
+      "venue": "", 
+      "year": 2010
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "bd395e219f9a1604411bfe69900cfcbbe4b198e4", 
+      "title": "Finding New Information Via Robust Entity Detection", 
+      "url": "https://www.semanticscholar.org/paper/bd395e219f9a1604411bfe69900cfcbbe4b198e4", 
+      "venue": "AAAI Fall Symposium: Proactive Assistant Agents", 
+      "year": 2010
+    }, 
+    {
+      "isInfluential": true, 
+      "paperId": "b52fe0b796e4c899624ed3e9d9ea566453156844", 
+      "title": "Recognizing Named Entities in Tweets", 
+      "url": "https://www.semanticscholar.org/paper/b52fe0b796e4c899624ed3e9d9ea566453156844", 
+      "venue": "ACL", 
+      "year": 2011
+    }, 
+    {
+      "isInfluential": true, 
+      "paperId": "ed9bb9b780d7bc4ae33f65603b40062096497088", 
+      "title": "Cascaded Chinese Weibo Segmentation Based on CRFs", 
+      "url": "https://www.semanticscholar.org/paper/ed9bb9b780d7bc4ae33f65603b40062096497088", 
+      "venue": "", 
+      "year": 2012
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "b1d929ff38e50796cc20e10849040dd3e88cd38e", 
+      "title": "Semi-supervised Bootstrapping approach for Named Entity Recognition", 
+      "url": "https://www.semanticscholar.org/paper/b1d929ff38e50796cc20e10849040dd3e88cd38e", 
+      "venue": "ArXiv", 
+      "year": 2015
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "37761f94a845e0f475ae037cb052ce85139fecab", 
+      "title": "Named Entity Recognition from Tweets", 
+      "url": "https://www.semanticscholar.org/paper/37761f94a845e0f475ae037cb052ce85139fecab", 
+      "venue": "LWA", 
+      "year": 2014
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "5c8e8438f46255400876f661d7657e0e4aa8b1cf", 
+      "title": "Linking Named Entities to Any Database", 
+      "url": "https://www.semanticscholar.org/paper/5c8e8438f46255400876f661d7657e0e4aa8b1cf", 
+      "venue": "EMNLP-CoNLL", 
+      "year": 2012
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "80ab3d556201ccbd9eafd5fcf8e0f1b366ea2e1c", 
+      "title": "Query-driven approach of contextual ontology module learning using web snippets", 
+      "url": "https://www.semanticscholar.org/paper/80ab3d556201ccbd9eafd5fcf8e0f1b366ea2e1c", 
+      "venue": "Journal of Intelligent Information Systems", 
+      "year": 2013
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "d6a21f9bc12605e8dd1bc400e6ba34d38d9348ce", 
+      "title": "Managing the Acronym/Expansion Identification Process for Text-Mining Applications", 
+      "url": "https://www.semanticscholar.org/paper/d6a21f9bc12605e8dd1bc400e6ba34d38d9348ce", 
+      "venue": "Int. J. Software and Informatics", 
+      "year": 2008
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "f29323ccc3b6dda293f29d0de16cf82107c8c25f", 
+      "title": "Ontology Learning: Revisted", 
+      "url": "https://www.semanticscholar.org/paper/f29323ccc3b6dda293f29d0de16cf82107c8c25f", 
+      "venue": "", 
+      "year": 2012
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "52e2220c317e50c31a242f32f3c34ce0ea93e8b0", 
+      "title": "Acquisition of open-domain classes via intersective semantics", 
+      "url": "https://www.semanticscholar.org/paper/52e2220c317e50c31a242f32f3c34ce0ea93e8b0", 
+      "venue": "WWW", 
+      "year": 2014
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "9ac0ec2a1de1deacf13eb6c00b8f200250b81c90", 
+      "title": "Classification Supervis\u00e9e de Questions : R\u00f4le de l'Expansion S\u00e9mantique", 
+      "url": "https://www.semanticscholar.org/paper/9ac0ec2a1de1deacf13eb6c00b8f200250b81c90", 
+      "venue": "CORIA", 
+      "year": 2010
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "2d208d551ff9000ca189034fa683edb826f4c941", 
+      "title": "Coupled semi-supervised learning for information extraction", 
+      "url": "https://www.semanticscholar.org/paper/2d208d551ff9000ca189034fa683edb826f4c941", 
+      "venue": "WSDM", 
+      "year": 2010
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "a07f56a919687e432e92c403d371a9e2d564ef3f", 
+      "title": "Joint Inference of Named Entity Recognition and Normalization for Tweets", 
+      "url": "https://www.semanticscholar.org/paper/a07f56a919687e432e92c403d371a9e2d564ef3f", 
+      "venue": "ACL", 
+      "year": 2012
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "a022a040de0e6b8145d7f20fc86536708d38c053", 
+      "title": "Rule-based Location Extraction from Italian Unstructured Text", 
+      "url": "https://www.semanticscholar.org/paper/a022a040de0e6b8145d7f20fc86536708d38c053", 
+      "venue": "WOA", 
+      "year": 2015
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "25d8d3d4d6dcc8adc0f576f970f95fddc4b0b817", 
+      "title": "Knowledge Harvesting for Business Intelligence", 
+      "url": "https://www.semanticscholar.org/paper/25d8d3d4d6dcc8adc0f576f970f95fddc4b0b817", 
+      "venue": "eBISS", 
+      "year": 2012
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "5952dc659a159022dbff4d5e99942dbf8fc7cbd2", 
+      "title": "Social event extraction: Task, challenges and techniques", 
+      "url": "https://www.semanticscholar.org/paper/5952dc659a159022dbff4d5e99942dbf8fc7cbd2", 
+      "venue": "2015 IEEE/ACM International Conference on Advances in Social Networks Analysis and Mining (ASONAM)", 
+      "year": 2015
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "73d5667ec14a14143ee575997a08c5517665ec82", 
+      "title": "Domain-independent entity extraction from web search query logs", 
+      "url": "https://www.semanticscholar.org/paper/73d5667ec14a14143ee575997a08c5517665ec82", 
+      "venue": "WWW", 
+      "year": 2011
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "22567f626b751ceaf87e0d94c7d364f346c3ed58", 
+      "title": "Helping editors choose better seed sets for entity set expansion", 
+      "url": "https://www.semanticscholar.org/paper/22567f626b751ceaf87e0d94c7d364f346c3ed58", 
+      "venue": "CIKM", 
+      "year": 2009
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "c42872c9c11374260e51d6628d36594b29c85489", 
+      "title": "!\"#$%&'()'*&$(+(,(\"-'.)$%--(/%),%'012341564178' H! I%\"&)()/'$%,<)(je%#k'$99-#'\")@'l9&m'%)n(&9)a%)$' Fh!", 
+      "url": "https://www.semanticscholar.org/paper/c42872c9c11374260e51d6628d36594b29c85489", 
+      "venue": "", 
+      "year": 2011
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "20c31fa1451a12628615fee0faa3552c2c0090de", 
+      "title": "Enhanced semantic automatic ontology enrichment", 
+      "url": "https://www.semanticscholar.org/paper/20c31fa1451a12628615fee0faa3552c2c0090de", 
+      "venue": "2010 10th International Conference on Intelligent Systems Design and Applications", 
+      "year": 2010
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "7f35bc58a5e99fe0e921822d8d60f4cd42c7255b", 
+      "title": "Coupling Semi-Supervised Learning of Categories and Relations", 
+      "url": "https://www.semanticscholar.org/paper/7f35bc58a5e99fe0e921822d8d60f4cd42c7255b", 
+      "venue": "", 
+      "year": 2009
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "4607017f6b07d394418220cea657d4c1cb4a24eb", 
+      "title": "Distributional Similarity vs. PU Learning for Entity Set Expansion", 
+      "url": "https://www.semanticscholar.org/paper/4607017f6b07d394418220cea657d4c1cb4a24eb", 
+      "venue": "ACL", 
+      "year": 2010
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "1bbe7a0297c1829ba96827e218b19696cae57f20", 
+      "title": "Weakly-Supervised Acquisition of Open-Domain Classes and Class Attributes from Web Documents and Query Logs", 
+      "url": "https://www.semanticscholar.org/paper/1bbe7a0297c1829ba96827e218b19696cae57f20", 
+      "venue": "", 
+      "year": 2008
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "3fcc3bbdfd2e0421dde947c5485e3ff1abe471d7", 
+      "title": "Using Corpus Statistics on Entities to Improve Semi-supervised Relation Extraction from the Web", 
+      "url": "https://www.semanticscholar.org/paper/3fcc3bbdfd2e0421dde947c5485e3ff1abe471d7", 
+      "venue": "ACL", 
+      "year": 2007
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "4e8984a91ac8cb1fbd9e6d6d3dad67a4dd7a5406", 
+      "title": "Creating a Dead Poets Society: Extracting a Social Network of Historical Persons from the Web", 
+      "url": "https://www.semanticscholar.org/paper/4e8984a91ac8cb1fbd9e6d6d3dad67a4dd7a5406", 
+      "venue": "ISWC/ASWC", 
+      "year": 2007
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "2a1fb5f1a49c664329c5ec814bd21f84dfbd1e1f", 
+      "title": "Handling Conjunctions in Named Entities", 
+      "url": "https://www.semanticscholar.org/paper/2a1fb5f1a49c664329c5ec814bd21f84dfbd1e1f", 
+      "venue": "CICLing", 
+      "year": 2007
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "498bb0efad6ec15dd09d941fb309aa18d6df9f5f", 
+      "title": "Open Information Extraction from the Web", 
+      "url": "https://www.semanticscholar.org/paper/498bb0efad6ec15dd09d941fb309aa18d6df9f5f", 
+      "venue": "IJCAI", 
+      "year": 2007
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "bfd163bf3b4fea6099a816febb538cea8e936e2e", 
+      "title": "Towards the use of semi-structured annotators for Automated Essay Grading", 
+      "url": "https://www.semanticscholar.org/paper/bfd163bf3b4fea6099a816febb538cea8e936e2e", 
+      "venue": "4th IEEE International Conference on Digital Ecosystems and Technologies", 
+      "year": 2010
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "1a5068b80ea97beaee06a52d27d5800481135b6e", 
+      "title": "Opinion Mining From Blogs", 
+      "url": "https://www.semanticscholar.org/paper/1a5068b80ea97beaee06a52d27d5800481135b6e", 
+      "venue": "", 
+      "year": 2009
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "2dbad830ae94c2205e8af8d093ca39d53253ef5d", 
+      "title": "Queries as a Source of Lexicalized Commonsense Knowledge", 
+      "url": "https://www.semanticscholar.org/paper/2dbad830ae94c2205e8af8d093ca39d53253ef5d", 
+      "venue": "EMNLP", 
+      "year": 2014
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "497c64fa7bce496d9c3e89b5d9cc02a11b7a8c94", 
+      "title": "Geotagging Named Entities in News and Online Documents", 
+      "url": "https://www.semanticscholar.org/paper/497c64fa7bce496d9c3e89b5d9cc02a11b7a8c94", 
+      "venue": "CIKM", 
+      "year": 2016
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "e36feec58fcd0a40df84e7471f25903c42538504", 
+      "title": "Data Analysis Project: Leveraging Massive Textual Corpora Using n-Gram Statistics", 
+      "url": "https://www.semanticscholar.org/paper/e36feec58fcd0a40df84e7471f25903c42538504", 
+      "venue": "", 
+      "year": 2008
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "24742b6b5efd5a6c924fd96009aa052be76f5b25", 
+      "title": "The Curious Case of the PDF Converter that Likes Mozart: Dissecting and Mitigating the Privacy Risk of Personal Cloud Apps", 
+      "url": "https://www.semanticscholar.org/paper/24742b6b5efd5a6c924fd96009aa052be76f5b25", 
+      "venue": "PoPETs", 
+      "year": 2016
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "4ab3f8f474c9d609e90a7b1104c829faddb491c8", 
+      "title": "Detecting and Summarizing Action Items in Multi-Party Dialogue\u2217", 
+      "url": "https://www.semanticscholar.org/paper/4ab3f8f474c9d609e90a7b1104c829faddb491c8", 
+      "venue": "", 
+      "year": 2007
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "ee03137b883fd0d62528b0dda1de554821440a32", 
+      "title": "Information Extraction from the Web using a Search Engine", 
+      "url": "https://www.semanticscholar.org/paper/ee03137b883fd0d62528b0dda1de554821440a32", 
+      "venue": "", 
+      "year": 2008
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "1c57660029b1d5a5e2a08af21b856d169200401b", 
+      "title": "Web-scale named entity recognition", 
+      "url": "https://www.semanticscholar.org/paper/1c57660029b1d5a5e2a08af21b856d169200401b", 
+      "venue": "CIKM", 
+      "year": 2008
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "dc2d3b67dd94dc68876d38a3fb3502b615b6774b", 
+      "title": "Open-Domain Fine-Grained Class Extraction from Web Search Queries", 
+      "url": "https://www.semanticscholar.org/paper/dc2d3b67dd94dc68876d38a3fb3502b615b6774b", 
+      "venue": "EMNLP", 
+      "year": 2013
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "aaf06a6e9053cc213334283c4519020edb806efa", 
+      "title": "Weakly-Supervised Acquisition of Open-Domain Classes and Class Attributes from Web Documents and Query Logs", 
+      "url": "https://www.semanticscholar.org/paper/aaf06a6e9053cc213334283c4519020edb806efa", 
+      "venue": "ACL", 
+      "year": 2008
+    }, 
+    {
+      "isInfluential": true, 
+      "paperId": "0facf3aa4d2968adb30313c10d93222f8c0f9515", 
+      "title": "Semantic Analysis of Entity Contexts towards Open Named Entity Classification on the Web", 
+      "url": "https://www.semanticscholar.org/paper/0facf3aa4d2968adb30313c10d93222f8c0f9515", 
+      "venue": "", 
+      "year": 2007
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "00fce98c3fda59bcb84b6d0626fb3137d2fbb984", 
+      "title": "Web-Scale Distributional Similarity and Entity Set Expansion", 
+      "url": "https://www.semanticscholar.org/paper/00fce98c3fda59bcb84b6d0626fb3137d2fbb984", 
+      "venue": "EMNLP", 
+      "year": 2009
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "b7a3cd23c49b0973dcec2b7145003c605c06e199", 
+      "title": "Negative Training Data Can be Harmful to Text Classification", 
+      "url": "https://www.semanticscholar.org/paper/b7a3cd23c49b0973dcec2b7145003c605c06e199", 
+      "venue": "EMNLP", 
+      "year": 2010
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "5ffc6513d7b4a34e6d2537627720f6103395853c", 
+      "title": "Learning relation axioms from text: An automatic Web-based approach", 
+      "url": "https://www.semanticscholar.org/paper/5ffc6513d7b4a34e6d2537627720f6103395853c", 
+      "venue": "Expert Syst. Appl.", 
+      "year": 2012
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "2d898632916468eeb79513f92d1938f6ca53839d", 
+      "title": "First International Workshop on Formalisms and Methodology for Learning by Reading (FAM-LbR)", 
+      "url": "https://www.semanticscholar.org/paper/2d898632916468eeb79513f92d1938f6ca53839d", 
+      "venue": "", 
+      "year": 2010
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "28df10782d0a5970d6eac7cae9dfe6e5cd7f616c", 
+      "title": "Information Retrieval Using Subjective Analysis on Social Blogs", 
+      "url": "https://www.semanticscholar.org/paper/28df10782d0a5970d6eac7cae9dfe6e5cd7f616c", 
+      "venue": "", 
+      "year": 2014
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "87086ba81c59a04d657107b7895d8ab38e4b6464", 
+      "title": "TwiNER: named entity recognition in targeted twitter stream", 
+      "url": "https://www.semanticscholar.org/paper/87086ba81c59a04d657107b7895d8ab38e4b6464", 
+      "venue": "SIGIR", 
+      "year": 2012
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "342161befa9871f06b0bf7c8a59f8e9e8c485f06", 
+      "title": "Bootstrapping Large-scale Named Entities using URL-Text Hybrid Patterns", 
+      "url": "https://www.semanticscholar.org/paper/342161befa9871f06b0bf7c8a59f8e9e8c485f06", 
+      "venue": "IJCNLP", 
+      "year": 2013
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "fc609af67f499927fc448d4edced109337ffbd8c", 
+      "title": "Processus global d'acquisition et de gestion des sigles", 
+      "url": "https://www.semanticscholar.org/paper/fc609af67f499927fc448d4edced109337ffbd8c", 
+      "venue": "INFORSID", 
+      "year": 2008
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "b7fb601cd63bbca402e237d34605fa7f3388aa5e", 
+      "title": "Modeling Redundancy", 
+      "url": "https://www.semanticscholar.org/paper/b7fb601cd63bbca402e237d34605fa7f3388aa5e", 
+      "venue": "", 
+      "year": 2007
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "1971425c8e95d75dca4fec126504d7fa6179c926", 
+      "title": "Probase: a probabilistic taxonomy for text understanding", 
+      "url": "https://www.semanticscholar.org/paper/1971425c8e95d75dca4fec126504d7fa6179c926", 
+      "venue": "SIGMOD Conference", 
+      "year": 2012
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "7032a6ffed056081bc5fea8a6d973a999b1d4a20", 
+      "title": "Learning Representations for Weakly Supervised Natural Language Processing Tasks", 
+      "url": "https://www.semanticscholar.org/paper/7032a6ffed056081bc5fea8a6d973a999b1d4a20", 
+      "venue": "Computational Linguistics", 
+      "year": 2014
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "87f2101c46f191512a62f78c68a2560d35ce613b", 
+      "title": "Named Entity Recognition in Tweets: An Experimental Study", 
+      "url": "https://www.semanticscholar.org/paper/87f2101c46f191512a62f78c68a2560d35ce613b", 
+      "venue": "EMNLP", 
+      "year": 2011
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "f3dd6a07bde670083f5824025757f894d0939e80", 
+      "title": "Determining Writing Genre: Towards a Rubric-based Approach to Automated Essay Grading", 
+      "url": "https://www.semanticscholar.org/paper/f3dd6a07bde670083f5824025757f894d0939e80", 
+      "venue": "2011 IEEE International Conference on Advanced Information Networking and Applications", 
+      "year": 2011
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "ca3bbb3105bbf61df291e2a7306dd4b6cb6ab27b", 
+      "title": "Semi-Automatic Entity Set Refinement", 
+      "url": "https://www.semanticscholar.org/paper/ca3bbb3105bbf61df291e2a7306dd4b6cb6ab27b", 
+      "venue": "HLT-NAACL", 
+      "year": 2009
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "6597b4fc8580b51ab1ac7527a26775cf49f64e99", 
+      "title": "Large Scale Text Mining Approaches for Information Retrieval and Extraction", 
+      "url": "https://www.semanticscholar.org/paper/6597b4fc8580b51ab1ac7527a26775cf49f64e99", 
+      "venue": "Innovations in Intelligent Machines", 
+      "year": 2014
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "a4e406429243ae762a95fb1f2554063b350e7d7d", 
+      "title": "Location Name Extraction from Targeted Text Streams using Gazetteer-based Statistical Language Models", 
+      "url": "https://www.semanticscholar.org/paper/a4e406429243ae762a95fb1f2554063b350e7d7d", 
+      "venue": "", 
+      "year": 2017
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "a5c56c29d5c1ccc7d413cb42950ec9ead84605d4", 
+      "title": "An automatic approach for ontology-based feature extraction from heterogeneous textualresources", 
+      "url": "https://www.semanticscholar.org/paper/a5c56c29d5c1ccc7d413cb42950ec9ead84605d4", 
+      "venue": "Eng. Appl. of AI", 
+      "year": 2013
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "719f58ac53d4492633a0ccb2cc6d047728bd6850", 
+      "title": "Open-Domain Semantic Role Labeling by Modeling Word Spans", 
+      "url": "https://www.semanticscholar.org/paper/719f58ac53d4492633a0ccb2cc6d047728bd6850", 
+      "venue": "ACL", 
+      "year": 2010
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "6428aaeeac292532d6dac8f1cbd3fa8adf78eaa4", 
+      "title": "A Novel Method of Chinese Web Information Extraction and Applications", 
+      "url": "https://www.semanticscholar.org/paper/6428aaeeac292532d6dac8f1cbd3fa8adf78eaa4", 
+      "venue": "2009 WASE International Conference on Information Engineering", 
+      "year": 2009
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "1101c745a56bae724b66a6712438ff476dd946e1", 
+      "title": "Exploiting Collective Hidden Structures in Webpage Titles for Open Domain Entity Extraction", 
+      "url": "https://www.semanticscholar.org/paper/1101c745a56bae724b66a6712438ff476dd946e1", 
+      "venue": "WWW", 
+      "year": 2015
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "1b00d8eab3ae0873f1fb693d172095736e4186ad", 
+      "title": "Open Information Extraction for the Web", 
+      "url": "https://www.semanticscholar.org/paper/1b00d8eab3ae0873f1fb693d172095736e4186ad", 
+      "venue": "", 
+      "year": 2009
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "0f37795a094f42d82bc3546ccb206e78ca709818", 
+      "title": "Turning Web Text and Search Queries into Factual Knowledge: Hierarchical Class Attribute Extraction", 
+      "url": "https://www.semanticscholar.org/paper/0f37795a094f42d82bc3546ccb206e78ca709818", 
+      "venue": "AAAI", 
+      "year": 2008
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "1b76eac90a5106759470bb1b4c40459b57c47bab", 
+      "title": "Web opinion mining: how to extract opinions from blogs?", 
+      "url": "https://www.semanticscholar.org/paper/1b76eac90a5106759470bb1b4c40459b57c47bab", 
+      "venue": "CSTST", 
+      "year": 2008
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "7ef9ee7c8c4ab196bda2035b3dd99a5de6ccc36c", 
+      "title": "A New Multiword Expression Metric and Its Applications", 
+      "url": "https://www.semanticscholar.org/paper/7ef9ee7c8c4ab196bda2035b3dd99a5de6ccc36c", 
+      "venue": "Journal of Computer Science and Technology", 
+      "year": 2011
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "626a7f26d4de34a7afa0b04c4b05ab146830b464", 
+      "title": "Refining relation identification by combining soft and sensor data", 
+      "url": "https://www.semanticscholar.org/paper/626a7f26d4de34a7afa0b04c4b05ab146830b464", 
+      "venue": "2016 19th International Conference on Information Fusion (FUSION)", 
+      "year": 2016
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "2a9a20189a5ff863f3f3d2332c44ce884948f569", 
+      "title": "Improving Supervised Sense Disambiguation with Web-Scale Selectors", 
+      "url": "https://www.semanticscholar.org/paper/2a9a20189a5ff863f3f3d2332c44ce884948f569", 
+      "venue": "COLING", 
+      "year": 2012
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "0f36eed249c23dd4f425bfe47d6e5b0701b0209c", 
+      "title": "Language Models as Representations for Weakly Supervised NLP Tasks", 
+      "url": "https://www.semanticscholar.org/paper/0f36eed249c23dd4f425bfe47d6e5b0701b0209c", 
+      "venue": "CoNLL", 
+      "year": 2011
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "38431b51f8512d4aea66fce32f7d6bf7c4e33081", 
+      "title": "Redundancy in Web-scale Information Extraction: Probabilistic Model and Experimental Results", 
+      "url": "https://www.semanticscholar.org/paper/38431b51f8512d4aea66fce32f7d6bf7c4e33081", 
+      "venue": "", 
+      "year": 2008
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "a217004705a7619edd45a694b4d883f8546ca3af", 
+      "title": "The Role of Queries in Ranking Labeled Instances Extracted from Text", 
+      "url": "https://www.semanticscholar.org/paper/a217004705a7619edd45a694b4d883f8546ca3af", 
+      "venue": "COLING", 
+      "year": 2010
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "bbad0c137312fdad932a339f5c0ad31e16b5812f", 
+      "title": "Unsupervised Web-based Automatic Annotation1", 
+      "url": "https://www.semanticscholar.org/paper/bbad0c137312fdad932a339f5c0ad31e16b5812f", 
+      "venue": "", 
+      "year": 2008
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "427b57144c0badcaf07ed62dc2d7c9ea9898ae38", 
+      "title": "Training a Named Entity Recognizer on the Web", 
+      "url": "https://www.semanticscholar.org/paper/427b57144c0badcaf07ed62dc2d7c9ea9898ae38", 
+      "venue": "WISE", 
+      "year": 2011
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "e2b79612a79a62dd1898938ef0a949b31c1f48cc", 
+      "title": "Named entity recognition for tweets", 
+      "url": "https://www.semanticscholar.org/paper/e2b79612a79a62dd1898938ef0a949b31c1f48cc", 
+      "venue": "ACM TIST", 
+      "year": 2013
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "b0d5996820fa49fc448b152278dd82a90bdfba92", 
+      "title": "User Interest Modeling in Twitter with Named Entity Recognition", 
+      "url": "https://www.semanticscholar.org/paper/b0d5996820fa49fc448b152278dd82a90bdfba92", 
+      "venue": "#MSM", 
+      "year": 2015
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "a60b213b7488bd9f13d1b8fa9ab5139c941241d7", 
+      "title": "ANNE: Improving Source Code Search using Entity Retrieval Approach", 
+      "url": "https://www.semanticscholar.org/paper/a60b213b7488bd9f13d1b8fa9ab5139c941241d7", 
+      "venue": "WSDM", 
+      "year": 2017
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "9a82350ee58b3f36b92e98770e1bc694ca5a8b96", 
+      "title": "Semi-supervised Chinese Open Entity Relation Extraction", 
+      "url": "https://www.semanticscholar.org/paper/9a82350ee58b3f36b92e98770e1bc694ca5a8b96", 
+      "venue": "2014 IEEE 3rd International Conference on Cloud Computing and Intelligence Systems", 
+      "year": 2014
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "a86a109368743c3f239310a276e43ae47b89c818", 
+      "title": "On filtering irrelevant results in peer-to-peer search", 
+      "url": "https://www.semanticscholar.org/paper/a86a109368743c3f239310a276e43ae47b89c818", 
+      "venue": "SAC", 
+      "year": 2008
+    }
+  ], 
+  "doi": null, 
+  "influentialCitationCount": 5, 
+  "paperId": "5df814925d47408bb0f49ff27ebdbba79b044957", 
+  "references": [
+    {
+      "isInfluential": false, 
+      "paperId": "15a3ed7dfc005aa6f84f1e1fb81ef6d54ce3d8aa", 
+      "title": "Combining Labeled and Unlabeled Data with Co-Training", 
+      "url": "https://www.semanticscholar.org/paper/15a3ed7dfc005aa6f84f1e1fb81ef6d54ce3d8aa", 
+      "venue": "", 
+      "year": 1998
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "1a0a415178d20754418987e312681f3fb0b40257", 
+      "title": "Unsupervised Models For Named Entity Classification", 
+      "url": "https://www.semanticscholar.org/paper/1a0a415178d20754418987e312681f3fb0b40257", 
+      "venue": "", 
+      "year": 1999
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "0c7f52c753a65ceaf3755e20b906ffd0c05c994a", 
+      "title": "Conditional Random Fields: Probabilistic Models for Segmenting and Labeling Sequence Data", 
+      "url": "https://www.semanticscholar.org/paper/0c7f52c753a65ceaf3755e20b906ffd0c05c994a", 
+      "venue": "ICML", 
+      "year": 2001
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "421151fa75e40dd86414215abf29d9f2c052a2e1", 
+      "title": "Unsupervised named-entity extraction from the Web: An experimental study", 
+      "url": "https://www.semanticscholar.org/paper/421151fa75e40dd86414215abf29d9f2c052a2e1", 
+      "venue": "Artif. Intell.", 
+      "year": 2005
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "24770585a6aa3dead91b5ad42bb151b1ae70b316", 
+      "title": "Maximum Entropy Markov Models for Information Extraction and Segmentation", 
+      "url": "https://www.semanticscholar.org/paper/24770585a6aa3dead91b5ad42bb151b1ae70b316", 
+      "venue": "ICML", 
+      "year": 2000
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "f8eae988049f6b0953884ed610a19fc2576290a0", 
+      "title": "Acquisition of categorized named entities for web search", 
+      "url": "https://www.semanticscholar.org/paper/f8eae988049f6b0953884ed610a19fc2576290a0", 
+      "venue": "CIKM", 
+      "year": 2004
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "6723dda58e5e09089ec78ba42827b65859f030e2", 
+      "title": "Message Understanding Conference- 6: A Brief History", 
+      "url": "https://www.semanticscholar.org/paper/6723dda58e5e09089ec78ba42827b65859f030e2", 
+      "venue": "COLING", 
+      "year": 1996
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "1b1eed518d7f0c67874a5e6e018486feb3923732", 
+      "title": "Early results for Named Entity Recognition with Conditional Random Fields, Feature Induction and Web-Enhanced Lexicons", 
+      "url": "https://www.semanticscholar.org/paper/1b1eed518d7f0c67874a5e6e018486feb3923732", 
+      "venue": "CoNLL", 
+      "year": 2003
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "1227611aa17ac693e2770b6484a0759dd21d2b8b", 
+      "title": "AskMSR: Question Answering Using the Worldwide Web", 
+      "url": "https://www.semanticscholar.org/paper/1227611aa17ac693e2770b6484a0759dd21d2b8b", 
+      "venue": "", 
+      "year": 2002
+    }
+  ], 
+  "title": "Locating Complex Named Entities in Web Text", 
+  "url": "https://www.semanticscholar.org/paper/5df814925d47408bb0f49ff27ebdbba79b044957", 
+  "venue": "IJCAI", 
+  "year": 2007
+}

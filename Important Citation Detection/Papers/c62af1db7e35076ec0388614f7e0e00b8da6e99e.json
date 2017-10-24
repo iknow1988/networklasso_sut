@@ -1,0 +1,539 @@
+{
+  "authors": [
+    {
+      "authorId": "1990595", 
+      "name": "Zhiyuan Liu", 
+      "url": "https://www.semanticscholar.org/author/1990595"
+    }, 
+    {
+      "authorId": "1869202", 
+      "name": "Wenyi Huang", 
+      "url": "https://www.semanticscholar.org/author/1869202"
+    }, 
+    {
+      "authorId": "2521868", 
+      "name": "Yabin Zheng", 
+      "url": "https://www.semanticscholar.org/author/2521868"
+    }, 
+    {
+      "authorId": "1753344", 
+      "name": "Maosong Sun", 
+      "url": "https://www.semanticscholar.org/author/1753344"
+    }
+  ], 
+  "citationVelocity": 0, 
+  "citations": [
+    {
+      "isInfluential": false, 
+      "paperId": "736bc8490fb92d4bb8e7c4ed4b766f00ec899861", 
+      "title": "Ieee Transactions on Audio, Speech and Language Processing Keyword Extraction and Clustering for Document Recommendation in Conversations", 
+      "url": "https://www.semanticscholar.org/paper/736bc8490fb92d4bb8e7c4ed4b766f00ec899861"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "be93be05831152eb6de6bd08406794c5bdfb5db0", 
+      "title": "When Topic Models Disagree: Keyphrase Extraction with Multiple Topic Models", 
+      "url": "https://www.semanticscholar.org/paper/be93be05831152eb6de6bd08406794c5bdfb5db0"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "b578cf5df39b5c5e6d269bf2f066421b498fe2e3", 
+      "title": "A Distributed Framework for NLP-Based Keyword and Keyphrase Extraction From Web Pages and Documents", 
+      "url": "https://www.semanticscholar.org/paper/b578cf5df39b5c5e6d269bf2f066421b498fe2e3"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "867e4b6a43da52e41a272e3504bd29f35a1de376", 
+      "title": "Software Keyphrase Extraction with Domain-Specific Features", 
+      "url": "https://www.semanticscholar.org/paper/867e4b6a43da52e41a272e3504bd29f35a1de376"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "de41e3d0fc3734a96eb2a29020001831eb12372c", 
+      "title": "A Comparison of Supervised Keyphrase Extraction Models", 
+      "url": "https://www.semanticscholar.org/paper/de41e3d0fc3734a96eb2a29020001831eb12372c"
+    }, 
+    {
+      "isInfluential": true, 
+      "paperId": "559e2ad1e231d6c94569a5da7c2b4d0da19cd1d9", 
+      "title": "WordTopic-MultiRank: A New Method for Automatic Keyphrase Extraction", 
+      "url": "https://www.semanticscholar.org/paper/559e2ad1e231d6c94569a5da7c2b4d0da19cd1d9"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "b6762d8f65a6ee4c420588eb4668864b6b28baae", 
+      "title": "Personalized classifiers: evolving a classifier from a large reference knowledge graph", 
+      "url": "https://www.semanticscholar.org/paper/b6762d8f65a6ee4c420588eb4668864b6b28baae"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "00441e2ebbace419826ce472503a2d823f194db9", 
+      "title": "Unsupervised Ensemble Ranking of Terms in Electronic Health Record Notes Based on Their Importance to Patients", 
+      "url": "https://www.semanticscholar.org/paper/00441e2ebbace419826ce472503a2d823f194db9"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "01dd4b9046db4b5a3768b9beb6ab128857598d84", 
+      "title": "Ambient Search: A Document Retrieval System for Speech Streams", 
+      "url": "https://www.semanticscholar.org/paper/01dd4b9046db4b5a3768b9beb6ab128857598d84"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "74ab72ac8897d84634647135c7626fa09359ec75", 
+      "title": "A Supervised KeyPhrase Extraction System", 
+      "url": "https://www.semanticscholar.org/paper/74ab72ac8897d84634647135c7626fa09359ec75"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "59159ca8ee9fe2720d7d8f6ab8778c6f90bd12bd", 
+      "title": "Introducing Distiller: A Unifying Framework for Knowledge Extraction", 
+      "url": "https://www.semanticscholar.org/paper/59159ca8ee9fe2720d7d8f6ab8778c6f90bd12bd"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "ffe849a6bc3d785c1a2433b72a715ee86c493d15", 
+      "title": "Using a Lexical Dictionary and a Folksonomy to Automatically Construct Domain Ontologies", 
+      "url": "https://www.semanticscholar.org/paper/ffe849a6bc3d785c1a2433b72a715ee86c493d15"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "0c3468d79a7fffc6ed3a1539bd81535e11579da0", 
+      "title": "Topical Key Concept Extraction from Folksonomy", 
+      "url": "https://www.semanticscholar.org/paper/0c3468d79a7fffc6ed3a1539bd81535e11579da0"
+    }, 
+    {
+      "isInfluential": true, 
+      "paperId": "132bff5b5ba6fcd4ac2de27d24b7d2f2360b8fa1", 
+      "title": "Topical Word Importance for Fast Keyphrase Extraction", 
+      "url": "https://www.semanticscholar.org/paper/132bff5b5ba6fcd4ac2de27d24b7d2f2360b8fa1"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "07996a78c9e0c212fa5280c89d47a2d06c1ac359", 
+      "title": "Unsupervised Negation Focus Identification with Word-Topic Graph Model", 
+      "url": "https://www.semanticscholar.org/paper/07996a78c9e0c212fa5280c89d47a2d06c1ac359"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "0671b25cfcb7666b7c13c9c6aa05c91ae33b0d98", 
+      "title": "Categorized Text Document Summarization in the Kannada Language by sentence ranking", 
+      "url": "https://www.semanticscholar.org/paper/0671b25cfcb7666b7c13c9c6aa05c91ae33b0d98"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "74d415b27438ed6f166dbd56ce06530d5fe1000a", 
+      "title": "State of the Art of Automatic Keyphrase Extraction Methods (\u00c9tat de l'art des m\u00e9thodes d'extraction automatique de termes-cl\u00e9s) [in French]", 
+      "url": "https://www.semanticscholar.org/paper/74d415b27438ed6f166dbd56ce06530d5fe1000a"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "c9e9fca3941106e87bed14efc320b7bdd5b8b20d", 
+      "title": "Labeling Documents in Search Collection: Evolving Classifiers on a Semantically Relevant Label Space", 
+      "url": "https://www.semanticscholar.org/paper/c9e9fca3941106e87bed14efc320b7bdd5b8b20d"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "58ed7d8a26c27f5d5d045641ff9ac61494a699c6", 
+      "title": "A new keyphrases extraction method based on suffix tree data structure for arabic documents clustering", 
+      "url": "https://www.semanticscholar.org/paper/58ed7d8a26c27f5d5d045641ff9ac61494a699c6"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "274501b9c706dd6fe049a6630a4a20079cf0f40e", 
+      "title": "Can back-of-the-book indexes be automatically created?", 
+      "url": "https://www.semanticscholar.org/paper/274501b9c706dd6fe049a6630a4a20079cf0f40e"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "c0e129f8a117422a797ed1e80ad03d4e1a99b1e6", 
+      "title": "SentTopic-MultiRank: a Novel Ranking Model for Multi-Document Summarization", 
+      "url": "https://www.semanticscholar.org/paper/c0e129f8a117422a797ed1e80ad03d4e1a99b1e6"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "561347cc0d3f6cbfafb6703086ff1b615640c4ed", 
+      "title": "A generalized topic modeling approach for automatic document annotation", 
+      "url": "https://www.semanticscholar.org/paper/561347cc0d3f6cbfafb6703086ff1b615640c4ed"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "a51e8ee33f3d37cb7317a0f3b38ab25d32722cc8", 
+      "title": "Generation of Conceptual-Level Text Cloud with Graph Diffusion", 
+      "url": "https://www.semanticscholar.org/paper/a51e8ee33f3d37cb7317a0f3b38ab25d32722cc8"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "04db4ec2b0c07e7c250c23f8325e0387566dd1e5", 
+      "title": "Topical Word Trigger Model for Keyphrase Extraction", 
+      "url": "https://www.semanticscholar.org/paper/04db4ec2b0c07e7c250c23f8325e0387566dd1e5"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "fea207e27839a79931cb2f52a780e4eeee8dd346", 
+      "title": "Extracting indices from Japanese legal documents", 
+      "url": "https://www.semanticscholar.org/paper/fea207e27839a79931cb2f52a780e4eeee8dd346"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "de1a630c35e963d4ea44abb0b682b3cee533d6c0", 
+      "title": "Automatic tag recommendation for metadata annotation using probabilistic topic modeling", 
+      "url": "https://www.semanticscholar.org/paper/de1a630c35e963d4ea44abb0b682b3cee533d6c0"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "1eee3ad135973106923acead4a42391a21f99b0d", 
+      "title": "Content-Based Semantic Tag Ranking for Recommendation", 
+      "url": "https://www.semanticscholar.org/paper/1eee3ad135973106923acead4a42391a21f99b0d"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "d37297f9b5e17fcc851486af51c34afcebf685af", 
+      "title": "Mining Query Subtopics from Questions in Community Question Answering", 
+      "url": "https://www.semanticscholar.org/paper/d37297f9b5e17fcc851486af51c34afcebf685af"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "4c44e112d036afbea677b8ad741be5ca68c14c21", 
+      "title": "Discovering filter keywords for company name disambiguation in twitter", 
+      "url": "https://www.semanticscholar.org/paper/4c44e112d036afbea677b8ad741be5ca68c14c21"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "714732b758b14dcaa063b85364fb7b2b81f4032a", 
+      "title": "NE-Rank: A Novel Graph-Based Keyphrase Extraction in Twitter", 
+      "url": "https://www.semanticscholar.org/paper/714732b758b14dcaa063b85364fb7b2b81f4032a"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "dde8dcaf2566c021d309582a1b1c2577cfa54d00", 
+      "title": "E\u0301tat de l\u2019art des me\u0301thodes d\u2019extraction automatique de termes-cle\u0301s", 
+      "url": "https://www.semanticscholar.org/paper/dde8dcaf2566c021d309582a1b1c2577cfa54d00"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "c5c6b807c1625c9616120b16da8799565496070c", 
+      "title": "A Simple Word Trigger Method for Social Tag Suggestion", 
+      "url": "https://www.semanticscholar.org/paper/c5c6b807c1625c9616120b16da8799565496070c"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "163403b2c56b8c98a6e32ffd49e42d8ed64553b5", 
+      "title": "Keyword Extraction and Clustering for Document Recommendation in Conversations", 
+      "url": "https://www.semanticscholar.org/paper/163403b2c56b8c98a6e32ffd49e42d8ed64553b5"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "94233d452d6ee49838f7f49eaeeca49b78e2f6f8", 
+      "title": "Extracting representative phrases from Wikipedia article sections", 
+      "url": "https://www.semanticscholar.org/paper/94233d452d6ee49838f7f49eaeeca49b78e2f6f8"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "8cae298999093fc59b9fce776e1a9d0f0d8ef323", 
+      "title": "Automatic Keyphrase Extraction by Bridging Vocabulary Gap", 
+      "url": "https://www.semanticscholar.org/paper/8cae298999093fc59b9fce776e1a9d0f0d8ef323"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "4226c377254f08ff8cbe4574d0c0003f02cf829e", 
+      "title": "Centrality Measures for Non-Contextual Graph-Based Unsupervised Single Document Keyword Extraction", 
+      "url": "https://www.semanticscholar.org/paper/4226c377254f08ff8cbe4574d0c0003f02cf829e"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "8280ae7b7cd27874cf202d4ecfe669a7426e36ff", 
+      "title": "HG-Rank: A Hypergraph-based Keyphrase Extraction for Short Documents in Dynamic Genre", 
+      "url": "https://www.semanticscholar.org/paper/8280ae7b7cd27874cf202d4ecfe669a7426e36ff"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "bd3794c777af5ba363abae5708050ea78ecc97e2", 
+      "title": "Corpus-independent Generic Keyphrase Extraction Using Word Embedding Vectors", 
+      "url": "https://www.semanticscholar.org/paper/bd3794c777af5ba363abae5708050ea78ecc97e2"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "6170497ace034c2147636c1c7c916da859812712", 
+      "title": "Measuring Term Informativeness in Context", 
+      "url": "https://www.semanticscholar.org/paper/6170497ace034c2147636c1c7c916da859812712"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "4fd932b255d34cc21e5d581baa60778ecb24433a", 
+      "title": "Topic-sensitive probabilistic model for expert finding in question answer communities", 
+      "url": "https://www.semanticscholar.org/paper/4fd932b255d34cc21e5d581baa60778ecb24433a"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "388b61061397d2bc621976b259bf2d5f3f3f01a8", 
+      "title": "Short text keyphrase extraction with hypergraphs", 
+      "url": "https://www.semanticscholar.org/paper/388b61061397d2bc621976b259bf2d5f3f3f01a8"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "2d79e150c9f27456cd553d131cbb80684d68ebbb", 
+      "title": "Automatic keyphrase extraction: An overview of the state of the art", 
+      "url": "https://www.semanticscholar.org/paper/2d79e150c9f27456cd553d131cbb80684d68ebbb"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "a13996d04b6794e9682893b333c4d6780ec18d8b", 
+      "title": "Interest mining from user tweets", 
+      "url": "https://www.semanticscholar.org/paper/a13996d04b6794e9682893b333c4d6780ec18d8b"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "9f82d2f5b6222ee7a746691b95bac566ae35512e", 
+      "title": "TopicRank: Graph-Based Topic Ranking for Keyphrase Extraction", 
+      "url": "https://www.semanticscholar.org/paper/9f82d2f5b6222ee7a746691b95bac566ae35512e"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "398a0347f5cab2c89198c2f748fc209680a21b8a", 
+      "title": "Mining collective knowledge: inferring functional labels from online review for business", 
+      "url": "https://www.semanticscholar.org/paper/398a0347f5cab2c89198c2f748fc209680a21b8a"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "60cf2dfcb434698e77f9ece8c275d3e86b209e18", 
+      "title": "KPCatcher - a keyphrase extraction system for enterprise videos", 
+      "url": "https://www.semanticscholar.org/paper/60cf2dfcb434698e77f9ece8c275d3e86b209e18"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "d8e4a2719b52ffe336caeb8b628ff75b47f9f3ba", 
+      "title": "Content Selection in Multi-Document Summarization", 
+      "url": "https://www.semanticscholar.org/paper/d8e4a2719b52ffe336caeb8b628ff75b47f9f3ba"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "3480deb564a22e58826311d0cc5ee91d5750f571", 
+      "title": "Topical key concept extraction from folksonomy through graph-based ranking", 
+      "url": "https://www.semanticscholar.org/paper/3480deb564a22e58826311d0cc5ee91d5750f571"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "84921fac09043483552d4d4ee4237f7d70ae0ee4", 
+      "title": "An empirical study of topic-sensitive probabilistic model for expert finding in question answer communities", 
+      "url": "https://www.semanticscholar.org/paper/84921fac09043483552d4d4ee4237f7d70ae0ee4"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "29491f95e80e904c4bd4d7c6dd989ee37c6d515c", 
+      "title": "Keyword Extraction from Emails", 
+      "url": "https://www.semanticscholar.org/paper/29491f95e80e904c4bd4d7c6dd989ee37c6d515c"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "7727442910e6eae94d621bb7d00b8a9cb0077cf1", 
+      "title": "Two Phase Based Spammer Detection in Weibo", 
+      "url": "https://www.semanticscholar.org/paper/7727442910e6eae94d621bb7d00b8a9cb0077cf1"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "2085c6f67137a1c2556896ec705aab7fd2ba7ab1", 
+      "title": "A phrase mining framework for recursive construction of a topical hierarchy", 
+      "url": "https://www.semanticscholar.org/paper/2085c6f67137a1c2556896ec705aab7fd2ba7ab1"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "8f49ed760e06de1dee6ff128799b0b1e1fd5738a", 
+      "title": "Generic Multi-Document Summarization Using Topic-Oriented Information", 
+      "url": "https://www.semanticscholar.org/paper/8f49ed760e06de1dee6ff128799b0b1e1fd5738a"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "25c4e4d4d9f19b2361b1445a7c89323b943375cf", 
+      "title": "Opinion Marks: A Human-Based Computation Approach to Instill Structure into Unstructured Text on the Web", 
+      "url": "https://www.semanticscholar.org/paper/25c4e4d4d9f19b2361b1445a7c89323b943375cf"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "937cb331e1c0c09c5c7b3fed4df9d1436be44b71", 
+      "title": "Random Walks on Context-Aware Relation Graphs for Ranking Social Tags", 
+      "url": "https://www.semanticscholar.org/paper/937cb331e1c0c09c5c7b3fed4df9d1436be44b71"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "f6df3c7e8a9257e17cdfbc0c3f057f20c38624ee", 
+      "title": "Bridging the gap: effect of text query reformulation in multimodal retrieval", 
+      "url": "https://www.semanticscholar.org/paper/f6df3c7e8a9257e17cdfbc0c3f057f20c38624ee"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "a69a78d522b46244262f506bac32fde10810eec0", 
+      "title": "Extracting Keyphrases from Research Papers Using Citation Networks", 
+      "url": "https://www.semanticscholar.org/paper/a69a78d522b46244262f506bac32fde10810eec0"
+    }, 
+    {
+      "isInfluential": true, 
+      "paperId": "f2771157caf2085af8503f2a9d472a06eb61528a", 
+      "title": "Learning from Twitter Hashtags: Leveraging Proximate Tags to Enhance Graph-Based Keyphrase Extraction", 
+      "url": "https://www.semanticscholar.org/paper/f2771157caf2085af8503f2a9d472a06eb61528a"
+    }, 
+    {
+      "isInfluential": true, 
+      "paperId": "b1d64072cc4aa368aae70d5b658418cf585e8fb9", 
+      "title": "Latent keyphrase generation by combining contextually similar primitive words", 
+      "url": "https://www.semanticscholar.org/paper/b1d64072cc4aa368aae70d5b658418cf585e8fb9"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "f74a3dcb9566169916d6962f6c61056e9e676c31", 
+      "title": "TopicRank : ordonnancement de sujets pour l'extraction automatique de termes-cl\u00e9s", 
+      "url": "https://www.semanticscholar.org/paper/f74a3dcb9566169916d6962f6c61056e9e676c31"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "e457dd1c1a52cb900d386d9d9efbc279c4ff5904", 
+      "title": "Text Document Topical Recursive Clustering and Automatic Labeling of a Hierarchy of Document Clusters", 
+      "url": "https://www.semanticscholar.org/paper/e457dd1c1a52cb900d386d9d9efbc279c4ff5904"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "3f46e23b7aa63cfdbdbcaf2f14f5b96acf56ae58", 
+      "title": "Automatic Construction and Ranking of Topical Keyphrases on Collections of Short Documents", 
+      "url": "https://www.semanticscholar.org/paper/3f46e23b7aa63cfdbdbcaf2f14f5b96acf56ae58"
+    }
+  ], 
+  "doi": null, 
+  "influentialCitationCount": 4, 
+  "paperId": "c62af1db7e35076ec0388614f7e0e00b8da6e99e", 
+  "references": [
+    {
+      "isInfluential": false, 
+      "paperId": "266de78ed10439c448a125f6f783c1a97e608401", 
+      "title": "Introduction to WordNet: An On-line Lexical Database", 
+      "url": "https://www.semanticscholar.org/paper/266de78ed10439c448a125f6f783c1a97e608401"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "06fd7d924d499fbc62ccbcc2e458fb6c187bcf6f", 
+      "title": "Foundations of statistical natural language processing", 
+      "url": "https://www.semanticscholar.org/paper/06fd7d924d499fbc62ccbcc2e458fb6c187bcf6f"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "4b32adbd6cef05ec538a5dda064bf0f91f5222e3", 
+      "title": "Learning Algorithms for Keyphrase Extraction", 
+      "url": "https://www.semanticscholar.org/paper/4b32adbd6cef05ec538a5dda064bf0f91f5222e3"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "771ca13f78a6cfda9ed99004a386e9e7e187bd34", 
+      "title": "Improved Automatic Keyword Extraction Given More Linguistic Knowledge", 
+      "url": "https://www.semanticscholar.org/paper/771ca13f78a6cfda9ed99004a386e9e7e187bd34"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "2bf973df141a57270457187d0d2c070a0f43b55d", 
+      "title": "An Introduction to Latent Semantic Analysis", 
+      "url": "https://www.semanticscholar.org/paper/2bf973df141a57270457187d0d2c070a0f43b55d"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "29f5da58639c526f6b76d6d189d440ebeabe914f", 
+      "title": "Learning to Probabilistically Identify Authoritative Documents", 
+      "url": "https://www.semanticscholar.org/paper/29f5da58639c526f6b76d6d189d440ebeabe914f"
+    }, 
+    {
+      "isInfluential": true, 
+      "paperId": "748c10401065af70b94ddde9b362c214acdc46ab", 
+      "title": "Topical link analysis for web search", 
+      "url": "https://www.semanticscholar.org/paper/748c10401065af70b94ddde9b362c214acdc46ab"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "1cf65a8c9e9ac8bd1db487004185ad0e15b9b9dd", 
+      "title": "Keyphrase Extraction in Scientific Publications", 
+      "url": "https://www.semanticscholar.org/paper/1cf65a8c9e9ac8bd1db487004185ad0e15b9b9dd"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "8a99634e0b418ee61c9bd81f61d334b80486dc53", 
+      "title": "Single Document Keyphrase Extraction Using Neighborhood Knowledge", 
+      "url": "https://www.semanticscholar.org/paper/8a99634e0b418ee61c9bd81f61d334b80486dc53"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "8e50e430b645b52179b9197540faaaaab5e4c77f", 
+      "title": "Introduction to DUC-2002: an Intrinsic Evaluation of Generic News Text Summarization Systems", 
+      "url": "https://www.semanticscholar.org/paper/8e50e430b645b52179b9197540faaaaab5e4c77f"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "45c56dc268a04c5fc7ca04d7edb985caf2a25093", 
+      "title": "Parameter estimation for text analysis", 
+      "url": "https://www.semanticscholar.org/paper/45c56dc268a04c5fc7ca04d7edb985caf2a25093"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "6f915f50f273c8b561978761f9ea2179e8d25296", 
+      "title": "Learning to Extract Keyphrases from Text", 
+      "url": "https://www.semanticscholar.org/paper/6f915f50f273c8b561978761f9ea2179e8d25296"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "08badaad9669b69b16ce9437d0b2d52b5f33c8dd", 
+      "title": "Retrieval evaluation with incomplete information", 
+      "url": "https://www.semanticscholar.org/paper/08badaad9669b69b16ce9437d0b2d52b5f33c8dd"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "5f4c05ba08fac9cde40235ebd4eb9abc6ed2d712", 
+      "title": "Authoritative Sources in a Hyperlinked Environment", 
+      "url": "https://www.semanticscholar.org/paper/5f4c05ba08fac9cde40235ebd4eb9abc6ed2d712"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "4dbf651b6f779411bfe07bc19426eda78842e26b", 
+      "title": "Extracting key terms from noisy and multitheme documents", 
+      "url": "https://www.semanticscholar.org/paper/4dbf651b6f779411bfe07bc19426eda78842e26b"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "3baecc04e1341cbae7999e8f61a3946c76504828", 
+      "title": "Topic-sensitive PageRank", 
+      "url": "https://www.semanticscholar.org/paper/3baecc04e1341cbae7999e8f61a3946c76504828"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "1e56ed3d2c855f848ffd91baa90f661772a279e1", 
+      "title": "Latent Dirichlet Allocation", 
+      "url": "https://www.semanticscholar.org/paper/1e56ed3d2c855f848ffd91baa90f661772a279e1"
+    }, 
+    {
+      "isInfluential": true, 
+      "paperId": "0788fb1109b1db8c72776005c9c0af926a278017", 
+      "title": "The TREC-8 Question Answering Track Report", 
+      "url": "https://www.semanticscholar.org/paper/0788fb1109b1db8c72776005c9c0af926a278017"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "48b5041a24cbf3048c97e85c4fd7c0214da942b5", 
+      "title": "CollabRank: Towards a Collaborative Approach to Single-Document Keyphrase Extraction", 
+      "url": "https://www.semanticscholar.org/paper/48b5041a24cbf3048c97e85c4fd7c0214da942b5"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "f7fe3f870ef5e1a74600c8808c07732cd2e5142d", 
+      "title": "Graph-Based Keyword Extraction for Single-Document Summarization", 
+      "url": "https://www.semanticscholar.org/paper/f7fe3f870ef5e1a74600c8808c07732cd2e5142d"
+    }, 
+    {
+      "isInfluential": true, 
+      "paperId": "7b95d389bc6affe6a127d53b04bcfd68138f1a1a", 
+      "title": "TextRank: Bringing Order Into Texts", 
+      "url": "https://www.semanticscholar.org/paper/7b95d389bc6affe6a127d53b04bcfd68138f1a1a"
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "87d907a114409755ecd3c6886585de26a4e17ffe", 
+      "title": "Probabilistic Latent Semantic Indexing", 
+      "url": "https://www.semanticscholar.org/paper/87d907a114409755ecd3c6886585de26a4e17ffe"
+    }
+  ], 
+  "title": "Automatic Keyphrase Extraction via Topic Decomposition", 
+  "url": "https://www.semanticscholar.org/paper/c62af1db7e35076ec0388614f7e0e00b8da6e99e", 
+  "venue": "EMNLP"
+}

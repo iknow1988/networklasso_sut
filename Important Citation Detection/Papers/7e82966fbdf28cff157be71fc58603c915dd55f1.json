@@ -1,0 +1,530 @@
+{
+  "authors": [
+    {
+      "authorId": "2567583", 
+      "name": "Yangfeng Ji", 
+      "url": "https://www.semanticscholar.org/author/2567583"
+    }, 
+    {
+      "authorId": "1752524", 
+      "name": "Jacob Eisenstein", 
+      "url": "https://www.semanticscholar.org/author/1752524"
+    }
+  ], 
+  "citationVelocity": 0, 
+  "citations": [
+    {
+      "isInfluential": true, 
+      "paperId": "37007671b5cf61651e3dd69f92125960e119e457", 
+      "title": "Multi-view and multi-task training of RST discourse parsers", 
+      "url": "https://www.semanticscholar.org/paper/37007671b5cf61651e3dd69f92125960e119e457", 
+      "venue": "COLING", 
+      "year": 2016
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "5313880e50ec7d5c99ec306d359b28750e1e432c", 
+      "title": "A Latent Variable Recurrent Neural Network for Discourse-Driven Language Models", 
+      "url": "https://www.semanticscholar.org/paper/5313880e50ec7d5c99ec306d359b28750e1e432c", 
+      "venue": "HLT-NAACL", 
+      "year": 2016
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "2aba99f8a21940d974e23969920d2763d580d039", 
+      "title": "Comparing Word Representations for Implicit Discourse Relation Classification", 
+      "url": "https://www.semanticscholar.org/paper/2aba99f8a21940d974e23969920d2763d580d039", 
+      "venue": "EMNLP", 
+      "year": 2015
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "100012ff0d9256c11f9d3a3ffd3c144dd1328951", 
+      "title": "Learning Statistical Scripts with LSTM Recurrent Neural Networks", 
+      "url": "https://www.semanticscholar.org/paper/100012ff0d9256c11f9d3a3ffd3c144dd1328951", 
+      "venue": "AAAI", 
+      "year": 2016
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "7b0444472ddb492a220af31cc798629a404e749e", 
+      "title": "Extracting PDTB Discourse Relations from Student Essays", 
+      "url": "https://www.semanticscholar.org/paper/7b0444472ddb492a220af31cc798629a404e749e", 
+      "venue": "SIGDIAL Conference", 
+      "year": 2016
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "cbc53a1dd644c4cdee475f952ec5c33cc5014914", 
+      "title": "Shallow Discourse Parsing Using Distributed Argument Representations and Bayesian Optimization", 
+      "url": "https://www.semanticscholar.org/paper/cbc53a1dd644c4cdee475f952ec5c33cc5014914", 
+      "venue": "ArXiv", 
+      "year": 2016
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "53943302a98ac55ad975e48747a733a8ce6a2a46", 
+      "title": "Entity-Augmented Distributional Semantics for Discourse Relations", 
+      "url": "https://www.semanticscholar.org/paper/53943302a98ac55ad975e48747a733a8ce6a2a46", 
+      "venue": "ArXiv", 
+      "year": 2014
+    }
+  ], 
+  "doi": null, 
+  "influentialCitationCount": 1, 
+  "paperId": "7e82966fbdf28cff157be71fc58603c915dd55f1", 
+  "references": [
+    {
+      "isInfluential": false, 
+      "paperId": "c8523bba348d00b65c516518281a35837509d617", 
+      "title": "Learning Task-Dependent Distributed Representations by Backpropagation Through Structure", 
+      "url": "https://www.semanticscholar.org/paper/c8523bba348d00b65c516518281a35837509d617", 
+      "venue": "", 
+      "year": 1996
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "1f822db8938885d46eeb8c801079a434d557114b", 
+      "title": "D-LTAG: extending lexicalized TAG to discourse", 
+      "url": "https://www.semanticscholar.org/paper/1f822db8938885d46eeb8c801079a434d557114b", 
+      "venue": "Cognitive Science", 
+      "year": 2004
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "5d283be25f9883425e78a1a5062cdba556c7a3d6", 
+      "title": "A Comparison of Vector-based Representations for Semantic Composition", 
+      "url": "https://www.semanticscholar.org/paper/5d283be25f9883425e78a1a5062cdba556c7a3d6", 
+      "venue": "EMNLP-CoNLL", 
+      "year": 2012
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "41730f27072d072b3d22770b7b72b450ac522fa3", 
+      "title": "Using entity features to classify implicit discourse relations", 
+      "url": "https://www.semanticscholar.org/paper/41730f27072d072b3d22770b7b72b450ac522fa3", 
+      "venue": "SIGDIAL Conference", 
+      "year": 2010
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "29feb797717363bc92d7e70bab64c2962a9f3e9e", 
+      "title": "Unsupervised Semantic Parsing", 
+      "url": "https://www.semanticscholar.org/paper/29feb797717363bc92d7e70bab64c2962a9f3e9e", 
+      "venue": "EMNLP", 
+      "year": 2009
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "0784a5dbb45fcbfb61c07b611b2ec83ddf67314f", 
+      "title": "OntoNotes: A Unified Relational Semantic Representation", 
+      "url": "https://www.semanticscholar.org/paper/0784a5dbb45fcbfb61c07b611b2ec83ddf67314f", 
+      "venue": "International Conference on Semantic Computing (ICSC 2007)", 
+      "year": 2007
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "0825788b9b5a18e3dfea5b0af123b5e939a4f564", 
+      "title": "Glove: Global Vectors for Word Representation", 
+      "url": "https://www.semanticscholar.org/paper/0825788b9b5a18e3dfea5b0af123b5e939a4f564", 
+      "venue": "EMNLP", 
+      "year": 2014
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "04c28474e1e359f33bb77bce7daed13648e06864", 
+      "title": "Latent Semantic Analysis For Text Segmentation", 
+      "url": "https://www.semanticscholar.org/paper/04c28474e1e359f33bb77bce7daed13648e06864", 
+      "venue": "", 
+      "year": 2001
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "8bd26c91b1f9dc7c1857b876ee2400bfb9d52fb9", 
+      "title": "Tensor Product Variable Binding and the Representation of Symbolic Structures in Connectionist Systems", 
+      "url": "https://www.semanticscholar.org/paper/8bd26c91b1f9dc7c1857b876ee2400bfb9d52fb9", 
+      "venue": "Artif. Intell.", 
+      "year": 1990
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "b1a20cb78974059deeeff333c3a553cc4c06a248", 
+      "title": "Centering: A Framework for Modeling the Local Coherence of Discourse", 
+      "url": "https://www.semanticscholar.org/paper/b1a20cb78974059deeeff333c3a553cc4c06a248", 
+      "venue": "", 
+      "year": 2002
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "2538e3eb24d26f31482c479d95d2e26c0e79b990", 
+      "title": "Natural Language Processing (almost) from Scratch", 
+      "url": "https://www.semanticscholar.org/paper/2538e3eb24d26f31482c479d95d2e26c0e79b990", 
+      "venue": "Journal of Machine Learning Research", 
+      "year": 2011
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "5f2a8149e25b0cf1d854fc8d6ea1514af29f6c18", 
+      "title": "A PDTB-Styled End-to-End Discourse Parser", 
+      "url": "https://www.semanticscholar.org/paper/5f2a8149e25b0cf1d854fc8d6ea1514af29f6c18", 
+      "venue": "Natural Language Engineering", 
+      "year": 2014
+    }, 
+    {
+      "isInfluential": true, 
+      "paperId": "03841011727287397b38327fdfb2b52b646f4ad2", 
+      "title": "Aggregated Word Pair Features for Implicit Discourse Relation Disambiguation", 
+      "url": "https://www.semanticscholar.org/paper/03841011727287397b38327fdfb2b52b646f4ad2", 
+      "venue": "ACL", 
+      "year": 2013
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "1f3818e655c580d394a1cb7553cb0d9765873c91", 
+      "title": "Representation Learning for Text-level Discourse Parsing", 
+      "url": "https://www.semanticscholar.org/paper/1f3818e655c580d394a1cb7553cb0d9765873c91", 
+      "venue": "ACL", 
+      "year": 2014
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "425e6976d542ca01338fafa421b9e0f56dc2a434", 
+      "title": "Predicting Discourse Connectives for Implicit Discourse Relation Recognition", 
+      "url": "https://www.semanticscholar.org/paper/425e6976d542ca01338fafa421b9e0f56dc2a434", 
+      "venue": "COLING", 
+      "year": 2010
+    }, 
+    {
+      "isInfluential": true, 
+      "paperId": "ba18247cd3ce9f711eecc7296f1c3561dbfb6cc2", 
+      "title": "Learning long-term dependencies with gradient descent is difficult", 
+      "url": "https://www.semanticscholar.org/paper/ba18247cd3ce9f711eecc7296f1c3561dbfb6cc2", 
+      "venue": "IEEE Trans. Neural Networks", 
+      "year": 1994
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "46990073425b2f9ae2a876efccd4c8d4f1880464", 
+      "title": "Automatically Evaluating Text Coherence Using Discourse Relations", 
+      "url": "https://www.semanticscholar.org/paper/46990073425b2f9ae2a876efccd4c8d4f1880464", 
+      "venue": "ACL", 
+      "year": 2011
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "3eb343d0b8160fb406da59855118a49c53e1136e", 
+      "title": "Dependency-based Discourse Parser for Single-Document Summarization", 
+      "url": "https://www.semanticscholar.org/paper/3eb343d0b8160fb406da59855118a49c53e1136e", 
+      "venue": "EMNLP", 
+      "year": 2014
+    }, 
+    {
+      "isInfluential": true, 
+      "paperId": "8b3d999ce0e79992e92216b1e0e7e5c54e86272c", 
+      "title": "Recognizing Implicit Discourse Relations in the Penn Discourse Treebank", 
+      "url": "https://www.semanticscholar.org/paper/8b3d999ce0e79992e92216b1e0e7e5c54e86272c", 
+      "venue": "EMNLP", 
+      "year": 2009
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "17ed9ff7ced14bfc336a4784c1bf9771812d1721", 
+      "title": "Modeling Local Coherence: An Entity-Based Approach", 
+      "url": "https://www.semanticscholar.org/paper/17ed9ff7ced14bfc336a4784c1bf9771812d1721", 
+      "venue": "ACL", 
+      "year": 2005
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "0c177eb0333133983e5b080fda8bdeb1aa7b741a", 
+      "title": "A Decision-Based Approach to Rhetorical Parsing", 
+      "url": "https://www.semanticscholar.org/paper/0c177eb0333133983e5b080fda8bdeb1aa7b741a", 
+      "venue": "ACL", 
+      "year": 1999
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "1374617e135eaa772e52c9a2e8253f49483676d6", 
+      "title": "Corpus-based and Knowledge-based Measures of Text Semantic Similarity", 
+      "url": "https://www.semanticscholar.org/paper/1374617e135eaa772e52c9a2e8253f49483676d6", 
+      "venue": "AAAI", 
+      "year": 2006
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "2bf973df141a57270457187d0d2c070a0f43b55d", 
+      "title": "An Introduction to Latent Semantic Analysis", 
+      "url": "https://www.semanticscholar.org/paper/2bf973df141a57270457187d0d2c070a0f43b55d", 
+      "venue": "", 
+      "year": 1998
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "235317b7ce64b4b3aefe57c1304e8157a4832d2c", 
+      "title": "Don't count, predict! A systematic comparison of context-counting vs. context-predicting semantic vectors", 
+      "url": "https://www.semanticscholar.org/paper/235317b7ce64b4b3aefe57c1304e8157a4832d2c", 
+      "venue": "ACL", 
+      "year": 2014
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "10eb7bfa7687f498268bdf74b2f60020a151bdc6", 
+      "title": "Visualizing Data using t-SNE", 
+      "url": "https://www.semanticscholar.org/paper/10eb7bfa7687f498268bdf74b2f60020a151bdc6", 
+      "venue": "", 
+      "year": 2008
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "43f2a2220b1494ca230e2fad11e088640411837e", 
+      "title": "A data-driven methodology for motivating a set of coherence relations", 
+      "url": "https://www.semanticscholar.org/paper/43f2a2220b1494ca230e2fad11e088640411837e", 
+      "venue": "", 
+      "year": 1996
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "0ef72b3da716e0515a5612223976071519b88239", 
+      "title": "Spectral learning of latent-variable PCFGs: algorithms and sample complexity", 
+      "url": "https://www.semanticscholar.org/paper/0ef72b3da716e0515a5612223976071519b88239", 
+      "venue": "Journal of Machine Learning Research", 
+      "year": 2014
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "3f730235e0f4eaf90cf40e4d8974fd4c85642828", 
+      "title": "Mathematical Foundations for a Compositional Distributional Model of Meaning", 
+      "url": "https://www.semanticscholar.org/paper/3f730235e0f4eaf90cf40e4d8974fd4c85642828", 
+      "venue": "ArXiv", 
+      "year": 2010
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "3054726d298d3c5f7b95b224e4e5b17d88068c3f", 
+      "title": "Easy Victories and Uphill Battles in Coreference Resolution", 
+      "url": "https://www.semanticscholar.org/paper/3054726d298d3c5f7b95b224e4e5b17d88068c3f", 
+      "venue": "EMNLP", 
+      "year": 2013
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "3a0e788268fafb23ab20da0e98bb578b06830f7d", 
+      "title": "From Frequency to Meaning: Vector Space Models of Semantics", 
+      "url": "https://www.semanticscholar.org/paper/3a0e788268fafb23ab20da0e98bb578b06830f7d", 
+      "venue": "J. Artif. Intell. Res.", 
+      "year": 2010
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "65ad0e876216ea034b7958f016456e32666bc5c6", 
+      "title": "Recursive Deep Models for Semantic Compositionality Over a Sentiment Treebank", 
+      "url": "https://www.semanticscholar.org/paper/65ad0e876216ea034b7958f016456e32666bc5c6", 
+      "venue": "", 
+      "year": 2013
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "dd08c352d469a10eebb5a7eacc37a70ffd6b77d3", 
+      "title": "Reducing Sparsity Improves the Recognition of Implicit Discourse Relations", 
+      "url": "https://www.semanticscholar.org/paper/dd08c352d469a10eebb5a7eacc37a70ffd6b77d3", 
+      "venue": "SIGDIAL Conference", 
+      "year": 2014
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "05aba481e8a221df5d8775a3bb749001e7f2525e", 
+      "title": "Adaptive Subgradient Methods for Online Learning and Stochastic Optimization", 
+      "url": "https://www.semanticscholar.org/paper/05aba481e8a221df5d8775a3bb749001e7f2525e", 
+      "venue": "COLT", 
+      "year": 2010
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "41bfc1cbd32d897b02271dd6aa7895d1ce2c6003", 
+      "title": "Recursive Deep Models for Discourse Parsing", 
+      "url": "https://www.semanticscholar.org/paper/41bfc1cbd32d897b02271dd6aa7895d1ce2c6003", 
+      "venue": "EMNLP", 
+      "year": 2014
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "3a89b351ed688aa8463222eee524bdc4f48f086c", 
+      "title": "A Bayesian Model for Unsupervised Semantic Parsing", 
+      "url": "https://www.semanticscholar.org/paper/3a89b351ed688aa8463222eee524bdc4f48f086c", 
+      "venue": "ACL", 
+      "year": 2011
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "28d6c0111ab3d1020aee3eb80fe67698a904012c", 
+      "title": "Easily Identifiable Discourse Relations", 
+      "url": "https://www.semanticscholar.org/paper/28d6c0111ab3d1020aee3eb80fe67698a904012c", 
+      "venue": "COLING", 
+      "year": 2008
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "50d53cc562225549457cbc782546bfbe1ac6f0cf", 
+      "title": "Reasoning With Neural Tensor Networks for Knowledge Base Completion", 
+      "url": "https://www.semanticscholar.org/paper/50d53cc562225549457cbc782546bfbe1ac6f0cf", 
+      "venue": "NIPS", 
+      "year": 2013
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "0a665a30495765c620950339fd3527c0166c7bc7", 
+      "title": "Discourse Relations: A Structural and Presuppositional Account Using Lexicalised TAG", 
+      "url": "https://www.semanticscholar.org/paper/0a665a30495765c620950339fd3527c0166c7bc7", 
+      "venue": "ACL", 
+      "year": 1999
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "2f36c1e3669889f2a49f072f6e71e5d38a3ca1e0", 
+      "title": "Towards a Formal Distributional Semantics: Simulating Logical Calculi with Tensors", 
+      "url": "https://www.semanticscholar.org/paper/2f36c1e3669889f2a49f072f6e71e5d38a3ca1e0", 
+      "venue": "*SEM@NAACL-HLT", 
+      "year": 2013
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "1a8014f36d8c1d82816a5489dd401cc82a8ac098", 
+      "title": "Supervised and Unsupervised Methods in Employing Discourse Relations for Improving Opinion Polarity Classification", 
+      "url": "https://www.semanticscholar.org/paper/1a8014f36d8c1d82816a5489dd401cc82a8ac098", 
+      "venue": "EMNLP", 
+      "year": 2009
+    }, 
+    {
+      "isInfluential": true, 
+      "paperId": "0e356cf1c47981200f037ddc07b573ac0b70c2f8", 
+      "title": "Automatic sense prediction for implicit discourse relations in text", 
+      "url": "https://www.semanticscholar.org/paper/0e356cf1c47981200f037ddc07b573ac0b70c2f8", 
+      "venue": "ACL/IJCNLP", 
+      "year": 2009
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "55b81991fbb025038d98e8c71acf7dc2b78ee5e9", 
+      "title": "Practical recommendations for gradient-based training of deep architectures", 
+      "url": "https://www.semanticscholar.org/paper/55b81991fbb025038d98e8c71acf7dc2b78ee5e9", 
+      "venue": "Neural Networks: Tricks of the Trade", 
+      "year": 2012
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "8d36c169bc2475e88c72ba9613e7b93b7752fffd", 
+      "title": "Discourse indicators for content selection in summarization", 
+      "url": "https://www.semanticscholar.org/paper/8d36c169bc2475e88c72ba9613e7b93b7752fffd", 
+      "venue": "SIGDIAL Conference", 
+      "year": 2010
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "b8b51574159190d5b8fc0e5dbc43a1cb5075bd41", 
+      "title": "Discourse Structures for Text Generation", 
+      "url": "https://www.semanticscholar.org/paper/b8b51574159190d5b8fc0e5dbc43a1cb5075bd41", 
+      "venue": "COLING", 
+      "year": 1984
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "18b534c7207a1376fa92e87fe0d2cfb358d98c51", 
+      "title": "Accurate Unlexicalized Parsing", 
+      "url": "https://www.semanticscholar.org/paper/18b534c7207a1376fa92e87fe0d2cfb358d98c51", 
+      "venue": "ACL", 
+      "year": 2003
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "0826c98d1b1513aa2f45e6654bb5075a58b64649", 
+      "title": "Linguistic Regularities in Continuous Space Word Representations", 
+      "url": "https://www.semanticscholar.org/paper/0826c98d1b1513aa2f45e6654bb5075a58b64649", 
+      "venue": "HLT-NAACL", 
+      "year": 2013
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "8a9a0cecebfdfa287330fcc583d5c7ccd79ca034", 
+      "title": "Beyond String Matching and Cue Phrases: Improving Efficiency and Coverage in Discourse Analysis", 
+      "url": "https://www.semanticscholar.org/paper/8a9a0cecebfdfa287330fcc583d5c7ccd79ca034", 
+      "venue": "", 
+      "year": 1998
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "13eba30632154428725983fcd8343f3f1b3f0695", 
+      "title": "A Fast and Accurate Dependency Parser using Neural Networks", 
+      "url": "https://www.semanticscholar.org/paper/13eba30632154428725983fcd8343f3f1b3f0695", 
+      "venue": "EMNLP", 
+      "year": 2014
+    }, 
+    {
+      "isInfluential": true, 
+      "paperId": "0c23ebb3abf584fa5e0fde558584befc94fb5ea2", 
+      "title": "Parsing Natural Scenes and Natural Language with Recursive Neural Networks", 
+      "url": "https://www.semanticscholar.org/paper/0c23ebb3abf584fa5e0fde558584befc94fb5ea2", 
+      "venue": "ICML", 
+      "year": 2011
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "19fa660aad4d774f205072f843e5f5349ee323c4", 
+      "title": "Combined Distributional and Logical Semantics", 
+      "url": "https://www.semanticscholar.org/paper/19fa660aad4d774f205072f843e5f5349ee323c4", 
+      "venue": "TACL", 
+      "year": 2013
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "17070cd95221fe067b8b9038ad340d4babbbec69", 
+      "title": "Paraphrasing for Automatic Evaluation", 
+      "url": "https://www.semanticscholar.org/paper/17070cd95221fe067b8b9038ad340d4babbbec69", 
+      "venue": "HLT-NAACL", 
+      "year": 2006
+    }, 
+    {
+      "isInfluential": true, 
+      "paperId": "5643b2bf3b8d8a6d7ebf231becb9123b5b4a9287", 
+      "title": "On the difficulty of training Recurrent Neural Networks", 
+      "url": "https://www.semanticscholar.org/paper/5643b2bf3b8d8a6d7ebf231becb9123b5b4a9287", 
+      "venue": "", 
+      "year": 2013
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "1b179d6890c3055cea12bc65337dcebc3167d436", 
+      "title": "Neural Probabilistic Language Model for System Combination", 
+      "url": "https://www.semanticscholar.org/paper/1b179d6890c3055cea12bc65337dcebc3167d436", 
+      "venue": "", 
+      "year": 2012
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "00324f769a803121b5f8efa38195c6ca12105f27", 
+      "title": "Veins Theory: A Model of Global Discourse Cohesion and Coherence", 
+      "url": "https://www.semanticscholar.org/paper/00324f769a803121b5f8efa38195c6ca12105f27", 
+      "venue": "COLING-ACL", 
+      "year": 1998
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "d84b9507ff9687a900fde451f27106d930c1b838", 
+      "title": "Learning Accurate, Compact, and Interpretable Tree Annotation", 
+      "url": "https://www.semanticscholar.org/paper/d84b9507ff9687a900fde451f27106d930c1b838", 
+      "venue": "ACL", 
+      "year": 2006
+    }, 
+    {
+      "isInfluential": true, 
+      "paperId": "051c02be54d3109143f6166f009751505c2164ce", 
+      "title": "Improving Implicit Discourse Relation Recognition Through Feature Set Optimization", 
+      "url": "https://www.semanticscholar.org/paper/051c02be54d3109143f6166f009751505c2164ce", 
+      "venue": "SIGDIAL Conference", 
+      "year": 2012
+    }
+  ], 
+  "title": "One Vector is Not Enough: Entity-Augmented Distributional Semantics for Discourse Relations", 
+  "url": "https://www.semanticscholar.org/paper/7e82966fbdf28cff157be71fc58603c915dd55f1", 
+  "venue": "ArXiv", 
+  "year": 2014
+}

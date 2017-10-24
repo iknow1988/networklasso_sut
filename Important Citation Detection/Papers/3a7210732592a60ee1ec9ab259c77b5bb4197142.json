@@ -1,0 +1,825 @@
+{
+  "authors": [
+    {
+      "authorId": "1727527", 
+      "name": "Johannes Hoffart", 
+      "url": "https://www.semanticscholar.org/author/1727527"
+    }, 
+    {
+      "authorId": "1792476", 
+      "name": "Stephan Seufert", 
+      "url": "https://www.semanticscholar.org/author/1792476"
+    }, 
+    {
+      "authorId": "21569547", 
+      "name": "Dat Ba Nguyen", 
+      "url": "https://www.semanticscholar.org/author/21569547"
+    }, 
+    {
+      "authorId": "1807431", 
+      "name": "Martin Theobald", 
+      "url": "https://www.semanticscholar.org/author/1807431"
+    }, 
+    {
+      "authorId": "1751591", 
+      "name": "Gerhard Weikum", 
+      "url": "https://www.semanticscholar.org/author/1751591"
+    }
+  ], 
+  "citationVelocity": 25, 
+  "citations": [
+    {
+      "isInfluential": false, 
+      "paperId": "1896b3f4a6aeb327ca2dc9fbea53f0a1b130cbe9", 
+      "title": "Joint Learning of the Embedding of Words and Entities for Named Entity Disambiguation", 
+      "url": "https://www.semanticscholar.org/paper/1896b3f4a6aeb327ca2dc9fbea53f0a1b130cbe9", 
+      "venue": "CoNLL", 
+      "year": 2016
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "96c697be387566a0637941fc7492fcfc25ad56bb", 
+      "title": "Learning relatedness measures for entity linking", 
+      "url": "https://www.semanticscholar.org/paper/96c697be387566a0637941fc7492fcfc25ad56bb", 
+      "venue": "CIKM", 
+      "year": 2013
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "b5ff3fe5ff72cce3c15ed06f40cb826e72e2764c", 
+      "title": "Efficient Entity Disambiguation via Similarity Hashing", 
+      "url": "https://www.semanticscholar.org/paper/b5ff3fe5ff72cce3c15ed06f40cb826e72e2764c", 
+      "venue": "", 
+      "year": 2012
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "34025d63b6832f87b6622d5c877abf9590b0ce51", 
+      "title": "AIDArabic+ Named Entity Disambiguation for Arabic Text", 
+      "url": "https://www.semanticscholar.org/paper/34025d63b6832f87b6622d5c877abf9590b0ce51", 
+      "venue": "", 
+      "year": 2015
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "479a845d4cad6a300b45c938f8781b4c29341462", 
+      "title": "Generating a Large-Scale Entity Linking Dictionary from Wikipedia Link Structure and Article Text", 
+      "url": "https://www.semanticscholar.org/paper/479a845d4cad6a300b45c938f8781b4c29341462", 
+      "venue": "LREC", 
+      "year": 2016
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "9190c224ebd3423d130aae904d123283f0761830", 
+      "title": "EDRAK: Entity-Centric Data Resource for Arabic Knowledge", 
+      "url": "https://www.semanticscholar.org/paper/9190c224ebd3423d130aae904d123283f0761830", 
+      "venue": "", 
+      "year": 2015
+    }, 
+    {
+      "isInfluential": true, 
+      "paperId": "2e9cb0f6bb7999f84da2e25a72ab572818f9f76f", 
+      "title": "Non-Orthogonal Explicit Semantic Analysis", 
+      "url": "https://www.semanticscholar.org/paper/2e9cb0f6bb7999f84da2e25a72ab572818f9f76f", 
+      "venue": "*SEM@NAACL-HLT", 
+      "year": 2015
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "81f8706abcecfc748f2e27d6f7a92628036d6846", 
+      "title": "Entity Linking with a Knowledge Base: Issues, Techniques, and Solutions", 
+      "url": "https://www.semanticscholar.org/paper/81f8706abcecfc748f2e27d6f7a92628036d6846", 
+      "venue": "IEEE Transactions on Knowledge and Data Engineering", 
+      "year": 2015
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "249e73a10351b9e9d2150762a287df0698d4f830", 
+      "title": "Methods for exploring and mining tables on Wikipedia", 
+      "url": "https://www.semanticscholar.org/paper/249e73a10351b9e9d2150762a287df0698d4f830", 
+      "venue": "IDEA@KDD", 
+      "year": 2013
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "49f37d7cd0483399337beb42afe83047f74db175", 
+      "title": "Location Prediction of Twitter Users using Wikipedia", 
+      "url": "https://www.semanticscholar.org/paper/49f37d7cd0483399337beb42afe83047f74db175", 
+      "venue": "", 
+      "year": 2014
+    }, 
+    {
+      "isInfluential": true, 
+      "paperId": "275a3a8bc8e2f5d87b527b0edeaf97cbdb382fd2", 
+      "title": "BEL: Bagging for Entity Linking", 
+      "url": "https://www.semanticscholar.org/paper/275a3a8bc8e2f5d87b527b0edeaf97cbdb382fd2", 
+      "venue": "COLING", 
+      "year": 2014
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "0b9dea9414a3acbd5d00e00541f917f96be68e19", 
+      "title": "GERBIL: General Entity Annotator Benchmarking Framework", 
+      "url": "https://www.semanticscholar.org/paper/0b9dea9414a3acbd5d00e00541f917f96be68e19", 
+      "venue": "WWW", 
+      "year": 2015
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "028cfcf4b81e5623fe729782c272ed56f732077a", 
+      "title": "Entity Disambiguation with Linkless Knowledge Bases", 
+      "url": "https://www.semanticscholar.org/paper/028cfcf4b81e5623fe729782c272ed56f732077a", 
+      "venue": "WWW", 
+      "year": 2016
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "d37f14d5627611380905ed865845ba801d2529df", 
+      "title": "Don't compare Apples to Oranges: Extending GERBIL for a fine grained NEL evaluation", 
+      "url": "https://www.semanticscholar.org/paper/d37f14d5627611380905ed865845ba801d2529df", 
+      "venue": "SEMANTICS", 
+      "year": 2016
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "2679dbc4682b434ab5071f2c68b76a06954b96c0", 
+      "title": "Robust Named Entity Recognition in Idiosyncratic Domains", 
+      "url": "https://www.semanticscholar.org/paper/2679dbc4682b434ab5071f2c68b76a06954b96c0", 
+      "venue": "ArXiv", 
+      "year": 2016
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "93be8c315e7f0526304f8f647bab6ac162dfe91c", 
+      "title": "Knowledge harvesting from text and Web sources", 
+      "url": "https://www.semanticscholar.org/paper/93be8c315e7f0526304f8f647bab6ac162dfe91c", 
+      "venue": "2013 IEEE 29th International Conference on Data Engineering (ICDE)", 
+      "year": 2013
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "da767a5148552258ae56d25d648e80f2313e081b", 
+      "title": "Top-N Books Recommendation using Wikipedia", 
+      "url": "https://www.semanticscholar.org/paper/da767a5148552258ae56d25d648e80f2313e081b", 
+      "venue": "International Semantic Web Conference", 
+      "year": 2015
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "fc23e676756b8ab0508295eddb28862eccf2d96c", 
+      "title": "Entity Relatedness for Retrospective Analyses of Global Events", 
+      "url": "https://www.semanticscholar.org/paper/fc23e676756b8ab0508295eddb28862eccf2d96c", 
+      "venue": "", 
+      "year": 2016
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "408b97932d833dce6b464c235b12096c8d47f88e", 
+      "title": "STICS: searching with strings, things, and cats", 
+      "url": "https://www.semanticscholar.org/paper/408b97932d833dce6b464c235b12096c8d47f88e", 
+      "venue": "SIGIR", 
+      "year": 2014
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "640e474c3503de4bc62a567e1f55652ee9c687d3", 
+      "title": "Balancing Novelty and Salience: Adaptive Learning to Rank Entities for Timeline Summarization of High-impact Events", 
+      "url": "https://www.semanticscholar.org/paper/640e474c3503de4bc62a567e1f55652ee9c687d3", 
+      "venue": "CIKM", 
+      "year": 2015
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "33ac4525ac4047778950f27aeaac11db97f5fc04", 
+      "title": "Knowledge harvesting in the big-data era", 
+      "url": "https://www.semanticscholar.org/paper/33ac4525ac4047778950f27aeaac11db97f5fc04", 
+      "venue": "SIGMOD Conference", 
+      "year": 2013
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "6f982d4cf0090683370601f83f6b25fa1686ffd5", 
+      "title": "Ranking Entities in a Large Semantic Network", 
+      "url": "https://www.semanticscholar.org/paper/6f982d4cf0090683370601f83f6b25fa1686ffd5", 
+      "venue": "ESWC", 
+      "year": 2014
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "343e56e9891c3ff5acecceae5a860cc9efcf98f6", 
+      "title": "Evaluating the word-expert approach for Named-Entity Disambiguation", 
+      "url": "https://www.semanticscholar.org/paper/343e56e9891c3ff5acecceae5a860cc9efcf98f6", 
+      "venue": "ArXiv", 
+      "year": 2016
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "251689f34abf7c02b90754809a960c1e3130d71a", 
+      "title": "Leveraging Knowledge Bases for Contextual Entity Exploration", 
+      "url": "https://www.semanticscholar.org/paper/251689f34abf7c02b90754809a960c1e3130d71a", 
+      "venue": "KDD", 
+      "year": 2015
+    }, 
+    {
+      "isInfluential": true, 
+      "paperId": "27495dddc78e834b890f0a50e1936c82d0de83d7", 
+      "title": "Combining Mention Context and Hyperlinks from Wikipedia for Named Entity Disambiguation", 
+      "url": "https://www.semanticscholar.org/paper/27495dddc78e834b890f0a50e1936c82d0de83d7", 
+      "venue": "*SEM@NAACL-HLT", 
+      "year": 2015
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "0019c072a19c6296e3ed90056fb8caa79b10ab02", 
+      "title": "Embedding Words and Senses Together via Joint Knowledge-Enhanced Training", 
+      "url": "https://www.semanticscholar.org/paper/0019c072a19c6296e3ed90056fb8caa79b10ab02", 
+      "venue": "CoNLL", 
+      "year": 2017
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "62a0d99b446b9ccf35d5b4d0822f696c7d37626e", 
+      "title": "Multilingual Word Sense Disambiguation and Entity Linking", 
+      "url": "https://www.semanticscholar.org/paper/62a0d99b446b9ccf35d5b4d0822f696c7d37626e", 
+      "venue": "COLING", 
+      "year": 2014
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "87e3c7e94afda108a049c157d93c72fbe920c35b", 
+      "title": "Multi-Objective Optimization for the Joint Disambiguation of Nouns and Named Entities", 
+      "url": "https://www.semanticscholar.org/paper/87e3c7e94afda108a049c157d93c72fbe920c35b", 
+      "venue": "ACL", 
+      "year": 2015
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "67959b3d3d4c28d94dadd74c3a1740f7b33fefd6", 
+      "title": "J-NERD: Joint Named Entity Recognition and Disambiguation with Rich Linguistic Features", 
+      "url": "https://www.semanticscholar.org/paper/67959b3d3d4c28d94dadd74c3a1740f7b33fefd6", 
+      "venue": "TACL", 
+      "year": 2016
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "1844cb8b89df24dd08b582b374355ccd43358220", 
+      "title": "Knowledge-based graph document modeling", 
+      "url": "https://www.semanticscholar.org/paper/1844cb8b89df24dd08b582b374355ccd43358220", 
+      "venue": "WSDM", 
+      "year": 2014
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "95a14dea04ebababa91fb5ec145073c280ef8efa", 
+      "title": "Efficient Computation of Relationship-Centrality in Large Entity-Relationship Graphs", 
+      "url": "https://www.semanticscholar.org/paper/95a14dea04ebababa91fb5ec145073c280ef8efa", 
+      "venue": "International Semantic Web Conference", 
+      "year": 2013
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "ae44aa56da6a05f1a4fed153afde088f043f924d", 
+      "title": "ESPRESSO: Explaining Relationships between Entity Sets", 
+      "url": "https://www.semanticscholar.org/paper/ae44aa56da6a05f1a4fed153afde088f043f924d", 
+      "venue": "CIKM", 
+      "year": 2016
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "7350931d2b14487581ffa7eb0828303ff33920f4", 
+      "title": "Can Predicate Lexicalizations Help in Named Entity Disambiguation? Position Paper", 
+      "url": "https://www.semanticscholar.org/paper/7350931d2b14487581ffa7eb0828303ff33920f4", 
+      "venue": "", 
+      "year": 2015
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "24a7bdd289a8ce11b7d1f9c3d21a936a8c35ee27", 
+      "title": "AIDA-light: High-Throughput Named-Entity Disambiguation", 
+      "url": "https://www.semanticscholar.org/paper/24a7bdd289a8ce11b7d1f9c3d21a936a8c35ee27", 
+      "venue": "LDOW", 
+      "year": 2014
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "f2c7cde866daaebf7f777762879d556f7e3e6859", 
+      "title": "Instant Espresso: Interactive Analysis of Relationships in Knowledge Graphs", 
+      "url": "https://www.semanticscholar.org/paper/f2c7cde866daaebf7f777762879d556f7e3e6859", 
+      "venue": "WWW", 
+      "year": 2016
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "b19d16c7d0dd9da5aedd364d4f092c0438e930e2", 
+      "title": "Advancing NLP via a distributed-messaging approach", 
+      "url": "https://www.semanticscholar.org/paper/b19d16c7d0dd9da5aedd364d4f092c0438e930e2", 
+      "venue": "2016 IEEE International Conference on Big Data (Big Data)", 
+      "year": 2016
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "adffb2d050b9cf9a3e5d0663d8542c8dd816980f", 
+      "title": "Discovering and disambiguating named entities in text", 
+      "url": "https://www.semanticscholar.org/paper/adffb2d050b9cf9a3e5d0663d8542c8dd816980f", 
+      "venue": "SIGMOD/PODS Ph.D. Symposium", 
+      "year": 2013
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "68772b33a79b0d32e09406a55a7f861306128d70", 
+      "title": "Named Entity Disambiguation Leveraging Multi-aspect Information", 
+      "url": "https://www.semanticscholar.org/paper/68772b33a79b0d32e09406a55a7f861306128d70", 
+      "venue": "2015 IEEE International Conference on Data Mining Workshop (ICDMW)", 
+      "year": 2015
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "fbe3ba628fa8435bf1ad4ed153c93109624b8dff", 
+      "title": "Understanding the Message of Images with Knowledge Base Traversals", 
+      "url": "https://www.semanticscholar.org/paper/fbe3ba628fa8435bf1ad4ed153c93109624b8dff", 
+      "venue": "ICTIR", 
+      "year": 2016
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "c44b9cee7d378fb73c880153fa1c18bbe929f240", 
+      "title": "Statistical Analyses of Named Entity Disambiguation Benchmarks", 
+      "url": "https://www.semanticscholar.org/paper/c44b9cee7d378fb73c880153fa1c18bbe929f240", 
+      "venue": "NLP-DBPEDIA@ISWC", 
+      "year": 2013
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "a18b645826bf227cc32283600f2cb93e7dac116d", 
+      "title": "Occurrence Statistics of Entities, Relations and Types on the Web", 
+      "url": "https://www.semanticscholar.org/paper/a18b645826bf227cc32283600f2cb93e7dac116d", 
+      "venue": "ArXiv", 
+      "year": 2016
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "a8306f1eb7fe0b02d2b2b000206ff73575800318", 
+      "title": "Path-Based Semantic Relatedness on Linked Data and Its Use to Word and Entity Disambiguation", 
+      "url": "https://www.semanticscholar.org/paper/a8306f1eb7fe0b02d2b2b000206ff73575800318", 
+      "venue": "International Semantic Web Conference", 
+      "year": 2015
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "11526fe238d881a45703bbed5532c4d5bf8e7019", 
+      "title": "Temporal Evolution of Entity Relatedness using Wikipedia and DBpedia", 
+      "url": "https://www.semanticscholar.org/paper/11526fe238d881a45703bbed5532c4d5bf8e7019", 
+      "venue": "MEPDaW/LDQ@ESWC", 
+      "year": 2017
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "e85b13fda8b1e7f3b05ed1c48ba0c26a8b09e339", 
+      "title": "Evaluating semantic relatedness through categorical and contextual information for entity disambiguation", 
+      "url": "https://www.semanticscholar.org/paper/e85b13fda8b1e7f3b05ed1c48ba0c26a8b09e339", 
+      "venue": "2016 IEEE/ACIS 15th International Conference on Computer and Information Science (ICIS)", 
+      "year": 2016
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "57166612b98f291b85bbcaaef0c1bdfa234935fc", 
+      "title": "Robust Entity Linking via Random Walks", 
+      "url": "https://www.semanticscholar.org/paper/57166612b98f291b85bbcaaef0c1bdfa234935fc", 
+      "venue": "CIKM", 
+      "year": 2014
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "a0c76d82b04bae9afe0708d933ad0ed6c9d5bd86", 
+      "title": "Crowdsourced Word Sense Annotations and Difficult Words and Examples", 
+      "url": "https://www.semanticscholar.org/paper/a0c76d82b04bae9afe0708d933ad0ed6c9d5bd86", 
+      "venue": "IWCS", 
+      "year": 2015
+    }, 
+    {
+      "isInfluential": true, 
+      "paperId": "55f8e360f59ff88c43d810aacbecce83430c5f98", 
+      "title": "Wikipedia-based Distributional Semantics for Entity Relatedness", 
+      "url": "https://www.semanticscholar.org/paper/55f8e360f59ff88c43d810aacbecce83430c5f98", 
+      "venue": "", 
+      "year": 2014
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "66b39a6b0bba92a4a7b63e2462f5a38eeae10ec1", 
+      "title": "Calculating semantic relatedness for biomedical use in a knowledge-poor environment", 
+      "url": "https://www.semanticscholar.org/paper/66b39a6b0bba92a4a7b63e2462f5a38eeae10ec1", 
+      "venue": "BMC Bioinformatics", 
+      "year": 2014
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "4c7d6a79009ee4c916d2d1896a353a5e131f86a5", 
+      "title": "Trust, but Verify! Better Entity Linking through Automatic Verification", 
+      "url": "https://www.semanticscholar.org/paper/4c7d6a79009ee4c916d2d1896a353a5e131f86a5", 
+      "venue": "EACL", 
+      "year": 2017
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "50cf0a4dd4f868223eeec86274491a3875e70a27", 
+      "title": "EVE: Explainable Vector Based Embedding Technique Using Wikipedia", 
+      "url": "https://www.semanticscholar.org/paper/50cf0a4dd4f868223eeec86274491a3875e70a27", 
+      "venue": "ArXiv", 
+      "year": 2017
+    }, 
+    {
+      "isInfluential": true, 
+      "paperId": "157a000f11201704ef2c698d650457a2ba722414", 
+      "title": "Entity Linking meets Word Sense Disambiguation: a Unified Approach", 
+      "url": "https://www.semanticscholar.org/paper/157a000f11201704ef2c698d650457a2ba722414", 
+      "venue": "TACL", 
+      "year": 2014
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "fdf0b11dba52108ef477b9b12cb2b614befe07a8", 
+      "title": "Extending AIDA framework by incorporating coreference resolution on detected mentions and pruning based on popularity of an entity", 
+      "url": "https://www.semanticscholar.org/paper/fdf0b11dba52108ef477b9b12cb2b614befe07a8", 
+      "venue": "", 
+      "year": 2017
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "8a0ef1fa72c5bdea635b55a331cfbfc070821cdd", 
+      "title": "Is Brad Pitt Related to Backstreet Boys? Exploring Related Entities", 
+      "url": "https://www.semanticscholar.org/paper/8a0ef1fa72c5bdea635b55a331cfbfc070821cdd", 
+      "venue": "", 
+      "year": 2014
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "49f5c13f2958b4eab818cde8fdaf8f0a3e3c94ec", 
+      "title": "Discovering emerging entities with ambiguous names", 
+      "url": "https://www.semanticscholar.org/paper/49f5c13f2958b4eab818cde8fdaf8f0a3e3c94ec", 
+      "venue": "WWW", 
+      "year": 2014
+    }, 
+    {
+      "isInfluential": true, 
+      "paperId": "b91edf5041ad4e7b60ac6d0d6ca757394d9ed934", 
+      "title": "Studying the Wikipedia Hyperlink Graph for Relatedness and Disambiguation", 
+      "url": "https://www.semanticscholar.org/paper/b91edf5041ad4e7b60ac6d0d6ca757394d9ed934", 
+      "venue": "ArXiv", 
+      "year": 2015
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "76013007c5f92fa47e783e0a144ac1054c11afb7", 
+      "title": "Computing Semantic Similarity of Concepts in Knowledge Graphs", 
+      "url": "https://www.semanticscholar.org/paper/76013007c5f92fa47e783e0a144ac1054c11afb7", 
+      "venue": "IEEE Transactions on Knowledge and Data Engineering", 
+      "year": 2017
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "de643d781cfb7736094b598b109a52dbc3b8da53", 
+      "title": "Exploring Related Entities", 
+      "url": "https://www.semanticscholar.org/paper/de643d781cfb7736094b598b109a52dbc3b8da53", 
+      "venue": "", 
+      "year": 2015
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "eacb5dda074103aac0d56a5c82e2ecdecff91e5e", 
+      "title": "Towards a Seamless Integration of Word Senses into Downstream NLP Applications", 
+      "url": "https://www.semanticscholar.org/paper/eacb5dda074103aac0d56a5c82e2ecdecff91e5e", 
+      "venue": "ACL", 
+      "year": 2017
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "ec70bbb65f858642b11a9068e1e176c48d5a10d0", 
+      "title": "Resolving polysemy and pseudonymity in entity linking with comprehensive name and context modeling", 
+      "url": "https://www.semanticscholar.org/paper/ec70bbb65f858642b11a9068e1e176c48d5a10d0", 
+      "venue": "Inf. Sci.", 
+      "year": 2015
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "99bbe22b2a8b4cc2964971e6066ba5b93ff4e6ef", 
+      "title": "Biased graph walks for RDF graph embeddings", 
+      "url": "https://www.semanticscholar.org/paper/99bbe22b2a8b4cc2964971e6066ba5b93ff4e6ef", 
+      "venue": "WIMS", 
+      "year": 2017
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "190855040441ca0e506dc5e22171f034cf4e492f", 
+      "title": "Automatic Classification of Springer Nature Proceedings with Smart Topic Miner", 
+      "url": "https://www.semanticscholar.org/paper/190855040441ca0e506dc5e22171f034cf4e492f", 
+      "venue": "International Semantic Web Conference", 
+      "year": 2016
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "85fd94fc141a439ea03ef281e3fee6676cb97eba", 
+      "title": "Extrac\u00e7\u00e3o de Rela\u00e7\u00f5es Sem\u00e2nticas de Textos em Portugu\u00eas Explorando a DBp\u00e9dia e a Wikip\u00e9dia", 
+      "url": "https://www.semanticscholar.org/paper/85fd94fc141a439ea03ef281e3fee6676cb97eba", 
+      "venue": "Linguam\u00e1tica", 
+      "year": 2013
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "32c1df63016ea51b28ff8540ac2fd02c4fe9b5d7", 
+      "title": "A Game-Theoretic Approach to Word Sense Disambiguation", 
+      "url": "https://www.semanticscholar.org/paper/32c1df63016ea51b28ff8540ac2fd02c4fe9b5d7", 
+      "venue": "Computational Linguistics", 
+      "year": 2017
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "420fb89e79cb5e0e6443947527a1638d922ea518", 
+      "title": "Expanding the Nif Ecosystem Corpus Conversion, Parsing and Processing Using the Nlp Interchange Format 2.0", 
+      "url": "https://www.semanticscholar.org/paper/420fb89e79cb5e0e6443947527a1638d922ea518", 
+      "venue": "", 
+      "year": 2015
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "8cad444ccf98816ad394e7218ad815ebbff9ff2d", 
+      "title": "A Probabilistic Model for Time-Aware Entity Recommendation", 
+      "url": "https://www.semanticscholar.org/paper/8cad444ccf98816ad394e7218ad815ebbff9ff2d", 
+      "venue": "International Semantic Web Conference", 
+      "year": 2016
+    }
+  ], 
+  "doi": "10.1145/2396761.2396832", 
+  "influentialCitationCount": 6, 
+  "paperId": "3a7210732592a60ee1ec9ab259c77b5bb4197142", 
+  "references": [
+    {
+      "isInfluential": true, 
+      "paperId": "c1e48526eddd68b5bf98739a578ab69a009f570d", 
+      "title": "Word sense disambiguation: A survey", 
+      "url": "https://www.semanticscholar.org/paper/c1e48526eddd68b5bf98739a578ab69a009f570d", 
+      "venue": "ACM Comput. Surv.", 
+      "year": 2009
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "5849552213363da6c309999f937710778fb749f6", 
+      "title": "The Google Similarity Distance", 
+      "url": "https://www.semanticscholar.org/paper/5849552213363da6c309999f937710778fb749f6", 
+      "venue": "IEEE Transactions on Knowledge and Data Engineering", 
+      "year": 2007
+    }, 
+    {
+      "isInfluential": true, 
+      "paperId": "110f729addefa9de072e80cbcf68e034ed3c0116", 
+      "title": "An Effective, Low-Cost Measure of Semantic Relatedness Obtained from Wikipedia Links", 
+      "url": "https://www.semanticscholar.org/paper/110f729addefa9de072e80cbcf68e034ed3c0116", 
+      "venue": "", 
+      "year": 2008
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "00a3f6924f90fcd77e6e7e6534b957a75d0ced07", 
+      "title": "Yago: a core of semantic knowledge", 
+      "url": "https://www.semanticscholar.org/paper/00a3f6924f90fcd77e6e7e6534b957a75d0ced07", 
+      "venue": "WWW", 
+      "year": 2007
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "2238b7dab181e26bbd879946866b2333c0269f38", 
+      "title": "The similarity metric", 
+      "url": "https://www.semanticscholar.org/paper/2238b7dab181e26bbd879946866b2333c0269f38", 
+      "venue": "IEEE Transactions on Information Theory", 
+      "year": 2003
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "8f3f63773aa801b2cdcfa2e5699e3abb9aed7443", 
+      "title": "Approximate Nearest Neighbors: Towards Removing the Curse of Dimensionality", 
+      "url": "https://www.semanticscholar.org/paper/8f3f63773aa801b2cdcfa2e5699e3abb9aed7443", 
+      "venue": "STOC", 
+      "year": 1998
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "2b2c30dfd3968c5d9418bb2c14b2382d3ccc64b2", 
+      "title": "DBpedia: A Nucleus for a Web of Open Data", 
+      "url": "https://www.semanticscholar.org/paper/2b2c30dfd3968c5d9418bb2c14b2382d3ccc64b2", 
+      "venue": "ISWC/ASWC", 
+      "year": 2007
+    }, 
+    {
+      "isInfluential": true, 
+      "paperId": "294350c22238a1e16cf2de543b173983cff0444f", 
+      "title": "Jigs and Lures: Associating Web Queries with Structured Entities", 
+      "url": "https://www.semanticscholar.org/paper/294350c22238a1e16cf2de543b173983cff0444f", 
+      "venue": "ACL", 
+      "year": 2011
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "15fcecf899acf594ebb7b04ba2df49aa4adc4799", 
+      "title": "A word at a time: computing word relatedness using temporal semantic analysis", 
+      "url": "https://www.semanticscholar.org/paper/15fcecf899acf594ebb7b04ba2df49aa4adc4799", 
+      "venue": "WWW", 
+      "year": 2011
+    }, 
+    {
+      "isInfluential": true, 
+      "paperId": "696385d0b5b3ad778cc85f189bd2ade5a109736d", 
+      "title": "Knowledge-Rich Word Sense Disambiguation Rivaling Supervised Systems", 
+      "url": "https://www.semanticscholar.org/paper/696385d0b5b3ad778cc85f189bd2ade5a109736d", 
+      "venue": "ACL", 
+      "year": 2010
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "4441c818223fbcba55c471c71025fc789ebe4be9", 
+      "title": "Knowledge Derived From Wikipedia For Computing Semantic Relatedness", 
+      "url": "https://www.semanticscholar.org/paper/4441c818223fbcba55c471c71025fc789ebe4be9", 
+      "venue": "J. Artif. Intell. Res.", 
+      "year": 2007
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "7b95d389bc6affe6a127d53b04bcfd68138f1a1a", 
+      "title": "TextRank: Bringing Order Into Texts", 
+      "url": "https://www.semanticscholar.org/paper/7b95d389bc6affe6a127d53b04bcfd68138f1a1a", 
+      "venue": "", 
+      "year": 2004
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "1c909ac1c331c0c246a88da047cbdcca9ec9b7e7", 
+      "title": "Large-Scale Named Entity Disambiguation Based on Wikipedia Data", 
+      "url": "https://www.semanticscholar.org/paper/1c909ac1c331c0c246a88da047cbdcca9ec9b7e7", 
+      "venue": "EMNLP-CoNLL", 
+      "year": 2007
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "093e5bc59dfaf6e857ac57a2a0853a3b01ad26b8", 
+      "title": "Ordering by weighted number of wins gives a good ranking for weighted tournaments", 
+      "url": "https://www.semanticscholar.org/paper/093e5bc59dfaf6e857ac57a2a0853a3b01ad26b8", 
+      "venue": "ACM Trans. Algorithms", 
+      "year": 2005
+    }, 
+    {
+      "isInfluential": true, 
+      "paperId": "07abd02f02774d178f26ca99937e5f94001a9ec9", 
+      "title": "Learning to link with wikipedia", 
+      "url": "https://www.semanticscholar.org/paper/07abd02f02774d178f26ca99937e5f94001a9ec9", 
+      "venue": "CIKM", 
+      "year": 2008
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "1104841c25ed482bebd0cda518a20b08bc223fa3", 
+      "title": "Randomized Algorithms and NLP: Using Locality Sensitive Hash Functions for High Speed Noun Clustering", 
+      "url": "https://www.semanticscholar.org/paper/1104841c25ed482bebd0cda518a20b08bc223fa3", 
+      "venue": "ACL", 
+      "year": 2005
+    }, 
+    {
+      "isInfluential": true, 
+      "paperId": "12f7b71324ee8e1796a9ef07af05b66674fe6af0", 
+      "title": "Collective annotation of Wikipedia entities in web text", 
+      "url": "https://www.semanticscholar.org/paper/12f7b71324ee8e1796a9ef07af05b66674fe6af0", 
+      "venue": "KDD", 
+      "year": 2009
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "1c799eca7983c62f7815ac5f41787b3e552567b6", 
+      "title": "Similarity Search in High Dimensions via Hashing", 
+      "url": "https://www.semanticscholar.org/paper/1c799eca7983c62f7815ac5f41787b3e552567b6", 
+      "venue": "VLDB", 
+      "year": 1999
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "0a32b3d027064798fb31ce42894fec31e834f7db", 
+      "title": "Evaluating WordNet-based Measures of Lexical Semantic Relatedness", 
+      "url": "https://www.semanticscholar.org/paper/0a32b3d027064798fb31ce42894fec31e834f7db", 
+      "venue": "Computational Linguistics", 
+      "year": 2006
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "06f5c8e8485c87681ba648e2775d825c34e66c7d", 
+      "title": "Placing search in context: the concept revisited", 
+      "url": "https://www.semanticscholar.org/paper/06f5c8e8485c87681ba648e2775d825c34e66c7d", 
+      "venue": "ACM Trans. Inf. Syst.", 
+      "year": 2001
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "0483f11717096a27648de7ee73780db3233bf306", 
+      "title": "Computing Semantic Relatedness Using Wikipedia-based Explicit Semantic Analysis", 
+      "url": "https://www.semanticscholar.org/paper/0483f11717096a27648de7ee73780db3233bf306", 
+      "venue": "IJCAI", 
+      "year": 2007
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "6068c209d9b3183f6a0386ea27661c5a7757209c", 
+      "title": "EntityTagger: automatically tagging entities with descriptive phrases", 
+      "url": "https://www.semanticscholar.org/paper/6068c209d9b3183f6a0386ea27661c5a7757209c", 
+      "venue": "WWW", 
+      "year": 2011
+    }, 
+    {
+      "isInfluential": true, 
+      "paperId": "3501f4dfaf6448c5e8cc57acaa06a75979a0b1f0", 
+      "title": "Large-Scale Cross-Document Coreference Using Distributed Inference and Hierarchical Models", 
+      "url": "https://www.semanticscholar.org/paper/3501f4dfaf6448c5e8cc57acaa06a75979a0b1f0", 
+      "venue": "ACL", 
+      "year": 2011
+    }, 
+    {
+      "isInfluential": true, 
+      "paperId": "1a885e1733bd343a26c1ec50528a6cc9b688163b", 
+      "title": "Acquisition of instance attributes via labeled and related instances", 
+      "url": "https://www.semanticscholar.org/paper/1a885e1733bd343a26c1ec50528a6cc9b688163b", 
+      "venue": "SIGIR", 
+      "year": 2010
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "5433d3cd12a6edbe3ec14f8895c7d6f4e4448565", 
+      "title": "Robust Disambiguation of Named Entities in Text", 
+      "url": "https://www.semanticscholar.org/paper/5433d3cd12a6edbe3ec14f8895c7d6f4e4448565", 
+      "venue": "EMNLP", 
+      "year": 2011
+    }, 
+    {
+      "isInfluential": true, 
+      "paperId": "083efec06d268d7b67172ed8cdb76fd594839330", 
+      "title": "Unsupervised Graph-basedWord Sense Disambiguation Using Measures of Word Semantic Similarity", 
+      "url": "https://www.semanticscholar.org/paper/083efec06d268d7b67172ed8cdb76fd594839330", 
+      "venue": "International Conference on Semantic Computing (ICSC 2007)", 
+      "year": 2007
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "4e9c459390caef1eb116c1f2fcbe7e79717f2964", 
+      "title": "Semantic Relatedness Using Salient Semantic Analysis", 
+      "url": "https://www.semanticscholar.org/paper/4e9c459390caef1eb116c1f2fcbe7e79717f2964", 
+      "venue": "AAAI", 
+      "year": 2011
+    }, 
+    {
+      "isInfluential": true, 
+      "paperId": "166fee9452934aa612c56d6162e5e2ba427bdfb3", 
+      "title": "Entity Disambiguation for Knowledge Base Population", 
+      "url": "https://www.semanticscholar.org/paper/166fee9452934aa612c56d6162e5e2ba427bdfb3", 
+      "venue": "COLING", 
+      "year": 2010
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "3965b1d15b2de806b758082ed86b41b01cb6728a", 
+      "title": "YAGO2: A spatially and temporally enhanced knowledge base from Wikipedia", 
+      "url": "https://www.semanticscholar.org/paper/3965b1d15b2de806b758082ed86b41b01cb6728a", 
+      "venue": "Artif. Intell.", 
+      "year": 2013
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "03aeb079df7b6f8ead5ab2e048b08dc48388027f", 
+      "title": "Min-Wise Independent Permutations", 
+      "url": "https://www.semanticscholar.org/paper/03aeb079df7b6f8ead5ab2e048b08dc48388027f", 
+      "venue": "J. Comput. Syst. Sci.", 
+      "year": 2000
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "86f06bb892e571705410947425422a1441b2fc86", 
+      "title": "Using Wiktionary for Computing Semantic Relatedness", 
+      "url": "https://www.semanticscholar.org/paper/86f06bb892e571705410947425422a1441b2fc86", 
+      "venue": "AAAI", 
+      "year": 2008
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "837b071d4c83e0f90d3e6b6edc1a2d4ca35711fb", 
+      "title": "TAGME: on-the-fly annotation of short text fragments (by wikipedia entities)", 
+      "url": "https://www.semanticscholar.org/paper/837b071d4c83e0f90d3e6b6edc1a2d4ca35711fb", 
+      "venue": "CIKM", 
+      "year": 2010
+    }, 
+    {
+      "isInfluential": true, 
+      "paperId": "c43826e860dfd9365aa8905397393d96513d1daa", 
+      "title": "Tapping into knowledge base for concept feedback: leveraging conceptnet to improve search results for difficult queries", 
+      "url": "https://www.semanticscholar.org/paper/c43826e860dfd9365aa8905397393d96513d1daa", 
+      "venue": "WSDM", 
+      "year": 2012
+    }
+  ], 
+  "title": "KORE: keyphrase overlap relatedness for entity disambiguation", 
+  "url": "https://www.semanticscholar.org/paper/3a7210732592a60ee1ec9ab259c77b5bb4197142", 
+  "venue": "CIKM", 
+  "year": 2012
+}

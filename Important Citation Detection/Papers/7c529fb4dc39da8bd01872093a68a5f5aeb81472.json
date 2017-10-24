@@ -1,0 +1,813 @@
+{
+  "authors": [
+    {
+      "authorId": "2251210", 
+      "name": "Kerstin Denecke", 
+      "url": "https://www.semanticscholar.org/author/2251210"
+    }
+  ], 
+  "citationVelocity": 0, 
+  "citations": [
+    {
+      "isInfluential": false, 
+      "paperId": "00069d59c1e58a4e6515dc94ea8caf2f30f9bf29", 
+      "title": "Holistic Sentiment Analysis Across Languages: Multilingual Supervised Latent Dirichlet Allocation", 
+      "url": "https://www.semanticscholar.org/paper/00069d59c1e58a4e6515dc94ea8caf2f30f9bf29", 
+      "venue": "EMNLP", 
+      "year": 2010
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "29cb50cb1649ec6b874610a50d2b9657ef54cbee", 
+      "title": "A Multi-lingual Annotated Dataset for Aspect-Oriented Opinion Mining", 
+      "url": "https://www.semanticscholar.org/paper/29cb50cb1649ec6b874610a50d2b9657ef54cbee", 
+      "venue": "EMNLP", 
+      "year": 2015
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "71edc24c350f7b91f41c73ac7ddd9ccbac802a22", 
+      "title": "Text Summarization Using Sentiment Analysis for DUC Data", 
+      "url": "https://www.semanticscholar.org/paper/71edc24c350f7b91f41c73ac7ddd9ccbac802a22", 
+      "venue": "2016 International Conference on Information Technology (ICIT)", 
+      "year": 2016
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "640658c92526aa0b6889774e87dbcf43c88763cc", 
+      "title": "Instance Selection Improves Cross-Lingual Model Training for Fine-Grained Sentiment Analysis", 
+      "url": "https://www.semanticscholar.org/paper/640658c92526aa0b6889774e87dbcf43c88763cc", 
+      "venue": "CoNLL", 
+      "year": 2015
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "061806f711cfb9563ee8a12d216c643f742aa375", 
+      "title": "Online Shopping Behavior Study Based on Multi-granularity Opinion Mining: China Versus America", 
+      "url": "https://www.semanticscholar.org/paper/061806f711cfb9563ee8a12d216c643f742aa375", 
+      "venue": "Cognitive Computation", 
+      "year": 2016
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "5cee983d3e2ff2a080503f23d5d8b1002c56fa51", 
+      "title": "A new linguistic approach to sentiment automatic processing", 
+      "url": "https://www.semanticscholar.org/paper/5cee983d3e2ff2a080503f23d5d8b1002c56fa51", 
+      "venue": "9th IEEE International Conference on Cognitive Informatics (ICCI'10)", 
+      "year": 2010
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "5a49638e49b44cb8e6b161c9043a133fd3cc4a28", 
+      "title": "A Lexicon-Enhanced Method for Sentiment Classification: An Experiment on Online Product Reviews", 
+      "url": "https://www.semanticscholar.org/paper/5a49638e49b44cb8e6b161c9043a133fd3cc4a28", 
+      "venue": "IEEE Intelligent Systems", 
+      "year": 2010
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "86b938d03c869876bc16e1c772cd8dca5369a5d9", 
+      "title": "Restricted Domain Opinion Mining in Compound Sentences", 
+      "url": "https://www.semanticscholar.org/paper/86b938d03c869876bc16e1c772cd8dca5369a5d9", 
+      "venue": "2013 International Conference on Communication Systems and Network Technologies", 
+      "year": 2013
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "f0fa5da2f106f63ed79b6a505795136fd4a8f9d9", 
+      "title": "A comprehensive survey for sentiment analysis tasks using machine learning techniques", 
+      "url": "https://www.semanticscholar.org/paper/f0fa5da2f106f63ed79b6a505795136fd4a8f9d9", 
+      "venue": "2016 International Symposium on INnovations in Intelligent SysTems and Applications (INISTA)", 
+      "year": 2016
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "4010ee572bd40a324a5fdf8fbd3772827d99423d", 
+      "title": "Bilingual Experiments on an Opinion Comparable Corpus", 
+      "url": "https://www.semanticscholar.org/paper/4010ee572bd40a324a5fdf8fbd3772827d99423d", 
+      "venue": "WASSA@NAACL-HLT", 
+      "year": 2013
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "ca6c3676e5cad81aab7b36a58bbcdd43e8c854bb", 
+      "title": "Short text opinion detection using ensemble of classifiers and semantic indexing", 
+      "url": "https://www.semanticscholar.org/paper/ca6c3676e5cad81aab7b36a58bbcdd43e8c854bb", 
+      "venue": "Expert Syst. Appl.", 
+      "year": 2016
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "21d2e1e0cbe2a96b78628e0fb561c76144f68dc7", 
+      "title": "Sentiment/subjectivity analysis survey for languages other than English", 
+      "url": "https://www.semanticscholar.org/paper/21d2e1e0cbe2a96b78628e0fb561c76144f68dc7", 
+      "venue": "Social Network Analysis and Mining", 
+      "year": 2016
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "ecf85604966f1095509f32d6d2f8cf75e1eaa151", 
+      "title": "Feature based Star Rating of Reviews: A Knowledge-Based Approach for Document Sentiment Classification", 
+      "url": "https://www.semanticscholar.org/paper/ecf85604966f1095509f32d6d2f8cf75e1eaa151", 
+      "venue": "", 
+      "year": 2012
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "81d20cf7f89ca43b7bf58b003aa76a34ffbc7d32", 
+      "title": "Applying a culture dependent emotion triggers database for text valence and emotion classification", 
+      "url": "https://www.semanticscholar.org/paper/81d20cf7f89ca43b7bf58b003aa76a34ffbc7d32", 
+      "venue": "Procesamiento del Lenguaje Natural", 
+      "year": 2008
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "12de6a08a82533d7a1dc24271fdd0246be4ea3c4", 
+      "title": "Extracting Features for Sentiment Classification: in the Perspective of Statistical Natural Language Processing", 
+      "url": "https://www.semanticscholar.org/paper/12de6a08a82533d7a1dc24271fdd0246be4ea3c4", 
+      "venue": "", 
+      "year": 2012
+    }, 
+    {
+      "isInfluential": true, 
+      "paperId": "267e59a7cdf328f3ba14e7295ca68d4a7839b984", 
+      "title": "A Fall-back Strategy for Sentiment Analysis in Hindi: a Case Study", 
+      "url": "https://www.semanticscholar.org/paper/267e59a7cdf328f3ba14e7295ca68d4a7839b984", 
+      "venue": "", 
+      "year": 2010
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "0049a290b937ae5b90d8827da920cca3e4befa2d", 
+      "title": "SINAI: Voting System for Twitter Sentiment Analysis", 
+      "url": "https://www.semanticscholar.org/paper/0049a290b937ae5b90d8827da920cca3e4befa2d", 
+      "venue": "SemEval@COLING", 
+      "year": 2014
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "ffc95cdff0435851fe7f2368d759edc8596d64ae", 
+      "title": "Sentiment Classification at the Time of the Tunisian Uprising: Machine Learning Techniques Applied to a New Corpus for Arabic Language", 
+      "url": "https://www.semanticscholar.org/paper/ffc95cdff0435851fe7f2368d759edc8596d64ae", 
+      "venue": "2014 European Network Intelligence Conference", 
+      "year": 2014
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "654926f241eaf84175ef9f9943fe2aa19d859601", 
+      "title": "Methods for Sentiment Analysis of Twitter Messages", 
+      "url": "https://www.semanticscholar.org/paper/654926f241eaf84175ef9f9943fe2aa19d859601", 
+      "venue": "", 
+      "year": 2012
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "2f8356a28792434c8be1fccf00b021da1a24217a", 
+      "title": "A study of the effects of preprocessing strategies on sentiment analysis for Arabic text", 
+      "url": "https://www.semanticscholar.org/paper/2f8356a28792434c8be1fccf00b021da1a24217a", 
+      "venue": "J. Information Science", 
+      "year": 2014
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "effed9a06b7c5db94ac7b246461ddaafa5ca85ec", 
+      "title": "Fuzzy sentiment classification in social network Facebook' statuses mining", 
+      "url": "https://www.semanticscholar.org/paper/effed9a06b7c5db94ac7b246461ddaafa5ca85ec", 
+      "venue": "2016 7th International Conference on Sciences of Electronics, Technologies of Information and Telecommunications (SETIT)", 
+      "year": 2016
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "9d8721072e051eb63568d50dc7c42a8ce35a7c9b", 
+      "title": "A Light Lexicon-based Mobile Application for Sentiment Mining of Arabic Tweets", 
+      "url": "https://www.semanticscholar.org/paper/9d8721072e051eb63568d50dc7c42a8ce35a7c9b", 
+      "venue": "", 
+      "year": 2015
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "6fb6ef1caf13f840de39a9a17117f21360da748e", 
+      "title": "Who likes me more?: analysing entity-centric language-specific bias in multilingual Wikipedia", 
+      "url": "https://www.semanticscholar.org/paper/6fb6ef1caf13f840de39a9a17117f21360da748e", 
+      "venue": "SAC", 
+      "year": 2016
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "401f050656368ea4522507a26bfa69a1a1b0e1f3", 
+      "title": "SINAI: Syntactic Approach for Aspect-Based Sentiment Analysis", 
+      "url": "https://www.semanticscholar.org/paper/401f050656368ea4522507a26bfa69a1a1b0e1f3", 
+      "venue": "SemEval@NAACL-HLT", 
+      "year": 2015
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "23a7c8d9f142184d28e56b0751e172fef6539275", 
+      "title": "OCA: Opinion corpus for Arabic", 
+      "url": "https://www.semanticscholar.org/paper/23a7c8d9f142184d28e56b0751e172fef6539275", 
+      "venue": "JASIST", 
+      "year": 2011
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "f6777913608c62a678505fd7845418c97d6c8c67", 
+      "title": "A Holistic Approach to Product Review Summarization", 
+      "url": "https://www.semanticscholar.org/paper/f6777913608c62a678505fd7845418c97d6c8c67", 
+      "venue": "2009 Software Technologies for Future Dependable Distributed Systems", 
+      "year": 2009
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "33fc7195e26b4443e11285fa8196a7b90b1bda07", 
+      "title": "Opinion Classification Techniques Applied to a Spanish Corpus", 
+      "url": "https://www.semanticscholar.org/paper/33fc7195e26b4443e11285fa8196a7b90b1bda07", 
+      "venue": "NLDB", 
+      "year": 2011
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "5435bea8ee98dde6d7de60708f6ff1dbc5537d9b", 
+      "title": "Feature level sentiment analysis on movie reviews", 
+      "url": "https://www.semanticscholar.org/paper/5435bea8ee98dde6d7de60708f6ff1dbc5537d9b", 
+      "venue": "2016 2nd International Conference on Next Generation Computing Technologies (NGCT)", 
+      "year": 2016
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "952d40cc2332ea54f80f7d7b621d476621277d7d", 
+      "title": "Using SentiWordNet and Sentiment Analysis for Detecting Radical Content on Web Forums", 
+      "url": "https://www.semanticscholar.org/paper/952d40cc2332ea54f80f7d7b621d476621277d7d", 
+      "venue": "", 
+      "year": 2012
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "324ede33fb52627cddd2df99d29bf1ba7aa7c699", 
+      "title": "Analyzing and Mining Comments and Comment Ratings on the Social Web", 
+      "url": "https://www.semanticscholar.org/paper/324ede33fb52627cddd2df99d29bf1ba7aa7c699", 
+      "venue": "TWEB", 
+      "year": 2014
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "2a5e2c946fe88ee91dbc9132dc560232d4c20628", 
+      "title": "Comparing Multilingual Comparable Articles Based On Opinions", 
+      "url": "https://www.semanticscholar.org/paper/2a5e2c946fe88ee91dbc9132dc560232d4c20628", 
+      "venue": "", 
+      "year": 2013
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "c4d4cdbdd29ed985e3f1f308bc5f1609024075a1", 
+      "title": "Stock trend prediction relying on text mining and sentiment analysis with tweets", 
+      "url": "https://www.semanticscholar.org/paper/c4d4cdbdd29ed985e3f1f308bc5f1609024075a1", 
+      "venue": "2014 4th World Congress on Information and Communication Technologies (WICT 2014)", 
+      "year": 2014
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "2aaab4e7ae2ab187f504cba4c7c6fe3ac4c523c6", 
+      "title": "Sentiment Data Flow Analysis by Means of Dynamic Linguistic Patterns", 
+      "url": "https://www.semanticscholar.org/paper/2aaab4e7ae2ab187f504cba4c7c6fe3ac4c523c6", 
+      "venue": "IEEE Computational Intelligence Magazine", 
+      "year": 2015
+    }, 
+    {
+      "isInfluential": true, 
+      "paperId": "2fcf71526ee4bcb949cb5d853bef864b31de285d", 
+      "title": "Natural language text parsing for social network user sentiment analysis based on fuzzy sets", 
+      "url": "https://www.semanticscholar.org/paper/2fcf71526ee4bcb949cb5d853bef864b31de285d", 
+      "venue": "2015 International Conference on Mechanical Engineering, Automation and Control Systems (MEACS)", 
+      "year": 2015
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "b8d38cb5b6f357f0312220a1bb21c16722bbd3ae", 
+      "title": "Attention prediction on social media brand pages", 
+      "url": "https://www.semanticscholar.org/paper/b8d38cb5b6f357f0312220a1bb21c16722bbd3ae", 
+      "venue": "CIKM", 
+      "year": 2011
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "a95c80ae4b9a3a0d6446e51d58ca80a14809b2ea", 
+      "title": "ML-SentiCon: Un lexic\u00f3n multiling\u00fce de polaridades sem\u00e1nticas a nivel de lemas", 
+      "url": "https://www.semanticscholar.org/paper/a95c80ae4b9a3a0d6446e51d58ca80a14809b2ea", 
+      "venue": "Procesamiento del Lenguaje Natural", 
+      "year": 2014
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "8c043690a33cca6d68b8946e01f040f7105a3dff", 
+      "title": "Harvesting Opinions and Emotions from Social Media Textual Resources", 
+      "url": "https://www.semanticscholar.org/paper/8c043690a33cca6d68b8946e01f040f7105a3dff", 
+      "venue": "IEEE Internet Computing", 
+      "year": 2015
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "11c8d08f1a03db5b782df6094c9a6b648cf2892c", 
+      "title": "Domain-Based Lexicon Enhancement for Sentiment Analysis", 
+      "url": "https://www.semanticscholar.org/paper/11c8d08f1a03db5b782df6094c9a6b648cf2892c", 
+      "venue": "SMA@BCS-SGAI", 
+      "year": 2013
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "84dda8da6a0929970a63ee8c35f4b000a6ab3dcd", 
+      "title": "Experiments in Cross-Lingual Sentiment Analysis in Discussion Forums", 
+      "url": "https://www.semanticscholar.org/paper/84dda8da6a0929970a63ee8c35f4b000a6ab3dcd", 
+      "venue": "SocInfo", 
+      "year": 2012
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "583a96561acc8234ece15b5f26da0987fd47f6e4", 
+      "title": "Graphical Modeling of Macro Behavioral Targeting in Social Networks", 
+      "url": "https://www.semanticscholar.org/paper/583a96561acc8234ece15b5f26da0987fd47f6e4", 
+      "venue": "SDM", 
+      "year": 2013
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "3965b2d6854cd5e135e6253c2c804991376fec2e", 
+      "title": "Agents and Robots that Can Listen to the User's Heart", 
+      "url": "https://www.semanticscholar.org/paper/3965b2d6854cd5e135e6253c2c804991376fec2e", 
+      "venue": "ESSEM@AAMAS", 
+      "year": 2015
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "6d90b534ed1338be68d646b631e02888c3bf28ee", 
+      "title": "Subjectivity and Sentiment Analysis of Arabic: A Survey", 
+      "url": "https://www.semanticscholar.org/paper/6d90b534ed1338be68d646b631e02888c3bf28ee", 
+      "venue": "AMLTA", 
+      "year": 2012
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "b4d0492e9f72e0709d6def0bedfa67cb0bb4fbdf", 
+      "title": "A Framework for Sentiment Analysis in Persian", 
+      "url": "https://www.semanticscholar.org/paper/b4d0492e9f72e0709d6def0bedfa67cb0bb4fbdf", 
+      "venue": "", 
+      "year": 2015
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "c5e3b065e352a93d8754b86baaf8ec20bf81a5c3", 
+      "title": "Building Sentiment Lexicons for All Major Languages", 
+      "url": "https://www.semanticscholar.org/paper/c5e3b065e352a93d8754b86baaf8ec20bf81a5c3", 
+      "venue": "ACL", 
+      "year": 2014
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "57e3d3ec8c3906e5ae52940920eb41b959b308cf", 
+      "title": "Sentiments and Opinions in Health-related Web messages", 
+      "url": "https://www.semanticscholar.org/paper/57e3d3ec8c3906e5ae52940920eb41b959b308cf", 
+      "venue": "RANLP", 
+      "year": 2011
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "0add6e37f6bab86c5fa27c6284158b5803bbbf68", 
+      "title": "An Approach for Computing Sentiment Polarity Analysis of Complex Why-type Questions on Product Review Sites", 
+      "url": "https://www.semanticscholar.org/paper/0add6e37f6bab86c5fa27c6284158b5803bbbf68", 
+      "venue": "Research in Computing Science", 
+      "year": 2014
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "5cad47f7bce5b8236483e3672f076669e8846868", 
+      "title": "Feature-based Product Review Summarization Utilizing User Score", 
+      "url": "https://www.semanticscholar.org/paper/5cad47f7bce5b8236483e3672f076669e8846868", 
+      "venue": "J. Inf. Sci. Eng.", 
+      "year": 2010
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "a581b7ce3b62da45d80779a6189f6e7b6162c941", 
+      "title": "Further Experiments in Sentiment Analysis of French Movie Reviews", 
+      "url": "https://www.semanticscholar.org/paper/a581b7ce3b62da45d80779a6189f6e7b6162c941", 
+      "venue": "AWIC", 
+      "year": 2011
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "bd41a2ffe74253fdc8af0daa894ca680469f3c9c", 
+      "title": "Sentiment Analysis of French Movie Reviews", 
+      "url": "https://www.semanticscholar.org/paper/bd41a2ffe74253fdc8af0daa894ca680469f3c9c", 
+      "venue": "Advances in Distributed Agent-Based Retrieval Tools", 
+      "year": 2011
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "3d2d56c15f638ec4565412a2c9d5c61a09293435", 
+      "title": "The Challenges of Multi-dimensional Sentiment Analysis Across Languages", 
+      "url": "https://www.semanticscholar.org/paper/3d2d56c15f638ec4565412a2c9d5c61a09293435", 
+      "venue": "", 
+      "year": 2016
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "6c2261badbfb4d83239e73c523daa363e87c0dec", 
+      "title": "\"How Incredibly Awesome!\" - Click Here to Read More", 
+      "url": "https://www.semanticscholar.org/paper/6c2261badbfb4d83239e73c523daa363e87c0dec", 
+      "venue": "ICWSM", 
+      "year": 2010
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "101fb21c045b863bc0b0097c8633d9ab8618e11b", 
+      "title": "Mining the Web for Sympathy: The Pussy Riot Case", 
+      "url": "https://www.semanticscholar.org/paper/101fb21c045b863bc0b0097c8633d9ab8618e11b", 
+      "venue": "2014 IEEE Joint Intelligence and Security Informatics Conference", 
+      "year": 2014
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "1ec24afeae2dc0f58e0bae4099de2e4bef904938", 
+      "title": "Using syntactic and contextual information for sentiment polarity analysis", 
+      "url": "https://www.semanticscholar.org/paper/1ec24afeae2dc0f58e0bae4099de2e4bef904938", 
+      "venue": "Int. Conf. Interaction Sciences", 
+      "year": 2009
+    }, 
+    {
+      "isInfluential": true, 
+      "paperId": "b82aa21f1d0fb7a31afac664e23ddab1c138fb0e", 
+      "title": "Multilingual sentiment analysis: from formal to informal and scarce resource languages", 
+      "url": "https://www.semanticscholar.org/paper/b82aa21f1d0fb7a31afac664e23ddab1c138fb0e", 
+      "venue": "Artificial Intelligence Review", 
+      "year": 2016
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "1c3729046ca27477f463ce725dd8e5220cc6ae5c", 
+      "title": "Random Walk Weighting over SentiWordNet for Sentiment Polarity Detection on Twitter", 
+      "url": "https://www.semanticscholar.org/paper/1c3729046ca27477f463ce725dd8e5220cc6ae5c", 
+      "venue": "WASSA@ACL", 
+      "year": 2012
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "f4ac3bbb92c5be802ffee9352b10a56d12432770", 
+      "title": "Sentiment analysis amidst ambiguities in youtube comments on yoruba language (nollywood) movies", 
+      "url": "https://www.semanticscholar.org/paper/f4ac3bbb92c5be802ffee9352b10a56d12432770", 
+      "venue": "WWW", 
+      "year": 2012
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "77445965fc4095e8b3613b7aaa48e529539e5eea", 
+      "title": "Probabilistic User-Level Opinion Detection on Online Social Networks", 
+      "url": "https://www.semanticscholar.org/paper/77445965fc4095e8b3613b7aaa48e529539e5eea", 
+      "venue": "SocInfo", 
+      "year": 2014
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "2005b11e28081d5775b21a65144932156613df4e", 
+      "title": "Language-Independent Twitter Sentiment Analysis", 
+      "url": "https://www.semanticscholar.org/paper/2005b11e28081d5775b21a65144932156613df4e", 
+      "venue": "", 
+      "year": 2012
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "dc3b3851f1974d9e5c1478c4f3760aae93559609", 
+      "title": "Opinion mining for social media and news items in Romanian", 
+      "url": "https://www.semanticscholar.org/paper/dc3b3851f1974d9e5c1478c4f3760aae93559609", 
+      "venue": "2nd International Conference on Systems and Computer Science", 
+      "year": 2013
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "bfc90930f02365b43887b8c6d26cb8ad8142c58a", 
+      "title": "Applying Sentiment-oriented Sentence Filtering to Multilingual Review Classification", 
+      "url": "https://www.semanticscholar.org/paper/bfc90930f02365b43887b8c6d26cb8ad8142c58a", 
+      "venue": "", 
+      "year": 2011
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "b49752717d64bacf83ceb7224b3b58c70b3c76ef", 
+      "title": "Qualimaster a Configurable Real-time Data Processing Infrastructure Mastering Autonomous Quality Adaptation Deliverable D2.1 Work-package Wp2: Scalable, Quality-aware Data Processing Methods Deliverable D2.1: Approach for Scalable, Quality-aware Data Processing", 
+      "url": "https://www.semanticscholar.org/paper/b49752717d64bacf83ceb7224b3b58c70b3c76ef", 
+      "venue": "", 
+      "year": 2014
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "1f9cf542a3b23645b7333d72e6fca306bf6e3c7a", 
+      "title": "Sentiment trend analysis in social web environments", 
+      "url": "https://www.semanticscholar.org/paper/1f9cf542a3b23645b7333d72e6fca306bf6e3c7a", 
+      "venue": "2017 IEEE International Conference on Big Data and Smart Computing (BigComp)", 
+      "year": 2017
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "2a4acd40716b10590981f72e42719c08a9e7d2aa", 
+      "title": "Weakly Supervised Learning for Compositional Sentiment Recognition Master\u2019s thesis", 
+      "url": "https://www.semanticscholar.org/paper/2a4acd40716b10590981f72e42719c08a9e7d2aa", 
+      "venue": "", 
+      "year": 2014
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "44257062474ce3a09293739a52403e7e66afce35", 
+      "title": "User sentiment detection: a YouTube use case", 
+      "url": "https://www.semanticscholar.org/paper/44257062474ce3a09293739a52403e7e66afce35", 
+      "venue": "", 
+      "year": 2012
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "5d0f3e502d9eb694c711087f645f280314c23537", 
+      "title": "Abstract\u2014word of Mouth (wom) Has a Strong Effect on Consumer Behavior. a Sentimental Lexicon, I.e. Sentiwordnet Is Useful for the Task of Wom Sentiment Classification. However, Most Current Related Research Ignores the Problem That Too Many", 
+      "url": "https://www.semanticscholar.org/paper/5d0f3e502d9eb694c711087f645f280314c23537", 
+      "venue": "", 
+      "year": 2011
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "0810e0fe39b02f947a354b06f94ed13e99b1126d", 
+      "title": "A Perspective on Sentiment Analysis", 
+      "url": "https://www.semanticscholar.org/paper/0810e0fe39b02f947a354b06f94ed13e99b1126d", 
+      "venue": "ArXiv", 
+      "year": 2014
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "bc33716f8d9240c90ce8eb7e88d60d3616574883", 
+      "title": "Multilingual Sentiment Analysis: State of the Art and Independent Comparison of Techniques", 
+      "url": "https://www.semanticscholar.org/paper/bc33716f8d9240c90ce8eb7e88d60d3616574883", 
+      "venue": "Cognitive Computation", 
+      "year": 2016
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "3fc109c976bf1c3f06aba9310f86dcd0c124ab41", 
+      "title": "How useful are your comments?: analyzing and predicting youtube comments and comment ratings", 
+      "url": "https://www.semanticscholar.org/paper/3fc109c976bf1c3f06aba9310f86dcd0c124ab41", 
+      "venue": "WWW", 
+      "year": 2010
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "5462b38439c3060971dfdf3b91856eca623d5b60", 
+      "title": "Emotion Tokens: Bridging the Gap among Multilingual Twitter Sentiment Analysis", 
+      "url": "https://www.semanticscholar.org/paper/5462b38439c3060971dfdf3b91856eca623d5b60", 
+      "venue": "AIRS", 
+      "year": 2011
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "69ad47194cc830c1c42a26e9fa0f6674528acba2", 
+      "title": "My MOoD, a Multimedia and Multilingual Ontology Driven MAS: Design and First Experiments in the Sentiment Analysis Domain", 
+      "url": "https://www.semanticscholar.org/paper/69ad47194cc830c1c42a26e9fa0f6674528acba2", 
+      "venue": "ESSEM@AAMAS", 
+      "year": 2015
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "065f9755a98843101d94a8502002246a64ecff03", 
+      "title": "Decoding Sentiment from Distributed Representations of Sentences", 
+      "url": "https://www.semanticscholar.org/paper/065f9755a98843101d94a8502002246a64ecff03", 
+      "venue": "*SEM", 
+      "year": 2017
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "903b57c9a53ec93c4e438930ede019b637f468e5", 
+      "title": "Scalable Sentiment Analysis for Microblogs Based on Semantic Scoring", 
+      "url": "https://www.semanticscholar.org/paper/903b57c9a53ec93c4e438930ede019b637f468e5", 
+      "venue": "2015 IEEE International Conference on Services Computing", 
+      "year": 2015
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "d3335a4763f818dbc84212a9283a86251f8a6c84", 
+      "title": "SASM: A tool for sentiment analysis on Twitter", 
+      "url": "https://www.semanticscholar.org/paper/d3335a4763f818dbc84212a9283a86251f8a6c84", 
+      "venue": "2015 2nd World Symposium on Web Applications and Networking (WSWAN)", 
+      "year": 2015
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "e455a084704a14d228c9035cd641707e12268746", 
+      "title": "A Large Scale Arabic Sentiment Lexicon for Arabic Opinion Mining", 
+      "url": "https://www.semanticscholar.org/paper/e455a084704a14d228c9035cd641707e12268746", 
+      "venue": "", 
+      "year": 2014
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "404f282b99fdeca4cb60919c234c4b3528e1f634", 
+      "title": "Bilingual Experiments with an Arabic-English Corpus for Opinion Mining", 
+      "url": "https://www.semanticscholar.org/paper/404f282b99fdeca4cb60919c234c4b3528e1f634", 
+      "venue": "RANLP", 
+      "year": 2011
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "800ed8900c2e50fa469072e5c3405ccfbf7ea226", 
+      "title": "Sentiment analysis and dataset collection: A comparitive study", 
+      "url": "https://www.semanticscholar.org/paper/800ed8900c2e50fa469072e5c3405ccfbf7ea226", 
+      "venue": "2015 IEEE International Advance Computing Conference (IACC)", 
+      "year": 2015
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "21906fe75d8a42a303c89ac62e6906673b4e84e4", 
+      "title": "Using Sentiment Analysis to Assess Customer Satisfaction in an Online Job Search Company", 
+      "url": "https://www.semanticscholar.org/paper/21906fe75d8a42a303c89ac62e6906673b4e84e4", 
+      "venue": "BIS", 
+      "year": 2014
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "01fb41ab73ca51e7191ed4778d07a340b9c38ecf", 
+      "title": "Sentiment Diffusion of Public Opinions about Hot Events: Based on Complex Network", 
+      "url": "https://www.semanticscholar.org/paper/01fb41ab73ca51e7191ed4778d07a340b9c38ecf", 
+      "venue": "PloS one", 
+      "year": 2015
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "d19847d1cb5d9620de8190ad22eeb05599959d37", 
+      "title": "Assigning Connotation Values to Events", 
+      "url": "https://www.semanticscholar.org/paper/d19847d1cb5d9620de8190ad22eeb05599959d37", 
+      "venue": "LREC", 
+      "year": 2012
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "558886ca6b28bb0ca29ee4e4437198a09e004794", 
+      "title": "Social Opinion Mining: An Approach for Italian Language", 
+      "url": "https://www.semanticscholar.org/paper/558886ca6b28bb0ca29ee4e4437198a09e004794", 
+      "venue": "2015 3rd International Conference on Future Internet of Things and Cloud", 
+      "year": 2015
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "33343759c3b7de2f7f324554b0b83627decda450", 
+      "title": "Polarity classification for Spanish tweets using the COST corpus", 
+      "url": "https://www.semanticscholar.org/paper/33343759c3b7de2f7f324554b0b83627decda450", 
+      "venue": "J. Information Science", 
+      "year": 2015
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "87f334e530edff74470d75b7916fe6e34be20781", 
+      "title": "Borrow a Little from your Rich Cousin: Using Embeddings and Polarities of English Words for Multilingual Sentiment Classification", 
+      "url": "https://www.semanticscholar.org/paper/87f334e530edff74470d75b7916fe6e34be20781", 
+      "venue": "COLING", 
+      "year": 2016
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "c4f14d725933f723ea330839556bc16c817e4e82", 
+      "title": "Cross-lingual Twitter Polarity Detection via Projection across Word-Aligned Corpora", 
+      "url": "https://www.semanticscholar.org/paper/c4f14d725933f723ea330839556bc16c817e4e82", 
+      "venue": "", 
+      "year": 2014
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "cceb9907da476a831df521b52556796790595438", 
+      "title": "Sentiment Analysis Using Harn Algorithm", 
+      "url": "https://www.semanticscholar.org/paper/cceb9907da476a831df521b52556796790595438", 
+      "venue": "2016 6th International Conference on IT Convergence and Security (ICITCS)", 
+      "year": 2016
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "542fa1783d81b908011fbca11f64a25da95ba0e2", 
+      "title": "Multilingual Sentiment Analysis Using Latent Semantic Indexing and Machine Learning", 
+      "url": "https://www.semanticscholar.org/paper/542fa1783d81b908011fbca11f64a25da95ba0e2", 
+      "venue": "2011 IEEE 11th International Conference on Data Mining Workshops", 
+      "year": 2011
+    }, 
+    {
+      "isInfluential": true, 
+      "paperId": "51824764bf346bf19bdc901411b40266baa993d9", 
+      "title": "MSATS: Multilingual sentiment analysis via text summarization", 
+      "url": "https://www.semanticscholar.org/paper/51824764bf346bf19bdc901411b40266baa993d9", 
+      "venue": "2017 7th International Conference on Cloud Computing, Data Science & Engineering - Confluence", 
+      "year": 2017
+    }
+  ], 
+  "doi": "10.1109/ICDEW.2008.4498370", 
+  "influentialCitationCount": 4, 
+  "paperId": "7c529fb4dc39da8bd01872093a68a5f5aeb81472", 
+  "references": [
+    {
+      "isInfluential": false, 
+      "paperId": "40bf5c774fd7da2a312cfac9dd8521cf89e11d52", 
+      "title": "SENTIWORDNET: A Publicly Available Lexical Resource for Opinion Mining", 
+      "url": "https://www.semanticscholar.org/paper/40bf5c774fd7da2a312cfac9dd8521cf89e11d52", 
+      "venue": "", 
+      "year": 2006
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "e4fd8f2adf10b9b7b44abffc1d5a4a31125749e3", 
+      "title": "Data Mining: Practical Machine Learning Tools and Techniques - Book Review", 
+      "url": "https://www.semanticscholar.org/paper/e4fd8f2adf10b9b7b44abffc1d5a4a31125749e3", 
+      "venue": "SIGMOD Record", 
+      "year": 2002
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "0f9f3b2899be4a0e164db04f9e93a3933d93a228", 
+      "title": "Learning Multilingual Subjective Language via Cross-Lingual Projections", 
+      "url": "https://www.semanticscholar.org/paper/0f9f3b2899be4a0e164db04f9e93a3933d93a228", 
+      "venue": "ACL", 
+      "year": 2007
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "5f3d8142c97387a8b9b0d2060767bf00e85131be", 
+      "title": "Language and Task Independent Text Categorization with Simple Language Models", 
+      "url": "https://www.semanticscholar.org/paper/5f3d8142c97387a8b9b0d2060767bf00e85131be", 
+      "venue": "HLT-NAACL", 
+      "year": 2003
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "033b62167e7358c429738092109311af696e9137", 
+      "title": "Thumbs Up or Thumbs Down? Semantic Orientation Applied to Unsupervised Classification of Reviews", 
+      "url": "https://www.semanticscholar.org/paper/033b62167e7358c429738092109311af696e9137", 
+      "venue": "ACL", 
+      "year": 2002
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "e42a704f623cf1b25cc78f4046fe19738783087f", 
+      "title": "Sentiment Polarity Identification in Financial News: A Cohesion-based Approach", 
+      "url": "https://www.semanticscholar.org/paper/e42a704f623cf1b25cc78f4046fe19738783087f", 
+      "venue": "ACL", 
+      "year": 2007
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "082113062e484740504e7f38485d2b251f06c91a", 
+      "title": "Identifying and Analyzing Judgment Opinions", 
+      "url": "https://www.semanticscholar.org/paper/082113062e484740504e7f38485d2b251f06c91a", 
+      "venue": "HLT-NAACL", 
+      "year": 2006
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "f7f1b18eb94f232662f355eb32b7e8adb6f7090d", 
+      "title": "Combining Naive Bayes and n-Gram Language Models for Text Classification", 
+      "url": "https://www.semanticscholar.org/paper/f7f1b18eb94f232662f355eb32b7e8adb6f7090d", 
+      "venue": "ECIR", 
+      "year": 2003
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "54658c254927b5e4d056dcf0592cdda20588a068", 
+      "title": "Scaling High-Order Character Language Models to Gigabytes", 
+      "url": "https://www.semanticscholar.org/paper/54658c254927b5e4d056dcf0592cdda20588a068", 
+      "venue": "", 
+      "year": 2005
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "bd4cffd93b650c3412d31ba0f5bb43073972c357", 
+      "title": "Modeling Trust and Influence in the Blogosphere Using Link Polarity", 
+      "url": "https://www.semanticscholar.org/paper/bd4cffd93b650c3412d31ba0f5bb43073972c357", 
+      "venue": "ICWSM", 
+      "year": 2007
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "a3c0bca445f0eab942fa0a4a2b7d69be6e82265e", 
+      "title": "UPAR7: A knowledge-based system for headline sentiment tagging", 
+      "url": "https://www.semanticscholar.org/paper/a3c0bca445f0eab942fa0a4a2b7d69be6e82265e", 
+      "venue": "SemEval@ACL", 
+      "year": 2007
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "8243e965229d5fe6721311437e2526233789a4f0", 
+      "title": "Analysis of Polarity Information in Medical Text", 
+      "url": "https://www.semanticscholar.org/paper/8243e965229d5fe6721311437e2526233789a4f0", 
+      "venue": "AMIA", 
+      "year": 2005
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "303b0b6e6812c60944a4ac9914222ac28b0813a2", 
+      "title": "Recognizing Contextual Polarity in Phrase-Level Sentiment Analysis", 
+      "url": "https://www.semanticscholar.org/paper/303b0b6e6812c60944a4ac9914222ac28b0813a2", 
+      "venue": "HLT/EMNLP", 
+      "year": 2005
+    }
+  ], 
+  "title": "Using SentiWordNet for multilingual sentiment analysis", 
+  "url": "https://www.semanticscholar.org/paper/7c529fb4dc39da8bd01872093a68a5f5aeb81472", 
+  "venue": "2008 IEEE 24th International Conference on Data Engineering Workshop", 
+  "year": 2008
+}

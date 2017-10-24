@@ -1,0 +1,914 @@
+{
+  "authors": [
+    {
+      "authorId": "2847019", 
+      "name": "Gerard Escudero", 
+      "url": "https://www.semanticscholar.org/author/2847019"
+    }, 
+    {
+      "authorId": null, 
+      "name": "Jordi Girona Salgado", 
+      "url": null
+    }
+  ], 
+  "citationVelocity": 0, 
+  "citations": [
+    {
+      "isInfluential": false, 
+      "paperId": "73ff19b26494ef258e0b714d92449a41c70e74e0", 
+      "title": "Estudio de cooperaci\u00f3n de m\u00e9todos de desambiguaci\u00f3n l\u00e9xica: Marcas de Especificidad vs. M\u00e1xima Entrop\u00eda", 
+      "url": "https://www.semanticscholar.org/paper/73ff19b26494ef258e0b714d92449a41c70e74e0", 
+      "venue": "Procesamiento del Lenguaje Natural", 
+      "year": 2001
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "bec42fd2434c742948bab0e124703d9a5a0407f7", 
+      "title": "Relation Mining in the Biomedical Domain using Entity-level Semantics", 
+      "url": "https://www.semanticscholar.org/paper/bec42fd2434c742948bab0e124703d9a5a0407f7", 
+      "venue": "ECAI", 
+      "year": 2012
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "707100f57701ac1a86a409eb783f0f57cde7aaae", 
+      "title": "Word Sense Disambiguation Using Vectors of Co-occurrence Information", 
+      "url": "https://www.semanticscholar.org/paper/707100f57701ac1a86a409eb783f0f57cde7aaae", 
+      "venue": "NLPRS", 
+      "year": 2001
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "a48988fca1f6aeda3577c4bcb16f36314768b32c", 
+      "title": "Trends in word sense disambiguation", 
+      "url": "https://www.semanticscholar.org/paper/a48988fca1f6aeda3577c4bcb16f36314768b32c", 
+      "venue": "Artificial Intelligence Review", 
+      "year": 2012
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "3ad2ec9e3bde96c3ba7ac25ea62d0a2e12e07bc9", 
+      "title": "Critical analysis of WSD algorithms", 
+      "url": "https://www.semanticscholar.org/paper/3ad2ec9e3bde96c3ba7ac25ea62d0a2e12e07bc9", 
+      "venue": "ICAC3 '09", 
+      "year": 2009
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "b3b90fba30e46b8a2b7f8b1b3132249cca99e7cf", 
+      "title": "The University of Alicante Word Sense Disambiguation System*", 
+      "url": "https://www.semanticscholar.org/paper/b3b90fba30e46b8a2b7f8b1b3132249cca99e7cf", 
+      "venue": "", 
+      "year": 2011
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "46bd4df6176345097b0d239b3c8937f67130a69b", 
+      "title": "Bootstrapping Boosted Random Ferns for discriminative and efficient object classification", 
+      "url": "https://www.semanticscholar.org/paper/46bd4df6176345097b0d239b3c8937f67130a69b", 
+      "venue": "Pattern Recognition", 
+      "year": 2012
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "39ccbe58d3c97ce37e1f4e671ed05a87bd2a559d", 
+      "title": "Word Sense Disambiguation Using an Evolutionary Approach", 
+      "url": "https://www.semanticscholar.org/paper/39ccbe58d3c97ce37e1f4e671ed05a87bd2a559d", 
+      "venue": "Informatica", 
+      "year": 2014
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "5e1a5d96d24e307eafc34262f1a0ab58816bd986", 
+      "title": "Organizing Digital Libraries by Automated Text Categorization\u2217", 
+      "url": "https://www.semanticscholar.org/paper/5e1a5d96d24e307eafc34262f1a0ab58816bd986", 
+      "venue": "", 
+      "year": 2002
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "1f2f1cca45f663edf8360e02604b53b9a5e5a029", 
+      "title": "MEANING: A Roadmap To Knowledge Technologies", 
+      "url": "https://www.semanticscholar.org/paper/1f2f1cca45f663edf8360e02604b53b9a5e5a029", 
+      "venue": "", 
+      "year": 2002
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "cb135ed022e77037c6b1cc97737fbaf5727938dd", 
+      "title": "A Stacked, Voted, Stacked Model for Named Entity Recognition", 
+      "url": "https://www.semanticscholar.org/paper/cb135ed022e77037c6b1cc97737fbaf5727938dd", 
+      "venue": "", 
+      "year": 2003
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "3078b8003af2ac2cac1e1411dd1aa63deab4ff8d", 
+      "title": "Adaptively entropy-based weighting classifiers in combination using Dempster-Shafer theory for word sense disambiguation", 
+      "url": "https://www.semanticscholar.org/paper/3078b8003af2ac2cac1e1411dd1aa63deab4ff8d", 
+      "venue": "Computer Speech & Language", 
+      "year": 2010
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "056e13d5045e7d594489705f78834cfaf6642c36", 
+      "title": "The Boosting Approach to Machine Learning An Overview", 
+      "url": "https://www.semanticscholar.org/paper/056e13d5045e7d594489705f78834cfaf6642c36", 
+      "venue": "", 
+      "year": 2001
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "2c9e526196abe4c7261e111e9b2d96235535989f", 
+      "title": "Exploring automatic word sense disambiguation with decision lists and the Web", 
+      "url": "https://www.semanticscholar.org/paper/2c9e526196abe4c7261e111e9b2d96235535989f", 
+      "venue": "ArXiv", 
+      "year": 2000
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "2f60bca48688970b75354a7a4786cac816d3edf4", 
+      "title": "Margin maximization with feed-forward neural networks: a comparative study with SVM and AdaBoost", 
+      "url": "https://www.semanticscholar.org/paper/2f60bca48688970b75354a7a4786cac816d3edf4", 
+      "venue": "Neurocomputing", 
+      "year": 2004
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "beb5f88c8711b309ef8351f751c7d0a9a8e0d8aa", 
+      "title": "On the Portability and Tuning of Supervised Word Sense Disambiguation Systems", 
+      "url": "https://www.semanticscholar.org/paper/beb5f88c8711b309ef8351f751c7d0a9a8e0d8aa", 
+      "venue": "", 
+      "year": 2000
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "8f7f486758f6954e654e74b26aae7b9477ec5a73", 
+      "title": "Exploiting external knowledge sources to improve kernel-based Word Sense Disambiguation", 
+      "url": "https://www.semanticscholar.org/paper/8f7f486758f6954e654e74b26aae7b9477ec5a73", 
+      "venue": "2008 International Conference on Natural Language Processing and Knowledge Engineering", 
+      "year": 2008
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "4ac9ef24a4b99f244cd17bf5d390a0c0e712327b", 
+      "title": "An Introduction to Boosting and Leveraging", 
+      "url": "https://www.semanticscholar.org/paper/4ac9ef24a4b99f244cd17bf5d390a0c0e712327b", 
+      "venue": "Machine Learning Summer School", 
+      "year": 2002
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "32a3e0c6afa7c7c55d2508884659455b6b0d0a61", 
+      "title": "Syntactic Features for High Precision Word Sense Disambiguation", 
+      "url": "https://www.semanticscholar.org/paper/32a3e0c6afa7c7c55d2508884659455b6b0d0a61", 
+      "venue": "COLING", 
+      "year": 2002
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "33ffefdd63034d5c511ca857a82c53929fc87c72", 
+      "title": "A Stacked, Voted, Stacked Model for Named Entity Recognition", 
+      "url": "https://www.semanticscholar.org/paper/33ffefdd63034d5c511ca857a82c53929fc87c72", 
+      "venue": "CoNLL", 
+      "year": 2003
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "2816c2b340b6177bf9a363ebf54090d60b9dea8d", 
+      "title": "An Empirical Study of the Domain Dependence of Supervised Word Sense Disambiguation Systems", 
+      "url": "https://www.semanticscholar.org/paper/2816c2b340b6177bf9a363ebf54090d60b9dea8d", 
+      "venue": "", 
+      "year": 1997
+    }, 
+    {
+      "isInfluential": true, 
+      "paperId": "b88cc8a336372320311ff635ec2d7fa0185658dd", 
+      "title": "Machine Learning Techniques for Word Sense Disambiguation", 
+      "url": "https://www.semanticscholar.org/paper/b88cc8a336372320311ff635ec2d7fa0185658dd", 
+      "venue": "", 
+      "year": 2006
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "7a65f16a46001ab18c2258c994a97e6e5c42b6f6", 
+      "title": "Building thematic lexical resources by term categorization", 
+      "url": "https://www.semanticscholar.org/paper/7a65f16a46001ab18c2258c994a97e6e5c42b6f6", 
+      "venue": "SIGIR", 
+      "year": 2002
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "8e5a58c138eb9195676ef87e4fb5a2f43ab595a0", 
+      "title": "Corpora based Approach for Arabic/English Word Translation Disambiguation", 
+      "url": "https://www.semanticscholar.org/paper/8e5a58c138eb9195676ef87e4fb5a2f43ab595a0", 
+      "venue": "", 
+      "year": 2009
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "55b63dcff638b296311d7059937c56d9f191a753", 
+      "title": "High WSD Accuracy Using Naive Bayesian Classifier with Rich Features", 
+      "url": "https://www.semanticscholar.org/paper/55b63dcff638b296311d7059937c56d9f191a753", 
+      "venue": "PACLIC", 
+      "year": 2004
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "545d5aaf42a312d65e6c30e1cfd00c5a3b77a3e1", 
+      "title": "Executive Editor \u2013 Editor in Chief Executive Associate Editor -managing Editor Executive Associate Editor -deputy Managing Editor Executive Associate Editor -technical Editor on the Inverse Problem for Generalized One-sided Concept Lattices", 
+      "url": "https://www.semanticscholar.org/paper/545d5aaf42a312d65e6c30e1cfd00c5a3b77a3e1", 
+      "venue": "", 
+      "year": 2014
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "152d020216d6d003746034b3a3bcebe042399f6b", 
+      "title": "A Simple Extension of Stability Feature Selection", 
+      "url": "https://www.semanticscholar.org/paper/152d020216d6d003746034b3a3bcebe042399f6b", 
+      "venue": "DAGM/OAGM Symposium", 
+      "year": 2012
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "90dd9a6e63320a18f8f50792996ba605cc874fe6", 
+      "title": "An Empirical Study Of The Domain Dependence Of Supervised Word Disambiguation Systems", 
+      "url": "https://www.semanticscholar.org/paper/90dd9a6e63320a18f8f50792996ba605cc874fe6", 
+      "venue": "", 
+      "year": 2000
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "b86fc65e81e101d20bd58866e29a32e179b260db", 
+      "title": "A Machine Learning Approach To German Pronoun Resolution", 
+      "url": "https://www.semanticscholar.org/paper/b86fc65e81e101d20bd58866e29a32e179b260db", 
+      "venue": "", 
+      "year": 2004
+    }, 
+    {
+      "isInfluential": true, 
+      "paperId": "c0a7150b48eb218895aa2f58aaddae0ca0d43bdc", 
+      "title": "Word Sense Disambiguation by Combining Classifiers with an Adaptive Selection of Context Representation", 
+      "url": "https://www.semanticscholar.org/paper/c0a7150b48eb218895aa2f58aaddae0ca0d43bdc", 
+      "venue": "", 
+      "year": 2005
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "556004d3db5b02e13d2887454e38c9d3477d7d0b", 
+      "title": "Word Sense Disambiguation: Facing Current Challenges", 
+      "url": "https://www.semanticscholar.org/paper/556004d3db5b02e13d2887454e38c9d3477d7d0b", 
+      "venue": "", 
+      "year": 2006
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "44b9af24ac11b5ffcd345cb18f1f8a360819728e", 
+      "title": "Translation Disambiguation Using Bilingual Bootstrapping", 
+      "url": "https://www.semanticscholar.org/paper/44b9af24ac11b5ffcd345cb18f1f8a360819728e", 
+      "venue": "", 
+      "year": 2004
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "936a4af585f9a7d3b95c078ad31e8e41e22cb406", 
+      "title": "Adaptive sampling for large scale boosting", 
+      "url": "https://www.semanticscholar.org/paper/936a4af585f9a7d3b95c078ad31e8e41e22cb406", 
+      "venue": "Journal of Machine Learning Research", 
+      "year": 2014
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "9b302fe0c5a7ee6750b07b976f7d5bb8c351f27f", 
+      "title": "Integrating Collocation Features in Chinese Word Sense Disambiguation", 
+      "url": "https://www.semanticscholar.org/paper/9b302fe0c5a7ee6750b07b976f7d5bb8c351f27f", 
+      "venue": "", 
+      "year": 2005
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "38d272feb48bbcef4cf184030d9d7e13dfc67564", 
+      "title": "Aprendizaje competitivo LVQ para la desambiguaci\u00f3n l\u00e9xica", 
+      "url": "https://www.semanticscholar.org/paper/38d272feb48bbcef4cf184030d9d7e13dfc67564", 
+      "venue": "Procesamiento del Lenguaje Natural", 
+      "year": 2003
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "414cad6578f0b91f86e99c618dc6d2070a0d90b3", 
+      "title": "A Maximum Entropy-based Word Sense Disambiguation System", 
+      "url": "https://www.semanticscholar.org/paper/414cad6578f0b91f86e99c618dc6d2070a0d90b3", 
+      "venue": "COLING", 
+      "year": 2002
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "4eb5bbcdad6102dccb74b0457b7df2976d57d6fe", 
+      "title": "Building Thematic Lexical Resources by Bootstrapping and Machine Learning", 
+      "url": "https://www.semanticscholar.org/paper/4eb5bbcdad6102dccb74b0457b7df2976d57d6fe", 
+      "venue": "", 
+      "year": 2002
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "1746e144eb93afa0b8d5ab8b46d3ee71c49bfee4", 
+      "title": "Correlation-based construction of neighborhood and edge features", 
+      "url": "https://www.semanticscholar.org/paper/1746e144eb93afa0b8d5ab8b46d3ee71c49bfee4", 
+      "venue": "ArXiv", 
+      "year": 2013
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "d46017f8dc834a3fda4c4b1c2f5ffa3db95a9d2e", 
+      "title": "A review on text mining", 
+      "url": "https://www.semanticscholar.org/paper/d46017f8dc834a3fda4c4b1c2f5ffa3db95a9d2e", 
+      "venue": "2015 6th IEEE International Conference on Software Engineering and Service Science (ICSESS)", 
+      "year": 2015
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "bdace8492a18155d8e67e75bbc1b025ef90946b2", 
+      "title": "Word Sense vs. Word Domain Disambiguation: A Maximum Entropy Approach", 
+      "url": "https://www.semanticscholar.org/paper/bdace8492a18155d8e67e75bbc1b025ef90946b2", 
+      "venue": "TSD", 
+      "year": 2002
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "c4ef87021a3dfbe16bf971e2458d7d2ef16055ae", 
+      "title": "Fast boosting using adversarial bandits", 
+      "url": "https://www.semanticscholar.org/paper/c4ef87021a3dfbe16bf971e2458d7d2ef16055ae", 
+      "venue": "ICML", 
+      "year": 2010
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "3f8e15cb15dc5dcbb4eb611f75b8d3682e17d753", 
+      "title": "Boosting For Chinese Named Entity Recognition", 
+      "url": "https://www.semanticscholar.org/paper/3f8e15cb15dc5dcbb4eb611f75b8d3682e17d753", 
+      "venue": "", 
+      "year": 2006
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "b0834541f09b0753f5951c1eb5f7548583da07a3", 
+      "title": "Evaluating The Results Of A Memory-Based Word-Expert Approach To Unrestricted Word Sense Disambiguation", 
+      "url": "https://www.semanticscholar.org/paper/b0834541f09b0753f5951c1eb5f7548583da07a3", 
+      "venue": "", 
+      "year": 2002
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "073c9ec4ff069218f358b9dd8451a040cf1a4a82", 
+      "title": "Object Classification and Detection in High Dimensional Feature Space", 
+      "url": "https://www.semanticscholar.org/paper/073c9ec4ff069218f358b9dd8451a040cf1a4a82", 
+      "venue": "", 
+      "year": 2013
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "c544638908fa58d1dda776aea7f86f23644f1cd6", 
+      "title": "Word Sense Disambiguation using Static and Dynamic Sense Vectors", 
+      "url": "https://www.semanticscholar.org/paper/c544638908fa58d1dda776aea7f86f23644f1cd6", 
+      "venue": "COLING", 
+      "year": 2002
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "a65d56eec07d8262daacc1d25e2d51bc73fe2e9a", 
+      "title": "Ontology-based Information Retrieval", 
+      "url": "https://www.semanticscholar.org/paper/a65d56eec07d8262daacc1d25e2d51bc73fe2e9a", 
+      "venue": "", 
+      "year": 2006
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "47fdf003cb123f7d81df86fbbd73d836aac3a45e", 
+      "title": "Boosting with Maximum Adaptive Sampling", 
+      "url": "https://www.semanticscholar.org/paper/47fdf003cb123f7d81df86fbbd73d836aac3a45e", 
+      "venue": "NIPS", 
+      "year": 2011
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "ee174eb321b6dd9e10939e22767318e1b67261be", 
+      "title": "Reentrenamiento: Aprendizaje Semisupervisado de los Sentidos de las Palabras", 
+      "url": "https://www.semanticscholar.org/paper/ee174eb321b6dd9e10939e22767318e1b67261be", 
+      "venue": "Procesamiento del Lenguaje Natural", 
+      "year": 2005
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "c2ff94e39455d2dfa648aa0af6e7b00cda6b65bf", 
+      "title": "A New Approach to Word Sense Disambiguation Based on Context Similarity", 
+      "url": "https://www.semanticscholar.org/paper/c2ff94e39455d2dfa648aa0af6e7b00cda6b65bf", 
+      "venue": "", 
+      "year": 2011
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "026196a820b35196eb8619386cf42b18f7da0fe3", 
+      "title": "Application of Boosting to Chinese word sense disambiguation", 
+      "url": "https://www.semanticscholar.org/paper/026196a820b35196eb8619386cf42b18f7da0fe3", 
+      "venue": "2005 International Conference on Natural Language Processing and Knowledge Engineering", 
+      "year": 2005
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "1b71fec26f3fced8165b32c1cb1fce8b16a38356", 
+      "title": "Automatic Hardware Implementation Tool for a Discrete Adaboost-Based Decision Algorithm", 
+      "url": "https://www.semanticscholar.org/paper/1b71fec26f3fced8165b32c1cb1fce8b16a38356", 
+      "venue": "EURASIP J. Adv. Sig. Proc.", 
+      "year": 2005
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "75ca70a6badea4ec42baeedb85b61a5e4f5d01cb", 
+      "title": "Using LazyBoosting for Word Sense Disambiguation", 
+      "url": "https://www.semanticscholar.org/paper/75ca70a6badea4ec42baeedb85b61a5e4f5d01cb", 
+      "venue": "", 
+      "year": 2001
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "4dcd40005726e66a0e4ed33635b38bb8107a671a", 
+      "title": "Tasting families of features for image classification", 
+      "url": "https://www.semanticscholar.org/paper/4dcd40005726e66a0e4ed33635b38bb8107a671a", 
+      "venue": "2011 International Conference on Computer Vision", 
+      "year": 2011
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "e24f27671cb3b21c7fb376b7579b409752ed3191", 
+      "title": "Machine Learning for NLP: Supervised learning techniques", 
+      "url": "https://www.semanticscholar.org/paper/e24f27671cb3b21c7fb376b7579b409752ed3191", 
+      "venue": "", 
+      "year": 2007
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "3a3a4408432408b62e2dc22de7820a5a2f7bbe9e", 
+      "title": "No Spare Parts: Sharing Part Detectors for Image Categorization", 
+      "url": "https://www.semanticscholar.org/paper/3a3a4408432408b62e2dc22de7820a5a2f7bbe9e", 
+      "venue": "Computer Vision and Image Understanding", 
+      "year": 2016
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "6a53f6d034d0879c377f8cc4b9dfa69b14e144b3", 
+      "title": "Frame-Level Audio Feature Extraction Using AdaBoost", 
+      "url": "https://www.semanticscholar.org/paper/6a53f6d034d0879c377f8cc4b9dfa69b14e144b3", 
+      "venue": "ISMIR", 
+      "year": 2005
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "316640f74984e33ddddd5bb2223ae846c601d133", 
+      "title": "Organizing and Using Digital Libraries by Automated Text Categorization", 
+      "url": "https://www.semanticscholar.org/paper/316640f74984e33ddddd5bb2223ae846c601d133", 
+      "venue": "", 
+      "year": 2001
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "e14a16d4ea5634feb5224702459029cb4e622b0b", 
+      "title": "The Use of Topic Representative Words in Text Categorization", 
+      "url": "https://www.semanticscholar.org/paper/e14a16d4ea5634feb5224702459029cb4e622b0b", 
+      "venue": "", 
+      "year": 2009
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "04e9131112c50379c8cf77609b72e3bcc73af957", 
+      "title": "N-fold Templated Piped Correction", 
+      "url": "https://www.semanticscholar.org/paper/04e9131112c50379c8cf77609b72e3bcc73af957", 
+      "venue": "", 
+      "year": 2004
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "2a6fdddee9754cb17128e8146dbd853cecb3000b", 
+      "title": "Boosting Statistical Word Alignment", 
+      "url": "https://www.semanticscholar.org/paper/2a6fdddee9754cb17128e8146dbd853cecb3000b", 
+      "venue": "", 
+      "year": 2005
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "64af0cd608baded7187809df7cf862de42c54376", 
+      "title": "Combining classifiers for word sense disambiguation based on Dempster-Shafer theory and OWA operators", 
+      "url": "https://www.semanticscholar.org/paper/64af0cd608baded7187809df7cf862de42c54376", 
+      "venue": "Data Knowl. Eng.", 
+      "year": 2007
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "2c3e171e534768a84e4622024a6e4db00be2dc81", 
+      "title": "A Comparison between Supervised Learning Algorithms for Word Sense Disambiguation", 
+      "url": "https://www.semanticscholar.org/paper/2c3e171e534768a84e4622024a6e4db00be2dc81", 
+      "venue": "CoNLL/LLL", 
+      "year": 2000
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "aa2e6e7be68b808e596c8c1474047a6611a70f85", 
+      "title": "Using a Maximum Entropy Classifier to link \u201cgood\u201d corpus examples to dictionary senses", 
+      "url": "https://www.semanticscholar.org/paper/aa2e6e7be68b808e596c8c1474047a6611a70f85", 
+      "venue": "", 
+      "year": 2015
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "40b11488b724372ae21edc04114a632544c92870", 
+      "title": "Text Categorization", 
+      "url": "https://www.semanticscholar.org/paper/40b11488b724372ae21edc04114a632544c92870", 
+      "venue": "Encyclopedia of Database Technologies and Applications", 
+      "year": 2005
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "2778f50b8d9f25b00bb8571e7f6eddbac1780345", 
+      "title": "An Unsupervised Approach to Domain-Specific Term Extraction", 
+      "url": "https://www.semanticscholar.org/paper/2778f50b8d9f25b00bb8571e7f6eddbac1780345", 
+      "venue": "", 
+      "year": 2009
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "8624d84e844a7f4983fba2e8c148133302eef90a", 
+      "title": "Accelerating AdaBoost using UCB", 
+      "url": "https://www.semanticscholar.org/paper/8624d84e844a7f4983fba2e8c148133302eef90a", 
+      "venue": "KDD Cup", 
+      "year": 2009
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "bc1d6820d514d6f9881c68ab12c2ccc5a9e190c1", 
+      "title": "A memory based approach to word sense disambiguation in Bengali using k-NN method", 
+      "url": "https://www.semanticscholar.org/paper/bc1d6820d514d6f9881c68ab12c2ccc5a9e190c1", 
+      "venue": "2015 IEEE 2nd International Conference on Recent Trends in Information Systems (ReTIS)", 
+      "year": 2015
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "869f74ce359c6dda92f8a030b9a804eb53468633", 
+      "title": "Arabic/English Word Translation Disambiguation using Parallel Corpora and Matching Schemes", 
+      "url": "https://www.semanticscholar.org/paper/869f74ce359c6dda92f8a030b9a804eb53468633", 
+      "venue": "", 
+      "year": 2008
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "5f58bf2c25826cb6ee927a1461aa72bd623157ff", 
+      "title": "Tasting Families of Features for Image Classification", 
+      "url": "https://www.semanticscholar.org/paper/5f58bf2c25826cb6ee927a1461aa72bd623157ff", 
+      "venue": "", 
+      "year": 2011
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "c1e48526eddd68b5bf98739a578ab69a009f570d", 
+      "title": "Word sense disambiguation: A survey", 
+      "url": "https://www.semanticscholar.org/paper/c1e48526eddd68b5bf98739a578ab69a009f570d", 
+      "venue": "ACM Comput. Surv.", 
+      "year": 2009
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "28b5f757aedf32927b6d20c3169d200d673c603f", 
+      "title": "Combining Knowledge- and Corpus-based Word-Sense-Disambiguation Methods", 
+      "url": "https://www.semanticscholar.org/paper/28b5f757aedf32927b6d20c3169d200d673c603f", 
+      "venue": "J. Artif. Intell. Res.", 
+      "year": 2005
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "cb017e3a69edfa2dbd0e7ac57d0cd27af747335f", 
+      "title": "Rules selection in word sense disambiguation using Adaboost", 
+      "url": "https://www.semanticscholar.org/paper/cb017e3a69edfa2dbd0e7ac57d0cd27af747335f", 
+      "venue": "2005 International Conference on Natural Language Processing and Knowledge Engineering", 
+      "year": 2005
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "ee584a3bd876d68265a44408bf80925661b78527", 
+      "title": "Analysis of supervised word sense disambiguation systems", 
+      "url": "https://www.semanticscholar.org/paper/ee584a3bd876d68265a44408bf80925661b78527", 
+      "venue": "", 
+      "year": 2002
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "4f2f25c3e8f90fc22cb18bd6c88198bc045bbc30", 
+      "title": "Making Lexical Sense of Japanese\u2013English Machine Translation: A Disambiguation Extravaganza", 
+      "url": "https://www.semanticscholar.org/paper/4f2f25c3e8f90fc22cb18bd6c88198bc045bbc30", 
+      "venue": "", 
+      "year": 2000
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "70f07feaf3b5aae843b42f2d4af0d4def9dfaf99", 
+      "title": "Research Paper: A Multi-aspect Comparison Study of Supervised Word Sense Disambiguation", 
+      "url": "https://www.semanticscholar.org/paper/70f07feaf3b5aae843b42f2d4af0d4def9dfaf99", 
+      "venue": "JAMIA", 
+      "year": 2004
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "40d8b1b8cf48c087edc69ec4ac3b225dcf7a4398", 
+      "title": "Word Translation Disambiguation Using Bilingual Bootstrapping", 
+      "url": "https://www.semanticscholar.org/paper/40d8b1b8cf48c087edc69ec4ac3b225dcf7a4398", 
+      "venue": "ACL", 
+      "year": 2002
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "20e62999f1058b6699efcd7595ba7a4c9aa33ddd", 
+      "title": "Why Nitpicking Works: Evidence for Occam's Razor in Error Correctors", 
+      "url": "https://www.semanticscholar.org/paper/20e62999f1058b6699efcd7595ba7a4c9aa33ddd", 
+      "venue": "COLING", 
+      "year": 2004
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "313649d439369db7cfbca16ca59d7873770a9d7f", 
+      "title": "PHORA: A system to solve the Anaphora in Spanish", 
+      "url": "https://www.semanticscholar.org/paper/313649d439369db7cfbca16ca59d7873770a9d7f", 
+      "venue": "", 
+      "year": 2008
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "1d2f59fbbe1cfa5da4e90739049ba0ec0d392069", 
+      "title": "Frame-Level Speech/Music Discrimination using AdaBoost", 
+      "url": "https://www.semanticscholar.org/paper/1d2f59fbbe1cfa5da4e90739049ba0ec0d392069", 
+      "venue": "", 
+      "year": 2005
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "16ed6037525fd81cd5be7f23fa72bd29f10ee92e", 
+      "title": "Word Sense Disambiguation with Information Retrieval Technique", 
+      "url": "https://www.semanticscholar.org/paper/16ed6037525fd81cd5be7f23fa72bd29f10ee92e", 
+      "venue": "LREC", 
+      "year": 2002
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "4ecf1f8c380f0e75dbf597b550e8193df368e926", 
+      "title": "Semantic pattern learning through maximum entropy-based WSD technique", 
+      "url": "https://www.semanticscholar.org/paper/4ecf1f8c380f0e75dbf597b550e8193df368e926", 
+      "venue": "CoNLL", 
+      "year": 2001
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "48fb6e7cc84cc054b2fab12248e95fb42d6e08a4", 
+      "title": "A Fast Boosting-based Learner for Feature-Rich Tagging and Chunking", 
+      "url": "https://www.semanticscholar.org/paper/48fb6e7cc84cc054b2fab12248e95fb42d6e08a4", 
+      "venue": "CoNLL", 
+      "year": 2008
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "dced8c26e14672c67679cc1f84a8799bef1b2710", 
+      "title": "Improving Term Extraction by System Combination Using Boosting", 
+      "url": "https://www.semanticscholar.org/paper/dced8c26e14672c67679cc1f84a8799bef1b2710", 
+      "venue": "ECML", 
+      "year": 2001
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "063def21a8d2f0620b882ab63206c2b9ae0a936c", 
+      "title": "MULTIBOOST: A Multi-purpose Boosting Package", 
+      "url": "https://www.semanticscholar.org/paper/063def21a8d2f0620b882ab63206c2b9ae0a936c", 
+      "venue": "Journal of Machine Learning Research", 
+      "year": 2012
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "ce56643f3f88e209c425cc976ae8c8228075699c", 
+      "title": "Text and Hypertext Categorization", 
+      "url": "https://www.semanticscholar.org/paper/ce56643f3f88e209c425cc976ae8c8228075699c", 
+      "venue": "Artificial Intelligence: An International Perspective", 
+      "year": 2009
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "0545f7a4762db9cbc0d92333784b2f2b94f0f65c", 
+      "title": "Combined Optimization of Feature Selection and Algorithm Parameters in Machine Learning of Language", 
+      "url": "https://www.semanticscholar.org/paper/0545f7a4762db9cbc0d92333784b2f2b94f0f65c", 
+      "venue": "ECML", 
+      "year": 2003
+    }
+  ], 
+  "doi": null, 
+  "influentialCitationCount": 2, 
+  "paperId": "3d97fc70da26756166f173d324109b1b77293f46", 
+  "references": [
+    {
+      "isInfluential": false, 
+      "paperId": "35d82bc17690d98c2678b1de2576ffff602de539", 
+      "title": "Comparative Experiments on Disambiguating Word Senses: An Illustration of the Role of Bias in Machine Learning", 
+      "url": "https://www.semanticscholar.org/paper/35d82bc17690d98c2678b1de2576ffff602de539", 
+      "venue": "ArXiv", 
+      "year": 1996
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "3653266b5427295bdd54d6a22bf4caaa8c0b6961", 
+      "title": "An Empirical Evaluation of Bagging and Boosting", 
+      "url": "https://www.semanticscholar.org/paper/3653266b5427295bdd54d6a22bf4caaa8c0b6961", 
+      "venue": "AAAI/IAAI", 
+      "year": 1997
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "929bb4e2e474d7bb4338a82cc708c7b9794567da", 
+      "title": "Approximate Statistical Test For Comparing Supervised Classification Learning Algorithms", 
+      "url": "https://www.semanticscholar.org/paper/929bb4e2e474d7bb4338a82cc708c7b9794567da", 
+      "venue": "Neural Computation", 
+      "year": 1998
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "5db4c0f527adc11923c97a05e947e21711572a97", 
+      "title": "Boosting Applied To Tagging And PP Attachment", 
+      "url": "https://www.semanticscholar.org/paper/5db4c0f527adc11923c97a05e947e21711572a97", 
+      "venue": "", 
+      "year": 1999
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "f1eb6f4b5274f873d87ab3447c0f93f986f6fe30", 
+      "title": "A Distance-Based Attribute Selection Measure for Decision Tree Induction", 
+      "url": "https://www.semanticscholar.org/paper/f1eb6f4b5274f873d87ab3447c0f93f986f6fe30", 
+      "venue": "Machine Learning", 
+      "year": 1991
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "9b3b9247f2c4311dbd06967032069ba8c9fba091", 
+      "title": "Minimizing Manual Annotation Cost in Supervised Training from Corpora", 
+      "url": "https://www.semanticscholar.org/paper/9b3b9247f2c4311dbd06967032069ba8c9fba091", 
+      "venue": "ACL", 
+      "year": 1996
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "bf35ed0864ff6cf524a24f0a65aa6951f9d6f214", 
+      "title": "A method for disambiguating word senses in a large corpus", 
+      "url": "https://www.semanticscholar.org/paper/bf35ed0864ff6cf524a24f0a65aa6951f9d6f214", 
+      "venue": "Computers and the Humanities", 
+      "year": 1992
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "176ce079bd5efa86677aea8804158dc29b651e45", 
+      "title": "Selective Sampling for Example-based Word Sense Disambiguation", 
+      "url": "https://www.semanticscholar.org/paper/176ce079bd5efa86677aea8804158dc29b651e45", 
+      "venue": "Computational Linguistics", 
+      "year": 1998
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "2f524d92be29a2c969680977994090c0aee31e22", 
+      "title": "Exemplar-Based Word Sense Disambiguation: Some Recent Improvements", 
+      "url": "https://www.semanticscholar.org/paper/2f524d92be29a2c969680977994090c0aee31e22", 
+      "venue": "ArXiv", 
+      "year": 1997
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "e0afbb34da062da3fcc3429ece9454aa413e380b", 
+      "title": "Bagging, Boosting, and C4.5", 
+      "url": "https://www.semanticscholar.org/paper/e0afbb34da062da3fcc3429ece9454aa413e380b", 
+      "venue": "AAAI/IAAI, Vol. 1", 
+      "year": 1996
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "3d8650c28ae2b0f8d8707265eafe53804f83f416", 
+      "title": "Experiments with a New Boosting Algorithm", 
+      "url": "https://www.semanticscholar.org/paper/3d8650c28ae2b0f8d8707265eafe53804f83f416", 
+      "venue": "ICML", 
+      "year": 1996
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "ac832c85c54c89a2751c15ef7e02b3f976bcd72d", 
+      "title": "Disambiguating Highly Ambiguous Words", 
+      "url": "https://www.semanticscholar.org/paper/ac832c85c54c89a2751c15ef7e02b3f976bcd72d", 
+      "venue": "Computational Linguistics", 
+      "year": 1998
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "9931242c63d725ef8bf4f47549c6cc12e69257ed", 
+      "title": "An Empirical Comparison of Voting Classification Algorithms: Bagging, Boosting, and Variants", 
+      "url": "https://www.semanticscholar.org/paper/9931242c63d725ef8bf4f47549c6cc12e69257ed", 
+      "venue": "Machine Learning", 
+      "year": 1999
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "72c994b3663d0a5b77fdf0c7c5424dbca5ef7068", 
+      "title": "An Automatic Method for Generating Sense Tagged Corpora", 
+      "url": "https://www.semanticscholar.org/paper/72c994b3663d0a5b77fdf0c7c5424dbca5ef7068", 
+      "venue": "AAAI/IAAI", 
+      "year": 1999
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "eb4b48209faf0a75d38434e8445dc0419d8aedc6", 
+      "title": "Getting Serious About Word Sense Disambiguation", 
+      "url": "https://www.semanticscholar.org/paper/eb4b48209faf0a75d38434e8445dc0419d8aedc6", 
+      "venue": "", 
+      "year": 1997
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "5ba10f3cab313b8cfb633814a281972d89ba4f4d", 
+      "title": "Integrating Multiple Knowledge Sources to Disambiguate Word Sense: An Exemplar-Based Approach", 
+      "url": "https://www.semanticscholar.org/paper/5ba10f3cab313b8cfb633814a281972d89ba4f4d", 
+      "venue": "ACL", 
+      "year": 1996
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "846a54de86c68ec7a27c1a4b4e86335483634b45", 
+      "title": "Knowledge Lean Word-Sense Disambiguation", 
+      "url": "https://www.semanticscholar.org/paper/846a54de86c68ec7a27c1a4b4e86335483634b45", 
+      "venue": "AAAI/IAAI", 
+      "year": 1997
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "c6c492ce8227c38c6d24183a2d5c37d89bfd05dc", 
+      "title": "Improved Boosting Algorithms Using Confidence-rated Predictions", 
+      "url": "https://www.semanticscholar.org/paper/c6c492ce8227c38c6d24183a2d5c37d89bfd05dc", 
+      "venue": "", 
+      "year": 1999
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "cf95b9e84aa2d790e34c831083b5de636f914c48", 
+      "title": "Pattern Classiication and Scene Analysis 2nd Ed. Part 1: Pattern Classiication", 
+      "url": "https://www.semanticscholar.org/paper/cf95b9e84aa2d790e34c831083b5de636f914c48", 
+      "venue": "", 
+      "year": 1999
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "3fd31544cef124f425cf09ea3de16cd819250e5a", 
+      "title": "Using Corpus Statistics and WordNet Relations for Sense Identification", 
+      "url": "https://www.semanticscholar.org/paper/3fd31544cef124f425cf09ea3de16cd819250e5a", 
+      "venue": "Computational Linguistics", 
+      "year": 1998
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "430bc5a502f7bdda8ac317e746af0f1088b0b8aa", 
+      "title": "Decision Lists for Lexical Ambiguity Resolution: Application to Accent Restoration in Spanish and French", 
+      "url": "https://www.semanticscholar.org/paper/430bc5a502f7bdda8ac317e746af0f1088b0b8aa", 
+      "venue": "ACL", 
+      "year": 1994
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "52e5a4ea046a056d265326ee345acb48de99bc3c", 
+      "title": "A decision-theoretic generalization of on-line learning and an application to boosting", 
+      "url": "https://www.semanticscholar.org/paper/52e5a4ea046a056d265326ee345acb48de99bc3c", 
+      "venue": "EuroCOLT", 
+      "year": 1995
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "5b775fd786acc6f2119b497008ead0398d623d6a", 
+      "title": "Arcing Classifiers", 
+      "url": "https://www.semanticscholar.org/paper/5b775fd786acc6f2119b497008ead0398d623d6a", 
+      "venue": "", 
+      "year": 1998
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "3fe736c278df455b0d926852c5a9ce3f0866eec8", 
+      "title": "Lazy Transformation-Based Learning", 
+      "url": "https://www.semanticscholar.org/paper/3fe736c278df455b0d926852c5a9ce3f0866eec8", 
+      "venue": "FLAIRS Conference", 
+      "year": 1998
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "40eb18d2fbb609766c03a9f83164fe4d3f1bef8d", 
+      "title": "Maximizing Text-Mining Performance", 
+      "url": "https://www.semanticscholar.org/paper/40eb18d2fbb609766c03a9f83164fe4d3f1bef8d", 
+      "venue": "", 
+      "year": 1999
+    }
+  ], 
+  "title": "Boosting Applied to Word Sense Disambiguation", 
+  "url": "https://www.semanticscholar.org/paper/3d97fc70da26756166f173d324109b1b77293f46", 
+  "venue": "", 
+  "year": 1997
+}

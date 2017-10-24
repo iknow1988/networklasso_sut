@@ -1,0 +1,343 @@
+{
+  "authors": [
+    {
+      "authorId": "3081370", 
+      "name": "Yuval Marton", 
+      "url": "https://www.semanticscholar.org/author/3081370"
+    }, 
+    {
+      "authorId": "2745392", 
+      "name": "David Chiang", 
+      "url": "https://www.semanticscholar.org/author/2745392"
+    }, 
+    {
+      "authorId": "1680292", 
+      "name": "Philip Resnik", 
+      "url": "https://www.semanticscholar.org/author/1680292"
+    }
+  ], 
+  "citationVelocity": 0, 
+  "citations": [
+    {
+      "isInfluential": false, 
+      "paperId": "4b2457762fab824c85a5a4e621aad1393f5d4ce1", 
+      "title": "Syntax-based Multi-system Machine Translation", 
+      "url": "https://www.semanticscholar.org/paper/4b2457762fab824c85a5a4e621aad1393f5d4ce1", 
+      "venue": "LREC", 
+      "year": 2016
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "b2b1305a49d41c1a13db4d5fd7cac7c47753888d", 
+      "title": "Bilingual Markov Reordering Labels for Hierarchical SMT", 
+      "url": "https://www.semanticscholar.org/paper/b2b1305a49d41c1a13db4d5fd7cac7c47753888d", 
+      "venue": "SSST@EMNLP", 
+      "year": 2014
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "0c3245022d37e1f7f81e1d04483858354a71a204", 
+      "title": "A Framework for Discriminative Rule Selection in Hierarchical Moses", 
+      "url": "https://www.semanticscholar.org/paper/0c3245022d37e1f7f81e1d04483858354a71a204", 
+      "venue": "WMT", 
+      "year": 2016
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "e2b4dd736d8b615f5fccda225911e0a17194e0be", 
+      "title": "Labeling hierarchical phrase-based models without linguistic resources", 
+      "url": "https://www.semanticscholar.org/paper/e2b4dd736d8b615f5fccda225911e0a17194e0be", 
+      "venue": "Machine Translation", 
+      "year": 2015
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "c5890c52ddb62b541287cbe4a1dbb195c49d6102", 
+      "title": "Rule Selection with Soft Syntactic Features for String-to-Tree Statistical Machine Translation", 
+      "url": "https://www.semanticscholar.org/paper/c5890c52ddb62b541287cbe4a1dbb195c49d6102", 
+      "venue": "EMNLP", 
+      "year": 2015
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "2772fdcd25d8d5a51e961f1f4d2ecdcee017d501", 
+      "title": "Hierarchical Alignment Decomposition Labels for Hiero Grammar Rules", 
+      "url": "https://www.semanticscholar.org/paper/2772fdcd25d8d5a51e961f1f4d2ecdcee017d501", 
+      "venue": "SSST@NAACL-HLT", 
+      "year": 2013
+    }
+  ], 
+  "doi": "10.1007/s10590-011-9111-z", 
+  "influentialCitationCount": 0, 
+  "paperId": "6a9c39b66a9c9dee278ebdb9b6e431df1707b185", 
+  "references": [
+    {
+      "isInfluential": false, 
+      "paperId": "368f3dea4f12c77dfc9b7203f3ab2b9efaecb635", 
+      "title": "Statistical Phrase-Based Translation", 
+      "url": "https://www.semanticscholar.org/paper/368f3dea4f12c77dfc9b7203f3ab2b9efaecb635", 
+      "venue": "HLT-NAACL", 
+      "year": 2003
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "039546b5ba46d7d8df15d1271c6f0596e0bf54c4", 
+      "title": "CCG Supertags in Factored Statistical Machine Translation", 
+      "url": "https://www.semanticscholar.org/paper/039546b5ba46d7d8df15d1271c6f0596e0bf54c4", 
+      "venue": "", 
+      "year": 2007
+    }, 
+    {
+      "isInfluential": true, 
+      "paperId": "a7d523f8a80e819fd0f3c1f3f2f940b0c315cdfb", 
+      "title": "SPMT: Statistical Machine Translation with Syntactified Target Language Phrases", 
+      "url": "https://www.semanticscholar.org/paper/a7d523f8a80e819fd0f3c1f3f2f940b0c315cdfb", 
+      "venue": "EMNLP", 
+      "year": 2006
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "035bb2bf78dacfab2132933ad313891d0261c7a8", 
+      "title": "Forest-Based Translation", 
+      "url": "https://www.semanticscholar.org/paper/035bb2bf78dacfab2132933ad313891d0261c7a8", 
+      "venue": "ACL", 
+      "year": 2008
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "11aedb8f95a007363017dae311fc525f67bd7876", 
+      "title": "Minimum Error Rate Training in Statistical Machine Translation", 
+      "url": "https://www.semanticscholar.org/paper/11aedb8f95a007363017dae311fc525f67bd7876", 
+      "venue": "ACL", 
+      "year": 2003
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "4ee2eab4c298c1824a9fb8799ad8eed21be38d21", 
+      "title": "Moses: Open Source Toolkit for Statistical Machine Translation", 
+      "url": "https://www.semanticscholar.org/paper/4ee2eab4c298c1824a9fb8799ad8eed21be38d21", 
+      "venue": "ACL", 
+      "year": 2007
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "35100b377932ce3ee7f4e99a83ef0c0e5c94c1e5", 
+      "title": "Dependency Treelet Translation: Syntactically Informed Phrasal SMT", 
+      "url": "https://www.semanticscholar.org/paper/35100b377932ce3ee7f4e99a83ef0c0e5c94c1e5", 
+      "venue": "ACL", 
+      "year": 2005
+    }, 
+    {
+      "isInfluential": true, 
+      "paperId": "0bc50d75597b99999634d909009153673deff56d", 
+      "title": "Statistical Significance Tests for Machine Translation Evaluation", 
+      "url": "https://www.semanticscholar.org/paper/0bc50d75597b99999634d909009153673deff56d", 
+      "venue": "EMNLP", 
+      "year": 2004
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "3d4e0cdf981747af1d5c687e3c8238f791f95733", 
+      "title": "Corpus-based Comprehensive and Diagnostic MT Evaluation: Initial Arabic, Chinese, French, and Spanish Results", 
+      "url": "https://www.semanticscholar.org/paper/3d4e0cdf981747af1d5c687e3c8238f791f95733", 
+      "venue": "", 
+      "year": 2004
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "32a10d364fcab719b7926db4d5d626233ea475c2", 
+      "title": "Decoding with Syntactic and Non-Syntactic Phrases in a Syntax-Based Machine Translation System", 
+      "url": "https://www.semanticscholar.org/paper/32a10d364fcab719b7926db4d5d626233ea475c2", 
+      "venue": "", 
+      "year": 2009
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "0bf895b0b0ad814d9800fdd1f76352eb95102824", 
+      "title": "Fine-Grained Linguistic Soft Constraints on Statistical Natural Language Processing Models", 
+      "url": "https://www.semanticscholar.org/paper/0bf895b0b0ad814d9800fdd1f76352eb95102824", 
+      "venue": "", 
+      "year": 2009
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "4ed4f11c7ca1b131a74f70b1ed913a861f20a7ff", 
+      "title": "Synchronous Tree Adjoining Machine Translation", 
+      "url": "https://www.semanticscholar.org/paper/4ed4f11c7ca1b131a74f70b1ed913a861f20a7ff", 
+      "venue": "EMNLP", 
+      "year": 2009
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "ec2072ae71b8fa0c3c15ae4a193636e689784b17", 
+      "title": "A Syntax-Driven Bracketing Model for Phrase-Based Translation", 
+      "url": "https://www.semanticscholar.org/paper/ec2072ae71b8fa0c3c15ae4a193636e689784b17", 
+      "venue": "ACL/IJCNLP", 
+      "year": 2009
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "06d0a9697a0f0242dbdeeff08ec5266b74bfe457", 
+      "title": "Fast Exact Inference with a Factored Model for Natural Language Parsing", 
+      "url": "https://www.semanticscholar.org/paper/06d0a9697a0f0242dbdeeff08ec5266b74bfe457", 
+      "venue": "NIPS", 
+      "year": 2002
+    }, 
+    {
+      "isInfluential": true, 
+      "paperId": "56bc078f0b7b4c6112001af12527b3f7fcf4f021", 
+      "title": "Syntax Augmented Machine Translation Via Chart Parsing", 
+      "url": "https://www.semanticscholar.org/paper/56bc078f0b7b4c6112001af12527b3f7fcf4f021", 
+      "venue": "", 
+      "year": 2006
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "7fdf4e6a43ee4b36e91f4d7b3d4c4bf2b2c89d83", 
+      "title": "The Mathematics of Statistical Machine Translation: Parameter Estimation", 
+      "url": "https://www.semanticscholar.org/paper/7fdf4e6a43ee4b36e91f4d7b3d4c4bf2b2c89d83", 
+      "venue": "Computational Linguistics", 
+      "year": 1993
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "21c818398811c785fe02b312f33c1fc541618b4a", 
+      "title": "The Hiero Machine Translation System: Extensions, Evaluation, and Analysis", 
+      "url": "https://www.semanticscholar.org/paper/21c818398811c785fe02b312f33c1fc541618b4a", 
+      "venue": "HLT/EMNLP", 
+      "year": 2005
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "70930a21a1d30420bfc3ce0729fa9292d01f5d31", 
+      "title": "Preference Grammars: Softening Syntactic Constraints to Improve Statistical Machine Translation", 
+      "url": "https://www.semanticscholar.org/paper/70930a21a1d30420bfc3ce0729fa9292d01f5d31", 
+      "venue": "HLT-NAACL", 
+      "year": 2009
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "6b1683c7f8f80df92d32bf97c8400e77a46fdccd", 
+      "title": "A Hierarchical Phrase-Based Model for Statistical Machine Translation", 
+      "url": "https://www.semanticscholar.org/paper/6b1683c7f8f80df92d32bf97c8400e77a46fdccd", 
+      "venue": "ACL", 
+      "year": 2005
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "1a01327382ed10f6299923d5eca589f96449b7d0", 
+      "title": "A Syntactified Direct Translation Model with Linear-time Decoding", 
+      "url": "https://www.semanticscholar.org/paper/1a01327382ed10f6299923d5eca589f96449b7d0", 
+      "venue": "EMNLP", 
+      "year": 2009
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "0ad16e18cbf62a3af3c4487db704496f454fd2bd", 
+      "title": "Learning to Translate with Source and Target Syntax", 
+      "url": "https://www.semanticscholar.org/paper/0ad16e18cbf62a3af3c4487db704496f454fd2bd", 
+      "venue": "ACL", 
+      "year": 2010
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "57b3f8df7020b67df71a96974adef8d5282ed396", 
+      "title": "1,001 New Features for Statistical Machine Translation", 
+      "url": "https://www.semanticscholar.org/paper/57b3f8df7020b67df71a96974adef8d5282ed396", 
+      "venue": "", 
+      "year": 2009
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "4ec9b9888e6af6a9188e1b8bfc2fb04febc94f98", 
+      "title": "Online Large-Margin Training of Syntactic and Structural Translation Features", 
+      "url": "https://www.semanticscholar.org/paper/4ec9b9888e6af6a9188e1b8bfc2fb04febc94f98", 
+      "venue": "EMNLP", 
+      "year": 2008
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "9987867d2ab17c6c44052520dc453f6523bd10c3", 
+      "title": "Two Easy Improvements to Lexical Weighting", 
+      "url": "https://www.semanticscholar.org/paper/9987867d2ab17c6c44052520dc453f6523bd10c3", 
+      "venue": "ACL", 
+      "year": 2011
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "7cdf9bfdc51e4290bea1afb316fa2dbcb2dbb1da", 
+      "title": "Cohesive Constraints in A Beam Search Phrase-based Decoder", 
+      "url": "https://www.semanticscholar.org/paper/7cdf9bfdc51e4290bea1afb316fa2dbcb2dbb1da", 
+      "venue": "HLT-NAACL", 
+      "year": 2009
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "18b534c7207a1376fa92e87fe0d2cfb358d98c51", 
+      "title": "Accurate Unlexicalized Parsing", 
+      "url": "https://www.semanticscholar.org/paper/18b534c7207a1376fa92e87fe0d2cfb358d98c51", 
+      "venue": "ACL", 
+      "year": 2003
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "025474cc21223417cfbc901d39fdda93cfbc4fc6", 
+      "title": "Dependency treelet translation: the convergence of statistical and example-based machine-translation?", 
+      "url": "https://www.semanticscholar.org/paper/025474cc21223417cfbc901d39fdda93cfbc4fc6", 
+      "venue": "Machine Translation", 
+      "year": 2006
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "4ed11520077109df32543fbd3288af51ae56d09d", 
+      "title": "Supertagged Phrase-Based Statistical Machine Translation", 
+      "url": "https://www.semanticscholar.org/paper/4ed11520077109df32543fbd3288af51ae56d09d", 
+      "venue": "ACL", 
+      "year": 2007
+    }, 
+    {
+      "isInfluential": true, 
+      "paperId": "c9214ebe91454e6369720136ab7dd990d52a07d4", 
+      "title": "Improved Statistical Alignment Models", 
+      "url": "https://www.semanticscholar.org/paper/c9214ebe91454e6369720136ab7dd990d52a07d4", 
+      "venue": "ACL", 
+      "year": 2000
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "4229d684574bec9e73af9d3b39098317b0447012", 
+      "title": "Comparing Reordering Constraints for SMT Using Efficient BLEU Oracle Computation", 
+      "url": "https://www.semanticscholar.org/paper/4229d684574bec9e73af9d3b39098317b0447012", 
+      "venue": "", 
+      "year": 2007
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "b8a254f32ab098086c8fa398aa491a8b5d04d1dc", 
+      "title": "NP Subject Detection in Verb-Initial Arabic Clauses", 
+      "url": "https://www.semanticscholar.org/paper/b8a254f32ab098086c8fa398aa491a8b5d04d1dc", 
+      "venue": "", 
+      "year": 2009
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "096d7d2e9b3fbc37f1c4e75b1896ae3797950ef9", 
+      "title": "An Empirical Study of Smoothing Techniques for Language Modeling", 
+      "url": "https://www.semanticscholar.org/paper/096d7d2e9b3fbc37f1c4e75b1896ae3797950ef9", 
+      "venue": "ACL", 
+      "year": 1996
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "a8e9ef2a27cd8efbc37d861b23220ed8630e4ffa", 
+      "title": "Efficient Minimal Perfect Hash Language Models", 
+      "url": "https://www.semanticscholar.org/paper/a8e9ef2a27cd8efbc37d861b23220ed8630e4ffa", 
+      "venue": "LREC", 
+      "year": 2010
+    }
+  ], 
+  "title": "Soft syntactic constraints for Arabic\u2013English hierarchical phrase-based translation", 
+  "url": "https://www.semanticscholar.org/paper/6a9c39b66a9c9dee278ebdb9b6e431df1707b185", 
+  "venue": "Machine Translation", 
+  "year": 2011
+}

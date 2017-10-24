@@ -1,0 +1,1193 @@
+{
+  "authors": [
+    {
+      "authorId": "1796706", 
+      "name": "Daojian Zeng", 
+      "url": "https://www.semanticscholar.org/author/1796706"
+    }, 
+    {
+      "authorId": "2200096", 
+      "name": "Kang Liu", 
+      "url": "https://www.semanticscholar.org/author/2200096"
+    }, 
+    {
+      "authorId": "3037362", 
+      "name": "Siwei Lai", 
+      "url": "https://www.semanticscholar.org/author/3037362"
+    }, 
+    {
+      "authorId": "1777454", 
+      "name": "Guangyou Zhou", 
+      "url": "https://www.semanticscholar.org/author/1777454"
+    }, 
+    {
+      "authorId": "19502337", 
+      "name": "Jun Zhao", 
+      "url": "https://www.semanticscholar.org/author/19502337"
+    }
+  ], 
+  "citationVelocity": 70, 
+  "citations": [
+    {
+      "isInfluential": false, 
+      "paperId": "e5b64e77329fdab64f9c02651bb6a22838d29e91", 
+      "title": "Event Linking with Sentential Features from Convolutional Neural Networks", 
+      "url": "https://www.semanticscholar.org/paper/e5b64e77329fdab64f9c02651bb6a22838d29e91", 
+      "venue": "CoNLL", 
+      "year": 2016
+    }, 
+    {
+      "isInfluential": true, 
+      "paperId": "f0dc9d9b3173cd96cdccd096c00698f0946a4a00", 
+      "title": "Position-aware Attention and Supervised Data Improve Slot Filling", 
+      "url": "https://www.semanticscholar.org/paper/f0dc9d9b3173cd96cdccd096c00698f0946a4a00", 
+      "venue": "", 
+      "year": 2017
+    }, 
+    {
+      "isInfluential": true, 
+      "paperId": "25d0cd147e48cf277011c652192d737a55f994ea", 
+      "title": "Improved Relation Extraction with Feature-Rich Compositional Embedding Models", 
+      "url": "https://www.semanticscholar.org/paper/25d0cd147e48cf277011c652192d737a55f994ea", 
+      "venue": "EMNLP", 
+      "year": 2015
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "3ccde3a3e50004cfeb036071d10ff46caf7476f7", 
+      "title": "Temporal Information Extraction for Question Answering Using Syntactic Dependencies in an LSTM-based Architecture", 
+      "url": "https://www.semanticscholar.org/paper/3ccde3a3e50004cfeb036071d10ff46caf7476f7", 
+      "venue": "ArXiv", 
+      "year": 2017
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "b7062699879d741fd57b3bd908cc53baa9cfb72d", 
+      "title": "Word Sequence Modeling using Deep Learning: an End-to-end Approach and its Applications", 
+      "url": "https://www.semanticscholar.org/paper/b7062699879d741fd57b3bd908cc53baa9cfb72d", 
+      "venue": "", 
+      "year": 2016
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "f04cdf0867d970bbfe5c5e2e4c41d6a6c92f06ce", 
+      "title": "Convolutional Neural Networks for Text Hashing", 
+      "url": "https://www.semanticscholar.org/paper/f04cdf0867d970bbfe5c5e2e4c41d6a6c92f06ce", 
+      "venue": "IJCAI", 
+      "year": 2015
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "c258d337123f4d56a2454233e5a669d366200298", 
+      "title": "Temporal relation classification with deep neural network", 
+      "url": "https://www.semanticscholar.org/paper/c258d337123f4d56a2454233e5a669d366200298", 
+      "venue": "2016 International Conference on Big Data and Smart Computing (BigComp)", 
+      "year": 2016
+    }, 
+    {
+      "isInfluential": true, 
+      "paperId": "22ffb22d750bc897550b4b9c8a447b5c86f960ac", 
+      "title": "Neural Relation Extraction with Selective Attention over Instances", 
+      "url": "https://www.semanticscholar.org/paper/22ffb22d750bc897550b4b9c8a447b5c86f960ac", 
+      "venue": "ACL", 
+      "year": 2016
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "7c1b0d3fc58362215aa2fdaddbd222b391a95b5a", 
+      "title": "A Shortest Dependency Path Based Convolutional Neural Network for Protein-Protein Relation Extraction", 
+      "url": "https://www.semanticscholar.org/paper/7c1b0d3fc58362215aa2fdaddbd222b391a95b5a", 
+      "venue": "BioMed research international", 
+      "year": 2016
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "7f807ac6d6391e669172ff7043e40bf84492bebe", 
+      "title": "LABDA at SemEval-2017 Task 10: Relation Classification between keyphrases via Convolutional Neural Network", 
+      "url": "https://www.semanticscholar.org/paper/7f807ac6d6391e669172ff7043e40bf84492bebe", 
+      "venue": "SemEval@ACL", 
+      "year": 2017
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "aafff859cad24a7bfa37aa5f9cf83b660c3508b0", 
+      "title": "A Unified Architecture for Semantic Role Labeling and Relation Classification", 
+      "url": "https://www.semanticscholar.org/paper/aafff859cad24a7bfa37aa5f9cf83b660c3508b0", 
+      "venue": "COLING", 
+      "year": 2016
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "bd64afdf9b26de4c460c19dea17ddf043c26e61c", 
+      "title": "Semantic Relation Classification via Hierarchical Recurrent Neural Network with Attention", 
+      "url": "https://www.semanticscholar.org/paper/bd64afdf9b26de4c460c19dea17ddf043c26e61c", 
+      "venue": "COLING", 
+      "year": 2016
+    }, 
+    {
+      "isInfluential": true, 
+      "paperId": "311de02e063e773fa01126e66da94096a2348817", 
+      "title": "Graphical Models with Structured Factors, Neural Factors, and Approximation-aware Training Working with Other Researchers Taught Me a Lot: Thanks to Spitkovsky Were Key for Replicating Prior Work. Thanks To", 
+      "url": "https://www.semanticscholar.org/paper/311de02e063e773fa01126e66da94096a2348817", 
+      "venue": "", 
+      "year": 2017
+    }, 
+    {
+      "isInfluential": true, 
+      "paperId": "63cf3fd2994747f781ccd2e1e488165d7e060682", 
+      "title": "Classifying Relations by Ranking with Convolutional Neural Networks", 
+      "url": "https://www.semanticscholar.org/paper/63cf3fd2994747f781ccd2e1e488165d7e060682", 
+      "venue": "ACL", 
+      "year": 2015
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "8a93cd1b6fbf7c8c86637bae18d979dafeb9a7c1", 
+      "title": "Factor-based Compositional Embedding Models", 
+      "url": "https://www.semanticscholar.org/paper/8a93cd1b6fbf7c8c86637bae18d979dafeb9a7c1", 
+      "venue": "", 
+      "year": 2014
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "3208b5abafa1146e7df1073090523c822909275e", 
+      "title": "Text Classification Improved by Integrating Bidirectional LSTM with Two-dimensional Max Pooling", 
+      "url": "https://www.semanticscholar.org/paper/3208b5abafa1146e7df1073090523c822909275e", 
+      "venue": "COLING", 
+      "year": 2016
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "3cdc6d108e48140c017efe1f6f05c6adffcc3980", 
+      "title": "Modeling Mention, Context and Entity with Neural Networks for Entity Disambiguation", 
+      "url": "https://www.semanticscholar.org/paper/3cdc6d108e48140c017efe1f6f05c6adffcc3980", 
+      "venue": "IJCAI", 
+      "year": 2015
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "17ff6fb495872abe1b09d3330d5c4676bd190568", 
+      "title": "Heterogeneous Supervision for Relation Extraction: A Representation Learning Approach", 
+      "url": "https://www.semanticscholar.org/paper/17ff6fb495872abe1b09d3330d5c4676bd190568", 
+      "venue": "ArXiv", 
+      "year": 2017
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "be35ff462fadc7803086661e64dacf100b396a83", 
+      "title": "Pre\u0301sentation du premier Atelier sur l\u2019Extraction et la Mode\u0301lisation de Connaissances a\u0300 partir de Textes Scientifiques", 
+      "url": "https://www.semanticscholar.org/paper/be35ff462fadc7803086661e64dacf100b396a83", 
+      "venue": "", 
+      "year": 2017
+    }, 
+    {
+      "isInfluential": true, 
+      "paperId": "c795c035d563231782711f931e264e629c52de44", 
+      "title": "Attention-Based Convolutional Neural Network for Semantic Relation Extraction", 
+      "url": "https://www.semanticscholar.org/paper/c795c035d563231782711f931e264e629c52de44", 
+      "venue": "COLING", 
+      "year": 2016
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "77863fb985fa0fa4036a85ee07e6e1bce4f0c15d", 
+      "title": "Visual Genome: Connecting Language and Vision Using Crowdsourced Dense Image Annotations", 
+      "url": "https://www.semanticscholar.org/paper/77863fb985fa0fa4036a85ee07e6e1bce4f0c15d", 
+      "venue": "International Journal of Computer Vision", 
+      "year": 2016
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "71c5b59faf75d2b1b6da0f2224327194a982b56b", 
+      "title": "Performance Analysis of GPU-Based Convolutional Neural Networks", 
+      "url": "https://www.semanticscholar.org/paper/71c5b59faf75d2b1b6da0f2224327194a982b56b", 
+      "venue": "2016 45th International Conference on Parallel Processing (ICPP)", 
+      "year": 2016
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "c0fb4f62c39ad91ae6a884a6ad5ebe79517646a1", 
+      "title": "Knowledge Representation via Joint Learning of Sequential Text and Knowledge Graphs", 
+      "url": "https://www.semanticscholar.org/paper/c0fb4f62c39ad91ae6a884a6ad5ebe79517646a1", 
+      "venue": "ArXiv", 
+      "year": 2016
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "f6c0fa3362c657156e19fc802afd2778a4043564", 
+      "title": "HEER: Heterogeneous graph embedding for emerging relation detection from news", 
+      "url": "https://www.semanticscholar.org/paper/f6c0fa3362c657156e19fc802afd2778a4043564", 
+      "venue": "2016 IEEE International Conference on Big Data (Big Data)", 
+      "year": 2016
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "2214888a85d362f2b97f9db9f75c67ca5c86b83d", 
+      "title": "Local Translation Prediction with Global Sentence Representation", 
+      "url": "https://www.semanticscholar.org/paper/2214888a85d362f2b97f9db9f75c67ca5c86b83d", 
+      "venue": "IJCAI", 
+      "year": 2015
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "0f6d8e5d9b243eaf1d3968d8cd272db64e536beb", 
+      "title": "Learning Summary Prior Representation for Extractive Summarization", 
+      "url": "https://www.semanticscholar.org/paper/0f6d8e5d9b243eaf1d3968d8cd272db64e536beb", 
+      "venue": "ACL", 
+      "year": 2015
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "3e23659a2de955727d548c9f26a044a59c3eb1b0", 
+      "title": "Word and Document Embeddings based on Neural Network Approaches", 
+      "url": "https://www.semanticscholar.org/paper/3e23659a2de955727d548c9f26a044a59c3eb1b0", 
+      "venue": "ArXiv", 
+      "year": 2016
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "b67a64da079ce493c8d24e6212a6534490464bb9", 
+      "title": "Neural Architecture for Temporal Relation Extraction: A Bi-LSTM Approach for Detecting Narrative Containers", 
+      "url": "https://www.semanticscholar.org/paper/b67a64da079ce493c8d24e6212a6534490464bb9", 
+      "venue": "ACL", 
+      "year": 2017
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "017968c4091f43e2ded91756b8bdb3a3a1eca1ba", 
+      "title": "Deep learning for extracting protein-protein interactions from biomedical literature", 
+      "url": "https://www.semanticscholar.org/paper/017968c4091f43e2ded91756b8bdb3a3a1eca1ba", 
+      "venue": "ArXiv", 
+      "year": 2017
+    }, 
+    {
+      "isInfluential": true, 
+      "paperId": "06b9ed2d9a27d715511a597f7bd5cd88e81f022f", 
+      "title": "Improved relation classification by deep recurrent neural networks with data augmentation", 
+      "url": "https://www.semanticscholar.org/paper/06b9ed2d9a27d715511a597f7bd5cd88e81f022f", 
+      "venue": "COLING", 
+      "year": 2016
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "0a00df600e766775593ebad226a10bd778f33ee3", 
+      "title": "Classifying Relations via Long Short Term Memory Networks along Shortest Dependency Paths", 
+      "url": "https://www.semanticscholar.org/paper/0a00df600e766775593ebad226a10bd778f33ee3", 
+      "venue": "EMNLP", 
+      "year": 2015
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "97edf0d31f32bc063ea5399ce35d7fee47948c87", 
+      "title": "Aspect-based Opinion Summarization with Convolutional Neural Networks", 
+      "url": "https://www.semanticscholar.org/paper/97edf0d31f32bc063ea5399ce35d7fee47948c87", 
+      "venue": "2016 International Joint Conference on Neural Networks (IJCNN)", 
+      "year": 2016
+    }, 
+    {
+      "isInfluential": true, 
+      "paperId": "c68ec24e2f97c6875cd006a9fa2f0fbe934e4ae0", 
+      "title": "Bidirectional Long Short-Term Memory Networks for Relation Classification", 
+      "url": "https://www.semanticscholar.org/paper/c68ec24e2f97c6875cd006a9fa2f0fbe934e4ae0", 
+      "venue": "PACLIC", 
+      "year": 2015
+    }, 
+    {
+      "isInfluential": true, 
+      "paperId": "6dd3b79f34a8b40320d1d745b9abf2d70e1d4db8", 
+      "title": "Joint Representation Learning of Text and Knowledge for Knowledge Graph Completion", 
+      "url": "https://www.semanticscholar.org/paper/6dd3b79f34a8b40320d1d745b9abf2d70e1d4db8", 
+      "venue": "ArXiv", 
+      "year": 2016
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "69af98a197b1e9c93af74a84e8f8645143c30a0f", 
+      "title": "Probabilistic Graph-based Dependency Parsing with Convolutional Neural Network", 
+      "url": "https://www.semanticscholar.org/paper/69af98a197b1e9c93af74a84e8f8645143c30a0f", 
+      "venue": "ACL", 
+      "year": 2016
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "ca70480f908ec60438e91a914c1075b9954e7834", 
+      "title": "Event Extraction via Dynamic Multi-Pooling Convolutional Neural Networks", 
+      "url": "https://www.semanticscholar.org/paper/ca70480f908ec60438e91a914c1075b9954e7834", 
+      "venue": "ACL", 
+      "year": 2015
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "3ebe6114afb2c9f345cb2e6e5702a32b4f49ebcc", 
+      "title": "Recurrent Neural Network with Word Embedding for Complaint Classification", 
+      "url": "https://www.semanticscholar.org/paper/3ebe6114afb2c9f345cb2e6e5702a32b4f49ebcc", 
+      "venue": "", 
+      "year": 2016
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "4f2ae80aae386d7cf32be372a411efceea11d2a3", 
+      "title": "Speculation and Negation Scope Detection via Convolutional Neural Networks", 
+      "url": "https://www.semanticscholar.org/paper/4f2ae80aae386d7cf32be372a411efceea11d2a3", 
+      "venue": "EMNLP", 
+      "year": 2016
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "72b88705083fda3df98e114507ad76094a0465ec", 
+      "title": "A Dependency-Based Neural Network for Relation Classification", 
+      "url": "https://www.semanticscholar.org/paper/72b88705083fda3df98e114507ad76094a0465ec", 
+      "venue": "ACL", 
+      "year": 2015
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "f6767e9260623dfb6cc7628ef0333c0dcd7f3e63", 
+      "title": "Table Filling Multi-Task Recurrent Neural Network for Joint Entity and Relation Extraction", 
+      "url": "https://www.semanticscholar.org/paper/f6767e9260623dfb6cc7628ef0333c0dcd7f3e63", 
+      "venue": "COLING", 
+      "year": 2016
+    }, 
+    {
+      "isInfluential": true, 
+      "paperId": "258d08e8dab99820361cd91364caded4975f5c3e", 
+      "title": "Combining Recurrent and Convolutional Neural Networks for Relation Classification", 
+      "url": "https://www.semanticscholar.org/paper/258d08e8dab99820361cd91364caded4975f5c3e", 
+      "venue": "HLT-NAACL", 
+      "year": 2016
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "d00c31df3c50cd57eba2ad39709e1cb14a208246", 
+      "title": "Relation Classification via Multi-Level Attention CNNs", 
+      "url": "https://www.semanticscholar.org/paper/d00c31df3c50cd57eba2ad39709e1cb14a208246", 
+      "venue": "ACL", 
+      "year": 2016
+    }, 
+    {
+      "isInfluential": true, 
+      "paperId": "10b5dc51b61795718f79f3b4c9b5bbba44d252c0", 
+      "title": "Improved Neural Relation Detection for Knowledge Base Question Answering", 
+      "url": "https://www.semanticscholar.org/paper/10b5dc51b61795718f79f3b4c9b5bbba44d252c0", 
+      "venue": "ACL", 
+      "year": 2017
+    }, 
+    {
+      "isInfluential": true, 
+      "paperId": "506bc17fed205254d39add80c6d510315f410672", 
+      "title": "A Survey of Deep Learning Methods for Relation Extraction", 
+      "url": "https://www.semanticscholar.org/paper/506bc17fed205254d39add80c6d510315f410672", 
+      "venue": "ArXiv", 
+      "year": 2017
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "ddb5e5e11d9b2b9046cbbcf8b1664f5119f87819", 
+      "title": "Chemical-induced disease relation extraction via convolutional neural network", 
+      "url": "https://www.semanticscholar.org/paper/ddb5e5e11d9b2b9046cbbcf8b1664f5119f87819", 
+      "venue": "Database : the journal of biological databases and curation", 
+      "year": 2017
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "18cd08248be658abcfb6f72a3033b911474541e9", 
+      "title": "Applying deep learning to answer selection: A study and an open task", 
+      "url": "https://www.semanticscholar.org/paper/18cd08248be658abcfb6f72a3033b911474541e9", 
+      "venue": "ASRU", 
+      "year": 2015
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "472af07b3e3ca464dd4e81bdd6b8e08ce505660b", 
+      "title": "Extracting Drug-Drug Interactions with Attention CNNs", 
+      "url": "https://www.semanticscholar.org/paper/472af07b3e3ca464dd4e81bdd6b8e08ce505660b", 
+      "venue": "", 
+      "year": 2017
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "a4943025a5a8c8aaaac4e942271cce951574488a", 
+      "title": "Learning local and global contexts using a convolutional recurrent network model for relation classification in biomedical text", 
+      "url": "https://www.semanticscholar.org/paper/a4943025a5a8c8aaaac4e942271cce951574488a", 
+      "venue": "CoNLL", 
+      "year": 2017
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "5323869e2958751356bd6c1bb9df571b91ffc166", 
+      "title": "Semi-supervised Convolutional Networks for Translation Adaptation with Tiny Amount of In-domain Data", 
+      "url": "https://www.semanticscholar.org/paper/5323869e2958751356bd6c1bb9df571b91ffc166", 
+      "venue": "CoNLL", 
+      "year": 2016
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "4543b9fd2570709870b3c99f9a567bd2ac436744", 
+      "title": "Representing Text for Joint Embedding of Text and Knowledge Bases", 
+      "url": "https://www.semanticscholar.org/paper/4543b9fd2570709870b3c99f9a567bd2ac436744", 
+      "venue": "EMNLP", 
+      "year": 2015
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "254134d6482ad5372f85e0370ae7e07229888bc5", 
+      "title": "Comparing Convolutional Neural Networks to Traditional Models for Slot Filling", 
+      "url": "https://www.semanticscholar.org/paper/254134d6482ad5372f85e0370ae7e07229888bc5", 
+      "venue": "HLT-NAACL", 
+      "year": 2016
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "68bfbaf909ed1ccebf489aabd9ef6b06b0d43a03", 
+      "title": "Incorporating Relation Paths in Neural Relation Extraction", 
+      "url": "https://www.semanticscholar.org/paper/68bfbaf909ed1ccebf489aabd9ef6b06b0d43a03", 
+      "venue": "ArXiv", 
+      "year": 2016
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "367cd2ff22ed8c5e5013ae3a95f8a78eb7eff289", 
+      "title": "Relation extraction from clinical texts using domain invariant convolutional neural network", 
+      "url": "https://www.semanticscholar.org/paper/367cd2ff22ed8c5e5013ae3a95f8a78eb7eff289", 
+      "venue": "ArXiv", 
+      "year": 2016
+    }, 
+    {
+      "isInfluential": true, 
+      "paperId": "08b63b1f9a770c1b6f8545c2e1e4a9bfb6a2de6d", 
+      "title": "Bidirectional Recurrent Convolutional Neural Network for Relation Classification", 
+      "url": "https://www.semanticscholar.org/paper/08b63b1f9a770c1b6f8545c2e1e4a9bfb6a2de6d", 
+      "venue": "ACL", 
+      "year": 2016
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "eeb452086536c4d3a6f7f74a6f38276cd6f291ad", 
+      "title": "Multiple Range-Restricted Bidirectional Gated Recurrent Units with Attention for Relation Classification", 
+      "url": "https://www.semanticscholar.org/paper/eeb452086536c4d3a6f7f74a6f38276cd6f291ad", 
+      "venue": "ArXiv", 
+      "year": 2017
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "8f8f19ccbd3ed7be989ca5484ad5c6228be1f9f5", 
+      "title": "On Efficiency of Semantic Relation Extraction through Low-dimensional Distributed Representations for Substrings", 
+      "url": "https://www.semanticscholar.org/paper/8f8f19ccbd3ed7be989ca5484ad5c6228be1f9f5", 
+      "venue": "2015 IEEE 17th International Conference on High Performance Computing and Communications, 2015 IEEE 7th International Symposium on Cyberspace Safety and Security, and 2015 IEEE 12th International Conference on Embedded Software and Systems", 
+      "year": 2015
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "ad173d9dea5c9c823bb58639935d5dc29deec9b8", 
+      "title": "A Convolutional Architecture for Short Text Expansion and Classification", 
+      "url": "https://www.semanticscholar.org/paper/ad173d9dea5c9c823bb58639935d5dc29deec9b8", 
+      "venue": "2015 IEEE/WIC/ACM International Conference on Web Intelligence and Intelligent Agent Technology (WI-IAT)", 
+      "year": 2015
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "a634d73ed032389417f57636b8039a5ac50be719", 
+      "title": "Low-Resource Cross-Domain Product Review Sentiment Classification Based on a CNN with an Auxiliary Large-Scale Corpus", 
+      "url": "https://www.semanticscholar.org/paper/a634d73ed032389417f57636b8039a5ac50be719", 
+      "venue": "", 
+      "year": 2017
+    }, 
+    {
+      "isInfluential": true, 
+      "paperId": "c64a0d315e4795996836c06fdd1183d9ab915153", 
+      "title": "Relation Extraction: Perspective from Convolutional Neural Networks", 
+      "url": "https://www.semanticscholar.org/paper/c64a0d315e4795996836c06fdd1183d9ab915153", 
+      "venue": "VS@HLT-NAACL", 
+      "year": 2015
+    }, 
+    {
+      "isInfluential": true, 
+      "paperId": "6cee5ca5ddef9a8ef3187bd0b5bd594faf5e5e48", 
+      "title": "Combining Word-Level and Character-Level Representations for Relation Classification of Informal Text", 
+      "url": "https://www.semanticscholar.org/paper/6cee5ca5ddef9a8ef3187bd0b5bd594faf5e5e48", 
+      "venue": "", 
+      "year": 2017
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "b4ce981138ebb5fdcaa652f135587e35b52a082d", 
+      "title": "Short Text Clustering via Convolutional Neural Networks", 
+      "url": "https://www.semanticscholar.org/paper/b4ce981138ebb5fdcaa652f135587e35b52a082d", 
+      "venue": "VS@HLT-NAACL", 
+      "year": 2015
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "8a4b59657b4d9b64148c9eb3e04a16a24f79a7f9", 
+      "title": "Global Relation Embedding for Relation Extraction", 
+      "url": "https://www.semanticscholar.org/paper/8a4b59657b4d9b64148c9eb3e04a16a24f79a7f9", 
+      "venue": "ArXiv", 
+      "year": 2017
+    }, 
+    {
+      "isInfluential": true, 
+      "paperId": "661bee4278c82e7ad8ef5fbe73c9692d0d83a524", 
+      "title": "A Position Encoding Convolutional Neural Network Based on Dependency Tree for Relation Classification", 
+      "url": "https://www.semanticscholar.org/paper/661bee4278c82e7ad8ef5fbe73c9692d0d83a524", 
+      "venue": "EMNLP", 
+      "year": 2016
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "6ebf0f125fca67d08379672e0806e75e5a362474", 
+      "title": "Aspect-Based Sentiment Analysis Using a Two-Step Neural Network Architecture", 
+      "url": "https://www.semanticscholar.org/paper/6ebf0f125fca67d08379672e0806e75e5a362474", 
+      "venue": "SemWebEval@ESWC", 
+      "year": 2016
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "61e138228a186f7a0801fbec1df5c86b0b25978c", 
+      "title": "Exploring Different Dimensions of Attention for Uncertainty Detection", 
+      "url": "https://www.semanticscholar.org/paper/61e138228a186f7a0801fbec1df5c86b0b25978c", 
+      "venue": "EACL", 
+      "year": 2017
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "608ec914e356ff5e5782c908016958bf650a946f", 
+      "title": "CogALex-V Shared Task: GHHH - Detecting Semantic Relations via Word Embeddings", 
+      "url": "https://www.semanticscholar.org/paper/608ec914e356ff5e5782c908016958bf650a946f", 
+      "venue": "", 
+      "year": 2016
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "57a46a956bfed65023e680055ba35eb8a2155c3a", 
+      "title": "Neural Network Based Next-Song Recommendation", 
+      "url": "https://www.semanticscholar.org/paper/57a46a956bfed65023e680055ba35eb8a2155c3a", 
+      "venue": "ArXiv", 
+      "year": 2016
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "8731369a707046f3f8dd463d1fd107de31d40a24", 
+      "title": "Relation Extraction with Multi-instance Multi-label Convolutional Neural Networks", 
+      "url": "https://www.semanticscholar.org/paper/8731369a707046f3f8dd463d1fd107de31d40a24", 
+      "venue": "COLING", 
+      "year": 2016
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "8b2623e2d1f939a7cf169ac8b81e4bde615c85c4", 
+      "title": "ECNU: Multi-level Sentiment Analysis on Twitter Using Traditional Linguistic Features and Word Embedding Features", 
+      "url": "https://www.semanticscholar.org/paper/8b2623e2d1f939a7cf169ac8b81e4bde615c85c4", 
+      "venue": "SemEval@NAACL-HLT", 
+      "year": 2015
+    }, 
+    {
+      "isInfluential": true, 
+      "paperId": "c59fec68cf8c3dcb5156c5b438b4634c7b95b198", 
+      "title": "Drug drug interaction extraction from biomedical literature using syntax convolutional neural network", 
+      "url": "https://www.semanticscholar.org/paper/c59fec68cf8c3dcb5156c5b438b4634c7b95b198", 
+      "venue": "Bioinformatics", 
+      "year": 2016
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "86d94179b8b4c2bbd826894d578a4bcbe597b9ce", 
+      "title": "Drug-drug Interaction Extraction via Recurrent Neural Network with Multiple Attention Layers", 
+      "url": "https://www.semanticscholar.org/paper/86d94179b8b4c2bbd826894d578a4bcbe597b9ce", 
+      "venue": "ArXiv", 
+      "year": 2017
+    }, 
+    {
+      "isInfluential": true, 
+      "paperId": "02017f6d6465586eccc7a39f212958ed9d70dec3", 
+      "title": "Semantic Relation Classification via Convolutional Neural Networks with Simple Negative Sampling", 
+      "url": "https://www.semanticscholar.org/paper/02017f6d6465586eccc7a39f212958ed9d70dec3", 
+      "venue": "EMNLP", 
+      "year": 2015
+    }, 
+    {
+      "isInfluential": true, 
+      "paperId": "0f36511d47596b91b8d3db265e4ca7bafc0b15a4", 
+      "title": "Relation Classification via Recurrent Neural Network", 
+      "url": "https://www.semanticscholar.org/paper/0f36511d47596b91b8d3db265e4ca7bafc0b15a4", 
+      "venue": "ArXiv", 
+      "year": 2015
+    }, 
+    {
+      "isInfluential": true, 
+      "paperId": "672c8bf27fd6c04d34496e359844f1f9d95ed1e4", 
+      "title": "Neural Relation Extraction with Multi-lingual Attention", 
+      "url": "https://www.semanticscholar.org/paper/672c8bf27fd6c04d34496e359844f1f9d95ed1e4", 
+      "venue": "ACL", 
+      "year": 2017
+    }, 
+    {
+      "isInfluential": true, 
+      "paperId": "ec088eaa03e687fb816ffa5b9141fe7f831a644d", 
+      "title": "Aspect-Based Relational Sentiment Analysis Using a Stacked Neural Network Architecture", 
+      "url": "https://www.semanticscholar.org/paper/ec088eaa03e687fb816ffa5b9141fe7f831a644d", 
+      "venue": "ECAI", 
+      "year": 2016
+    }, 
+    {
+      "isInfluential": true, 
+      "paperId": "987df9fc48ed56c8ca459f8a95fea5f234f26baa", 
+      "title": "Designing an adaptive attention mechanism for relation classification", 
+      "url": "https://www.semanticscholar.org/paper/987df9fc48ed56c8ca459f8a95fea5f234f26baa", 
+      "venue": "2017 International Joint Conference on Neural Networks (IJCNN)", 
+      "year": 2017
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "df7869df2490519906650c574c3e8fd7c7fc3f73", 
+      "title": "A Review of Relation Classification with Convolutional Neural Network", 
+      "url": "https://www.semanticscholar.org/paper/df7869df2490519906650c574c3e8fd7c7fc3f73", 
+      "venue": "", 
+      "year": 2016
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "53dbfd3bfdf271efe8acb35890b48728deeffe86", 
+      "title": "A Comparative Study on Regularization Strategies for Embedding-based Neural Networks", 
+      "url": "https://www.semanticscholar.org/paper/53dbfd3bfdf271efe8acb35890b48728deeffe86", 
+      "venue": "EMNLP", 
+      "year": 2015
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "e0cfbedb24c48e75c2b84c26f947eebbd994ce38", 
+      "title": "Hierarchical Classification with Convolutional Neural Networks for Biomedical Literature", 
+      "url": "https://www.semanticscholar.org/paper/e0cfbedb24c48e75c2b84c26f947eebbd994ce38", 
+      "venue": "", 
+      "year": 2016
+    }, 
+    {
+      "isInfluential": true, 
+      "paperId": "246c41dd8742d7c5740d0723e6559d8d97d29d77", 
+      "title": "A Bi-LSTM-RNN Model for Relation Classification Using Low-Cost Sequence Features", 
+      "url": "https://www.semanticscholar.org/paper/246c41dd8742d7c5740d0723e6559d8d97d29d77", 
+      "venue": "ArXiv", 
+      "year": 2016
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "356740949cda86fc48d13d9715c5881e86d9e16c", 
+      "title": "Jointly Extracting Relations with Class Ties via Effective Deep Ranking", 
+      "url": "https://www.semanticscholar.org/paper/356740949cda86fc48d13d9715c5881e86d9e16c", 
+      "venue": "ACL", 
+      "year": 2017
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "582d3b98ee50878542214ee751a51d98dd24399f", 
+      "title": "A Language-Independent Neural Network for Event Detection", 
+      "url": "https://www.semanticscholar.org/paper/582d3b98ee50878542214ee751a51d98dd24399f", 
+      "venue": "ACL", 
+      "year": 2016
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "b55914835f920af2879182c4499a6f31d5edd200", 
+      "title": "Building Knowledge Bases with Universal Schema: Cold Start and Slot-Filling Approaches", 
+      "url": "https://www.semanticscholar.org/paper/b55914835f920af2879182c4499a6f31d5edd200", 
+      "venue": "", 
+      "year": 2015
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "bfa7c7088ac187358461f8572c8254827742497c", 
+      "title": "Semantic indexing with deep learning: a case study", 
+      "url": "https://www.semanticscholar.org/paper/bfa7c7088ac187358461f8572c8254827742497c", 
+      "venue": "", 
+      "year": 2016
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "29990c3f2d38b052414886bae5f35cbac8224033", 
+      "title": "M$^2$S-Net: Multi-Modal Similarity Metric Learning based Deep Convolutional Network for Answer Selection", 
+      "url": "https://www.semanticscholar.org/paper/29990c3f2d38b052414886bae5f35cbac8224033", 
+      "venue": "ArXiv", 
+      "year": 2016
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "d5c07c90b2c02e8af013d562f1d375440906047d", 
+      "title": "Entity recognition from clinical texts via recurrent neural network", 
+      "url": "https://www.semanticscholar.org/paper/d5c07c90b2c02e8af013d562f1d375440906047d", 
+      "venue": "BMC Med. Inf. & Decision Making", 
+      "year": 2017
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "30d42515df2900edce9b386ea17e4a4e2584fd4c", 
+      "title": "Event Detection and Domain Adaptation with Convolutional Neural Networks", 
+      "url": "https://www.semanticscholar.org/paper/30d42515df2900edce9b386ea17e4a4e2584fd4c", 
+      "venue": "ACL", 
+      "year": 2015
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "3f8b54ef69b2c8682a76f074110be0f11815f63a", 
+      "title": "Combining Neural Networks and Log-linear Models to Improve Relation Extraction", 
+      "url": "https://www.semanticscholar.org/paper/3f8b54ef69b2c8682a76f074110be0f11815f63a", 
+      "venue": "ArXiv", 
+      "year": 2015
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "0809888b6eba8f95e00180f57b77145af84721a6", 
+      "title": "Joint Extraction of Entities and Relations Based on a Novel Tagging Scheme", 
+      "url": "https://www.semanticscholar.org/paper/0809888b6eba8f95e00180f57b77145af84721a6", 
+      "venue": "ACL", 
+      "year": 2017
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "8b9976306009a7f09aefc5ef252dc676e0814577", 
+      "title": "Identifying civilians killed by police with distantly supervised entity-event extraction", 
+      "url": "https://www.semanticscholar.org/paper/8b9976306009a7f09aefc5ef252dc676e0814577", 
+      "venue": "ArXiv", 
+      "year": 2017
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "2a4604f550ab0cd8027d4f3f968112fba3ae2c44", 
+      "title": "ASM Kernel: Graph Kernel using Approximate Subgraph Matching for Relation Extraction", 
+      "url": "https://www.semanticscholar.org/paper/2a4604f550ab0cd8027d4f3f968112fba3ae2c44", 
+      "venue": "", 
+      "year": 2016
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "62730a93722b2abbfbdbaa566569550f7e175e72", 
+      "title": "A language-independent hybrid approach for multi-word expression extraction", 
+      "url": "https://www.semanticscholar.org/paper/62730a93722b2abbfbdbaa566569550f7e175e72", 
+      "venue": "2017 International Joint Conference on Neural Networks (IJCNN)", 
+      "year": 2017
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "77f9c306868f02f6412c704169270a66ef680c87", 
+      "title": "DeepPath: A Reinforcement Learning Method for Knowledge Graph Reasoning", 
+      "url": "https://www.semanticscholar.org/paper/77f9c306868f02f6412c704169270a66ef680c87", 
+      "venue": "ArXiv", 
+      "year": 2017
+    }, 
+    {
+      "isInfluential": true, 
+      "paperId": "87dad2ca0f327b3f874893cafe7e9afbba4fb856", 
+      "title": "A Customized Attention-Based Long Short-Term Memory Network for Distant Supervised Relation Extraction.", 
+      "url": "https://www.semanticscholar.org/paper/87dad2ca0f327b3f874893cafe7e9afbba4fb856", 
+      "venue": "Neural computation", 
+      "year": 2017
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "fa6d999f9fd6ecfa62347ed729650123361491f5", 
+      "title": "Improving Slot Filling Performance with Attentive Neural Networks on Dependency Structures", 
+      "url": "https://www.semanticscholar.org/paper/fa6d999f9fd6ecfa62347ed729650123361491f5", 
+      "venue": "ArXiv", 
+      "year": 2017
+    }, 
+    {
+      "isInfluential": true, 
+      "paperId": "6b8b2075319accc23fef43e4cf76bc3682189d82", 
+      "title": "Attention-Based Bidirectional Long Short-Term Memory Networks for Relation Classification", 
+      "url": "https://www.semanticscholar.org/paper/6b8b2075319accc23fef43e4cf76bc3682189d82", 
+      "venue": "ACL", 
+      "year": 2016
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "4c143a1ad80437a352dcf9befc861be50ce2f743", 
+      "title": "Event-Related Features in Feedforward Neural Networks Contribute to Identifying Causal Relations in Discourse", 
+      "url": "https://www.semanticscholar.org/paper/4c143a1ad80437a352dcf9befc861be50ce2f743", 
+      "venue": "", 
+      "year": 2017
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "27ad842450b436098c99282d26402b9a8bb6d270", 
+      "title": "Distributional Representations of Words for Short Text Classification", 
+      "url": "https://www.semanticscholar.org/paper/27ad842450b436098c99282d26402b9a8bb6d270", 
+      "venue": "VS@HLT-NAACL", 
+      "year": 2015
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "1914e23d45c9cb91a62a5676c8adbb08e4baa660", 
+      "title": "Hierarchical Memory Networks for Answer Selection on Unknown Words", 
+      "url": "https://www.semanticscholar.org/paper/1914e23d45c9cb91a62a5676c8adbb08e4baa660", 
+      "venue": "COLING", 
+      "year": 2016
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "02d5d1019503025900b996999ed7ef652f83b4f1", 
+      "title": "Challenges in Data-to-Document Generation", 
+      "url": "https://www.semanticscholar.org/paper/02d5d1019503025900b996999ed7ef652f83b4f1", 
+      "venue": "ArXiv", 
+      "year": 2017
+    }, 
+    {
+      "isInfluential": true, 
+      "paperId": "03a2f871cc841e8047ab3291806dc301c5144bec", 
+      "title": "Cross-Sentence N-ary Relation Extraction with Graph LSTMs", 
+      "url": "https://www.semanticscholar.org/paper/03a2f871cc841e8047ab3291806dc301c5144bec", 
+      "venue": "TACL", 
+      "year": 2017
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "d9342162e60aa6d58a11b83fb9b061e7cfd6e619", 
+      "title": "A Linguistically Informed Convolutional Neural Network", 
+      "url": "https://www.semanticscholar.org/paper/d9342162e60aa6d58a11b83fb9b061e7cfd6e619", 
+      "venue": "WASSA@EMNLP", 
+      "year": 2015
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "45f7bf79a377edb5182d48e9ba4108d94173ab4a", 
+      "title": "Visual Cortex Inspired CNN Model for Feature Construction in Text Analysis", 
+      "url": "https://www.semanticscholar.org/paper/45f7bf79a377edb5182d48e9ba4108d94173ab4a", 
+      "venue": "Front. Comput. Neurosci.", 
+      "year": 2016
+    }, 
+    {
+      "isInfluential": true, 
+      "paperId": "31e82eadc84f1e0d9495987d1afd5c07933d1b27", 
+      "title": "Pairwise Relation Classification with Mirror Instances and a Combined Convolutional Neural Network", 
+      "url": "https://www.semanticscholar.org/paper/31e82eadc84f1e0d9495987d1afd5c07933d1b27", 
+      "venue": "COLING", 
+      "year": 2016
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "3261ebccc1ef892cd5a8e40ab70430ea202fa009", 
+      "title": "A Survey of Distant Supervision Methods using PGMs", 
+      "url": "https://www.semanticscholar.org/paper/3261ebccc1ef892cd5a8e40ab70430ea202fa009", 
+      "venue": "ArXiv", 
+      "year": 2017
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "83ea4a7b3d9a4997214fb8972053376734f1d905", 
+      "title": "Sentiment classification using Comprehensive Attention Recurrent models", 
+      "url": "https://www.semanticscholar.org/paper/83ea4a7b3d9a4997214fb8972053376734f1d905", 
+      "venue": "2016 International Joint Conference on Neural Networks (IJCNN)", 
+      "year": 2016
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "cbf933d2d3dd2c7da85c0e87c126e9263f28aae5", 
+      "title": "Cascaded Convolutional Neural Networks for Aspect-Based Opinion Summary", 
+      "url": "https://www.semanticscholar.org/paper/cbf933d2d3dd2c7da85c0e87c126e9263f28aae5", 
+      "venue": "Neural Processing Letters", 
+      "year": 2017
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "e491401c5578e2cf7d660492b69f98caf61a43a3", 
+      "title": "Relation Classification Via Modeling Augmented Dependency Paths", 
+      "url": "https://www.semanticscholar.org/paper/e491401c5578e2cf7d660492b69f98caf61a43a3", 
+      "venue": "IEEE/ACM Transactions on Audio, Speech, and Language Processing", 
+      "year": 2016
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "e0f9406437eef33b110867d09c14655cb167545c", 
+      "title": "Semantic Representations for Domain Adaptation: A Case Study on the Tree Kernel-based Method for Relation Extraction", 
+      "url": "https://www.semanticscholar.org/paper/e0f9406437eef33b110867d09c14655cb167545c", 
+      "venue": "ACL", 
+      "year": 2015
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "c999a3a9551dd679ba56c1fbf0d2ea3b3e94162b", 
+      "title": "Distant Supervision for Relation Extraction via Piecewise Convolutional Neural Networks", 
+      "url": "https://www.semanticscholar.org/paper/c999a3a9551dd679ba56c1fbf0d2ea3b3e94162b", 
+      "venue": "EMNLP", 
+      "year": 2015
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "efa31c8aa16d3f67b9618afbc8f61c08a436da83", 
+      "title": "Self-Taught Convolutional Neural Networks for Short Text Clustering", 
+      "url": "https://www.semanticscholar.org/paper/efa31c8aa16d3f67b9618afbc8f61c08a436da83", 
+      "venue": "Neural Networks", 
+      "year": 2017
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "3450fa0391c01df9bb3c38797ded1110a59fd777", 
+      "title": "Task-Oriented Learning of Word Embeddings for Semantic Relation Classification", 
+      "url": "https://www.semanticscholar.org/paper/3450fa0391c01df9bb3c38797ded1110a59fd777", 
+      "venue": "CoNLL", 
+      "year": 2015
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "171ea274f75c61340b7ce0c1c29832b723ac831c", 
+      "title": "Classifying Relations via Long Short Term Memory Networks along Shortest Dependency Path", 
+      "url": "https://www.semanticscholar.org/paper/171ea274f75c61340b7ce0c1c29832b723ac831c", 
+      "venue": "ArXiv", 
+      "year": 2015
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "635e386ddb49eee1a16af602faedcfd4703a7c6e", 
+      "title": "Relation Enhanced Neural Model for Type Classification of Entity Mentions with a Fine-Grained Taxonomy", 
+      "url": "https://www.semanticscholar.org/paper/635e386ddb49eee1a16af602faedcfd4703a7c6e", 
+      "venue": "Journal of Computer Science and Technology", 
+      "year": 2017
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "53c05bc02c8c487cba988c3d5d8a13e3a7fe2ff2", 
+      "title": "WLSI-OIAF4HLT 2016 Third International Workshop on Worldwide Language Service Infrastructure and Second Workshop on Open Infrastructures and Analysis Frameworks for Human Language Technologies", 
+      "url": "https://www.semanticscholar.org/paper/53c05bc02c8c487cba988c3d5d8a13e3a7fe2ff2", 
+      "venue": "", 
+      "year": 2016
+    }, 
+    {
+      "isInfluential": true, 
+      "paperId": "8f5e0230ce592c2ddfa17bec0ddb9efe05e6b1d4", 
+      "title": "Deep Residual Learning for Weakly-Supervised Relation Extraction", 
+      "url": "https://www.semanticscholar.org/paper/8f5e0230ce592c2ddfa17bec0ddb9efe05e6b1d4", 
+      "venue": "ArXiv", 
+      "year": 2017
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "7f1b0539bec01e52c4ffa5543c5ed55880dead55", 
+      "title": "Neural Temporal Relation Extraction", 
+      "url": "https://www.semanticscholar.org/paper/7f1b0539bec01e52c4ffa5543c5ed55880dead55", 
+      "venue": "EACL", 
+      "year": 2017
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "79589b3f441b2d3b16bf69f79dddb946f07b879b", 
+      "title": "Unsupervised Pre-training With Sequence Reconstruction Loss for Deep Relation Extraction Models", 
+      "url": "https://www.semanticscholar.org/paper/79589b3f441b2d3b16bf69f79dddb946f07b879b", 
+      "venue": "", 
+      "year": 2016
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "1e96daf848daa66a43272a1f42950963b6df6aa7", 
+      "title": "Exploring convolutional neural networks for drug\u2013drug interaction extraction", 
+      "url": "https://www.semanticscholar.org/paper/1e96daf848daa66a43272a1f42950963b6df6aa7", 
+      "venue": "Database : the journal of biological databases and curation", 
+      "year": 2017
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "11b9cca5ff1644f07e31763ed0f1e41d18226992", 
+      "title": "Toward Mention Detection Robustness with Recurrent Neural Networks", 
+      "url": "https://www.semanticscholar.org/paper/11b9cca5ff1644f07e31763ed0f1e41d18226992", 
+      "venue": "ArXiv", 
+      "year": 2016
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "19d78d8c072b60294792c523742a8609accf3890", 
+      "title": "A Primer on Neural Network Models for Natural Language Processing", 
+      "url": "https://www.semanticscholar.org/paper/19d78d8c072b60294792c523742a8609accf3890", 
+      "venue": "J. Artif. Intell. Res.", 
+      "year": 2016
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "a76f35b1c081ed4fceb895136751db0e4e195142", 
+      "title": "Knowledge base population using semantic label propagation", 
+      "url": "https://www.semanticscholar.org/paper/a76f35b1c081ed4fceb895136751db0e4e195142", 
+      "venue": "Knowl.-Based Syst.", 
+      "year": 2016
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "893c2f504877e4878b93f5f7b907ae497f95e3db", 
+      "title": "Semantic Clustering and Convolutional Neural Network for Short Text Categorization", 
+      "url": "https://www.semanticscholar.org/paper/893c2f504877e4878b93f5f7b907ae497f95e3db", 
+      "venue": "ACL", 
+      "year": 2015
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "45b0d948217d4578b71687549fbfdd797dc03c5b", 
+      "title": "Intra-Sentential Subject Zero Anaphora Resolution using Multi-Column Convolutional Neural Network", 
+      "url": "https://www.semanticscholar.org/paper/45b0d948217d4578b71687549fbfdd797dc03c5b", 
+      "venue": "EMNLP", 
+      "year": 2016
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "0b40812ea7c164bc04bea8cb29e6e7b201720aad", 
+      "title": "Exploring Research Networks with Data Science: A Data-Driven Microservice Architecture for Synergy Detection", 
+      "url": "https://www.semanticscholar.org/paper/0b40812ea7c164bc04bea8cb29e6e7b201720aad", 
+      "venue": "2016 IEEE 4th International Conference on Future Internet of Things and Cloud Workshops (FiCloudW)", 
+      "year": 2016
+    }
+  ], 
+  "doi": null, 
+  "influentialCitationCount": 28, 
+  "paperId": "76327da3ad7f9c04b7c194ec78d30d11da5b4c34", 
+  "references": [
+    {
+      "isInfluential": false, 
+      "paperId": "9039e7ce523fe712cb56008283f158fda6783e3e", 
+      "title": "A Shortest Path Dependency Kernel for Relation Extraction", 
+      "url": "https://www.semanticscholar.org/paper/9039e7ce523fe712cb56008283f158fda6783e3e", 
+      "venue": "HLT/EMNLP", 
+      "year": 2005
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "282920c72e7c89011ac27d18b853f7cba33ef1d4", 
+      "title": "Combining linguistic and statistical analysis to extract relations from web documents", 
+      "url": "https://www.semanticscholar.org/paper/282920c72e7c89011ac27d18b853f7cba33ef1d4", 
+      "venue": "KDD", 
+      "year": 2006
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "307e36662defe8e8903008afd8492fcede8ccb90", 
+      "title": "Combining Lexical, Syntactic, And Semantic Features With Maximum Entropy Models For Information Extraction", 
+      "url": "https://www.semanticscholar.org/paper/307e36662defe8e8903008afd8492fcede8ccb90", 
+      "venue": "", 
+      "year": 2004
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "16f63ebc5b393524b48932946cb1ba3b6ac5c702", 
+      "title": "Simple Customization of Recursive Neural Networks for Semantic Relation Classification", 
+      "url": "https://www.semanticscholar.org/paper/16f63ebc5b393524b48932946cb1ba3b6ac5c702", 
+      "venue": "EMNLP", 
+      "year": 2013
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "2c146a4ec3578f951e895d6c2fe3386860433f0b", 
+      "title": "SemEval-2010 Task 8: Multi-Way Classification of Semantic Relations between Pairs of Nominals", 
+      "url": "https://www.semanticscholar.org/paper/2c146a4ec3578f951e895d6c2fe3386860433f0b", 
+      "venue": "SemEval@ACL", 
+      "year": 2009
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "9ec95ff338ec319584f54b5b90398126b939332d", 
+      "title": "Kernel Methods for Relation Extraction", 
+      "url": "https://www.semanticscholar.org/paper/9ec95ff338ec319584f54b5b90398126b939332d", 
+      "venue": "Journal of Machine Learning Research", 
+      "year": 2002
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "2b4dd276f4a8c1b0ba2670331364f7b4885322b9", 
+      "title": "Discovering Relations among Named Entities from Large Corpora", 
+      "url": "https://www.semanticscholar.org/paper/2b4dd276f4a8c1b0ba2670331364f7b4885322b9", 
+      "venue": "ACL", 
+      "year": 2004
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "d48edf9e81653f4c3da716b037b0b50d54c5b034", 
+      "title": "Knowledge-Based Weak Supervision for Information Extraction of Overlapping Relations", 
+      "url": "https://www.semanticscholar.org/paper/d48edf9e81653f4c3da716b037b0b50d54c5b034", 
+      "venue": "ACL", 
+      "year": 2011
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "7fcd573b2742aa86ab7966f408f20ad0b5e0de96", 
+      "title": "Unsupervised Feature Selection for Relation Extraction", 
+      "url": "https://www.semanticscholar.org/paper/7fcd573b2742aa86ab7966f408f20ad0b5e0de96", 
+      "venue": "", 
+      "year": 2005
+    }, 
+    {
+      "isInfluential": true, 
+      "paperId": "2538e3eb24d26f31482c479d95d2e26c0e79b990", 
+      "title": "Natural Language Processing (almost) from Scratch", 
+      "url": "https://www.semanticscholar.org/paper/2538e3eb24d26f31482c479d95d2e26c0e79b990", 
+      "venue": "Journal of Machine Learning Research", 
+      "year": 2011
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "4ddc50872565143da319ce85dff2b906a3f734c5", 
+      "title": "Subsequence Kernels for Relation Extraction", 
+      "url": "https://www.semanticscholar.org/paper/4ddc50872565143da319ce85dff2b906a3f734c5", 
+      "venue": "NIPS", 
+      "year": 2005
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "8f8139b63a2fc0b3ae8413acaef47acd35a356e0", 
+      "title": "Distant supervision for relation extraction without labeled data", 
+      "url": "https://www.semanticscholar.org/paper/8f8139b63a2fc0b3ae8413acaef47acd35a356e0", 
+      "venue": "ACL/IJCNLP", 
+      "year": 2009
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "db550f7af299157c67d7f1874bf784dca10ce4a9", 
+      "title": "Modeling Relations and Their Mentions without Labeled Text", 
+      "url": "https://www.semanticscholar.org/paper/db550f7af299157c67d7f1874bf784dca10ce4a9", 
+      "venue": "ECML/PKDD", 
+      "year": 2010
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "bc0d68391c13ee42faa5f07a2816c2d97fbf0435", 
+      "title": "A Review of Relation Extraction", 
+      "url": "https://www.semanticscholar.org/paper/bc0d68391c13ee42faa5f07a2816c2d97fbf0435", 
+      "venue": "", 
+      "year": 2007
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "68cd1c7c0651b116a83abab8a7a46a29975d3b5f", 
+      "title": "Exploring Various Knowledge in Relation Extraction", 
+      "url": "https://www.semanticscholar.org/paper/68cd1c7c0651b116a83abab8a7a46a29975d3b5f", 
+      "venue": "ACL", 
+      "year": 2005
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "27e38351e48fe4b7da2775bf94341738bc4da07e", 
+      "title": "Semantic Compositionality through Recursive Matrix-Vector Spaces", 
+      "url": "https://www.semanticscholar.org/paper/27e38351e48fe4b7da2775bf94341738bc4da07e", 
+      "venue": "EMNLP-CoNLL", 
+      "year": 2012
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "5a4450ae8a92d7d34131620531ba5e5cb853148b", 
+      "title": "Reducing Wrong Labels in Distant Supervision for Relation Extraction", 
+      "url": "https://www.semanticscholar.org/paper/5a4450ae8a92d7d34131620531ba5e5cb853148b", 
+      "venue": "ACL", 
+      "year": 2012
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "4c15b129a8da55127e4e2fe47f54799d0a313367", 
+      "title": "Word Representations: A Simple and General Method for Semi-Supervised Learning", 
+      "url": "https://www.semanticscholar.org/paper/4c15b129a8da55127e4e2fe47f54799d0a313367", 
+      "venue": "ACL", 
+      "year": 2010
+    }, 
+    {
+      "isInfluential": false, 
+      "paperId": "5ff4f203895d52277f10970c58724c19277fa65a", 
+      "title": "Exploiting Constituent Dependencies for Tree Kernel-Based Semantic Relation Extraction", 
+      "url": "https://www.semanticscholar.org/paper/5ff4f203895d52277f10970c58724c19277fa65a", 
+      "venue": "COLING", 
+      "year": 2008
+    }
+  ], 
+  "title": "Relation Classification via Convolutional Deep Neural Network", 
+  "url": "https://www.semanticscholar.org/paper/76327da3ad7f9c04b7c194ec78d30d11da5b4c34", 
+  "venue": "COLING", 
+  "year": 2014
+}
