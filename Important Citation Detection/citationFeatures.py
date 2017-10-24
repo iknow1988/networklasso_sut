@@ -245,8 +245,4 @@ def keyphraseSimilarity():
                 print count, ': Not found abstract'
 #             print count
             count = count  + 1
-    outputFile.close()   
-def main():
-    commonAuthors()
-if __name__ =='__main__':
-    main()
+    outputFile.close()
